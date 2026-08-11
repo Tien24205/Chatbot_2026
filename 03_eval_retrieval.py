@@ -17,16 +17,10 @@ Chạy:  .venv\\Scripts\\python.exe 03_eval_retrieval.py
 from __future__ import annotations
 
 import json
-import sys
-from pathlib import Path
 
-HERE = Path(__file__).resolve().parent
-if str(HERE) not in sys.path:
-    sys.path.insert(0, str(HERE))
+from rag import config, embedder, store
 
-from rag import embedder, store
-
-QUESTIONS_FILE = HERE / "eval_questions.json"
+QUESTIONS_FILE = config.PROJECT_DIR / "eval_questions.json"
 TOP_K = 5
 
 
@@ -38,8 +32,7 @@ def main() -> None:
     print("BƯỚC 6 — ĐÁNH GIÁ RETRIEVAL")
     print("=" * 74)
 
-    conn = store.connect()
-    with conn:
+    with store.connect_or_exit(require_chunks=True) as conn:
         total_chunks = store.count(conn)
         print(f"\n  {len(questions)} câu hỏi · {total_chunks} chunk trong database · top-{TOP_K}\n")
 

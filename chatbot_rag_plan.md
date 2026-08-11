@@ -658,13 +658,20 @@ thuật ngữ game, khiến người đọc tưởng đã đối chiếu chéo.
 - [x] Hiển thị câu trả lời + trích nguồn + số liệu latency.
 - [x] Tạo API backend — `api.py` (FastAPI): `POST /api/chat`, `GET /api/health`,
       `DELETE /api/chat/{session_id}`.
-- [x] Tạo giao diện chat web — `web/`, HTML/CSS/JS thuần, không framework.
+- [x] Tạo giao diện chat web — ban đầu là `web/`, HTML/CSS/JS thuần, không framework.
 - [x] Kết nối frontend → backend — cùng origin, không cần CORS.
 - [x] Kiểm thử API — `05_test_api.py`, 13/13 PASS qua HTTP thật.
+- [x] **Làm lại giao diện bằng Streamlit** — `streamlit_app.py` thay hẳn `web/`.
+      Nó gọi THẲNG `rag.pipeline` chứ không qua HTTP: Streamlit đã là một tiến
+      trình Python đầy đủ, đi vòng qua API của chính mình chỉ tổ phải chạy hai
+      server và nhân đôi chỗ lưu lịch sử hội thoại. `web/` đã xoá; `api.py` giữ
+      lại làm REST API thuần và vẫn được `05_test_api.py` kiểm thử.
 
 ```powershell
-.venv\Scripts\python.exe -m uvicorn api:app --reload --port 8000
-# mở http://localhost:8000
+.venv\Scripts\python.exe -m streamlit run streamlit_app.py
+# mở http://localhost:8501
+
+.venv\Scripts\python.exe -m uvicorn api:app --reload --port 8000  # REST API, /docs
 ```
 
 **Hạn mức Gemini free tier — đo được, không phải đọc tài liệu:**

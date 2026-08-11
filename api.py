@@ -1,33 +1,25 @@
 """
-BƯỚC 8 (backend) — API cho giao diện chat web.
+BƯỚC 8 (backend) — REST API thuần.
 
 Chạy:
   .venv\\Scripts\\python.exe -m uvicorn api:app --reload --port 8000
-Rồi mở http://localhost:8000
+Tài liệu API tự sinh: http://localhost:8000/docs
 
-Toàn bộ logic RAG nằm trong rag/pipeline.py. File này chỉ làm ba việc:
-lưu lịch sử theo phiên, gọi pipeline, và phục vụ file tĩnh.
+KHÔNG phục vụ giao diện. Giao diện chat là streamlit_app.py, và nó gọi thẳng
+rag.pipeline chứ không đi qua API này — nên file ở đây chỉ còn đúng hai việc:
+lưu lịch sử theo phiên và gọi pipeline.
+
+Toàn bộ logic RAG nằm trong rag/pipeline.py.
 """
 
 from __future__ import annotations
 
-import sys
-from pathlib import Path
-
-HERE = Path(__file__).resolve().parent
-if str(HERE) not in sys.path:
-    sys.path.insert(0, str(HERE))
-
 from fastapi import FastAPI, HTTPException
 from fastapi.responses import JSONResponse
-from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel, Field
 
 from rag import config, graph, pipeline, store
 from rag.retry import RateLimited
-
-WEB_DIR = HERE / "web"
-MAX_HISTORY_TURNS = 6
 
 app = FastAPI(title="Chatbot RAG — Kiến thức Game")
 
@@ -68,6 +60,17 @@ class ChatResponse(BaseModel):
     unsupported: list[str]  # lớp 5 (LLM soát entailment)
     entailment_ran: bool
     graph_expanded: int  # số chunk do đồ thị bổ sung
+
+
+@app.get("/")
+def index() -> dict:
+    """Chỉ đường, vì gốc "/" trước đây trả về giao diện chat nên có người còn mở."""
+    return {
+        "service": "Chatbot RAG — Kiến thức Game (REST API)",
+        "docs": "/docs",
+        "endpoints": ["/api/health", "/api/graph", "/api/chat"],
+        "giao_dien": "streamlit run streamlit_app.py -> http://localhost:8501",
+    }
 
 
 @app.get("/api/health")
@@ -128,14 +131,10 @@ def chat(req: ChatRequest) -> ChatResponse:
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Lỗi xử lý: {e}") from e
 
-    # Chỉ ghi lịch sử khi thực sự trả lời được. Nếu ghi cả lượt bị từ chối, LLM sẽ
-    # thấy mẫu "hỏi -> từ chối" và dễ từ chối lây sang các câu sau vốn trả lời được.
-    if not ans.refused:
-        history.append({"role": "user", "parts": [{"text": req.message}]})
-        history.append({"role": "model", "parts": [{"text": ans.text}]})
-        del history[: max(0, len(history) - MAX_HISTORY_TURNS * 2)]
+    # Tự bỏ qua lượt bị từ chối — xem pipeline.remember.
+    pipeline.remember(history, req.message, ans)
 
-    cited = {c for c in ans.citations}
+    cited = set(ans.citations)
     return ChatResponse(
         answer=ans.text,
         citations=[
@@ -169,7 +168,3 @@ def chat(req: ChatRequest) -> ChatResponse:
 def reset(session_id: str) -> dict:
     _sessions.pop(session_id, None)
     return {"status": "ok"}
-
-
-# Mount SAU các route /api, nếu không nó sẽ nuốt luôn mọi đường dẫn.
-app.mount("/", StaticFiles(directory=WEB_DIR, html=True), name="web")

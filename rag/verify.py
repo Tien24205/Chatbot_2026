@@ -42,12 +42,7 @@ import re
 from dataclasses import dataclass, field
 
 from .store import SearchHit
-
-# Chữ HOA tiếng Việt. Không dùng được lớp ký tự kiểu [A-ZĐÀ-Ỹ]: khoảng À-Ỹ trong
-# Unicode chứa xen kẽ cả chữ thường (ỗ, ộ, ề... đều nằm giữa À và Ỹ), nên lớp đó
-# khớp luôn chữ thường — đo được: "mỗi đội" bị nhận nhầm là danh từ riêng.
-# Khối U+1EA0..U+1EF8 xếp xen kẽ hoa/thường, mã CHẴN là chữ hoa.
-_UPPER = "A-ZÀÁÂÃÈÉÊÌÍÒÓÔÕÙÚÝĂĐĨŨƠƯ" + "".join(chr(c) for c in range(0x1EA0, 0x1EFA, 2))
+from .text import UPPER as _UPPER
 
 # Chỉ số trích dẫn: [1], [2]...
 _CITATION = re.compile(r"\[(\d+)\]")
@@ -189,7 +184,8 @@ def check(
 
         # Cụm dài có thể là nhiều tên đứng cạnh nhau; soi từng cặp từ để biết
         # chính xác chỗ nào không khớp, thay vì loại cả cụm.
-        for a, b in zip(words, words[1:]):
+        # strict=False: words[1:] cố tình ngắn hơn words một phần tử.
+        for a, b in zip(words, words[1:], strict=False):
             pair = f"{a} {b}"
             if pair.lower() not in context_lower and pair not in report.ungrounded_names:
                 report.ungrounded_names.append(pair)

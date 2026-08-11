@@ -20,6 +20,8 @@ import re
 from dataclasses import dataclass
 
 from .loader import Document
+from .text import BULLET as _BULLET
+from .text import HEADING as _HEADING
 
 # --- Ước lượng token ------------------------------------------------------
 # Chưa gọi được API nên chưa đếm token chính xác. Với tiếng Việt, Gemini
@@ -34,8 +36,12 @@ TARGET_CHARS = int(TARGET_TOKENS * CHARS_PER_TOKEN)  # ~1800
 OVERLAP_CHARS = int(OVERLAP_TOKENS * CHARS_PER_TOKEN)  # ~300
 MIN_CHUNK_CHARS = 80  # dưới ngưỡng này thì gộp vào chunk trước, tránh chunk rác
 
-_HEADING = re.compile(r"^(#{1,6})\s+(.*)$")
 # Ranh giới câu tiếng Việt: dấu kết câu + khoảng trắng + chữ hoa/số.
+#
+# CỐ Ý không dùng text.UPPER ở đây dù lớp đó chính xác hơn (xem docstring của nó).
+# Đổi lớp ký tự sẽ đổi chỗ cắt câu -> đổi ranh giới chunk -> mọi vector trong
+# database thành lệch so với chunk mới. Đó là thay đổi hành vi kèm chi phí embed
+# lại toàn bộ knowledge base, không phải việc dọn dẹp.
 _SENTENCE_END = re.compile(r"(?<=[.!?:])\s+(?=[A-ZĐÀ-Ỹ0-9])")
 
 
@@ -79,11 +85,11 @@ def _split_sections(text: str) -> tuple[str, list[tuple[str, str]]]:
             doc_title = title
             continue
 
-        if current_lines and any(l.strip() for l in current_lines):
+        if current_lines and any(ln.strip() for ln in current_lines):
             sections.append((current_title, current_lines))
         current_title, current_lines = title, []
 
-    if current_lines and any(l.strip() for l in current_lines):
+    if current_lines and any(ln.strip() for ln in current_lines):
         sections.append((current_title, current_lines))
 
     return doc_title, [(t, "\n".join(ls).strip()) for t, ls in sections]
@@ -105,9 +111,7 @@ def _split_units(body: str) -> list[str]:
             continue
 
         lines = para.split("\n")
-        is_list = sum(bool(re.match(r"^\s*(?:[-*•]|\d+\.)\s+", l)) for l in lines) >= max(
-            1, len(lines) // 2
-        )
+        is_list = sum(bool(_BULLET.match(ln)) for ln in lines) >= max(1, len(lines) // 2)
 
         if is_list:
             # Gom dòng nối tiếp vào mục danh sách phía trên — nhưng CHỈ khi dòng đó
@@ -116,7 +120,7 @@ def _split_units(body: str) -> list[str]:
             #  của đoạn này sẽ bị dính vào mục cuối của đoạn TRƯỚC.)
             para_units: list[str] = []
             for line in lines:
-                is_bullet = bool(re.match(r"^\s*(?:[-*•]|\d+\.)\s+", line))
+                is_bullet = bool(_BULLET.match(line))
                 is_continuation = bool(re.match(r"^\s+\S", line)) and not is_bullet
                 if is_continuation and para_units:
                     para_units[-1] += " " + line.strip()
@@ -124,7 +128,7 @@ def _split_units(body: str) -> list[str]:
                     para_units.append(line.strip())
             units.extend(u for u in para_units if u)
         else:
-            flat = " ".join(l.strip() for l in lines)
+            flat = " ".join(ln.strip() for ln in lines)
             units.extend(s.strip() for s in _SENTENCE_END.split(flat) if s.strip())
 
     return units

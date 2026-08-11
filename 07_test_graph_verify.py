@@ -11,26 +11,10 @@ chạy hoàn toàn offline. Chạy:
 
 from __future__ import annotations
 
-import sys
-from pathlib import Path
-
-HERE = Path(__file__).resolve().parent
-if str(HERE) not in sys.path:
-    sys.path.insert(0, str(HERE))
-
 from rag import config, graph, store, verify
+from rag.checks import check, report
 from rag.loader import load_directory
 from rag.store import SearchHit
-
-failures: list[str] = []
-
-
-def check(ok: bool, label: str, detail: str = "") -> None:
-    print(f"  [{'PASS' if ok else 'FAIL'}] {label}")
-    if not ok:
-        if detail:
-            print(f"         {detail}")
-        failures.append(label)
 
 
 def hit(content: str, similarity: float = 0.7, via: str = "vector", cid: int = 1) -> SearchHit:
@@ -100,12 +84,15 @@ def test_extraction() -> None:
         f"kind={by_name['Baron Nashor'].kind if 'Baron Nashor' in by_name else None}",
     )
 
-    # Cùng một tên ở hai game phải là HAI thực thể, không được gộp.
+    # Cùng một tên ở nhiều game phải là NHIỀU thực thể riêng, không được gộp.
+    # Bất biến cần kiểm là "mỗi tài liệu giữ một bản riêng", KHÔNG phải con số 2:
+    # "Đường Giữa" hiện có ở bốn game, và thêm game nữa vẫn phải đúng.
     duong_giua = [e for e in entities if e.name.lower() == "đường giữa"]
+    sources = {e.source_name for e in duong_giua}
     check(
-        len({e.source_name for e in duong_giua}) == 2,
-        "Giữ riêng 'Đường Giữa' của hai game thay vì gộp theo tên",
-        f"tìm thấy {len(duong_giua)} bản: {[e.source_name for e in duong_giua]}",
+        len(duong_giua) >= 2 and len(sources) == len(duong_giua),
+        "Mỗi tài liệu giữ riêng một 'Đường Giữa', không gộp theo tên",
+        f"tìm thấy {len(duong_giua)} bản từ {len(sources)} tài liệu: {sorted(sources)}",
     )
 
     # Cạnh tương_tự PHẢI nối chéo tài liệu, không bao giờ nối trong cùng một file.
@@ -188,16 +175,28 @@ def test_graph_db() -> None:
             f"{[(n['name'], n['kind']) for n in nbrs]}",
         )
 
+        # Điều cần kiểm: đi qua cạnh `tương_tự` phải RA KHỎI tài liệu gốc. Không
+        # chốt cứng tên file đích — Baron Nashor giờ có hàng xóm ở nhiều game, và
+        # top-3 rơi vào game nào là chuyện của trọng số, không phải của bất biến.
         chunks = graph.chunks_mentioning(conn, names, limit=3)
         sources = {c["source_name"] for c in chunks}
+        home = {"lien_minh_huyen_thoai.txt", "lien_minh_toc_chien.txt"}  # nơi Baron Nashor ở
         check(
-            "lien_quan_mobile.txt" in sources,
+            bool(sources - home),
             "Từ thực thể hàng xóm lấy được chunk của game khác",
-            f"{sources}",
+            f"chỉ lấy được chunk trong chính {home}: {sources}",
         )
 
+        # Đếm theo số file thật trong knowledge_base/, KHÔNG chốt cứng con số:
+        # thêm một tài liệu vào KB là chuyện bình thường, mà test hỏng theo thì
+        # người ta sẽ sửa con số cho qua chứ không đọc xem có gì sai thật.
+        n_docs = len(load_directory(config.KB_DIR))
         comms = graph.communities(conn)
-        check(len(comms) == 4, f"Tóm tắt cộng đồng theo 4 tài liệu ({len(comms)})")
+        check(
+            len(comms) == n_docs,
+            f"Tóm tắt cộng đồng phủ đủ {n_docs} tài liệu ({len(comms)})",
+            f"thiếu: {sorted({d.source_name for d in load_directory(config.KB_DIR)} - {c['source_name'] for c in comms})}",
+        )
         check(
             all(c["entities"] > 0 and c["kinds"] for c in comms),
             "Mỗi cộng đồng đều có thực thể và vai trò",
@@ -295,15 +294,7 @@ def main() -> None:
     test_citations()
     test_grounding()
 
-    print("\n" + "=" * 66)
-    if failures:
-        print(f"THẤT BẠI — {len(failures)} kiểm thử không đạt")
-        for f in failures:
-            print(f"  - {f}")
-        print("=" * 66)
-        sys.exit(1)
-    print("TẤT CẢ ĐỀU ĐẠT")
-    print("=" * 66 + "\n")
+    report()
 
 
 if __name__ == "__main__":

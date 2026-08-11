@@ -1,0 +1,9 @@
+# headless = true: bỏ qua màn hỏi email ở lần chạy đầu và không tự mở trình duyệt.
+# Muốn Streamlit tự mở tab thì đổi thành false — lúc đó lần chạy đầu sẽ hỏi email
+# một lần, gõ Enter để bỏ qua.
+[server]
+headless = true
+port = 8501
+
+[browser]
+gatherUsageStats = false

@@ -1,0 +1,27 @@
+# Chỉ chứa cấu hình công cụ. Dự án chạy bằng script trực tiếp, không đóng gói,
+# nên KHÔNG có [project] hay [build-system].
+
+[tool.ruff]
+line-length = 100  # khớp với độ dài dòng đang có sẵn trong mã
+target-version = "py311"
+extend-exclude = [".venv"]
+
+[tool.ruff.lint]
+select = [
+    "E",   # pycodestyle
+    "F",   # pyflakes — import thừa, biến không dùng, tên chưa định nghĩa
+    "I",   # isort — thứ tự import
+    "UP",  # pyupgrade — cú pháp cũ so với target-version
+    "B",   # flake8-bugbear — bẫy hay gặp
+]
+ignore = [
+    "E501",  # độ dài dòng: đã có formatter lo, cảnh báo thêm chỉ gây nhiễu
+    "B008",  # gọi hàm trong giá trị mặc định — đúng cách dùng Depends() của FastAPI
+]
+
+# Các script được đánh số 00→08 là chương trình dòng lệnh, không phải module thư viện.
+[tool.ruff.lint.per-file-ignores]
+"0*.py" = ["E402"]  # import sau docstring/hằng số ở đầu file là cố ý
+
+[tool.ruff.format]
+quote-style = "double"

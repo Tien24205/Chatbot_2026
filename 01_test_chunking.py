@@ -10,15 +10,11 @@ Không cần API key, không cần Docker. Chạy:  python 01_test_chunking.py
 from __future__ import annotations
 
 import re
-import sys
 import unicodedata
 from pathlib import Path
 
-# Neo theo vị trí file để chạy được từ bất kỳ thư mục nào (kể cả thư mục cha).
-HERE = Path(__file__).resolve().parent
-if str(HERE) not in sys.path:
-    sys.path.insert(0, str(HERE))
-
+from rag import config
+from rag.checks import check, report
 from rag.chunker import (
     MIN_CHUNK_CHARS,
     OVERLAP_CHARS,
@@ -27,18 +23,9 @@ from rag.chunker import (
     chunk_document,
 )
 from rag.loader import Document, load_directory
+from rag.text import BULLET
 
-KB_DIR = HERE / "knowledge_base"
-
-failures: list[str] = []
-
-
-def check(ok: bool, label: str, detail: str = "") -> None:
-    print(f"  [{'PASS' if ok else 'FAIL'}] {label}")
-    if not ok:
-        if detail:
-            print(f"         {detail}")
-        failures.append(label)
+KB_DIR = config.KB_DIR
 
 
 def main() -> None:
@@ -62,7 +49,7 @@ def main() -> None:
         "Không còn >1 dòng trống liên tiếp",
     )
     check(
-        all(not any(l != l.rstrip() for l in d.text.split("\n")) for d in docs),
+        all(not any(ln != ln.rstrip() for ln in d.text.split("\n")) for d in docs),
         "Không còn khoảng trắng cuối dòng",
     )
     check(
@@ -132,17 +119,16 @@ def main() -> None:
     # dòng gạch đầu dòng + các dòng THỤT LỀ nối tiếp ngay sau nó), rồi đòi hỏi mỗi
     # mục xuất hiện nguyên vẹn thành MỘT DÒNG trong chunk.
     # Bug đã sửa: "- Nham (Geo)" từng bị dính với câu dẫn của đoạn sau.
-    bullet_re = re.compile(r"^\s*(?:[-*•]|\d+\.)\s")
 
     def expected_bullets(text: str) -> list[str]:
         lines, out, i = text.split("\n"), [], 0
         while i < len(lines):
-            if bullet_re.match(lines[i]):
+            if BULLET.match(lines[i]):
                 unit, i = lines[i].strip(), i + 1
                 while (
                     i < len(lines)
                     and re.match(r"^\s+\S", lines[i])
-                    and not bullet_re.match(lines[i])
+                    and not BULLET.match(lines[i])
                 ):
                     unit += " " + lines[i].strip()
                     i += 1
@@ -153,7 +139,7 @@ def main() -> None:
 
     mismatched: list[tuple[str, str]] = []
     for doc in docs:
-        chunk_lines = {l for c in chunk_document(doc) for l in c.content.split("\n")}
+        chunk_lines = {ln for c in chunk_document(doc) for ln in c.content.split("\n")}
         for unit in expected_bullets(doc.text):
             if unit not in chunk_lines:
                 mismatched.append((doc.source_name, unit[:70]))
@@ -208,8 +194,8 @@ def main() -> None:
     check(len(syn_chunks) > 1, "Tài liệu dài bị cắt thành nhiều chunk")
 
     shared = 0
-    for a, b in zip(syn_chunks, syn_chunks[1:]):
-        tail_lines = [l for l in a.content.split("\n") if l.strip()][1:]  # bỏ dòng ngữ cảnh
+    for a, b in zip(syn_chunks, syn_chunks[1:], strict=False):
+        tail_lines = [ln for ln in a.content.split("\n") if ln.strip()][1:]  # bỏ dòng ngữ cảnh
         if tail_lines and tail_lines[-1] in b.content:
             shared += 1
     check(
@@ -234,21 +220,13 @@ def main() -> None:
         print(f"  {line}")
 
     # --- Kết luận ---
-    print("\n" + "=" * 66)
-    if failures:
-        print(f"CÓ {len(failures)} KIỂM TRA THẤT BẠI:")
-        for f in failures:
-            print(f"  - {f}")
-        print("=" * 66)
-        sys.exit(1)
-
-    print("TẤT CẢ KIỂM TRA ĐỀU PASS")
-    print("=" * 66)
-    print(
-        f"\n{len(all_chunks)} chunk đã sẵn sàng để embedding.\n"
-        "Bước tiếp theo (Bước 4-5) cần API key + Docker:\n"
-        "  1. Chạy 00_smoke_test.py để lấy EMBED_DIMENSION\n"
-        "  2. Bật Docker Desktop rồi dựng pgvector\n"
+    report(
+        success_note=(
+            f"\n{len(all_chunks)} chunk đã sẵn sàng để embedding.\n"
+            "Bước tiếp theo (Bước 4-5) cần API key + Docker:\n"
+            "  1. Chạy 00_smoke_test.py để lấy EMBED_DIMENSION\n"
+            "  2. Bật Docker Desktop rồi dựng pgvector\n"
+        )
     )
 
 

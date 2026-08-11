@@ -17,24 +17,15 @@ from __future__ import annotations
 
 import math
 
-from google import genai
 from google.genai import types
 
 from . import config
+from .gemini import client
 from .retry import with_retry
-
-_client: genai.Client | None = None
 
 # Gemini giới hạn số nội dung mỗi request. Chia lô nhỏ cho an toàn; nếu lô lỗi
 # thì tự lùi về gọi từng cái một.
 BATCH_SIZE = 20
-
-
-def client() -> genai.Client:
-    global _client
-    if _client is None:
-        _client = genai.Client(api_key=config.require_api_key())
-    return _client
 
 
 def normalize(vector: list[float]) -> list[float]:

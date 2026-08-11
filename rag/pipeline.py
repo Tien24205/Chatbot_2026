@@ -11,24 +11,20 @@ import time
 from dataclasses import dataclass, field
 
 import psycopg
-from google import genai
 from google.genai import types
 
 from . import config, embedder, graph, prompt, verify
+from .gemini import client
 from .retry import RateLimited, with_retry
 from .store import SearchHit, hits_for_ids, search
 
-_client: genai.Client | None = None
 _lexicon: graph.Lexicon | None = None
 
 TOP_K = 4
 
-
-def client() -> genai.Client:
-    global _client
-    if _client is None:
-        _client = genai.Client(api_key=config.require_api_key())
-    return _client
+# Số lượt hỏi-đáp giữ lại trong lịch sử. Giới hạn để prompt không phình vô hạn
+# qua nhiều lượt, mà vẫn đủ để viết lại được câu hỏi có đại từ.
+MAX_HISTORY_TURNS = 6
 
 
 @dataclass
@@ -59,6 +55,24 @@ class Answer:
     @property
     def total_ms(self) -> int:
         return self.rewrite_ms + self.retrieval_ms + self.llm_ms + self.verify_ms
+
+
+def remember(history: list[dict], question: str, answer: Answer) -> None:
+    """
+    Ghi một lượt vào lịch sử hội thoại rồi cắt bớt phần cũ.
+
+    KHÔNG ghi lượt bị từ chối. Nếu ghi, LLM sẽ thấy mẫu "hỏi -> từ chối" trong
+    lịch sử và dễ từ chối lây sang các câu sau vốn trả lời được.
+
+    04_chat.py và api.py từng chép cùng đoạn này kèm cùng hằng số MAX_HISTORY_TURNS
+    — hai bản sao của một quy tắc mà lệch nhau thì rất khó phát hiện, vì cả hai
+    đều "chạy được", chỉ khác nhau ở chỗ chatbot nhớ được bao xa.
+    """
+    if answer.refused:
+        return
+    history.append({"role": "user", "parts": [{"text": question}]})
+    history.append({"role": "model", "parts": [{"text": answer.text}]})
+    del history[: max(0, len(history) - MAX_HISTORY_TURNS * 2)]
 
 
 REWRITE_PROMPT = """Viết lại câu hỏi cuối thành một câu hỏi ĐỘC LẬP, tự nó đủ nghĩa
@@ -133,8 +147,9 @@ def rewrite_query(question: str, history: list[dict]) -> str:
 # --- GraphRAG: mở rộng truy hồi bằng quan hệ -------------------------------
 
 # Dấu hiệu câu hỏi cần NHIỀU HƠN một chủ thể để trả lời. Chỉ khi đó mới mở rộng
-# bằng đồ thị: câu hỏi đơn đã đạt recall@1 = 100% bằng vector (đo ở Bước 6), thêm
-# chunk vào đó chỉ làm loãng ngữ cảnh và tăng nguy cơ LLM trộn nguồn.
+# bằng đồ thị: câu hỏi đơn đã đạt recall@1 = 100% bằng vector (đo ở Bước 6 trên
+# KB 4 tài liệu), thêm chunk vào đó chỉ làm loãng ngữ cảnh và tăng nguy cơ LLM
+# trộn nguồn.
 _COMPARE_MARKERS = (
     "so sánh", "giống", "tương tự", "khác nhau", "khác gì", "đối chiếu",
     "cả hai", "hai game", "game khác", "bên nào", "còn", "thì sao", "tương đương",
@@ -147,7 +162,7 @@ def needs_graph_expansion(question: str) -> bool:
 
 
 def lexicon(conn: psycopg.Connection) -> graph.Lexicon | None:
-    """Bộ dò tên thực thể, nạp một lần rồi dùng lại (82 thực thể, không đáng nạp lại)."""
+    """Bộ dò tên thực thể, nạp một lần rồi dùng lại — nhỏ, không đáng nạp lại mỗi lượt."""
     global _lexicon
     if _lexicon is None:
         if not graph.is_built(conn):

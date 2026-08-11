@@ -13,6 +13,7 @@ __pycache__/
 *.egg-info/
 .pytest_cache/
 .mypy_cache/
+.ruff_cache/
 
 # Kết quả sinh ra khi chạy đánh giá — tái tạo được bằng 08_eval_answers.py.
 # Không commit vì số liệu cũ nằm trong git dễ bị đọc nhầm thành kết quả hiện tại;

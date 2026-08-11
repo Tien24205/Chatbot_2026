@@ -1,11 +1,29 @@
+# Phiên bản đã chạy thật trên Python 3.11.9 / Windows.
+#
+# Cận dưới là bản đã kiểm chứng, cận trên chốt ở major kế tiếp: bản vá lỗi thì
+# tự nhận, bản đổi API thì không. Không ghim cứng bằng `==` vì dự án còn phải
+# cài lại được trên máy khác; ghim cứng ở đây chỉ đổi lỗi "vỡ vì thư viện" thành
+# lỗi "không cài nổi".
+
 # === Bước 0: smoke test (chỉ cần 2 gói này) ===
-google-genai>=1.0.0
-python-dotenv>=1.0.0
+google-genai>=2.17,<3
+python-dotenv>=1.2,<2
 
 # === Bước 2-5: vector database ===
-psycopg[binary]>=3.2
-pgvector>=0.3
+psycopg[binary]>=3.3,<4
+# Cận trên chặt hơn: pgvector 0.5 đã bỏ ràng buộc numpy so với 0.4, tức là bản
+# minor của gói này vẫn đổi được hành vi.
+pgvector>=0.5,<0.6
 
 # === Bước 8+: API backend ===
-fastapi>=0.115
-uvicorn[standard]>=0.32
+fastapi>=0.141,<1
+uvicorn[standard]>=0.52,<1
+
+# === Bước 8: giao diện chat (streamlit_app.py) ===
+# Gọi thẳng rag.pipeline, không cần uvicorn chạy kèm.
+streamlit>=1.61,<2
+
+# === Bước 8: kiểm thử API bằng HTTP thật (05_test_api.py) ===
+# google-genai vẫn kéo httpx về, nhưng 05_test_api.py import trực tiếp nên phải
+# khai báo: phụ thuộc gián tiếp có thể biến mất bất cứ lúc nào mà không báo trước.
+httpx>=0.28,<1

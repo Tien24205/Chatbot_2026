@@ -10,43 +10,33 @@ Chạy:  .venv\\Scripts\\python.exe 05_test_api.py
 
 from __future__ import annotations
 
-import json
 import sys
-import urllib.error
-import urllib.request
+
+import httpx
+
+from rag.checks import check, report
 
 BASE = "http://localhost:8000"
 SESSION = "test-session"
 
-failures: list[str] = []
+# Hạn thời gian rộng: một lượt hỏi có thể tốn 3 lệnh gọi Gemini nối tiếp.
+_http = httpx.Client(base_url=BASE, timeout=120.0)
 
 
 def call(path: str, payload: dict | None = None, method: str = "GET") -> dict:
-    data = json.dumps(payload).encode("utf-8") if payload is not None else None
-    req = urllib.request.Request(
-        BASE + path,
-        data=data,
-        method=method,
-        headers={"Content-Type": "application/json; charset=utf-8"},
-    )
-    try:
-        with urllib.request.urlopen(req, timeout=120) as r:
-            return json.loads(r.read().decode("utf-8"))
-    except urllib.error.HTTPError as e:
-        # Chi tiết lỗi nằm trong body, không nằm trong status line. Không đọc body
-        # thì chỉ thấy "HTTP Error 500" và không biết vì sao.
-        if e.code >= 500:
-            body = e.read().decode("utf-8", errors="replace")
-            raise RuntimeError(f"HTTP {e.code} tại {path}: {body[:600]}") from None
-        raise
+    """
+    Gọi API và trả về JSON đã giải mã.
 
-
-def check(ok: bool, label: str, detail: str = "") -> None:
-    print(f"  [{'PASS' if ok else 'FAIL'}] {label}")
-    if not ok:
-        if detail:
-            print(f"         {detail}")
-        failures.append(label)
+    httpx tự lo phần mã hoá JSON, header Content-Type và giải mã UTF-8 theo
+    charset của phản hồi — trước đây ba việc đó phải viết tay bằng urllib.
+    """
+    r = _http.request(method, path, json=payload)
+    # Chi tiết lỗi 5xx nằm trong body, không nằm trong status line. Không đọc body
+    # thì chỉ thấy "HTTP 500" và không biết vì sao.
+    if r.status_code >= 500:
+        raise RuntimeError(f"HTTP {r.status_code} tại {path}: {r.text[:600]}")
+    r.raise_for_status()  # 4xx -> httpx.HTTPStatusError, để bên gọi bắt mã cụ thể
+    return r.json()
 
 
 def main() -> None:
@@ -56,7 +46,7 @@ def main() -> None:
 
     try:
         health = call("/api/health")
-    except urllib.error.URLError as e:
+    except httpx.ConnectError as e:
         print(f"\n[THẤT BẠI] Không gọi được {BASE}/api/health — server chưa chạy?\n  {e}")
         sys.exit(1)
 
@@ -118,23 +108,16 @@ def main() -> None:
     try:
         call("/api/chat", {"session_id": "x", "message": ""}, "POST")
         check(False, "Từ chối tin nhắn rỗng")
-    except urllib.error.HTTPError as e:
-        check(e.code == 422, "Từ chối tin nhắn rỗng (HTTP 422)", f"nhận được {e.code}")
+    except httpx.HTTPStatusError as e:
+        code = e.response.status_code
+        check(code == 422, "Từ chối tin nhắn rỗng (HTTP 422)", f"nhận được {code}")
 
     # --- 6. Xoá lịch sử ------------------------------------------------------
     print("\n  --- Xoá hội thoại ---")
     d = call(f"/api/chat/{SESSION}", method="DELETE")
     check(d.get("status") == "ok", "DELETE /api/chat/{session_id} hoạt động")
 
-    print("\n" + "=" * 70)
-    if failures:
-        print(f"CÓ {len(failures)} KIỂM TRA THẤT BẠI:")
-        for f in failures:
-            print(f"  - {f}")
-        print("=" * 70)
-        sys.exit(1)
-    print("TẤT CẢ KIỂM TRA API ĐỀU PASS")
-    print("=" * 70)
+    report(width=70)
 
 
 if __name__ == "__main__":

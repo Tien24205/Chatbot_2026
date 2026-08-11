@@ -25,17 +25,12 @@ import json
 import statistics
 import sys
 import time
-from pathlib import Path
-
-HERE = Path(__file__).resolve().parent
-if str(HERE) not in sys.path:
-    sys.path.insert(0, str(HERE))
 
 from rag import config, pipeline, store
 from rag.retry import RateLimited
 
-QUESTIONS_FILE = HERE / "eval_questions.json"
-RESULTS_FILE = HERE / "eval_answers_results.json"
+QUESTIONS_FILE = config.PROJECT_DIR / "eval_questions.json"
+RESULTS_FILE = config.PROJECT_DIR / "eval_answers_results.json"
 
 
 def pick(questions: list[dict], limit: int) -> list[dict]:
@@ -107,7 +102,7 @@ def main() -> None:
     results: list[dict] = []
     stopped_early = ""
 
-    with store.connect() as conn:
+    with store.connect_or_exit(require_chunks=True) as conn:
         for i, q in enumerate(questions, 1):
             print(f"  [{i}/{len(questions)}] {q['q']}")
             t0 = time.perf_counter()

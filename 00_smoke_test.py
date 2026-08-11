@@ -170,7 +170,7 @@ def main() -> None:
     for a, b, expect in pairs:
         va = client.models.embed_content(model=embed_model, contents=a).embeddings[0].values
         vb = client.models.embed_content(model=embed_model, contents=b).embeddings[0].values
-        dot = sum(x * y for x, y in zip(va, vb))
+        dot = sum(x * y for x, y in zip(va, vb, strict=True))
         na = sum(x * x for x in va) ** 0.5
         nb = sum(x * x for x in vb) ** 0.5
         print(f"    {dot / (na * nb):.4f}  ({expect})  {a[:38]}... <-> {b[:38]}...")

@@ -1,0 +1,40 @@
+# Liên Minh Huyền Thoại: Tốc Chiến (Wild Rift)
+
+## Tổng quan
+Liên Minh Huyền Thoại: Tốc Chiến là phiên bản MOBA trên di động của Riot Games, ra mắt vào
+năm 2020. Game giữ nguyên dàn tướng và lối chơi 5 người mỗi đội của bản máy tính nhưng rút
+ngắn thời lượng: một trận thường kéo dài 15 đến 18 phút thay vì 30 phút. Điều khiển bằng cần
+gạt ảo thay cho chuột và bàn phím.
+
+## Bản đồ và vị trí
+Bản đồ được vẽ lại đối xứng so với bản máy tính, và các đường được đặt tên theo mục tiêu:
+- Đường Baron (Baron lane): đường trên, gần hang Baron Nashor, thường dành cho đấu sĩ đơn độc.
+- Đường Rồng (Dragon lane): đường dưới, gần hang rồng, có Xạ thủ đi cùng Hỗ trợ.
+- Đường Giữa (Mid lane): đường ngắn nhất, dành cho pháp sư hoặc sát thủ.
+- Đi Rừng (Jungle): dọn quái rừng, kiểm soát mục tiêu và gank các đường.
+- Hỗ Trợ (Support): bảo vệ xạ thủ, cắm mắt giữ tầm nhìn quanh mục tiêu.
+
+## Mục tiêu trung lập
+- Baron Nashor: quái mạnh nhất, xuất hiện ở phút thứ 10. Hạ Baron cho toàn đội buff tăng sức
+  mạnh và tiếp sức lính để đẩy trụ.
+- Rồng Nguyên Tố (Elemental Drake): mỗi con cho một buff cộng dồn vĩnh viễn theo nguyên tố.
+- Rồng Ngàn Tuổi (Elder Dragon): xuất hiện muộn, cho hiệu ứng thiêu đốt mạnh trong thời gian ngắn.
+- Sứ Giả Khe Nứt (Rift Herald): xuất hiện giai đoạn đầu ở hang Baron, triệu ra để húc đổ trụ.
+
+## Hệ thống trang bị và ngọc
+Vàng đến từ hạ lính, hạ tướng và phá trụ. Cửa hàng mở được ở bất kỳ đâu trên bản đồ, không cần
+về nhà chính, để rút ngắn thời gian chết của nhịp trận.
+- Ngọc Tái Tổ Hợp (Rune): ba ngọc phụ cộng chỉ số nhỏ và một ngọc chính đổi cách chơi.
+- Phép Bổ Trợ: mỗi người mang hai phép, ví dụ Tốc Biến, Thiêu Đốt, Trừng Phạt.
+
+## Chế độ chơi
+- Đấu Xếp Hạng (Ranked): chế độ tính điểm, chia bậc từ Sắt, Đồng, Bạc, Vàng, Bạch Kim,
+  Ngọc Bích, Kim Cương, Cao Thủ, Đại Cao Thủ đến Thách Đấu.
+- Đấu Thường: trận không tính điểm, dùng để thử tướng mới.
+- ARAM: bản đồ một đường, tướng ngẫu nhiên, không cho về nhà hồi máu.
+
+## Khác biệt so với bản máy tính
+- Trận ngắn hơn khoảng một nửa nhờ trụ ít máu hơn và kinh nghiệm cộng nhanh hơn.
+- Bản đồ được lật đối xứng để hai đội có góc nhìn công bằng trên màn hình dọc lẫn ngang.
+- Một số tướng được thiết kế lại kỹ năng cho vừa thao tác cảm ứng, ví dụ kỹ năng ngắm hướng
+  được đơn giản hoá thành ngắm tự động khi bấm nhanh.

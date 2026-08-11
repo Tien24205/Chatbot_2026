@@ -1,7 +1,8 @@
 """
 GraphRAG — tầng đồ thị tri thức đặt cạnh tầng vector.
 
-VÌ SAO CẦN, khi vector search đã đạt recall@1 = 100% (đo ở 03_eval_retrieval.py)?
+VÌ SAO CẦN, khi vector search đã đạt recall@1 = 100% (đo ở 03_eval_retrieval.py
+trên bản knowledge base 4 tài liệu, chưa đo lại sau khi mở rộng lên 10)?
 
 Vì recall 100% đó đo trên các câu hỏi ĐƠN, tự đủ nghĩa. Đo thực tế ở Milestone 5,
 truy hồi thuần vector hỏng đúng ở hai chỗ:
@@ -32,6 +33,8 @@ from dataclasses import dataclass, field
 import psycopg
 
 from .loader import Document
+from .text import BULLET as _BULLET
+from .text import HEADING as _HEADING
 
 # --- Mô hình dữ liệu ------------------------------------------------------
 
@@ -73,10 +76,11 @@ class Edge:
 # --- Trích thực thể (offline) ---------------------------------------------
 
 # Dòng định nghĩa: "- Tên: nội dung" hoặc "3. Tên: nội dung".
+# Dựng từ text.BULLET để ranh giới mục danh sách ở đây luôn khớp với ranh giới
+# mà chunker dùng — hai tầng đọc lệch nhau thì thực thể sẽ được gán vào chunk sai.
 # Giới hạn phần tên ở 60 ký tự để câu văn xuôi có dấu hai chấm giữa dòng
 # không bị nhận nhầm thành định nghĩa.
-_DEFINITION = re.compile(r"^\s*(?:[-*•]|\d+\.)\s+([^:\n]{2,60}?)\s*:\s*(.+)$")
-_HEADING = re.compile(r"^(#{1,6})\s+(.*)$")
+_DEFINITION = re.compile(_BULLET.pattern + r"([^:\n]{2,60}?)\s*:\s*(.+)$")
 # Bí danh trong ngoặc: "Sứ Giả Khe Nứt (Rift Herald)", "Xạ thủ (ADC / Bot)".
 _PAREN = re.compile(r"^(.*?)\s*\(([^)]+)\)\s*$")
 
@@ -93,6 +97,12 @@ MIN_SURFACE_LEN = 3
 # nên nó phải phản ánh VAI TRÒ chứ không phải tên riêng.
 _KIND_RULES: tuple[tuple[str, str], ...] = (
     ("mục tiêu", "mục tiêu trung lập"),
+    # PHẢI đứng trước hai luật "vị trí"/"bản đồ" bên dưới. Trong game bắn súng và
+    # sinh tồn, "bản đồ" là cả một đấu trường (Ascent, Bermuda); trong MOBA, mục
+    # bản đồ lại liệt kê các ĐƯỜNG (Đường giữa, Đường Rồng). Gộp hai thứ vào cùng
+    # vai trò thì đồ thị sinh ra cạnh vô nghĩa — đo được: "Xạ thủ" bị nối
+    # `tương_tự` với "Ascent" chỉ vì cả hai nằm dưới mục có chữ "bản đồ".
+    ("đấu trường", "bản đồ thi đấu"),
     ("vị trí", "vị trí"),
     ("bản đồ", "vị trí"),
     ("thuật ngữ", "thuật ngữ"),
@@ -280,7 +290,7 @@ class Lexicon:
 
 # DDL chạy từ Python thay vì thêm vào init.sql, vì init.sql CHỈ chạy khi volume
 # còn rỗng (cái bẫy đã vấp ở Milestone 2). Nếu chỉ sửa init.sql thì phải
-# `docker compose down -v` rồi nạp lại toàn bộ — tức là embedding lại 25 chunk,
+# `docker compose down -v` rồi nạp lại toàn bộ — tức là embedding lại mọi chunk,
 # tốn hạn mức API cho một thay đổi vốn không đụng gì tới vector.
 SCHEMA = """
 CREATE TABLE IF NOT EXISTS graph_entities (
@@ -358,7 +368,7 @@ def build(conn: psycopg.Connection, docs: list[Document]) -> dict:
             [(ids[e.key], a) for e in entities for a in e.aliases if e.key in ids],
         )
 
-        # --- Nhắc tới: quét 25 chunk trong bộ nhớ, rẻ hơn nhiều so với SQL LIKE ---
+        # --- Nhắc tới: quét toàn bộ chunk trong bộ nhớ, rẻ hơn nhiều so với SQL LIKE ---
         lex = Lexicon(entities)
         rows = conn.execute("SELECT id, content FROM chunks").fetchall()
         mentions: list[tuple[int, int]] = []
@@ -496,8 +506,8 @@ def communities(conn: psycopg.Connection) -> list[dict]:
     Tóm tắt cộng đồng: gom theo tài liệu nguồn.
 
     Ở KB này ranh giới cộng đồng trùng với ranh giới tài liệu (mỗi file một game),
-    nên không cần chạy Louvain/Leiden cho 25 chunk — làm vậy chỉ là trưng thuật
-    toán. Dùng để trả lời "kho kiến thức có những gì" và để viết câu từ chối
+    nên không cần chạy Louvain/Leiden cho vài chục chunk — làm vậy chỉ là trưng
+    thuật toán. Dùng để trả lời "kho kiến thức có những gì" và để viết câu từ chối
     cho đúng phạm vi.
     """
     rows = conn.execute(

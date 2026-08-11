@@ -21,14 +21,14 @@ Nhật ký thiết kế và các bẫy đã vấp: [chatbot_rag_plan.md](chatbot
 ## Kiến trúc
 
 ```text
-                      KNOWLEDGE BASE (4 file .txt)
+                     KNOWLEDGE BASE (10 file .txt)
                                │
         ┌──────────────────────┴──────────────────────┐
         ↓                                             ↓
    Chunk theo tiêu đề `##`                    Trích thực thể (regex)
         ↓                                             ↓
-   Embedding (Gemini)                          Đồ thị: 82 thực thể
-        ↓                                       571 cạnh, 3 loại quan hệ
+   Embedding (Gemini)                          Đồ thị: 189 thực thể
+        ↓                                      2352 cạnh, 3 loại quan hệ
    PostgreSQL + pgvector                              │
    (HNSW, cosine, 1536 chiều)                         │
         │                                             │
@@ -63,6 +63,11 @@ Lớp 5 mặc định chỉ chạy khi lớp 3-4 đã thấy dấu hiệu khả 
 thì rẻ, thứ nó không bắt được mới đáng tiêu hạn mức API.
 
 ## Kết quả đo được
+
+> ⚠ Các số ở mục này đo trên knowledge base **4 tài liệu / 25 chunk**. Kho hiện đã
+> mở rộng lên **10 tài liệu / 65 chunk**, và `eval_questions.json` chưa phủ 6 tài
+> liệu mới. Phải chạy lại `03_eval_retrieval.py` và `08_eval_answers.py` rồi mới
+> được trích dẫn con số ở đây như kết quả hiện tại.
 
 Bộ câu hỏi so sánh chéo game (8 câu, τ = 0.60):
 
@@ -120,16 +125,26 @@ Theo đúng thứ tự — mỗi bước kiểm chứng bước trước:
 .venv\Scripts\python.exe 07_test_graph_verify.py # 41 kiểm thử đồ thị + kiểm chứng
 .venv\Scripts\python.exe 08_eval_answers.py      # đánh giá câu trả lời đầu-cuối
 
-.venv\Scripts\python.exe -m uvicorn api:app --reload --port 8000
+.venv\Scripts\python.exe -m streamlit run streamlit_app.py
 ```
 
-Rồi mở <http://localhost:8000>. Hoặc chat trong terminal:
-`.venv\Scripts\python.exe 04_chat.py`
+Rồi mở <http://localhost:8501>.
+
+Hai giao diện khác cho cùng một pipeline:
+
+```powershell
+.venv\Scripts\python.exe 04_chat.py                               # dòng lệnh
+.venv\Scripts\python.exe -m uvicorn api:app --reload --port 8000  # REST API thuần
+```
+
+`streamlit_app.py` gọi thẳng `rag.pipeline`, không cần uvicorn chạy kèm. `api.py`
+chỉ còn là REST API (tài liệu tự sinh ở `/docs`), không phục vụ giao diện nữa.
 
 ## Cấu trúc
 
 ```text
 rag/
+├── config.py     Đọc .env, neo mọi đường dẫn theo vị trí file
 ├── loader.py     Đọc + làm sạch (NFC, LF, BOM, zero-width)
 ├── chunker.py    Cắt theo tiêu đề `##` trước, kích thước sau
 ├── embedder.py   Gemini embedding — CHUẨN HOÁ LẠI vector + tách task_type
@@ -138,12 +153,25 @@ rag/
 ├── prompt.py     System prompt (8 quy tắc) + ghép ngữ cảnh + trích dẫn
 ├── verify.py     Lớp 3-4: kiểm chứng tất định, không gọi API
 ├── retry.py      Thử lại khi 429, đọc đúng thời gian chờ Google đề nghị
-└── pipeline.py   Ghép toàn tuyến: truy hồi → ngưỡng → LLM → kiểm chứng
+├── pipeline.py   Ghép toàn tuyến: truy hồi → ngưỡng → LLM → kiểm chứng
+│
+│  Dùng chung, gom về đây để không còn bản chép:
+├── gemini.py     Một client Gemini duy nhất cho cả embedder lẫn pipeline
+├── text.py       Regex/hằng số đọc tiếng Việt (tiêu đề, gạch đầu dòng, chữ HOA)
+└── checks.py     Khung check()/report() cho 01, 05, 07
 
-api.py            FastAPI: /api/chat, /api/health, /api/graph
-web/              Giao diện chat, HTML/CSS/JS thuần, không framework
-knowledge_base/   4 tài liệu tiếng Việt về game
+streamlit_app.py  Giao diện chat (Streamlit), gọi thẳng rag.pipeline
+api.py            REST API thuần: /api/chat, /api/health, /api/graph
+knowledge_base/   10 tài liệu tiếng Việt về game (9 game + 1 file thuật ngữ)
 init.sql          Schema pgvector — số chiều 1536 có lý do, đọc chú thích
+pyproject.toml    Chỉ chứa cấu hình ruff, dự án không đóng gói
+```
+
+Kiểm tra mã trước khi commit (cần `requirements-dev.txt`):
+
+```powershell
+.venv\Scripts\python.exe -m pip install -r requirements-dev.txt
+.venv\Scripts\python.exe -m ruff check .
 ```
 
 ## Ba điều học được, đáng ghi lại

@@ -9,13 +9,7 @@ Chạy:
 
 from __future__ import annotations
 
-import sys
 import time
-from pathlib import Path
-
-HERE = Path(__file__).resolve().parent
-if str(HERE) not in sys.path:
-    sys.path.insert(0, str(HERE))
 
 from rag import config, embedder, store
 from rag.chunker import chunk_documents
@@ -38,15 +32,8 @@ def main() -> None:
     # --- 2. Kết nối database TRƯỚC khi embed --------------------------------
     # Cố tình kiểm tra database trước: nếu schema sai thì hỏng ngay từ đầu,
     # thay vì phát hiện sau khi đã đốt tiền embedding cho toàn bộ chunk.
-    try:
-        conn = store.connect()
-    except Exception as e:
-        print(f"\n[THẤT BẠI] Không kết nối được database.\n  {e}")
-        print("\n  Kiểm tra: docker compose ps")
-        print("  Nếu chưa chạy: docker compose up -d")
-        sys.exit(1)
-
-    with conn:
+    # Không đòi require_chunks: đây chính là script nạp dữ liệu vào bảng rỗng.
+    with store.connect_or_exit() as conn:
         store.assert_schema_matches(conn)
         print(f"  Schema khớp: vector({config.EMBED_DIMENSION})")
 

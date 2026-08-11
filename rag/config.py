@@ -48,6 +48,11 @@ EMBED_DIMENSION = int(env("EMBED_DIMENSION", "1536"))
 # 5 lớp, hạ xuống 0.60 lấy lại được 2 câu đó mà vẫn 0/6 câu ngoài phạm vi bị bịa:
 # câu "Ai là nhân vật mạnh nhất" (0.657) lọt qua ngưỡng nhưng bị lớp 1 chặn.
 # Chạy lại hai script trên mỗi khi đổi model embedding hoặc sửa knowledge base.
+#
+# CHƯA HIỆU CHUẨN LẠI: knowledge base đã mở rộng từ 4 lên 10 tài liệu (25 -> 65
+# chunk) mà 0.60 vẫn là con số đo trên bộ 4 tài liệu. Dấu hiệu ban đầu còn tốt —
+# câu ngoài phạm vi "Cách nấu phở bò" vẫn chỉ đạt 0.514 — nhưng cần chạy lại
+# 03_eval_retrieval.py với bộ câu hỏi phủ đủ 10 tài liệu rồi mới chốt.
 SIMILARITY_THRESHOLD = float(env("SIMILARITY_THRESHOLD", "0.60"))
 
 DATABASE_URL = env(

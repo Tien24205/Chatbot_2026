@@ -13,13 +13,6 @@ Script tự kiểm chứng luôn hai thứ mà truy hồi thuần vector làm kh
 
 from __future__ import annotations
 
-import sys
-from pathlib import Path
-
-HERE = Path(__file__).resolve().parent
-if str(HERE) not in sys.path:
-    sys.path.insert(0, str(HERE))
-
 from rag import config, graph, store
 from rag.loader import load_directory
 
@@ -31,18 +24,9 @@ def main() -> None:
 
     docs = load_directory(config.KB_DIR)
 
-    try:
-        conn = store.connect()
-    except Exception as e:
-        print(f"\n[THẤT BẠI] Không kết nối được database.\n  {e}")
-        print("\n  Kiểm tra: docker compose ps")
-        sys.exit(1)
-
-    with conn:
+    # Cần bảng chunks đã có dữ liệu: đồ thị nối thực thể vào chunk qua mentions.
+    with store.connect_or_exit(require_chunks=True) as conn:
         n_chunks = store.count(conn)
-        if n_chunks == 0:
-            print("\n[THẤT BẠI] Bảng chunks rỗng. Chạy 02_ingest.py trước.")
-            sys.exit(1)
 
         stats = graph.build(conn, docs)
         print(f"\n  {len(docs)} tài liệu, {n_chunks} chunk")

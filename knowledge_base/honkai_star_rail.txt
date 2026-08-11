@@ -1,0 +1,54 @@
+# Honkai: Star Rail (Băng Hành Thiết Đạo)
+
+## Tổng quan
+Honkai: Star Rail là game nhập vai chiến đấu theo lượt do HoYoverse phát triển, phát hành
+tháng 4 năm 2023. Game miễn phí, doanh thu đến từ hệ thống gacha. Người chơi vào vai Khai Phá
+Giả, đi cùng đoàn tàu Kim Ưu Tinh qua các hành tinh. Khác với game hành động thời gian thực,
+mọi trận đánh ở đây diễn ra theo lượt, đội hình gồm bốn nhân vật.
+
+## Hệ thống nguyên tố và thuộc tính
+Sát thương chia theo bảy thuộc tính:
+- Vật Lý (Physical)
+- Hoả (Fire)
+- Băng (Ice)
+- Lôi (Lightning)
+- Phong (Wind)
+- Lượng Tử (Quantum)
+- Hư Số (Imaginary)
+Mỗi kẻ địch có thanh Kiên Cường và một số thuộc tính khắc chế riêng. Đánh đúng thuộc tính khắc
+chế sẽ phá thanh Kiên Cường, gây trạng thái Suy Yếu khiến kẻ địch chịu thêm sát thương.
+
+## Bảy Vận Mệnh
+Vận Mệnh (Path) quyết định vai trò của nhân vật trong đội:
+- Huỷ Diệt (Destruction): vừa chịu đòn vừa gây sát thương diện rộng.
+- Săn Bắn (The Hunt): dồn sát thương vào một mục tiêu đơn.
+- Trí Tuệ (Erudition): gây sát thương lên toàn bộ kẻ địch.
+- Đồng Hành (Harmony): tăng sức mạnh cho cả đội.
+- Hư Vô (Nihility): gây trạng thái bất lợi lên kẻ địch.
+- Bảo Hộ (Preservation): tạo khiên che chắn cho đội.
+- Phong Nhiêu (Abundance): hồi máu và giải trạng thái xấu.
+
+## Các vùng đất đã mở
+- Không Gian Trạm Herta: trạm nghiên cứu ngoài vũ trụ, khu vực mở đầu.
+- Jarilo-VI: hành tinh băng giá với thành phố ngầm Belobog.
+- Tiên Chu La Phù: hạm đội tiên hiệp lấy cảm hứng từ văn hoá Á Đông.
+- Penacony: hành tinh tiệc tùng nơi giấc mộng và thực tại chồng lên nhau.
+
+## Hệ thống Gacha
+Người chơi dùng Sao Quỳnh để đổi lấy lượt Khải Hành. Mỗi lượt tốn 160 Sao Quỳnh. Cơ chế bảo
+hiểm đảm bảo nhận nhân vật 5 sao trong vòng 90 lượt. Nếu lượt 5 sao đầu tiên không phải nhân
+vật giới hạn, thì lượt 5 sao kế tiếp chắc chắn là nhân vật giới hạn của banner đó. Banner Nón
+Ánh Sáng có bảo hiểm riêng, ngắn hơn banner nhân vật.
+
+## Nâng cấp nhân vật
+Sức mạnh nhân vật đến từ bốn nguồn:
+1. Cấp độ nhân vật, tối đa cấp 80 qua sáu lần Đột Phá.
+2. Nốt Sáng (Trace), gồm kỹ năng chính và các nốt cộng chỉ số trên cây kỹ năng.
+3. Nón Ánh Sáng (Light Cone), tương đương vũ khí, phát huy tối đa khi cùng Vận Mệnh.
+4. Di Vật (Relic), gồm bốn món trong bộ chính và hai món trang sức ngoài hành tinh.
+
+## Hoạt động thường ngày
+- Nhiệm Vụ Hằng Ngày: bốn nhiệm vụ mỗi ngày, thưởng Sao Quỳnh.
+- Sức Bền Khai Phá: tài nguyên giới hạn dùng để nhận thưởng ở các phó bản cày nguyên liệu.
+- Mô Phỏng Vũ Trụ: chế độ đi tầng ngẫu nhiên, nơi cày Di Vật trang sức.
+- Hí Đài Vong Diệt: thử thách chiến đấu theo tầng, làm mới định kỳ và thưởng Sao Quỳnh.

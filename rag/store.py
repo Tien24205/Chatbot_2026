@@ -7,6 +7,7 @@ query pipeline dùng chung tầng lưu trữ nhưng không dính vào nhau.
 
 from __future__ import annotations
 
+import sys
 from dataclasses import dataclass
 
 import psycopg
@@ -36,6 +37,38 @@ CONNECT_TIMEOUT_SECONDS = 5
 def connect() -> psycopg.Connection:
     conn = psycopg.connect(config.DATABASE_URL, connect_timeout=CONNECT_TIMEOUT_SECONDS)
     register_vector(conn)
+    return conn
+
+
+def connect_or_exit(require_chunks: bool = False) -> psycopg.Connection:
+    """
+    Kết nối dành cho các script dòng lệnh: hỏng thì in đúng cách chữa rồi thoát.
+
+    Năm script từng chép cùng một khối try/except kèm gợi ý `docker compose up -d`,
+    mỗi bản một cách diễn đạt khác nhau. Gom về đây để thông báo đồng nhất và chỉ
+    còn một chỗ phải sửa.
+
+    `require_chunks=True` dành cho script cần dữ liệu có sẵn (chat, đánh giá, dựng
+    đồ thị): bảng rỗng thì hỏng ngay kèm hướng dẫn chạy 02_ingest.py, thay vì để
+    người dùng nhận về kết quả rỗng rồi tự đoán vì sao.
+    """
+    try:
+        conn = connect()
+    except Exception as e:
+        print(f"\n[THẤT BẠI] Không kết nối được database.\n  {e}", file=sys.stderr)
+        print("\n  Kiểm tra   : docker compose ps", file=sys.stderr)
+        print("  Nếu chưa chạy: docker compose up -d", file=sys.stderr)
+        sys.exit(1)
+
+    if require_chunks and count(conn) == 0:
+        conn.close()
+        print(
+            "\n[THẤT BẠI] Bảng chunks rỗng — chưa nạp dữ liệu.\n"
+            "  Chạy 02_ingest.py trước.",
+            file=sys.stderr,
+        )
+        sys.exit(1)
+
     return conn
 
 
@@ -86,7 +119,9 @@ def upsert_chunks(
             """,
             [
                 (c.source_name, c.section, c.chunk_index, c.content, v)
-                for c, v in zip(chunks, vectors)
+                # strict=True: đã kiểm tra độ dài ở trên, giữ thêm chốt chặn ở đây
+                # để một thay đổi sau này không lặng lẽ nạp thiếu vector.
+                for c, v in zip(chunks, vectors, strict=True)
             ],
         )
     conn.commit()

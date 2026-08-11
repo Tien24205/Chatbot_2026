@@ -11,32 +11,12 @@ Lệnh trong phiên chat:
 
 from __future__ import annotations
 
-import sys
-from pathlib import Path
-
-HERE = Path(__file__).resolve().parent
-if str(HERE) not in sys.path:
-    sys.path.insert(0, str(HERE))
-
 from rag import config, pipeline, store
-
-# Giới hạn lịch sử để prompt không phình vô hạn qua nhiều lượt.
-MAX_HISTORY_TURNS = 6
 
 
 def main() -> None:
-    try:
-        conn = store.connect()
-    except Exception as e:
-        print(f"[THẤT BẠI] Không kết nối được database: {e}")
-        print("  Chạy: docker compose up -d")
-        sys.exit(1)
-
-    with conn:
+    with store.connect_or_exit(require_chunks=True) as conn:
         n = store.count(conn)
-        if n == 0:
-            print("[THẤT BẠI] Database rỗng. Chạy 02_ingest.py trước.")
-            sys.exit(1)
 
         print("=" * 70)
         print("CHATBOT TRA CỨU KIẾN THỨC GAME")
@@ -99,12 +79,9 @@ def main() -> None:
                       f"< ngưỡng {config.SIMILARITY_THRESHOLD})")
             else:
                 print(f"  Nguồn: {' | '.join(ans.citations)}")
-                # Chỉ ghi lịch sử khi thực sự trả lời được. Nếu ghi cả lượt bị từ
-                # chối, LLM sẽ thấy mẫu "hỏi -> từ chối" và dễ từ chối lây sang
-                # các câu sau vốn trả lời được.
-                history.append({"role": "user", "parts": [{"text": q}]})
-                history.append({"role": "model", "parts": [{"text": ans.text}]})
-                del history[: max(0, len(history) - MAX_HISTORY_TURNS * 2)]
+
+            # Tự bỏ qua lượt bị từ chối — xem pipeline.remember.
+            pipeline.remember(history, q, ans)
 
             parts = [f"truy hồi {ans.retrieval_ms} ms"]
             if ans.rewrite_ms:

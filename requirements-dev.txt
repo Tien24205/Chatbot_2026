@@ -1,0 +1,9 @@
+# Công cụ chỉ dùng khi phát triển, KHÔNG cần để chạy chatbot.
+# Cài thêm:  .venv\Scripts\python.exe -m pip install -r requirements-dev.txt
+
+-r requirements.txt
+
+# Linter + formatter. Cấu hình nằm trong pyproject.toml.
+#   .venv\Scripts\python.exe -m ruff check .      # soát import thừa, mã chết
+#   .venv\Scripts\python.exe -m ruff format .     # định dạng lại
+ruff>=0.16,<1
