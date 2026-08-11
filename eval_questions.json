@@ -1,0 +1,212 @@
+{
+  "_ghi_chu": [
+    "Bộ câu hỏi test CỐ ĐỊNH (plan §8 nguyên tắc 6). Giữ nguyên bộ này qua các lần",
+    "thay đổi chunk size / model / prompt để so sánh được kết quả trước-sau.",
+    "",
+    "type = in_scope      : KB trả lời được. expect_source là file PHẢI trúng.",
+    "type = out_of_scope  : KB không có. Hệ thống PHẢI từ chối, không được bịa.",
+    "type = ambiguous     : nhiều game cùng khớp. Chấp nhận bất kỳ file trong expect_any_source;",
+    "                       đây là nhóm để phát hiện hệ thống có nhầm game hay không."
+  ],
+
+  "questions": [
+    {
+      "q": "Baron Nashor là gì?",
+      "type": "in_scope",
+      "expect_source": "lien_minh_huyen_thoai.txt",
+      "expect_section": "Mục tiêu trung lập quan trọng"
+    },
+    {
+      "q": "Liên Minh Huyền Thoại có mấy vị trí tiêu chuẩn?",
+      "type": "in_scope",
+      "expect_source": "lien_minh_huyen_thoai.txt",
+      "expect_section": "Năm vị trí tiêu chuẩn"
+    },
+    {
+      "q": "Ăn bao nhiêu rồng thì được Linh Hồn Rồng?",
+      "type": "in_scope",
+      "expect_source": "lien_minh_huyen_thoai.txt",
+      "expect_section": "Mục tiêu trung lập quan trọng"
+    },
+    {
+      "q": "Giải đấu Liên Minh Huyền Thoại chuyên nghiệp ở Việt Nam tên là gì?",
+      "type": "in_scope",
+      "expect_source": "lien_minh_huyen_thoai.txt",
+      "expect_section": "Giải đấu tại Việt Nam"
+    },
+    {
+      "q": "Chế độ ARAM chơi trên bản đồ nào?",
+      "type": "in_scope",
+      "expect_source": "lien_minh_huyen_thoai.txt",
+      "expect_section": "Chế độ chơi phổ biến"
+    },
+
+    {
+      "q": "Phản ứng Bốc Hơi trong Genshin hoạt động thế nào?",
+      "type": "in_scope",
+      "expect_source": "genshin_impact.txt",
+      "expect_section": "Hệ thống Nguyên Tố"
+    },
+    {
+      "q": "Nhựa Nguyên hồi phục bao lâu một điểm?",
+      "type": "in_scope",
+      "expect_source": "genshin_impact.txt",
+      "expect_section": "Hoạt động thường ngày"
+    },
+    {
+      "q": "Cơ chế bảo hiểm pity của Genshin đảm bảo 5 sao sau bao nhiêu lượt?",
+      "type": "in_scope",
+      "expect_source": "genshin_impact.txt",
+      "expect_section": "Hệ thống Gacha"
+    },
+    {
+      "q": "Thánh Di Vật gồm những vị trí nào?",
+      "type": "in_scope",
+      "expect_source": "genshin_impact.txt",
+      "expect_section": "Nâng cấp nhân vật"
+    },
+    {
+      "q": "Thần Phong của Mondstadt là ai?",
+      "type": "in_scope",
+      "expect_source": "genshin_impact.txt",
+      "expect_section": "Các vùng đất trong Teyvat"
+    },
+
+    {
+      "q": "Thần Rừng trong Liên Quân xuất hiện từ phút thứ mấy?",
+      "type": "in_scope",
+      "expect_source": "lien_quan_mobile.txt",
+      "expect_section": "Mục tiêu trung lập"
+    },
+    {
+      "q": "Hệ thống Ngọc trong Liên Quân có mấy loại?",
+      "type": "in_scope",
+      "expect_source": "lien_quan_mobile.txt",
+      "expect_section": "Trang bị và Ngọc"
+    },
+    {
+      "q": "Liên Quân Mobile do hãng nào phát hành ở Việt Nam?",
+      "type": "in_scope",
+      "expect_source": "lien_quan_mobile.txt",
+      "expect_section": "Tổng quan"
+    },
+
+    {
+      "q": "Nerf nghĩa là gì trong game?",
+      "type": "in_scope",
+      "expect_source": "thuat_ngu_game.txt",
+      "expect_section": "Thuật ngữ về chỉ số"
+    },
+    {
+      "q": "Bo3 trong thi đấu esports nghĩa là gì?",
+      "type": "in_scope",
+      "expect_source": "thuat_ngu_game.txt",
+      "expect_section": "Thuật ngữ esports"
+    },
+    {
+      "q": "Smurf là gì?",
+      "type": "in_scope",
+      "expect_source": "thuat_ngu_game.txt",
+      "expect_section": "Thuật ngữ cộng đồng"
+    },
+
+    {
+      "q": "Cách nấu phở bò Hà Nội truyền thống",
+      "type": "out_of_scope"
+    },
+    {
+      "q": "Thủ đô của nước Pháp là thành phố nào?",
+      "type": "out_of_scope"
+    },
+    {
+      "q": "Lãi suất tiết kiệm ngân hàng hiện nay bao nhiêu phần trăm?",
+      "type": "out_of_scope"
+    },
+    {
+      "q": "Cách khai báo biến trong ngôn ngữ Python",
+      "type": "out_of_scope"
+    },
+    {
+      "q": "Thời tiết Hà Nội ngày mai thế nào?",
+      "type": "out_of_scope"
+    },
+
+    {
+      "q": "Ai là nhân vật mạnh nhất trong game?",
+      "type": "out_of_scope",
+      "_ly_do": "KB không xếp hạng sức mạnh nhân vật — dễ khiến LLM bịa nếu ngưỡng quá thấp"
+    },
+
+    {
+      "q": "Người đi rừng có nhiệm vụ gì?",
+      "type": "ambiguous",
+      "expect_any_source": ["lien_minh_huyen_thoai.txt", "lien_quan_mobile.txt"]
+    },
+    {
+      "q": "Rồng trong game cho buff gì?",
+      "type": "ambiguous",
+      "expect_any_source": ["lien_minh_huyen_thoai.txt", "lien_quan_mobile.txt"]
+    },
+    {
+      "q": "Giải đấu chuyên nghiệp cao nhất tại Việt Nam là gì?",
+      "type": "ambiguous",
+      "expect_any_source": ["lien_minh_huyen_thoai.txt", "lien_quan_mobile.txt"]
+    }
+  ],
+
+  "_ghi_chu_graph": [
+    "Bộ THỨ HAI, tách riêng để bộ 25 câu ở trên giữ nguyên làm mốc so sánh.",
+    "Đây là các câu cần NHIỀU HƠN một chủ thể để trả lời — dạng mà truy hồi thuần",
+    "vector làm không tốt, vì hai thực thể cùng vai trò ở hai game (Baron Nashor và",
+    "Thần Rừng) không giống nhau một chữ nào. Chạy bằng: 08_eval_answers.py --graph"
+  ],
+
+  "questions_graph": [
+    {
+      "q": "Liên Quân Mobile có mục tiêu nào giống Baron Nashor không?",
+      "type": "ambiguous",
+      "expect_any_source": ["lien_minh_huyen_thoai.txt", "lien_quan_mobile.txt"],
+      "_ly_do": "Cần đi từ Baron Nashor sang Thần Rừng / Rồng Bạo Chúa qua cạnh tương_tự"
+    },
+    {
+      "q": "So sánh mục tiêu trung lập của Liên Minh và Liên Quân",
+      "type": "ambiguous",
+      "expect_any_source": ["lien_minh_huyen_thoai.txt", "lien_quan_mobile.txt"]
+    },
+    {
+      "q": "Vị trí Xạ thủ ở hai game MOBA khác nhau thế nào?",
+      "type": "ambiguous",
+      "expect_any_source": ["lien_minh_huyen_thoai.txt", "lien_quan_mobile.txt"]
+    },
+    {
+      "q": "Hệ thống xếp hạng của Liên Quân có gì khác Liên Minh?",
+      "type": "ambiguous",
+      "expect_any_source": ["lien_minh_huyen_thoai.txt", "lien_quan_mobile.txt"]
+    },
+    {
+      "q": "Genshin Impact có mục tiêu trung lập giống Baron Nashor không?",
+      "type": "out_of_scope",
+      "_ly_do": "Bẫy: câu hỏi có dạng so sánh nên đồ thị sẽ mở rộng, nhưng Genshin KHÔNG có mục tiêu trung lập. Đồ thị không được phép biến câu không trả lời được thành câu trả lời được."
+    },
+    {
+      "q": "Thánh Di Vật gồm những vị trí nào?",
+      "type": "in_scope",
+      "expect_source": "genshin_impact.txt",
+      "expect_section": "Nâng cấp nhân vật",
+      "_ly_do": "Câu in_scope có điểm THẤP NHẤT trong 25 câu gốc (0.617). Ngưỡng τ=0.66 loại nhầm câu này — giữ lại để mỗi lần đổi model/prompt đều thấy ngay biên ngưỡng dịch đi đâu."
+    },
+    {
+      "q": "Bùa Đỏ và Bùa Xanh trong Liên Quân có tác dụng gì?",
+      "type": "in_scope",
+      "expect_source": "lien_quan_mobile.txt",
+      "expect_section": "Mục tiêu trung lập"
+    },
+    {
+      "q": "Rồng Bạo Chúa tiến hoá vào lúc nào?",
+      "type": "in_scope",
+      "expect_source": "lien_quan_mobile.txt",
+      "expect_section": "Mục tiêu trung lập",
+      "_ly_do": "Có mốc thời gian cụ thể (phút thứ 8) — dùng để kiểm tra lớp 4 bắt số bịa"
+    }
+  ]
+}

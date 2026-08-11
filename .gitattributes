@@ -1,0 +1,8 @@
+# Chuẩn hoá xuống dòng: lưu LF trong repo, checkout theo hệ điều hành.
+# Cần thiết vì loader.py chuẩn hoá CRLF -> LF khi đọc knowledge base; nếu repo
+# lưu lẫn lộn thì diff sẽ đầy thay đổi giả mỗi lần đổi máy.
+* text=auto eol=lf
+
+*.png binary
+*.jpg binary
+*.pdf binary

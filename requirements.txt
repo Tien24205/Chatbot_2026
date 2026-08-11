@@ -1,0 +1,11 @@
+# === Bước 0: smoke test (chỉ cần 2 gói này) ===
+google-genai>=1.0.0
+python-dotenv>=1.0.0
+
+# === Bước 2-5: vector database ===
+psycopg[binary]>=3.2
+pgvector>=0.3
+
+# === Bước 8+: API backend ===
+fastapi>=0.115
+uvicorn[standard]>=0.32

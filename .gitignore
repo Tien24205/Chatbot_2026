@@ -1,0 +1,34 @@
+# Bí mật — KHÔNG BAO GIỜ commit. .env.example là bản mẫu để trống, commit được.
+.env
+*.key
+
+# Môi trường ảo
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# Kết quả sinh ra khi chạy đánh giá — tái tạo được bằng 08_eval_answers.py.
+# Không commit vì số liệu cũ nằm trong git dễ bị đọc nhầm thành kết quả hiện tại;
+# số liệu chốt đã ghi trong README và CHONG_HALLUCINATION_VA_GRAPH.md.
+eval_answers_results.json
+
+# Dữ liệu database (nếu ai đó gắn volume vào trong thư mục dự án)
+pgdata/
+
+# Trình soạn thảo và hệ điều hành
+.vscode/
+.idea/
+*.swp
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Log
+*.log

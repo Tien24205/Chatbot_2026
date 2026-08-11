@@ -1,0 +1,48 @@
+# Liên Minh Huyền Thoại (League of Legends)
+
+## Tổng quan
+Liên Minh Huyền Thoại là game MOBA do Riot Games phát triển, phát hành lần đầu năm 2009.
+Tại Việt Nam, game được vận hành bởi VNGGames. Mỗi trận đấu tiêu chuẩn diễn ra giữa hai đội,
+mỗi đội 5 người, trên bản đồ Summoner's Rift. Mục tiêu cuối cùng là phá huỷ Nhà Chính
+(Nexus) của đối phương.
+
+## Bản đồ Summoner's Rift
+Bản đồ có ba đường chính:
+- Đường trên (Top lane): thường dành cho tướng đấu sĩ hoặc đỡ đòn, chơi đơn độc.
+- Đường giữa (Mid lane): thường dành cho pháp sư hoặc sát thủ, là đường ngắn nhất nên
+  dễ di chuyển hỗ trợ các đường khác.
+- Đường dưới (Bot lane): thường có hai người, gồm một Xạ thủ và một Hỗ trợ.
+Giữa các đường là khu vực Rừng (Jungle), nơi người đi rừng dọn quái để lên cấp và tổ chức
+các pha gank.
+
+## Năm vị trí tiêu chuẩn
+1. Đường trên (Top): chịu đòn tốt, thường tách khỏi đội để tạo áp lực đường.
+2. Đi rừng (Jungle): kiểm soát mục tiêu trung lập, quyết định nhịp độ trận đấu.
+3. Đường giữa (Mid): sát thương lớn, có khả năng lăn cầu tuyết sang các đường khác.
+4. Xạ thủ (ADC / Bot): nguồn sát thương vật lý chính ở giai đoạn cuối trận.
+5. Hỗ trợ (Support): bảo vệ xạ thủ, cắm mắt kiểm soát tầm nhìn.
+
+## Mục tiêu trung lập quan trọng
+- Sứ Giả Khe Nứt (Rift Herald): xuất hiện ở hang Baron trong giai đoạn đầu trận, dùng để
+  phá trụ.
+- Baron Nashor: quái mạnh nhất, cho toàn đội buff tăng sức mạnh và tiếp sức lính. Thường là
+  bước đệm để kết thúc trận đấu.
+- Rồng (Drake): mỗi con rồng cho một loại buff cộng dồn vĩnh viễn. Ăn đủ bốn rồng sẽ nhận
+  Linh Hồn Rồng (Dragon Soul), một lợi thế rất lớn.
+- Rồng Ngàn Tuổi (Elder Dragon): xuất hiện sau khi một đội có Linh Hồn Rồng, cho hiệu ứng
+  hành quyết mạnh trong thời gian ngắn.
+
+## Hệ thống trang bị và vàng
+Người chơi kiếm vàng bằng cách hạ lính, hạ tướng địch, phá trụ và ăn quái rừng. Vàng dùng để
+mua trang bị tại cửa hàng khi ở nhà chính. Mỗi tướng thường lên ba đến sáu món trang bị lớn
+trong một trận, tuỳ độ dài trận đấu.
+
+## Chế độ chơi phổ biến
+- Đấu Xếp Hạng (Ranked): hệ thống bậc từ Sắt, Đồng, Bạc, Vàng, Bạch Kim, Kim Cương, Cao Thủ,
+  Đại Cao Thủ đến Thách Đấu.
+- ARAM: bản đồ Howling Abyss chỉ có một đường, tướng được chọn ngẫu nhiên.
+- Đấu Trường Chân Lý (TFT): chế độ cờ nhân phẩm tự động, tách riêng khỏi lối chơi MOBA.
+
+## Giải đấu tại Việt Nam
+Giải đấu chuyên nghiệp cao nhất tại Việt Nam là VCS (Vietnam Championship Series). Đội vô địch
+VCS giành suất tham dự các giải quốc tế như MSI và Chung Kết Thế Giới (Worlds).

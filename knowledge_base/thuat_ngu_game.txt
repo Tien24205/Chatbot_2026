@@ -1,0 +1,50 @@
+# Thuật Ngữ Game Thông Dụng
+
+## Thuật ngữ theo thể loại game
+- MOBA (Multiplayer Online Battle Arena): thể loại đấu trường trực tuyến nhiều người, hai đội
+  phá nhà nhau. Ví dụ: Liên Minh Huyền Thoại, Dota 2, Liên Quân Mobile.
+- FPS (First-Person Shooter): game bắn súng góc nhìn thứ nhất. Ví dụ: Valorant, CS2.
+- RPG (Role-Playing Game): game nhập vai, người chơi phát triển nhân vật theo cốt truyện.
+- Gacha: cơ chế quay ngẫu nhiên để nhận nhân vật hoặc vật phẩm, phổ biến ở game di động.
+- Battle Royale: nhiều người chơi rơi xuống một bản đồ thu hẹp dần, người sống sót cuối cùng
+  thắng. Ví dụ: PUBG, Free Fire.
+
+## Thuật ngữ trong trận đấu
+- Farm: hạ lính hoặc quái để kiếm vàng và kinh nghiệm.
+- Gank: bất ngờ di chuyển đến một đường để tiêu diệt đối thủ đang đơn độc.
+- Snowball (lăn cầu tuyết): tận dụng lợi thế nhỏ ban đầu để nới rộng khoảng cách sức mạnh.
+- Split push: một người đẩy đường lẻ trong khi đồng đội tạo áp lực ở nơi khác.
+- Kite: vừa di chuyển lùi vừa tấn công để không bị áp sát.
+- Poke: gây sát thương từ xa để bào máu trước khi giao tranh.
+- Engage: mở giao tranh tổng.
+- Peel: bảo vệ đồng đội quan trọng bằng cách cản đường kẻ địch.
+- Roam: rời khỏi đường của mình để hỗ trợ các khu vực khác.
+- Zoning: dùng vị trí đứng và tầm đánh để ép đối thủ không thể tiếp cận mục tiêu.
+
+## Thuật ngữ về chỉ số
+- DPS (Damage Per Second): sát thương gây ra mỗi giây.
+- Cooldown (hồi chiêu): thời gian chờ giữa hai lần dùng kỹ năng.
+- Crit (chí mạng): đòn đánh gây sát thương nhân lên.
+- Buff: hiệu ứng tăng sức mạnh tạm thời. Trái nghĩa là Debuff.
+- Nerf: nhà phát hành giảm sức mạnh của một nhân vật hoặc trang bị trong bản cập nhật.
+  Trái nghĩa là Buff (theo nghĩa cập nhật).
+- CC (Crowd Control): các hiệu ứng khống chế như choáng, trói, làm chậm, hất tung.
+- Sustain: khả năng duy trì máu trong giao tranh kéo dài.
+- Burst: sát thương dồn trong thời gian rất ngắn.
+
+## Thuật ngữ cộng đồng
+- Meta: tập hợp các lối chơi và lựa chọn được xem là mạnh nhất ở phiên bản hiện tại.
+- Patch: bản cập nhật cân bằng game do nhà phát hành phát hành định kỳ.
+- Smurf: tài khoản phụ của người chơi giỏi, dùng để chơi ở bậc xếp hạng thấp.
+- AFK (Away From Keyboard): rời trận, không tham gia điều khiển nhân vật.
+- Feed: liên tục bị hạ gục, khiến đối thủ mạnh lên.
+- Carry: người gánh đội, tạo ra phần lớn sát thương hoặc ảnh hưởng.
+- Throw: đang thắng nhưng mắc sai lầm dẫn đến thua trận.
+- Clutch: xoay chuyển tình thế ở khoảnh khắc quyết định.
+- F2P (Free to Play): người chơi không nạp tiền. Trái nghĩa là Whale, người nạp rất nhiều.
+
+## Thuật ngữ esports
+- Bo3, Bo5 (Best of 3, Best of 5): thể thức thi đấu, đội thắng trước 2 hoặc 3 ván sẽ thắng cặp.
+- Pick/Ban: giai đoạn chọn và cấm tướng trước trận.
+- Scrim: trận đấu tập giữa hai đội chuyên nghiệp, không tính thành tích.
+- Roster: danh sách thành viên thi đấu chính thức của một đội.

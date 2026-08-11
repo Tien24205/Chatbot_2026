@@ -1,0 +1,51 @@
+# Liên Quân Mobile (Arena of Valor)
+
+## Tổng quan
+Liên Quân Mobile là game MOBA trên điện thoại do TiMi Studio phát triển, Garena phát hành tại
+Việt Nam từ tháng 11 năm 2016. Đây là một trong những game esports phổ biến nhất tại Việt Nam.
+Một trận đấu tiêu chuẩn kéo dài khoảng 15 đến 20 phút, ngắn hơn đáng kể so với các game MOBA
+trên máy tính.
+
+## Bản đồ và vị trí
+Bản đồ Antaris có ba đường và khu rừng ở giữa. Năm vị trí tiêu chuẩn:
+1. Đường Rồng (đường dưới): dành cho Xạ thủ, gần khu vực Rồng Bạo Chúa.
+2. Đường Quái (đường trên): dành cho Đấu sĩ hoặc Đỡ đòn, chơi đơn.
+3. Đường Giữa: dành cho Pháp sư, hỗ trợ cả hai bên.
+4. Đi Rừng: dọn quái rừng, gank sớm, kiểm soát mục tiêu.
+5. Trợ Thủ: đi kèm Xạ thủ, mua mắt và bảo vệ đồng đội.
+
+## Hệ thống tướng
+Tướng được chia thành sáu nhóm:
+- Đấu sĩ: cân bằng giữa sát thương và máu.
+- Pháp sư: sát thương phép thuật diện rộng.
+- Xạ thủ: sát thương vật lý tầm xa, yếu về máu.
+- Sát thủ: cơ động, tiêu diệt nhanh mục tiêu yếu máu.
+- Đỡ đòn: máu và giáp cao, mở giao tranh.
+- Trợ thủ: hồi phục, khiên và khống chế.
+
+Tướng mua bằng Vàng kiếm trong game hoặc Quân Huy mua bằng tiền thật.
+
+## Mục tiêu trung lập
+- Rồng Bạo Chúa (Tyrant): xuất hiện ở đường dưới, cho vàng và buff cho toàn đội. Sau phút thứ
+  8 sẽ tiến hoá thành Rồng Bạo Chúa Hắc Ám mạnh hơn.
+- Thần Rừng (Overlord): xuất hiện ở đường trên từ phút thứ 8, cho buff mạnh và tiếp sức lính,
+  thường quyết định thắng thua giai đoạn cuối.
+- Bùa Đỏ và Bùa Xanh: buff cá nhân trong rừng, bùa đỏ gây sát thương theo thời gian, bùa xanh
+  giảm thời gian hồi chiêu.
+
+## Trang bị và Ngọc
+Khác với game MOBA trên máy tính, Liên Quân có thêm hệ thống Ngọc. Mỗi người chơi có ba trang
+ngọc, mỗi trang gồm mười viên chia làm ba loại: Ngọc Đỏ (sát thương), Ngọc Tím (tốc độ đánh và
+chí mạng), Ngọc Xanh (phòng thủ và giảm hồi chiêu). Ngọc được kích hoạt ngay từ đầu trận nên
+ảnh hưởng mạnh đến giai đoạn đi đường.
+
+Phù Hiệu là trang bị đặc biệt chỉ được mang một món, ví dụ Phù Hiệu Tốc Biến cho phép dịch
+chuyển tức thời một đoạn ngắn.
+
+## Hệ thống xếp hạng
+Các bậc xếp hạng từ thấp đến cao: Đồng, Bạc, Vàng, Bạch Kim, Kim Cương, Tinh Anh, Cao Thủ,
+Thách Đấu, Chiến Tướng. Từ bậc Kim Cương trở lên, người chơi phải cấm tướng trước mỗi trận.
+
+## Giải đấu
+Giải đấu chuyên nghiệp cao nhất tại Việt Nam là ĐTDV (Đấu Trường Danh Vọng), tổ chức hai mùa
+mỗi năm. Đội vô địch đại diện Việt Nam dự các giải quốc tế như AIC và AWC.

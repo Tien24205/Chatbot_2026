@@ -1,0 +1,26 @@
+services:
+  db:
+    image: pgvector/pgvector:pg17
+    container_name: chatbot_rag_db
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: chatbot_rag
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgrespassword
+    ports:
+      # Cổng 5433 chứ không phải 5432: dự án CRM đã chiếm 5432, để nguyên
+      # sẽ đụng cổng nếu hai container cùng chạy.
+      - "5433:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+      # init.sql chỉ chạy MỘT LẦN, lúc volume còn rỗng. Sửa schema sau đó phải
+      # `docker compose down -v` để xoá volume rồi dựng lại.
+      - ./init.sql:/docker-entrypoint-initdb.d/init.sql:ro
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres -d chatbot_rag"]
+      interval: 3s
+      timeout: 3s
+      retries: 20
+
+volumes:
+  pgdata:

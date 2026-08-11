@@ -1,0 +1,55 @@
+# Genshin Impact (Nguyên Thần)
+
+## Tổng quan
+Genshin Impact là game nhập vai hành động thế giới mở do HoYoverse phát triển, phát hành
+tháng 9 năm 2020. Game miễn phí, doanh thu đến từ hệ thống gacha. Người chơi khám phá lục địa
+Teyvat trong vai Lữ Khách đi tìm người thân thất lạc.
+
+## Hệ thống Nguyên Tố
+Toàn bộ chiến đấu xoay quanh bảy nguyên tố:
+- Hoả (Pyro)
+- Thuỷ (Hydro)
+- Phong (Anemo)
+- Lôi (Electro)
+- Thảo (Dendro)
+- Băng (Cryo)
+- Nham (Geo)
+
+Kết hợp hai nguyên tố lên cùng một kẻ địch sẽ tạo Phản Ứng Nguyên Tố. Một số phản ứng thông dụng:
+- Bốc Hơi (Hoả + Thuỷ): nhân sát thương lên 1.5 hoặc 2 lần tuỳ thứ tự.
+- Tan Chảy (Hoả + Băng): nhân sát thương lên 1.5 hoặc 2 lần tuỳ thứ tự.
+- Quá Tải (Hoả + Lôi): gây sát thương Hoả diện rộng và đẩy lùi kẻ địch.
+- Cảm Ứng (Thảo + Lôi): gây sát thương Thảo lan theo thời gian.
+- Nở Rộ (Thảo + Thuỷ): tạo Hạt Nhân Thảo phát nổ.
+- Khuếch Tán (Phong + nguyên tố khác): lan nguyên tố đó ra xung quanh.
+- Kết Tinh (Nham + nguyên tố khác): tạo mảnh tinh thể cho khiên.
+
+## Các vùng đất trong Teyvat
+- Mondstadt: thành phố của tự do, thần Phong Barbatos.
+- Liyue: cảng thương mại, thần Nham Morax (Chung Ly).
+- Inazuma: quần đảo, thần Lôi Raiden Shogun.
+- Sumeru: rừng mưa và sa mạc, thần Thảo Nahida.
+- Fontaine: vương quốc nước, thần Thuỷ Focalors.
+- Natlan: vùng đất lửa, thần Hoả.
+- Snezhnaya: quê hương của Fatui, chưa mở trong game.
+
+## Hệ thống Gacha
+Người chơi dùng Nguyên Thạch để đổi lấy lượt cầu nguyện. Mỗi lượt tốn 160 Nguyên Thạch.
+Cơ chế bảo hiểm (pity): đảm bảo nhận nhân vật 5 sao trong vòng 90 lượt. Nếu lượt 5 sao đầu
+tiên không phải nhân vật giới hạn (mất 50/50), thì lượt 5 sao kế tiếp chắc chắn là nhân vật
+giới hạn của banner đó.
+
+## Nâng cấp nhân vật
+Sức mạnh nhân vật đến từ bốn nguồn:
+1. Cấp độ nhân vật, tối đa cấp 90 qua sáu lần Đột Phá.
+2. Cấp độ Thiên Phú (Talent), tối đa cấp 10 cho mỗi kỹ năng.
+3. Vũ khí, mỗi nhân vật dùng một trong năm loại: Kiếm Một Tay, Kiếm Hai Tay, Trường Thương,
+   Pháp Khí, Cung.
+4. Thánh Di Vật (Artifact), gồm năm vị trí: Hoa, Lông Vũ, Đồng Hồ Cát, Ly Rượu, Vương Miện.
+   Mặc đủ hai hoặc bốn món cùng bộ sẽ kích hoạt hiệu ứng bộ.
+
+## Hoạt động thường ngày
+- Nhiệm Vụ Hằng Ngày: bốn nhiệm vụ mỗi ngày, thưởng Nguyên Thạch gốc.
+- Bí Cảnh: nơi cày Thánh Di Vật và nguyên liệu vũ khí, tốn Nhựa Nguyên.
+- Nhựa Nguyên: giới hạn 160 điểm, hồi phục 1 điểm mỗi 8 phút.
+- Thâm Cảnh Xoắn Ốc: thử thách chiến đấu 12 tầng, làm mới mỗi nửa tháng.

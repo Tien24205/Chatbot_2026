@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chatbot Kiến Thức Game</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <div class="title">
+      <h1>Chatbot Kiến Thức Game</h1>
+      <p id="status">đang kiểm tra kết nối…</p>
+    </div>
+    <button id="reset" type="button" title="Xoá lịch sử hội thoại">Hội thoại mới</button>
+  </header>
+
+  <main id="messages">
+    <div class="msg bot">
+      <div class="bubble">
+        <p>Xin chào. Tôi trả lời dựa trên tài liệu về <strong>Liên Minh Huyền Thoại</strong>,
+           <strong>Genshin Impact</strong>, <strong>Liên Quân Mobile</strong> và thuật ngữ game.</p>
+        <p>Câu nào ngoài phạm vi đó tôi sẽ nói thẳng là không có thông tin, thay vì đoán.</p>
+      </div>
+    </div>
+  </main>
+
+  <div id="suggestions">
+    <button type="button">Baron Nashor là gì?</button>
+    <button type="button">Cơ chế pity trong Genshin ra sao?</button>
+    <button type="button">Thần Rừng Liên Quân xuất hiện phút mấy?</button>
+    <button type="button">Nerf nghĩa là gì?</button>
+  </div>
+
+  <form id="form" autocomplete="off">
+    <input id="input" type="text" placeholder="Nhập câu hỏi về game…" maxlength="2000" required>
+    <button type="submit" id="send">Gửi</button>
+  </form>
+
+  <script src="app.js"></script>
+</body>
+</html>
