@@ -1,0 +1,36 @@
+# Loumelat
+
+## Thông Tin Cơ Bản
+
+type: NPC Đại Thế Giới
+type2: NPC
+realname: Loumelat bint Atif Abu Rashid
+affiliation: Hội Câu Cá
+region: Sumeru
+location: Sumeru
+title: Thợ Câu Sumeru
+voiceEN: [[imdb:nm5681033
+Skyler Davenport]]<ref name: "SkylerDavenport">Twitter: EN VA Self Announcement
+
+- Tổng Quan: Loumelat là một NPC Thương Nhân tìm thấy tại Thung Lũng Ardravi, Sumeru. Người chơi có thể tìm thấy cô ấy đang câu cá ở phía Bắc Cảng Ormos trên bờ phía Tây của con sông.
+
+- Thoại Nhàn Rỗi: Chỉ dẫn chính xác... : "Everything is guided along the right path. I'm drawn to fishing and the fish are drawn to me." (thoại đầy đủ)
+
+- Suy Nghĩ: Loumelat: (Thật ra có thể tay không bắt cá, nhưng câu cá thì vẫn thú vị hơn.)
+
+## Hội Thoại
+
+Loumelat: Hóa ra câu cá chính là Rashid của tôi.
+Tôi cần một vài dụng cụ câu cá.
+:Loumelat: Cứ chọn đi! Giá cả hợp lý lắm. Cứ yên tâm, chỗ tôi kiếm tiền không phải ở đây. Hi hi.
+Cô là?
+: Loumelat: Tôi là Loumelat bint Atif Abu Rashid, thợ câu cá Sumeru.
+: Loumelat: Đừng thấy tôi giỏi câu cá. Nói cho bạn biết, tôi sinh ra trên sa mạc đó. Tuy sa mạc có ốc đảo, nhưng hồ trong đó gần như không có cá, hồi nhỏ tôi còn không biết cá là gì cơ.
+: Loumelat: Mãi tới sau này, khi tới cảng, tôi mới phát hiện ra tôi câu cá giỏi đến thế. Làm nghề này, tôi làm một năm bằng người ta làm ba năm!
+: Loumelat: Cứ với tốc độ này, chẳng bao lâu nữa, tôi sẽ đón được cha mẹ tôi tới đây sống rồi. Haha, hóa ra đây chính là Rashid của tôi.
+Rashid là gì?
+: Loumelat: Rashid? Rashid chính là chỉ dẫn đúng đắn, chỉ dẫn đúng đắn chính là Rashid! Đây là nghĩa bên quê hương chúng tôi, cũng là tên của tôi.
+: Loumelat: Tôi tin vạn vật đều có Rashid, ví dụ như của tôi là câu cá, của cá là bị tôi câu.
+: Loumelat: Hi hi, bạn tìm được Rashid của mình chưa?
+Tạm biệt.
+: Loumelat: Hẹn gặp lại. Chúc bạn sớm ngày tìm được Rashid của chính mình.

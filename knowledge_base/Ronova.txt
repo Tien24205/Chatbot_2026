@@ -1,0 +1,25 @@
+# Ronova
+
+## Thông Tin Cơ Bản
+
+type: NPC
+affiliation: Bốn Chiếc Bóng
+group: Thần
+title: Chấp Chính Của Cái Chết
+voiceEN: [[imdb:nm12899945
+Aiden Dawn]]<ref name: "Aiden Dawn">Twitter: Tự Công Bố EN VA (Lưu trữ)
+voiceCN: Selene
+voiceJP: w|Fumiko Orikasa|Orikasa Fumiko (ja|折笠富美子)
+voiceKR: Park Yi-seo (kr|박이서)
+
+- Tổng Quan: Ronova là Chấp Chính Của Cái Chết trong Bốn Chiếc Bóng của Thiên Lý. Cô được nhắc đến lần đầu trong và phần cuối trong.
+
+## Tiểu Sử
+
+Ronova là người đã giúp Natlan thành thiết lập các quy tắc của quốc gia, đồng thời bằng tình yêu thương và cũng như để đền bù, cô còn hướng dẫn Dạ Thần Yohualtecuhtin tạo ra Vương Quốc Dạ Thần. Tuy nhiên những hành động này lại được cho là vượt quá quyền hạn của một chiếc bóng và làm phật lòng Thiên Lý.
+
+Sau khi Xbalanque thăng thần và trở thành Hỏa Thần đầu tiên, ngài đã sử dụng ngai thần để mượn sức mạnh của Ronova và thiết lập các quy tắc của Natlan, một khuôn khổ cho phép con người bình thường trở thành Hỏa Thần thông qua Nghi Lễ Hành Hương Về Lửa Thánh. Những người thăng thần sau đó sẽ được ban cho kiến ​​thức và ký ức về vùng đất thông qua Lửa Thánh. Cả hai đã đi đến một thỏa thuận rằng những ai sử dụng sức mạnh của Ronova cuối cùng sẽ phải chết, và nếu bị Thiên Lý truy hỏi, Ronova sẽ phủ nhận mọi liên quan và tuyên bố rằng sức mạnh của ngài đã bị đánh cắp.
+
+## Từ Nguyên
+
+- "Ronova" có khả năng bắt nguồn từ, một Hầu tước và Bá tước vĩ đại của Địa ngục, xếp hạng 27 trong. Ronove được miêu tả là kẻ bắt cóc những linh hồn già nua, thường đến Trái đất để bắt cóc linh hồn của những con người và động vật già yếu sắp chết.

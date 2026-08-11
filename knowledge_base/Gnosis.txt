@@ -1,0 +1,57 @@
+# Gnosis
+
+## Tổng Quan
+
+type: Cốt Truyện
+region: Teyvat
+
+Gnosis là vật phẩm thuộc sỡ hữu của Bảy Vị Thần giúp trực tiếp cộng hưởng với Đảo Thiên Không và là bằng chứng xác nhận trạng thái của một Chấp Chính Trần Thế. Nó có hình dạng của quân cờ vua.
+
+Có nhiều thông tin ẩn ý rằng Gnosis được ban cho các vị thần đã chiến thắng Chiến Tranh Ma Thần.
+
+## Tổng Quan
+
+Gnosis là hiện thân cho sự kiểm soát của Thiên Lý đối với Teyvat cũng như các "luật lệ" của họ, được tạo ra từ di cốt của Kẻ Đổ Bộ Thứ Ba. Sau trận chiến báo thù của Nibelung, Thiên Lý đã bị thương nặng và không thể sử dụng quyền năng tuyệt đối của mình để khuất phục trật tự ban đầu của thế giới nữa, vì vậy Thiên Lý đã cùng với "kẻ đến sau" tạo nên Gnosis là một phần của "trật tự mới". Các ma thần phải chiến đấu với nhau để giành quyền sở hữu Gnosis, bảy người chiến thắng cuối cùng được chọn ra sẽ sở hữu Gnosis mang nguyên tố tương ứng.
+
+Gnosis thường nằm trong ngực của Chấp Chính Trần Thế, mang hình dáng của một quân cờ vua lấp lánh. Chúng có thể bị cưỡng bức lấy ra bằng sức mạnh của một vị thần khác (như sức mạnh mà Nữ Hoàng Băng Giá ban cho 11 Quan Chấp Hành của Fatui) hoặc do vị Chấp Chính Trần Thế tự nguyện lấy ra và trao đi.
+
+Ta biết được rằng có thể Vision bắt đầu xuất hiện cùng lúc với Gnosis hoặc sau khi trật tự Bảy Vị Thần được thiết lập, Venti cũng đã nói Vision có phần "nguyên sơ" hơn so với Gnosis. Gnosis có thể mang tham vọng của người sở hữu, mất đi Gnosis có thể khiến người sở hữu mất đi tham vọng. Giống như Vision, Gnosis không thể bị phá hủy bằng các phương pháp của nhân loại, Ei cũng từng thất bại khi cố chỉnh lý Gnosis thành vật chứa năng lượng dù người khác đã thành công dùng Gnosis để tăng năng lượng cho các thiết bị khác.
+
+## Người Sở Hữu Hiện Tại
+
+Nữ Hoàng Băng Giá đang cố tìm cách lấy được các Gnosis, vẫn chưa rõ lý do người làm vậy. Sau, hiện có sáu Gnosis đang nằm trong tay Fatui:
+- Gnosis do Nữ Hoàng Băng Giá sở hữu.
+- Gnosis do Signora cưỡng đoạt từ Barbatos.
+- Gnosis do Nham Vương Đế Quân trao cho Signora thông qua khế ước của ngài và Nữ Hoàng Băng Giá.
+- Gnosis do Tiểu Vương Kusanali trao cho Dottore với điều kiện Dottore phải loại bỏ hoàn toàn các phân thân của hắn, hoặc không cô sẽ phá hủy chiếc Gnosis có thể đánh thức Thiên Lý.
+#* Tiểu Vương Kusanali lấy được Gnosis sau khi đánh bại Scaramouche. Trước đây Yae Miko được Ei tin tưởng giao cho giữ Gnosis vì người không còn cần đến nó nữa. Yae Miko đã trao nó cho Scaramouche để đổi lấy mạng sống của Nhà Lữ Hành.
+- Gnosis do Tiểu Vương Kusanali trao cho Dottore nhằm lấy được thông tin về lời đồn "bầu trời sao của Teyvat là giả"
+- Gnosis do Neuvillette trao cho Arlecchino như một "món quà ngoại giao" dành cho cô nhờ sự giúp đỡ của cô cùng Tartaglia trong việc ngăn chặn lời tiên tri.
+#* Neuvillette nhận được Gnosis sau khi Focalors tự hành quyết bản thân bằng Cỗ Máy Chỉ Thị Phán Quyết.
+- Gnosis hiện đang do Haborym nắm giữ.
+
+## Khả Năng
+
+Hiện có rất ít thông tin về khả năng của Gnosis. Cho đến hiện tại, ta biết được Gnosis có thể:
+- cho phép Chấp Chính Trần Thế cộng hưởng trực tiếp với Đảo Thiên Không.
+- ban cho vị Chấp Chính sở hữu nó "thần lực" để bảo vệ quốc gia của mình.
+- cho phép người sở hữu triệu hồi một lượng lớn sức mạnh nguyên tố dưới quyền của người sở hữu nó.
+
+Không giống như con người, Chấp Chính Trần Thế đã có sẵn sức mạnh nguyên tố trong mình và không cần đến Gnosis để có thể sử dụng sức mạnh nguyên tố, thấy được qua cách Venti, Zhongli, Ei và Nahida sử dụng sức mạnh nguyên tố của mình trong các trận chiến diễn ra trong Nhiệm Vụ Truyền Thuyết của họ - phần câu chuyện diễn ra sau khi họ đã không còn Gnosis. Như vậy, ta suy ra được rằng Gnosis có thể cường hóa sức mạnh của Chấp Chính Trần Thế, như Zhongli đã từng nói rằng "sức mạnh của Nham Thần" là thứ cần thiết trong việc tạo ra Mora cùng với ám chỉ rằng Hoàng Kim Ốc có thể sẽ phải đóng cửa tạm thời bởi ngài không còn có thể tạo ra Mora được nữa. Ngài cũng có ẩn ý rằng ngài đã mất đi một phần sức mạnh đáng kể kể từ khi từ bỏ Gnosis, và Azhdaha cũng có thể cảm nhận được rằng Zhongli đã không còn là Nham Thần nữa.
+
+Một vị thần có thể dùng Gnosis nguyên tố khác để tập trung sức mạnh nguyên tố của mình như cách Nahida dùng Gnosis Lôi để triệu hồi sức mạnh nguyên tố Thảo mở ra không gian ý thức của Đại Vương Rukkhadevata. Tuy nhiên vẫn chưa rõ liệu một vị thần có thể sử dụng Gnosis khác để điều khiển hoàn toàn nguyên tố của Gnosis đó hay không, đối thoại của Dottore với Nahida cho ta biết rằng việc đó không thể thực hiện được.
+
+Sau khi được biến trở thành một vị thần, Scaramouche đã sử dụng Gnosis Lôi để điều khiển thời tiết ở Pardis Dhyai, gọi sấm sét tấn công rất nhiều binh lính của Fatui và Tighnari. Như Bên Cạnh Thần Hiện vẫn chưa biết hắn có bất kỳ khả năng nguyên tố nào hay có khả năng sử dụng Gnosis trước khi được phong thần hay không.
+
+## Sử Dụng Như Một Nguồn Sức Mạnh
+
+Ei không thể tạo ra cơ thể vật lý để chứa Gnosis, đồng thời cũng không thể chỉnh lý Gnosis thành một thiết bị cung cấp năng lượng, tuy nhiên đã có những trường hợp thành công dùng Gnosis để cung cấp năng lương cho các thiết bị khác. Hiện ta biết được:
+- Hệ Thống Akasha của Sumeru do Đại Vương Rukkhadevata tạo ra, được dùng để chiến đấu với tri thức cấm kỵ trong đại tai ương bằng cách kết nối tâm trí của những người đeo Thiết Bị Đầu Cuối Akasha. Nó cần đến năng lượng của Gnosis Thảo để hoạt động, và hệ thống đã vô hiệu kể từ khi Gnosis nằm trong tay Fatui.
+- Shouki no Kami, một lớp vỏ cơ học được dùng để biến Scaramouche thành một ngụy thần do các hiền giả ở Giáo Viện Sumeru hợp tác với Dottore và Fatui tạo thành. Sau khi Scaramouche bị Tiểu Vương Kusanali và Nhà Lữ Hành đánh bại, nó đã không còn tồn tại nữa.
+- Cỗ Máy Chỉ Thị Phán Quyết ở Fontaine chứa Gnosis Thủy sau khi Focalors hợp nhất chúng lại để tạo và chứa đủ lượng Indemnitium có thể hành quyết Focalors và phá hủy ngai Thủy Thần. Sau khi Focalors bị hành quyết, cỗ máy đã ngừng hoạt động.
+
+## Từ Nguyên
+
+- Trong, là thuật ngữ dùng để chỉ trí tuệ, tri thức hay sái nhìn sâu sắc về bản chất của thần. Thông qua Gnosis, một người có thể vượt qua các cõi vật chất do bảy vị chấp chính khống chế và vào cõi siêu thiên của.
+- Thuật ngữ tiếng trung của Gnosis, tương đương với thuật ngữ. Cả hai đều được gọi là, trong bản bản địa hóa tiếng Việt, chúng được gọi là "vật chứa đựng ma thuật/trang bị ma thuật".
+- Trong Chương Teyvat - Vở Kịch Đêm Đông, sau khi Capitano hỏi về Scaramouche và Gnosis của Inazuma, Dottore đã trả lời rằng "'Kiến Thức Thần Thánh' là loại kiến thức mà lý trí không thể hiểu được". Bản gốc tiếng Trung của "Kiến Thức Thần Thánh" là, ở đây là thuật ngữ tiếng Trung của gnosis trong thuyết ngộ đạo.-->

@@ -1,0 +1,37 @@
+# Cường Hóa Chất Xúc Tác Lưu Minh Thạch
+
+## Tổng Quan
+
+type: Hệ Thống Trò Chơi
+group: Hệ Thống Hiến Tế
+region: Liyue
+area: Vực Đá Sâu - Khu Mỏ Ngầm
+
+Cường Hóa Chất Xúc Tác Lưu Minh Tinh Thạch là Hệ Thống Hiến Tế xuất hiện tại Vực Đá Sâu - Khu Mỏ Ngầm, mở tại NPC Jinwu cho phép cường hóa Chất Xúc Tác Lưu Minh Thạch, một đạo cụ cần thiết khi khám phá Vực Đá Sâu.
+
+- Giáo Trình: Cường Hóa Chất Xúc Tác Lưu Minh Tinh Thạch
+
+## Phần Thưởng
+
+Mỗi cấp hiến tế yêu cầu 8. Ở mỗi cấp 2, 6, 8 sẽ cần thêm 1. Cần tổng cộng 80 Lưu Minh Tinh Thạch và 3 Quặng Lưu Minh để đạt cấp tối đa. Đạt cấp tối đa sẽ đạt được thành tựu.
+
+Ở Cấp 0, Chất Xúc Tác Lưu Minh Thạch trữ được 1 điểm Năng Lượng, chiếu sáng một khu vực nhỏ và các cơ quan cảm quan đặc biệt.
+
+Cấp tối đa sẽ thưởng:
+
+Mỗi cấp tương ứng sẽ thưởng:
+
+## Khả Năng Đặc Biệt Tại Cấp Tối Đa
+
+Ở "Vực Đá Sâu - Khu Mỏ Ngầm", Chất Xúc Tác Lưu Minh Thạch sau khi trang bị sẽ có những hiệu quả sau:
+- Có thể hủy bỏ hạn chế của "Bùn Đất", khiến nhân vật dù đang ở trong vũng bùn cũng có thể sử dụng xung kích và thay thế xung kích;
+- Khi có năng lượng, sẽ soi sáng cho nhân vật ở phạm vi nhất định, và có thể kích hoạt cơ quan cảm quang đặc biệt;
+- Tiêu hao năng lượng Chất Xúc Tác Lưu Minh Thạch lưu trữ có thể nạp năng lượng cho cơ quan.
+
+Ngoài ra, khi chủ động sử dụng, Chất Xúc Tác Lưu Minh Thạch sẽ tiêu hao 1 đơn vị năng lượng để "Khuếch Đại Ánh Sáng".
+"Khuếch Đại Ánh Sáng" có những hiệu quả và thuộc tính sau:
+- Thi triển năng lượng lớn mạnh để phá hủy "Bãi Phù Sa" bậc 1 và bậc 2 ở phạm vi lớn;
+- Hồi một lượng thể lực.
+- Đánh dấu "Lưu Minh Tinh Thạch" xung quanh;
+- Mỗi 2s tối đa sử dụng 1 lần.
+Chất Xúc Tác Lưu Minh Thạch tối đa lưu trữ 10 đơn vị năng lượng.

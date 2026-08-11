@@ -1,0 +1,9 @@
+# Ly Không Gian
+
+## Tổng Quan
+
+type: Món Thánh Di Vật
+
+Ly Không Gian (hay còn được biết là "ly" hoặc "cốc") là một món Thánh Di Vật trong Genshin Impact. Nó tăng chỉ số nhân vật và hiện có sẵn 11 Chỉ Số Chính: HP%, Phồng Ngự%, Tấn Công%, Tinh Thông Nguyên Tố hoặc Tăng ST Vật Lý//////. Món Thánh Di Vật này có sẵn ở mọi độ hiếm (1-5 sao).
+
+Đây được cho là Món Thánh Di Vật khó khăn nhất để có "chỉ số đẹp" vì với số lượng khủng Chỉ Số Chính và một số còn có xác suất thấp khi nhận được. Một số thí nghiệm do cộng đồng làm chỉ ra xác suất ra cao nhất của chỉ số chính là Phòng Ngự% (21%), Tấn Công% (21%) và HP% (19%) trong khi Tăng ST Nguyên Tố/Vật Lý chỉ có xác suất khoảng 4-5% nhận được với mỗi nguyên tố (và vật lý), và Tinh Thông Nguyên Tố chỉ có xác suất 2-4% mà thôi.

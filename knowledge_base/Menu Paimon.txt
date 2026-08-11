@@ -1,0 +1,28 @@
+# Menu Paimon
+
+## Tổng Quan
+
+type: Hệ Thống Trò Chơi
+group: Giao Diện
+
+Giao Diện Paimon là menu tạm dừng trong Genshin Impact.
+
+Có thể mở khóa hầu hết lựa chọn trong giao diện này sau khi hoàn thành. Khi tăng Hạng Mạo Hiểm, nhiều tính năng trong giao diện sẽ được mở khóa.
+
+Khi ở Đại Thế Giới có thể mở Giao Diện Paimon bằng cách nhấn vào biểu tượng góc trên bên trái màn hình hoặc nhấn nút trên PC, / trên tay cầm chơi game. Không thể mở Giao Diện Paimon trong Bí Cảnh, La Hoàn Thâm Cảnh và Chế Độ Cốt Truyện Đặc Biệt.
+
+Trong chế độ chơi đơn, khi mở menu Paimon, toàn bộ hoạt động của trò chơi sẽ tạm dừng, ngoại trừ hầu hết các hiệu ứng hạt và Âm Nhạc. Paimon sẽ xuất hiện ở bên phải màn hình và thường xuyên sử dụng các hoạt ảnh chờ. Cô ấy sẽ biến mất với một vệt chòm sao khi menu được đóng lại.
+
+Trong chế độ nhiều người chơi và trong Ấm Trần Ca, hoạt động của trò chơi sẽ không bị tạm dừng, vì vậy nhân vật vẫn chịu ảnh hưởng của môi trường, đồng thời vẫn sử dụng các câu thoại và hoạt ảnh chờ của họ như bình thường.
+
+- Trong Teyvat: Giao Diện Paimon thông thường mà người chơi có thể mở khi ở Teyvat. Một số chức năng của Thiên Tinh Kỳ Vực có thể xem bằng cách kéo xuống trong phần giao diện.
+
+- Cửa Hàng Thiên Tinh - Kỳ Vực Nổi Tiếng - Sưu Tầm Kỳ Vực - Kỳ Vực Của Tôi (chỉ hiển thị trên phiên bản PC) - Đại Sảnh - Kết Hợp Ngoại Hình - Ca Tụng - Sử Ký
+
+- Quay Lại - Chụp Ảnh - Bản Tin - Thư - Thời Gian - Cài Đặt - Thoát Trò Chơi
+
+- Trong Thiên Tinh Kỳ Vực: Giao Diện Paimon đặc biệt mà người chơi có thể mở khi ở Thiên Tinh Kỳ Vực. Các chức năng cơ bản có thể được mở bằng cách kéo xuống trong phần giao diện.
+
+- Cửa Hàng - Thư Viện - Thư Viện Nhân Vật - Nhân Vật - Nhiệm Vụ - Cầu Nguyện - Nhật Ký Hành Trình
+
+- Thanh Bên: Không thể sử dụng tính năng Thời Gian. - Quay Lại - Chụp Ảnh - Bản Tin - Thư - Cài Đặt - Thoát Trò Chơi

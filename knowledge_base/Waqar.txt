@@ -1,0 +1,15 @@
+# Waqar
+
+## Thông Tin Cơ Bản
+
+type: NPC Nhiệm Vụ
+deceased: Có thể đã chết trong Nỗi Tuyệt Vọng Phía Trên Cao. Điều kiện để có thể còn sống: - Chọn "Chìm Trong Vây Hãm" tại Điểm 1 trong khi diễn ra Sóng Đen Cuồn Cuộn
+region: Natlan
+location: Natlan
+affiliation: Chủ Nhân Gió Đêm
+
+- Tổng Quan: Waqar là một NPC độc quyền nhiệm vụ xuất hiện trong.
+
+- Tiểu Sử: (Sẽ được bổ sung.)
+
+- Ngoại Hình: (Sẽ được bổ sung.)

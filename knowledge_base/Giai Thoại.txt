@@ -1,0 +1,23 @@
+# Giai Thoại
+
+## Tổng Quan
+
+type: Phân Loại Nhiệm Vụ
+
+Giai Thoại là những nhiệm vụ hội thoại ngắn, liên quan đến:
+- Hệ thống Câu Chuyện Lữ Hành.
+- Các sự kiện trong Câu Chuyện Lữ Hành đã diễn ra.
+Giai Thoại cũng có thể liên quan đến:
+- Duyên Vẽ Ước Nguyện thưởng hoàn thành giai thoại trong Câu Chuyện Lữ Hành.
+
+- Danh Sách Giai Thoại: Đến xem Câu Chuyện Lữ Hành - Danh Sách Giai Thoại.
+
+## Lưu Ý Về Cách Chơi
+
+- Có thể sẽ xuất hiện một số giai thoại trên bản đồ, một số giai thoại khác có thể được mở khi hoàn thành một số điều kiện.
+- Sau khi hoàn thành, các nhân vật trong một số câu chuyện sẽ tạm thời ở lại thế giới và có thêm các đoạn hội thoại tùy chọn. Những nhân vật này sẽ biến mất khi người chơi di chuyển đến khu vực khác, tương tự đối với nhân vật sau một số Nhiệm vụ Thế giới và Nhiệm vụ Ma Thần.
+- Một số giai thoại yêu cầu hoàn thành các giai thoại khác trước khi có thể hoàn thành, có thể là những giai thoại từ cùng một nhân vật hoặc từ các nhân vật khác.
+- Không thể hoàn thành giai thoại nếu:
+- Nhân vật bị nhiệm vụ khác chiếm dụng.
+- Chưa hoàn thành điều kiện cần thiết.
+- Có giai thoại khác của nhân vật đang xuất hiện trên bản đồ.

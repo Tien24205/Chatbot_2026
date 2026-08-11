@@ -1,0 +1,22 @@
+# Tốc Độ Tấn Công
+
+## Tổng Quan
+
+type: Chỉ Số
+type2: Chiến Đấu
+type3: Hệ Thống Trò Chơi
+
+Tốc Độ Tấn Công là chỉ số liên quan đến tốc độ ra đòn tấn công của nhân vật.
+
+Hiệu quả liên quan đến Tốc Độ Tấn Công có thể đến từ nhân vật hoặc vũ khí, đồng thời nhiều hiệu quả có thể xảy ra cùng lúc. Cùng với các hiệu quả tăng Sát Thương đầu ra, tăng tốc độ tấn công khiến sát thương đầu ra trên giây tăng. Trừ khi được viết thêm là tăng tốc độ trọng kích, hiệu quả "tăng Tốc Độ Tấn Công" chỉ tăng tốc độ Tấn Công Thường.
+
+Tốc Độ Di Chuyển không khiến tốc độ tấn công tăng.
+
+- Nhân Vật: Một số nhân vật có thể tăng tốc độ tấn công từ thiên phú hoặc cung mệnh.
+
+- Khác: Một vài Địa Mạch Bất Thường giúp tăng tốc độ tấn công của nhân vật.
+
+## Lưu Ý
+
+- Có thể hiệu quả Tăng Tốc Độ Tấn Công bão hòa ở mức +63%, tức là khi chỉ số Tăng Tốc Độ Tấn Công vượt mức này, tốc độ tấn công không tăng lên.
+- Một vài mẹo hủy hoạt ảnh có thể gia tăng tốc độ tấn công đáng kể, gồm nhảy và lướt khi ở cuối chuỗi tấn công.

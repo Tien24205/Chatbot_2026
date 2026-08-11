@@ -1,0 +1,16 @@
+# Biển Vỡ Vụn
+
+## Thám Hiểm
+
+title: Biển Vỡ Vụn
+type: Phân Khu
+map: Simulanka
+area: Simulanka
+event: Rồng Và Vương Quốc Hè
+
+- Trụ Tiên Tri — hai trụ tiên tri có thể liên kết tạo thành 1 sợi chỉ ma thuật, một vài sợi chỉ người chơi có thể bay qua chúng
+- Khối Gỗ Bay Cao — khối gỗ lớn đóng vai trò như đệm nhảy sẽ bắn người chơi lên không trung.
+- Khối Ghép — khối gỗ nhỏ có thể ghép lại với nhau.
+- Bom Khối Gỗ Và Quặng Khối Gỗ — Bom Khối Gỗ có thể sử dụng để phá huỷ các Quặng Khối Gỗ đặc biệt.
+- Hoa Khối Gỗ — tạo ra một vùng gió khi bị tấn công.
+- Diêm Khối Gỗ — khối gỗ dùng để châm lửa các khối gỗ đỏ.

@@ -1,0 +1,24 @@
+# Phước Lành Của Ngọc Tế Lễ
+
+## Tổng Quan
+
+type: Hệ Thống Trò Chơi
+group: Hệ Thống Hiến Tế
+region: Liyue
+subregion: Trầm Ngọc Cốc
+area: Lai Hâm Sơn
+subarea: Cẩm Lạc Đình
+
+Phước Lành Của Ngọc Tế Lễ là một Hệ Thống Hiến Tế được nâng cấp bằng Cá Chép Thương Linh. Có thể tìm thấy Phước Lành Của Ngọc Tế Lễ tại Ngọc Tế Lễ bên trong Cẩm Lạc Đình, Trầm Ngọc Cốc, Liyue.
+
+Phước Lành Của Ngọc Tế Lễ sẽ được mở khóa sau khi hoàn thành.
+
+Sau khi thu thập đủ 40 Cá Chép Thương Linh, người chơi sẽ nhận được gợi ý từ Ngọc Tế Lễ, trên bản đồ sẽ hiển thị tất cả vị trí của Cá Chép Thương Linh còn lại.
+
+## Phần Thưởng
+
+Mỗi lần nâng cấp Phước Lành Của Ngọc Tế Lễ cần 5. Người chơi cần tổng cộng 50 Cá Chép Thương Linh để đạt được cấp tối đa. Sau khi đạt được cấp tối đa, người chơi sẽ nhận được.
+
+Mỗi cấp sẽ nhận được:
+
+Ngoài những phần thưởng trên, mỗi cấp còn nhận được một bộ vật phẩm khác nhau. Mỗi phần thưởng chỉ nhận được một lần, thứ tự nhận thưởng sẽ ngẫu nhiên:

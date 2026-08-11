@@ -1,0 +1,32 @@
+# Mualani
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+quality: 5
+weapon: Pháp Khí
+element: Thủy
+name: Mualani
+birthday: 03 tháng 08
+constellation: Lãng Hải Báo
+region: Natlan
+affiliation: Cư Dân Suối Nước
+affiliationLabel: Meztli
+affiliation2: Tiệm Cá Nóc Nhàn Nhã
+dish: May Mắn Truyền Tay
+namecard: Cá Mập
+obtain: Cầu Nguyện Nhân Vật
+event_name: Cá Mập Lướt Sóng
+releaseDate: 2024-08-28
+title: Người Đuổi Theo Sóng
+title2: Người Dẫn Đường Của Meztli
+voiceEN: w|Cassandra Lee Morris
+voiceCN: Wang Xiaotong (zh|王晓彤)
+voiceJP: w|Nao Tōyama|Toyama Nao (ja|東山奈央)
+voiceKR: w|ko:김도희_(성우)|Kim Do-hee (ko|김도희)
+
+## Tổng Quan
+
+Mualani là một nhân vật hệ chơi được trong Genshin Impact.
+
+Là một người dẫn đường, người kinh doanh cửa hàng thể thao trên nước cho Cư Dân Suối Nước và người sở hữu Tên Cổ, Mualani là một người năng động và ngọt ngào, cô luôn biết cách làm hài lòng mọi khách hàng ghé đến cửa tiệm của mình.

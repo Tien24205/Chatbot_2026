@@ -1,0 +1,34 @@
+# Prune
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+quality: 4
+weapon: Pháp Khí
+element: Phong
+teamBonus: Hexerei
+name: Prune
+birthday: 20 tháng 11
+constellation: Ma Tháp
+region: Mondstadt
+region2: Nod-Krai
+regionNote2: trong cốt truyện
+affiliation: Thành Mondstadt
+affiliationLabel: Mondstadt
+dish: Vòng Xoay Đặc Biệt
+namecard: Trừng Phạt
+obtain: Cầu Nguyện
+releaseDate: 2026-05-20 11:00:00 GMT+8
+title: Giấc Mơ Trẻ Thơ
+title2: "Thợ Săn Ma Nữ" Nhí Được Lý Trí Dẫn Dắt
+voiceEN: [[imdb:nm12363730
+Alice Himora]]<ref>YouTube: [https://www.youtube.com/watch?v: Tq9rQtiHg5U Video Giới Thiệu Phiên Bản Luna VII "Purana Hư Không Và Tro Tàn"] (Mô tả video)
+voiceCN: Yanning (zh|宴宁)
+voiceJP: w|ja:長月あおい|Nagatsuki Aoi (ja|長月 あおい)
+voiceKR: Jang Ye-na (ko|장예나)YouTube: 원신
+
+## Tổng Quan
+
+Prune là một nhân vật hệ chơi được trong Genshin Impact.
+
+Một "Thợ Săn Ma Nữ" tự xưng, Prune đã đi từ Nod-Krai đến Mondstadt để tìm kiếm Alice sau khi cô "bắt cóc" người bạn trong tưởng tượng của cô bé có tên là Descartes. Tại đó, Prune đã gặp con gái của Alice, Klee, và dán áp phích nói xấu Alice khắp nơi tại Mondstadt; tuy nhiên không mấy ai bận tâm đến điều này cho lắm.

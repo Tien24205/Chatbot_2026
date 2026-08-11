@@ -1,0 +1,125 @@
+# Dottore
+
+## Thông Tin Cơ Bản
+
+name: Il Dottore
+type: NPC Nhiệm Vụ
+deceased: Bản thể gốc của Zandik đã chết trước khi các sự kiện trong trò chơi bắt đầu; các phân mảnh đã bị phá hủy bởi Omega Build trong Đích Đến Của Con Thuyền Ý Thức; Omega Build đã bị phá hủy cùng với Cây Thế Giới trong Purana Hư Không Và Tro Tàn
+title: The Doctor
+title2: Đấng Cao Quý Của Tà Đạo
+title3: Kẻ Dị Giáo Của Mặt Trăng Giả
+title4: Người Bị Trục Xuất
+title5: Thứ 2 trong 11 Quan Chấp Hành của Fatui
+region: Sumeru
+region2: Snezhnaya
+element: Băng
+element2: Lôi
+element3: Thủy
+element4: Hỏa
+location: Sumeru
+location2: Nod-Krai
+affiliation: Fatui
+affiliationNote: trước đây
+affiliation2: 11 Quan Chấp Hành Của Fatui
+affiliationNote2: trước đây
+affiliation3: Giáo Viện Sumeru
+affiliationNote3: trước đây
+realname: Zandik
+voiceEN: w|Mick Wingert Matthew Greenbaum (với thân phận Escher)
+voiceCN: w|zh:吳磊_(配音演员)|Wu Lei (zh|吴磊)
+voiceJP: w|Toshihiko Seki|Seki Toshihiko (ja|関俊彦)
+voiceKR: w|ko:박성태|Park Seong-tae (ko|박성태)
+
+## Tổng Quan
+
+Il Dottore, còn được biết đến là Zandik và mật danh "The Doctor", là Quan Chấp Hành Thứ 2 trong 11 Quan Chấp Hành Fatui.
+
+Anh xuất hiện lần đầu trong bộ truyện tranh có bối cảnh trước cốt truyện chính của game, với tư cách là nhà ngoại giao được cử đến Mondstadt. Ở thời điểm hiện tại, anh xuất hiện trong Chương Teyvat - Vở Kịch Đêm Đông cùng với các Quan Chấp Hành khác. Anh chính thức xuất hiện trong game (ở dạng Omega Build) trong, tại đây anh đã tiết lộ rằng bản thân đang hợp tác với các học giả của Giáo Viện Sumeru.
+
+## Tiểu Sử
+
+Nghiên cứu vô bờ bến của Dottore nhằm tạo ra một vị thần hay đưa con người đến gần cảnh giới của thần đã khiến anh trở nên tách biệt với xã hội, nhưng đồng thời cũng là con đường giúp anh trở thành Quan Chấp Hành Thứ 2 trong 11 Quan Chấp Hành Fatui, với sức mạnh được cho là sánh ngang với thần. Anh hiểu biết về mọi chủ đề, từ nghiên cứu các Cổ Máy Bí Ẩn của Khaenri'ah cho đến vũ khí hóa Tri Thức Cấm Kỵ (thông qua Tử Vực và Eleazar), ngoài ra anh cũng tìm cách sử dụng sức mạnh của giấc mơ để cường hóa khả năng nhận thức của con người. Tất cả đều hướng tới mục tiêu cuối cùng là đưa con người đến gần cảnh giới của thần linh. Tham vọng này rất có thể là lý do khiến Pantalone, người mong muốn "san bằng khoảng cách vốn có giữa thần linh và con người", quyết định hợp tác với Dottore.
+
+Việc theo đuổi các sở thích nghiên cứu đã khiến Dottore bất chấp mọi nguyên tắc đạo đức, điều này giúp anh trở thành một nhà nghiên cứu xuất chúng nhưng lại khiến nhiều người chịu giày vò đau khổ. Mặc dù chi tiết về việc anh bị trục xuất khỏi Giáo Viện Sumeru còn mơ hồ, nhưng sự việc này xảy ra sau khi có cuộc điều tra về vụ việc sát hại Sohreh và một chuỗi các sai phạm mà anh đã gây ra nhằm thực hiện nghiên cứu "mà không được cho phép". Các thí nghiệm của Dottore không chỉ giới hạn quanh thần linh; sau khi thấy "kabukimono" được chấp nhận ở Tatarasuna, Dottore đã lên kế hoạch dàn dựng một thí nghiệm liên quan đến sát hại và sự phản bội, tất cả chỉ để theo dõi phản ứng của kabukimono. Kết quả của cuộc thí nghiệm dẫn đến việc kabukimono được Pierro chiêu mộ vào Fatui, được mời tham gia vào "kế hoạch nghiên cứu vĩ đại" của Dottore và cuối cùng trở thành Quan Chấp Hành Scaramouche.
+
+Để vượt ra khỏi giới hạn nhận thức và tuổi thọ con người của mình, Dottore đã tạo ra các "phiên bản" của chính mình sau vài thập kỷ nghiên cứu kỹ thuật chế tạo con rối thông qua việc sử dụng Scaramouche làm khuôn mẫu cơ bản. Mỗi "phiên bản" đại diện cho Dottore ở một độ tuổi khác nhau trong đời anh và được phát triển thành một cá thể độc lập nhằm lưu giữ những góc độ nhận thức riêng. Anh coi đây là thành tựu lớn nhất của mình với tư cách là một nhà nghiên cứu và rất vui sướng khi Tiểu Vương Kusanali tỏ ra phản đối việc này. Tuy nhiên, sự mâu thuẫn bên trong Dottore khiến các "phiên bản" khó hợp tác với nhau, Tiểu Vương Kusanali đã lợi dụng điều đó để buộc "phiên bản" đang đối đầu với cô phải xóa bỏ những "phiên bản" còn lại để đổi lấy Gnosis Lôi.
+
+Một số Quan Chấp Hành bao gồm Arlecchino và Sandrone đều không thích Dottore. Arlecchino cho biết rằng nếu Dottore không phải là một Quan Chấp Hành thì cô đã giết hắn từ lâu và việc hắn biến mất chính là "một món quà dành cho thế giới". Trong khi đó, Sandrone thì lại tin rằng nói chuyện với máy móc của mình còn giống con người hơn với Dottore.
+
+## Ngoại Hình
+
+Cho đến hiện tại, các "phiên bản" xuất hiện trong truyện tranh và game của Dottore đều là một người đàn ông trưởng thành có đôi mắt đỏ, tóc xanh uốn lượn và làn da nhợt nhạt. Dottore đeo một chiếc khuyên tai màu xanh phát sáng trên tai phải, một đặc điểm chung của tất cả các "mô hình" được biết đến của anh. Khi còn ở Giáo Viện Sumeru, Sohreh nhận xét trông anh rất "trẻ" và "đẹp trai".
+
+Trong truyện tranh, Dottore có tóc xoăn ngắn màu xanh nhạt, mặc một chiếc áo khoác dài màu trắng bên ngoài bộ vest sọc dọc cùng với sơ mi trắng, kèm theo nơ cổ màu hồng dưới cổ áo. Anh đeo trên mặt một chiếc mặt nạ trắng đen che kín toàn bộ khuôn mặt, chỉ chừa đôi mắt và một vùng tròn bên phải miệng. Trên góc trên của chiếc mặt nạ có in biểu tượng Fatui.
+
+Mô hình Omega của Dottore được thấy trong Vở Kịch Đêm Đông và trong game có tóc dài hơn và mang một chiếc mặt nạ hình mỏ chim màu đen chỉ che phần mắt. Anh mặc một chiếc áo khoác dài màu trắng bên ngoài sơ mi xanh và thắt cà vạt, với một phụ kiện hình quạ choàng qua vai. Nhiều phụ kiện màu xanh nhạt phát sáng có thể được tìm thấy trên người anh, ví dụ như mắt con quạ, ngực và trên sợi dây buông thõng từ vai trái. Ngoài ra, anh còn đeo găng tay đen có màu xanh ở lòng bàn tay và mặc quần dài đen ống rộng. Dựa trên ghi chép về ký ức của anh trong Cây Thế Giới, mô hình Omega này bắt nguồn từ diện mạo và tính cách của Dottore từ 400 năm trước, khoảng thời gian anh chủ mưu gây ra sự kiện "Tatarasuna Huyền Bí".
+
+Dottore cũng có thể thay đổi hoàn toàn ngoại hình của mình, trong nhiệm vụ Chim Đêm Sa Ngã Dưới Bức Rèm, anh cải trang thành thợ cơ khí đến từ Fontaine tên là Escher. Trong nhiệm vụ này, anh mặc trang phục Fontaine và đeo 1 cái đai treo dao sau lưng.
+
+## Trước Khi Gia Nhập Fatui
+
+Từ khi còn trẻ, Dottore, khi đó mang tên Zandik, đã ám ảnh với việc tạo ra "con người nâng cấp" có khả năng vượt qua cả thần linh. Hiện vẫn chưa rõ liệu chính tham vọng này có phải là lý do khiến anh bị đuổi khỏi quê hương và bị gọi là "quái vật" và "kẻ điên" sau khi gia nhập Giáo Viện Sumeru hay không. Học Phái của anh không được đề cập, chỉ biết rằng anh không thuộc học phái Amurta. Hầu hết các hành động của anh trong thời gian đó đã được ghi lại trong loạt vật phẩm tương tác Di Sản Của Zandik, vốn có liên quan mật thiết đến lịch sử của Thung Lũng Ardravi.
+
+Zandik từng tham gia vào chuyến thám hiểm đến thành phố sa mạc cổ Gurabad. Tại đây anh đã phát hiện ra các loại máy móc và công nghệ mà anh tin rằng được tạo ra bởi một nền văn minh không nằm dưới sự cai trị của Bảy Vị Thần. Tuy vậy, những "Mẫu Vật Thành Gurabad", tên gọi anh đặt cho chúng, lại bị phân mảnh và không hoàn chỉnh, khiến anh có rất ít manh mối để tiếp tục nghiên cứu.
+
+Sau đó, anh tham gia chuyến thám hiểm Thung Lũng Ardravi với tư cách là một Dastur tập sự, tại nơi này anh đã phát hiện nhiều mảnh vỡ thuộc về Mẫu Vật Thành Gurabad. Anh tin rằng bản thân có thể sữa chữa hệ thống tự động của cỗ máy bằng những bộ phận này. Trong thời gian này, anh cũng phát hiện ra các ghi chép của Kỵ Sĩ Thiên Nga (Nhà Lữ Hành cũng có thể tự tìm ra chúng) để lại và liên kết chúng với những truyền thuyết về Phế Tích Dahri.
+
+Trong chuyến thám hiểm rừng sâu, Zandik đã được ghép cặp với một Dastur tên là Sohreh. Dù ban đầu cô cho rằng anh quá "cổ hủ" và than vãn phong cách nghiên cứu của anh quá đối lập so với Học Phái Amurta khiến cho hai người không có tiếng nói chung, nhưng cuối cùng họ vẫn nói chuyện về thực vật và động vật địa phương. Sohreh mô tả đó là "một khoảng thời gian tuyệt vời", ghi chép của cô kết thúc bằng lời nhận xét rằng họ sẽ đi dã ngoại cùng nhau vào tối hôm đó.
+
+Không rõ chuyện gì xảy ra sau đó. Ghi chép tiếp theo liên quan đến họ là "Sổ Tay Chuyên Cần Rách Nát", nêu rõ việc Zandik đã "tự ý hành động lần thứ ba". Ghi chép cũng đề cập đến việc Sohreh bị thương nặng, được cho là đã bị Hổ Lông Dài tập kích. Không lâu sau, cả đội bị một cỗ máy giết chóc tấn công, nhưng Zandik đã khống chế được nó nhờ tư duy nhanh nhạy của mình. Anh định mang cỗ máy về Giáo Viện để rã ra và nghiên cứu nguyên lý hoạt động, nhưng lại bị mọi người phản đối. Hiền Giả Sharnama đã quở trách và trừng phạt anh bằng cách tước đi quyền tác giả của anh ta trong nghiên cứu lần này. Cũng trong thời gian này, Sohreh đã qua đời và được an táng.
+
+Tại một thời điểm nào đó, di hài của Sohreh đã được đào lên và giải phẫu để xác minh nguyên nhân cái chết của cô. Dù trên cơ thể có các vết rách và xuất huyết nặng, nhưng vết thương gây tử vong thực chất là ở phần bị gãy, điều này cho thấy cô tử vong do ngạt thở chứ không phải do các vết rách hay mất máu như những gì Đội Khảo Sát đã tin tưởng trước đó. Nhân viên điều tra không thể đưa ra kết luận về nguyên nhân tử vong thực sự của cô.
+
+Tại một thời điểm không xác định, Zandik đã tham gia vào một số nghiên cứu y khoa liên quan đến căn bệnh Eleazar tại Rừng Apam theo như ghi chép trong một số Ghi Chép Mục Nát. Các đối tượng thử nghiệm là trẻ em trong phòng thí nghiệm đã mất tích một cách bí ẩn, theo như Zandik suy luận, việc này là do các Aranara gây ra, chúng là một sinh vật địa mạch/sinh vật sử dụng nguyên tố có khả năng điều khiển giấc mơ. Từ đó, anh đưa ra kết luận rằng bằng cách bắt giữ và kiểm soát Aranara, thì con người "có lẽ sẽ đặt một bàn đạp tiến thêm một bước cho sự thông minh" và hiện thực hóa "sự siêu việt đối với tính phàm trần". Anh cũng tham gia vào nghiên cứu về Eleazar tại Dar al-Shifa, tại đây anh thành công chữa khỏi bệnh cho một bệnh nhân tên Abbas bằng cách sử dụng "nguyên liệu" thu được từ thi thể của các bệnh nhân đã qua đời. Abbas dù khỏi bệnh nhưng lại bị chấn thương tâm lý bởi quá trình điều trị của mình và tin rằng việc chữa khỏi căn bệnh này là báng bổ, cuối cùng anh đã đào thoát khỏi bệnh viện trong tuyệt vọng.
+
+Các điều tra viên tại Giáo Viện bắt đầu nghi ngờ Zandik. Kết quả khám nghiệm tử thi của Sohreh cho thấy cô đã bị anh sát hại và một vài ghi chép đã bị thất lạc. Cuối cùng, anh đã bị trục xuất khỏi Giáo Viện, anh cho rằng đây là một sự tổn thất lớn bởi anh cần một "môi trường nghiên cứu tốt".
+
+## Gia Nhập Fatui
+
+Sau khi bị trục xuất, Zandik đã được Pierro tiếp cận và được chiêu mộ gia nhập Fatui với lời hứa sẽ cung cấp tài nguyên cho anh nghiên cứu. Anh đã đồng ý gia nhập và được ban cái tên Il Dottore, hay "The Doctor", một cái tên mà anh ta cảm thấy mang tính mỉa mai.
+
+Dưới sự chỉ đạo của Dottore, Fatui bắt đầu nghiên cứu về Eleazar, một căn bệnh chỉ xuất hiện ở Sumeru. Collei bị giao cho họ để điều trị và phải chịu đựng những thí nghiệm đau đớn với tàn dư của thần linh. Việc này đã hiệu quả trong việc khống chế tình trạng của Eleazar nhưng lại khiến cô bị chấn thương tâm lý và những triệu chứng phụ khác. Những triệu chứng này đã biến mất sau khi Cyno phong ấn tàn dư của thần linh.
+
+Dưới sự chỉ đạo của Pierro, Dottore cũng đã đến Tatarasuna để phá hoại Lò Luyện Mikage nhằm phục vụ cho kế hoạch trong tương lai đối với Inazuma. Anh đã sử dụng tên giả Escher và cung cấp các loại nguyên liệu cho lò luyện khiến nó mất kiểm soát. Niwa Hisahide, Sĩ Quan Vũ Trang của Lò Luyện Mikage, đã bị ép phải đi vào bên trong để sửa chữa, nhưng trước khi kịp làm điều đó, Dottore đã giết và lấy đi trái tim của anh, bỏ nó vào một chiếc hộp để kabukimono (sau này là Scaramouche) mang đi để thanh tẩy lò luyện. Khi kabukimono mở hộp ra, anh tìm thấy một trái tim đã khô héo bên trong; Dottore đã nói dối rằng trái tim đó thuộc về một người hầu vô tội mà Niwa đã giết chết trước khi bỏ trốn. Sự "phản bội" của Niwa đối với kabukimono và người dân Tatarasuna đã khiến kabukimono căm phẫn và ghê tởm. Dottore và Pierro dần có hứng thú với kabukimono, tin rằng anh ta sẽ có ích với Fatui.
+
+Tại một thời điểm nào đó, sau khi Diluc rời Mondstadt và trước khi sự kiện trong truyện tranh diễn ra, Dottore một mình đánh bại con rồng Ursa và khiến Mondstadt phải mang nợ Fatui. Dottore bắt đầu chiêu mộ các mục tiêu ngây thở ở Mondstadt, dẫn dụ họ gia nhập Fatui để dùng làm đối tượng thí nghiệm cho các nghiên cứu của mình. Anh cũng bắt đầu thiết lập một dự án bí ẩn tại Mondstadt mà anh dự định kiểm tra trong khi tham dự Lễ Hội Đánh Cầu. Không rõ Dottore có liên quan đến sự kiện sinh nhật lần thứ 18 của Diluc hay không, chẳng hạn như việc tặng Delusion cho Crepus, dẫn dụ Ursa đến tấn công đoàn xe của Crepus và Diluc, hay có liên quan đến kẻ phản bội trong Đội Kỵ Sĩ Tây Phong Eroch.
+
+Sau khi Scaramouche gia nhập Fatui, Dottore đã tinh chỉnh để mở khóa sức mạnh của cậu, giúp cậu đạt được những khả năng vượt xa những gì Ei ban cho. Sau vài thập kỷ nghiên cứu những phương pháp được sử dụng để chế tạo Scaramouche, Dottore đã quyết định tạo ra các "phiên bản" của chính mình ở những độ tuổi khác nhau để có được các góc nhìn khác nhau về cuộc sống. Các "phiên bản" này được chế tạo bằng các nguyên liệu hiếm và mất rất nhiều thời gian, vì vậy chúng vô cùng quan trọng đối với Dottore.
+
+Dottore từng có một thoả thuận với cựu Quan Chấp Hành Crucabena, bà thường giao cho anh những đối tượng bị "từ chối" từ các thí nghiệm của mình trong Căn Nhà Hơi Ấm để đổi lấy những kết quả thí nghiệm của anh. Sau khi bà bị Peruere giết, Dottore tiếp cận "The Knave" đương nhiệm để tiếp tục thực hiện thoả thuận nhưng hầu hết các đề xuất của anh đều bị từ chối ngoại trừ một "thí nghiệm bí mật" mà anh chỉ có quyền đề xuất hướng đi.
+
+Dottore cũng có hứng thú với kuuvahki trong lúc anh đang nghiên cứu về Lãnh Địa Ánh Sáng, anh đã nhờ Columbina cho mượn sức mạnh để phục vụ nghiên cứu. Sau này, cô dần cảm thấy chán nản với việc nghiên cứu và không hỗ trợ cho anh nữa, dẫn đến việc nghiên cứu bị đình trệ.
+
+## Trong Truyện Tranh
+
+Dottore xuất hiện lần đầu ở Haeresys, một đấu trường ngầm của Fatui, ở đó Krupp cho các vật thí nghiệm của mình chiến đấu với một kẻ địch vô danh. Sau khi vật thí nghiệm thứ 139 chết, Dottore gọi thí nghiệm của ông là "vẫn thảm hại như mọi khi" và đe doạ sẽ biến Krupp thành vật thí nghiệm của mình. Krupp vì không muốn chịu cảnh đó nên đã tập trung vào lời mời tham dự Lễ Hội Đánh Cầu ở Mondstadt.
+
+Hai người đến dinh thự của Diluc gặp những vị khánh danh tiếng khác. Dottore để việc tiếp chuyện cho Krupp và chỉ lên tiếng để bày tỏ sự khinh bỉ của mình đối với người dân Mondstadt. Sau đó, anh bỏ đi sau khi Diluc trì hoãn cuộc thương lượng, rồi quay lại để thủ tiêu Krupp trước khi hắn bị "Anh Hùng Bóng Đêm" (do Diluc cải trang) tra khảo. Cảm thấy hứng thú với năng lực của Diluc, anh dặn cậu hãy trở nên mạnh hơn rồi rời đi.
+
+Vì không còn hứng thú với Mondstadt nữa, anh huỷ bỏ cuộc thương lượng và ra lệnh cho đoàn ngoại giao của mình rút lui và quay về Haeresys. Trước đó, anh đã thu hồi thi thể của Krupp và biến hắn thành một con quái vật giống Thợ Săn Di Tích. Sau khi nghe về vụ việc Hắc Hoả do Collei gây ra khiến 2 người trong đoàn ngoại giao của anh bỏ mạng, anh tỏ ra thờ ơ và để việc xử lí cho thuộc hạ của mình là Barnabas.
+
+Ở Chương 16, anh xuất hiện trở lại và thể hiện sự khó chịu của mình khi quân lính để "Anh Hùng Bóng Đêm" bỏ trốn, còn Barnabas thì bị thương nặng sau khi tấn công Collei và Amber.
+
+## Trong Game
+
+Tại một thời điểm nào đó trước nhiêm vụ Tổng Động Viên Tiểu Bảo Một Mắt, Fatui đã xây dựng một nhà máy chế tạo Thủ Vệ Di Tích để phục vụ nghiên cứu Vực Sâu. Tartaglia tin rằng nhà máy này là của Dottore, và anh ta vì chán mà đã bỏ hoang nhà máy này nhưng vẫn để nó tiếp tục hoạt động. Điều này dẫn đến việc những con Thủ Vệ Di Tích đổ bộ ra các khu vực xung quanh và khiến Thiên Nham Quân chú ý. Ở cuối chương, Childe đưa cậu em trai Teucer đến nhà máy và nói với cậu bé rằng đây là "Viện Nghiên Cứu Đồ Chơi tại Liyue". Trong lúc khám phá nhà máy, Childe và Nhà Lữ Hành đã phá huỷ nhà máy để bảo vệ an toàn cho Teucer.
+
+Một trong những "phiên bản" của Dottore đã đến dự tang lễ của Signora, tại đây Capitano đã chất vấn anh về tung tích của Scaramouche và Gnosis Lôi. Dottore trả lời vòng vo nhưng chung quy là đang chờ Scaramouche hành động trước. Trong lúc đó, "phiên bản" của thời kỳ thịnh vượng lại của Dottore lại đang bận nghiên cứu về "sự báng bổ" thông qua việc thiêu rụi một cái cây không lồ tại một vị trí không xác định.
+
+Sau khi biết Giáo Viện có tham vọng phục hồi vị thần của mình, Dottore đã tìm đến để đề xuất chế tạo một vị thần thay thế và họ đã đồng ý. Tuy nhiên, phạm vi viện trợ của hắn dành cho các Hiền Giả vẫn chưa được tiết lộ.
+
+Dottore cũng có hứng thú với Aranara, một chủng tộc sinh vật hình nấm kỳ lạ, vì sự tò mò về mối liên hệ giữa chúng, giấc mơ, và Tử Vực ở Sumeru; Trofin Snezhevich tin rằng Dottore muốn vũ khí hoá sức mạnh giấc mơ và Tử Vực vì một lý do nào đó. Nhận thức được rằng chỉ có trẻ em mới có thể nhìn thấy Aranara, anh đã cho Fatui bắt cóc trẻ em để dẫn dụ chúng. Tuy vậy, Aranara đã sử dụng sức mạnh để trốn thoát và giải cứu lũ trẻ. Dottore đã thuê một nhóm Eremite tên là Farrokhzadan để giúp đỡ anh ở Sumeru, nhưng bọn họ cũng thất bại do bị Nhà Lữ Hành can thiệp.
+
+Tại một thời điểm không xác định, Đội Thám Hiểm Sa Mạc do Froderock Fronkonsteen, thuộc hạ của Dottore, dẫn đầu đã được phái đến Sa Mạc Hadramaveth với nhiệm vụ điều tra tình hình hiện tại của các bộ tộc ở sa mạc. Họ đã cố gắng giao dịch với Bộ Tộc Tanit, nhưng cuối cùng lại bị Babel, thủ lĩnh bộ tộc, thao túng.
+
+Dottore lần đầu xuất hiện trước Nhà Lữ Hành khi Nhà Lữ Hành, Paimon và Nahida (đang điều khiển cơ thể của Katheryne) cố thu thập tin tức về kế hoạch của các Hiền Giả từ Setaria. Nhận thấy lòng trung thành đang lung lay của Setaria, Dottore cùng các Hiền Giả đã giam giữ cô và anh đã sắp đặt một mai phục. Bằng cách điều chỉnh thiết bị Akasha để truyền thông tin vào tâm trí mọi người, Dottore đã khiến họ tin rằng Nhà Lữ Hành là một đại anh hùng, dẫn đến việc đám đông vây lấy ba người. Để cứu giúp người dân và kéo dài thời gian cho đồng minh trốn thoát, Nahida đã dùng đến đòn tẩy của mình: cô đã sử dụng chính năng lực của cô để cưỡng chế kiểm soát các thiết bị Akasha và đảo ngược những thay đổi mà Dottore đã gây ra. Nhưng cũng vì thế mà cô đã để lộ danh tính trước vị Quan Chấp Hành này.
+
+Mặc dù ban đầu Nahida đã trốn thoát được khỏi Dottore, nhưng cô vẫn nhận ra rằng với khả năng điều chỉnh thiết bị Akasha của Dottore, sớm muộn gì ý thức của cô cũng sẽ bị bắt giữ. Trong khi đó, Dottore đoán được Nhà Lữ Hành sẽ cố tìm cách gặp Tighnari, người trước đó đã từ chối tiếp tay cho dự án của các Hiền Giả, nên anh đã cử bọn lính đánh thuê Eremite đuổi theo họ. Sau khi Nhà Lữ Hành và Nahida tái hợp tại Pardis Dhyai và khám phá ra kế hoạch thật sự của các Hiền Giả là tạo ra một vị thần mới trong Scaramouche; Dottore thành công bắt giữ ý thức của Nahida và bọn lính Eremite đã phá huỷ con rối Katheryne.
+
+Dottore sau đó đến gặp Tighnari để đưa Haypasia đi, anh nói rằng mình có thể giúp cô nhưng bị Tighnari từ chối vì nghi ngờ anh có ý đồ xấu. Do được Nữ Hoàng triệu tập, anh đã để lại vài cấp dưới để bắt Haypasia bằng vũ lực, còn anh thì đánh lạc hướng Nhà Lữ Hành và Dehya đến Cảng Ormos. Thuộc hạ của anh bị Scaramouche dùng Gnosis Lôi phóng sấm sét đánh bại và phải rút lui do Scarmouche đã nghe Nhà Lữ Hành kể rằng Dottore đang muốn cướp Haypasia đi.
+
+Sau khi Nhà Lữ Hành và Nahida đánh bại Scaramouche, một "phiên bản" của Dotorre đến gặp Nahida, anh đã sử dụng một sóng âm đặc biệt khiến Nhà Lữ Hành và Paimon ngủ thiếp đi. Sau đó anh thương lượng với Nahida, anh buộc phải phá huỷ mọi "phiên bản" của mình để đổi lấy Gnosis Lôi của Ei. Khi bị phá huỷ, một vài "phiên bản" tỏ ra không quan tâm, còn một vài "phiên bản" khác lại vô cùng căm phẫn và thề sẽ trả thù. Anh cũng lấy được Gnosis Thảo bằng cung cấp thông tin về việc những vì sao và bầu trời là giả, trước khi trở về Snezhnaya để gặp Nữ Hoàng.
+
+Sau khi biết rằng bầu trời giả được nhìn thấy ở Natlan, Dottore cử một nhóm thuộc hạ lặng lẽ thâm nhập vào Natlan từ Nod-Krai để tìm hiểu về các mảnh vỡ Di Hài Cổ Nguyệt.
+
+Sau khi Rerir bị đánh bại, Arlecchino đã dùng trà cùng Sandrone và hỏi cô Dottore đang làm gì. Sandrone trả lời là không rõ và cả 2 cho rằng sự im lặng lạ thường này cho thấy anh đang chuẩn bị một âm mưu xấu xa nào đó.

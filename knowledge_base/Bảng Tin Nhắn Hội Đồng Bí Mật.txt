@@ -1,0 +1,84 @@
+# Bảng Tin Nhắn Hội Đồng Bí Mật
+
+## Tổng Quan
+
+type: Địa Điểm Đáng Chú Ý
+type2: Bảng Thông Báo
+region: Nod-Krai
+area: Đảo Lempo
+subarea: Thị Trấn Nasha
+
+Bảng Tin Nhắn Hội Đồng Bí Mật có thể được tìm thấy tại quầy tiếp tân của Hội Đồng Bí Mật.
+
+Bảng tin nhắn hiển thị một đoạn giới thiệu ngắn về nhân viên lễ tân hiện tại cùng bốn tin nhắn ngẫu nhiên từ các Nhân Vật Chơi Được và NPC. Các tin nhắn này sẽ được làm mới mỗi khi người chơi tương tác với bản tin nhắn.
+
+- Giới Thiệu: Xem Bảng Tin Nhắn Xem Bảng Tin Nhắn: (Đây là bảng tin nhắn ủy thác của Hội Đồng Bí Mật. Nếu có ý kiến và đề xuất về ủy thác, vui lòng để lại lời nhắn tại đây.) ;(Mở giao diện)
+
+- Jahoda: Nhân viên Hội Đồng Bí Mật. "Nếu có ủy thác cần giải quyết, hãy liên hệ với cô ấy trước."
+
+- Ashru: Nhân viên Hội Đồng Bí Mật. "Nếu có ủy thác cần giải quyết, hãy liên hệ với Jahoda trước, Ashru nghe không hiểu đâu."
+
+- Robot Hình Ảnh Thay Ca: Nhân viên Hội Đồng Bí Mật...? "Tóm lại, nếu có ủy thác cần giải quyết, hãy liên hệ với Jahoda trước."
+
+- Paimon: Nhân viên Hội Đồng Bí Mật. "Nếu có ủy thác cần giải quyết, hãy liên hệ với cô ấy trước."
+
+- Aino: Aino: Tôi đến để đặt linh kiện cho Ineffa! Vì mấy hôm trước đã nhận linh kiện rồi, nên hôm nay tôi đến để vuốt ve Ashru! Ashru: Meo...
+
+- Charlotte: Charlotte: Cô chủ Nefer không nhận phỏng vấn thật sao? Được rồi, tôi có thể trả tiền... Haiz, hay nhờ bên các vị nghĩ cách giúp tôi phỏng vấn Vịnh Nguyệt Sứ Lauma nhé.
+
+- Dori: Dori: Không có gì to tát đâu, chỉ đến để trò chuyện với cô chủ Nefer mà thôi, haha... hahaha... Nefer: Haha, cũng hoan nghênh Dori thường xuyên đến đây nhé.
+
+- Flins: Flins: Tôi đã nhận được thuốc mà mình cần rồi, cô Jahoda làm việc vẫn hiệu suất như vậy, không hổ danh là nhân viên đáng tin cậy nhất của Hội Đồng Bí Mật.
+
+## Gaming
+
+Gaming: Cảm ơn cô Jahoda đã giúp tôi tìm nguyên liệu, tôi đã dựng xong hết rồi. Nhưng lẽ nào tôi là người đầu tiên múa thú ở Nod-Krai sao? Hahaha, cứ nhìn những người vây xem kìa, bất ngờ đến tròn xoe mắt luôn. Hai ngày nữa còn có một buổi diễn nữa, tôi phải cố gắng hơn mới xứng đáng với số tiền mà chủ thuê đã trả.
+
+- Ineffa: Ineffa: Tôi cùng Aino đến để vuốt ve Ashru. Aino nói, cũng có thể sờ đầu của Jahoda, nhưng Jahoda vừa từ chối tôi rồi, lần sau tôi sẽ thử lại. Jahoda: Đã nói không được rồi! Robot ngốc nghếch!
+
+- Jahoda: Jahoda: Ashru, năn nỉ đó!
+
+- Kinich: Kinich: Tôi đã lấy được nguyên liệu cần thu thập rồi, đợi người ủy thác trong bộ tộc nhận được hàng, tôi sẽ thanh toán số tiền còn lại.
+
+## Kirara
+
+Kirara: Cảm ơn cô Jahoda đã giúp tôi tìm được đường tắt! Nếu không có cô ấy giúp, hai đơn hàng của tôi chắc chắn sẽ trễ hẹn mất. Hơn nữa cô ấy chạy trên đường núi còn nhanh hơn tôi nữa, thật lợi hại!
+Jahoda: Đi thong thả nhé, cô gái chuyển phát nhanh...
+
+## Lauma
+
+Lauma: Mấy ngày trước, cô Jahoda đã được Ashru dẫn đi cứu giúp vài con động vật nhỏ, tôi thay mặt chúng mang quà đến để cảm ơn, tôi đặt trên bàn nhé. À, phần của Ashru tôi đã chia trước cho nó rồi, cô Jahoda cứ yên tâm nhận những món quà còn lại nhé.
+Jahoda: Hả? Tôi cũng có phần sao...
+
+## Wriothesley
+
+Wriothesley: Cảm ơn sự giúp đỡ của cô chủ Nefer, tôi đã xác minh xong danh tính của tên tội phạm đó rồi. Phù, làm việc lâu như vậy rồi, tôi cũng nên thư giãn một chút, chuyện tìm sàn đấm bốc đành phiền cô Jahoda rồi, nếu không có thì tìm ai đó đấu một trận với tôi cũng được.
+Nefer: Chuyện này không khó, chờ vài ngày nhé.
+
+## Drahomira
+
+Drahomira: Người tính nợ mà lần trước cô chủ Nefer liên hệ giúp tôi thực sự rất đáng tin cậy! Trong phút chốc đã tính hết tổng số nợ của tôi, lần này... tôi... tôi muốn nhờ người đó tới giúp tôi tính toán thêm lần nữa...
+Nefer: Quý khách hài lòng là được.
+
+- Ginette: Ginette: Không ngờ các vị lại tìm được đầu bếp Fontaine chân chính ở Nod-Krai... Cảm ơn nhé, tôi đã được ăn thỏa thích rồi!
+
+- Gorchakova: Gorchakova: Tôi muốn nhờ gửi giúp một lá thư đến Snezhnaya, lần này... đảm bảo chỉ có thư! Không kèm theo thứ gì khác!
+
+- Hedvika: Hedvika: Woa, dụng cụ câu cá ở Liyue quả nhiên khác hẳn! Cảm ơn cô Jahoda đã giúp đỡ. Hihi, lần sau tôi câu được cá lớn, nhất định sẽ gửi một con sang đây.
+
+- Hintsa: Hintsa: Cảm ơn vì đã giúp đỡ, tôi đã tìm được linh kiện phù hợp rồi! Có thể đi thỉnh giáo bậc thầy Aino về vấn đề cơ khí rồi!
+
+- Jarosznski: Jarosznski: Cô chủ Nefer, cô thật sự không cần vay tiền à? Khách hàng của cô cũng không cần sao? Chúng tôi có... (đối thoại phía sau đã bị xóa mất) Jahoda: Ra ngoài!
+
+- Kamenka: Kamenka: Hãy giúp tôi quảng bá "Phiếu Đăng Ký Đầu Tư Theo Khái Niệm Kuuvahki", chỉ cần 500.000 Mora là có thể mang đến tương lai tươi đẹp cho mọi người rồi... Ashru: Meow?
+
+## Kaunea
+
+Kaunea: Tôi đã nhận được đồ trang điểm lần trước nhờ các vị mua giúp rồi. Nhưng đề nghị lần trước của tôi, các vị xem xét đến đâu rồi?
+Jahoda: Tôi thật sự không thích hợp làm người mẫu đâu, nên xin từ chối nhé...
+
+- Langemak: Langemak: Tôi đã nhận được linh kiện ủy thác thu thập trước đó rồi, cảm ơn cô chủ Nefer, món nào cũng có chất lượng tuyệt vời.
+
+- Manez: Manez: Không biết thư gấp đã gửi đi chưa... Haiz, nếu không có cô thì tôi cũng không biết phải tìm ai để gửi thư nữa, cũng không có nhà mạo hiểm nào chịu giúp đỡ...
+
+- Paavo: Paavo: Loại rượu mới lần trước nhờ mua giúp đã tới rồi, khách hàng đều rất hài lòng, ngay cả ghế cũng quăng xa hơn trước... Jahoda:...Uống ít thôi.

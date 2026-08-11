@@ -1,0 +1,10 @@
+# Giọt Sương Thánh Thuần
+
+## Thông Tin Cơ Bản
+
+type: Nhóm Vật Phẩm
+type2: Nguyên Liệu Đột Phá Vũ Khí
+day1: Thứ Ba
+day2: Thứ Sáu
+day3: Chủ Nhật
+source1: Dư Âm Thủy Triều

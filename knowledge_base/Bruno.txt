@@ -1,0 +1,13 @@
+# Bruno
+
+## Thông Tin Cơ Bản
+
+type: NPC Nhiệm Vụ
+region: Fontaine
+location: Fontaine
+affiliation: Hiến Binh
+title: Thành Viên Đội Hiến Binh
+
+- Tổng Quan: Bruno là một NPC độc quyền nhiệm vụ xuất hiện trong và.
+
+- Tiểu Sử: Anh là một trong những hiến binh đã bắt Lorenzo.

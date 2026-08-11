@@ -1,0 +1,33 @@
+# Chasca
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+element: Phong
+weapon: Cung
+quality: 5
+name: Chasca
+birthday: 10 tháng 12
+constellation: Thần Tựu
+region: Natlan
+affiliation: Hội Hoa Vũ
+affiliationLabel: Tlalocan
+dish: Dừng Lại Nghỉ Ngơi
+namecard: Đầy Đạn
+obtain: Cầu Nguyện Nhân Vật
+event_name: Sắc Đỏ Xuyên Phá
+releaseDate: 2024-11-20 11:00:00 GMT+8
+adoptive: Relative Type|Cha mẹ|Chimpu| Through the Wilderness|ref=Quest|Tìm Kiếm Nơi Hoang DãRelative Type|Cha mẹ|Cusco| Type|Cha mẹ|Mẹ loài người vô danh| Type|Chị gái|Coya| Through the WildernessRelative Type|Em gái|Chuychu| Type|Cháu gái|Chime| for the Showdown|ref=Quest|Thời Khắc Đối Đầu
+title: Phán Quyết Trên Cao
+title2: Người Hòa Giải Của Tlalocan
+voiceEN: [[imdb:nm12129007
+Lauren Amante]]<ref name: "A Name Forged in Flames desc">YouTube: Video Giới Thiệu Dẫn Lửa - Danh Tiếng Rèn Từ Lửa (Mô Tả Video)
+voiceCN: Zhang Ruoyu (zh|张若瑜)
+voiceJP: w|Yūko Kaida|Kaida Yuuko (ja|甲斐田裕子)
+voiceKR: Soo-hyun (ko|수현)
+
+## Tổng Quan
+
+Chasca là một nhân vật hệ chơi được trong Genshin Impact.
+
+Là một người hòa giải nổi tiếng của Hội Hoa Vũ và từng trải qua Trận Chiến Người Gác Đêm, Chasca sở hữu Tên Cổ. Cô đã quen với các cuộc xung đột, đôi khi cô phải chịu đựng nhiều mâu thuẫn nội tâm của chính mình, nhưng bất chấp cách nhiều người nhìn nhận, cô luôn có thể vượt qua chúng.

@@ -1,0 +1,23 @@
+# Cảng Dornman
+
+## Câu Chuyện
+
+type: Phân Khu
+area: Núi Gió Lặng
+region: Mondstadt
+
+Henry Morton cho rằng việc thuê thuyền đến Đảo Không Tên là "quá xa" và khoảng cách từ đây đến Thành Mondstadt đủ lớn để Đội Trinh Sát của Đội Kỵ Sĩ Tây Phong do Eula chỉ huy phải liên tục tuần tra tuyến đường thương mại giữa Cảng Dornman và Thành Mondstadt trong suốt Lễ Hội Rượu. Để cập cảng hợp pháp tại đây yêu cầu phải có giấy phép nhập cảnh hợp lệ.
+
+Eula và đội của cô từng truy theo một lô hàng nguy hiểm bí mật của Giáo Đoàn Vực Sâu đến Cảng Dornman, nơi nó sắp được vận chuyển đến Cảng Liyue. Yanfei lúc đó đang làm cố vấn cho tàu buôn; không hay biết về bản chất thật của lô hàng, cô bắt đầu điều tra sau khi phát hiện ra điều gì đó bên trong, khiến bản thân rơi vào nguy hiểm lớn. Cô được Eula giải cứu khỏi tình huống nguy hiểm này, hai người sau đó hợp tác điều tra và bắt giữ tất cả các thành viên Giáo Đoàn Vực Sâu đang ẩn náu xung quanh cảng.
+
+Cha mẹ của Mona đã chuyển đến Cảng Dornman từ nơi khác. Cô được sinh ra tại đây và tìm thấy Barbeloth, sau đó định cư tại Thành Mondstadt.
+
+Jones, vốn là một lao động phổ thông tại Cảng Dornman, được Hiệp Hội Kanjou tuyển làm thủy thủ, nhưng khi đến Ritou lại phát hiện ra mình không thể rời đi do Lệnh Bế Quan Tỏa Cảng]]. Sau các sự kiện của Giấc Mộng Thoáng Qua và việc bãi bỏ lệnh bế quan tỏa cảng, Jones trở về Mondstadt qua cảng tại Thành Mondstadt, nhưng vẫn chưa trở lại Cảng Dornman.
+
+Một tuyến đường thương mại đã được mở ra giữa Cảng Dornman và Cảng Ormos của Sumeru. Một công ty thương mại từ Cảng Dornman có kế hoạch xuất khẩu trái cây, dù một phản hồi cho tin nhắn của họ trên Bảng Thông Báo Cảng Ormos bày tỏ nghi ngờ về chất lượng trái cây sau một hành trình dài như vậy.
+
+Vào thời điểm trước khi Kỵ Sĩ Đoàn chuẩn bị tổ chức triển lãm nghiên cứu giả kim thuật, Đội Trinh Sát đã chặn được hàng loạt vụ buôn lậu qua Cảng Dornman, dẫn đến việc họ tăng cường tuần tra. Eula tình cờ gặp Thuyền Trưởng Beidou và thủy thủ đoàn đang nghỉ ngơi tại một quán rượu địa phương sau khi Nam Thập Tự cập bến. Sau khi giải quyết xong hiểu lầm về một vụ ẩu đả trong lúc say mà Beidou đã dập tắt, Beidou mời Eula uống tại quán và hai người kết thành bạn bè. Beidou cần lấy đồ tiếp tế tại Thành Mondstadt và vì Eula muốn nộp một số giấy tờ tại trụ sở, hai người cuối cùng cùng nhau di chuyển và ghé thăm Nhà Lữ Hành tại triển lãm giả kim thuật. Sau khi lấy được một bình thuốc được làm với Ningguang trong tâm trí, Beidou quay trở lại Cảng Dornman với Eula tháp tùng cùng.
+
+Gần đây, Đội Trưởng Varka đã ra lệnh cho một số kỵ sĩ từ đoàn thám hiểm của anh, bao gồm cả Frederica Gunnhildr, trở về Cảng Dornman và hỗ trợ phòng thủ tại đây.
+
+Liben tiết lộ rằng Cảng Dornman nổi tiếng với vận chuyển hàng hóa và trồng hoa. Anh cũng đề cập rằng trước đây có một viện điều dưỡng trên những ngọn đồi nhưng đã bị phá dỡ vài năm trước. Theo tin đồn, một khi ai đó đến viện điều dưỡng, họ sẽ ở lại đó mãi mãi.

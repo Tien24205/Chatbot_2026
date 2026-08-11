@@ -1,0 +1,76 @@
+# Andrius
+
+## Thông Tin Cơ Bản
+
+chineseName: zh|安德留斯|rm=Āndéliúsī
+japaneseName: ja|アンドリアス|rm=Andoriasu
+koreanName: ko|안드리우스|rm=Andeuriuseu-->
+type: NPC Nhiệm Vụ
+deceased: Trong quá khứ
+element: Phong
+element2: Băng
+region: Mondstadt
+location: Mondstadt
+title: Lãnh Chúa Lang Lãnh
+title2: Sói Bắc Phong
+title3: Vua Sói Bắc Phong
+affiliation: Tứ Phong Thủ Hộ
+group: Thần
+voiceEN: Jacob Craner
+voiceJP: w|Taiten Kusunoki|Taiten Kusunoki (ja|楠 大典)
+voiceKR: Hanshin (ko|한신)
+
+## Tổng Quan
+
+Andrius, hay còn được biết đến là Sói Bắc Phong là một vị thần ở Mondstadt thường được biết tới qua trận chiến với Ma Thần Bão Tố Decarabian trong khoảng thời gian diễn ra Chiến Tranh Ma Thần. Đến khi giai đoạn này sắp đến hồi kết, Andrius đã chọn tù bỏ cơ thể vật lý, chỉ để một phần linh hồn ở lại để trông coi Mondstadt.
+
+Andrius sau này trở thành một trong Tứ Phong Thủ Hộ với nhiệm vụ bảo vệ đất nước theo lời đề nghị của Phong Thần Barbatos. Trong khoảng thời gian này, ngài trú ngụ tại Lang Lãnh, dùng gió và băng tạo thành cơ thể tạm thời để nghênh chiến những kẻ đến khiêu chiến. Sau kh hoàn thành, Andrius sẽ trở thành thủ lĩnh trong Khiêu chiến Sói Bắc Phong, phần thưởng khiêu chiến có thể nhận một lần một tuần.
+
+## Giới Thiệu
+
+"Lupical" trấn giữ Lang Lãnh, những linh hồn vĩ đại và cao cả.
+
+Khi bầy sói bị uy hiếp, chúng sẽ xuất hiện dưới hình dạng của sói, giơ ra những chiếc răng nanh và vuốt sắc.
+
+Đối với những người Mondstadt mà nói, thì sói ở Lang Lãnh là những bóng ma cổ quái:
+
+Bóng hình lóe qua giữa những tán cây, tiếng rú thê lương không phân rõ phương hướng, và khi một mình đi trong rừng vắng, bạn sẽ luôn cảm thấy như có ai đó nhìn mình.
+
+Ánh mắt của người và sói rất hiếm có cơ hội giao nhau, bởi vì "Vua Sói" đã đặt ra những luật lệ cho chủng tộc của mình.
+
+—Mô tả trong Thư Viện
+
+## Tính Cách
+
+Andrius được mô tả là một "linh hồn vĩ đại và cao cả". Sau khi chứng kiến xã hội loài người đầy thất vọng, Andrius chỉ nhận về những đứa trẻ sơ sinh bị ruồng bỏ mà hắn cho là thuần khiết vô tội, nuôi nấng chúng trở thành "lupical" của mình. Tuy nhiên hắn vẫn ngăn cho chúng không can dự vào những vấn đề của sói, bởi suy cho cùng những đứa trẻ đó cũng không phải là sói.
+
+Tuy rằng có thất vọng về loài người nhưng thái độ của Andrius đối với nhân loại lại không hề quá khích. Sau cái chết của Decarabian, hắn cũng đã ngùng tấn công và hợp tác cùng Barbatos để trở thành Tứ Phong Thủ Hộ bảo vệ Mondstadt.
+
+- Ngoại Hình: Hình dáng thật sự của Andrius vẫn còn là ẩn số. Khi là Lãnh Chúa Lang Lãnh, Andrius mang hình dáng một con sói lớn màu lục lam.
+
+## Lịch Sử
+
+Rất lâu về trước, Andrius đã được một vị thần cổ xưa trao cho sức mạnh. Ta vẫn chưa thể biết được vị thần cổ xưa đó là ai, nhưng sức mạnh ngài trao cho Andrius đủ để khiến hắn trở thành một vị thần như ngài.
+
+Trong khi diễn ra Chiến Tranh Ma Thần, giữa Andrius và Decarabian đã xảy ra mâu thuẫn. Andrius đã tuyên chiến với Decarabian khi hắn phong tỏa thành phố của mình - nơi mà bây giờ được biết đến với cái tên Phế Tích Phong Long bằng một bức tường gió, từ đó bắt đầu "thời xưng vương". Thế nhưng trận chiến đã rơi vào thế bí: Andrius còn chẳng thể gây được chút thương tích nào cho Tháp Cô Vương, còn Decarabian thì lại không thể - hoặc thậm chí là chẳng có hứng thú - đánh bại Andrius. Tuy nhiên, người dân dưới trướng Decarabian từ lâu đã bất mãn với luật lệ của hắn. 2600 năm trước, họ đã vùng lên dưới sự giúp đỡ của Barbatos và cuối cùng tiêu diệt Decarabian.
+
+Cũng trong khoảng thời gian diễn ra Chiến Tranh Ma Thần, Andrius cho rằng hắn không xứng đáng để trở thành Phong Thần bởi hắn thiếu đi tình thương dành cho nhân loại - thứ mà một Chấp Chính Trần Thế đáng ra phải có. Nhận ra rằng băng giá của mình chỉ có thể lấy đi mạng sống, hắn chọn cái chết và gửi gắm sức mạnh vào đất, nuôi dưỡng và bảo vệ con người nơi đây. Hiện vẫn chưa rõ tương quan thời gian sự kiện này diễn ra so với thời điểm diễn ra cái chết của Decarabian nhưng khả năng cao là nó đã xảy ra trong cùng thời gian hoặc ngay trước đó.
+
+Sau khi cơ thể vật lý của Andrius chết đi, một phần linh hồn của hắn lưu lại dưới dạng băng giá như hiện tại, tuy vậy hình dáng này lại không nắm giữ được toàn bộ sức mạnh khi trước. Khoảng 1000 năm trước, sau cuộc nổi dậy chống lại Quý Tộc Mondstadt của Vennessa, Andrius đã trở thành một trong Tứ Phong Thủ Hộ Mondstadt, còn Kỵ Sĩ Sói Bắc Phong - đến nay vẫn chưa rõ liệu tên gọi này có liên hệ gì tới hắn không - tham gia Đội Kỵ Sĩ Tây Phong mới thành lập. Trong quá khứ, Đền Sói Bắc Phong mằm gần Thiên Phong Thần Điện dùng để thờ tế Andrius, nhưng nay nó đã bị bỏ hoang, còn linh hồn của Andrius thì ngụ lại ở tận phía bên kia Mondstadt.
+
+Andrius sau đó trở thành sói đầu đàn của một đàn sói ở Lang Lãnh, đem cả những đứa trẻ sơ sinh bị bỏ rơi về đàn của mình. Một khoảng thời gian nào đó trước thời điểm trò chơi bắt đầu, hắn đã tìm được Razor và đem cậu bé về. Đại Đội Trưởng hiện tại của Đội Kỵ Sĩ Tây Phong, Varka, chính là Kỵ Sĩ Sói Bắc Phong hiện tại. Trước khi thực hiện chuyến viễn chinh, anh thường hay đến Lang Lãnh, tuy nhiên mối quan hệ của anh và Andrius đến hiện tại vẫn chưa được làm rõ.
+
+## Nhiệm Vụ Truyền thuyết
+
+Một khoảng thời gian sau khi giải quyết được vấn đề Phong Ma Long, Thanh Tuyền Trấn đã bị tấn công bởi sói ma vật, người dân ở đây khăng khăng cho rằng việc này là do Razor và bầy sói của Andrius gây nên dù rằng Razor đã khẳng định rằng họ không hề liên quan đến chuyện này. Sau khi nghe được, Andrius đã khiêu chiến cả Razor lẫn Nhà Lữ Hành để chứng minh cho thấy lòng tin của mình. Sau khi đã được chứng thực, Andrius thông tin rằng những gì Razor nói là thật nhưng lại không muốn cậu bé dây dưa vào cuộc chiến bầy đàn, bởi lẽ cậu bé là người chứ không phải sói.
+
+## Nhiệm Vụ Ma Thần
+
+Khi Nhà Lữ Hành đến Lang Lãnh để điều tra về Giáo Đoàn Vực Sâu, Andrius lần nữa xuất hiện thoáng qua trong tình trạng bị Sứ Đồ Vực Sâu khống chế, cố gắng khiến hắn bị như Dvalin. Sau một trận đánh nhỏ, Sứ Đồ Vực Sâu bị đánh bại, linh hồn Andrius cũng được thả tự do. Khi Paimon hỏi Andrius về "Máy Cày" (tên hiệu của những Thủ Vệ Di Tích đầu tiên, Andrius đã giải thích rằng khi chúng đặt chân tới lãnh thổ của hắn, hắn đã lầm tưởng rằng chúng tới để khiêu chiến. Trong cuộc chiến đó, Andrius đã giáng đòn chí mạng lên Máy Cày khiến chúng phải rời khỏi nơi này. Ngoài ra Dainsleif cũng nói rằng cơ thể của Andrius đã chết từ lâu, thứ ngụ lại ở Lang Lãnh là một phần linh hồn của hắn.
+
+## Từ Nguyên
+
+- Dựa theo việc tên thần trong Genshin Impact được đặt tên dựa trên ', có vẻ như cái tên bắt nguồn từ - con quỷ thứ 65. Trong Pseudomonarchia Daemonum của Johann Weyers thì Andrealphus lại là con quỷ thứ 54.
+- Cũng có giả thuyết cho rằng Andrius được dựa trên, con quỷ thứ 63 vô cùng nguy hiểm, cưỡi trên lưng một con sói đen. Tuy nhiên tên của Andras trong tiếng Trung - lại ít có sự tương đồng với tên tiếng Trung của Andrius hơn Andrealphus. Cũng vì lí do này, cũng có khả năng khá thấp.
+- Danh hiệu của Andrius trong tiếng Anh - Lupus Boreas - dịch thô ra nghĩa là "Sói Bắc Phong".
+- là vị thần Gió Bắc trong thần thoại Hy Lạp, đây cũng chính là nguyên do Andrius là đại diện phương Bắc của Tứ Phong Thủ Hộ.

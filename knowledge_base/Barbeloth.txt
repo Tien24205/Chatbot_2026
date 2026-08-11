@@ -1,0 +1,37 @@
+# Barbeloth
+
+## Thông Tin Cơ Bản
+
+type: Đề Cập
+realname: Astromancer Barbeloth Trismegistus
+title2: Bà già
+title3: B (bởi Hội Ma Nữ)
+title4: Nữ Thần Tiên Tri
+titleNote4: bởi người dân Simulanka
+affiliation: Hội Ma Nữ
+voiceEN: w|Misty Lee
+voiceCN: Wu Xiangtong (zh|武向彤)
+voiceJP: w|Mayumi Shintani|Shintani Mayumi (ja|新谷真弓)
+voiceKR: w|ko:여윤미|Yeo Yoon-mi (ko|여윤미)
+
+## Tổng Quan
+
+Astromancer Barbeloth Trismegistus, hay còn được Mona gọi là "bà già", là một bậc thầy sử dụng Thủy Chiêm Tinh, nhà tiên tri, và sư phụ của Mona. Cô cũng là một thành viên của Hội Ma Nữ, ở đó cô được gọi là "B".
+
+Có vẻ như mong muốn lớn nhất của Mona là vượt qua cô về thuật thủy chiêm tinh và trở thành nhà chiêm tinh vĩ đại nhất thế giới. Cô là một người bạn cũng như kẻ địch của Alice, một nhà mạo hiểm nổi tiếng và là ma nữ quyền lực. Cô chỉ có sở trường về thuật chiêm tinh, trong khi Alice là thiên tài thông thạo mọi lĩnh vực thần bí.
+
+Theo Mona, "Megistus" — có nghĩa là "vĩ đại" — là hậu tố nhận dạng và họ chung của các Ma Đạo Sư dưới sự giám hộ của Barbeloth. Cô từng có tên gọi là Barbeloth Megistus, nhưng sau khi Mona gia nhập thì lại đổi thành "Trismegistus" — có nghĩa "vĩ đại gấp ba lần" — để tách biệt bản thân với học trò của mình. Barbeloth là một nhà tiên tri, một người giỏi chiêm tinh đến mức có thể đọc được vận mệnh của toàn bộ quốc gia, Teyvat và chính thế giới.
+
+Mặc dù ban đầu Barbeloth không hiểu những gì Alice nhìn thấy trong Andersdotter, nhưng sau đó, cô dần tôn trọng cô ấy và nhận ra rằng sự nhạy bén của cô đối với các nguyên tắc vận hành thế giới đôi khi có thể vượt qua cả chiêm tinh học.
+
+## Câu Chuyện
+
+Năm mươi năm trước khi trò chơi bắt đầu, Barbeloth đã lập một hiệp ước với Alice, kết quả là Alice đã chiếm được cuốn nhật ký của cô. Cuốn nhật ký kể từ đó đã được giao cho Klee và vô tình bị Mona đọc được.
+
+Tại một thời điểm nào đó trong quá khứ, Barbeloth được cho là có liên quan đến việc tạo ra Simulanka cùng với Alice và "M", đồng thời trở thành Nữ Thần Tiên Tri của vùng đất này.
+
+## Từ Nguyên
+
+- "Barbeloth" có thể bắt nguồn từ aeon Ngộ đạo, một thực thể tối cao, ái nam ái nữ trong Thuyết Ngộ đạo được gọi là suy nghĩ đầu tiên của Chúa, là "khía cạnh nữ tính" của anh và là Mẹ-Cha của các thời đại.
+- Barbēlō còn được gọi là "Barbeloth" trong nhiều văn bản lịch sử và được cho là sự sửa đổi tên ban đầu.
+- "Trismegistus" bắt nguồn từ, một nhân vật huyền thoại gắn liền với vị thần Hy Lạp và vị thần Ai Cập và được coi là cha đẻ của thuật giả kim Ai Cập.

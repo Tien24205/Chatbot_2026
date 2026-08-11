@@ -1,0 +1,81 @@
+# Katheryne
+
+## Tổng Quan
+
+region: Teyvat
+title: Người Tiếp Đón Hiệp Hội Nhà Mạo Hiểm
+affiliation: Hiệp Hội Nhà Mạo Hiểm
+type: NPC
+voiceEN: w|Erica Mendez
+voiceCN: Xiao N (小N)
+voiceJP: w|ja:佐藤舞|Mai Sato (佐藤舞)
+
+Katheryne là người tiếp đón của Hiệp Hội Nhà Mạo Hiểm. Cô có thể được tìm thấy ở trụ sở của Hội nằm ở bảy quốc gia trên lục địa Teyvat, hiển thị bằng biểu tượng trên bản đồ.
+
+Cô ủy thác nhiệm vụ cho các thành viên trong hội, bao gồm cả Nhà Lữ Hành, cũng như cung cấp tin tức về những sự việc xảy ra trong khu vực.
+
+- Tiểu Sử: (Sắp có.)
+
+- Tính Cách: (Sắp có.)
+
+- Ngoại Hình: (Sắp có.)
+
+## Nhiệm Vụ Truyền Thuyết
+
+- Chương Ánh Thiên (NV Truyền Thuyết của Mona)
+- Màn 1: Phía ngoài bầu trời của kiếp này
+- Vận Mệnh Mập Mờ
+- Sự Kiện Đồng Hành của Noelle
+- Màn 2: Con Đường Tập Luyện Của Kỵ Sĩ
+- Sát Hạch Nhập Môn Nhà Mạo Hiểm
+
+- Người Giữ Cành - Dainsleif - Hiệp Hội Nhà Mạo Hiểm Bận Rộn - Mỗi Ngày Đều Là Cuộc Mạo Hiểm Mới - Đàn Cá Ồ Ạt - Mạo Hiểm Phải Đến Nơi Xa - Chào Mừng Đến Với Hiệp Hội Nhà Mạo Hiểm - Điều Tra Khí Lạnh
+
+## Sự Kiện
+
+- Ngôi Sao Vụt Tắt Chưa Trở Về
+- Màn 1: Ngôi Sao Chưa Rõ
+- Màn 2: Nguy Cơ Lây Lan
+- Màn 4: Vùng Đất Những Ngôi Sao Định Mệnh
+- Lời Mời Của Hoa Gió
+- Phần I: Bài Thơ Hoa Và Mây
+- Ước Nguyện Nước Trong
+- Nước Chảy Về Trước I
+- Không Vào Hang Cọp Sao Bắt Được Cọp Con
+- Không Vào Hang Cọp Sao Bắt Được Cọp Con (Nhiệm Vụ)
+
+- Hành Trình Đáng Nhớ ----
+
+- Chương 2 - Màn 1: Lôi Thần Uy Nghiêm, Địa Đàng Vĩnh Hằng - Ngày Khởi Hành
+
+- Sự Kiện Đồng Hành của Yun Jin - Màn 1: Đàn Ca Và Nhã Ý - Tìm Tung Tích Nơi Hoang Vắng
+
+- Mạo Hiểm Phải Đến Nơi Xa
+
+- Tìm Rồng Đất - Tìm Rồng Đất (Nhiệm Vụ) - Rồng Đất Ẩn Nấp, Bí Ẩn Chưa Tan ----
+
+## Nhiệm Vụ Truyền Thuyết
+
+- Sự Kiện Đồng Hành của Gorou
+- Màn 1: Nhiệm Vụ Đặc Biệt Của Đại Tướng
+- Kỷ Niệm Bình Phàm
+- Chương Thiên Ngưu (NV Truyền Thuyết của Arataki Itto)
+- Màn 1: Xích Kim Hồn
+- Tội Ác Của Quỷ
+- Chương Thiên Hạ Nhân (NV Truyền Thuyết của Raiden Shogun)
+- Màn 2: Giấc Mộng Thoáng Qua
+- Ánh Sáng Gột Rửa
+
+- Nhật Ký Hành Trình Của Biển Sương Mù - Tác Giả Đòi Hỏi Khắt Khe - Katheryne, ở Inazuma
+
+## Sự Kiện
+
+- Bóng Ma Thần Bí
+- Bóng Ma — Khởi Động Điều Tra
+- Chiến Binh Bí Ẩn
+- Phần I: Bí Ẩn Khó Giải Đáp
+- Hồ Sơ Bantan Sango — Khuyển Võ Giả
+- Hồ Sơ Bantan Sango — Bí Ẩn Bóng Đen
+- Sắc Màu Rực Rỡ
+- Màn I: Câu Chuyện Đáng Ngờ Về Suikou Say Rượu
+- Buổi Tiệc Phong Nhã

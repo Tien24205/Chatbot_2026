@@ -1,0 +1,12 @@
+# Trạng Thái
+
+## Tổng Quan
+
+type: Chiến Đấu
+type2: Hệ Thống Trò Chơi
+
+Trạng Thái có thể được áp dụng lên cả Nhân Vật và Kẻ Địch, gây ra các hiệu ứng tương ứng. Nếu nhận vật đang chịu một hiệu ứng buff, các mũi tên xung quanh nhân vật sẽ hướng lên. Nếu nhận vật đang chịu một hiệu ứng debuff, các mũi tên xung quanh nhân vật sẽ hướng xuống.
+
+Hiệu Quả Trạng Thái chủ yếu được chia thành bốn loại: Nguyên Tố, Địa Mạch Bất Thường, Ấn và Khí Hậu. Ngoài ra còn có các hiệu quả trạng thái liên quan tới nhân vật hoặc kẻ địch.
+
+- Hiệu Quả Buff: Phần lớn các hiệu quả này không thể tích tầng khi áp dụng bằng cách dùng Thực Phẩm.

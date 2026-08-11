@@ -1,0 +1,15 @@
+# Ilyas
+
+## Thông Tin Cơ Bản
+
+type: NPC Nhiệm Vụ
+region: Sumeru
+location: Sumeru
+affiliation: Giáo Viện Sumeru
+father: Alyasa
+mother: Ashera
+sibling: Izebel
+voiceEN: w|Chris Niosi
+voiceJP: w|ja:吉野貴大|Yoshino Takahiro (ja|吉野 貴大)
+
+- Tổng Quan: Ilyas là một NPC độc quyền nhiệm vụ xuất hiện trong.

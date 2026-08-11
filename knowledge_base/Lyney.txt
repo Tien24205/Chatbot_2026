@@ -1,0 +1,30 @@
+# Lyney
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+quality: 5
+weapon: Cung
+element: Hỏa
+name: Lyney
+arkhe: Pneuma
+birthday: 02 tháng 02
+constellation: Hắc Ban Miêu
+region: Fontaine
+affiliation: Khách Sạn Bouffes d'ete
+dish: Thủ Thuật Khối Vuông
+namecard: Giả Vờ
+obtain: Cầu Nguyện Nhân Vật
+event_name: Ảo Thuật Tương Phản
+releaseDate: 2023-08-16
+sibling: Lynette
+siblingNote: em gái song sinh
+sibling2: Freminet
+siblingNote2: em trai kết nghĩa
+title: Ảo Ảnh Ngoạn Mục
+title2: Ảo Thuật Gia Nổi Tiếng Của Đại Sảnh Fontaine
+voiceEN: [[imdb:nm5410860
+Daman Mills]]<ref name: "The Final Feast desc">YouTube: Video Khúc Mở Đầu - Bữa Tiệc Hạ Màn (Mô tả video)
+voiceCN: Jinli (zh|锦鲤)
+voiceJP: w|Hiro Shimono|Shimono Hiro (ja|下野紘)
+voiceKR: Park Song-young (ko|박성영)

@@ -1,0 +1,35 @@
+# Yae Miko
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+weapon: Pháp Khí
+quality: 5
+element: Lôi
+name: Yae Miko
+birthday: 27 tháng 06
+sex: Nữ
+constellation: Tiên Hồ
+dish: Mì Udon Fukuuchi
+namecard: Hồ Ly Mơ Mộng
+affiliation: Đền Narukami (Phe Phái)
+affiliation2: Nhà Xuất Bản Yae
+affiliationLabel: Đền Narukami
+group: Hồ Ly (Chủng Loài)
+region: Inazuma
+obtain: Cầu Nguyện Nhân Vật
+event_name: Sắc Tím Hoa Đào
+releaseDate: 2022-02-16
+ancestry: Gia Tộc Bạch Thần
+title: Tiếu Ngạo Thế Gian
+title2: Guuji của Đền Narukami
+voiceEN: [[imdb:nm4861536
+voiceCN: Du Mingya (Lang|mini=1|zh=杜冥鸦)
+voiceJP: w|Ayane Sakura|Sakura Ayane (Lang|mini=1|ja=佐倉綾音)
+voiceKR: w|ko:문유정|Moon Yoo-jeong (Lang|mini=1|ko=문유정)
+
+## Tổng Quan
+
+, hay còn được biết đến với cái tên hoặc Guuji, là một nhân vật hệ chơi được trong Genshin Impact.
+
+Là một hồ ly với vô vàn năng lực, Yae Miko không chỉ cai quản Đền Narukami, sở hữu Nhà Xuất Bản Yae, mà còn là thân quyến và bằng hữu của sự "vĩnh hằng".

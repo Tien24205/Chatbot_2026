@@ -1,0 +1,41 @@
+# Tóm Tắt Ma Pháp
+
+## Thông Tin Cơ Bản
+
+id: 14301
+type: Pháp Khí
+releaseDate: 2020-09-28
+quality: 3
+obtain: Cầu Nguyện
+series: Tai Ương 3 Sao
+base_atk: 38
+2nd_stat_type: Tinh Thông Nguyên Tố
+2nd_stat: 41
+passive: Ngưng Thủy Diệt Lôi
+effect: Sát thương tạo ra cho kẻ địch bị ảnh hưởng bởi nguyên tố Thủy hoặc Lôi tăng (var1)%.
+eff_rank1_var1: 12
+eff_rank2_var1: 15
+eff_rank3_var1: 18
+eff_rank4_var1: 21
+eff_rank5_var1: 24
+eff_att1: Tăng Sát Thương
+
+- Tổng Quan: Tóm Tắt Ma Pháp là một pháp khí 3 Sao.
+
+## Câu Chuyện
+
+Khi mới xuất bản "Tóm Tắt Ma Pháp" đã dấy lên làn sóng tranh luận vô cùng lớn.
+
+"Chương số bảy: Nguyên lý sử dụng Nguyên Tố Phong" đi ngược với lẽ thường.
+
+Nội dung căn bản giữa Nguyên Tố Thủy và Nguyên Tố Lôi còn thiếu sót rất nhiều.
+
+Từ đó cho thấy, bản thảo của cuốn sách này chưa được thẩm duyệt, chứ đừng nói đến việc thử nghiệm.
+
+Thế nhưng bất luận thế nào, đó vẫn là kim chỉ nam ma pháp nhập môn ảnh hưởng nhất cho đến nay.
+
+## Có Mặt Trong
+
+- Cầu nguyện thường Du Hành Thế Gian (Không giới hạn thời gian)
+- Cầu Nguyện đề xuất cho người mới (Không giới hạn thời gian cho đến khi đủ 20 lần cầu nguyện)
+- Tất cả các sự kiện Cầu Nguyện Nhân Vật và Cầu Nguyện Vũ Khí

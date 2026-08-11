@@ -1,0 +1,25 @@
+# Giáo Viện
+
+## Tổng Quan
+
+type: Địa Điểm Đáng Chú Ý
+region: Sumeru
+subregion: Rừng Dharma
+area: Rừng Avidya
+subarea: Thành Sumeru
+
+Nó là tòa nhà chính của Giáo Viện Sumeru, tọa lạc trên Cây Thánh. Cung Điện Daena, thư viện của Giáo Viện, nằm ở trung tâm tòa kiến trúc này.
+
+Các cánh cửa trong Giáo Viện sẽ tự động mở khi người chơi tiến lại gần chúng.
+
+## Vật Có Thể Tương Tác
+
+- Rương Hiếm chứa 185,000 Mora. Tương tác với nó sẽ cho đoạn hội thoại sau của Paimon:
+Paimon: Wao! Ở đây cũng có rương báu! Mau mở ra xem! Ở đây còn có một mảnh giấy...
+Paimon: "...Haiz, không thể tiếp tục kéo dài được nữa, ngày mai nhất định phải viết xong báo cáo đề tài!"
+Paimon: "Thế này đi... Tôi mà kéo dài thêm một ngày, thì phải bỏ 5000 Mora vào rương, cho đến khi nào báo cáo đề tài được duyệt mới thôi!"
+Paimon: Haha... Chúng ta cùng đếm xem rương này rốt cuộc có bao nhiêu Mora...
+
+- Hana ─ Lính Đánh Thuê "Lữ Đoàn 30" - Khaldun ─ Học Giả (Ban ngày) - Sitt ─ Học Giả - Yasmin ─ Học Sinh - Yavanani ─ Học Giả (Ban ngày) - Ziryab ─ Học Sinh
+
+- Hawa ─ Học Giả (Ban đêm) - Iris ─ Học Giả (Ban đêm) - Shatir ─ Học Giả - Zinat ─ Học Giả

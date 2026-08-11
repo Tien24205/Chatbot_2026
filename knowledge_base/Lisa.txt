@@ -1,0 +1,36 @@
+# Lisa
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+quality: 4
+weapon: Pháp Khí
+element: Lôi
+name: Lisa
+realname: Lisa Minci
+birthday: 09 tháng 06
+constellation: Sa Lậu
+region: Mondstadt
+affiliation: Đội Kỵ Sĩ Tây Phong
+affiliation2: Spantamad
+affiliationNote2: trước kia
+dish: Mì Tương Ma Pháp
+namecard1: Lisa - Đồng Hồ Cát
+obtain: - Hoàn thành Điện Hỏa Hoa Trong Trang Sách - Du Hành Thế Gian (Cầu Nguyện) - Cửa Hàng Lưu Niệm
+releaseDate: 2020-09-28
+title: Ma Nữ Tường Vi
+title2: Thủ Thư
+voiceEN: Mara Junot
+voiceCN: Zhong Ke (zh|钟可)
+voiceJP: w|Rie Tanaka|Tanaka Rie (ja|田中理恵)
+voiceKR: w|ko:박고운|Park Go-woon (ko|박고운)
+
+## Tổng Quan
+
+Lisa Minci là một nhân vật hệ mà người chơi có thể điều khiển trong Genshin Impact.
+
+Cô là Ma Đạo Sư mạnh mẽ và được công nhận là thiên tài xuất sắc trong 200 năm của Giáo Viện Sumeru, Lisa trở về Mondstadt trở thành Thủ Thư khiêm tốn của Đội Kỵ Sĩ Tây Phong.
+
+Người chơi thể nhận miễn phí Lisa trong Mở Đầu - Màn I: Người phương xa đuổi theo gió trong nhiệm vụ Điện Hỏa Hoa Trong Trang Sách.
+
+- Hoàn thành Điện Hỏa Hoa Trong Trang Sách - Cầu Nguyện Thường Du Hành Thế Gian

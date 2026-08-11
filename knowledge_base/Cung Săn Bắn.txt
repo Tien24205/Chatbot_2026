@@ -1,0 +1,20 @@
+# Cung Săn Bắn
+
+## Thông Tin Cơ Bản
+
+id: 15101
+type: Cung
+series: 1 Sao
+releaseDate: 2020-09-28
+quality: 1
+base_atk: 23
+obtain: Rương
+obtain2: Điều Tra
+obtain3: Cửa Hàng
+obtain4: Mặc Định
+
+- Tổng Quan: Cung Săn Bắn là một Cung 1 sao.
+
+- Câu Chuyện: Theo truyền thuyết trước đây, Mondstadt đã từng dùng cung nỏ tấu nhạc, Hoặc những nhạc sĩ lang thang dùng dây đàn bắn tên. Nhưng đó chỉ là truyền thuyết từ lâu đời.
+
+- Được tìm thấy ngẫu nhiên trong Rương Thường và Rương Cao Cấp trên khắp Teyvat - Rơi khi người chơi tương tác với một số điểm Điều Tra

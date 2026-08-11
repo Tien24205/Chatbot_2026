@@ -1,0 +1,98 @@
+# Nhân Vật
+
+## Thông Tin Cơ Bản
+
+type: Hệ Thống Trò Chơi
+
+- Tổng Quan: Nhân Vật là những đơn vị có thể nhận được trong Genshin Impact. Nhân vật có thể có độ hiếm khác nhau, mang một Nguyên Tố, sử dụng một loại Vũ Khí nhất định và thuộc về một Quốc Gia nào đó.
+
+## Cách Nhận
+
+Có thể nhận được nhân vật bằng cách sử dụng hoặc. Những Đạo Cụ Cầu Nguyện này có thể nhận bằng cách:
+- Mua bằng Nguyên Thạch
+- Nhận từ Sự Kiện và Nhiệm Vụ
+- Đổi bằng trong cửa hàng Đổi Bụi Ánh Sáng.
+- Đổi hằng tháng bằng trong cửa hàng Đổi Bụi Ánh Sáng.
+
+Các cách khác để sở hữu nhân vật bao gồm:
+- Tạo tài khoản và đăng nhập
+- là nhân vật chỉ có thể nhận được vào đầu trò chơi, không thể nhận được qua các nguồn khác.
+- Nhiệm Vụ Ma Thần
+-, và có thể tự động nhận được ở.
+- Cầu Nguyện đề xuất cho người mới
+- là nhân vật bảo đảm nhận được khi cầu nguyện 10 lần lần đầu tiên.
+- Đổi Bụi Ánh Sáng
+- Mỗi tháng sẽ có 2 nhân vật 4 sao có thể nhận được từ cửa hàng Đổi Bụi Ánh Sáng, mỗi nhân vật cần.
+- Sự Kiện Chủ Đề
+- Sự Kiện Vĩnh Viễn
+-: Nhận sau khi hoàn thành thông qua giao diện sự kiện Thánh Ca Cầu Nguyện.
+-: Nhận sau khi Hạng Mạo Hiểm đạt cấp 25 thông qua giao diện sự kiện Ảo Thuật Bất Tận.
+-: Nhận sau khi hoàn thành La Hoàn Thâm Cảnh Tầng 3, Phòng 3 thông qua Vạn Dân Đồng Hành.
+-: Nhận sau khi hoàn thành La Hoàn Thâm Cảnh Tầng 4, Phòng 3 thông qua Bức Màn Lá Xanh.
+-: Nhận qua Thư từ Tháng 9/2021 đến Tháng 11/2021:
+- PlayStation: 01/09/2021 đến 13/10/2021
+- PC và Di Động: 13/10/2021 đến 24/12/2021
+
+## Tăng Cấp
+
+Các nhân vật thường nhận EXP Nhân Vật hầu hết từ Nguyên Liệu EXP Nhân Vật, cũng như một phần kinh nghiệm nhỏ từ việc đánh bại các ma vật trong trò chơi.
+
+Nhiệm Vụ Ma Thần Mở Đầu - Dấu Chân Kẻ Lang Thang, Màn 1 - Người Phương Xa Đuổi Theo Gió và Màn 2 - Vì Một Ngày Mai Không Rơi Lệ trong phần Mở Đầu cũng thưởng EXP Nhân Vật cho người chơi.
+
+## Đột Phá
+
+Nhân vật có thể đột phá tới giai đoạn đột phá tiếp theo khi nhân vật đó đã đạt tới cấp độ tối đa và người chơi đạt được Hạng Mạo Hiểm yêu cầu. Một nhân vật có thể đột phá được 6 lần (lên đến Lv. 90).
+
+Để đột phá một nhân vật, vào màn hình nhân vật đó và nhấn vào nút Đột Phá ở góc phải dưới cùng của Giao Diện Nhân Vật. Một hộp thông tin sẽ hiện ra, hiển thị Nguyên Liệu Đột Phá Nhân Vật, Đặc Sản Khu Vực, và Nguyên Liệu Bồi Dưỡng Nhân Vật mà nhân vật đó cần cùng với số Mora yêu cầu để đột phá. Nếu có vật phẩm bị thiếu, hãy nhấn vào biểu tượng vật phẩm đó để xem các cách nhận được. Xem trang của mỗi nhân vật để tìm hiểu về nguyên liệu đột phá của mỗi giai đoạn.
+
+Khi đột phá xong lần đầu tiên và lần thứ tư, nhân vật sẽ mở khóa nội tại thiên phú chiến đấu thứ nhất và thứ hai. Thiên phú cố định thứ ba (có sẵn đối với mỗi nhân vật, trừ Nhà Lữ Hành) đã được mở khóa sẵn mà không cần đột phá.
+
+Từ lần đột phá thứ hai trở đi, mỗi nhân vật sẽ được tăng một chỉ số nhất định trong thuộc tính (VD: Nhà Lữ Hành được tăng Tấn Công sau mỗi lần đột phá) hoặc một thuộc tính đặc biệt (VD: Ningguang nhận được, Lisa nhận thêm Tinh Thông Nguyên Tố). Cơ chế này được áp dụng cho lần đột phá thứ ba, năm và sáu.
+
+Đột phá lần thứ nhất, thứ ba và thứ năm sẽ thưởng người chơi 1 Mối Duyên Tương Ngộ.
+
+## Thiên Phú
+
+Hầu hết các nhân vật đều có tổng cộng 3 Thiên Phú Chiến Đấu và 3 Thiên Phú Cố Định. Thiên Phú Chiến Đấu bao gồm Tấn Công Thường, Kỹ Năng Nguyên Tố, và Kỹ Năng Nộ có thể nâng cấp từ Lv. 1 đến Lv. 10; trong khi đó, Thiên Phú Cố Định bao gồm Nội Tại Đột Phá Bậc 1, Nội Tại Đột Phá Bậc 4, và Thiên Phú Sinh Tồn không thể nâng cấp.
+
+## Cung Mệnh
+
+Mỗi nhân vật sẽ có 6 Cung Mệnh, tương tự với các Nội Tại Thiên Phú, chúng sẽ tăng hiệu quả và khả năng chiến đấu hoặc thêm một khả năng mới cho nhân vật.
+
+Để mở Cung Mệnh của mỗi nhân vật, người chơi phải dùng một Chòm Sao của nhân vật đó. Người chơi có thể nhận được Chòm Sao bằng cách nhận được nhân vật đó nhiều lần trong Cầu Nguyện hoặc mua nhân vật từ Đổi Bụi Ánh Sáng. Cung Mệnh của Nhà Lữ Hành đặc biệt hơn nên không thể mở khóa bằng cách trên, thay vào đó người chơi sẽ nhận được qua Nhiệm Vụ Ma Thần, Thưởng Hạng Mạo Hiểm (chỉ áp dụng cho nguyên tố Phong), hiến tế Thần Đồng cho Thất Thiên Thần Tượng (Lôi, Thảo, Thủy) và mua từ Cửa Hàng Lưu Niệm.
+
+## Tổng Nguyên Liệu Yêu Cầu
+
+Tổng nguyên liệu cần để có thể nâng cấp nhân vật từ cấp 1 lên 90 là:
+- 2,092,000 Mora (1,672,000 để nâng cấp và 420,000 để Đột Phá)
+- 8,362,650 EXP Nhân Vật (415× Kinh Nghiệm Anh Hùng, 11× Kinh Nghiệm Nhà Mạo Hiểm, 12× Kinh Nghiệm Kẻ Lang Thang)
+- 432× Nguyên Liệu Bồi Dưỡng Nhân Vật Và Vũ Khí (18×, 30×, 36× )
+- 168× Đặc Sản Khu Vực
+- 46× Nguyên Liệu Thủ Lĩnh Thường
+- 271× Đá Đột Phá (1×, 9×, 9×, 6× )
+
+Tổng nguyên liệu cần để nâng cấp cả ba Thiên Phú Tấn Công từ Cấp 1 lên 90 là:
+- 4,956,000 Mora
+- 1,053× Nguyên Liệu Bồi Dưỡng Nhân Vật Và Vũ Khí (18×, 66×, 93× )
+- 1,224× Sách Thiên Phú (9×, 63×, 114× )
+- 18× Nguyên Liệu Thủ Lĩnh Tuần
+- 3× Vương Miện Trí Thức
+
+Tổng số nguyên liệu cần là:
+- 7,048,000 Mora
+- 8,362,650 EXP Nhân Vật (415× Kinh Nghiệm Anh Hùng, 11× Kinh Nghiệm Nhà Mạo Hiểm, 12× Kinh Nghiệm Kẻ Lang Thang)
+- 1,485× Nguyên Liệu Bồi Dưỡng Nhân Vật Và Vũ Khí (36×, 96×, 129× )
+- 168× Đặc Sản Khu Vực
+- 46× Nguyên Liệu Thủ Lĩnh Thường
+- 271× Đá Đột Phá (1×, 9×, 9×, 6× )
+- 1,224× Sách Thiên Phú (9×, 63×, 114× )
+- 18× Nguyên Liệu Thủ Lĩnh Tuần
+- 3× Vương Miện Trí Thức
+
+- Nhân Vật Sắp Ra Mắt: Những nhân vật dưới đây đã được thông báo là có thể chơi được trong tương lai bởi HoYoverse.
+
+- Giới Thiệu Nhân Vật: Những nhân vật chơi được và không chơi được sau đã xuất hiện trong video giới thiệu Video Đặc Biệt - Tuyết Rơi Bất Chợt và sẽ đóng vai trò quan trọng trong Nhiệm Vụ Ma Thần sắp tới ở Snezhnaya.
+
+- Dainsleif được công bố vào ngày 27/9/2020. Ngày ra mắt chưa xác định.
+
+- Nhân Vật Không Chơi Được: Đối với danh sách NPC, xem NPC/Danh Sách.

@@ -1,0 +1,27 @@
+# Nahida
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+quality: 5
+weapon: Pháp Khí
+element: Thảo
+name: Nahida
+sex: Nữ
+birthday: 27 tháng 10
+constellation: Chủ Trí Tuệ
+region: Sumeru
+affiliation: Thành Sumeru
+affiliation2: Bảy Vị Thần
+dish: Halvamazd
+obtain: Sự Kiện Cầu Nguyện
+event_name: Giác Ngộ Nguyệt Thảo
+releaseDate: 2022-11-02
+title: Kết Tinh Bạch Thảo
+title2: Tiểu Vương Kusanali
+voiceEN: Kimberley Anne Campbell
+voiceCN: w|zh:花玲|Hualing (Lang|mini=1|zh=花玲)
+voiceJP: w|Yukari Tamura|Tamura Yukari (Lang|mini=1|ja=田村ゆかり)
+voiceKR: w|ko:박시윤_(성우)|Park Shi-Yoon (Lang|mini=1|ko=박시윤)YouTube: Mô tả của video 원신
+
+- Tổng Quan: Nahida là một nhân vật hệ Thảo trong Genshin Impact. Cô là nhân dạng của thảo thần hiện tại - Tiểu Vương Kusanali.

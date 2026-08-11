@@ -1,0 +1,12 @@
+# Cục Thiết Kế Thí Nghiệm Kuuvahki
+
+## Thông Tin Cơ Bản
+
+type: Phân Khu
+map_level: Cục Thiết Kế Thí Nghiệm Kuuvahki - Tầng Đỉnh;Cục Thiết Kế Thí Nghiệm Kuuvahki - Xưởng Tiêu Hủy;Cục Thiết Kế Thí Nghiệm Kuuvahki - Khu Nam;Cục Thiết Kế Thí Nghiệm Kuuvahki - Tầng Giữa;Cục Thiết Kế Thí Nghiệm Kuuvahki - Tầng Dưới;Cục Thiết Kế Thí Nghiệm Kuuvahki - Tầng Đáy
+area: Đảo Paha
+region: Nod-Krai
+
+## Tổng Quan
+
+Các tầng dưới của Cục Thiết Kế là nơi xuất hiện các kẻ địch thường. Trong, người chơi sẽ mở khóa các khu vực phía trên của cục. Ngoại trừ khu vực chiến đấu với Raskolnikov, tất cả các khu vực có kẻ địch khác đều sử dụng một hệ thống báo động: khi chiến đấu bắt đầu, một đồng hồ đếm ngược 20 giây sẽ khởi động. Nếu người chơi không thể tiêu diệt hết kẻ địch trước khi thời gian kết thúc, kẻ địch sẽ được bổ sung thêm. Tất cả những kẻ địch này đều không cho bất kỳ kinh nghiệm, mora hay nguyên liệu nào.

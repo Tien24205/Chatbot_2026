@@ -1,0 +1,27 @@
+# Kirara
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+quality: 4
+weapon: Kiếm Đơn
+element: Thảo
+name: Kirara
+birthday: 22 tháng 01
+constellation: Tương Cử
+region: Inazuma
+affiliation: Công Ty Chuyển Phát Komaniya
+affiliation2: Youkai
+dish: Hộp Cơm Tiếp Sức
+namecard: Bưu Kiện Mèo
+obtain: Cầu Nguyện Nhân Vật
+event_name: Thiên Hà Rực Lửa
+event_name2: Tiếu Ngạo Thế Gian
+releaseDate: 2023-05-24 18:00:00
+title: Mèo Leo Nóc Nhà
+title2: Nhân Viên Giao Hàng Siêu Cấp Công Ty Chuyển Phát Komaniya
+voiceEN: [[imdb:nm12824498
+Julia Gu]]<ref name: "Version 3.7 Trailer">YouTube: Video Giới Thiệu Phiên Bản 3.7 "Đỉnh Cao Triệu Hồi" (Mô tả video)
+voiceCN: Sun Yanqi (zh|孙艳琦)
+voiceJP: w|Sayumi Suzushiro| Suzushiro Sayumi (ja|鈴代 紗弓)
+voiceKR: w|ko:강은애|Kang Eun-ae (ko|강은애)

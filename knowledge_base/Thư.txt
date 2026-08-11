@@ -1,0 +1,32 @@
+# Thư
+
+## Tổng Quan
+
+type: Hệ Thống Trò Chơi
+group: Giao Diện
+
+Thư là một hệ thống trong Genshin Impact nơi người chơi có thể nhận tin nhắn và đính kèm. Tất cả thư đều có tiêu đề, người gửi, nội dung thư, thời gian/ngày gửi/nhận, đính kèm và ngày hết hạn khi thư sẽ bị tự động xóa.
+
+Nó được mở khóa sau khi hoàn thành.
+
+## Hộp Thư
+
+Hộp thư có thể được truy cập từ Menu Paimon > Thư hoặc tương tác với Tín Sứ Rừng Hè trong Ấm Trần Ca. Nó có thể chứa tối đa là 1000. Khi số lượng Thư bạn có vượt quá con số đó, hệ thống sẽ bắt đầu tự động xóa Thư không có đính kèm hoặc Thư đính kèm đã nhận theo thứ tự thời gian từ cũ nhất đến mới nhất. Ngoài ra, màn hình Hộp thư bị giới hạn và sẽ chỉ hiển thị một phần của Thư sau khi vượt quá giới hạn. Xóa Thư thừa để hiển thị Thư còn lại.
+
+Phần đính kèm trong Thư là biểu tượng vật phẩm được hiển thị trong danh sách Thư.
+
+Có thể xác nhận tất cả Thư bằng cách chọn "Nhận Hết" và tất cả Thư đã đọc có thể bị xóa bằng cách chọn "Xóa Đã Đọc".
+
+- Thư Đã Ghim: Thư đã ghim không thể bị xóa nhanh chóng và sẽ được đặt ở đầu danh sách thư với một. Tuy nhiên, chúng vẫn có thể hết hạn.
+
+## Hộp Thư Kỷ Niệm
+
+Một số thư quan trọng như lời chúc mừng sinh nhật sẽ được tự động chuyển vào Hộp Thư Kỷ Niệm sau khi người chơi đã thu thập phần thưởng. Thư trong Hộp này sẽ không bị xóa nhanh và sẽ không hết hạn theo thời gian.
+
+## Ngôn Ngữ Thư
+
+Thư bắt nguồn từ trò chơi sẽ bằng ngôn ngữ mà người chơi đã đặt trò chơi. Thư có nguồn gốc bên ngoài trò chơi, chẳng hạn như từ các sự kiện web hoặc Điểm Danh Hằng Ngày của HoYoLAB, sẽ ở ngôn ngữ được đặt ở đó. Các ngôn ngữ có thể khác nhau đối với các nguồn khác nhau cùng một lúc.
+
+Ngôn ngữ của thư không thay đổi sau khi nhận ngoại trừ Thư Sinh Nhật Nhà Lữ Hành, sẽ được cập nhật khi thay đổi ngôn ngữ trò chơi ngay cả sau khi nhận.
+
+- Thư Sự Kiện: Thư Sự Kiện là những thư được gửi đến người chơi kèm theo phần thưởng, thường là để kỷ niệm các mốc quan trọng mà trò chơi đạt được.

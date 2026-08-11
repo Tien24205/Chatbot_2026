@@ -1,0 +1,33 @@
+# Teucer
+
+## Thông Tin Cơ Bản
+
+type: NPC Nhiệm Vụ
+region: Snezhnaya
+location: Liyue
+voiceEN: [[imdb:nm5213242
+voiceCN: Nuoya (zh|诺亚)
+voiceJP: w|Mutsumi Tamura|Tamura Mutsumi (ja|田村 睦心)
+voiceKR: w|ko:강시현|Kang Si-hyeon (ko|강시현)
+sibling: Tartaglia
+siblingNote: anh trai
+sibling2: Tonia
+siblingNote2: chị gái
+sibling3: Anthon
+siblingNote3: anh trai
+
+- Tổng Quan: Teucer là NPC độc quyền nhiệm vụ trong Nhiệm Vụ Truyền Thuyết của Tartaglia, Chương Kình Thiên: Màn I - Tổng động viên tiểu bảo một mắt.
+
+## Tiểu Sử
+
+Teucer là một cậu bé đến từ Snezhnaya và là em trai của Tartaglia, Tonia và Anthon.
+
+Sau khi biết đến Nhà Lữ Hành qua những lá thư của Tartaglia (và cảm thấy cô đơn khi không có anh), Teucer đã đi thuyền từ Snezhnaya đến Liyue để tìm anh. Bằng cách nào đó, Teucer đi ra khỏi bến cảng và đi vào Thần Luật Quan, nơi cậu gặp được một con "Tiểu Bảo Một Mắt" khổng lồ mà Nhà Lữ Hành đã gặp phải và tiêu diệt. Khi biết được tình hình từ cậu, họ đã đưa cậu đến Ngân Hàng Bắc Quốc, nơi cậu đoàn tụ với anh trai mình. Childe không muốn cho Teucer biết về mối quan hệ của mình với Fatui nên đã nhờ Nhà Lữ Hành giúp trông trẻ, nhưng Teucer nhanh chóng trở nên chán nản và muốn gặp anh trai mình tại nơi anh làm việc. Sau hai lần làm Childe khó xử, cậu hứa sẽ rời đi khi nhìn thấy "Viện nghiên cứu đồ chơi" của Liyue, một cơ sở mà Il Dottore đã bỏ hoang. Khi chuyến thăm kết thúc, Teucer lên thuyền trở lại Snezhnaya.
+
+## Ngoại Hình
+
+Teucer là một cậu bé có làn da nhợt nhạt, tàn nhang, đôi mắt xanh và mái tóc màu cam, rất giống anh trai mình. Cậu mặc bộ quần áo truyền thống của người Snezhnaya, bao gồm cả chiếc mũ bomber màu nâu và trắng.
+
+- Nhiệm Vụ Và Sự Kiện: (Sẽ được bổ sung.)
+
+- Lời Thoại Nhàn Rỗi: Trong Người Giữ Mộng Trong Thần Thoại, sau khi loại bỏ mối đe dọa từ Thủ Vệ Di Tích: - "Anh trốn ở đâu rồi?"

@@ -1,0 +1,21 @@
+# ID Người Dùng
+
+## Tổng Quan
+
+type: Hệ Thống Trò Chơi
+
+ID Người Dùng hay của người chơi là mã định danh duy nhất giúp phân biệt người chơi với nhau trong Chế Độ Nhiều Người Chơi. UID được sử dụng chủ yếu để tham gia thế giới của người chơi khác, nhưng UID cũng có thể sử dụng để thêm bạn bè hoặc liệt những người chơi tham gia thế giới vào danh sách đen cũng như xác định người dùng đang trên máy chủ nào.
+
+## Định Dạng
+
+UID là một dãy số dài 9 hoặc 10 ký tự. Với UID dài 9 ký tự, chữ số đầu tiên ("Tiền Tố UID") sẽ được dùng để xác định server của tài khoản người chơi, còn với UID dài 10 ký tự thì sẽ là hai chữ số đầu tiên. Tám chữ số còn lại là một dãy số tăng dần với mỗi tài khoản, biểu hiện thứ tự tài khoản đó được tạo.
+
+Nếu người chơi sử dụng tài khoản server nội bộ, độ dài của UID có thể sẽ ngắn hơn 9 ký tự do game không hiện số 0 ở đầu UID.
+
+Người chơi không thể chơi với người chơi trên máy chủ khác, cũng như không thể đồng bộ dữ liệu giữa các máy chủ với nhau.
+
+## Hiển Thị UID
+
+UID luôn hiển thị ở góc dưới cùng bên phải của màn hình và vẫn hiển thị cho đến khi bị làm mờ hoặc bị cắt. UID cũng hiển thị trong Giao Diện Paimon
+
+Trong danh sách chế độ nhiều người chơi, UID có thể được xem bằng cách mở hồ sơ của người dùng khác lên. UID được hiển thị dưới tên của họ.

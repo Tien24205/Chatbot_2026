@@ -1,0 +1,31 @@
+# Sucrose
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+quality: 4
+weapon: Pháp Khí
+element: Phong
+name: Sucrose
+birthday: 26 tháng 11
+constellation: Thiêu Bình
+region: Mondstadt
+affiliation: Đội Kỵ Sĩ Tây Phong
+dish: Cơm Dinh Dưỡng 593
+obtain: Cầu Nguyện
+releaseDate: 2020-09-28
+title: Độ Ngọt Vô Hại
+title2: Giả Kim Thuật Sĩ
+voiceEN: [[imdb:nm12056222
+Valeria Rodriguez]]<ref name: "Sucrose EN/JP">Facebook: Công Bố Diễn Viên Lồng Tiếng tiếng Anh và Nhật
+voiceCN: Xiaogan (zh|小敢)
+voiceJP: w|Akane Fujita|Fujita Akane (ja|藤田茜)
+voiceKR: w|ko:김하영 (성우)|Kim Ha-yeong (ko|김하영)
+
+## Tổng Quan
+
+Sucrose là một nhân vật hệ mà người chơi có thể điều khiển trong Genshin Impact.
+
+Cô là giả kim thuật sĩ, chuyên về giả kim thuật sinh học. Cô cũng là trợ lý của Albedo, giả kim thuật sĩ trưởng của Đội Kỵ Sĩ Tây Phong.
+
+- Cầu Nguyện Thường Du Hành Thế Gian - Cầu Nguyện Đề Xuất Cho Người Mới (Không giới hạn cho đến khi đủ 20 lần cầu nguyện) - Tất cả Sự Kiện Cầu Nguyện Nhân Vật và Sự Kiện Cầu Nguyện Vũ Khí

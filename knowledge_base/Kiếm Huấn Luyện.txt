@@ -1,0 +1,20 @@
+# Kiếm Huấn Luyện
+
+## Thông Tin Cơ Bản
+
+id: 12101
+type: Trọng Kiếm
+series: 1 sao
+releaseDate: 2020-09-28
+quality: 1
+base_atk: 23
+obtain: Rương
+obtain2: Điều Tra
+obtain3: Cửa Hàng
+obtain4: Mặc Định
+
+- Tổng Quan: Kiếm Huấn Luyện là Trọng Kiếm 1 sao.
+
+- Mô Tả: Những người dùng qua loại kiếm nặng song thủ này, đều hiểu rõ, Binh khí như thế nào đều không quan trọng, quan trọng là sức mạnh bản thân.
+
+- Được tìm thấy ngẫu nhiễn trong Rương Thường và Cao Cấp khắp Teyvat. - Rơi khi tương tác với một số điểm Điều Tra.

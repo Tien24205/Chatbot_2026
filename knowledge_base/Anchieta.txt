@@ -1,0 +1,34 @@
+# Anchieta
+
+## Thông Tin Cơ Bản
+
+type: NPC Đại Thế Giới
+region: Natlan
+location: Natlan
+
+- Tổng Quan: Anchieta là một NPC đại thế giới ở.
+
+- Tiểu Sử: (Sẽ được bổ sung.)
+
+- Ngoại Hình: (Sẽ được bổ sung.)
+
+- Lời Thoại Nhàn Rỗi: Mấy tên già đầu đó... : "Ôi, mấy tên già đầu đó nên đến thăm ta thường xuyên hơn."
+
+## Hội Thoại
+
+Anchieta: Hoan nghênh ghé thăm, muốn thử nhạc cụ sao?
+Ông là...
+:Anchieta: Ta là chủ của Xưởng Djembe, chuyên bán một ít nhạc cụ cũ.
+:Anchieta: Có rất nhiều du khách xem dàn nhạc biểu diễn ở Quảng Trường Colomche xong là chạy đến đây mua nhạc cụ ngay. Ta sẽ bảo họ thử trước, rồi đợi hôm sau đến mua.
+:Anchieta: Rất nhiều người trẻ tuổi dễ bị bầu không khí ảnh hưởng, nhất thời nổi hứng mua nhạc cụ đem về nhà, rồi cũng chẳng động tới nữa.
+:Anchieta: Số nhạc cụ ở đây ít nhiều gì cũng có chút tình cảm với ta, ta không muốn chúng bị rơi vào quên lãng.
+:Anchieta: Cho nên ta sẽ cho các vị khách một cơ hội để bình tĩnh lại. Chờ suy nghĩ thật kỹ rồi đến mua cũng chưa muộn.
+:Anchieta: Dù sao thì cửa tiệm này vẫn luôn ở đây, chẳng đi đâu hết. Hơn nữa, đơn thuần thưởng thức âm nhạc đã là tốt lắm rồi.
+Mấy lão già đó là ám chỉ...
+:Anchieta: Ối, nghe thấy rồi à? Để chê cười rồi, ta đang nói đến những người bạn Chủ Nhân Gió Đêm ấy mà.
+:Anchieta: Một vài hoạt động mà bộ tộc của họ tổ chức cần phải biểu diễn và ca hát, ta thường được mời tới chơi đàn.
+:Anchieta: Nhưng mà lần nào cũng là ta phải ngàn dặm xa xôi đến chỗ họ, chứ họ còn chưa từng nhắc đến chuyện tới thăm ta!
+:Anchieta: Ầy, thôi bỏ đi, mấy lão già đó chính là như thế đấy.
+:Anchieta: Trừ khi viết thư mời họ ra ngoài, nếu không thì đừng hòng mà họ đi lấy nửa bước... Ta chằng thèm!
+Tạm chưa cần đâu ạ.
+:Anchieta: Ừm, đi thong thả nhé.

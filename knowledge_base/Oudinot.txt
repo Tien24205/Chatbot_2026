@@ -1,0 +1,11 @@
+# Oudinot
+
+## Thông Tin Cơ Bản
+
+type: NPC Nhiệm Vụ
+region: Fontaine
+location: Fontaine
+voiceEN: [[imdb:nm7912247
+Reece Bridger]]<ref name: "Reece Bridger 2">Twitter: Diễn Viên Lồng Tiếng Tiếng Anh Tự Thông Báo (Lưu Trữ)
+
+- Tổng Quan: Oudinot là một NPC độc quyền nhiệm vụ xuất hiện trong.

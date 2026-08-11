@@ -1,0 +1,78 @@
+# CD Ngầm
+
+## Tổng Quan
+
+type: Thuyết Định Lượng Nguyên Tố
+type2: Hệ Thống Trò Chơi
+
+- Tổng Quan: là một cơ chế liên quan tới chu kỳ có thể áp dụng ấn nguyên tố hoặc áp dụng nguyên tố để kích hoạt phản ứng.
+
+ICD được đếm dựa theo một bộ đếm thời gian và một bộ đếm số lần đánh trúng.
+
+Đối với phần lớn kỹ năng của các nhân vật, ICD tiêu chuẩn sẽ là 2,5 giây hoặc 3 lần đánh trúng. Điều này có nghĩa là cứ sau 2,5 giây hoặc sau chuỗi 3 lần đánh trúng của một hành động nhất định, ICD sẽ được tái thiết lập. Lưu ý:
+- Lượt tấn công đầu tiên sau một chuỗi 3 lần đánh trúng sẽ áp dụng nguyên tố lên mục tiêu nhưng không tái thiết lập bộ đếm 2,5 giây.
+- Lượt tấn công đầu tiên sau thời gian 2,5 giây sẽ áp dụng nguyên tố lên mục tiêu, tái thiết lập bộ đếm và tái thiết lập chuỗi lần đánh trúng.
+
+Một số kỹ năng của các nhân vật sẽ có ICD khác hoặc không có ICD. Một số ICD có thể không có bộ đếm số lần đánh trúng nhưng sẽ luôn có bộ đếm thời gian.
+
+Lưu ý rằng ICD được đếm tách biệt đối với mỗi người tấn công và mỗi mục tiêu.
+
+Xem CD Ngầm/Số Liệu để biết thông tin chi tiết và thuộc tính của ICD.
+
+Ví dụ, trong chuỗi Tấn Công Thường của Yoimiya, cố sẽ bắn 7 mũi tên với chu kỳ 2,5 giây và có thể đính kèm Hỏa vào tấn công bằng cách thi triển Kỹ Năng Nguyên Tố. Khi tấn công Băng Nguyên Bản luôn mang theo ấn Băng, do có ICD, không phải mũi tên nào cũng có thể kích hoạt phản ứng Tan Chảy: Chỉ các tấn công mũi tên thứ nhất, thứ 4 và thứ 7 mới kích hoạt phản ứng Tan Chảy, đúng theo luật chuỗi 3 lần đánh trúng.
+
+Lưu ý rằng mũi tên tạo Tan Chảy thứ nhất sẽ kích hoạt bộ đếm 2,5 giây. Mũi tên thứ 2 và thứ 3 không gây ra Tan Chảy bởi vẫn chưa hết thời gian 2,5 giây kể từ tấn công lần 1. Mũi tên thứ 4 tuy vẫn chưa qua 2,5 giây, nó vẫn kích hoạt Tan Chảy vì là lần đánh trúng thứ 4 (đánh trúng lần 3 kể từ lần đánh trúng đầu tiên).
+
+Ngoài ra, sau khi bộ đếm 2,5 giây kết thúc, lần đánh trúng tiếp theo của Yoimiya sẽ kích hoạt Tan Chảy, bất kể đó là lần đánh trúng thứ bao nhiêu trong chuỗi 3 lần đánh trúng và sẽ bắt đầu một bộ đếm 2,5 giây mới.
+
+## Mô Hình Chung
+
+- Một nhân vật sẽ có bộ đếm ICD khác nhau với các kỹ năng các nhau hoặc các thành tố khác nhau trong thiên phú.
+- Tuy nhiên có đôi khi, một vài kỹ năng sẽ dùng chung bộ đếm ICD.
+
+Cụ thể:
+- Đối với phần lớn nhân vật dùng Cung, Pháp Khi và Vũ Khí Cán Dài, ICD của Tấn Công Thường và Trọng Kích sẽ được tính riêng.
+- Ngoại lệ: Xiao có Tấn Công Thường và Trọng Kích dùng chung ICD.
+- Đối với phần lớn nhân vật dùng Trọng Kiếm và Kiếm Đơn, Tấn Công Thường và Kỹ Năng Nguyên Tố sẽ dùng chung ICD.
+- Ngoại lê: Kamisato Ayaka và Kamisato Ayato có ICD của Tấn Công Thường và Kỹ Năng Nguyên Tố được tính riêng.
+- Tấn Công Khi Đáp không có ICD.
+- ICD ngắm bắn của các nhân vật dùng Cung thường đa dạng.
+
+## Ví Dụ Đáng Lưu Ý
+
+Dưới đây là danh sách chưa hoàn thiện về các ví dụ đáng lưu ý cùng các ngoại lệ của ICD tiêu chuẩn 2,5 giây/chuỗi 3 lần tấn công, đặc biệt là các kỹ năng tấn công hơn một lần. Với danh sách đầy đủ về kỹ năng của nhân vật và ICD, xem CD Ngầm/Số Liệu.
+
+## Không Có ICD
+
+- Kỹ Năng Nguyên Tố của Bennett
+- Kỹ Năng Nộ của Candace
+- Kỹ Năng Nộ của Chongyun
+- Kỹ Năng Nguyên Tố của Collei
+- Kỹ Năng Nguyên Tố của Diluc
+- Cung Sương Hoa của Ganyu
+- Kỹ Năng Nộ của Kaedehara Kazuha
+- Kỹ Năng Nguyên Tố và Kỹ Năng Nộ của Tartaglia
+- Kỹ Năng Nguyên Tố và Kỹ Năng Nộ của Rosaria
+- Kỹ Năng Nguyên Tố của Sangonomiya Kokomi
+- Kỹ Năng Nộ của Sucrose
+- Kỹ Năng Nguyên Tố và Kỹ Năng Nộ của Xiangling
+- Kỹ Năng Nguyên Tố của Xinyan
+- Kỹ Năng Nộ của Yae Miko
+
+## Không Theo Chuẩn ICD
+
+- Thiêu Đốt: 2s
+- Trọng Kích đâm của hầu hết nhân vật dùng Vũ Khí Cán Dài và Trọng Kích của Kamisato Ayato: 0,5s
+- Tụ Lực Ngắm Bắn và Mưa Tên của Amber: 1s/3 lần đánh trúng
+- Vòng Âm Thanh của Barbara: 2,5s, đánh trúng lần 1 và lần 4 sẽ áp dụng nguyên tố
+- Kỹ Năng Nộ của Collei: 3s
+- Tia Sét Xuyên Thấu của Cyno: 2,5s
+- Kỹ Năng Nộ của Diluc: 5s/5 lần đánh trúng
+- Kỹ Năng Nộ của Dori: 3s
+- Hỗ Trợ Tấn Công từ Oz của Fischl: 5s/4 lần đánh trúng
+- Vòng Nước Thanh Tẩy của Nilou: 1,9s/4 lần đánh trúng
+- Mũi Tên Hoa của Tighnari: 2,5s/4 lần đánh trúng
+- Kỹ Năng Nộ của Venti: 1s/3 lần đánh trúng
+- Hỗ Trợ Tấn Công từ Kỹ Năng Nộ của Yelan: 2s/3 lần đánh trúng
+
+- Áp dụng nguyên tố do nước hay cỏ gây ra không bị ảnh hưởng bởi ICD.

@@ -1,0 +1,41 @@
+# Kỹ Năng Nguyên Tố
+
+## Tổng Quan
+
+type: Thiên Phú Chiến Đấu
+
+Kỹ Năng Nguyên Tố — hoặc viết tắt Kỹ Năng — là loại Thiên Phú không yêu cầu Năng Lượng để sử dụng nhưng có thời gian Cooldown (hồi) giữa mỗi lần sử dụng. Nó thường được gọi là "E" (liên quan đến phím nóng mặc định tương ứng trên PC).
+
+## Tổng Quát
+
+Mọi Nhân Vật có thiên phú liên quan đến Kỹ năng Nguyên Tố được mặc định mở khóa. Khi sử dụng Kỹ Năng Nguyên Tố, một khoảng thời gian hồi chiêu sẽ bắt đầu, thay đổi giữa mỗi lần sử dụng Kỹ Năng Nguyên Tố. Thời gian hồi chiêu được quy định bởi chỉ số CD của Kỹ Năng Nguyên Tố. Kỹ Năng Nguyên Tố không thể được sử dụng trong thời gian hồi chiêu.
+
+Sau khi thời gian hồi chiêu kết thúc, người chơi có thể ngay lập tức sử dụng lại Kỹ Năng Nguyên Tố.
+
+Một số Kỹ Năng Nguyên Tố có cách thể hiện khác nhau tùy thuộc vào việc nhấn hay giữ nút Kỹ Năng Nguyên Tố. Các nhấn giữ Kỹ Năng Nguyên Tố thường mạnh hơn khi nhận, nhưng đổi lại cần thời gian hồi chiêu lâu hơn.
+
+Kỹ Năng Nguyên Tố thường tạo ra Sát Thương Nguyên Tố thay thế Sát Thương Vật Lý.
+
+Hầu như tất cả Kỹ Năng Nguyên Tố tạo ra Hạt Năng Lượng Nguyên Tố khi tạo ra sát thương cho kẻ thù.
+
+Một trường hợp đặc biệt là Kỹ Năng Nguyên Tố của Tartaglia, cho phép anh ấy có thể thay đổi trạng thái chiến đấu, tầm xa và cận chiến. Khi tiến vào trạng thái cận chiến, các chỉ số Kỹ Năng Nguyên Tố sẽ ảnh hưởng đến Tấn Công Thường, nghĩa là tất cả Sát Thương Kỹ Năng Nguyên Tố được phụ thuộc vào Tấn Công Thường. Thời gian hồi của chiêu thức này phụ thuộc vào thời gian mà người chơi sử dụng anh trong trạng thái cận chiến, "càng lâu" thì "càng lâu".
+
+## So Sánh
+
+Sau đây là so sánh thời gian Cooldown giữa các Kỹ Năng Nguyên Tố. Nếu kỹ năng có thể được nhấn và nhấn giữ (hoặc chạm và giữ trong phiên bản di động), thì thời gian hồi chiêu nhấn giữ cũng được hiển thị. Các trường hợp khác như kỹ năng của Bennett có nhiều loại hoặc kỹ năng của Tartaglia có thời gian hồi chiêu thay đổi được xử lý và hiển thị trong cột CD (Nhấn).
+
+- Tổng quan: Những Thánh Di Vật này có tác dụng liên quan đến việc sử dụng Kỹ Năng Nguyên Tố.
+
+## Những Thay Đổi
+
+Một số Kỹ Năng Nguyên Tố dành cho Nhân Vật có rất nhiều khả năng thay đổi, nghĩa là họ có thể sử dụng nhiều lần liên tiếp. Thông thường, số lần có thể sử dụng được biểu thị bằng số chấm trên biểu tượng Kỹ Năng Nguyên Tố.
+- Amber: Có 2 lần sử dụng Con Rối Nổ khi mở khóa Cung Mệnh tầng 4 Không Phải Con Rối Thường.
+- Diluc: Lưỡi Đao Rực Lửa có thể được sử dụng 3 lần liên tiếp trong thời gian ngắn.
+- Ganyu: Có 2 lần sử dụng Sơn Trạch Lân 2 lần khi mở khóa Cung Mệnh tầng 2 Hoạch Lân.
+- Klee: Ban đầu có 2 lần sủ dụng Bom Nảy.
+- Sucrose: Có 2 lần sử dụng Gió Thần Sáng Tạo 6308 khi mở khóa Cung Mệnh tầng 1 Vùng Chân Không.
+- Xiao: Ban đầu có 2 lần sủ dụng Đôi Bánh Xe Gió.
+- Mở khóa Cung Mệnh tầng 1 (Hoại Kiếp - Hủy Hoại Tam Giới), số lần sử dụng tăng lên 3.
+- Cung Mệnh tầng 6 (Hàng Ma - Hộ Pháp Dạ Xoa) có khả năng bổ sung số lần sử dụng.
+
+Một số kỹ năng có thể sử dụng nhiều lần để "triệu hồi" trước khi hồi chiêu, chẳng hạn như Oz của Fischl. Một số vũ khí như trong Bộ Vũ Khí Tế Lễ cũng cho phép nhân vật thi triển kỹ năng của họ nhiều lần (bằng cách kết thúc thời gian hồi chiêu) khi đáp ứng một số điều kiện nhất định.

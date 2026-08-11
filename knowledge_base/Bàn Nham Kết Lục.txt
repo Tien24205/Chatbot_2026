@@ -1,0 +1,60 @@
+# Bàn Nham Kết Lục
+
+## Thông Tin Cơ Bản
+
+title: Bàn Nham Kết Lục
+id: 11505
+type: Kiếm Đơn
+releaseDate: 2021-02-03
+quality: 5
+base_atk: 44b
+2nd_stat_type: Tỷ Lệ Bạo Kích
+2nd_stat: 9,6%b
+series: Ngọc Bích
+obtain: Cầu Nguyện Vũ Khí
+passive: Trái Tim Hộ Quốc
+effect: HP tăng (var1)%. Ngoài ra, nhận được buff tấn công dựa trên (var2)% giới hạn HP của nhân vật trang bị vũ khí này.
+eff_rank1_var1: 20
+eff_rank2_var1: 25
+eff_rank3_var1: 30
+eff_rank4_var1: 35
+eff_rank5_var1: 40
+eff_rank1_var2: 1,2
+eff_rank2_var2: 1,5
+eff_rank3_var2: 1,8
+eff_rank4_var2: 2,1
+eff_rank5_var2: 2,4
+eff_att1: HP
+eff_att2: Tấn Công
+
+- Tổng Quan: Bàn Nham Kết Lục là một Kiếm Đơn 5 Sao. Nó là một phần của Chuỗi Vũ Khí Ngọc Bích.
+
+- Hiệu ứng bị động sẽ không xảy ra nếu nhân vật trang bị vũ khí là đã ngã xuống hoặc không có trong đội.
+
+## Câu Chuyện
+
+Người ta nói rằng thuở sơ khai tại Liyue, đế quân từng đi khắp đại lục với một thanh kiếm cắt từ ngọc.
+
+Sau nhiều năm tôi luyện, thanh kiếm xanh ngọc bích tắm máu vẫn sáng bóng như mới,
+
+Máu đã trôi theo mưa ngàn năm, nhưng bao tâm tư, oán hận đọng lại khó mà rửa trôi.
+
+"Kết Lục có tâm hồn và sự dịu dàng của nước trong, nó có thể tẩy sạch những mối hận thù cũ còn sót lại trên đó."
+
+"Nhưng nỗi đau thân hình ngọc bích xinh đẹp bị biến thành vũ khí tàn sát kia ai có thể chữa lành?"
+
+Người bạn cũ quên tên từng uất ức thở dài,
+
+Nhưng số phận là thứ không thể ngăn cản, cuối cùng đã nhấn chìm đi những lời bi thương.
+
+Trong những năm tháng dài đằng đẵng, những kẻ thù trong cuộc chiến chết chóc đẫm máu cũng từng nói chuyện vui vẻ với nhau.
+
+Những người bạn từng mâu thuẫn, những kẻ thù truyền kiếp với thù hận cũng sẽ gặp nhau để nâng ly và uống say.
+
+Thanh kiếm này cũng được chạm khắc vào thời điểm đó như một món quà cho ai đó,
+
+Viên ngọc bích có tên "Kết Lục", được tạo ra vì hòa bình và phú quý.
+
+Khi bình rượu ngập tràn máu, hơi ấm bị dục vọng lạnh lùng xé nát, hóa thành cát bụi và phân tán khắp nơi,
+
+Những món quà không thể trao, tình bạn không thể nói ra cũng đã trở thành con dao sắc bén đối với những người bạn cũ.

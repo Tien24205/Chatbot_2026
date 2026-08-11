@@ -1,0 +1,23 @@
+# Azhdaha
+
+## Thông Tin Cơ Bản
+
+type: NPC Nhiệm Vụ
+group: Rồng
+element: Nham
+element2: Băng
+element3: Hỏa
+element4: Thủy
+element5: Lôi
+region: Liyue
+location: Liyue
+title: Nham Long Vương Bị Phong Ấn
+voiceEN: Matthew Greenbaum
+voiceCN: Liu Beichen (zh|刘北辰)
+voiceJP: w|Kōhei Kiyasu|Kiyasu Kouhei (ja|喜安 浩平)
+
+## Tổng Quan
+
+Azhdaha là rồng đất cổ đại, Nham Long Vương trong truyền thuyết của người Liyue.
+
+Hắn ta từng là đồng minh của Nham Thần Morax, tuy nhiên do bị xói mòn và có xung đột với con người, nó bị phong ấn dưới Vực Đá Sâu và Rễ Cây Phục Long ở Nam Thiên Môn. Từ đó, nó luôn tìm cách phá vỡ phong ấn, hấp thụ năng lượng trong Địa Mạch khắp ngọn nguồn thế giới và phá hủy tất cả.

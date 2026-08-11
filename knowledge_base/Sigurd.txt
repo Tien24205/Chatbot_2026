@@ -1,0 +1,34 @@
+# Sigurd
+
+## Thông Tin Cơ Bản
+
+type: NPC Nhiệm Vụ
+title: Starshyna
+element: Lôi
+region: Nod-Krai
+affiliation: Người Giữ Đèn
+affiliation2: Cuộc Săn Hoang Dã
+
+- Tổng Quan: Sigurd là một NPC độc quyền nhiệm vụ xuất hiện lần đầu tiên trong và sau đó có thể khiêu chiến như một Huyền Thoại Địa Phương.
+
+- Tiểu Sử: Sigurd từng là một Starshyna của Người Giữ Đèn và sử dụng trường kiếm. Anh nổi tiếng vì sự dũng cảm và chiến đấu đến cùng. Chiếc chuông của anh được tin là có khả năng kiềm chế hoặc đẩy lùi quái vật.
+
+## Ngoại Hình
+
+Sigurd là người đàn ông có nước da tái nhợt, thân hình cân đối, mắt tím và tóc vàng cắt ngắn. Anh mặc một trong các bộ đồng phục tiêu chuẩn của Người Giữ Đèn. Trang phục gồm áo khoác dài đen, quần đen, ủng xám cao đến gối và găng tay đen ở tay phải; tay trái của anh thì được băng bó. Đồng phục có các chi tiết trang trí bạc, như Lông Đuôi Của Dạ Oanh và nhấn nhá bằng vải màu tím đậm. Thêm vào đó, anh đội một chiếc mũ có gắn Lời Thề Người Giữ Đèn. Vision hoặc Vòng Mặt Trăng Nod-Krai của anh được gắn ở phía sau lưng.
+
+Không giống các Ratnik khác, đồng phục của Sigurd bị vấy bẩn màu tím đậm bởi sự ăn mòn của Cuộc Săn Hoang Dã, sự ăn mòn này gần như phá hủy hoàn toàn cơ thể anh khi anh biến thành Bóng Ma Hoang Dã.
+
+## Câu Chuyện
+
+Khi còn là thành viên của Người Giữ Đèn, Sigurd từng rất thân thiết với Chicherin, ngụ ý rằng anh sống không lâu trước thời điểm câu chuyện diễn ra.
+
+Sau khi anh biến mất trong trận chiến với Cuộc Săn Hoang Dã, những Người Giữ Đèn sống sót đã lập một ngôi mộ tượng trưng để tưởng nhớ anh ở phía đông bắc Đồng Hoang Xương Rêu. Sau trận chiến đó, cơ thể anh đã bị hủy hoại, khiến anh phải lang thang trong Vực Sâu. Dưới sự ảnh hưởng của Vực Sâu, kết hợp với ý chí kiên định bảo vệ quê hương, cuối cùng anh biến thành chính thứ mà anh từng chiến đấu chống lại. Ý chí bảo vệ Nod-Krai khỏi Cuộc Săn Hoang Dã còn sót lại khiến anh không thể tìm thấy sự yên nghỉ. Trang bị của Sigurd là bộ Lời Thề Đêm Dài.
+
+Trong, Nhà Lữ Hành và Paimon đã chạm trán với Sigurd ở nhiều khu vực khác nhau trên khắp Nod-Krai khi chiến đấu với kẻ địch thuộc Cuộc Săn Hoang Dã gần các Tịch Ấn Thạch. Với sự hỗ trợ của Sigurd, Nhà Lữ Hành đã dọn dẹp các khu vực và thu hồi được ba di vật. Sau đó, Paimon đề nghị hãy mang chúng cho Người Giữ Đèn của Thị Trấn Nasha, tại đây họ đã gặp Lushne và Sukhovykh. Cả hai xác nhận những món di vật đó thuộc về Sigurd và tiết lộ rằng anh vẫn đang tiếp tục chiến đấu để chống lại Cuộc Săn Hoang Dã ngay cả sau khi chết. Họ hướng dẫn Nhà Lữ Hành mang các di vật đó đến mộ của Sigurd. Tại đó, Nhà Lữ Hành đã đặt các di vật xuống mộ để anh yên nghỉ.
+
+Sau đó, Nhà Lữ Hành có thể chọn thách đấu Sigurd. Trong trận chiến, anh sẽ để lộ hình dạng thật của mình là một Bóng Ma Hoang Dã đã bị ăn mòn. Sau khi đánh bại, Sigurd nói rằng: "Cuối cùng cũng kết thúc", ngụ ý rằng cuối cùng anh đã có thể tìm thấy sự an nghỉ.
+
+Trong Mục Tiêu Ẩn, Bí Mật Của Tịch Ấn Thạch, Flins đã phát hiện ra dấu vết của Sigurd gần các Tịch Ấn Thạch và cuối cùng đã giao đấu với anh, giống như ngày xưa.
+
+- là một anh hùng huyền thoại trong, người đã người đã giết một con rồng nổi tiếng trong truyền thống Bắc Âu tên là và sau đó bị ám sát.

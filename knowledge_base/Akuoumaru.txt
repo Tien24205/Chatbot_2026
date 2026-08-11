@@ -1,0 +1,67 @@
+# Akuoumaru
+
+## Thông Tin Cơ Bản
+
+id: 12416
+type: Trọng Kiếm
+releaseDate: 2021-10-13
+quality: 4
+base_atk: 42
+2nd_stat_type: Tấn Công
+2nd_stat: 9%
+series: Watatsumi
+passive: Kẻ Cưỡi Sóng Watatsumi
+effect: Tổng giới hạn Năng Lượng Nguyên Tố của tất cả nhân vật trong đội, mỗi 1 điểm sẽ tăng (var1)% sát thương Kỹ Năng Nộ của nhân vật trang bị vũ khí này gây ra. Thông qua cách này, sát thương Kỹ Năng Nộ tăng tối đa (var2)%
+eff_rank1_var1: 0,12
+eff_rank2_var1: 0,15
+eff_rank3_var1: 0,18
+eff_rank4_var1: 0,21
+eff_rank5_var1: 0,24
+eff_rank1_var2: 40
+eff_rank2_var2: 50
+eff_rank3_var2: 60
+eff_rank4_var2: 70
+eff_rank5_var2: 80
+eff_att1: Tăng Sát Thương Kỹ Năng Nộ
+eff_att2: Năng Lượng Nguyên Tố
+obtain: Sự Kiện Cầu Nguyện Vũ Khí
+
+- Giới hạn Năng Lượng Nguyên Tố của nhân vật là Năng Lượng tiêu hao để sử dụng Kỹ Năng Nộ, ví dụ, Bình Minh hao 40 năng lượng nguyên tố, nên Diluc có 40 giới hạn Năng Lượng Nguyên Tố.
+
+## Câu Chuyện
+
+Là thanh đao từng thuộc về mãnh tướng xuất thân từ Watatsumi.
+
+Nghe nói kiếm pháp của anh ấy chỉ có hai loại "Getsumouun" và "Yuushio" do chính anh ấy tạo ra,
+
+Nhưng trên chiến trường và những cuộc thi đấu, chỉ dựa vào hai loại kiếm pháp này mà anh ấy chưa từng thua trận dưới tay bất cứ đối thủ nào.
+
+Người ta thường nói rắn và cá là loài máu lạnh. Thế nhưng loại động vật máu lạnh này lại say đắm với một cảnh sắc tương lai rực cháy.
+
+Để thực hiện mơ ước của con dân, Omikami đã khiêu chiến với lôi vân tích tụ.
+
+Trong số những người phàm đi theo Watatsumi bước lên con đường chinh phục, có một thiếu niên nổi bật xuất chúng.
+
+Vì sự dũng mãnh bất khuất của mình mà anh rất được Watatsumi yêu thích, và nhận được danh hiệu "Touzannou".
+
+Cuối cùng rất nhiều năm sau đó, danh hiệu đã dần bị lãng quên, và bị thay thế bằng cách gọi miệt thị của kẻ địch:
+
+"Akuou", nanh vuốt hung ác của mãng xà, ma vương tàn khốc xâm chiếm Đảo Yashiori...
+
+Giết chóc biến thiếu niên trở thành một chiến sĩ thô kệch. Nhưng đối với anh ấy,
+
+Chỉ có điều ước anh đã cầu nguyện trước ánh trăng trên biển bên cạnh đền thần trước khi xuất chinh là không bao giờ tan biến.
+
+"Rồi có một ngày, tôi sẽ đứng trên Núi Yougou, và nhìn xuống vương thành của Lôi Vương."
+
+"Trên nóc thành Thiên Thủ, thỏa sức chiến đấu với Tengu Yougou trong truyền thuyết."
+
+"Sau đó, dùng mặt nạ làm quà tặng cho Ayame và Mouun!"
+
+Sau cùng, cơn sóng đã cuốn đi hết mọi ước mơ, cũng giống như cuốn trôi lâu đài cát trên bãi biển vậy.
+
+Mặt nạ Tengu rực đỏ đã vỡ nát như cát biển trong loạn chiến.
+
+Pháp sư như ánh trăng biển soi sáng linh hồn của thiếu niên năm xưa, nay cũng không còn nữa.
+
+Còn Akuou cũng cùng với mãng xà biến thành tia sáng chói lòa.

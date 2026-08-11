@@ -1,0 +1,16 @@
+# Schulz
+
+## Tổng Quan
+
+type: NPC Đại Thế Giới
+region: Mondstadt
+title: Thợ Rèn Học Việc
+dialoguereward: Card|Kiếm Bạc|3
+
+Schulz là một NPC bán các Vũ khí 1 Sao ở Thành Mondstadt. Anh ta là học việc của Wagner và có thể được tìm thấy tại Xưởng Schulz gần cổng trước của thành phố, anh ta thường xuyên đi qua lại giữa quanh xưởng của mình vào mọi thời điểm trong ngày. Hàng của anh ấy làm mới mỗi ngày.
+
+Lần đầu tiên nói chuyện với anh ta qua một nhánh đối thoại nhất định sẽ mang lại cho người chơi ba thanh Kiếm Bạc.
+
+- Sự Kiện Đồng Hành của Barbara - Màn I: Suối Nguồn Trị Liệu - Thức Uống Khác Lạ
+
+- Lời Mời Của Hoa Gió (có câu thoại khi nhàn rỗi mới)

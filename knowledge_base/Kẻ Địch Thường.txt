@@ -1,0 +1,9 @@
+# Kẻ Địch Thường
+
+## Tổng Quan
+
+type: Loại Kẻ Địch
+
+Người chơi thường sẽ tìm thấy Kẻ Địch Thường trong quá trình khám phá đại thế giới, hoặc trong Bí Cảnh và La Hoàn Thâm Cảnh. Loại kẻ địch này sẽ rơi ra Nguyên Liệu Bồi Dưỡng Nhân Vật Và Vũ Khí. Khi bị tiêu diệt, chúng luôn rơi ra một lượng nhỏ Mora và Kinh Nghiệm.
+
+- Hồi Sinh: Nếu Kẻ Địch Thường là một phần của nhóm phụ thuộc Kẻ Địch Tinh Anh, chúng sẽ hồi sinh cùng lúc với Kẻ Địch Tinh Anh - vào giờ Thiết Lập Lại Server ở máy chủ/khu vực của bạn.

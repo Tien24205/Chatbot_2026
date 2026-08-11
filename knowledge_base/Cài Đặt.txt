@@ -1,0 +1,10 @@
+# Cài Đặt
+
+## Tổng Quan
+
+type: Hệ Thống Trò Chơi
+group: Giao Diện
+
+Cài Đặt là nơi người chơi có thể cấu hình cài đặt trò chơi, có thể vào từ Giao Diện Paimon. Có thể truy cập "phiên bản giới hạn" tại Giao Diện Đăng Nhập sau khi hoàn thành thiết lập tài nguyên trò chơi. Cài đặt được toàn cầu hóa trên một thiết bị, nghĩa là nếu người khác đăng nhập bằng cùng một thiết bị, họ sẽ có cùng cài đặt với những gì người chơi khác đã thiết lập, vì cài đặt dành riêng cho từng thiết bị.
+
+- Ngôn Ngữ: Chọn "Quản lý gói lồng tiếng" để xoá các tập tin âm thanh lồng tiếng của ngôn ngữ cụ thể.

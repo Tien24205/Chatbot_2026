@@ -1,0 +1,48 @@
+# Kiếm Sáo
+
+## Thông Tin Cơ Bản
+
+id: 11402
+type: Kiếm Đơn
+releaseDate: 2020-09-28
+quality: 4
+base_atk: 42
+2nd_stat_type: Tấn Công
+2nd_stat: 9%
+obtain: Cầu Nguyện
+series: Đoàn Hát Lang Thang
+passive: Hợp Huyền
+effect: Khi tấn công thường hoặc trọng kích đánh trúng địch, sẽ nhận 1 hợp âm. Sau khi tích lũy đủ 5 hợp âm, phát ra sức mạnh của âm luật, tạo thành (var1) sát thương công kích cho kẻ địch xung quanh. Hợp âm có thể tồn lại lâu nhất 30s, mỗi 0.5s nhiều nhất có thể nhận 1 hợp âm.
+eff_rank1_var1: 100
+eff_rank2_var1: 125
+eff_rank3_var1: 150
+eff_rank4_var1: 175
+eff_rank5_var1: 200
+eff_att1: Sát Thương Vật Lý
+eff_att2: Hiệu Quả Kích Hoạt Khi Tấn Công Thường Đánh Trúng
+
+## Câu Chuyện
+
+Một thanh kiếm nhẹ, thân kiếm có những vân nhỏ và được khắc những đường nét tinh tế.
+
+Kĩ năng thượng thừa trong lúc múa kiếm có thể phát ra tiếng sáo, tùy theo góc độ của nhát kiếm trong không trung mà có những âm sắc khác nhau.
+
+Sau khi đoàn nhạc giải tán, thanh kiếm bị vùi trong đất. Trải qua nhiều năm tháng, cho đến nay không thể phát ra âm thanh nữa.
+
+Thế nhưng đó vẫn là một vũ khí chí mạng.
+
+Trong gánh hát rong có một người múa kiếm rất mạnh mẽ.
+
+Khi đoàn nhạc chinh phạt giới quý tộc thất bại, cô bị đày làm nô lệ giác đấu.
+
+Cho dù mất hết hy vọng, mất hết đồng đội, trong lúc quyết đấu,
+
+Kiếm của cô vẫn cất lên giọng hát sáng ngời được gọi là "Kiếm Sĩ Như Ánh Ban Mai".
+
+Kỵ sĩ Bình Minh Ragnvindr từng là kỵ sĩ tháp tùng,
+
+Khi xem trận giác đấu, đã bị xúc động bởi điệu múa kiếm cuối cùng của cô ấy.
+
+Từ đó anh đã quyết định tên kỵ sĩ của bản thân cũng như những việc nên làm...
+
+- Cầu Nguyện Thường Du Hành Thế Gian (vĩnh viễn) - Tất cả Sự Kiện Cầu Nguyện Nhân Vật và Sự Kiện Cầu Nguyện Vũ Khí

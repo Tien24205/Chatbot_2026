@@ -1,0 +1,26 @@
+# Wriothesley
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+quality: 5
+weapon: Pháp Khí
+element: Băng
+arkhe: Ousia
+name: Wriothesley
+birthday: 23 tháng 11
+constellation: Thủ Ngục Khuyển
+region: Fontaine
+affiliation: Pháo Đài Meropide
+dish: Sườn Que Nướng Bí Truyền
+namecard: Khóa Chặt
+obtain: Cầu Nguyện Nhân Vật
+event_name: Sóng Gió Vận Mệnh
+releaseDate: 2023-10-17 18:00:00 GMT+8
+title: Sứ Giả Tội Danh Ẩn Mật
+title2: Chủ Nhân Pháo Đài Meropide
+voiceEN: [[imdb:nm5650061
+Joe Zieja]]<ref name: "The Final Feast desc">YouTube: Video Khúc Mở Đầu - Bữa Tiệc Hạ Màn (Mô tả video)
+voiceCN: w|zh:刘北辰 (配音员)|Liu Beichen (zh|刘北辰)
+voiceJP: w|Daisuke Ono|Ono Daisuke (ja|小野大輔)
+voiceKR: Kwon Chang-wook (ko|권창욱)

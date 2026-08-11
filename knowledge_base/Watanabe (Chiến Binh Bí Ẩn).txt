@@ -1,0 +1,17 @@
+# Watanabe (Chiến Binh Bí Ẩn)
+
+## Thông Tin Cơ Bản
+
+name: Watanabe
+type: NPC Nhiệm Vụ
+chineseName: Lang|mini=1|zh=渡部|zh_rm=Dùbù
+japaneseName: Lang|mini=1|ja=Rubi|渡|わた|部|べ|ja_rm=Watabe
+koreanName: Lang|mini=1|ko=와타베|ko_rm=Watabe
+sex: Nam
+region: Inazuma
+affiliation: Hiệp Hội Tenryou
+title: Yoriki
+
+- Tổng Quan: là NPC sự kiện đặc biệt xuất hiện trong Chiến Binh Bí Ẩn. Anh là chiến binh thuộc Hiệp Hội Tenryou.
+
+- Chiến Binh Bí Ẩn - Phần I: Bí Ẩn Khó Giải Đáp - Phần II: Quyết Chí Tự Phân Chia

@@ -1,0 +1,35 @@
+# Oroluk
+
+## Thông Tin Cơ Bản
+
+type: NPC Đại Thế Giới
+region: Natlan
+location: Natlan
+affiliation: Hội Câu Cá
+affiliation2: Cư Dân Suối Nước
+title: Thợ Câu Natlan
+
+- Tổng Quan: Oroluk là một NPC đại thế giới, vị trí tại. Cô là thành viên của Hội Câu Cá.
+
+- Thoại Nhàn Rỗi: Cá đáng yêu ghê...
+
+## Hội Thoại
+
+Oroluk: Xin chào, cũng đến để tương tác với những chú cá dễ thương à? có cần tôi và Hội Câu Cá giúp không?
+Tôi cần đồ câu...
+:Oroluk: E hèm, hàng ở đây của tôi không nhiều, nhưng chất lượng khá ổn, mời lựa chọn.
+;(Mở giao diện Cửa Hàng)
+Dễ thương?
+:Oroluk: Đúng vậy. Chúng thong thả bơi lội trong sông, hồ, biển, quẫy quẫy cái đuôi...
+:Oroluk: Ừm, tôi thấy chúng rất dễ thương, còn nếu không cảm thấy vậy thì cũng không sao!
+:Oroluk: Tôi gia nhập Hội Câu Cá vì muốn nhìn thấy, câu và nuôi nhiều loài cá dễ thương hơn.
+:Oroluk: Tuy nhiên, cũng có người chỉ câu cá vì thịt cá ngon hoặc để bán cá kiếm tiền.
+:Oroluk: Tôi hiểu họ và không xen vào việc của họ. Phần lớn bạn bè trong Hội Câu Cá cũng rất tôn trọng tôi.
+:Oroluk: Dĩ nhiên, tôi cũng hy vọng có nhiều người nhận ra sự đáng yêu của cá hơn.
+Cô là?
+:Oroluk: Xin chào, tôi là Oroluk, nhân viên của Hội Câu Cá Natlan.
+:Oroluk: Nếu muốn mua dụng cụ câu cá đặc biệt của Natlan hay mồi câu gì đó, thì cứ ủy thác cho tôi là được!
+:Oroluk: Nếu thấy nơi này hơi xa thì có thể để lại tin nhắn ở "Lưới Đánh Cá Atlahua". Tôi là bạn của chủ cửa hàng, và cũng thường xuyên đến đó mua đồ!
+:Oroluk: Tuy nhiên, nói về kỹ thuật câu cá thì tôi chỉ ở mức bình thường thôi. Tôi đang luyện tập không ngừng, cố gắng cải thiện!
+Tạm biệt!
+:Oroluk: Tôi có cảm giác là một cao thủ câu cá đấy... Vậy thì hẹn gặp lại lần sau nhé!

@@ -1,0 +1,25 @@
+# Durov
+
+## Thông Tin Cơ Bản
+
+type: NPC Đại Thế Giới
+location: Nod-Krai
+
+- Tổng Quan: Durov là một NPC đại thế giới ở. Anh ấy có thể được tìm thấy khi đang trò chuyện với Perasa.
+
+- Tiểu Sử: (Sẽ được thêm sau...)
+
+- Lời Thoại Nhàn Rỗi: Chỉ là tạm thời... : ""
+
+## Hội Thoại
+
+Perasa: Đây gọi là nghỉ mát à? Rõ ràng là lưu đày thì có!
+Durov: Chỉ là chỗ nghỉ chân tạm thời thôi mà, những địa điểm sau sẽ đẹp hơn!
+Perasa: Anh lừa em! Trước lúc đi anh nói: "Petrichor là đảo, Nod-Krai cũng có đảo, đảo nào chẳng giống nhau!" Vậy mà em lại tin...
+Durov: Không có mà, sao anh lại lừa em chứ! Là... là sách "Hướng Dẫn Du Lịch Teyvat" viết như vậy mà...
+Perasa: Anh còn nói không lừa à! Quyển sách đó đâu có nhắc đến Nod-Krai chứ! Chắc cuốn anh đọc là "Hướng Dẫn Du Lịch Teyvat - Bản 500 Mora" đúng không!
+Perasa: Hic... Mielikki và Vesnia nghỉ mát thì đi Natlan ngâm suối nước nóng! Còn được cho mấy con Koholasaur siêu ngầu đó ăn nữa! Còn ở đây... chẳng có gì cả! Anh không thương em!
+Durov: Không phải vậy đâu! Có thể nơi này không đẹp, cũng không có suối nước nóng hay mấy bé Saurian... Nhưng chỉ cần chúng ta ở bên nhau thì đi đâu cũng là du lịch mà, không phải sao?
+Perasa: Nếu vậy thì sao không đến Thị Trấn Petrichor luôn chứ!
+Durov: Em muốn đến Petrichor à? Vậy thì... đến Ngân Hàng Bắc Quốc một chuyến trước đã...
+Perasa: Đi Natlan ngắm núi lửa cũng được! Tóm lại, em không muốn ở lại nơi này nữa!

@@ -1,0 +1,53 @@
+# Cây Thế Giới
+
+## Tổng Quan
+
+type: Cốt Truyện
+region: Teyvat
+
+Cây Thế Giới (hay Irminsul) là loại cây màu trắng bạc mọc sâu dưới lòng đất, nối liền các Địa Mạch của thế giới. Người ta nói rằng ý thức của Thảo Thần được kết nối trực tiếp với nó, và bản thân nó chính là cội nguồn của nguyên tố Thảo.
+
+## Tổng Quan
+
+Cây Thế Giới là kho lưu trữ tất cả thông tin và ký ức của lục địa Teyvat được thu thập thông qua Địa Mạch. Không rõ chính xác việc lưu trữ hoạt động theo phương thức nào do tuy rằng nhiều người ở Teyvat biết về Nhà Lữ Hành nhưng cho đến cuối Chương 3 thì Cây Thế Giới lại hề có thông tin nào về họ. Tuy nhiên, Nhà Lữ Hành dường như hiểu chính xác cách thức hoạt động của việc lưu trữ thông tin này.
+
+Ở Teyvat, Cây Thế Giới kết nối với Cổ Thụ Hoá Thạch (Bí Cảnh), Địa Mạch Sinh Thành và Hoa Địa Mạch, chúng sẽ thức tỉnh khi được tưới Nhựa Nguyên Chất hoặc Nhựa Cô Đặc. Rễ của Cây Thế Giới cũng xuyên qua mặt đất tại một số khu vực nhất định ở Teyvat.
+
+Tighnari có nói rằng Cây Thế Giới sinh trưởng ngược, tức phát triển hướng xuống chứ không phải hướng lên từ một hang động khổng lồ nằm sâu dưới lòng đất, còn các đường Địa Mạch - được mô tả là bộ rễ của Cây Thế Giới - lan rộng rồi đâm xuyên lên mặt đất. Từ mô tả trên, có thể bất kỳ phần nào của Cây Thế Giới nổi lên bề mặt lục địa đều là phần ngọn của rễ cây. Có thể bản thân Cây Thế Giới nằm trong hoặc gần Vực Sâu do các nhánh của Cây Thế Giới có thể được tìm thấy ở đó, và nhánh cây thì thường được tìm thấy sau khi rơi/gãy từ trên cây xuống.
+
+## Thay Đổi
+
+Địa Mạch không ngừng hấp thụ ký ức của thế giới, từ đó thông tin được chuyển về Cây Thế Giới. Những người đến từ bên ngoài thế giới Teyvat sẽ không có thông tin được ghi lại trong Cây Thế Giới. Các cá nhân có khả năng kết nối tới Cây Thế Giới có thể trực tiếp xem được thông tin chứa trong nó.
+
+Thông tin có thể được xóa khỏi Cây Thế Giới. Làm như vậy đồng nghĩa với xóa sổ mọi dấu vết của thông tin đó trong Teyvat. Việc xóa thông tin đòi hỏi sức mạnh ở cấp độ Thần. Các sinh vật - bao gồm cả các vị thần - cũng có thể bị xóa bỏ nhưng không thể hoàn toàn tự loại bỏ bản thân khỏi Cây Thế Giới.
+
+Để phù hợp hóa lỗ hổng do thông tin bị xóa, bất cứ thứ gì thuộc về thế giới Teyvat đều có thể bị thay đổi, từ ký ức của con người đến các vật thể như sách và thư. Tuy nhiên, kết quả và tác động trong lịch sử vẫn không thay đổi. Ấn tượng về lịch sử Teyvat của sinh mệnh thuộc Teyvat bao gồm cả Quan Chấp Chính Trần Thế đều có thể bị thay đổi; họ cũng sẽ không nhận ra có gì đó đã bị thay đổi. Đáng chú ý là Paimon cũng bị ảnh hưởng.
+
+Có cách để đảm bảo rằng thông tin bị mất vẫn có thể được lưu giữ hoặc tìm lại, ví dụ như khiến thông tin đó trở nên mơ hồ, sao cho chúng vẫn khớp với thông tin hiện có trong Cây Thế Giới. Việc bảo quản và lấy lại thành công thông tin đã bị xóa từ Cây Thế Giới có lẽ khó có thể thực hiện được nếu không có sự trợ giúp của người chưa bao giờ đánh mất thông tin đó, chẳng hạn như Nhà Lữ Hành. Do đó, nhiều thông tin có thể đã bị xóa khỏi Cây Thế Giới mà không một ai để ý tới (ngoại trừ những Kẻ Đổ Bộ khác) trước khi Nhà Lữ Hành đến Teyvat.
+
+Nếu thông tin bị loại bỏ là về một sinh vật thì hệ quả những hành động và sự tồn tại của họ vẫn sẽ được lưu lại trên thế giới. Ví dụ, rừng mưa ở Sumeru do Đại Vương Rukkhadevata tạo ra vẫn tồn tại sau khi người bị xóa khỏi Cây Thế Giới, và lịch sử về truyền thống cư dân trong rừng sâu dâng Nấm Thánh Rukkhashava cho Giáo Viện vẫn được bảo tồn mặc dù mô tả mới của loại nấm này trong Thư Viện mô tả rằng lí do đằng sau việc Giáo Viện nhận Nấm Thánh Rukkhashava đã không còn tồn tại. Ngoài ra, ngay sau khi Nahida xóa Đại Vương Rukkhadevata, cô vẫn cảm thấy buồn dù cô chỉ nhớ rằng mình vừa thành công loại bỏ sự ô nhiễm khỏi Cây Thế Giới. Sau này Nahida cũng xác định được rằng cô đã từng được sức mạnh của "hơi ấm đó - ý chỉ Đại Vương Rukkhadevata hoặc phần ký ức của người - bảo vệ. Bên cạnh đó, sau khi Scaramouche cố gắng xóa bản thân khỏi Cây Thế Giới, Nhà Lữ Hành đã đích thân xác minh rằng hệ quả của mọi hành động của anh ta vẫn còn đó, nhưng lý do nó xảy ra và người tham gia đã thay đổi.
+
+Việc loại bỏ thông tin dường như chỉ có thể xảy ra một lần. Thông tin đã xóa được những người thuộc về Teyvat lưu giữ hoặc lấy lại sẽ không biến mất nữa.
+
+Không giống như mô tả của Vật Phẩm, mô tả của Vũ Khí và Thánh Di Vật dường như không bị ảnh hưởng bởi những thay đổi của Cây Thế Giới. Có lẽ chúng chỉ tồn tại dành cho người chơi.
+
+## Các Phần Nổi Bật Của Cây Thế Giới
+
+Sau đây là danh sách các phần bộ rễ của Cây Thế Giới mà người chơi có thể tìm thấy trong phiên bản hiện tại của Teyvat, được Paimon gọi là "cây khô" do vẻ bề ngoài của chúng (chúng cũng có tên gọi khác là "Cổ Thụ Hóa Thạch" và "Cây Irminsul").
+
+Phần gỗ của chúng có màu trắng bạc và những đường vân màu xanh lam chạy dọc thân. Khu vực nơi phần rễ này xuất hiện dường như cũng phải chịu hiện tượng địa mạch bất thường nghiêm trọng, khiến cho môi trường xảy ra nhiều biến đổi. Khá thú vị là vị trí của các cây khô này cũng là vị trí các Đinh Thiên Không từng hạ xuống.
+
+## Cây Khô
+
+- "Cây Chịu Lạnh" ở phía Đông Sal Vindagnyr (Long Tích Tuyết Sơn)
+- Vì lí do không rõ nào đó, trong quá khứ Đảo Thiên Không đã ném Đinh Thiên Hàn xuống để phá hủy cái cây này, sự kiện trên đã biến khí hậu Long Tích Tuyết Sơn trở thành như ngày nay. Trong tai họa 500 năm trước, Durin bị giết ở vùng này, máu của nó đã hồi sinh cái cây, cũng vì vậy mà đường vân trên thân cây trở thành màu đỏ thay vì màu lam.
+- Cây khô nằm trên một đảo nhỏ phía Đông Cây Chịu Lạnh ở Sal Vindagnyr (Long Tích Tuyết Sơn)
+- Cây khô ở khu vực màu xanh lá tại góc trên bên phải của bản đồ Vực Đá Sâu - Khu Mỏ Ngầm
+- Cây khô bên cạnh "Người Lái Thuyền" gần Đỉnh Shirikoro, Đảo Tsurumi
+- Rễ cây khô ở phía sau đảo trung tâm của Ốc Đảo Pairidaeza, Núi Damavand
+
+## Những Cây Tương Tự
+
+- Cây Phục Long, cây khổng lồ phía bên trên Azhdaha tại Nam Thiên Môn, trông giống cây khô do có các đường vân màu lam nhưng cành của nó không có màu trắng bạc đặc trưng của cây khô, do đó không có liên quan đến Cây Thế Giới hay các cây khô khác.
+- Anh Đào Thần trên Đền Narukami cũng có đường vân màu lam, nhưng phần thân lại có màu nâu giống Cây Phục Long. Người chơi cũng đã được chứng kiến Anh Đào Thần sinh trưởng từ hạt giống được gieo trong, vì vậy nó không thể liên quan đến Cây Thế Giới.
+- Liễu Rũ Trong Hồ ở Khu Rừng Erinnyes displays the same blue streaks once purified, but also lacks the silver-white bark of Irminsul trees.

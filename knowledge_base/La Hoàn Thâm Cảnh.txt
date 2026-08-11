@@ -1,0 +1,85 @@
+# La Hoàn Thâm Cảnh
+
+## Tổng Quan
+
+type: Đặc Biệt
+region: Mondstadt
+area: Đồi Phong Tiêu
+subarea: Rặng Musk
+requiredAR: 20
+
+La Hoàn Thâm Cảnh là một loại Bí Cảnh đặc biệt mở khóa ở Hạng Mạo Hiểm 20 có vị trí tại Rặng Musk, người chơi có thể đến vị trí bí cảnh này thông qua đường hầm thời gian ở trên trời tại Đỉnh Lời Thề.
+
+La Hoàn Thâm Cảnh bao gồm hai phần chính: Hành Lang Thâm Cảnh (tầng 1–8) và Ánh Trăng Vực Sâu (tầng 9–12). Thưởng của Hành Lang Thâm Cảnh chỉ có thể nhận một lần, và sau khi hoàn thành toàn bộ tầng của Hành Lang sẽ mở khóa Ánh Trăng Vực Sâu. Thưởng của Ánh Trăng Vực Sâu được làm mới vào ngày 16 hằng tháng, vào lúc Thời Khắc Sao Đổi Ngôi.
+
+Người chơi có thể xem tiến trình hiện tại trên bản đồ, bên cạnh bộ đếm Nhựa Nguyên Chất. Nếu người chơi chưa từng Khiêu Chiến, sẽ hiện dòng "Trong vòng này chưa tiến hành khiêu chiến".
+
+## Uyên Tinh, Tầng Và Phòng
+
+La Hoàn Thâm Cảnh được chia làm 12 tầng, mỗi tầng có 3 phòng. Trong Hành Lang Thâm Cảnh, toàn bộ kẻ địch trong tầng đều có cùng một cấp độ. Trong Ánh Trăng Vực Sâu, cấp kẻ địch sẽ tăng dần theo từng phòng.
+
+Từ tầng 1 đến 4, mỗi phòng phải được hoàn thành trong 5 phút (300 giây). Từ tầng 5 trở đi, mỗi phòng phải được hoàn thành trong 10 phút (600 giây) - với các tầng cần bảo vệ Địa Mạch Trấn Thạch, nó phải được giữ an toàn, nếu không thì khiêu chiến sẽ thất bại. Ở các tầng yêu cầu hai đội, nửa dưới của phòng sẽ tiếp tục tính giờ bắt đầu từ thời điểm người chơi hoàn thành nửa trên.
+
+Tất cả các phòng đều có thử thách cần hoàn thành để có thể nhận thêm phần thưởng ngoài thưởng hoàn thành lần đầu ra. Hiện tại chỉ có hai loại khiêu chiến - một là hoàn thành trong thời gian chỉ định, hai là giữ Địa Mạch Trấn Thạch ở một số lượng HP nhất định. Để tiến vào tầng tiếp theo, người chơi cần nhận được ít nhất 6 Uyên Tinh và đã hoàn thành tất cả các phòng trong tầng trước.
+
+Tổng số sao kiếm được có hiệu lực trở về trước. Nói cách khác, không nhất thiết phải khiêu chiến lại toàn bộ tầng để có thêm Uyên Tinh. Nếu người chơi đã nhận được 6 Uyên Tinh từ phòng 2 và 3, nhưng không có Uyên Tinh nào từ phòng 1 trong lần thử đầu tiên, người chơi có thể khiêu chiến phòng đầu tiên bao nhiêu tùy thích, bất kỳ Uyên Tinh nào đạt được trong những lần thử này đều được lưu lại sau khi rời khỏi và khiêu chiến lại tầng.
+
+## Hành Lang Thâm Cảnh Và Ánh Trăng Vực Sâu
+
+La Hoàn Thâm Cảnh được chia làm hai phần chính: "Hành Lang Thâm Cảnh" và "Ánh Trăng Vực Sâu." Hoàn thành khiêu chiến toàn bộ 8 tầng Hành Lang Thâm Cảnh có thể mở khóa Ánh Trăng Vực Sâu vĩnh viễn.
+
+Ánh Trăng Vực Sâu sẽ tự động làm mới hai lần mỗi tháng vào ngày đầu tiên và ngày thứ 16 của tháng; nghe nói quy luật này có liên quan đến sự thay đổi của mặt trăng trên một vũ trụ nào đó. Báu vật trong Hành Lang Thâm Cảnh - nơi liên kết Ánh Trăng Vực Sâu với thế giới sẽ không thay đổi và làm mới theo thời gian.
+
+## Giới Hạn Và Địa Mạch Bất Thường
+
+Khiêu chiến La Hoàn Thâm Cảnh đồng nghĩa với việc chấp nhận sự ràng buộc. Trong 3 phòng liên tiếp của mỗi tầng sẽ không thể:
+- Tiêu hao Thực Phẩm hoặc bất kỳ Vật Phẩm Tiêu Hao nào khác
+- Thiết lập đội
+- Thay đổi Thánh Di Vật hay Vũ Khí
+- Thăng cấp hoặc đột phá Nhân Vật
+
+Ngoài ra, mỗi tầng trong La Hoàn Thâm Cảnh sẽ có các "Địa Mạch Bất Thường" khác nhau, Địa Mạch Bất Thường sẽ gây ảnh hưởng tốt hoặc xấu cho các nhân vật và kẻ địch ở trong đó. Nếu muốn vượt ải dễ dàng, khi bố trí đội ngũ và chiến đấu nên suy nghĩ đến hiệu quả của Địa Mạch Bất Thường.
+
+## Đường Rẽ
+
+Bắt đầu từ tầng 5, La Hoàn Thâm Cảnh sẽ chia làm hai phần. Để tiến vào sâu hơn, người chơi phải thiết lập hai đội, mỗi đội tối đa 4 nhân vật để khiêu chiến hai nửa của mỗi phòng. Người chơi không thể sử dụng cùng một nhân vật cho cả hai đội.
+
+## HP Kẻ Địch
+
+HP kẻ địch ở mỗi tầng La Hoàn sẽ tăng thêm so với kẻ địch ở đại thế giới, cụ thể như sau:
+- Tăng 50%: Tầng 3 ~ 7
+- Tăng 100%: Tầng 8 ~ 11
+- Tăng 150%: Tầng 12*
+- Lưu ý: Một số kỳ La Hoàn Thâm Cảnh có thể sẽ có lượng phần trăm HP được cộng thêm của kẻ địch nhất định, phòng cụ thể hoặc cả một tầng. Hãy xem trang chi tiết của kỳ La Hoàn đó để biết thêm chi tiết.
+
+## Giáng Phúc Thần Bí
+
+Người khiêu chiến sẽ nhận được sự công nhận và niềm hy vọng đến từ La Hoàn Thâm Cảnh. Sự công nhận và niềm hy vọng này cung cấp sức mạnh chiến đấu mạnh mẽ.
+
+Trước khi bắt đầu khiêu chiến mỗi phòng, người chơi được chọn một loại Giáng Phúc Thần Bí. Giáng phúc có các hiệu quả và thời gian duy trì khác nhau:
+- Hiệu quả ở tầng này: Sẽ duy trì cho đến khi vào tầng tiếp theo
+- Hiệu quả ở phòng này: Sẽ duy trì cho đến khi vào phòng tiếp theo
+- Hiệu quả tức thời: Sẽ lập tức có hiệu quả
+Dựa vào tình hình đội ngũ hiện tại, lựa chọn giáng phúc phù hợp sẽ hỗ trợ tốt cho việc khiêu chiến.
+
+Giáng Phúc Thần Bí của mỗi tầng sẽ thay đổi mỗi ngày vào lúc Thiết Lập Lại.
+
+- Uyên Nguyệt Chúc Phúc: Chúc phúc trong La Hoàn Thâm Cảnh thay đổi mỗi tháng hai lần và cung cấp một số bổ trợ hữu ích.
+
+## Phần Thưởng
+
+Vượt qua La Hoàn Thâm Cảnh sẽ thưởng cho người chơi những phần thưởng hậu hĩnh. Vượt qua một phòng lần đầu tiên cho phép người chơi nhận thưởng từ "Căn Phòng Báu Vật". Đạt đủ Uyên Tinh trong một tầng để nhận thưởng từ "Ngôi Sao Bí Bảo". Người chơi cũng có thể xem trước thưởng bằng cách ấn vào Xem Trước Thưởng ở góc trên bên trái giao diện La Hoàn Thâm Cảnh.
+
+Vào ngày 16 mỗi tháng, thưởng của Ánh Trăng Vực Sâu sẽ được làm mới. Thưởng của Hành Lang Thâm Cảnh không được làm mới.
+
+Nếu túi của người chơi không đủ chỗ chứa thưởng, hệ thống sẽ gửi thưởng qua hòm thư của người chơi với tiêu đề "La Hoàn Thâm Cảnh - Bưu Kiện Bị Mất", mỗi phòng tương ứng với một thư. Tính năng này không áp dụng cho thưởng mà người chơi không nhận trước khi La Hoàn Thâm Cảnh qua kỳ mới.
+
+- Ngôi Sao Bí Bảo: Ngôi Sao Bí Bảo trong Hành Lang Thâm Cảnh (1-8) chỉ có thể nhận một lần, thưởng trong Ánh Trăng Vực Sâu làm mới mỗi tháng một lần.
+
+## Sự Kiện Vĩnh Viễn
+
+Dưới đây là các sự kiện cho thưởng nhân vật khi người chơi vượt qua phòng nhất định. Những thưởng này chỉ có thể nhận một lần duy nhất.
+
+Nếu người chơi đã sở hữu nhân vật thì sẽ nhận được một Chòm Sao của nhân vật đó và Tinh Trần Vô Chủ.
+
+- Tổng Thưởng: Tất cả phần thưởng trên cộng lại sẽ có: Thưởng Một Lần Từ Hành Lang Thâm Cảnh, tầng 1 đến 8. Thời Khắc Sao Đổi Ngôi Từ Ánh Trăng Vực Sâu, tầng 9 đến 12. Làm mới mỗi tháng một lần.

@@ -1,0 +1,30 @@
+# Dahlia
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+quality: 4
+weapon: Kiếm Đơn
+element: Thủy
+name: Dahlia
+birthday: 25 tháng 05
+constellation: Lễ Tán Ca
+region: Mondstadt
+affiliation: Giáo Hội Tây Phong
+dish: "Tán Gẫu Vui Vẻ"
+namecard: Thiên Chức
+obtain: Cầu Nguyện
+releaseDate: 2025-06-18 11:00:00 GMT+8
+title: Hoan Ca Tế Lễ
+title2: Người Truyền Đạo Của Barbatos
+voiceEN: [[imdb:nm2300801
+Aileen Mythen]]<ref name: "Dahlia EN + JP VA">Twitter: Công Bố Diễn Viên Lồng Tiếng Tiếng Anh Và Nhật
+voiceCN: Feng Xiu (zh|风袖)
+voiceJP: w|Kazutomi Yamamoto|Yamamoto Kazutomi (ja|山本和臣)
+voiceKR: Seok Seung-hoon (ko|석승훈)
+
+## Tổng Quan
+
+Dahlia là một nhân vật hệ chơi được trong Genshin Impact.
+
+Dahlia là một trợ tế thuộc Đội Kỵ Sĩ Tây Phong. Cậu là người truyền đạo của Phong Thần Barbatos, giúp Barbatos để ý những vụ án nghiêm trọng ảnh hưởng cuộc sống dân chúng và truyền đạt ý muốn của ngài tới người dân Mondstadt.

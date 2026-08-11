@@ -1,0 +1,25 @@
+# Sông Cạn
+
+## Thông Tin Cơ Bản
+
+id: 15418
+type: Cung
+quality: 4
+releaseDate: 2022-08-24
+series: Câu Cá
+obtain: Hội Câu Cá Sumeru
+base_atk: 42
+2nd_stat_type: Hiệu Quả Nạp Nguyên Tố
+2nd_stat: 10,0%
+passive: Phá Lưới
+effect: Thi triển Kỹ Năng Nguyên Tố sẽ kích hoạt hiệu ứng "Xuôi Dòng", khi đánh trúng kẻ địch sẽ gây sát thương diện rộng bằng (var1)% tấn công, hiệu quả này sẽ bị xóa sau 15s hoặc kích hoạt 3 lần sát thương diện rộng. Mỗi 2s tối đa gây một lần sát thương diện rộng bằng cách này, mỗi 12s tối đa kích hoạt một lần "Xuôi Dòng".
+eff_rank1_var1: 80
+eff_rank2_var1: 100
+eff_rank3_var1: 120
+eff_rank4_var1: 140
+eff_rank5_var1: 160
+eff_att1: Kỹ Năng Nguyên Tố
+eff_att2: Sát Thương Phạm Vi
+scale_att1: Tấn Công
+
+- Tổng Quan: Sông Cạn là một vũ khí Cung 4 sao.

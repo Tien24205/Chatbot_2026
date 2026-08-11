@@ -1,0 +1,53 @@
+# Quả Mọng
+
+## Thông Tin Cơ Bản
+
+id: 14417
+type: Pháp Khí
+quality: 4
+series: Aranara
+obtain: Rèn
+diagram: Aravinay
+base_atk: 42
+2nd_stat_type: Hiệu Quả Nạp Nguyên Tố
+2nd_stat: 10,0%
+passive: Hình Dạng Tròn Trĩnh
+effect: Sau khi kích hoạt [[Phản Ứng Nguyên Tố
+eff_rank1_var1: 24
+eff_rank2_var1: 27
+eff_rank3_var1: 30
+eff_rank4_var1: 33
+eff_rank5_var1: 36
+eff_att1: Tinh Thông Nguyên Tố
+eff_att2: Giảm Tấn Công
+eff_att3: Phụ Thuộc Phản Ứng Nguyên Tố
+
+- Tổng Quan: Quả Mọng là một Pháp Khí 4 Sao có thể rèn được.
+
+## Câu Chuyện
+
+“Thật ra, không phải lúc nào mặt trăng cũng tròn như ngọc trai…”
+
+Đó là một câu chuyện cực kỳ đáng sợ từ thuở xa xưa. May mà đó chỉ là một câu chuyện, không phải là ký ức của tôi, cũng không phải của bạn.
+Mặt trăng đã từng biến thành hình răng nanh, nhe răng cười dữ tợn, ánh trăng cũng không còn chiếu qua kẽ lá vương trên ngọn cỏ, biến những giọt sương thành trân châu nữa.
+
+Cây cối đổ rạp như sóng lúa bị gió thổi ngã. Khắp mặt đất ngập tràn bi thương.
+
+Nỗi buồn đó lớn lao như thế, nặng nề như thế, đến cả dòng suối cũng biến thành mùi như muối và sắt.
+
+Nữ Hoàng Aranyani – người đã tạo ra chúng tôi, đã giao lại rừng sâu cho chúng tôi, vì vậy chúng tôi đã chiến đấu với dã thú đen kịt, những người khổng lồ bằng thép và cả Marana.
+
+Cô ấy đã cùng với rất nhiều đứa trẻ rừng sâu đi vào sa mạc, thiêu hủy căn nguyên tai họa, bẻ gãy cành nhánh của tai ương, nhưng sau cùng thì số người có thể trở về dưới tàng cây lại rất ít.
+
+Chúng tôi đã mất Vanarana, rất nhiều Aranara đã trở về với mặt đất rất sớm. Đến cả câu chuyện cuối cùng có được cũng là một câu chuyện đầy cay đắng.
+
+Nhưng cuối cùng chúng tôi cũng chiến thắng được tai ương, dù là giữa biển cát sâu thẳm vẫn có hoa sen nở rộ.
+
+Cô ấy – người đã tạo ra chúng tôi, lại tạo ra những sinh linh mới trong sa mạc, lấp đầy khoảng trống ở giữa mặt đất.
+
+…
+Dù câu chuyện có buồn bã đến đâu đi nữa thì cũng sẽ có dũng khí và sức mạnh. Dù câu chuyện không hùng mạnh như “ký ức” thì nó cũng có sức mạnh riêng.
+
+Tôi sẽ trân trọng câu chuyện mà bạn giao cho tôi, cùng với câu chuyện chúng ta cùng nhau mạo hiểm. Khi mặt trăng lại lần nữa trở nên kỳ dị, chúng sẽ thay bạn bảo vệ khu rừng.
+
+- Rèn - Có thể nhận được bản vẽ rèn - Câu Chuyện Về Điềm Báo từ Aravinay. Đổi một Câu Chuyện Về Bạn Và Aranara với một trong những bản thiết kế có sẵn trong cửa hàng.

@@ -1,0 +1,34 @@
+# Chim Hơi Nước
+
+## Thành Viên
+
+type: Địa Điểm Đáng Chú Ý
+region: Fontaine
+area: Khu Đại Sảnh Fontaine
+subarea: Đại Sảnh Fontaine
+poi: Đại Sảnh Fontaine - Quận Narbonnais
+
+- Ngài Arthur — Tờ báo Chim Hơi Nước
+- Euphrasie — Tổng biên tập
+- Antila — Nhiếp ảnh gia
+- Charlotte — Phóng viên
+- Chronie — Phóng viên (khai thác chuyện chính trị)
+- Delerue — Nhà phê bình
+- Ethan — Nhà phê bình (về bất động sản)
+- Gaston — Phóng viên tập sự
+- Herbier — Phóng viên
+- Houallet — Phóng viên
+- Paban — Trẻ bán báo
+- Staelle — Tác giả chuyên mục tiểu thuyết lãng mạn
+
+## Chuyện Về Những Chòm Sao
+
+Tác giả chuyên mục: Mona
+
+Tác giả trước đó của chuyên mục này đã gợi ý Mona làm biên tập viên chuyên mục. Phong cách viết của Mona mang hơi hướm học thuật và phức tạp hơn người tiền nhiệm, nhưng vẫn khiến người đọc hứng thú dù họ không hiểu gì. Cô viết về chủ đề "mối quan hệ giữa những thay đổi trong chuyển động của chiêm tinh và những thay đổi trong vận mệnh cá nhân".
+
+## Ghi Chú Ẩm Thực Teyvat
+
+Tác giả chuyên mục: (Nhà Lữ Hành)
+
+Trang chủ chính thức Genshin Impact ở Trung Quốc đăng tải chuỗi bài viết với tựa đề, sau đó rút gọn thành "Ghi Chú Ẩm Thực Teyvat". Chuyên mục này viết về công thức làm các món ăn trong trò chơi ở ngoài đời. Bài viết được viết dưới góc nhìn của tác giả chuyên mục là "Ryuji-kun", một tên khác của Nhà Lữ Hành (cụ thể là Aether), khi Ryuji-kun đang soạn công thức cùng với nhân vật nấu ra món ăn đặc biệt từ món ăn đang nấu.

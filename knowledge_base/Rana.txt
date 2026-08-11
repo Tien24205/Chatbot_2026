@@ -1,0 +1,17 @@
+# Rana
+
+## Thông Tin Cơ Bản
+
+type: NPC Nhiệm Vụ
+region: Sumeru
+location: Sumeru
+affiliation: Kiểm Lâm
+affiliation2: Làng Vimara
+element: Thảo
+title: Đội Trưởng Kiểm Lâm
+
+- Tổng Quan: Rana là một NPC độc quyền trong chuỗi nhiệm vụ Aranyaka.
+
+- Tiểu Sử: (Sẽ được cập nhật).
+
+- Ngoại Hình: Cô ấy là một cô gái trẻ với hình mẫu NPC nữ điển hình. Cô ấy mặc đồng phục kiểm lâm. Vào cuối chuỗi nhiệm vụ Aranyaka; một Vision Thảo sẽ được đeo trên eo cô ấy.

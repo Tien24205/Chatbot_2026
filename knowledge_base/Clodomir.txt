@@ -1,0 +1,11 @@
+# Clodomir
+
+## Thông Tin Cơ Bản
+
+type: NPC Nhiệm Vụ
+region: Fontaine
+location: Fontaine
+voiceEN: [[imdb:nm11170792
+Patrick Mealey]]<ref name: "Patrick Mealey 2">Twitter: Diễn Viên Lồng Tiếng Tiếng Anh Tự Thông Báo (Lưu Trữ)
+
+- Tổng Quan: Clodomir là một NPC độc quyền nhiệm vụ xuất hiện trong.

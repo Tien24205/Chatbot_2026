@@ -1,0 +1,34 @@
+# Signora
+
+## Thông Tin Cơ Bản
+
+type: NPC Nhiệm Vụ
+deceased: Bị chém bởi Raiden Shogun trong Ngự Tiền Quyết Đấu
+realname: Rosalyne-Kruzchka Lohefalter
+element: Hỏa
+elementNote: Hỏa Ngục Ma Nữ
+element2: Băng
+elementNote2: Delusion
+title: The Fair Lady
+title2: Thứ 8 trong 11 Quan Chấp Hành của Fatui
+title3: Hỏa Ngục Ma Nữ
+title4: Diệm Liệt Ma Nữ Cháy Rực
+region: Snezhnaya
+region2: Mondstadt
+location: Mondstadt
+location2: Liyue
+location3: Inazuma
+affiliation: Fatui
+affiliation2: 11 Quan Chấp Hành Fatui
+affiliation3: Giáo Viện Sumeru
+voiceCN: Ziyin (zh|子音)
+voiceJP: w|ja:庄子裕衣|Shoji Yui (ja|庄子裕衣)
+tcg: [[La Signora (Thẻ Nhân Vật)
+
+## Tổng Quan
+
+La Signora, còn được biết đến với cái tên Rosalyne-Kruzchka Lohefalter và mật danh "The Fair Lady", cô là Quan Chấp Hành thứ 8 trong 11 Quan Chấp Hành Fatui. Signora là Quan Chấp Hành đầu tiên xuất hiện trong trò chơi và trước đây từng là Diệm Liệt Ma Nữ Cháy Rực.
+
+Tại Inazuma, Signora đã thua Nhà Lữ Hành trong trận Ngự Tiền Quyết Đấu và đã chết dưới Lưỡi Đao Vô Tưởng của Raiden Shogun.
+
+- Tiểu Sử: Là một Quan Chấp Hành Fatui, Signora sở hữu năng lực to lớn, cả trong chiến đấu lẫn quan hệ ngoại giao. Signora sở hữu Delusion Băng và có thể sử dụng sức mạnh từ lửa.

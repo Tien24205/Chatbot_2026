@@ -1,0 +1,59 @@
+# Ngôi Sao Cực Đông
+
+## Thông Tin Cơ Bản
+
+id: 15507
+type: Cung
+releaseDate: 2021-10-13
+quality: 5
+base_atk: 46
+2nd_stat_type: Tỷ Lệ Bạo Kích
+2nd_stat: 7,2%
+passive: Điềm Báo Ban Trưa
+eff_rank1_var1: 12
+eff_rank2_var1: 15
+eff_rank3_var1: 18
+eff_rank4_var1: 21
+eff_rank5_var1: 24
+eff_rank1_var2: 10/20/30/48
+eff_rank2_var2: 12,5/25/37,5/60
+eff_rank3_var2: 15/30/45/72
+eff_rank4_var2: 17,5/35/52,5/84
+eff_rank5_var2: 20/40/60/96
+eff_att1: Tăng ST Kỹ Năng Nguyên Tố
+eff_att2: Tăng ST Kỹ Năng Nộ
+eff_att3: Tấn Công
+obtain: Sự Kiện Cầu Nguyện Vũ Khí
+
+## Effect
+
+Tăng (var1)% sát thương Kỹ Năng Nguyên Tố và Kỹ Năng Nộ gây ra; Tấn công thường, trọng kích, Kỹ Năng Nguyên Tố hoặc Kỹ Năng Nộ sau khi đánh trúng kẻ địch sẽ sản sinh 1 tầng hiệu quả "Ngôi Sao Đêm Trắng" trong 12s. Khi trong trạng thái "Ngôi Sao Đêm Trắng" tầng 1/2/3/4, sức tấn công tăng (var2)%. Hiệu quả "Ngôi Sao Đêm Trắng" sinh ra từ tấn công thường, trọng kích, Kỹ Năng Nguyên Tố hoặc Kỹ Năng Nộ sẽ tồn tại độc lập với nhau.
+
+- Tổng Quan: Ngôi Sao Cực Đông là cung 5 sao.
+
+## Câu Chuyện
+
+"Ta là con sói bị thương từng bị cả thế giới quay lưng,"
+"Chúng ta rồi sẽ xây dựng nên một thế giới mới, nơi đó không ai bị bỏ rơi."
+
+"Thân mặc một chiếc áo rực rỡ như mặt trời giữa ban trưa,"
+"Ta đến từ vương quốc tuyết trắng tựa ánh bạc,"
+"Thổi lên còi hiệu thể hiện sự uy nghi của quốc vương."
+
+"Bọn ta thường đi trong đêm đen không trăng."
+"Thường xuyên qua các sa mạc dát vàng."
+"Thường cảm nhận được sát khí thấu xương từ trong bóng tối,"
+"Thường mơ thấy người thương ở cố hương xa xôi."
+"Nhưng trong lồng ngực của ta luôn có một ngọn lửa rực cháy."
+"Các quan chấp hành như những vì sao lấp lánh nơi địa cực,"
+"Dẫn dắt ta hướng về phía trước không hề mệt mỏi."
+
+"Nếu ngươi dám rời mắt khỏi kẻ lừa đảo tự xưng là "Thần" kia,"
+"Cảm thấy không cam tâm vì sự kết thúc của ánh sáng, tức giận vì lời hứa giả tạo,"
+"Thì hãy ngẩng đầu chiêm ngưỡng vì sao màu ánh bạc kia đi, đó chính là cờ hiệu của bọn ta;"
+"Hãy gia nhập với bọn ta, hãy để bước chân tựa như sấm sét rung động đất trời."
+"Người muốn cùng ta hướng đến Ngôi Sao Đêm Trắng, ta tuyệt đối sẽ không bỏ rơi."
+"Người muốn cùng ta đi đến vùng đất u ám, hãy cùng nhau sáng tạo thế giới mới đi nào."
+
+"Nên biết rằng sự hủy diệt của tất cả rồi sẽ là sự ra đời của một trật tự mới."
+"Ở đích đến của sự hủy diệt sẽ nghênh đón ánh bình minh rạng rỡ."

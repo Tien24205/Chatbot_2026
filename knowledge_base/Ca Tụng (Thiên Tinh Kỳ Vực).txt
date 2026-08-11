@@ -1,0 +1,54 @@
+# Ca Tụng (Thiên Tinh Kỳ Vực)
+
+## Thông Tin Cơ Bản
+
+title: Ca Tụng
+type: Hệ Thống Trò Chơi
+group: Thiên Tinh Kỳ Vực
+group2: Tiền Tệ Hóa
+
+- Tổng Quan: Ca Tụng là một cơ chế cầu nguyện trong Thiên Tinh Kỳ Vực. Cơ chế này được sử dụng để nhận Ngoại Hình cho Người Mẫu Kỳ Vực.
+
+## Ca Tụng Sự Kiện
+
+Ca Tụng Sự Kiện yêu cầu để thực hiện Ca Tụng.
+
+Hệ thống này sở hữu cơ chế bảo hiểm Ngoại Hình 5 sao và 4 sao. Người chơi chắc chắn nhận được Ngoại Hình 5 sao trong vòng 70 lần Ca Tụng và Ngoại Hình 4 sao hoặc cao hơn trong vòng 10 lần Ca Tụng.
+
+Tất cả Ngoại Hình 5 sao và 4 sao nhận từ Ca Tụng Sự Kiện đều là các Bộ Ngoại Hình hoàn chỉnh, thường bao gồm: Kiểu Tóc, Trang Phục Trên, Trang Phục Dưới và các phụ kiện đi kèm khác.
+
+Số lần tích lũy bảo hiểm sẽ được chia sẻ và cộng dồn giữa tất cả các "Ca Tụng Sự Kiện", chúng được tách biệt với số lần bảo hiểm của các loại Ca Tụng khác.
+
+Ca Tụng Sự Kiện hiện tại được chia làm hai loại: "Ca Tụng Sự Kiện Ngoại Hình Nam" và "Ca Tụng Sự Kiện Ngoại Hình Nữ". Trong "Ca Tụng Sự Kiện Ngoại Hình Nam", mọi Ngoại Hình 5 sao hoặc 4 sao nhận được đều là độc quyền cho Người Mẫu Nam, riêng Ngoại Hình 3 sao nhận được có thể thuộc về cả Người Mẫu Nam hoặc Nữ. Trong "Ca Tụng Sự Kiện Ngoại Hình Nữ", mọi Ngoại Hình 5 sao hoặc 4 sao nhận được đều là độc quyền cho Người Mẫu Nữ, riêng Ngoại Hình 3 sao nhận được có thể thuộc về cả Người Mẫu Nam hoặc Nữ.
+Loại Vật Phẩm
+- Bộ Ngoại Hình (Truyền Thuyết (5 sao), Siêu Việt (4 sao))
+- Thành Phần Ngoại Hình (Hoành Tráng (3 sao))
+Tỉ Lệ
+
+## Ca Tụng Thường
+
+Ca Tụng Thường (Vọng Âm Kỳ Ngộ) yêu cầu để thực hiện Ca Tụng.
+
+Hệ thống này sở hữu cơ chế bảo hiểm vật phẩm 4 sao và 3 sao. Người chơi chắc chắn nhận được một vật phẩm (Danh Mục Bộ) 4 sao trong vòng 70 lần Ca Tụng và một vật phẩm 3 sao hoặc cao hơn trong vòng 5 lần Ca Tụng. Mỗi lần nhận được vật phẩm 4 sao, hệ thống sẽ ưu tiên xuất hiện những món mà người chơi đang sở hữu ít hơn hai bản.
+
+Tất cả Danh Mục Ngoại Hình 4 sao nhận từ Ca Tụng Thường đều là Danh Mục Bộ. Bằng cách sử dụng Nguyên Liệu Rực Rỡ, người chơi có thể chế tạo chúng thành các Bộ Ngoại Hình 4 sao dành cho Người Mẫu Nam hoặc Người Mẫu Nữ.
+Loại Vật Phẩm
+- Danh Mục Bộ (Siêu Việt (4 sao), Hoành Tráng (3 sao), Tinh Xảo (2 sao))
+- Danh Mục Ngoại Hình (Siêu Việt (4 sao), Hoành Tráng (3 sao), Tinh Xảo ((2 sao))
+- Động Tác Tương Tác (Siêu Việt (4 sao), Hoành Tráng (3 sao), Tinh Xảo ((2 sao))
+- Biểu Cảm Tương Tác (Siêu Việt (4 sao), Hoành Tráng (3 sao), Tinh Xảo ((2 sao))
+Tỉ Lệ
+
+## Quà Tặng
+
+Sau khi đạt Cấp Kỳ Vực 10 và Cấp Gắn Kết 3 với một người bạn, người chơi có thể tặng các lượt quay Ca Tụng Sự Kiện cho họ. Khi kích hoạt chế độ quà tặng, tất cả vật phẩm nhận được thông qua Ca Tụng sẽ được gửi trực tiếp cho người bạn đã được chọn trước đó. Các vật phẩm trùng lặp sẽ được chuyển sau khi người bạn đó đã nhận được quà.
+
+Số lần tích lũy bảo hiểm khi tặng Ca Tụng cho bạn bè hoạt động hoàn toàn độc lập với số lần bảo hiểm cá nhân của người chơi. Khi tặng Ngoại Hình thông qua Ca Tụng, tất cả "Ca Tụng Sự Kiện" sẽ dùng chung số lần tích lũy bảo hiểm duy nhất cho cùng một người bạn và không làm ảnh hưởng đến số lần bảo hiểm của chính người chơi. Nếu tặng cho nhiều người bạn khác nhau, số lần tích lũy "Ca Tụng Sự Kiện" của mỗi người sẽ được tính toán riêng biệt.
+
+Khi người chơi nhận Ngoại Hình thông qua Ca Tụng, cơ chế bảo hiểm cũng tuân theo quy tắc nêu trên. Không có giới hạn về số lượng quà tặng Ngoại Hình mà một người chơi có thể nhận được thông qua Ca Tụng.
+
+## Ngoại Hình 5 Sao
+
+Khi người chơi nhận được một Ngoại Hình 5 sao lần thứ hai thông qua bất kỳ hình thức nào (bao gồm nhưng không giới hạn ở: Ca Tụng, Đổi Cửa Hàng hoặc Quà Tặng) trong khi đã sở hữu Ngoại Hình đó, tính năng Đột Phá sẽ được kích hoạt.
+
+Bắt đầu từ lần thứ ba nhận được cùng một Ngoại Hình 5 sao, chúng sẽ được chuyển hóa thành.

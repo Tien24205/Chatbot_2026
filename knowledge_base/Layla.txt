@@ -1,0 +1,25 @@
+# Layla
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+quality: 4
+weapon: Kiếm Đơn
+element: Băng
+name: Layla
+birthday: 19 tháng 12
+constellation: Dạ Oanh
+region: Sumeru
+affiliation: Giáo Viện Sumeru
+affiliation2: Học Viện Rtawahist
+obtain: Cầu Nguyện
+releaseDate: 2022-11-18
+title: Sao Đêm Kỳ Ảo
+title2: Nửa Tỉnh Nửa Mơ Đêm Huyền Diệu
+voiceEN: [[imdb:nm4945801
+Ashely Biski]]<ref>YouTube: [https://youtu.be/43Ry7gQry1w?t: 976 Chương Trình Đặc Biệt Phiên Bản 3.2]
+voiceCN: Hou Xiaofei (zh|侯小菲)
+voiceJP: w|Miyu Tomita|Tomita Miyu (ja|富田美憂)
+voiceKR: Kang Sae-Bom (ko|강새봄)
+
+- Tổng Quan: Layla là nhân vật hệ Băng chơi được Genshin Impact.

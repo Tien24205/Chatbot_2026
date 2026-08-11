@@ -1,0 +1,210 @@
+# Cừu Hận
+
+## Tổng Quan
+
+type: Hệ Thống Trò Chơi
+type2: Chiến Đấu
+
+Cừu Hận, hay aggro, là của kẻ địch. Cừu Hận trong Genshin Impact là một cơ chế phực tạp được cấu trúc nên từ hai phần: hệ thống Phát Hiện nhằm báo động Kẻ Địch và khiến Sinh Vật Hoang Dã trở nên bị kinh động, và hệ thống Chú Ý nhằm xác định mục tiêu chính khi đang chiến đấu.
+
+Khiêu Khích là hiệu ứng đặc biệt của một số chiêu thức của nhân vật có khả năng thu hút chú ý của kẻ đich và làm chúng thay đổi mục tiêu. Kẻ địch cấp Thủ Lĩnh trở nên miễn nhiễm với Khiêu Khích.
+
+## Trạng Thái Chiến Đấu
+
+Khi người chơi, đồng minh của người chơi, hoặc một vật thể Khiêu Khích bị kẻ địch phát hiện, người chơi sẽ tiến vào trạng thái chiến đấu. Khi kẻ địch không còn chú ý đến người chơi, người chơi sẽ rời trạng thái chiến đấu.
+
+Sẽ có một mũi tên đỏ gần người chơi chỉ về hướng kẻ địch đang chú ý đến người chơi hoặc một đồng minh lân cận và hiện đang ngoài tầm nhìn màn hình nhưng đang không ẩn thân hay tàng hình. Kẻ địch đang ngoài tầm nhìn màn hình và hiện đang ẩn thân hoặc tàng hình sẽ không cho ra mũi tên đỏ.
+
+Khi bị kẻ địch nhận diện:
+- Bắt đấu trạng thái chiến đấu.
+- Kẻ địch có cừu hận sẽ có một dấu chấm than xuất hiện trên đầu.
+- Một đoạn trống ngắn nổi lên.
+- Nếu không có chướng ngại vật che khuất camera, thì camera sẽ phóng to ra hết cỡ, vượt quá mức phóng to tối đa thông thường để đạt đến mức phóng to tối đa riêng cho chiến đấu.
+
+Khi ở trạng thái chiến đấu:
+- Người chơi không thể đổi đội hình.
+- Camera sẽ giữ nguyên mức phóng to tối đa trong suốt trận chiến.
+- Đa số Đạo Cụ Nhỏ sẽ không thể được sử dụng, trừ một số Đạo Cụ Nhỏ chuyên dùng chi chiến đấu như Hộp Bosuko và Chất Xúc Tác Lưu Minh Thạch.
+- Tại đa số khu vực đại thế giới, nhạc chiến đấu sẽ được phát. Phế Tích Phong Long and Ruột Mãng Xà là một số ngoại lệ.
+- Hoạt ảnh nhàn rỗi không thể xuất hiện.
+
+## Phát Hiện
+
+Kẻ địch and sinh vật hoang dã có một bộ đếm Cảnh Giác từ 0 đến 100. Bộ đếm này sẽ được làm mới mỗi 0,016 giây, còn gọi là Khoảng Cách Thời Gian.
+
+Cảnh Giác sẽ tăng lên khi có một sự kiện bất thường đến từ một cá thể có thể nhận cừu hận, như người chơi hay vật thể khiêu khích. Nếu Cảnh Giác cao hơn 0, kẻ địch và sinh vật hoang dã sẽ trở nên nhạy cảm hơn và dễ nhận diện mục tiêu hơn. Sự kiện bất thường bao gồm:
+- Nhìn thấy mục tiêu
+- Nghe thấy mục tiêu
+- Cảm nhận được mục tiêu trong tầm cảm nhận của chúng
+- Bị mục tiêu tấn công (Cảnh Giác lập tức đạt 100)
+
+Khi Cảnh Giác đạt 100, kẻ địch sẽ chiến đấu và sinh vật hoang dã sẽ bỏ chạy. Kẻ địch có Cảnh Giác đạt 100 do bị tấn công bởi mục tiêu sẽ có Cừu Hận nhất định với mục tiêu đó.
+
+Mức tăng Cảnh Giác sẽ có sự khác biệt nhỏ giữa từng cá thể kẻ địch và sinh vật hoang dã. Sự khác biệt này là do Hệ Số Lệch Chuẩn, là một số thập phân giữa 0,75 và 1,25 và được xác định ngẫu nhiên giữa các cá thể.
+
+Khi Cảnh Giác dưới 100, nó sẽ giảm dần theo thời gian ở một mức cố dịnh, nhưng tốc độ giảm dần thường sẽ không nhanh bằng tốc độ tăng dần do sự kiện bất thường. Cảnh Giác giảm dần sau mỗi Khoảng Cách Thời Gian sẽ được tính như sau:
+\text{Cảnh Giác Mới} = \text{Cảnh Giác Cũ} - \text{Hệ Số Giảm Cảnh Giác} \times 0.016
+
+- Mức Độ Đe Dọa: Khi Cảnh Giác bằng 0, mục tiêu có Mức Độ Đe Dọa là 0. Mục tiêu nào làm tăng Cảnh Giác sẽ có Mức Độ Đe Dọa là 1 cho đến khi Cảnh Giác đạt 100. Khi Cảnh Giác bằng 100, mục tiêu có Mức Độ Đe Dọa là 2.
+
+## Điều Chỉnh
+
+Một số Thiên Phú có thể trực tiếp điều chỉnh tầm nhận diện của kẻ địch và sinh vật hoang dã thông qua Nhân Tố Điều Chỉnh. Cho đến nay vẫn chưa có Nhân Tố nào có thể điều chỉnh tầm nghe của sinh vật hoang dã hoặc bất cứ tầm nào của kẻ địch.
+
+- Trạng Thái Của Kẻ Địch: Trạng thái của kẻ địch, ví dụ như khi Hilichurl đang ngủ, nghỉ ngơi, hay cảnh giác, sẽ có ảnh hưởng đến tầm nhận diện.
+
+## Nhìn thấy mục tiêu
+
+Đa số kẻ địch và sinh vật hoang dã đều có khả năng nhìn thấy mục tiêu, hay xác định mục tiêu qua tầm nhìn. Việc xác định mục tiêu này sẽ chỉ diễn ra tại Vùng Nhìn Thấy. Tuy mỗi cá thể có một vùng nhìn thấy khác nhau nhưng thường sẽ là góc 120 độ ở phương ngang và góc 60 độ ở phương thằng đứng. Khoảng Cách Nhìn Thấy của kẻ địch và sinh vật hoang dã thường sẽ là 30 mét khi bình thường và sẽ tăng lên 200 khi đang chiến đấu hoặc bỏ chạy.
+
+Cảnh Giác sẽ tăng lên khi một mục tiêu bị nhìn thấy và khi mục tiêu vẫn trong tầm nhìn. Với một số kẻ địch và sinh vật hoang dã, mục tiêu ở càng gần thì Cảnh Giác sẽ càng tăng nhanh.
+
+Các thông số đặc trưng cho việc xác định mục tiêu qua tầm nhìn sẽ bao gồm Có khả năng nhìn, Khoảng Cách Nhìn Thấy, Góc Nhìn Thấy Theo Phương Ngang, Góc Nhìn Thấy Theo Phương Thẳng Đứng, Hệ Số Tăng Dần Của Tầm Nhìn, và Hệ Số Giảm Của Tầm Nhìn Do Khoảng Cách
+
+Nếu một nhân vật hoặc vật thể khiêu khích xuất hiện trong tầm nhìn của kẻ địch hoặc sinh vật hoang dã, sau mỗi Khoảng Cách Thời Gian:
+\text{Cảnh Giác Mới} = \text{Cảnh Giác Cũ} + \text{Hệ Số Tăng Dần Của Tầm Nhìn} \times \text{Hệ Số Lệch Chuẩn} \times 0.016 \times \text{Hệ Số Giảm Dần Của Tầm Nhìn}
+
+- Vật thể cao hơn nhân vật đang trên sân (thường thấy khi đang trong trạng thái Ẩn Mình khi cúi người)
+
+- Bụi cỏ và cây có thể bị phá hủy
+
+## Nghe thấy mục tiêu
+
+Đa số kẻ địch và sinh vật hoang dã đều có thể nghe thấy mục tiêu, hay nhận diện mục tiêu qua âm thanh. Cơ chế này không liên quan đến âm thanh mà người chơi thường nghe trong game. Hầu hết kẻ địch và sinh vật hoang dã có Tầm Nghe Thấy là 20 mét. Hầu hết mọi âm thanh mà kẻ địch và sinh vật hoang dã có thể nghe có âm lượng là 50 và không giảm dần.
+
+Một số sinh vật hoang dã cũng tăng Khả Năng Nghe, giúp tăng Âm Lượng của âm thanh mà chúng nghe thấy. Mọi kẻ địch và sinh vật hoang dã cũng sẽ tăng 50% khả năng nghe nếu có mục tiêu có Mức Độ Đe Dọa 1 đang ở trong tầm của chúng.
+
+Khi kẻ địch và sinh vật hoang dã nghe thấy âm thanh, Cảnh Giác của chúng sẽ tăng bằng âm lượng mà chúng nghe, bao gồm cả âm lượng tăng thêm do khả năng nghe cao hơn.
+
+Khi Cảnh Giác đạt 100, một cảnh báo mà mọi kẻ địch và sinh vật hoang dã lân cận có thể nghe thấy sẽ được phát với âm lượng 100. Âm thanh cảnh báo này sẽ phát ra trong một bán kính, hay Tầm Cảnh Báo, là 12 mét đối với mọi kẻ địch và đa số sinh vật hoang dã, với một số ít sinh vật hoang dã chỉ phát ra âm thanh cảnh báo có tầm cảnh báo là 5 mét.
+
+Các thông số đặc trưng của việc xác định mục tiêu qua âm thanh là Âm Lượng, Khả Năng Nghe, Tầm Nghe, và Tầm Cảnh Báo.
+
+Khi một âm thanh được phát trong Tầm Nghe:
+- If \text{Mức Độ Đe Dọa} = 0, \text{Âm Lượng Thực Tế} = \text{Âm Lượng} \times \text{Khả Năng Nghe}
+- If \text{Mức Độ Đe Dọa} = 1, \text{Âm Lượng Thực Tế} = \text{Volume} \times \text{Khả Năng Nghe} \times 1.5
+- Cảnh Giác được tăng sẽ bằng: \text{Cảnh Giác Mới} = \text{Cảnh Giác Cũ} + \text{Âm Lượng Thực Tế}
+
+## Âm Thanh
+
+- Cảnh Báo từ kẻ địch
+- Tất cả mũi tên khi chạm đất
+- Mũi tên Nguyên Tố khi chạm đất của các nhân vật:
+- Aloy, Amber, Collei, Kujou Sara trong trạng thái Lông Qua Bao Phủ từ Bão Sét Tengu (tuy nhiên, Tengu Juurai - Phục Kích từ Lông Quạ có âm lượng rất thấp, hoặc thậm chí không có), Tartaglia, Tighnari, Yelan, Yoimiya.
+- Củ Cải của Kỹ Năng Nguyên Tố và Kỹ Năng Nộ của Yaoyao.
+- Có vẻ như chúng có cùng Âm Lượng với mũi tên.
+- Chỉ trong trạng thái Ẩn Nấp: tiếng bước chân
+
+## Âm Lượng rất thấp hoặc không có
+
+- Mũi tên Nguyên Tố khi chạm đất của các nhân vật:
+- Diona, Fischl, Gorou, Kujou Sara khi không trong trạng thái Lông Qua Bao Phủ từ Bão Sét Tengu, Venti
+- Đòn đánh trúng địa hình của các nhân vật Pháp Khí, bao gồm cả những đòn đạn bắn.
+- Nhặt tài nguyên và vật phẩm rơi ra.
+- Đòn đánh tầm gần, bao gồm khai thác khoáng sản
+- Âm thanh của kẻ địch
+- Bước chân của kẻ địch
+- Đòn đánh của kẻ địch lên nhân vật
+- Tất cả chuyển động và âm thanh không liên quan đến chiến đấu, như xung kích, leo trèo, bơi, âm thanh và hoạt ảnh nhàn rỗi.
+
+## Bước chân
+
+Nhận diện mục tiêu qua tiếng bước chân chỉ được NPCs sử dụng trong các nhiệm vụ Ẩn Nấp. Cảnh Giác tăng lên khi nhân vật đang ở trong tầm nghe, kể cả khi nhân vật đang không chuyển dộng, và hệ số tăng dần sẽ dựa theo khoảng cách giữa nhân vật và NPC.
+
+Thông số dành riêng cho nhận diện mục tiêu qua tiếng bước chân bao gồm Tầm Nghe Thấy Tiếng Bước Chân, Khả Năng Nghe Tiếng Bước Chân, và Hệ Số Giảm Của Tiếng Bước Chân Do Khoảng Cách.
+
+Nếu một nhân vật đang ở trong Tầm Nghe Thấy Tiếng Bước Chân, sau mỗi Khoảng Cách Thời Gian:
+\text{Cảnh Giác Mới} = \text{Cảnh Giác Cũ} + \text{Khả Năng Nghe Tiếng Bước Chân} \times \text{Hệ Số Lệch Chuẩn} \times 0,016 \times \text{Hệ Số Giảm Của Tiếng Bước Chân Do Khoảng Cách}
+
+## Cảm Nhận Mục Tiêu
+
+Hầu hết kẻ địch và sinh vât hoang dã đều có thể cảm nhận mục tiêu ở một khoảng cách rất gần, hay nhận diện mục tiêu qua cảm nhận, mà không cần nhìn hay nghe thấy mục tiêu. Mục tiêu có thể bị cảm nhận và làm tăng Cảnh Giác bao gồm nhân vật và vật thể khiêu khích. Tầm cảm nhận rất nhỏ đó, hay Tầm Cảm Nhận, khác nhau giữa từng kẻ địch và sinh vật hoang dã. Chúng thường là 8 mét đối với Kẻ Địch Thường và 15 mét đối với Kẻ Địch Tinh Anh.
+
+Khi một mục tiêu ở trong Tầm Cảm Nhận, Cảnh Giác sẽ tăng rất nhanh và sẽ đạt mức tối đa sau khoảng 0,2 giây đối với đa số kẻ địch. Một số ít kẻ địch cần đến khoảng 1 giây.
+
+Các thông số đặc trưng cho việc nhận diện mục tiêu qua cảm nhận bao gồm Tầm Cảm Nhận và Hệ Số Cảm Nhận.
+
+Nếu một nhân vật đang ở trong Tầm Cảm Nhận, sau mỗi Khoảng Cách Thời Gian:
+\text{Cảnh Giác Mới} = \text{Cảnh Giác Cũ} + \text{Hệ Số Cảm Nhận} \times \text{Hệ Số Lệch Chuẩn} \times 0.016
+
+## Bị Đánh Bởi Mục Tiêu
+
+Kẻ địch và sinh vật hoang dã khi bị đánh sẽ tìm kẻ tấn công chúng, hay nhận diện qua đòn đánh. Đòn đánh này không cần phải gây sát thương. Các đòn đánh không có sát thương nhưng có thể áp ấn (Vũ Liêm Kiếm của Xingqiu, Vòng Âm Thanh của Barbara,...) hay gây gián đoạn (Điệu Nhảy Niwabi Cháy Bỏng của Yoimiya khi kích hoạt, Điệp Dẫn Lai Sinh của Hu Tao khi kích hoạt,...) vẫn được xem là một đòn đánh, bởi vì sinh vật hoang dã sẽ bị kinh động và Hilichurl Kỳ Lạ sẽ tức giận khi trúng phải những đòn trên.
+
+Một số sát thương đến từ các nguồn riêng biệt, như sét, Bom Lạnh của Aloy, Tengu Juurai - Phục Kích của Kujou Sara,... sẽ không làm kẻ địch tức giận dưới điều kiện bình thường. Tuy vậy, cơ chế này, theo quan sát thì nó không ổn định và tùy thuộc vào tốc độ khung hình của người chơi.
+
+Khi kẻ địch và sinh vật hoang dã bị đánh bởi một nhân vật, Cảnh Giác lập tức tăng lên 100, và mọi mục tiêu trong Tầm Nghe Thấy của chúng sẽ có Cừu Hận tăng thêm 20 đơn vị. (Với Hilichurl Kỳ Lạ không có Tầm Nghe Thấy, bán kính này sẽ là 20 mét.)
+
+Các thông số đặc trưng cho việc nhận diện kẻ địch qua đòn đánh bao gồm Tầm Ghi Đòn Đánh Không Nguồn (chỉ có ở Hilichurl Kỳ Lạ vì chúng không có Tầm Nghe Thấy và Tầm Quét Khi Trúng Đòn.
+
+## Cừu Hận
+
+Trong giao tranh, kẻ địch sẽ chọn mục tiêu thông qua Cừu Hận nằm trong khoảng từ 0 đến 99.999 và chúng được ghi bởi từng kẻ địch lên từng mục tiêu. Thông thường, mỗi kẻ địch sẽ hướng về mục tiêu có nhiều Cừu Hận nhất. Cừu Hận của kẻ địch hướng về mục tiêu sẽ tăng lên 20 đơn vị với mỗi lần mục tiêu đó (hay vật triệu hồi của mục tiêu đó) đánh trúng kẻ địch. Do đó, kẻ địch thường sẽ nhắm đến các nhân vật có tốc đánh cao.
+
+Sau mỗi Khoảng Cách Thời Gian, Cừu Hận Tối Đa hướng đến từng mục tiêu sẽ bị giảm đi 0,048% Cừu Hận Tối Đa hiện tại.
+
+## Chọn Mục Tiêu
+
+Mục tiêu với Cừu Hận cao nhất sẽ bị chọn nếu thỏa mãn 1 trong các điều kiện sau:
+- Khi chưa có mục tiêu nào đang bị chọn
+- Khi mục tiêu có Cừu Hận cao nhất có Cừu Hận nhiều hơn 20% so với mục tiêu đang bị chọn
+
+Nếu kẻ địch có nhiều mục tiêu có cùng lượng Cừu Hận, mục tiêu tham gia chiến đấu đầu tiên sẽ bị chọn.
+
+## Khiêu Khích
+
+Mỗi kẻ địch đều có cấp độ Kháng Khiêu Khích của chúng, và và mỗi vật thể khiêu khích cũng đều có một Cấp Độ Khiêu Khích. Nếu một kẻ địch đang ở trong tầm của một vật thể khiêu khích và có Kháng Khiêu Khích thấp hơn Cấp Độ Khiêu Khích, thì kẻ địch đó sẽ bị khiêu khích, và Cừu Hận của chúng hướng về vật thể khiêu khích sẽ tăng lên đến một mức cố định. Nhìn chung, vật thể khiêu khích có thể khiêu khích kẻ địch cách chúng 5–6 mét theo phương ngang, và hoặc 10 mét, hoặc vô hạn theo phương thẳng đứng.
+
+Hiện tại, mọi Kẻ Địch Thường và Kẻ Địch Tinh Anh có thể bị khiêu khích, và không thể khiêu khích kẻ địch cấp Thủ Lĩnh trở lên.
+
+Các thông số đặc trưng của khiêu khích bao gồm Kháng Khiêu Khích, Cấp Độ Khiêu Khích, Vùng Khiêu Khích, Khoảng Cách Thời Gian Khiêu Khích, và Giá Trị Khiêu Khích.
+
+## Rời Trạng Thái Chiến Đấu
+
+Thông thường, nếu người chơi không rời chiến đấu bằng cách đánh bại toàn bộ kẻ địch đang tức giận, thì người chơi chỉ có thể rời chiến đấu bằng cách chạy ra đủ xa khỏi kẻ địch đang tức giận và Vùng Phòng Thủ của chúng. Người chơi cũng có thể rời chiến đấu nếu tất cả kẻ địch đang tức giận không thể tìm thấy đường đi đến gần mục tiêu.
+
+Các thông số đặc trưng bao gồm Bán Kính Vùng Phòng Thủ, Khoảng Cách Với Mục Tiêu, Khoảng Cách Với Biên Vùng Phòng Thủ, Thời Gian Xóa Cừu Hận Do Khoảng Cách, Xóa Cừu Hận Do Hết Đường, Thời Gian Xóa Cừu Hận Do Hết Đường, Xóa Cừu Hận Do Rời Vùng (Phòng Thủ) và Thời Gian Xóa Cừu Hận Do Rời Vùng.
+
+## Rời Chiến Đấu Do Khoảng Cách
+
+Nếu một trong các Điều Kiện 1 hoặc 2 được thỏa mãn, đồng hồ đếm Thời Gian Xóa Cừu Hận Do Khoảng Cách sẽ bắt đầu đếm.
+- Điều Kiện 1: \text{Khoảng Cách Với Mục Tiêu} > \text{Giới Hạn Khoảng Cách Với Mục Tiêu}
+- Điều Kiện 2: \text{Khoảng Cách Với Mục Tiêu} > \text{Bán Kính Vùng Phòng Thủ} + \text{Giới Hạn Khoảng Cách Với Biên Vùng Phòng Thủ}
+
+Nếu đồng hồ đếm Thời Gian Xóa Cừu Hận Do Khoảng Cách đếm xong, Cừu Hận và Cảnh Giác lên mục tiêu sẽ bị xóa.
+
+Nếu Điều Kiện 1 và 2 không được đáp ứng trước khi chiến đấu kết thúc, đồng hồ đếm sẽ dừng lại và làm mới về 0.
+
+## Rời Chiến Đấu Do Hết Đường
+
+Một số kẻ địch sẽ không truy đuổi mục tiêu nếu chúng không tìm thấy đường đến gần mục tiêu.
+
+Nếu Điều Kiện 1 và 2 không được thỏa mãn, và cả hai Điều Kiện 3 và 4 được thỏa mãn, Cừu Hận và Cảnh Giác lên mục tiêu sẽ bị xóa.
+- Điều Kiện 3: \text{Thời Gian Tính Từ Đòn Đánh Cuối} > \text{Thời Gian Xóa Cừu Hận Do Hết Đường}
+- Điều Kiện 4: \text{Thời Gian Tính Từ Lúc Hết Đường} > \text{Thời Gian Xóa Cừu Hận Do Hết Đường}
+
+## Rời Chiến Đấu Do Vùng Phòng Thủ
+
+Khi có tính năng Xóa Cừu Hận Do Rời Vùng Phòng Thủ, nếu Điều Kiện 1 và 2 không được thỏa mãn, và Điều Kiện 5 được thỏa mãn, Thời Gian Xóa Cừu Hận Do Rời Vùng sẽ bắt đầu đếm
+- Điều Kiện 5: \text{Khoảng Cách Từ Mục Tiêu Đến Tâm Vùng Phòng Thủ} > \text{Bán Kính Vùng Phòng Thủ}
+
+Nếu Thời Gian Xóa Cừu Hận Do Rời Vùng kết thúc đếm ngược, Cừu Hận và Cảnh Giác lên mục tiêu đó sẽ bị xóa.
+
+Nếu Điều Kiện 5 ngừng thỏa mãn trước khi Chiến Đấu kết thúc, Thời Gian Xóa Cừu Hận Do Rời Vùng sẽ dừng và bị làm mới về 0.
+
+## Cơ Chế Đặc Biệt
+
+Trong thử thách Cánh Cổng Ảo Mộng, người chơi đứng gần Hoa Mộng Mị chưa bị khô héo hoặc bung nở sẽ không làm kẻ địch tức giận, và sẽ xóa tất cả mọi cừu hận của mọi kẻ địch đã tức giận.
+
+Nhiều kẻ địch ở Natlan sẽ không lập tức tức giận nếu chúng phát hiện ra người chơi, mà sẽ khiêu khích hoặc bảo người chơi tránh xa. Nếu người chơi tấn công, đến quá gần, hoặc không rời đi sau một khoảng thời gian nhất định, kẻ địch vẫn sẽ tức giận như bình thường.
+
+Nếu người chơi đang Nhập Thể vào một Saurian vào thời điểm họ tiếp cận một Saurian khác, kẻ địch sẽ chỉ tức giận nếu bị tấn công hoặc gần đó có một kẻ địch không phải là Saurian trở nên tức giận. Việc nhập thể vào một Saurian trong Trạng Thái Chiến Đấu sẽ không tắt trạng thái này, trừ khi kẻ địch duy nhất tức giận là Saurian vừa mới bị nhập thể.
+
+## Các Phát Hiện Khác
+
+- Kẻ địch có thể sẽ không tức giận nếu chúng nhận sát thương từ Cơ Quan Thủ Hộ
+- Bản thân việc bị Trường Hút Chân Không lôi kéo sẽ không làm kẻ địch tức giận.
+- Hầu hết mọi sinh vật hoang dã sẽ run lên khi có bất kỳ sinh vật hoang dã khác bị thu thập hoặc giết bởi người chơi.
+- Ngoại lệ là cua, ếch và unagi.
+
+- Thiên Phú Khiêu Khích: Các nhân vật sau có Thiên Phú có thể Khiêu Khích kẻ địch và chuyển hướng mục tiêu cừu hận.

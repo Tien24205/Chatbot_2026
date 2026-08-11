@@ -1,0 +1,23 @@
+# Carole
+
+## Thông Tin Cơ Bản
+
+type: NPC Nhiệm Vụ
+deceased: Đã tự sát trước các sự kiện của trò chơi khoảng 400 năm trước
+region: Fontaine
+location: Fontaine
+affiliation: Đội Hắc Ảnh Marechaussee
+group: Melusine
+voiceEN: Deneen Melody
+
+- Tổng Quan: Carole là một NPC độc quyền nhiệm vụ xuất hiện trong.
+
+## Tiểu Sử
+
+Khi Neuvillette tìm thấy Melusine, ngài đã đưa họ vào Fontaine. Lúc Neuvillette vừa nhậm chức thẩm phán và Melusine vừa mới được giới thiệu với mọi người, nhiều người đã sợ họ, tin rằng họ là những sinh vật của tai họa. Carole đã làm việc cùng với đội trưởng lúc bấy giờ là Vautrin của Đội Tuần Tra Đặc Biệt để thúc đẩy thiện chí và hợp tác. Sau 5 năm làm việc, cả cô và Vautrin đều được Neuvillette trao tặng Huy Hiệu Hòa Bình. Tuy nhiên, nhiều người ở Fontaine vẫn không tin tưởng Neuvillette và Melusine, chế giễu Carole và ước mơ của cô về việc cả hai loài cùng chung sống hòa bình. Cuối cùng, một nhóm những người kiên quyết phản đối Neuvillette đã quyết định gán cho Carole một tội ác mà cô không phạm phải để dạy cho ngài một bài học vì đã lật đổ thế lực cũ.
+
+Những người phản đối, bao gồm cả Thibert và Suavegothe đã thành công dụ Carole đến hiện trường vụ án và buộc tội cô giết người, kích động đám đông ra lệnh bắt giữ cô. Các Hiến Binh không thành công trong việc giữ đám đông ở lại, dẫn đến một cuộc đụng độ giữa cả hai bên. Để chứng minh sự vô tội của mình, Carole đã hy sinh bản thân vì đám đông. Cái chết của cô khiến Vautrin tìm cách trả thù những người phản đối và sau đó bị giam giữ ở Pháo Đài Meropide.
+
+Khoảng 400 năm sau, Melusine Kiara đã gặp phải vấn đề tương tự khi có người đe dọa cô, khiến Neuvillette phải đích thân điều tra để đảm bảo sự cố sẽ không xảy ra nữa. Kiara, người được giữ lại trong Palais Mermonia vì sự an toàn của chính cô, đã có một giấc mơ mà cô gặp Carole, người nói rằng cô rất vui mừng khi thấy giấc mơ của họ trở thành sự thật.
+
+Biểu tượng đeo trên mũ của các hiến binh đã được thiết kế lại sau cái chết của Carole để tưởng nhớ cô.

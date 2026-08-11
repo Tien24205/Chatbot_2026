@@ -1,0 +1,19 @@
+# Boss Tuần
+
+## Tổng Quan
+
+type: Loại Kẻ Địch
+
+Boss Tuần là các kẻ địch thủ lĩnh mà người chơi chỉ có thể nhận thưởng chinh phạt một lần mỗi tuần. Sau khi đánh bại chúng sẽ xuất hiện một Hoa Chinh Phạt, người chơi có thể lựa chọn tiêu hao để nhận thưởng cho 3 Boss Tuần đầu tiên và cho mỗi lần tiếp theo. Số lần nhận thưởng từ Boss Tuần và lượt giảm tiêu hao nhựa sẽ được làm mới vào 4 giờ sáng mỗi thứ Hai (theo giờ server).
+
+Trận chiến với Boss Tuần thường xảy ra trong một Vùng Đất Thảo Phạt (người chơi có thể dịch chuyển tới đó) ngoại trừ Andrius (chiến đấu trên đại thế giới). Người chơi mở khóa các bí cảnh này bằng cách hoàn thành Nhiệm Vụ Ma Thần hoặc Nhiệm Vụ Truyền Thuyết nhất định. Sau khi Hạng Mạo Hiểm đạt cấp 40, trong chế độ chơi đơn, có thể thông qua Bằng Chứng Mạo Hiểm để khiêu chiến nhanh Vùng Đất Thảo Phạt chưa mở khóa.
+
+Boss Tuần sau khi bị đánh bại sẽ rơi ra Nguyên Liệu Bồi Dưỡng Nhân Vật đặc trưng của bản thân, sử dụng để nâng Thiên Phú từ Cấp 6 trở lên. Bên cạnh đó, thưởng Boss Tuần cũng bao gồm cùng với một lượng,, Nguyên Liệu Đột Phá Nhân Vật và Thánh Di Vật tùy vào Cấp Thế Giới của người chơi.
+
+Ngoài ra, khi nhận thưởng sẽ có 12% nhận được một Phôi Bắc Lục (đối với Boss Tuần tại Mondstadt, Liyue và Inazuma) hoặc một Phôi Trung Địa (Sumeru và Fontaine) và 33% nhận được một.
+
+- Danh Sách Boss Tuần: Tất cả các thủ lĩnh đều có thể rơi ra Thánh Di Vật thuộc 5 Bộ sau: CTG = Cấp Thế Giới CBC = Cấp Bí Cảnh
+
+## Lưu Ý Về Cơ Chế
+
+- Khi ghé thăm thế giới của người chơi khác trong Chế Độ Nhiều Người Chơi, ấn xem thông tin Boss Tuần từ Bản Đồ sẽ hiển thị thông tin nhận thưởng khiêu chiến của chủ thế giới. Ngoại lệ duy nhất là Andrius, thông tin hiển thị sẽ luôn là của chính người chơi, dù người chơi có đang ở trong thế giới của người chơi khác.

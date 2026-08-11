@@ -1,0 +1,16 @@
+# Bei'er
+
+## Tổng Quan
+
+type: NPC Sự Kiện
+region: Liyue
+voiceEN: Alan Lee
+affiliation: Đạo Bảo Đoàn
+
+Bei'er là NPC chỉ xuất hiện trong nhiệm vụ sự kiện Sóng Ngầm Dưới Ánh Đèn thuộc sự kiện Tết Hải Đăng.
+
+Anh ta là thành viên của Đạo Bảo Đoàn. Qua bức thư bí ẩn mà anh cùng Crafty nhận được, hai người cùng với phía Xiao và Nhà Lữ Hành đã xảy ra ẩu đả.
+
+- Tính Cách: (Đang cập nhật)
+
+- Ngoại Hình: (Đang cập nhật)

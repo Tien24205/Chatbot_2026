@@ -1,0 +1,15 @@
+# Aatso
+
+## Thông Tin Cơ Bản
+
+type: NPC Nhiệm Vụ
+region: Nod-Krai
+location: Nod-Krai
+affiliation: Dòng Dõi Sương Nguyệt
+ancestry: Dòng Dõi Sương Nguyệt
+
+- Tổng Quan: Aatso là một NPC độc quyền sự kiện xuất hiện trong sự kiện Đại Chiến Clink Clank.
+
+- Tiểu Sử: (Sẽ được bổ sung.)
+
+- Ngoại Hình: (Sẽ được bổ sung.)

@@ -1,0 +1,22 @@
+# Efim Snezhevich
+
+## Thông Tin Cơ Bản
+
+type: NPC Nhiệm Vụ
+region: Snezhnaya
+location: Inazuma
+affiliation: Fatui
+affiliation2: Căn Nhà Hơi Ấm
+title: Thầy giáo
+
+- Tổng Quan: là một NPC độc quyền nhiệm vụ xuất hiện trong. Anh được các đặc vụ Fatui ở Inazuma gọi là "Thầy giáo".
+
+## Tiểu Sử
+
+Efim là một Snezhevich, cụ thể hơn là một đứa trẻ mồ côi được nuôi dưỡng bởi Fatui, lớn lên ở Căn Nhà Hơi Ấm dưới thời cai trị của Arlecchino đời trước là Crucabena, và là cấp trên của Lyudochka Snezhevna. Sau khi Arlecchino hiện tại giết chết Crucabena, trở thành chủ nhân mới của Căn Nhà Hơi Ấm, Efim cắt đứt mối quan hệ với nơi ấy, giả vờ theo lệnh chỉ đạo của Arlecchino hiện tại để chiếm lấy lòng tin của cấp dưới, nhưng thực chất là vẫn tuân theo đường hướng của Crucabena. Vẫn chưa biết mục đích thật sự của hắn là gì, có xuất phát từ lòng trung thành hay không.
+
+Sau khi lệnh ngưng chiến giữa Inazuma Shogunate và Quân Watatsumi được công bố, Efim và thuộc hạ của hắn đến Inazuma để khơi mào chiến tranh lần nữa bằng cách “đầu độc” Đảo Watatsumi, giả dạng làm thành viên của Quân Shogunate. Efim có khẳng định với Lyudochka rằng hắn mong việc hắn làm sẽ làm tăng danh tiếng của Arlecchino sau cái chết của Signora.
+
+Efim cử Lyudochka đến Đền Narukami, cùng với ba tên gián điệp khác đến Đảo Ritou và Thành Inazuma. Khi Tae báo cáo phát hiện ra một cuốn tiểu thuyết trong túi của Lyudochka, hắn mới biết được trước giờ Lyudochka tận hưởng cuộc sống ở Inazuma và trì hoãn nhiệm vụ của mình. Hắn rất tức giận, đưa cho Lyudochka "Mệnh Lệnh Cuối Cùng" của mình trước khi rời đi, nhưng hắn không biết rằng Nhà Lữ Hành đã nghe thấy. Cô rất hối hận và đem lòng phản đối kế hoạch này, và sau đó Nhà Lữ Hành đánh bại cô. Mạng sống của Lyudochka sẽ bị đe dọa chừng nào còn nằm trong tay Efim, vậy nên Nhà Lữ Hành đã nhờ Momoyo làm một cái xác giả và cho mặc quần áo của Lyudochka vào đấy. Momoyo để bản thân bị Fatui bắt, xác giả dạng Lyudochka được phát hiện, và đúng như kế hoạch, Efim tin đó là Lyudochka qua bộ quần áo. Hắn bực tức vì một người quan trọng trong kế hoạch của hắn đã mất, giao cho thuộc hạ tra khảo Momoyo và tiếp tục hoạt động theo kế hoạch trước khi hắn được triệu tập về Snezhnaya. Tuy vậy, hắn không thể ngờ rằng toàn bộ kế hoạch của hắn đã bị Shuumatsuban của Inazuma thấu suốt.
+
+- Ngoại Hình: Anh ta có đôi mắt xanh và tóc xám với phần đuôi cụp về sau, mặc bộ đồng phục phổ thông của Fatui.

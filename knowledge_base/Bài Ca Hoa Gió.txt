@@ -1,0 +1,64 @@
+# Bài Ca Hoa Gió
+
+## Thông Tin Cơ Bản
+
+id: 15413
+type: Cung
+releaseDate: 2021-03-19
+quality: 4
+base_atk: 42
+2nd_stat_type: Tinh Thông Nguyên Tố
+2nd_stat: 36
+obtain: Sự Kiện
+event_name: Lời Mời Của Hoa Gió
+passive: Ước Nguyện Hoa Gió
+effect: Khi thi triển kỹ năng nguyên tố, nhận được lời chúc của Hoa Gió cổ xưa, tấn công tăng (var1)%,kéo dài 6s.
+eff_rank1_var1: 16
+eff_rank2_var1: 20
+eff_rank3_var1: 24
+eff_rank4_var1: 28
+eff_rank5_var1: 32
+eff_att1: Tấn Công
+
+- Tổng Quan: Bài Ca Hoa Gió là cung 4 sao nhận từ sự kiện Lời Mời Của Hoa Gió.
+
+- Tinh Luyện: Tinh Luyện Bài Ca Hoa Gió yêu cầu "Ngọn gió nhìn thấy được". 4 "Ngọn Gió Nhìn Thấy Được" có thể nhận trong cửa hàng sự kiện Lời Mời Của Hoa Gió.
+
+## Câu Chuyện
+
+Trong giấc mơ Mondstadt, có một loại hoa bay bổng nhẹ nhàng,
+sinh trưởng trong gió bão và giá lạnh, bung nở trong băng tuyết cuồng phong.
+
+Khác biệt với những loài hoa cỏ tầm thường bị gió bão nhổ bật gốc,
+Đóa hoa được mệnh danh là "Hoa Gió",gió à dữ dội thì thân rễ càng chắc khỏe.
+Ngày nay, cuộc đấu tranh chống lại bạo quân của người phàm từ thuở xa xưa bị xem như chuyện cười trong lễ hội
+Dáng hình của hoa dần mờ nhạt, tan vào trong tiếng gió xa xôi.
+
+"Tặng bạn đóa hoa vô danh, mong cho những ngày xuân mà bạn chưa từng trải qua đừng trở nên vô nghĩa"
+"Mong cho bạn đáp lại bằng niềm hy vọng và nụ cười, cùng tôi chào đón một ngày gió bão dừng chân vì mệt nhoài"
+
+Vào thời đại mà bạo quân liếc nhìn vạn dân dưới tòa tháp cao, những người ôm ấp tự do đã từng gọi nhau như thế này.
+Những con người tìm kiếm sự can đảm, ước mơ được vùng dậy dệt nên những ẩn số như một ám hiệu.
+Những bông hoa cô đơn mong manh năm xưa nở rộ trong gió, dần dần nở đầy núi rừng hiu hắt,
+Cứ như thế, những thần dân đã từng thờ ơ, phiêu bạt, trôi theo dòng nước dần trở thành anh hùng hào kiệt kiêu ngạo và không sợ hãi.
+Vị vua cau có cố thủ trên ngọn tháp ngày càng nhỏ bé và khúm núm, không thể dẹp yên được cơn thủy triều đang dâng trào mãnh liệt.
+
+"Tặng bạn đóa hoa vô danh, mong cô ấy sẽ trao vương miện anh hùng cho chúng ta, bảo vệ mùa xuân và bầu trời này"
+"Cầu mong cho nắng mai hóa thành tinh linh, cùng chúng ta tận hưởng ngọn gió tự do thực sự"
+
+Trên phế tích của ngọn tháp cổ xưa, dưới sự reo hò của mọi người vì có được cuộc sống mới, trong lời hát ca và nước mắt,
+Một chiến binh tóc đỏ quay lưng về vị thần mới sinh, ẩn mình trong đám đông như những hạt mưa bị vùi trong con sóng.
+Anh ấy chính là người tiên phong dùng Hoa Gió để truyền đạt khẩu hiệu, dệt nên ánh ban mai trong đêm dài tăm tối trước bình minh.
+Tên của chiến binh ấy đã sớm bị chôn vùi theo thời gian. Nhưng huyền thoại về anh, vẫn mãi được truyền tụng trong thơ ca.
+Một ngàn năm sau, một kỵ sĩ tóc đỏ khác tiếp tục nối bước theo anh, soi sáng giai đoạn lịch sử tăm tối của dòng dõi hoàng tộc.
+Cũng như vận mệnh của "Hoa Gió": Dưới áp lực nặng nề, khi không thể không vươn lên, mới có thể nở rộ đẹp đẽ,
+Số mệnh của gia tộc này, e là vĩnh viễn sẽ không thay đổi: Vùi mình trong đêm đen tăm tối, để mang lại ánh lửa soi sáng muôn nơi...
+
+Hình tượng của "Hoa Gió" dần biến mất theo dòng chảy của thời gian.
+Tên của nó trong những năm tháng hòa bình, lại mang hàm ý về tình yêu và niềm reo ca.
+Đây có lẽ là sự khao khát của những người đã kiên định bước đi trong thời đại đen tối...
+
+"Đóa hoa nở rộ vốn dĩ nên tượng trưng cho tình yêu tượng trưng cho mùa xuân đang đến"
+"Chứ không còn là khói lửa chiến tranh, là ám hiệu của những người phất cờ khởi nghĩa...
+
+- Cửa hàng sự kiện Lời Mời Của Hoa Gió - Nguyên Liệu Tinh Luyện "Ngọn Gió Nhìn Thấy Được" có mặt trong cửa hàng.

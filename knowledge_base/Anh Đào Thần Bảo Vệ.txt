@@ -1,0 +1,27 @@
+# Anh Đào Thần Bảo Vệ
+
+## Tổng Quan
+
+type: Hệ Thống Trò Chơi
+group: Hệ Thống Hiến Tế
+region: Inazuma
+
+Anh Đào Thần Bảo Vệ là Hệ Thống Hiến Tế có thể được nâng cấp bằng Ấn Lôi. Có thể hiến tế tại Anh Đào Thần trong Đền Narukami, Đảo Narukami, Inazuma.
+
+Anh Đào Thần Bảo Vệ mở khóa khi đạt Hạng Mạo Hiểm 30 và hoàn thành nhiệm vụ Kế Hoạch Thoát Khỏi Đảo Ritou.
+
+Trước Phiên Bản 2.4, cấp tối đa bị giới hạn ở 20, 30 và 40 lần lượt trong các Phiên bản 2.0, 2.1 và 2.2-2.3 mặc dù vẫn có thể thu thập được Ấn Lôi. Trò chơi sẽ ngăn người chơi hiến tế và hiển thị lỗi "Đã đạt giới hạn cấp tối đa cho phiên bản này."
+
+- Giáo Trình: Anh Đào Thần Bảo Vệ
+
+## Phần Thưởng
+
+Mỗi cấp hiến tế yêu cầu 25. Cần tổng cộng 1,250 Ấn Lôi để đạt cấp hiến tế tối đa. Khi đạt cấp tối đa sẽ nhận được thành tựu.
+
+Các cấp trừ cấp 40 và 50 sẽ thưởng:
+
+Cấp 40 sẽ thưởng:
+
+Cấp 50 sẽ thưởng:
+
+Mỗi cấp tương ứng sẽ thưởng:

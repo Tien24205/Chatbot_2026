@@ -1,0 +1,16 @@
+# HP
+
+## Tổng Quan
+
+type: Thuộc Tính
+type2: Chiến Đấu
+type3: Hệ Thống Trò Chơi
+
+Máu hoặc Điểm Sinh Lực được viết tắt trong game là HP, là thước đo dạng về mức độ sinh lực của một nhân vật. Nếu mức HP của nhân vật về 0, nó sẽ mất khả năng chiến đấu và nhân vật kế tiếp trong đội sẽ được đưa ra trận. Nếu tất cả nhân vật trong đội chết, người chơi sẽ tự động hồi sinh tại Điểm Dịch Chuyển gần nhất và nhân vật sẽ có sắn 35% HP. HP có thể được phục hồi bằng cách ăn thực phẩm, sử dụng thiên phú, nội tại của nhân vật và vũ khí hoặc thông qua Thất Thiên Thần Tượng.
+- Khi toàn bộ đội của người chơi ngã xuống, hiệu ứng âm thanh sau sẽ phát:
+- Bên ngoài thế giới: Toàn Bộ Nhân Vật Trong Đội Đã Ngã Xuống
+- Trong bí cảnh: Khiêu Chiến Thất Bại
+Thuộc tính liên quan trong game là Giới Hạn HP — HP tối đa của một nhân vật. Giới Hạn HP có thể tăng lên thông qua nâng cấp nhân vật của bạn hoặc trang bị Thánh Di Vật và vũ khí cung cấp HP hoặc %Tăng HP. Tăng cấp cho vũ khí và thánh di vật này sẽ tăng lượng HP mà chúng cung cấp. Tất cả các Thánh Di Vật thuộc loại Hoa Sự Sống sẽ tăng HP, nên nâng cấp thứ này là một cách tốt để tăng HP.
+\text{Giới Hạn HP} = \text{HP Cơ Bản}_\text{Nhân Vật} \times (1 + \% \text{ Tăng HP}) + \text{Tăng HP Tự Nhiên}
+
+Khi Giới Hạn HP của nhân vật thay đổi bằng các cách khác ngoài việc tăng cấp nhân vật như đã nói ở trên, HP hiện tại sẽ được tăng để duy trì cùng một mức tỷ lệ phần trăm trên tổng HP.

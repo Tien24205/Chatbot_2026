@@ -1,0 +1,24 @@
+# Rèn
+
+## Tổng Quan
+
+type: Phương Thức Chế Tạo
+type2: Hệ Thống Trò Chơi
+
+Rèn là một Phương Thức Chế Tạo nơi người chơi có thể sử dụng Quặng Rèn để rèn Nguyên Liệu Cường Hóa Vũ Khí, sử dụng để cường hóa Vũ Khí. Cũng có thể sử dụng (Phôi Bắc Lục, Phôi Trung Địa hoặc Phôi Biên Giới) và Quặng Rèn để rèn Vũ Khí 4 sao.
+
+## Rèn
+
+Ngoài các nguyên liệu yêu cầu, việc rèn cũng cần một khoảng thời gian nhất định và Mora để bắt đầu rèn. Nếu rèn nhiều vật phẩm thì thời gian rèn và số Mora cần dùng sẽ cộng dồn.
+
+Tất cả các địa điểm thợ rèn trong game (Wagner ở Mondstadt, Lão Zhang ở Liyue, Hajime ở Inazuma, Ahangar ở Sumeru, Estelle ở Fontaine, các địa điểm rèn đặt trong Ấm Trần Ca, v.v.) được coi là cùng một hệ thống, ngoại trừ việc các mảnh ma thuật không thể được sử dụng trong Ấm Trần Ca. Vật phẩm có thể được rèn ở một địa điểm rồi nhận tại địa điểm khác.
+
+## Hàng Chờ Rèn
+
+Khi tăng Hạng Mạo Hiểm sẽ tự động mở khóa thêm Hàng Chờ Rèn cho phép chế tạo nhiều vật phẩm cùng lúc. Có thể chia khối lượng chế tạo của cùng một vật phẩm được chế tạo nhiều lần vào 4 hàng chờ để tăng tốc thời gian chế tạo.
+
+Có tổng cộng 4 Hàng Chờ Rèn. Hàng đầu tiên được mở khóa khi bắt đầu trò chơi, hàng thứ hai ở Adventure Rank 5, hàng thứ ba ở Adventure Rank 10, và hàng thứ tư cũng là hàng cuối cùng được mở khóa ở Adventure Rank 15.
+
+Có một giới hạn hằng ngày ẩn là 400.000 EXP Vũ Khí tương đương với tổng lượng Tạp Khoáng Tinh Đúc, Lương Khoáng Tinh Đúc và Ma Khoáng Tinh Đúc có thể rèn. Ví dụ, giới hạn này có thể đạt được bằng cách rèn 40 quặng Ma Khoáng Tinh Đúc hoặc bằng một số tổ hợp của cả 3 loại (ví dụ: kết hợp 100 Tạp Khoáng, 90 Lương Khoáng và 18 Ma Khoáng). Giới hạn này không áp dụng khi chế tạo Khoáng sử dụng Mảnh Ma Tinh và Nhựa Nguyên Chất.
+
+Cố gắng rèn thêm sau khi đạt giới hạn sẽ hiển thị thông báo "Hôm nay không thể luyện" ngay cả khi tất cả các hàng chờ đều trống.

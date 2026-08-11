@@ -1,0 +1,31 @@
+# Câu Chuyện Lữ Hành
+
+## Cách Mở
+
+type: Hệ Thống Trò Chơi
+
+- Tổng Quan: Câu Chuyện Lữ Hành là hệ thống nội dung vĩnh viễn, bao gồm các Giai Thoại của nhân vật có thể chơi được, có thể khám phá trong thế giới mở.
+
+Sau khi đạt Hạng Mạo Hiểm 28 và hoàn thành nhiệm vụ, đến nói chuyện với Katheryne, hoàn thành nhiệm vụ để nhận, giúp theo dõi giai thoại và nhận thưởng.
+
+Để mở khóa Câu Chuyện Lữ Hành Nod-Krai, hoàn thành bước thứ 24 Đến Hội Đồng Bí Mật trong nhiệm vụ.
+
+Khuyến nghị hoàn thành để có trải nghiệm cốt truyện tốt hơn.
+
+## Tiêu Chí Xuất Hiện Giai Thoại
+
+Một số Giai Thoại yêu cầu đáp ứng điều kiện mở khóa, có thể là tương tác với Đài Ghép hay Bí Cảnh. Có thể xem các điều kiện này trong.
+
+Các vùng có xuất hiện Giai Thoại sẽ hiển thị trong thanh tab của menu Bản Đồ với vị trí cụ thể được đánh dấu bằng biểu tượng nhân vật. Sẽ không hiển thị các Giai Thoại chưa được đánh dấu.
+
+Bên cạnh Sự kiện Câu Chuyện Lữ Hành, có thể xuất hiện một số lượng Giai Thoại trong một ngày. Sẽ không xuất hiện giai thoại nếu nhân vật hoặc địa điểm bị chiếm dụng. Mỗi ngày chỉ xuất hiện 1 Giai Thoại cho mỗi nhân vật.
+
+## Duyên Vẽ Ước Nguyện
+
+Hoàn thành nhiệm vụ sẽ mở.
+
+Có thể tương tác với tại Đền Narukami, cầu nguyện cho nhân vật để được gặp nhân vật đó trong giai thoại, cũng sẽ giúp tăng tỉ lệ mở khóa Giai Thoại cho nhân vật đã chọn trong một khoảng thời gian.
+
+Sau khi cầu nguyện, cần đợi 2 ngày trước khi có thể cầu nguyện lại. Thời gian chờ đếm ngược còn lại có thể xem trong, trên bản đồ hoặc tại đền Narukami.
+
+Không thể dùng Duyên Vẽ Ước Nguyện để cầu nguyện cho những giai thoại mà giai thoại đó yêu cầu người chơi đáp ứng những điều kiện nhất định.

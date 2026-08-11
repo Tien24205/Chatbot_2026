@@ -1,0 +1,11 @@
+# Ước Nguyện Đỏ Thẫm
+
+## Tổng Quan
+
+type: Hệ Thống Trò Chơi
+
+Ước Nguyện Đỏ Thẫm là một hệ thống tại Long Tích Tuyết Sơn cho phép người chơi nhận Mã Não Đỏ Thẫm bằng cách hoàn thành các nhiệm vụ định kỳ. Hệ thống này được mở khóa khi Cây Chịu Lạnh đạt Cấp 8. Vào mỗi Thứ Hai và Thứ Sáu theo máy chủ của người chơi, 5 Ước Nguyện Đỏ Thẫm sẽ xuất hiện khắp Long Tích Tuyết Sơn. Hoàn thành một lần Ước Nguyện Đỏ Thẫm sẽ thưởng một Mã Não Đỏ Thẫm sau khi hoàn thành.
+
+Các Ước Nguyện Đỏ Thẫm có thể được thực hiện trong Chế Độ Nhiều Người Chơi, những người tham gia đã mở khóa Ước Nguyện Đỏ Thẫm trong thế giới của riêng mình và hỗ trợ hoàn thành nhiệm vụ cũng sẽ nhận được Mã Não Đỏ Thẫm. Tuy nhiên, mỗi người chơi vẫn chỉ có thể nhận tổng cộng 5 Mã Não Đỏ Thẫm từ Ước Nguyện Đỏ Thẫm trong mỗi lần làm mới.
+
+Sau khi Cây Chịu Lạnh đạt Cấp 12, Ước Nguyện Đỏ Thẫm sẽ không còn, nhưng Mã Não Đỏ Thẫm thừa vẫn sẽ được giữ lại.

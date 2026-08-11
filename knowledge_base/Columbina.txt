@@ -1,0 +1,45 @@
+# Columbina
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+quality: 5
+weapon: Pháp Khí
+element: Thủy
+teamBonus: Nguyệt Triệu
+name: Columbina
+realname: Columbina Hyposelenia
+birthday: 14 tháng 01
+constellation: Ngự Nguyệt Cáp
+region: Nod-Krai
+region2: Snezhnaya
+regionNote2: trong cốt truyện
+location: Nod-Krai
+affiliation: Sương Nguyệt
+affiliation2: Dòng Dõi Sương Nguyệt
+affiliationNote2: trước đây
+affiliation3: Fatui
+affiliationNote3: trước đây
+affiliation4: 11 Quan Chấp Hành Của Fatui
+affiliationNote4: trước đây
+affiliation5: Ba Mặt Trăng
+group: Thần
+dish: Ảo Ảnh Ánh Trăng
+namecard: Khi Nào
+obtain: Cầu Nguyện Nhân Vật
+event_name: Cùng Trăng Say Giấc
+releaseDate: 2026-01-14 11:00:00 GMT+8
+title: Không Nguyệt Trở Về
+title2: Thiếu Nữ Mặt Trăng
+derivedFrom: Relative Type|synthetic|Canon| Dark|ref=Quest|Mặt Tối Của Ký Ức
+relatedCreation: Relative Type|synthetic|Aria| Dark|ref=Quest|Mặt Tối Của Ký ỨcRelative Type|synthetic|Sonnet| Dark|ref=Quest|Mặt Tối Của Ký Ức
+voiceEN: w|Emi Lo
+voiceCN: Yang Menglu (zh|杨梦露)
+voiceJP: w|Lynn (voice actress)|Lynn
+voiceKR: w|ko:유영 (성우)|Yu Yeong (ko|유영)
+
+## Tổng Quan
+
+Columbina Hyposelenia là một nhân vật hệ chơi được trong Genshin Impact.
+
+Được biết đến là Nguyệt Thần của Nod-Krai, Kuutar của Dòng Dõi Sương Nguyệt và The Damselette, cựu Quan Chấp Hành Thứ Ba trong 11 Quan Chấp Hành của Fatui, cô được sinh ra giữa một thế giới không mấy dịu dàng và phải chịu cảnh cô đơn ngay từ những khoảnh khắc đầu tiên. Columbina đã từng lang thang trong những vòng lặp vô định và những mảnh ký ức vụn vỡ, nhưng rồi chính những mối nhân duyên cùng niềm hy vọng nhỏ nhoi đã giúp cô tìm lại chính mình. Mặc dù cô sở hữu nhiều cái tên khác nhau, nhưng đối với những người bạn thân thiết, cô chính là Columbina Hyposelenia và cô cũng thích cái tên này hơn.

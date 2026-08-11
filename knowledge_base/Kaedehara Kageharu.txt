@@ -1,0 +1,21 @@
+# Kaedehara Kageharu
+
+## Thông Tin Cơ Bản
+
+type: Đề Cập
+deceased: Quá Khứ
+region: Inazuma
+affiliation: Trường Phái Isshin
+ancestry: Nhà Kaedehara
+father: Kaedehara Hisamichi
+child: Kaedehara Kazuha
+childNote: con trai
+relative: Kaedehara Yoshinori
+relativeNote: ông
+voiceEN: Andrew Eales
+
+- Tổng Quan: Kaedehara Kageharu là cha của Kaedehara Kazuha, người đã chết trước khi các sự kiện trong trò chơi bắt đầu. Ông xuất hiện trong ký ức của Kazuha trong.
+
+- Tiểu Sử: (Sẽ được bổ sung.)
+
+- Ngoại Hình: (Sẽ được bổ sung.)

@@ -1,0 +1,27 @@
+# Capitano
+
+## Thông Tin Cơ Bản
+
+type: NPC
+region: Natlan
+region2: Snezhnaya
+element: Băng
+affiliation: Fatui
+affiliation2: 11 Quan Chấp Hành Fatui
+title: The Captain
+title2: Thứ 1 trong 11 Quan Chấp Hành của Fatui
+voiceEN: [[imdb:nm3803047
+Chris Tergliafera]]<ref name: "lazzo video description">YouTube: Chương Teyvat - Vở Kịch Đêm Đông (Mô tả video)
+voiceCN: Wang Wei (zh|王玮)
+voiceJP: w|Ken Narita|Narita Ken (ja|成田剣)
+voiceKR: w|ko:민응식|Min Eung-sik (ko|민응식)
+
+## Tổng Quan
+
+Il Capitano, còn được biết đến với mật danh "The Captain," là Quan Chấp Hành Thứ 1 trong 11 Quan Chấp Hành Fatui.
+
+Anh hiện đang tham gia vào cuộc chiến vô tận ở Natlan.
+
+Anh xuất hiện lần đầu tiên trong Chương Teyvat - Vở Kịch Đêm Đông bên cạnh các Quan Chấp Hành đồng nghiệp của mình.
+
+- là một nhân vật quan trọng trong, đó cũng là nơi mà các mật danh và bí danh của Quan Chấp Hành được bắt nguồn.

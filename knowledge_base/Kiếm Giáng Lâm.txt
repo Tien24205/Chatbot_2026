@@ -1,0 +1,71 @@
+# Kiếm Giáng Lâm
+
+## Thông Tin Cơ Bản
+
+id: 11412
+type: Kiếm Đơn
+releaseDate: 2020-09-28
+quality: 4
+base_atk: 39b
+2nd_stat_type: Tấn Công
+2nd_stat: 7,7%
+series: Kẻ Đổ Bộ
+passive: Giáng Thế
+effect: Chỉ có hiệu lực khi chơi trên: "PlayStation" Sau khi Tấn Công Thường và Trọng Kích đánh trúng kẻ địch, có 50% tỉ lệ gây sát thương diện rộng bằng 200% Tấn Công. Hiệu quả này mỗi 10s chỉ kích hoạt 1 lần Ngoài ra, nếu Nhà Lữ Hành trang bị Kiếm Giáng Lâm, tấn công sẽ tăng 66 điểm.
+obtain: Nhận được qua Thư trên PS4/PS5, có thể nhận được trên PC/Mobile thông qua [[Tài Khoản#Liên Kết Tài Khoản
+eff_att1: Tấn Công
+eff_att2: Sát Thương Vật Lý
+eff_att3: Sát Thương Diện Rộng
+eff_att4: Hiệu Ứng Kích Hoạt Bằng Tấn Công Thường
+maxrank: 1
+
+- Tổng Quan: Kiếm Giáng Lâm là vũ khí Kiếm Đơn 4 sao. Nó là một phần trong Dòng Vũ Khí Kẻ Đổ Bộ, chỉ có thể nhận được cho PS4 và PS5 qua hệ thống Thư khi nhà lữ hành bắt đầu cuộc hành trình của mình.
+
+## Câu Chuyện
+
+Đây là minh chứng cho việc bạn dùng cách thức đặc biệt để đến với thế giới này.
+
+Đây là thanh kiếm người khiêu chiến "thế giới" mới cầm nổi.
+
+Lần trước khi kiếm vung lên, là mọi người muốn níu giữ thế giới bị hủy diệt.
+
+Thế giới ấy là ngôi nhà duy nhất và sau cùng của họ.
+
+Điều thanh kiếm này muốn khiêu chiến chính là số mệnh hủy diệt nó hướng tới.
+
+—Nhưng cầm kiếm khiêu chiến với quy luật "sinh giả tất diệt" của vũ trụ,
+
+E rằng cũng nực cười như cầm thương dài giục ngựa đánh nhau với cối xay gió...
+
+Như đã từng nói, đối mặt với số mệnh cuối cùng, bóng tối sâu thẳm đã nuốt muôn vàn ánh sao,
+
+Liệu cầm vũ khí gì mới thỏa đáng? Quả nhiên vẫn là thanh trường kiếm này.
+
+Chí ít, nó đủ để người ta dũng cảm đối mặt với vận mệnh thế giới mà không sợ hãi ký ức...
+
+Lần này khi kiếm vung lên, là câu trả lời ngươi đang tìm khi bị thế giới che giấu.
+
+Trong một thế giới như thế, dùng vũ khí này chẳng sao cả.
+
+Cũng không phải vì ánh mắt u ám của vũ trụ chuyển hướng đến những góc khác, hay đây là phong cách của thế giới này,
+
+Mà vì có lẽ, "truy tìm" chính là nguyên nhân ngươi đến nơi này.
+
+Trước khi "quá khứ" bị chôn vùi và "tương lai" xuất hiện,
+
+Khi "hiện tại" đang biến mất, ngươi có thể tin vào thanh kiếm này.
+
+Xem nó như vũ khí phòng thân cũng được, dù gì nó cũng vì những kẻ như ngươi,
+
+Binh khí chế tạo vì "kẻ khiêu chiến", "người truy tìm".
+
+Mang theo nó chu du ở thế giới này,
+
+Sau đó chém tan những vấn đề và thách thức mà "thế giới" đã để lại cho ngươi.
+
+## Lưu Ý Về Cơ Chế
+
+- Người chơi ở nền tảng khác có thể nhận được vũ khí này bằng cách đăng nhập vào game trên PS4 hoặc PS5 và kích hoạt chức năng liên kết tài khoản. Tuy nhiên, hiệu ứng của vũ khí (Giáng Lâm) chỉ có thể kích hoạt khi chơi trên PlayStation.
+- Chỉ được nhận một lần, vì thế, cấp tinh luyện tối đa là 1.
+
+- Nhận được khi lần đầu đăng nhập vào Genshin Impact trên PS4 hoặc PS5.

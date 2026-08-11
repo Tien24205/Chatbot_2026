@@ -21,7 +21,7 @@ from google.genai import types
 
 from . import config
 from .gemini import client
-from .retry import with_retry
+from .retry import RateLimited, with_retry
 
 # Gemini giới hạn số nội dung mỗi request. Chia lô nhỏ cho an toàn; nếu lô lỗi
 # thì tự lùi về gọi từng cái một.
@@ -58,8 +58,19 @@ def embed_documents(texts: list[str], progress: bool = False) -> list[list[float
         batch = texts[start : start + BATCH_SIZE]
         try:
             vectors = _embed(batch, "RETRIEVAL_DOCUMENT")
+        except RateLimited:
+            # KHÔNG được lùi về gọi lẻ khi nguyên nhân là hết hạn mức.
+            #
+            # Bản trước bắt `except Exception`, nên một lô bị 429 sẽ sinh ra thêm
+            # 20 lệnh gọi lẻ — mỗi lệnh lại 429 và lại thử 3 lần. Đo được hậu quả
+            # thật: một lần nạp 1.994 chunk đáng lẽ tốn 100 request đã đốt sạch
+            # hạn mức 1.000 request/ngày của free tier.
+            #
+            # Hết hạn mức là tình trạng của TOÀN BỘ tài khoản, không phải lỗi của
+            # một đoạn văn bản cụ thể, nên gọi lẻ không chẩn đoán được gì.
+            raise
         except Exception:
-            # Lô lỗi -> gọi lẻ từng cái để biết chính xác cái nào hỏng.
+            # Lô lỗi vì lý do khác -> gọi lẻ từng cái để biết chính xác cái nào hỏng.
             vectors = [_embed([t], "RETRIEVAL_DOCUMENT")[0] for t in batch]
         out.extend(vectors)
         if progress:

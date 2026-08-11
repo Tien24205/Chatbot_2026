@@ -1,0 +1,39 @@
+# Ororon
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+element: Lôi
+weapon: Cung
+quality: 4
+name: Ororon
+birthday: 14 tháng 10
+constellation: Dạ Bức
+region: Natlan
+affiliation: Chủ Nhân Gió Đêm
+affiliationLabel: Mictlan
+affiliation2: Fatui
+affiliationNote2: hợp tác
+dish: Cá Trích Sốt Mật
+namecard: Cảnh Đêm
+obtain: Cầu Nguyện
+releaseDate: 2024-11-20 11:00:00 GMT+8
+title: Gió Đêm U Ám
+title2: Dơi Sương Khói Của Mictlan
+voiceEN: [[imdb:nm12322393
+Nathan Nokes]]<ref name: "A Name Forged in Flames desc">YouTube: Video Giới Thiệu Dẫn Lửa - Danh Tiếng Rèn Từ Lửa (Mô Tả Video)
+voiceCN: Liang Dawei (zh|梁达伟)
+voiceJP: w|Takashi Kondō|Kondo Takashi (ja|近藤隆)
+voiceKR: Seo Joung-ik (ko|서정익)
+
+## Tổng Quan
+
+Ororon là một nhân vật hệ chơi được trong Genshin Impact.
+
+Được sinh ra với linh hồn bị "khiếm khuyết", Ororon là một người kì lạ đến từ Chủ Nhân Gió Đêm, anh đang sở hữu Tên Cổ. Ororon sống một cuộc đời bình dị bên ngoài khu đất của bộ tộc, dành thời gian trồng trọt và nuôi Bọ Phlogiston.
+
+## Có Mặt Trong
+
+- Cầu nguyện thường Du Hành Thế Gian (Vĩnh Viễn) từ Phiên Bản 5.3
+- Tất cả sự kiện Cầu Nguyện Nhân Vật và Cầu Nguyện Vũ Khí từ Phiên Bản 5.3
+- Sự Kiện Giải Đấu Vinh Quang (28 tháng 03, 2025 – 14 tháng 04, 2025)

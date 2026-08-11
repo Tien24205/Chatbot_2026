@@ -1,0 +1,12 @@
+# Furusawa
+
+## Thông Tin Cơ Bản
+
+region: Inazuma
+affiliation: Hiệp Hội Yashiro
+title: Người Đại Diện Hiệp Hội Yashiro
+type: NPC
+spouse: Yuuko
+sex: Nam
+
+- Tổng Quan: Furusawa là một NPC Độc Quyền Nhiệm Vụ xuất hiện trong.

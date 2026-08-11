@@ -1,0 +1,12 @@
+# Ly Của Biển Nguyên Sơ
+
+## Thông Tin Cơ Bản
+
+type: Nhóm Vật Phẩm
+type2: Nguyên Liệu Đột Phá Vũ Khí
+day1: Thứ Tư
+day2: Thứ Bảy
+day3: Chủ Nhật
+source1: Dư Âm Thủy Triều
+
+- Tổng Quan: Ly Của Biển Nguyên Sơ là nhóm vật phẩm dùng đột phá vũ khí.

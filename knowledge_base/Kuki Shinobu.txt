@@ -1,0 +1,30 @@
+# Kuki Shinobu
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+quality: 4
+weapon: Kiếm Đơn
+element: Lôi
+name: Kuki Shinobu
+birthday: 27 tháng 07
+constellation: Phiền Não Ngải
+region: Inazuma
+affiliation: Gia Tộc Kuki
+affiliation2: Bang Arataki
+affiliation3: Đền Narukami
+affiliationNote3: trước kia
+dish: Vũ Điệu Cơm Cuộn Trứng
+namecard: Lưới
+obtain: Cầu Nguyện
+releaseDate: 2022-06-21
+title: Gạt Bỏ Phiền Não
+title2: Phụ tá kiêm quản lý của Bang Arataki
+voiceEN: w|Kira Buckland
+voiceCN: Yang Ning (zh|杨凝)
+voiceJP: w|Kaori Mizuhashi|Mizuhashi Kaori (ja|水橋 かおり)
+voiceKR: w|ko:김율|Kim Yool (ko|김율)
+mother: Cô Kuki
+sibling: Miyuki (Chị Gái)
+
+- Tổng Quan: Kuki Shinobu là một nhân vật hệ Lôi chơi được trong Genshin Impact. Cô là phụ tá của Arataki Itto kiêm luôn quản lý Bang Arataki.

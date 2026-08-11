@@ -1,0 +1,12 @@
+# Gekiga
+
+## Thông Tin Cơ Bản
+
+type: Nhóm Vật Phẩm
+type2: Nguyên Liệu Đột Phá Vũ Khí
+day1: Thứ Tư
+day2: Thứ Bảy
+day3: Chủ Nhật
+source1: Sân Vườn Sunagare
+
+- Tổng Quan: Gekiga là nhóm vật phẩm dùng để đột phá vũ khí.

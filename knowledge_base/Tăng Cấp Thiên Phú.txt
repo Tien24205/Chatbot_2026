@@ -1,0 +1,21 @@
+# Tăng Cấp Thiên Phú
+
+## Tổng Quan
+
+type: Chiến Đấu
+type2: Hệ Thống Trò Chơi
+
+Tăng Cấp Thiên Phú chỉ hiệu quả tăng cấp Thiên Phú Chiến Đấu đến từ bên ngoài, như từ thiên phú của nhân vật khác, Cung Mệnh, hay hiệu quả chiến đấu trong một số Sự Kiện nhất định, tối đa có thể đạt cấp thiên phú 15.
+
+- Sự Kiện: Cho đến phiên bản 5.5, không có Sự Kiện cung cấp buff tăng cấp tấn công thường.
+
+## Sự Kiện
+
+Cho đến phiên bản 5.5, có những sự kiện sau cung cấp buff tăng cấp kỹ năng nguyên tố:
+- Lộ Trình Nguy Hiểm - có chiến thuật tăng 1 cấp kỹ năng nguyên tố và kỹ năng nộ của tất cả các thành viên trong đội.
+
+## Sự Kiện
+
+Cho đến phiên bản 5.5, có những sự kiện sau cung cấp buff tăng cấp kỹ năng nộ:
+- Đĩa Dẫn Năng Lượng - có chiến thuật tăng 1 cấp kỹ năng nộ của tất cả các thành viên trong đội.
+- Lộ Trình Nguy Hiểm - có chiến thuật tăng 1 cấp kỹ năng nguyên tố và kỹ năng nộ của tất cả các thành viên trong đội.

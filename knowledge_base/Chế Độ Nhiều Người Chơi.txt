@@ -1,0 +1,81 @@
+# Chế Độ Nhiều Người Chơi
+
+## Tổng Quan
+
+type: Hệ Thống Trò Chơi
+
+Chế Độ Nhiều Người Chơi (hay còn biết là "Chế độ Co-Op") được mở khóa khi Hạng Mạo Hiểm đạt 16. Trong Chế độ Co-Op, có thể có một Đội tạo bởi tới bốn Lữ hành du hành cùng nhau và chiến đấu trong Bí Cảnh, tiêu diệt quái, tìm kho báu, tận hưởng thế giới Teyvat cùng nhau.
+
+Có thể chơi đa nền tảng giữa PC, Mobile (iOS và Android), PS4, miễn là chung một máy chủ (America, EU, hoặc Asia).
+
+## Những quy tắc và hạn chế
+
+Các hạn chế chế độ Co-Op:
+- Chỉ có thể tham gia thế giới của người chơi khác có Cấp thế giới và phạm vi hạng mạo hiểm thấp hơn hoặc bằng bản thân.
+- Tuy vậy, người chới có thể ghé thăm Ấm Trần Ca của bạn bè thuộc bất kỳ Cấp Thế Giới nào.
+- Nếu đang thực hiện các Nhiệm Vụ Ma Thần hoặc Nhiệm Vụ Truyền thuyết, hoặc bất kì nhiệm vụ nào ảnh hưởng đến thế giới, người chơi không thể tham gia Co-Op. (Một số nhiệm vụ nhất định có thể tham gia vào Chế độ Co-Op giữa các bước.)
+- Nếu một nhiệm vụ hiện đang thực hiện thì chỉ cần hoàn thành nó, và sẽ mất một chút thời gian trước khi có thể tham gia vào. Đăng xuất và đăng nhập lại sẽ giúp giảm thời gian đợi.
+- Khi Chế độ Co-Op bị ngắt, bất kì hành động nào yêu cầu vào chế độ Co-Op, kể cả khi có thể chơi được solo sẽ không thể tham gia được cho đến khi Chế độ Co-Op được bật lại.
+
+Các quy tắc chế độ Co-Op:
+- Nếu hai người chơi Co-Op với nhau, mỗi người chơi có thể chọn hai nhân vật và đổi giữa chúng trong chiến đấu giống như trong solo. Nếu ba người chơi cùng tham gia,người chơi chủ thế giới được chọn hai nhân vật trong khi những người khác chỉ được một. Với bốn người chơi trong Co-Op, mỗi người chơi chỉ có một nhân vật sử dụng trong chiến đấu.
+- Người chơi có thể thay đổi (các) nhân vật cho chiến đấu thông qua Menu Paimon - Thiết Lập Đội khi không tham chiến.
+- Kẻ thù sẽ tự động điều chỉnh độ khó phù hợp với số người chơi hiện có.
+
+Mặc dù đây không phải là quy tắc trò chơi, việc sử dụng các tài nguyên có hạn, chẳng hạn như quặng hoặc tiêu diệt một số quái nhất định mà không được phép của chủ thế giới sẽ bị coi là bất lịch sự. Một số người gọi nó là ăn cắp.
+
+## Các hoạt động có thể làm
+
+Người chơi có thể làm:
+- Bí Cảnh và Địa Mạch Sinh Thành
+- Khi trong Bí Cảnh, nhân vật trong nhóm không được trùng lặp. (ví dụ nếu xuất hiện Amber trong nhóm thì những người khác không thể chọn Amber.)
+- Sau khi hoàn thành Địa Mạch Sinh Thành, Bí Cảnh, tiêu diệt Thủ Lĩnh, mỗi người chơi có thể nhận Hoa Địa Mạch hoặc Cổ Thụ Hóa Thạch bằng cách sử dụng Nhựa Nguyên Chất để nhận thưởng.
+- Uỷ Thác (có thể thực hiện nhưng không thể nhận thưởng khi hoàn thành cả tất cả, nếu cần tương tác với NPC thì chỉ có người chơi chủ thế giới mới có thể bắt đầu Uỷ Thác.)
+- Nhiệm Vụ Thế Giới (không tính các nhiệm vụ đột phá hạng mạo hiểm)
+- Săn tìm và đánh bại quái và Thủ Lĩnh trong thế giới (trừ Phong Ma Long ).
+- Bao gồm cả đánh bại Hilichurl kỳ lạ.
+- Thu thập Nguyên Liệu
+- Một số nguyên liệu người chơi khác có thể nhặt, ví dụ như quặng (trừ Thạch Phách) và đồ rơi ra từ Quái Thường và Quái Tinh Anh
+- Các thực vật tìm thấy không thể được thu thập bởi nhiều người chơi, tức là chỉ có thể được thu thập một lần và bởi một người.
+- Nhận thưởng (chỉ chủ thế giới mới có thể xem Danh Vọng)
+- Nấu Nướng
+- Đổi nhân vật trong đội.
+- Được hồi và cộng hưởng nguyên tố từ Thất Thiên Thần Tượng
+- Nhận Thành Tựu
+- Xem đánh dấu bản đồ riêng.
+- Hoàn thành các cơ chế kích hoạt (chủ thế giới mới có thể kích hoạt)
+- Sử dụng Phản Ứng Nguyên Tố với nhân vật khác
+- Một số nhân vật có thể gây hiệu ứng lên người chơi khác.
+
+Người chơi chỉ có thể làm trong Co-Op:
+- Sự Kiện Co-Op.
+- Đạt được số Thành Tựu nhất định, và Rương Cao Cấp
+- Một số sự kiện nhất định yêu cầu "chế độ khiêu chiến đặc biệt" và sẽ tự động chuyển sang chế độ Co-Op. Cái này sẽ không ghép bạn với người chơi khác nhưng bạn có thể cho phép một số người chơi tham gia và chơi cùng bạn.
+
+## Các hoạt động không thể
+
+Các hoạt động bạn không thể (Nhưng chủ thế giới có thể)
+- Kích hoạt di tích nguyên tố
+- Mở Rương của chủ thế giới hoặc nhặt Ấn
+- Nhặt Thần Đồng của chủ thế giới
+- Sử dụng La Bàn Tầm Bảo
+- Bắt đầu các sự kiện (ví dụ mở cửa Bí cảnh)
+- La Hoàn Thâm Cảnh
+- Chỉnh thời gian trong ngày
+- Được ban phước bởi Thất Thiên Thần Tượng sẽ không tăng hiệu quả chữa lành,tuy nhiên bạn vẫn có thể hồi máu hoặc cộng hưởng nguyên tố.
+- Vào Ấm Trần Ca của chủ thế giới
+
+Các hoạt động bạn không thể (bao gồm cả chủ thế giới)
+- Nói chuyện và tương tác với NPC, kích hoạt các Thất Thiên Thần Tượng mới
+- Dừng game ở menu, kể cả khi trong phòng Co-Op một mình.
+- Một số sự kiện nhất định sẽ chỉ hoàn thành ở chế độ chơi đơn
+- Các Nhiệm Vụ Ma Thần
+- Sử dụng nội tại của nhân vật của người chơi khác.
+
+## Tỉ lệ căn chỉnh Co-Op
+
+- Bảng ở trên cho thấy được mối liên hệ giữa giữa số người chơi và HP, ATK của kẻ thù
+- Trong thể giới, các thuộc tính của kẻ thù sẽ dựa trên số người trong thế giới, dù có người trong Bí Cảnh đi chăng nữa.
+- Tuy vậy, trong Bí Cảnh, các thuộc tính sẽ dựa vào số người chơi trong Bí Cảnh mà thôi.
+- Sát thương từ Địa Mạch Bất Thường và Vòng Sáng không tỉ lệ với người chơi.
+- Phần thưởng EXP Yêu Thích sẽ được nhân đôi trong Co-Op để bù cho số nhân vật mỗi người được dùng.

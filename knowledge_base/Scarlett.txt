@@ -1,0 +1,16 @@
+# Scarlett
+
+## Thông Tin Cơ Bản
+
+type: NPC Nhiệm Vụ
+location: Mondstadt
+voiceEN: [[imdb:nm9388332
+Kim Gasiciel]]<ref name: "Kim Gasiciel">Twitter: EN VA Self Announcement (Archived)
+
+- Tổng Quan: Scarlett là một NPC độc quyền sự kiện xuất hiện trong Hơi Thở Hoa Gió.
+
+## Hồ Sơ
+
+Trong Lời Tiên Tri Lạ Giữa Biển Người, Scarlett tiếp cận Nhà Lữ Hành và Paimon khi cả hai đang ăn tại Người Săn Hươu. Cô giới thiệu bản thân "Giống như các bạn, tôi cũng từ nơi khác đến Mondstadt đây", cô được cho là có người thân và bạn bè đã từng sống ở đây. Cô thể hiện sự quan tâm đến lời tiên tri của Lễ Hội Hoa Gió năm đó, và thu hút sự nghi ngờ từ Rosaria, người đã quyết định theo dõi cô. Trong Lời Giải Chúc Phúc Trong Biển Mây đã tiết lộ rằng cô là người kế nhiệm một thành viên của Hội Ma Nữ, I. Ivanovna N., người đã từng mang biệt hiệu "J".
+
+- Ngoại Hình: (Sẽ được bổ sung.)

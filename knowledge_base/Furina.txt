@@ -1,0 +1,32 @@
+# Furina
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+element: Thủy
+quality: 5
+weapon: Kiếm Đơn
+arkhe: Pneuma;Ousia
+realname: Furina de Fontaine
+name: Furina
+birthday: 13 tháng 10
+constellation: Tư Tụng
+region: Fontaine
+affiliation: Đại Sảnh Fontaine
+affiliationNote: trong hồ sơ
+affiliation2: Viện Ca Kịch Epiclese
+affiliationNote2: trước kia
+affiliation3: Bảy Vị Thần
+affiliationNote3: với tư cách [[Bảy Vị Thần#Đại Diện
+dish: "Pour Justice"
+namecard: Tiệc Mừng
+obtain: Cầu Nguyện Nhân Vật
+event_name: Muôn Nước Ca Tụng
+releaseDate: 2023-11-08
+group: Thần
+title: Độc Diễn Vô Tận
+title2: Nữ Hoàng Của Muôn Nước, Muôn Nơi, Muôn Dân Và Muôn Luật Lệ
+voiceEN: Amber Lee Connors
+voiceCN: Qian Chen (zh|钱琛)
+voiceJP: w|Inori Minase|Minase Inori (ja|水瀬いのり)
+voiceKR: Kim Ha-yeong (ko|김하영)

@@ -20,6 +20,10 @@ __pycache__/
 # số liệu chốt đã ghi trong README và CHONG_HALLUCINATION_VA_GRAPH.md.
 eval_answers_results.json
 
+# Thư mục dàn dựng của 09_fetch_fandom.py. Tái tạo được bằng một lệnh, và nội
+# dung đã được chép sang knowledge_base/ nên commit cả hai là thừa.
+wiki_raw/
+
 # Dữ liệu database (nếu ai đó gắn volume vào trong thư mục dự án)
 pgdata/
 

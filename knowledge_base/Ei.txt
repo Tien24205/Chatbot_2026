@@ -1,0 +1,45 @@
+# Ei
+
+## Thông Tin Cơ Bản
+
+type: Quest NPC
+realname: Raiden Ei
+element: Electro
+region: Inazuma
+location: Inazuma
+affiliation: Bảy Vị Thần
+affiliation2: Inazuma Shogunate
+group: Thần
+sibling: Makoto
+siblingNote: Chị gái song sinh
+child: Scaramouche
+childNote: con rối
+child2: Shogun
+childNote2: nhân dạng hiện tại
+title: Vị thần theo đuổi sự "vĩnh hằng"
+title2: Raiden Shogun
+title3: The Immortal Shogun
+title4: Đại nhân Shogun
+title5: Shogun
+title6: Narukami Ogosho
+title7: Shogun Ei
+title8: Lôi Thần
+title9: Chủ nhân Nhất Tâm Tịnh Thổ
+voiceEN: [[imdb:nm3304361
+voiceCN: Juhuahua (zh|菊花花)
+voiceJP: w|Miyuki Sawashiro|Sawashiro Miyuki (ja|沢城 みゆき)
+voiceKR: w|ko:박지윤_(성우)|Park Ji-yoon (ko|박지윤)
+
+## Tổng Quan
+
+, còn được biết đến với là Beelzebul hay Raiden Shogun, là Thần Vĩnh Hằng và Lôi Thần đương nhiệm, người đứng đầu Inazuma. Cô đã từ bỏ cơ thể và đưa ý thức của mình vào Mộng Tưởng Nhất Tâm.
+
+Chị gái song sinh của cô là Makoto, còn gọi là Baal, đã thiệt mạng trong tai uơng thời cổ đại cách đây 500 năm. Kể từ đó, Ei lãnh đạo Inazuma Shogunate và tiếp tục cai trị dưới tên Baal.
+
+Sau khi Ei tiến vào trạng thái thiền định trong Nhất Tâm Tịnh Thổ. Con rối của cô đã thay cô quản lý Inazuma. Sau các sự kiện trong màn 2 của Chương Thiên Hạ Nhân, cô từ bỏ vĩnh hằng tĩnh tại, cùng với Shogun đưa Inazuma đến vĩnh hằng mà Makoto từng mong mỏi.
+
+## Giới Thiệu
+
+Makoto và Ei là 2 vị thần song sinh đã cùng nhau giành chiến thắng trong Chiến Tranh Ma Thần. Khi Makoto thành lập Mạc Phủ, Ei trở trở thành kagemusha của cô. Chính vì thế người dân Inazuma nghĩ rằng chỉ có một Lôi Thần là Baal, hay Raiden Shogun.
+
+Sau khi Makoto qua đời, Ei đã "tự giam" mình trong Nhất Tâm Tịnh Thổ, để con rối thay mình điều hành, xử lý công việc tại Inazuma.

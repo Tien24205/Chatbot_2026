@@ -1,0 +1,23 @@
+# Cư Dân Suối Nước
+
+## Tổng Quan
+
+type: Bộ Tộc
+type2: Bộ Tộc Natlan
+region: Natlan
+
+- Tổng Quan: Cư Dân Suối Nước hay Meztli là một trong sáu bộ tộc ở Natlan. Họ có thể được tìm thấy ở "Cư Dân Suối Nước" dọc theo Suối Nguồn Toyac.
+
+Người ta kể rằng vị thủ lĩnh đầu tiên đã bước lên chuyến hành trình để tìm kiếm đảo thần bí trong truyền thuyết. Với sự giúp đỡ và tin tưởng của nhóm bạn đồng hành, ông đã đến đích. Tuy nhiên, khi đối mặt với hiểm nguy cuối cùng, ông đã chọn từ bỏ "kết cục" để cứu những người bạn đồng hành của mình. Khi trở về tay không, ông nhận ra rằng mình đã tìm thấy kho báu và cùng với người bạn đồng hành của mình thành lập Meztli.
+
+Cư Dân Suối Nước có truyền thống lâu đời trong nghề hướng dẫn viên và vẽ hải đồ. Họ sống cùng với Koholasaurus và thích tắm suối nước nóng cùng chúng. Bộ tộc này sử dụng cả suối nước nóng tự nhiên và nhân tạo; suối nước nóng tự nhiên dành cho người dân địa phương và những người được thẩm định để sử dụng, trong khi suối nước nóng nhân tạo dành cho người nước ngoài không chịu được nhiệt độ của suối nước nóng tự nhiên. Ngoài ra, Cư Dân Suối Nước thường tụ tập lại để đi câu cá, nghe nhạc hoặc chỉ để thư giãn. Người ta cũng nói rằng khu vực Cư Dân Suối Nước sinh sống là một địa điểm nghỉ dưỡng tuyệt vời.
+
+- Atawallpa - Matavaru - Uenuku - Tupac - Cochanina (thăng thành Hỏa Thần)
+
+- Atea (bị trúng độc bởi sức mạnh Vực Sâu) - Inna (bị giết bởi cuộc xâm lược của Vực Sâu ở Natlan) - Kwame (bị giết bởi cuộc xâm lược của Vực Sâu ở Natlan)
+
+- Nhân Vật Chơi Được: Ghi Chú
+
+## Từ Nguyên
+
+- Giống như các bộ tộc đã biết khác, Meztli có thể có nguồn gốc từ một trong trong thần thoại Aztec, trong trường hợp này là. Nó được cai trị bởi thần mưa, và một trong những vị thần cư ngụ ở đó là thần mặt trăng.

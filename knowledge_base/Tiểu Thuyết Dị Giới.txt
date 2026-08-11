@@ -1,0 +1,37 @@
+# Tiểu Thuyết Dị Giới
+
+## Thông Tin Cơ Bản
+
+id: 14303
+type: Pháp Khí
+releaseDate: 2020-09-28
+quality: 3
+base_atk: 39
+2nd_stat_type: Hiệu Quả Nạp Nguyên Tố
+2nd_stat: 8,5%
+passive: Tắm Năng Lượng
+effect: Khi nhận được Nguyên Tố Tinh Cầu hoặc Nguyên Tố Hạt Nhân, hồi phục (var1)% HP.
+eff_rank1_var1: 1
+eff_rank2_var1: 1,25
+eff_rank3_var1: 1,5
+eff_rank4_var1: 1,75
+eff_rank5_var1: 2
+eff_att1: Hồi HP
+eff_att2: Năng Lượng Nguyên Tố
+obtain: Rương
+obtain2: Nhiệm Vụ
+quest: Điện Hỏa Hoa Trong Trang Sách
+
+- Tổng Quan: Tiểu Thuyết Dị Giới là một pháp khí 3 Sao.
+
+## Câu Chuyện
+
+Tiểu thuyết viễn tưởng rẻ tiền, kể về một con người bình thường vốn cũng giống như bao người, sau khi chết đã đến một thế giới khác:
+
+Thế giới ấy nguy hiểm trùng trùng. Quái thú gang thép được miêu tả là thường ẩn nấp dưới đất sâu, với chiều dài như sông sao, từng nuốt chửng hàng nghìn người;
+
+Kẻ có năng lực phi thường, trong chốc lát có thể biến cả căn phòng đông ấm hè mát, đêm sáng như ngày. Đó là câu chuyện không thực tế.
+
+Chỉ có một chút liên quan đến thực tế đó là: Đại đa số vàng bạc châu báu chỉ thuộc về một số ít người, hơn nữa còn được giấu kín trong bảo khố.
+
+- Ngẫu nhiên tìm thấy trong Rương có phẩm chất từ Cao Cấp trở lên ở Mondstadt - Phần thưởng trong Nhiệm Vụ Ma Thần: Điện Hỏa Hoa Trong Trang Sách

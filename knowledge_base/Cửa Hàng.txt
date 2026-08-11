@@ -1,0 +1,18 @@
+# Cửa Hàng
+
+## Thông Tin Cơ Bản
+
+type: Hệ Thống Trò Chơi
+type2: Loại Địa Điểm
+
+- Tổng Quan: Một số NPC trong Genshin Impact đóng vai trò là người bán ở cửa hàng và sẽ bán vật phẩm cho người chơi. Phần lớn các cửa hàng hồi lại hàng họ bán mỗi ngày.
+
+- Cửa Hàng Đặc Biệt: Cửa Hàng Đặc Biệt không có vị trí trong trò chơi. Các cửa hàng này lấy các loại tiền khác ngoài Mora và cung cấp nhiều loại vật phẩm. Người chơi có thể mở khóa cửa hàng này sau khi hoàn thành.
+
+- Cửa Hàng Khác: Các cửa hàng này sẽ có thể trao đổi bằng Mora. Hầu hết các cửa hàng này sẽ không được đánh dấu trên bản đồ.
+
+- Nguyên Liệu: Các cửa hàng này hầu như sẽ chỉ bán Nguyên Liệu Nấu Nướng.
+
+- Đặc Sản Địa Phương: Những cửa hàng này sẽ bán Đặc Sản Địa Phương.
+
+- Sách: Những cửa hàng này có bán Sách.

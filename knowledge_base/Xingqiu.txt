@@ -1,0 +1,29 @@
+# Xingqiu
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+quality: 4
+weapon: Kiếm Đơn
+element: Thủy
+name: Xingqiu
+birthday: 09 tháng 10
+constellation: Cầm Chức
+region: Liyue
+affiliation: Thương Hộ Phi Vân
+affiliation2: Phái Cổ Hoa
+dish: Giang Hồ Bách Vị
+obtain: - Cầu Nguyện - Đổi Bụi Ánh Sáng
+releaseDate: 2020-09-28
+title: Tuổi Trẻ Tài Cao
+title2: Cổ Hoa Phi Vân
+voiceEN: w|Cristina Vee|Cristina Vee Valenzuela
+voiceCN: Yajing Tang (唐雅菁)
+voiceJP: w|Junko Minagawa|Junko Minagawa (皆川純子)
+voiceKR: w|ko:곽규미|Gwak Gyu-mi (곽규미)
+
+## Tổng Quan
+
+ là một nhân vật hệ Thủy có thể chơi được trong Genshin Impact.
+
+Anh là nhị thiếu gia của Thương hội Phi Vân ở cảng Liyue,một hội có ảnh hưởng ở Liyue, và cũng là người tự xưng thành thạo môn võ Phải Cổ Hoa.

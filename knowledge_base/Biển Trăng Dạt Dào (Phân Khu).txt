@@ -1,0 +1,25 @@
+# Biển Trăng Dạt Dào (Phân Khu)
+
+## Thám Hiểm
+
+title: Biển Trăng Dạt Dào
+type: Phân Khu
+area: Biển Trăng Dạt Dào
+subregion: Sương Nguyệt
+region: Nod-Krai
+map: Sương Nguyệt
+
+- Năng Lượng Cổ Nguyệt
+- Màn Chắn Năng Lượng Cổ Nguyệt
+- Nút Năng Lượng Cổ Nguyệt
+- Năng Lượng Cổ Nguyệt Phun Trào
+- Hạt Nguồn Cổ Nguyệt
+- Vật Chất Tương Thích Năng Lượng Cổ Nguyệt
+- Đường Trung Chuyển Cao Tốc
+- Biển Mặt Trăng
+- Thùng Lưu Trữ Vật Chất
+- Tượng Bí Ẩn Tiên Phong
+- Quần Thể Kuuhenki
+- Kuuhenki Màu Đen Kỳ Diệu
+
+- ===Đặc Sản Khu Vực=== - ==Mô Tả==

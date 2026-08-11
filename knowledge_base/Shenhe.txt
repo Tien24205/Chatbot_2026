@@ -1,0 +1,31 @@
+# Shenhe
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+quality: 5
+weapon: Vũ Khí Cán Dài
+element: Băng
+name: Shenhe
+sex: Nữ
+birthday: 10 tháng 03
+constellation: Ưu Sầu
+region: Liyue
+affiliation: Động Tiên Lưu Vân Tá Phong Chân Quân
+affiliation2: Tiên
+affiliationNote2: đệ tử
+affiliation3: Vạn Dân Đường
+dish: Mì Liên Tâm
+namecard: Tiết Lược
+obtain: Sự Kiện Cầu Nguyện Nhân Vật
+event_name: Xuất Trần Nhập Thế
+releaseDate: 2022-01-05
+title: Thiên Thể Cô Độc
+title2: Thân thoát hồng trần, khách tại nhân gian
+voiceEN: Chelsea Kwoka
+voiceCN: Qin Ziyi (秦紫翼)
+voiceJP: Kawasumi Ayako (川澄綾子)
+voiceKR: Lee Hyun-jin (이현진)
+relatives: Chongyun (Cháu)
+
+- Tổng Quan: là nhân vật hệ Băng chơi được trong Genshin Impact. Con gái của một cặp vợ chồng trừ ma giấu tên,Shenhe được Lưu Vân Tá Phong Chân Quân thu làm đệ tử sau một biến cố thời thơ ấu của cô.

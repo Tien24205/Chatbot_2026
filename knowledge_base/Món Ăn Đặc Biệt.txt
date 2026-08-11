@@ -1,0 +1,7 @@
+# Món Ăn Đặc Biệt
+
+## Tổng Quan
+
+type: Thực Phẩm
+
+Món Ăn Đặc Biệt là loại vật phẩm thực phẩm có khả năng xuất hiện nếu nhân vật cụ thể nấu chúng. Món Ăn Đặc Biệt cung cấp hiệu quả cao hơn hoặc có các hiệu ứng bổ sung so với loại Ngon, cũng như sẽ có biểu tượng, tên và mô tả riêng biệt.

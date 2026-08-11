@@ -1,0 +1,18 @@
+# Địa Mạch Sinh Thành
+
+## Tổng Quan
+
+type: Hệ Thống Trò Chơi
+group: Hoạt Động
+
+Địa Mạch Sinh Thành là thử thách thế giới mở gồm hai loại: Hoa Chỉ Thị, mở khóa khi đạt Hạng Mạo Hiểm 8, thưởng Nguyên Liệu EXP Nhân Vật và Hoa Tàng Kim, mở khóa khi đạt Hạng Mạo Hiểm 12, thưởng Mora. Cả hai đều thưởng EXP Mạo Hiểm và EXP Yêu Thích. Lượng EXP Mạo Hiểm được thưởng sẽ luôn cố định, còn lại sẽ thưởng tùy vào Cấp Thế Giới của người chơi.
+
+## Tổng Quan
+
+Mỗi Quốc Gia ở Teyvat sẽ luôn có hai Địa Mạch Sinh Thành, một Hoa Chỉ Thị và một Hoa Tàng Kim. Chạm vào hoa sẽ khiến Kẻ Địch xuất hiện; loại kẻ địch xuất hiện sẽ tùy thuộc vào quốc gia mà Địa Mạch Sinh Thành xuất hiện, còn cấp độ của chúng tỷ lệ theo Cấp Thế Giới của người chơi. Kẻ địch xuất hiện từ Địa Mạch Sinh Thành sẽ rơi ra vật phẩm, Mora và EXP Nhân Vật kẻ địch thông thường.
+
+Sau khi đánh bại tất cả kẻ địch, Hoa Địa Mạch sẽ xuất hiện; hồi sinh đóa hoa để nhận thưởng sẽ cần 20 Nhựa Nguyên Chất hoặc 1 Nhựa Cô Đặc. Sau khi hoàn thành Địa Mạch Sinh Thành cũng như hồi sinh Hoa Địa Mạch của nó, một Địa Mạch Sinh Thành khác sẽ xuất hiện ở nơi khác trong quốc gia đó. Địa Mạch Sinh Thành đã hoàn thành nhưng Hoa Địa Mạch chưa được hồi sinh vẫn sẽ giữ nguyên vị trí của chúng và không xuất hiện Địa Mạch Sinh Thành tiếp theo cho đến khi Thiết Lập Lại Hằng Ngày.
+
+Với nhiệm vụ hằng tuần "Hoàn thành khiêu chiến Địa Mạch Tắc Nghẽn 20 lần" trong Nhật Ký Hành Trình, người chơi chỉ cần hoàn thành Địa Mạch Sinh Thành, không cần thiết phải hồi sinh Hoa Địa Mạch và nhận thưởng. Để nhận được các thành tựu trong bộ thành tựu Quà tặng của đất mẹ, người chơi buộc phải hồi sinh Hoa Địa Mạch.
+
+- Thưởng Và Tỷ Lệ Thưởng: Lượng EXP Yêu Thích, Nguyên Liệu EXP Nhân Vật hoặc Mora nhận được khi hoàn thành Địa Mạch Sinh Thành sẽ phụ thuộc vào Cấp Thế Giới hiện tại của người chơi.

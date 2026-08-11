@@ -1,0 +1,71 @@
+# Biên Niên Sử Bình Minh
+
+## Thông Tin Cơ Bản
+
+title: Biên Niên Sử Bình Minh
+type: Cung
+quality: 5
+obtain: Cầu Nguyện Vũ Khí
+releaseDate: 2025-12-03 11:00:00 GMT+8
+base_atk: 48
+2nd_stat_type: Sát Thương Bạo Kích
+2nd_stat: 9,6%b
+passive: Bài Ca Vang Vọng Xa Xưa
+eff_rank1_var1: 60
+eff_rank2_var1: 75
+eff_rank3_var1: 90
+eff_rank4_var1: 105
+eff_rank5_var1: 120
+eff_rank1_var2: 10
+eff_rank2_var2: 12.5
+eff_rank3_var2: 15
+eff_rank4_var2: 17.5
+eff_rank5_var2: 20
+eff_rank1_var3: 20
+eff_rank2_var3: 25
+eff_rank3_var3: 30
+eff_rank4_var3: 35
+eff_rank5_var3: 40
+eff_att1: Tăng ST Tấn Công Thường
+eff_att2: Tăng ST Kỹ Năng Nguyên Tố
+eff_att3: Tăng ST Kỹ Năng Nộ
+
+## Effect
+
+Người trang bị nhận được "Ngọn Gió Nổi": 3s sau khi thoát chiến đấu, sát thương gây ra bởi Tấn Công Thường, Kỹ Năng Nguyên Tố và Kỹ Năng Nộ tăng (var1)%. Trong trạng thái chiến đấu, hiệu ứng tăng sát thương nêu trên giảm (var2)% mỗi giây cho đến khi giảm về 0%. Khi Tấn Công Thường, Kỹ Năng Nguyên Tố hoặc Kỹ Năng Nộ của người trang bị đánh trúng kẻ địch, hiệu quả tăng sát thương của loại sát thương tương ứng tăng (var2)% cho đến khi đạt (var1)%, mỗi loại tấn công nêu trên mỗi 0.1s tối đa kích hoạt hiệu quả này một lần. Người trang bị không ra trận vẫn có thể kích hoạt hiệu quả nêu trên.
+Ngoài ra, khi đội có hiệu ứng "Hexerei - Nghi Thức Bí Mật", thì khi Tấn Công Thường, Kỹ Năng Nguyên Tố hoặc Kỹ Năng Nộ của người trang bị đánh trúng kẻ địch, sẽ đổi thành khiến hiệu quả tăng sát thương của tất cả loại sát thương tăng (var3)%.
+
+- Tổng Quan: Biên Niên Sử Bình Minh là một Cung 5 sao.
+
+## Câu Chuyện
+
+"Kreuzlied, bạn có từng nghe tiếng sáo trong bóng chiều chạng vạng"
+"Bạn có từng nghe thấy có người khẽ hát trong gió: Vĩnh biệt, vĩnh biệt"
+"Chúng tôi sẽ không khóc cho bạn, bởi gió đêm sẽ lấy đi những giọt nước mắt"
+"Bạn thân mến, cơn gió đêm sẽ lấy đi nước mắt"
+
+Nghe nói gánh hát rong có mưu đồ ám sát quý tộc,
+Có một đứa trẻ quý tộc ngỗ nghịch tên là Kreuzlied.
+Sau khi gánh hát hành sự thất bại, một nhà thơ đã sáng tác một bài hát cho anh.
+
+Nhưng tên của người đó chẳng phải là "Kreuzlied", tên thật hiện nay đã không thể kiểm chứng.
+Thời điểm đó từ Kreuzlied trong ngôn ngữ cổ có nghĩa là "Bài Hát Trừng Phạt"
+Khi màn đêm kia buông xuống, kẻ đào ngũ, kẻ cướp, kẻ ủ rượu lậu và kẻ phản nghịch,
+Sẽ bị công khai trừng phạt một cách tàn nhẫn khiến người ta chỉ cầu được chết, còn đám quý tộc thì giễu cợt gọi tiếng gào khóc của họ là diễn tấu nhạc.
+Trong thời đại không thể nhìn thấy ánh sáng ban mai, từ "Kreuzlied" dần trở thành cách gọi khác của tất cả những kẻ hành sự thất bại.
+Vì vậy, cuối cùng đã trở thành cờ hiệu chung của những người phản nghịch chống đối.
+
+Cái tên Kreuzlied của gánh hát rong sớm đã mất đi,
+Nhưng điều này không quan trọng. Vào lúc đó, Kreuzlied đã có vô số biệt danh được lưu truyền theo gió:
+"Mục Sư Vô Danh", "Imunlaukr", "Hiệp Đạo Trong Hẻm Tối"
+"Ánh Ban Mai", "Gunnhildr", "Ragnvindr"...
+Kreuzlied cuối cùng, từ trong giấc ngủ say ngàn năm,
+Bị đánh thức bởi tiếng kêu yếu ớt của một thiếu nữ nước ngoài lưu lạc nơi đây
+Giống như anh từng được sinh ra vì ước muốn nhỏ bé của một thiếu niên...
+
+Những bài thơ và ca khúc mô tả Kreuzlied từng thịnh hành một thời,
+Nhưng cuối cùng đã chẳng còn ai hát nữa. Bởi trong lịch sử sau đó cái tên này đã không còn cần thiết nữa rồi.
+"Kreuzlied, bạn đã từng thấy đường chân trời phía xa dần chuyển sang màu trắng chưa"
+"Bạn có từng nghe thấy thiếu nữ khẽ hát trong gió: Vĩnh biệt, vĩnh biệt"
+"Ánh bình minh hôn trôi những giọt nước mắt của tôi, nói với tôi rằng bình minh đã lên rồi"
+"Người yêu của tôi, bình minh đã lên rồi"

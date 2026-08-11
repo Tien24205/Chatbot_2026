@@ -1,0 +1,10 @@
+# Chế Độ Nhiệt Huyết
+
+## Tổng Quan
+
+type: Loại Sự Kiện
+type2: Hệ Thống Thất Thánh Triệu Hồi
+
+Chế Độ Nhiệt Huyết là chế độ chơi trong Thất Thánh Triệu Hồi diễn ra trong thời gian giới hạn và xuất hiện định kỳ mỗi Phiên Bản. Mỗi phiên bản sẽ áp dụng những quy tắc đặc biệt, mang đến trải nghiệm hoàn toàn khác biệt so với lối chơi thông thường của Thất Thánh Triệu Hồi.
+
+Có thể mở Chế Độ Nhiệt Huyết thông qua Bảng Mời Quyết Đấu của Quán Rượu Đuôi Mèo khi người chơi đạt Cấp Bài Thủ 4.

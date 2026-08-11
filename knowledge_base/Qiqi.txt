@@ -1,0 +1,28 @@
+# Qiqi
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+quality: 5
+weapon: Kiếm Đơn
+element: Băng
+name: Qiqi
+birthday: 03 tháng 03
+constellation: Tam Thanh Linh
+region: Liyue
+affiliation: Nhà Thuốc Bubu
+affiliation2: Tiên Nhân
+dish: Món Không Tương Lai
+obtain: Cầu Nguyện
+releaseDate: 2020-09-28
+title: Đêm Hồn Về Lạnh Giá
+title2: Dược Sĩ, Nhà Thuốc Bubu
+voiceEN: [[imdb:nm7116087
+Christie Cate]]<ref name: "Qiqi EN/JP">(EN & JP) Twitter - VA Announcement
+voiceCN: Yanning (宴宁)
+voiceJP: w|Yukari Tamura|Yukari Tamura (田村ゆかり)
+voiceKR: w|ko:이슬 (성우)|Lee Seul (이슬)
+
+- Tổng Quan: là một nhân vật chơi được hệ trong Genshin Impact. Sau khi được tiên nhân hồi sinh thành cương thi, cô ấy nhận được sự chăm sóc của Baizhu và làm việc tại Hiệu thuốc Bubu ở Cảng Liyue.
+
+- Cầu nguyện thường Du Hành Thế Gian (không giới hạn thời gian) - Cầu nguyện cho Nhà Lữ Hành mới (không giới hạn thời gian cho đến khi đủ 20 lần cầu nguyện) - Tất cả Sự Kiện Cầu Nguyện Nhân Vật

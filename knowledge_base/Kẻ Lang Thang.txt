@@ -1,0 +1,38 @@
+# Kẻ Lang Thang
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+quality: 5
+weapon: Pháp Khí
+element: Phong
+name: Kẻ Lang Thang
+birthday: 03 tháng 01
+constellation: Lãng Khách
+region: Sumeru
+region2: Snezhnaya
+regionNote2: trong cốt truyện
+region3: Inazuma
+regionNote3: trong cốt truyện
+affiliation: Không
+affiliation2: Vahumana
+affiliationNote2: với tư cách là Nón Tròn
+dish: Shimi Chazuke
+namecard: Phù Ca
+obtain: Sự Kiện Cầu Nguyện
+event_name: Tro Tàn Tái Sinh
+releaseDate: 2022-12-07
+title: Đoạn Tuyệt Thế Gian
+title2: Ngọn Gió Lạc Về Đâu
+voiceEN: [[imdb:nm2533639
+voiceCN: Luyin (zh|鹿喑)
+voiceJP: w|Tetsuya Kakihara|Kakihara Tetsuya (ja|柿原 徹也)
+voiceKR: w|ko:민승우|Min Seung-woo (ko|민승우)
+
+## Tổng Quan
+
+Kẻ Lang Thang là một nhân vật hệ Phong chơi được trong Genshin Impact.
+
+Kẻ Lang Thang tồn tại thay cho hóa thân kiếp trước của mình sau khi anh xóa bỏ tất cả các tên gọi trước đó và lịch sử của anh ra khỏi Cây Thế Giới. Mang trong mình những ký ức của con người trước đây sau khi tự nguyện lấy lại chúng, giờ đây, "Kẻ Lang Thang" là danh hiệu mà anh đã chọn cho mình, vì anh không có nhà, người thân hay điểm đến.
+
+Trong, người chơi có thể đổi tên cho Kẻ Lang Thang, cái tên này sẽ được sử dụng trong giao diện của trò chơi, chẳng hạn như Thiết Lập Đội. Tuy nhiên, hầu hết các nhân vật sẽ gọi Kẻ Lang Thang là Nón Tròn, đây là tên được Nahida sử dụng khi ghi danh anh vào Vahumana.

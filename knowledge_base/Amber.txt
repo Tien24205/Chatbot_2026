@@ -1,0 +1,35 @@
+# Amber
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+quality: 4
+weapon: Cung
+element: Hỏa
+name: Amber
+birthday: 10 tháng 08
+constellation: Tiểu Thố
+region: Mondstadt
+affiliation: Đội Kỵ Sĩ Tây Phong
+dish: Thịt Nướng Kỵ Sĩ Trinh Thám!
+namecard1: Amber - Con Thỏ
+obtain: - Hoàn thành Kỵ Sĩ Đến Từ Ngọn Gió - Du Hành Thế Gian (Cầu Nguyện) - Đổi Bụi Ánh Sáng
+releaseDate: 2020-09-28
+relative: Ông của Amber
+title: Quán Quân Bay Lượn
+title2: Kỵ Sĩ Trinh Thám
+voiceEN: [[imdb:nm5726463
+Kelly Baskin]]<ref name: "Amber EN/JP">Facebook: Công Bố Diễn Viên Lồng Tiếng tiếng Anh và Nhật
+voiceCN: Cai Shujin (zh|蔡书瑾) (từ Phiên Bản 1.4)
+voiceJP: w|Manaka Iwami|Iwami Manaka (ja|石見舞菜香)
+voiceKR: w|ko:김연우 (성우)|Kim Yeon-woo (ko|김연우)
+
+## Tổng Quan
+
+Amber là một nhân vật hệ mà người chơi có thể điều khiển trong Genshin Impact.
+
+Cô là Kỵ Sĩ Trinh Thám cuối cùng của Đội Kỵ Sĩ Tây Phong. Cô luôn sẵn sàng giúp đỡ bất cứ người dân nào ở Mondstadt từ những việc đơn giản nhất cho đến những nhiệm vụ khó khăn.
+
+Người chơi có thể nhận miễn phí Amber trong.
+
+- Thưởng nhiệm vụ Kỵ Sĩ Đến Từ Ngọn Gió - Cầu Nguyện Thường Du Hành Thế Gian

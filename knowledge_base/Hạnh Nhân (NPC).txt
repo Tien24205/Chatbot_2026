@@ -1,0 +1,11 @@
+# Hạnh Nhân (NPC)
+
+## Thông Tin Cơ Bản
+
+type: NPC Sự Kiện
+name: Hạnh Nhân
+region: Simulanka
+location: Simulanka
+title: Trưởng Lão Rừng Sâu
+
+- Tổng Quan: Hạnh Nhân là một NPC giấy độc quyền sự kiện có vị trí tại Simulanka.

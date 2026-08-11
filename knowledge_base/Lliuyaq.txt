@@ -1,0 +1,16 @@
+# Lliuyaq
+
+## Thông Tin Cơ Bản
+
+type: NPC Nhiệm Vụ
+region: Natlan
+location: Natlan
+affiliation: Dòng Dõi Vườn Treo
+affiliation2: Trạm Bưu Tá (Phe Phái)
+title: Bưu Tá
+
+- Tổng Quan: Lliuyaq là một NPC độc quyền nhiệm vụ xuất hiện trong.
+
+- Tiểu Sử: (Sẽ được bổ sung.)
+
+- Ngoại Hình: (Sẽ được bổ sung.)

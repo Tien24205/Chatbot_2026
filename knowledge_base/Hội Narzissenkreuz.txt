@@ -1,0 +1,20 @@
+# Hội Narzissenkreuz
+
+## Tổng Quan
+
+type: Địa Điểm Đáng Chú Ý
+type2: Nội Khu
+map_level: Tàn Tích Dưới Nước - Trung Tâm
+subarea: Học Viện Triết Học Tự Nhiên
+area: Khu Đại Sảnh Fontaine
+region: Fontaine
+
+Có thể vào phòng bằng cách chọn dòng "Đọc" trên một cuốn sách ở cuối Trung Tâm Học Viện Triết Học Tự Nhiên. Trong, một lỗ thông hơi ở phía tây nam trên mái Tháp Ipsissimus mở ra, cung cấp một phương pháp khác để vào phòng. Bên trong phòng là một cuốn sách khác trên giá nhạc có thể được sử dụng để thoát khỏi đây. Một lối thoát thứ hai dưới dạng một vết nứt lớn trên sàn sẽ xuất hiện trong nhiệm vụ đã đề cập ở trên.
+
+Tương tác với cuốn sách trong Học Viện Triết Học Tự Nhiên lần đầu tiên để vào phòng sẽ hiển thị cuốn sách trên bản đồ thế giới, cho phép dịch chuyển trực tiếp đến đây.
+
+- Ann (sau khi hoàn thành Đáp Án Chờ Tiết Lộ; thành viên cũ) - Caterpillar (sau khi hoàn thành Đáp Án Chờ Tiết Lộ; thành viên cũ) - Seymour (sau khi hoàn thành Đáp Án Chờ Tiết Lộ; thành viên cũ)
+
+- Nhật Ký #1: Nhật Ký #1 có thể được tìm thấy trên bàn ngay bên dưới cửa sổ lớn sau khi hoàn thành Nhiệm Vụ Thế Giới Mày Mò Trong Biển Tảo.
+
+- Nhật Ký #2: Có thể tìm thấy Nhật Ký #2 trong một chồng sách bên cạnh chiếc ghế mà Caterpillar từng ngồi sau khi hoàn thành Nhiệm Vụ Thế Giới Mày Mò Trong Biển Tảo.

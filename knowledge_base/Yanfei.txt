@@ -1,0 +1,32 @@
+# Yanfei
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+quality: 4
+weapon: Pháp Khí
+element: Hỏa
+name: Yanfei
+sex: Nữ
+birthday: 28 tháng 07
+constellation: Pháp Thú
+region: Liyue
+affiliation: Cảng Liyue
+affiliation2: Tiên Nhân
+dish: "Chuẩn Khuôn Khổ"
+obtain: Cầu Nguyện
+releaseDate: 2021-04-28
+title: Cơ Trí Ngây Thơ
+title2: Nhà cố vấn luật nổi tiếng ở Cảng Liyue
+voiceEN: [[imdb:nm5213242
+voiceCN: Ziwu Su (苏子芜)
+voiceJP: w|Yumiri Hanamori|Yumiri Hanamori (花守 ゆみり)
+voiceKR: w|ko:조경이|Cho Kyung-yi (조경이)
+
+## Tổng Quan
+
+Yanfei là một nhân vật hệ Hoả chơi được trong Genshin Impact.
+
+Cha cô ấy là Tiên và mẹ là người phàm. Sau khi lớn, cha mẹ cô bỏ đi phiêu lưu, để lại cho Bình Lão Lão chăm sóc cô. Cô cư trú tại Liyue, làm nhà cố vấn luật cho người dân.
+
+- Cầu Nguyện Thường Du Hành Thế Gian (Không giới hạn thời gian) kể từ Phiên Bản 1.6 - Tất cả Cầu Nguyện Nhân Vật và Cầu Nguyện Vũ Khí từ Phiên Bản 1.6 - Sự kiện Muôn Sắc Khắc Niên Hoa (Phiên Bản 2.4)

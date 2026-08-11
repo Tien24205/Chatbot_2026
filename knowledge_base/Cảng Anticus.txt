@@ -1,0 +1,24 @@
+# Cảng Anticus
+
+## Vết Khắc Cổ Xưa #1
+
+type: Phân Khu
+map_level: Cảng Anticus - Tầng Trên;Cảng Anticus - Tầng Dưới
+area: Biển Kỷ Nguyên Cũ
+region: Fontaine
+map: Biển Kỷ Nguyên Cũ
+
+Ngươi khao khát vinh quang của Lugdunensis, nhưng lại san phẳng thành bang đó, tạo ra xiềng xích cho cô ấy:
+Faunus, thiếu nữ man tộc nào sau khi vị hôn phu mất mạng, đã bị ngươi chiếm đoạt và cầm tù,
+Là thiếu niên nào đã thoa lên cơ thể ngươi thứ dầu thơm xa hoa, rót đầy cho ngươi rượu ngon từ Bituria,
+Dẫu vậy, cái chết không thể tránh khỏi đã đuổi theo từng bước chân, cùng ngươi chìm vào sự suy tàn dài đằng đẵng?
+
+## Vết Khắc Cổ Xưa #2
+
+Bia Đá Cổ Xưa: "...Theo lệnh Đặc Sứ Quân Đoàn V, Faunus, rút khỏi phòng tuyến cảng phía bắc, đổi hướng bố trí canh phòng Cung Điện Caesareum..."
+Bia Đá Cổ Xưa: "...Phía bên cánh đã giao cho Quân Đoàn IX phòng thủ, chỉ cần đảm bảo hướng trực diện không bị đột phá... (khó đọc) đã phái xuống từng đội... Khác với đám man tộc xảo quyệt, hậu duệ rồng sẽ không cần dùng kế sách, chỉ cần..."
+
+## Vết Khắc Cổ Xưa #3
+
+Bia Đá Cổ Xưa: "...Theo lệnh của người chỉnh âm vĩ đại Boethius, theo âm luật chí tôn thánh thiện, Quân Đoàn V 'Người Chỉnh Dây' sẽ chấm dứt mọi hành động thù địch với hậu duệ loài rồng kể từ ngày hôm nay, cho phép chúng tiến đến Cung Điện Caesareum..."
+Bia Đá Cổ Xưa: "...Sau khi hậu duệ loài rồng vượt qua, Quân Đoàn VII 'Thiên Nhạc' và Quân Đoàn IX 'Sứ Giả Lời Chúc' sẽ đến đây, phong tỏa Cảng Anticus, tránh man tộc phía bắc phát động tấn công, phá hoại cuộc đàm phán..."

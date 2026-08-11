@@ -1,0 +1,38 @@
+# Dori
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+quality: 4
+weapon: Trọng Kiếm
+element: Lôi
+name: Dori
+realname: Dori Sangemah Bay
+birthday: 21 tháng 12
+constellation: Thần Đăng
+region: Sumeru
+affiliation: Cung Điện Alcazarzaray
+affiliation2: Thương Hội Voynich
+dish: Mora Đến Đây Nhanh
+namecard: Đèn Thần
+obtain: Cầu Nguyện
+releaseDate: 2022-09-09
+title: Kho Báu Vườn Mơ
+title2: Thương Nhân Bách Hóa Sumeru
+voiceEN: [[imdb:nm10698863
+Anjali Kunapaneni]]<ref name: "Dori EN & JP VA">Twitter: Công Bố Diễn Viên Lồng Tiếng Tiếng Anh & Tiếng Nhật
+voiceCN: Wang Xiaotong (zh|王晓彤)
+voiceJP: Kaneda Tomoko (ja|金田朋子)
+voiceKR: Lee Myeong-ho (ko|이명호)
+
+## Tổng Quan
+
+Dori Sangemah Bay là một nhân vật hệ chơi được trong Genshin Impact.
+
+Dori là chủ nhân Cung Điện Alcazarzaray, thương nhân nức tiếng với khả năng đem lại bất cứ thứ gì mà người ta cần, miễn có đủ Mora để trả cái giá chát chúa mà ngài thương nhân này đưa ra.
+
+## Có Mặt Trong
+
+- Cầu nguyện thường Du Hành Thế Gian (Vĩnh Viễn) từ Phiên Bản 3.1
+- Tất cả sự kiện Cầu Nguyện Nhân Vật và Cầu Nguyện Vũ Khí từ Phiên Bản 3.1
+- Sự Kiện Đại Hội Đấu Nấm Siêu Cấp (10 tháng 11, 2022 - 28 tháng 11, 2022)

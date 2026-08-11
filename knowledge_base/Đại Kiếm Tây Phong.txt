@@ -1,0 +1,57 @@
+# Đại Kiếm Tây Phong
+
+## Thông Tin Cơ Bản
+
+id: 12401
+type: Trọng Kiếm
+series: Tây Phong
+releaseDate: 2020-09-28
+quality: 4
+base_atk: 41
+2nd_stat_type: Hiệu Quả Nạp Nguyên Tố
+2nd_stat: 13,3%
+obtain: Cầu Nguyện
+passive: Đi Cùng Với Gió
+effect: Khi tạo thành bạo kích có tỷ lệ (var1)% sinh ra một lượng nhỏ Nguyên Tố Hạt Nhân, khôi phục 6 Năng Lượng Nguyên Tố cho nhân vật. Mỗi (var2)s mới thi triển 1 lần.
+eff_rank1_var1: 60
+eff_rank2_var1: 70
+eff_rank3_var1: 80
+eff_rank4_var1: 90
+eff_rank5_var1: 100
+eff_rank1_var2: 12
+eff_rank2_var2: 10,5
+eff_rank3_var2: 9
+eff_rank4_var2: 7,5
+eff_rank5_var2: 6
+eff_att1: Đòn Bạo Kích
+eff_att2: Sản Sinh Năng Lượng Nguyên Tố
+
+- Tổng Quan: Đại Kiếm Tây Phong là một Trọng Kiếm 4 sao.
+
+## Câu Chuyện
+
+Trọng kiếm nghi thức của Đội kỵ sĩ Tây Phong, thông thường phải được đội trưởng và Giáo Hội phê chuẩn mới được phân phát.
+
+Qua việc phân tích Thánh Di Vật viễn cổ của Mondstadt, các thợ thủ công Mondstadt đạt được thành quả trong công việc tăng sức mạnh nguyên tố.
+
+Thanh trọng kiếm này không chỉ là danh hiệu vinh dự cho kỵ sĩ Tây Phong, mà còn là sự kết tinh giữa sự tinh nhuệ và ý chí phấn đấu của vệ sĩ Mondstadt.
+
+Sử dụng nó có thể điều khiển sức mạnh nguyên tố dễ dàng. Nhưng hãy nhớ rằng, phá vỡ là để bảo vệ những thứ cần bảo vệ.
+
+Mặc dù nó được truyền lại cho đến ngày hôm nay, Tây Phong Kiếm Thuật được tạo ra bởi sói con Rostam là sử dụng một tay cầm trường kiếm,
+
+Thế nhưng kiếm thuật vẫn thất truyền đi một phần, đó là Arundolyn – Sư Tử Ánh Sáng cùng lúc sử dụng trường kiếm và đại kiếm.
+
+Là do yêu cầu về sức lực quá lớn, chỉ có những người có thiên phú khỏe mạnh mới có thể thi triển. Vì vậy không ai kế thừa được điều đó.
+
+Arundolyn và Rostam cùng nhau lớn lên từ bé, lần lượt sinh ra trong gia tộc kỵ sĩ chính thống và gia đình nhà nông.
+
+Ước mơ trở thành anh hùng đã khiến họ trở thành bạn bè, sau đó trở thành đồng đội, cuối cùng là đội trưởng và trợ lý.
+
+Là Đại Đội Trưởng, Arundolyn chưa từng có được Vision. Sức mạnh của anh đến từ tư chất thiên bẩm và sự luyện tập hà khắc.
+
+Anh luôn cảm thấy tự hào với sức mạnh của mình. Cả đội kỵ sĩ lẫn thành Mondstadt đều cảm thấy tự hào vì một đội trưởng như vậy.
+
+Trong thời khắc Rostam chết đi, Arundolyn đã không thể hiện sức mạnh của bản thân nữa, cũng không khiêu chiến với ma thú hung tàn nữa.
+
+- Cầu Nguyện Thường, Du Hành Thế Gian - Tất cả sự kiện Cầu Nguyện Nhân Vật và Vũ Khí.

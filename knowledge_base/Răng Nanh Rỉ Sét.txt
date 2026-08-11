@@ -1,0 +1,63 @@
+# Răng Nanh Rỉ Sét
+
+## Thông Tin Cơ Bản
+
+type: Kiếm Đơn
+rarity: 4
+obtain: Sự Kiện
+event_name: Vôi Trắng Và Rồng Đen
+base_atk: 42
+2nd_stat_type: Hiệu Quả Nạp Nguyên Tố
+2nd_stat: 10,0%
+passive: Khát Vọng Vô Tận
+effect: Tăng (var1)% Sát Thương Kỹ Năng Nguyên Tố, tăng (var2)% Tỉ Lệ Bạo Kích của Kỹ Năng Nguyên Tố.
+eff_rank1_var1: 16
+eff_rank1_var2: 6
+eff_rank2_var1: 20
+eff_rank2_var2: 7.5
+eff_rank3_var1: 24
+eff_rank3_var2: 9
+eff_rank4_var1: 28
+eff_rank4_var2: 10.5
+eff_rank5_var1: 32
+eff_rank5_var2: 12
+eff_att1: Tăng Sát Thương Kĩ Năng Nguyên Tố
+eff_att2: Tăng Tỉ Lệ Bạo Kích Kĩ Năng Nguyên Tố
+eff_att3: Sát Thương Thêm
+id: 11413
+quality: 4
+releaseDate: 2020-12-23
+
+- Tổng Quan: Răng Nanh Rỉ Sét là một Vũ Khí Kiếm Đơn 4 sao có thể nhận được thông qua sự kiện Vôi Trắng và Rồng Đen.
+
+- Tinh Luyện: Tinh luyện Răng Nanh Rỉ Sét cần có nguyên liệu đặc biệt thay vì bản sao của chính nó, có thể kiếm được thông qua sự kiện Vôi Trắng và Rồng Đen.
+
+## Mô Tả
+
+Đó là chuyện rất lâu về trước...
+
+Sinh mệnh không được phép sinh ra, nguyện vọng không thể thực hiện,
+
+Lang thang trong vũ trụ tăm tối, một giấc mơ bi thảm không thành,
+
+Bèn mượn thân thể của ta để "hiện thế"
+
+Và rồi, những đứa trẻ đáng yêu của ta à,
+
+Giống như nước mưa chảy thành suối, thảm cỏ trải dài dưới ánh mặt trời,
+
+Đến tận nơi tươi đẹp, kiêu ngạo phô bày sắc đẹp của mình nào.
+
+Đây là đứa trẻ tên Durin, về hồi ức của "Mẹ"...
+
+"Mẹ ơi, cảm ơn mẹ"
+
+"Đã cho con đôi cánh để bay, cho con thân thể khoẻ mạnh"
+
+"Còn con, muốn đến nơi cất lên tiếng ca tươi đẹp, mẹ ơi"
+
+"Để kể với họ câu chuyện của mọi người, câu chuyện về mẹ"
+
+"Để kể với họ, nơi mà con sinh ra, đẹp đẽ biết nhường nào"
+
+- Đổi trong sự kiện Vôi Trắng và Rồng Đen

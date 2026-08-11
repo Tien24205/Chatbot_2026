@@ -1,0 +1,47 @@
+# Kiếm Phi Thiên
+
+## Thông Tin Cơ Bản
+
+id: 11306
+type: Kiếm Đơn
+releaseDate: 2020-09-28
+quality: 3
+base_atk: 38
+2nd_stat_type: Hiệu Quả Nạp Nguyên Tố
+2nd_stat: 11,3%
+series: Phi Thiên
+passive: Quyết Tâm
+effect: Sau khi thi triển Kỹ Năng Nộ, tăng (var1)% tấn công và tốc độ di chuyển, kéo dài 15s.
+eff_rank1_var1: 12
+eff_rank2_var1: 15
+eff_rank3_var1: 18
+eff_rank4_var1: 21
+eff_rank5_var1: 24
+eff_att1: ATK
+eff_att2: Tốc Độ Di Chuyển
+obtain: Cầu Nguyện
+obtain2: Đối Thoại
+npc: Pan Guan'er
+
+- Tổng Quan: Kiếm Phi Thiên là một Kiếm Đơn 3 Sao của Liyue.
+
+## Câu Chuyện
+
+Ngự Kiếm Công Tử với kiếm thuật cao cường nhảy từ trên Tuyệt Vân Gián xuống,
+
+Không màng những tiếng gió rít giật mạnh bên tai, công tử xuyên qua từng tầng mây.
+
+Cho đến khi tiếng nứt lớn truyền từ chân lên đầu...
+
+Anh mới nhận ra rằng, có những việc kiếm thuật cũng khó có thể thực hiện được.
+
+Tuy rơi mất thanh kiếm thép sáng bóng, đổi lại bằng viên thuốc Kim Sang.
+
+Thế nhưng Ngự Kiếm Công Tử cũng biết rằng, cuộc hành trình rộng lớn phía trước vẫn chưa kết thúc!
+
+## Có Mặt Trong
+
+- Cầu nguyện thường Du Hành Thế Gian (Không giới hạn thời gian)
+- Cầu Nguyện đề xuất cho người mới (Không giới hạn thời gian cho đến khi đủ 20 lần cầu nguyện)
+- Tất cả các sự kiện Cầu Nguyện Nhân Vật và Cầu Nguyện Vũ Khí
+- Pan Guan'er - Lời thoại có thưởng

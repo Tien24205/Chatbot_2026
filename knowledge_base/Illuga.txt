@@ -1,0 +1,32 @@
+# Illuga
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+quality: 4
+weapon: Vũ Khí Cán Dài
+element: Nham
+name: Illuga
+pronunciation: w|Help:IPA/English|/ˈiːtluːə/ w|Help:Pronunciation respelling key|EET-loo-ə
+birthday: 23 tháng 12
+constellation: Kim Oanh
+region: Nod-Krai
+affiliation: Người Giữ Đèn
+dish: Súp Ấm Gác Đêm
+namecard: Chim Đêm
+obtain: Cầu Nguyện
+releaseDate: 2026-02-03 18:00:00 GMT+8
+title: Đốm Lửa Đêm Ác Mộng
+title2: Thành Viên Đội Điều Tra Chim Đêm Ác Mộng
+adoptive: Relative Type|Cha mẹ|Nikita|ref=CS|Flins!Vòng Mặt Trăng|quote="Tôi muốn tặng cho highlight|cha Nikita một món quà giá trị. Từ nhỏ cha đã chăm sóc cho tôi". Illuga thú nhận.
+voiceEN: [[imdb:nm15807516
+Jonathon Ha]]<ref>YouTube: [https://www.youtube.com/watch?v: _yuHIzPJGHA Video Giới Thiệu Phiên Bản Luna IV: "Nếu Một Đêm Đông, Có Vị Lữ Khách"] (Mô tả video)
+voiceCN: Yu Tou (zh|昱头)
+voiceJP: w|Shūichirō Umeda|Umeda Shuuichirou (ja|梅田 修一朗)
+voiceKR: Hwang Dong-hyeon (ko|황동현)
+
+## Tổng Quan
+
+Illuga là một nhân vật hệ chơi được trong Genshin Impact.
+
+Illuga hiện đang là Phân Đội Trưởng của Chim Đêm Ác Mộng, một nhóm điều tra thuộc Người Giữ Đèn. Những trải nghiệm của cậu trong quá khứ khi đối đầu với Cuộc Săn Hoang Dã đã thôi thúc cậu quan tâm sâu sắc đến các thành viên trong đội, quyết tâm đảm bảo rằng họ sẽ không bao giờ phải đối mặt với những bi kịch mà anh đã từng nếm trải.

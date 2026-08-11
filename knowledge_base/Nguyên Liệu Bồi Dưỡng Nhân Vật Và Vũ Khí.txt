@@ -1,0 +1,20 @@
+# Nguyên Liệu Bồi Dưỡng Nhân Vật Và Vũ Khí
+
+## Tổng Quan
+
+type: Loại Vật Phẩm
+
+Nguyên Liệu Bồi Dưỡng Nhân Vật Và Vũ Khí là Đạo Cụ Bồi Dưỡng được sử dụng để Đột Phá Nhân Vật và Vũ Khí khi chúng đã đạt đến mức tối đa. Các vật phẩm này có thể được nhóm lại theo dòng hoặc loại quái vật đánh rơi chúng. Các vật liệu có độ hiếm cao hơn cũng có thể được Chế Tạo bằng cách Ghép, bằng cách kết hợp các vật liệu có độ hiếm thấp hơn từ cùng một nhóm.
+
+## Nhóm Kẻ Địch Thường
+
+Vật Phẩm trong nhóm có thể tìm được thông qua việc đánh bại Kẻ Địch Thường cùng một vài Kẻ Địch Tinh Anh có độ hiếm 1-3 sao. Những vật phẩm này rất cần thiết cho việc đột phá nhân vật và vũ khí cũng như thăng cấp thiên phú.
+- Trong Đột Phá Nhân Vật, những vật phẩm này được sử dụng cùng với Nguyên Liệu Đột Phá Nhân Vật và Đặc Sản Khu Vực.
+- Trong Đột Phá Vũ Khí, những vật phẩm này được sử dụng cùng với Nguyên Liệu Của Kẻ Địch Tinh Anh và Nguyên Liệu Đột Phá Vũ Khí.
+- Trong Thăng Cấp Thiên Phú, những vật phẩm này được sử dụng cùng với Nguyên Liệu Nâng Cấp Thiên Phú.
+
+## Nhóm Kẻ Địch Tinh Anh
+
+Vật Phẩm trong nhóm này có thể được tìm thấy thông qua việc đánh bại Kẻ Địch Tinh Anh có độ hiếm 2-4 sao. Những vật phẩm này rất cần thiết cho việc đột phá vũ khí thông qua việc sử dụng cùng nguyên liệu từ Kẻ Địch Thường và Nguyên Liệu Đột Phá Vũ Khí.
+
+- Thiên Phú Chế Tạo: Một số Nhân Vật sở hữu Thiên Phú Nội Tại Cố Định cung cấp thêm Nguyên Liệu nâng cấp nhân vật và vũ khí khi Ghép.

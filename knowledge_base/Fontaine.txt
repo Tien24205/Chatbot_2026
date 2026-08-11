@@ -1,0 +1,48 @@
+# Fontaine
+
+## Thông Tin Cơ Bản
+
+map: Teyvat
+chapter: Chương 4
+element: Thủy
+archon: Không có
+ideal: Chính Nghĩa
+main city: Đại Sảnh Fontaine
+controlling_entity: Palais Mermonia
+archonNote: Ngai thần bị xoá bỏ
+
+- Cách Đi Đến Fontaine: Sau khi làm nhiệm vụ, bản đồ Fontaine sẽ được mở khóa. Sau khi hoàn thành nhiệm vụ, một Điểm Dịch Chuyển gần Fontaine ở Vườn Ươm Farakhkert, Sumeru sẽ mở khóa, giúp đi đến Fontaine dễ dàng hơn.
+
+## Mô Tả
+
+Fontaine nổi danh là trung tâm văn hóa và nghệ thuật trên toàn đại lục Teyvat; hoặc như lời thương nhân lữ hành Fontaine Francis, Fontaine mang "vẻ chân mỹ và tao nhã". Tờ báo Chim Hơi Nước là cơ quan ngôn luận chính của Tòa Án Fontaine. Chúng ta đã biết Mona là cộng tác viên dài kỳ của tờ báo này, vậy nên có thể tòa soạn báo này tuyển cộng tác viên khắp Teyvat. Theo tờ báo Chim Hơi Nước, Fontaine nằm ở phần giữa Teyvat và là cội nguồn của ngàn dòng nước trên đại lục. Phần đất liền của Fontaine cao hơn rất nhiều so với mặt biển, nên Fontaine có độ cao cao hơn so với hầu hết các nước đã biết ở Teyvat. Rìa Fontaine, có một thác nước khổng lồ cao đến vài kilomet.
+
+Fontaine là quốc gia của công nghệ, đến mức công nghệ đã thấm đẫm sâu trong mỗi ngóc ngách của đất nước này. Có thể thấy dấu ấn Fontaine trong các câu chuyện và điểm ngắm cảnh như Lò Luyện Mikage, được thiết kế bởi các kỹ sư người Fontaine, trong đó có Xavier; hay như trong một số sự kiện giới hạn như trong Đại Hội Đấu Nấm Siêu Cấp, ta biết được Ngọc Trí Tuệ là thiết bị thiết kế tại Fontaine giúp ngăn chặn các biểu hiện đặc biệt của sinh vật.
+
+Một số sự kiện nhỏ khác cho biết sức mạnh về công nghệ của Fontaine, như thiết bị Cốt Lõi Cơ Khí đến từ Fontaine giúp sản xuất và phân phối đồ chơi, hay Tranh Máy Móc Vĩnh Cửu có hệ thống bánh răng cơ khí.
+
+Fontaine có hệ thống năng lượng đặc biệt, tuy nhiên năng lượng ở Fontaine đang dần cạn kiệt, nên mọi người đang đi tìm kiếm nguồn năng lượng thay thế. Hơn nữa, tình trạng môi trường ở Fontaine đang đi theo chiều hướng xấu. Santon nói rằng không khí ở Fontaine rất độc hại và môi trường ở Fontaine ngày càng xa rời thiên nhiên.
+
+Theo Vasco, có thể nhận chứng chỉ lặn ở Fontaine. Có thể việc lặn ở Fontaine rất phổ biến.
+
+Liben nói rằng tình trạng của Fontaine rất căng thẳng đến ngộp thở. Anh mô tả người dân bản địa đang trong tình thế đứng ngồi không yên, và một "phán quyết" sắp giáng xuống.
+
+Ở Fontaine có một nơi gọi là Viện Khoa Học Fontaine.
+
+Cũng tại Fontaine, có một số chủng tộc khác ngoài con người đang sinh sống như Melusine và từng có Tinh Linh Nước Trong.
+
+## Từ Nguyên
+
+- mang nghĩa "đài phun nước" trong tiếng Pháp.
+- Tên tiếng Trung của Fontaine,, có thể được lấy từ "Fontainebleau" (), một đội bảo an ở khu nội thành Paris được biết đến với thành của họ nằm bên cạnh dòng nước.
+
+## Tham Khảo Văn Hóa
+
+- Dựa theo khoa học công nghệ, sự coi trọng "chân mỹ và thanh tao" và trang phục đặc trưng của NPC ở Fontaine, có thể thấy đất nước này được lấy cảm hứng từ, thời kỳ nằm ở cuối thế kỷ XIX trong lịch sử Pháp nổi bật với sự tiến bộ về khoa học công nghệ và phát triển tột bậc về cái đẹp.
+- Nhạc Chủ Đề Fontaine trong Trailer chương chính: Dấu Chân có thể được dựa trên "Aquarium" của ' được sáng tác bởi.
+- Fontaine có thể gợi nhắc đến trò chơi Bioshock.
+- Nhân vật Frank Fontaine là phản diện đầu tiên của Bioshock.
+- Cái tên "Fontaine" hoặc "Fountain" có thể gợi nhắc về tiểu thuyết của Ayn Rand The Fountainhead, trong đó có nhân vật Frank Fontaine là cảm hứng cho cái tên của Thủy Quốc.
+- Hơn nữa, tờ báo Chim Hơi Nước có thể tham khảo từ Songbird canh giữ tòa tháp của Elizabeth trong Bioshock Infinite.
+- Cặp song sinh Lyney và Lynette có thể là sự vinh danh gửi đến Robert và Rosalind Lutece, cặp song sinh bí ẩn xuất hiện trong Bioshock Infinite.
+- Thêm nữa, bối cảnh trong trò chơi đầu tiên trong chuỗi trò chơi Bioshock là thành phố dưới nước thuộc Rapture, trong khi Fontaine củaGenshin Impact là quốc gia của nước.

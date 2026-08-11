@@ -1,0 +1,33 @@
+# Nicole
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+quality: 5
+weapon: Pháp Khí
+element: Hỏa
+teamBonus: Hexerei
+name: Nicole
+realname: Nicole Reeyn
+birthday: 29 tháng 09
+constellation: Kim Hạp
+affiliation: Hội Ma Nữ
+affiliation2: Đảo Thiên Không
+affiliationNote2: trước đây
+affiliation3: Hyperborea
+affiliationNote3: trước đây
+dish: Rương Vàng Chạm Trổ
+namecard: Thang Trời
+obtain: Cầu Nguyện Nhân Vật
+event_name: Khúc Mặc Tưởng Rực Trời
+releaseDate: 2026-05-20 11:00:00 GMT+8
+group: Thiên Sứ
+title: Huyên Náo Trong Tim
+title2: Ma Nữ Lặng Im, Thiên Sứ Từ Bỏ Giọng Nói
+voiceEN: [[imdb:nm0787155
+Sophie Shad]]<ref name: "Luna III EN">YouTube: Video Giới Thiệu Phiên Bản Luna III "Thơ Dạ Hành Cực Bắc" (Mô tả video)
+voiceCN: Yun He Zhui (zh|云鹤追)
+voiceJP: w|Megumi Toyoguchi|Toyoguchi Megumi (ja|豊口めぐみ)
+voiceKR: w|ko:이소은_(성우)|Lee So-eun (ko|이소은)
+
+- Tổng Quan: Nicole là một nhân vật hệ chơi được trong Genshin Impact. Cô là một Thiên Sứ không có giọng nói và là một thành viên của Hội Ma Nữ với biệt hiệu "N".

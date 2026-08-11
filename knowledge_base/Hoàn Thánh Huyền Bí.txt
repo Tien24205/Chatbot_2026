@@ -1,0 +1,10 @@
+# Hoàn Thánh Huyền Bí
+
+## Tổng Quan
+
+type: Phương Thức Chế Tạo
+type2: Hệ Thống Trò Chơi
+
+Hoàn Thánh Huyền Bí là một Phương Thức Chế Tạo có sẵn tại Đài Ghép khi đạt Hạng Mạo Hiểm 45 để thực hiện Giả Kim.
+
+Người chơi có thể bỏ 3 Thánh Di Vật 5 sao để có thể nhận một Tráp Thánh có chứa một Thánh Di Vật ngẫu nhiên. Tại Phiên Bản 3.0, có tổng cộng 14 loại Thánh Di Vật người chơi có thể chọn để tạo Tráp Thánh.

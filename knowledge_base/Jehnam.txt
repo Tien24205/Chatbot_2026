@@ -1,0 +1,11 @@
+# Jehnam
+
+## Thông Tin Cơ Bản
+
+type: NPC Nhiệm Vụ
+region: Sumeru
+location: Sumeru
+affiliation: "Lữ Đoàn 30"
+title: Lính Đánh Thuê "Lữ Đoàn 30"
+
+- Tổng Quan: Jehnam là một NPC độc quyền nhiệm vụ xuất hiện trong Nhiệm Vụ Truyền Thuyết của Cyno, Chương Kim Lang: Màn 1 - Cát Chìm Tĩnh Lặng.

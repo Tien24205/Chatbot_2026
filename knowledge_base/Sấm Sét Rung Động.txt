@@ -1,0 +1,68 @@
+# Sấm Sét Rung Động
+
+## Thông Tin Cơ Bản
+
+id: 15509
+type: Cung
+quality: 5
+series: Inazuma
+obtain: Sự Kiện Cầu Nguyện Vũ Khí
+2nd_stat_type: ST Bạo Kích
+base_atk: 46
+2nd_stat: 14,4%
+passive: Đế Chế Sấm Sét
+eff_rank1_var1: 20
+eff_rank2_var1: 25
+eff_rank3_var1: 30
+eff_rank4_var1: 35
+eff_rank5_var1: 40
+eff_rank1_var2: 12/24/40
+eff_rank2_var2: 15/30/50
+eff_rank3_var2: 18/36/60
+eff_rank4_var2: 21/42/70
+eff_rank5_var2: 24/48/80
+eff_att1: Tăng ST Đánh Thường
+eff_att2: Tấn Công
+eff_att3: Năng Lượng Nguyên Tố
+
+## Effect
+
+Tấn công tăng (var1)% đồng thời nhận lấy sức mạnh "Vết Cắt Sấm Sét".Khi Vết Cắt Sấm Sét ở tầng 1/2/3 sẽ tăng sát thương tấn công thường tương ứng (var2)%.Nhân vật sẽ được nhận 1 tầng Vết Cắt Sấm Sét khi: Gây sát thương tấn công thường trong 5 giây; thi triển Kỹ Năng Nguyên Tố tồn tại trong 10 giây; ngoài ra Năng Lượng Nguyên Tố thấp hơn 100%, sẽ tạo một tầng Vết Cắt Sấm Sét, Vết Cắt Sấm Sét của lần này sẽ biến mất sau khi Năng Lượng Nguyên Tố của nhân vật được nạp đầy. Thời gian tồn tại của mỗi tầng Vết Cắt Sấm Sét được tính độc lập với nhau.
+
+- Tổng Quan: Sấm Sét Rung Động là một chiếc cung của người Inazuma.
+
+## Câu Chuyện
+
+Cây cung khắc lôi quang rực rỡ, cho dù bị bóng tối dày đặc tẩy rửa, cũng không mất đi vẻ ngoài oai nghiêm
+Tai ương của thời đại thống khổ đến từ vùng biển xa xôi đã từng là vũ khí đáng tự hào của một kiếm khách nào đó.
+Khi còn là một thiếu niên tự do lang bạt khắp núi rừng, và chơi trò cá cược với Tengu vô tình gặp được.
+Với thân thể trẻ trung dũng mãnh và cây cung khắc chữ mà tướng quân ban tặng, cũng đã trở thành món cược.
+
+Còn quá trình cá cược như thế nào, có lẽ chỉ có thể lờ mờ nhớ được khi say.
+Nhưng cho đến khi màn đêm dần nhường chỗ cho những tia nắng đầu tiên, vụ cá cược cùng Tengu với tỷ số hòa, ba thắng và ba thua.
+Ngay sau đó, không may bị Tengu nhận làm người hầu, nhưng lại may mắn nhận được cây cung vô cùng quý giá.
+
+“Konbu Miru, cung pháp của Tengu ta là như thế này, hãy nhìn cho thật kỹ
+Bị gán cho một cái biệt danh kỳ lạ, nhưng sau cùng đã được nhìn thấy tư thế của Tengu.
+Bay qua những đám mây, vực sáng trở lại và lao xuống không bị cản trở, phóng ra những môi tên sấm sét bằng dây cung
+Đó là điệu múa giết chóc chân chính, dữ dội và khó đoán, thanh lịch và đẹp đẽ.
+
+Nhiều năm về sau, đã không còn là một đứa nhóc đầy tớ, cũng học được các kỹ năng bắn cung và kiếm thuật.
+Và thế là, bị ông chủ thiếu kiên nhẫn của mình gửi đến Shogunate với một lá thư giới thiệu.
+Trong những tháng năm đi theo tướng quân, võ nghệ có nhiều tiến bộ, kết giao thêm được rất nhiều bạn bè và kẻ địch.
+Sở thích tự do chưa bao giờ thay đổi, còn có cây cung khắc chữ của Tengu, càng không có gì phải sợ hãi.
+
+"Chúng ta cược với nhau đi, thế nào? Được, lấy luôn cây cung này để cược đi"
+"Ta muốn lấy cây cung tốt nhất thiên hạ này để đặt cược, cược rằng ta sẽ sống sót trở về."
+"Cứ để tạm ở chỗ ngươi đi. Nếu ta thua, thì cây cung này thuộc về ngươi"
+"Dẫu sao thì người cũng đã được kế thừa kỹ thuật bản cung của ta. Người tôi có thể sử dụng nó một cách hiệu quả."
+"Nhưng nếu như ta thắng...-"
+
+Khi thảm họa từ biển khơi tràn vào, võ sĩ và nữ pháp sư can đảm đã có một cuộc cá cược.
+Lấy cơ hội trở về từ vực sâu và cây cung khắc chữ mà Shogun ban cho để đặt cược.
+
+Khi chất độc dơ bẩn đen tối ngấm vào lòng đất, thời bình trở lại, kiếm khách kia vẫn chẳng trở về.
+Và kết quả ván cược, cây cung khắc chữ do tướng quân ban tặng đã được giao cho nữ pháp sư.
+
+Tiếp sau đó, trong khu rừng Kitsune Saiguu không còn hiện thân nữa, tại nơi hẹn ước gặp lại,
+kẻ cô đơn loạng choạng sau khi quay trở về từ vực sâu, cuối cùng cũng đã gặp lại nữ pháp sư, nhưng cô đã không còn trẻ nữa.

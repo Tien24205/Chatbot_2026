@@ -1,0 +1,46 @@
+# Lễ Hội Hoa Gió
+
+## Truyền Thống
+
+type: Văn Hóa Mondstadt
+type2: Lễ Hội
+
+- Tổng Quan: Lễ Hội Hoa Gió là một lễ hội ở Mondstadt mừng ngàn ngọn gió.
+
+Trong Lễ Hội Hoa Gió, người dân Mondstadt sẽ dâng Hoa Gió cho Barbatos và những người mà họ yêu mến. Hoa Gió cũng có thể đi cùng với những món quà khác, ví dụ như thơ tình. Mặc dù mang sắc thái lãng mạn nhưng Lễ Hội Hoa Gió không chỉ mang mục đích lãng mạn. Lễ Hội Hoa Gió cũng là cơ hội để cải thiện nhũng mối quan hệ đang có.
+
+Trong thời gian lễ hội, điều quan trọng nhất là một người cần tìm cách giải quyết vấn đề của mình, nhất là những người còn độc thân và đang đi tìm tình yêu. Thật khó để một người biết được họ có thể làm gì cho người khác, khó đến mức trong thời gian này Hiệp Hội Nhà Mạo Hiểm cũng chẳng có mấy ủy thác.
+
+Mỗi mùa Lễ Hội Hoa Gió, người đã thực sự chứng minh được bản thân trong lễ hội hoặc người đã có nhiều cống hiến cao cả cho Mondstadt sẽ được chọn làm Ngôi Sao Lễ Hội Hoa Gió, đại diện cho người dân Mondstadt trao tặng Hoa Gió mà họ chọn cho Barbatos trong Điển Lễ Hoa Gió. Tuy nhiên mọi người cũng có thể trao Hoa Gió cho Barbatos tại Tượng Phong Thần trong suốt thời gian diễn ra lễ hội.
+
+Hiện tại mọi người cũng có thể tham gia nhiều nhiều hoạt động vui chơi trong Lễ Hội Hoa Gió.
+
+Một trong những phong tục của Thanh Tuyền Trấn trong Lễ Hội Hoa Gió là các thợ săn trẻ đang đi tìm tình yêu sẽ đến Lang Lãnh bắt cáo rồi đội vòng hoa lên đầu cáo.
+
+- Lịch Sử: Hiện vẫn chưa rõ Lễ Hội Hoa Gió diễn ra lần đầu tiên là khi nào nhưng nguồn gốc của nó bắt đầu từ thời Decarabian khi những người tham gia nổi dậy dùng Hoa Gió làm mật mã của họ.
+
+## Hoa Gió
+
+Hoa Gió không phải là một loài thực vật cụ thể và hữu hình. Nó tồn tại trong giấc mơ của người dân Decarabian như một loài hoa vô danh, "lơ lửng" và phát triển mạnh mẽ dù trong môi trường đầy khắc nghiệt của gió và tuyết, có lẽ có bao gồm cả vùng đất hoang băng giá bên ngoài thành Decarabian hoặc nơi biên giới thành đô.
+
+Những người nổi dậy khởi nghĩa chống lại Decarabian đã dùng Hoa Gió làm mật mã bởi điều kiện sinh trưởng của Hoa Gió gần như tương tự với hoàn cảnh của họ ngay khi ấy. Đặc biệt, Hoa Gió có liên quan tới Gia Tộc Ragnvindr và có lẽ là cả hậu duệ của gia tộc này nữa bởi họ có xuất thân từ chiến binh tóc đỏ đã kề vai sát cánh bên Barbatos trong trận khởi nghĩa chống lại Decarabian. Người Mondstadt đều biết Hoa Gió là biểu tượng của cuộc khởi nghĩa chống lại Decarabian nhưng lại không biết nhiều mối liên kết của nó với gia tộc Ragnvindr.
+
+Ngày nay hình dáng thực sự của Hoa Gió vẫn còn là một chủ đề gây tranh cãi. Mỗi người đều có một loài hoa mà họ coi là Hoa Gió, các ứng cử có bao gồm Bồ Công Anh được nhiều người biết đến cho đến tận Quả Móc Câu có lẽ chỉ là Hoa Gió trong lòng Razor và Bennett. Phong Thần Barbatos quyền tự do của mỗi cá nhân, để mỗi người quyết định xem loài hoa nào là Hoa Gió của mình chứ không chỉ định rõ Hoa Gió là loài hoa nào, thậm chí cũng có thể nói rằng Hoa Gió ở khắp mọi nơi hay không tồn tại.
+
+Ý kiến về Hoa Gió thường trùng khớp với ý kiến về việc Lễ Hội Hoa Gió tổ chức để kỷ niệm điều gì. Phái phổ biến nhất là phái Bồ Công Anh tin rằng Hoa Gió là hoa Bồ Công Anh, Lễ Hội Hoa Gió là lễ hội tình yêu. Phái phổ biến tiếp sau là phái Cúc Cánh Quạt tin rằng Hoa Gió là hoa Cúc Cánh Quạt, Lễ Hội Hoa Gió là lễ hội kỷ niệm ngày giải phóng Mondstadt Cũ khỏi ách cai trị của Decarabian.
+
+Danh sách các ứng cử Hoa Gió theo như trong Lời Mời Của Hoa Gió bao gồm:
+- Bồ Công Anh
+- Cúc Cánh Quạt
+- Hoa Cecilia
+- Hoa Ngọt
+- Tiểu Đăng Thảo
+- Quả Móc Câu
+
+Mặc dù không được thống nhất rằng loài hoa (hoặc cây) nào mới thực sự là Hoa Gió nhưng nó chính là biểu tượng của Lệ Hội Hoa Gió và là biểu trưng cho tình yêu và sự tự do.
+
+## Trivia
+
+- Đỉnh Lời Thề là điểm hẹn hò nổi tiếng trong lễ hội này.
+- Venti thích rượu vang phiên bản giới hạn có tên Rượu Táo Hoa Tươi được các quán rượu bán trong lễ hội.
+- Lễ Hội Hoa Gió tập trung vào tình yêu cả lãng mạn cả không lãng mạn, phong tục tặng quà cho những người yêu thương có thể được lấy cảm hứng từ.

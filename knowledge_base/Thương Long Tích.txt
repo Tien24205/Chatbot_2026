@@ -1,0 +1,80 @@
+# Thương Long Tích
+
+## Thông Tin Cơ Bản
+
+id: 13409
+type: Vũ Khí Cán Dài
+releaseDate: 2020-12-23
+quality: 4
+base_atk: 41
+2nd_stat_type: Tăng ST Vật Lý
+2nd_stat: 15%
+series: Long Tích
+passive: Sương Táng
+effect: Khi tấn công thường và trọng kích đánh trúng kẻ địch có tỷ lệ (var1)% tạo ra Đá Vĩnh Hằng phía trên kẻ địch và rơi xuống, gây sát thương [[Sát Thương Phạm Vi
+eff_rank1_var1: 60
+eff_rank2_var1: 70
+eff_rank3_var1: 80
+eff_rank4_var1: 90
+eff_rank5_var1: 100
+eff_rank1_var2: 80
+eff_rank2_var2: 95
+eff_rank3_var2: 110
+eff_rank4_var2: 125
+eff_rank5_var2: 140
+eff_rank1_var3: 200
+eff_rank2_var3: 240
+eff_rank3_var3: 280
+eff_rank4_var3: 320
+eff_rank5_var3: 360
+eff_att1: ST Vật Lý
+eff_att2: ST Phạm Vi
+eff_att3: Hiệu Quả Kích Hoạt Khi Tấn Công Thường
+obtain: Rèn
+obtain2: Rương
+quest: Răng Mục Nát
+diagram: Nhiệm Vụ Răng Mục Nát
+
+- Tổng Quan: Thương Long Tích là một Vũ Khí Cán Dài 4 Sao có thể rèn được.
+
+## Câu Chuyện
+
+Anh đã mơ một giấc mơ rất dài, rất dài...
+
+Trong mơ anh đã đi cùng mọi người một con đường rất xa, rất xa...
+
+Đến mảnh đất ngập tràn múa ca, cỏ xanh bát ngát.
+
+Trong mơ anh cùng những người lương thiện nơi đây vui vẻ ca hát,
+
+Cùng Rồng đẹp đẽ như đá quý nhảy múa giữa trời.
+
+Khi mở mắt ra, là bầu trời trên núi cao gió tuyết rít gào.
+
+Vùng đất yên bình tươi xanh đã bị nhuộm đỏ bởi máu và lửa,
+
+Tiếng đàn của nhà thơ gần như bị át đi bởi tiếng gầm.
+
+Còn Rồng đẹp đẽ như bảo thạch kia hệt như người tình,
+
+Găm những chiếc răng sắc nhọn lên cổ anh.
+
+"Tạm biệt, mẹ ơi, hành trình của con đã kết thúc rồi"
+
+"Được ngủ trong tuyết bạc sáng lấp lánh cũng không tồi"
+
+"Tạm biệt, nhà thơ xinh đẹp, rồng đẹp xinh"
+
+"Nếu chúng ta có thể không cùng một thời gian, một địa điểm"
+
+"Gặp gỡ, hát ca, nhảy múa, vậy thì tốt biết mấy"
+
+Anh ấy đã suy nghĩ chân thành như vậy trước khi chết.
+
+"Lời chúc phúc sâu sắc len lỏi trong huyết quản của tôi"
+
+"Bức tranh tuyệt đẹp về vũ trụ tăm tối mà tôi sinh ra"
+
+"Hãy để các người kế thừa"
+
+- Phần thưởng từ Nhiệm Vụ Thế Giới Răng Mục Nát. - Bản Vẽ Rèn có thể được nhận khi nhiệm vụ kết thúc. - Rèn.

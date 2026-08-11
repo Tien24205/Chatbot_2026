@@ -1,0 +1,37 @@
+# Địa Mạch Trấn Thạch
+
+## Tổng Quan
+
+type: Hệ Thống Trò Chơi
+
+Địa Mạch Trấn Thạch thường xuất hiện trong Bí Cảnh, Nhiệm Vụ và các tầng trong La Hoàn Thâm Cảnh. Các loại trấn thạch này luôn tràn đầy năng lượng nên thu hút ma vật. Không rõ nguyên do nào mà ma vật thường tấn công trấn thạch.
+
+Hiện tại, Địa Mạch Trấn Thạch nằm trong thử thách bảo vệ trấn thạch khỏi Kẻ Địch. Trấn thạch có lượng HP cố định không thể hồi lại, nếu đánh bại hết kẻ địch trước khi HP của trấn thạch về 0 thì sẽ hoàn thành thử thách.
+
+- Vững Như Bàn Thạch
+
+- Chương I: Màn 3 - Ngôi Sao Đang Đến: Về Trời (bảo vệ Máy Guizhong)
+
+## Nhiệm Vụ Truyền Thuyết
+
+- Nhiệm Vụ Truyền Thuyết Eula: Chương Bọt Biển, Lời Nói Và Dáng Vẻ
+- Nhiệm Vụ Truyền Thuyết Ganyu: Chương Tiên Lân, Tiên Thú Biển Mây
+- Nhiệm Vụ Truyền Thuyết Hu Tao: Chương Dẫn Điệp, Tìm kiếm người không tồn tại
+
+- Mây Xưa Có "Li" (Bảo vệ kho báu bí ẩn Khinh Sách không bị phá hoại) - Răng Watatsumi - Câu Chuyện Tatara - Chương Cuối (Bảo vệ thiết bị thanh tẩy không bị phá hoại)
+
+## La Hoàn Thâm Cảnh
+
+- Tầng 2 Phòng 2
+- Tầng 4 Phòng 2
+- Một số tầng trong Ánh Trăng Vực Sâu (xem các tầng trước đó)
+- La Hoàn Thâm Cảnh/Tầng/2020-09-28: Tầng 11 Phòng 2, Tầng 12 Phòng 2
+- La Hoàn Thâm Cảnh/Tầng/2021-01-01: Tầng 11 Phòng 2
+- La Hoàn Thâm Cảnh/Tầng/2021-05-01: Tầng 11 Phòng 1
+- La Hoàn Thâm Cảnh/Tầng/2021-06-16: Tầng 11 Phòng 1
+- La Hoàn Thâm Cảnh/Tầng/2021-12-01: Tầng 11 Phòng 1
+- La Hoàn Thâm Cảnh/Tầng/2022-01-16: Tầng 11 Phòng 1
+- La Hoàn Thâm Cảnh/Tầng/2022-04-01: Tầng 11 Phòng 1
+- La Hoàn Thâm Cảnh/Tầng/2022-06-01: Tầng 11 Phòng 1
+
+- Cô Vân Lăng Tiêu: I-IV - Mật Cung Vô Vọng: I

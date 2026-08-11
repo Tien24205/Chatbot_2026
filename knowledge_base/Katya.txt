@@ -1,0 +1,54 @@
+# Katya
+
+## Tổng Quan
+
+type: NPC Đại Thế Giới
+region: Nod-Krai
+location: Nod-Krai
+affiliation: Speranza
+title: Chủ Tiệm "Speranza"
+dialoguereward: Hot Dog Nod-Krai Ngon*2;Fonta*2
+
+Katya là một NPC cửa hàng trong đại thế giới có vị trí tại. Cô là chủ tiệm của Speranza, được đánh dấu bằng biểu tượng trên bản đồ.
+
+Cửa hàng của cô mở cửa vào mọi thời điểm trong ngày, chuyên bán thực phẩm, công thức và nguyên liệu. Các món ăn sẽ được làm mới hàng ngày, còn nguyên liệu sẽ được làm mới hàng tuần.
+
+Lần đầu nói chuyện và chọn đúng nhánh hội thoại sẽ nhận được 2 Hot Dog Nod-Krai Ngon và 2 Fonta.
+
+## Tiểu Sử
+
+Katya từng là một nhà mạo hiểm nhưng đã nghỉ hưu do chấn thương. Với tư cách là chủ tiệm của Speranza, cô thu nhận những đứa trẻ lang thang trên đường phố, tạo công việc cho chúng tại nhà hàng, đồng thời cung cấp thức ăn và nơi ở. Những đứa trẻ này dần được biết đến với tên gọi "Bang Ốc Biển".
+
+Aino từng là một trong những đứa trẻ được cô thu nhận.
+
+- Ngoại Hình: (sẽ được thêm sau.)
+
+- Lời Thoại Nhàn Rỗi: Nếm thử đi! : "Hot Dog Nod-Krai! Nóng hổi mới ra lò! Nếm thử đi!"
+
+## Bộ Hội Thoại #1
+
+Katya: Chào mừng, muốn ăn chút gì không? Món ăn nóng hổi, đồ uống mát lạnh, ở đây chúng tôi đều có cả.
+Cho tôi xem thực đơn nhé.
+:Katya: Mời xem.
+;(Mở giao diện cửa hàng)
+Nhân viên ở đây trông nhỏ tuổi quá nhỉ.
+:Katya: Mấy đứa trẻ này à, phần lớn đều không có ai chăm sóc, vốn sống lang thang ngoài đường. Tôi thấy không đành lòng, nên ít nhất cũng cho chúng một nơi trú ngụ và một bữa ăn nóng hổi.
+:Katya: Nhưng ăn rồi thì phải lao động. May mà bọn trẻ cũng đều sẵn lòng, thế là quán nhỏ của chúng tôi cứ thế mà mở thôi.
+Có tin tức gì thú vị không?
+:Katya: Vậy thì đến nhầm chỗ rồi. Tôi đã không còn làm thợ săn kho báu từ lâu lắm rồi, hãy đến "Soái Hạm" dò hỏi thử xem, chắc chắn sẽ tìm được thứ muốn nghe đấy.
+:Katya: Hoặc là đi hỏi bọn trẻ xem, tin tức giữa bọn trẻ luôn lan truyền rất nhanh.
+:Katya: Nhưng không được hỏi chúng về những chuyện nguy hiểm nhé. Chúng sẽ nảy sinh tò mò, cuối cùng tự đẩy mình vào nguy hiểm, tôi không cho phép chuyện đó xảy ra đâu.
+Tôi vẫn chưa đói, thôi vậy.
+:Katya: Đi thong thả nhé.
+
+## Bộ Hội Thoại #2
+
+Người chơi có thể mở khóa sau khi hoàn thành Gương, Mê Cung Và Quốc Vương, chỉ nhận được một lần duy nhất.
+Paimon: Xin chào! Maite đã đưa cho chúng tôi cái này, còn nói khi ăn ở đây chỉ cần nhắc đến tên của em ấy...
+Là có thể ăn uống miễn phí!
+:Katya:...Ồ? Maite nói vậy sao?
+:Paimon:! Maite đâu có nói vậy? Rõ ràng em ấy nói là nếu chị Katya... À, nếu tâm trạng của chị Katya đang vui, thì không chừng sẽ tặng một ly đồ uống gì đó...
+Nếu tâm trạng của chị Katya vui thì sẽ được tặng đồ uống.
+Katya: Hai vị là bạn của Maite à? Tốt quá! Vậy xem như hai vị gặp may rồi, hôm nay tôi sẽ bao hết những món này.
+Katya: Sau này hãy giúp đỡ cho Maite nhé. Và tôi lúc nào cũng hoan nghênh các vị đến Speranza dùng bữa.
+;(Nhận và )

@@ -1,0 +1,15 @@
+# Hội Đấu Võ Nam Thập Tự
+
+## Tổng Quan
+
+type: Cốt Truyện
+type2: Trò Chơi Giải Trí
+region: Liyue
+
+Hội Đấu Võ Nam Thập Tự là hội đấu võ do Beidou của Đội Thuyền Nam Thập Tự chủ trì định kỳ để tìm ra tài năng võ thuật còn ẩn giấu trong Liyue.
+
+Trong giải đấu này, hai người tham gia đối đầu trực tiếp, ai thắng sẽ được đi tiếp vào vòng trong và người thua sẽ bị loại. Beidou yêu cầu người tham gia phải lừng danh võ thuật và không có Vision, hầu hết những người tham gia đều có ít hoặc không có tài nghệ võ thuật.
+
+Trong, phần thưởng của giải đấu là Vision vô chủ của Kazuha. Sau khi Nhà Lữ Hành kể cho Beidou về được nguyện vọng đến Inazuma, Beidou đổi phần thưởng cho Nhà Lữ Hành, từ vision vô chủ sang một chuyến đi đến Inazuma bằng thuyền Ngôi Sao Chết Chóc của Đội Thuyền Nam Thập Tự.
+
+- Nhà Lữ Hành (trong Gió Thu Vén Áo Hỏi Lá Đỏ) - Sư Phụ Tần "Tay Sấm" (không rõ đã thắng ở những giải đấu trước hay chưa)

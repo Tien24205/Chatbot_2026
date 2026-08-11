@@ -1,0 +1,106 @@
+# Túi
+
+## Tổng Quan
+
+type: Hệ Thống Trò Chơi
+group: Giao Diện
+
+Túi là nơi chứa tất cả vật phẩm người chơi thu thập được trên hành trình thám hiểm Teyvat.
+
+Ngoại trừ Vũ Khí và Thánh Di Vật được tính theo bộ đếm khác, tối đa chỉ có thể chứa 2000 loại vật phẩm khác nhau. Giới hạn này dựa vào loại vật phẩm, và số lượng mỗi loại vật phẩm sẽ không tính vào giới hạn này. (Ví dụ, nếu bạn có 400 Quả Mâm Xôi, nó sẽ được tính là 1 loại vật phẩm, thay vì 400.)
+
+## Số Lượng Vật Phẩm Tối Đa
+
+Số lượng vật phẩm tối đa của một loại vật phẩm phụ thuộc vào việc đó là loại vật phẩm gì:
+- 99.999: Quặng Đúc, Nguyên liệu EXP cho Vũ Khí, Nhân Vật và Thánh Di Vật
+- 20.000: Xu May Mắn
+- 2.000: Thực Phẩm và Bụi Biến Đổi
+- 999: "Chiếc Răng" Kỳ Lạ và Răng Rồng Hấp Thụ Sức Mạnh
+- 99: Bình Tiên Tốc, Đạo Cụ Nhỏ tiêu hao, Đạn Nổ Chuẩn, Đạn Nổ Bay Bổng, Đạn Nổ Nóng Rực
+- 10: Thư Mời Quyết Đấu
+- 5: Nhựa Cô Đặc
+- 1: Đạo Cụ Nhỏ tái sử dụng và hầu hết các Đạo Cụ Nhiệm Vụ
+- 9.999: Các vật phẩm còn lại
+
+Một số Đạo Cụ Nhiệm Vụ có ngoại lệ cho lượng vật phẩm tối đa, ví dụ như Túi Mora của Teucer và Childe (35.000).
+
+Nếu người chơi tiếp tục thu thập vật phẩm khi đã đạt giới hạn số lượng, một dòng tin nhắn sẽ hiện lên trên màn hình, với tiêu đề "Gợi Ý", kèm theo dòng chữ: "Túi đầy, vui lòng sắp xếp và thử lại". Nếu người chơi nấu món ăn đã có 2.000 món, dòng thông báo sau sẽ hiện lên màn hình: "Không thể chứa thêm [Tên Món Ăn] nữa, vui lòng sắp xếp và thử lại"
+
+## Vũ Khí
+
+Tất cả Vũ Khí đã sở hữu sẽ ở đây. Có thể sắp xếp Vũ Khí theo Cấp Độ hoặc Phẩm Chất từ thấp lên cao hoặc ngược lại. Vũ Khí 1, 2, và 3 có thể tiêu hủy thành Tạp Khoáng Tinh Đúc, cũng có thể tự động thêm để tiêu hủy. Vũ Khí 4 và 5 không thể tiêu hủy được. Nếu Vũ Khí được trang bị, biểu tượng Nhân Vật sẽ được hiển thị ở góc trên bên phải.
+
+Chọn Chi Tiết để có thể xem Chi Tiết, Cường Hóa, Đột Phá hoặc Tinh Luyện, và Câu Chuyện của Vũ Khí. Tiêu đề của Menu là [Loại Vũ Khí] / [Tên Vũ Khí]. Chọn Chi Tiết > Trang Bị để trang bị Vũ Khí cho Nhân Vật hoặc đổi vũ khí giữa 2 nhân vật nếu như vũ khí đó đã được trang bị.
+
+Tối đa có thể chứa được 2.000 Vũ Khí
+
+## Thánh Di Vật
+
+Tất cả Thánh Di Vật đã sở hữu sẽ ở đây. Có thể sắp xếp Thánh Di Vật theo Cấp Độ hoặc Phẩm Chất từ thấp lên cao hoặc ngược lại, cũng như phân loại Thánh Di Vật theo Bộ Thánh Di Vật và Cố Định Trạng Thái (Khóa hoặc Chưa Khóa), Trạng Thái Cấp Độ (Cấp Tối Đa hoặc Chưa Đạt Cấp Tối Đa), Trạng Thái Trang Bị (Đã Trang Bị hoặc Chưa Trang Bị). Bộ Lọc cho Trạng Thái Thánh Di Vật sẽ vẫn được kích hoạt kể cả khi Túi đã đóng, nhưng Bộ Lọc cho Bộ Thánh Di Vật thì không. Thánh Di Vật 1, 2, 3, và 4 có thể tiêu hủy thành Mora. Thánh Di Vật 5 không thể tiêu hủy được. Thánh Di Vật 1, 2, và 3 có thể tự động thêm để tiêu hủy. Nếu Thánh Di Vật đang được trang bị, biểu tượng Nhân Vật sẽ được hiển thị ở góc trên bên phải.
+
+Chọn Chi Tiết để xem Chi Tiết, Cường Hóa và Câu Chuyện của Thánh Di Vật. Tiêu đề của Menu title sẽ là [Loại Thánh Di Vật] / [Tên Thánh Di Vật]. Chọn Chi Tiết > Trang Bị để trang bị Thánh Di Vật cho Nhân Vật hoặc đổi Thánh Di Vật nếu như Thánh Di Vật đã được trang bị. Thay đổi Thuộc Tính Bộ và Thuộc Tính Nhân Vật cũng sẽ được hiển thị.
+
+Tối đa có thể chứa được 2.100 Thánh Di Vật.
+
+## Đạo Cụ Bồi Dưỡng
+
+Mục này chứa nhiều loại đạo cụ liên quan đến cường hóa nhân vật và vũ khí như là Nguyên Liệu EXP Nhân Vật, Nguyên Liệu Bồi Dưỡng Nhân Vật Và Vũ Khí, Nguyên Liệu Từ Thủ Lĩnh Tuần, Nguyên Liệu Đột Phá Nhân Vật, Nguyên Liệu Thiên Phú Nhân Vật, và Nguyên Liệu Đột Phá Vũ Khí lần lượt theo thứ tự. Không có Bộ Lọc hay Sắp Xếp theo thứ tự trong mục này. Chỉ có nguyên liệu 1 và 2 sao có thể tiêu hủy được.
+
+## Thực Phẩm
+
+Đây là nơi chứa Thực Phẩm và Thuốc. Những vật phẩm này có thể được sử dụng trực tiếp từ Túi bằng cách chọn Dùng. Nếu như đạo cụ dùng để hồi máu hoặc hồi sinh nhân vật, nó có thể được sử dụng bằng cách chọn số lượng dùng và Nhân Vật trong đội hiện tại để dùng.
+
+Vật Phẩm được liệt kê theo thứ tự sau, từ trên xuống dưới, vật phẩm có chất lượng cao hơn sẽ xuất hiện trước, theo thứ tự Món Ăn Kỳ Lạ, Bình Thường, Ngon, Đặc Biệt:
+- Món Ăn Hồi HP Cố Định (Táo và Quả Nhật Lạc)
+- Nước Thánh
+- Món Ăn Hồi HP dựa trên Phần Trăm HP Tối Đa (không phân biệt giữa hồi % HP Tối Đa + HP Cố Định hoặc % HP Tối Đa + Hồi Máu Theo Thời Gian)
+- Món Ăn Hồi Sinh
+- Món Ăn Giảm Tiêu Hao Thể Lực
+- Món Ăn Phục Hồi Thể Lực
+- Món Ăn Tăng Tấn Công/Tỷ Lệ Bạo Kích/Sát Thương Vật Lý/Sát Thương Bạo Kích (không phân biệt giữa các loại)
+- Món Ăn Tăng Phòng Ngự/Hiệu Quả Khiên (không phân biệt giữa các loại)
+- Thuốc Kháng Nguyên Tố
+- Thuốc Tăng Sát Thương Nguyên Tố
+- Thịt Hầm Sốt Rau Củ
+
+Chỉ có Táo, Quả Nhật Lạc, và Nấm Sao có thể tiêu hủy được nhưng không có hoàn trả.
+
+## Nguyên Liệu
+
+Mục này chứa nhiều loại đạo cụ được sử dụng để Chế Tạo Đồ Trang Trí, Ủy Thác Rèn, Nấu Nướng và Giả Kim. Vật Phẩm được liệt kê theo thứ tự sau:
+- Nguyên Liệu Trang Trí
+- Nguyên Liệu Rèn
+- Phôi Bắc Lục
+- Phôi Trung Địa
+- Nguyên Liệu Khác
+- Nguyên Liệu Nấu Nướng
+- Đặc Sản Khu Vực
+
+Một số vật phẩm có thể tiêu hủy được nhưng không có hoàn trả.
+
+- Đạo Cụ Nhỏ: Đạo Cụ Nhỏ có thể nhận được thông qua Chế Tạo và Rèn. Vật phẩm có phẩm chất cao hơn sẽ xuất hiện trước. Không thể tiêu hủy đạo cụ trong mục này.
+
+## Nhiệm Vụ
+
+Đạo cụ thuộc loại này được nhận thông qua nhiệm vụ, sắp xếp theo Phẩm Chất từ cao đến thấp, bao gồm một vài quyển sách tìm được trong quá trình thám hiểm, mặc dù chúng không liên quan đến bất kì nhiệm vụ nào. Phần lớn những quyển sách có thể được tìm thấy ở Thư Viện, tuy nhiên một vài quyển sách vẫn có thể được tìm thấy trong túi.
+
+## Đạo Cụ Quý
+
+Đạo Cụ Mạo Hiểm như Thần Đồng, được dùng để hiến tế cho Thất Thiên Thần Tượng, và Chìa Khóa Đền Địa Linh có thể được tìm thấy ở đây. Dung Môi Ảo Mộng, Bụi Biến Đổi, Tinh Huy Vô Chủ, Tinh Trần Vô Chủ, Mối Duyên Vương Vấn, Mối Duyên Tương Ngộ, Ấn, Nhựa Dễ Vỡ, Nhựa Khoảnh Khắc, and Bình Tiên Tốc cũng được xếp vào mục này.
+
+Công Thức, Bản Vẽ, Giải Thích, Bản Vẽ Đồ Trang Trí và Bản Vẽ Bộ Trang Trí cũng được xếp vào mục này và có thể được sử dụng để học.
+
+Bẫy Săn Bắt nhận được từ nhiệm vụ truyền thuyết Ý Nghĩa Của Lupical cũng được xếp vào mục này.
+
+Đèn Tiêu nhận được từ Sự Kiện Tết Hải Đăng cũng được xếp vào mục này.
+
+Không thể tiêu hủy đạo cụ thuộc mục này.
+
+## Đồ Trang Trí
+
+Tất cả Đồ Trang Trí đã sở hữu cho Ấm Trần Ca đều được xếp vào mục này. Số lượng đồ trang trí cho Hình Thái Động Tiên hiện tại cũng sẽ được hiển thị ở đây. Đồ Trang Trí được sắp xếp theo thứ tự Ngày Nhận từ cũ nhất đến mới nhất và có thể được lọc theo Loại Đồ Trang Trí. Không thể tiêu hủy đạo cụ thuộc mục này.
+
+## Ngoài Lề
+
+- Có thể vượt qua giới hạn số lượng đối với vật phẩm thông thường nếu như người chơi nhận được vật phẩm đó thông qua nhiệm vụ. Ảnh chụp màn hình dưới đây cho thấy một người chơi sở hữu hơn 10.000 Lúa Nước, sau khi nhận được thêm Lúa Nước qua ủy thác Hương Vị Quê Nhà.
+- Bộ Lọc Bộ Di Vật sẽ không thay đổi thứ tự nếu nhận thêm bộ di vật mới cho đến khi Túi được đóng và mở lại.

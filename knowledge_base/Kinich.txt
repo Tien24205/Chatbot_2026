@@ -1,0 +1,32 @@
+# Kinich
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+quality: 5
+weapon: Trọng Kiếm
+element: Thảo
+name: Kinich
+birthday: 11 tháng 11
+constellation: Huyễn Thụy Thú
+region: Natlan
+affiliation: Dòng Dõi Vườn Treo
+affiliationLabel: Huitztlan
+dish: Phần Thưởng Thợ Săn Saurian
+namecard: Ajaw
+obtain: Cầu Nguyện Nhân Vật
+event_name: Đi Săn Trong Lửa
+releaseDate: 2024-09-17
+title: Thợ Săn Hồi Hỏa
+title2: Thợ Săn Saurian Của Huitztlan
+voiceEN: [[imdb:nm12417568
+Abby Espiritu]]<ref name: "A Name Forged in Flames desc">YouTube: Video Giới Thiệu Dẫn Lửa - Danh Tiếng Rèn Từ Lửa (Mô tả video)
+voiceCN: Banma (zh|斑马) Ajaw: Mi Yang (zh|弭洋)
+voiceJP: w|Noriaki Sugiyama|Sugiyama Noriaki (ja|杉山紀彰) Ajaw: w|Junko Takeuchi|Takeuchi Junko (ja|竹内順子)
+voiceKR: Kang Seong-woo (ko|강성우) Ajaw: Park Li-na (ko|박리나)
+
+## Tổng Quan
+
+Kinich là một nhân vật hệ chơi được trong Genshin Impact.
+
+Một Thợ Săn Saurian đến từ Dòng Dõi Vườn Treo và sở hữu Tên Cổ, Kinich là một người ít nói và rất giỏi tính toán giá cả cho bất kỳ yêu cầu nào, kể cả những yêu cầu lặt vặt, nhờ vào tác phong thực dụng của anh ấy. Kinich thường đi cùng với Thánh Long K'uhul Ajaw Toàn Năng tự xưng và hai người thường xuyên xảy ra tranh cãi.

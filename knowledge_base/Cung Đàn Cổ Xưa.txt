@@ -1,0 +1,12 @@
+# Cung Đàn Cổ Xưa
+
+## Thông Tin Cơ Bản
+
+type: Nhóm Vật Phẩm
+type2: Nguyên Liệu Đột Phá Vũ Khí
+day1: Thứ Hai
+day2: Thứ Năm
+day3: Chủ Nhật
+source1: Dư Âm Thủy Triều
+
+- Tổng Quan: Cung Đàn Cổ Xưa là nhóm vật phẩm dùng để đột phá vũ khí.

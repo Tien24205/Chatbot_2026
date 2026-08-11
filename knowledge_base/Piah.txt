@@ -1,0 +1,13 @@
+# Piah
+
+## Thông Tin Cơ Bản
+
+type: NPC Nhiệm Vụ
+region: Sumeru
+location: Sumeru
+affiliation: Spantamad
+title: Nhà Nghiên Cứu
+voiceEN: [[imdb:nm6212511
+Daisy Guevara]]<ref name: "Daisy Guevara">Twitter: Diễn Viên Lồng Tiếng Tiếng Anh Tự Thông Báo (Lưu Trữ)
+
+- Tổng Quan: Piah là một NPC độc quyền nhiệm vụ xuất hiện trong.

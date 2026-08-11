@@ -1,0 +1,20 @@
+# Phiên Bản
+
+## Tổng Quan
+
+type: Hệ Thống Trò Chơi
+
+Phiên Bản (còn được gọi là Cập Nhật hoặc Patch) là những bản cập nhật quan trọng của Genshin Impact. Mỗi phiên bản thường sẽ kéo dài trong vòng 6 tuần hay 42 ngày.
+
+Các phiên bản được đánh số theo mức độ quan trọng mà bản cập nhật thay đổi trong trò chơi. Giống với nhiều hệ thống khác, các phiên bản của Genshin Impact được đánh số như sau: Tăng số bên trái cho các bản cập nhật lớn và tăng số bên phải cho các bản sửa lỗi. Đối với bản cập nhật thường lệ 6 tuần, con số bên phải sẽ tăng lên. Còn những bản cập nhật lớn như giới thiệu Teyvat hoặc 1 vùng đất mới, số bên trái cũng có thể được tăng lên.
+
+Patch đầu tiên của mỗi phiên bản thường có tên X.Y.0 (tiếp tục với các patch sau: X.Y.1, X.Y.2,...) thường sẽ sửa đổi và thêm những phần quan trọng trong trò chơi. Những phiên bản này cần được cập nhật qua App Store, Cửa Hàng Play hoặc Trình Khởi Chạy Trò Chơi.
+
+- Lịch Sử Phiên Bản: Để xem nội dung cập nhật và đền bù, vui lòng nhấn vào trang của mỗi phiên bản dưới đây:
+
+## Bảo Trì
+
+Tất cả các lần bảo trì thường sẽ mất 5 tiếng, ngoại trừ bảo trì phiên bản 1.0.1 mất 4 tiếng. Các lần bảo trì sẽ bắt đầu từ 05:00 - GMT+7 (hay 06:00 - GMT+8). Thời gian bảo trì được xác định theo kế hoạch, qua đó mỗi giờ bảo trì sẽ được đền bù (ví dụ, theo kế hoạch một phiên bản sẽ bảo trì mất 5 tiếng, nhưng thực tế chỉ mất 4 tiếng; khi đền bù sẽ dựa vào thời gian bảo trì theo kế hoạch là 5 tiếng, vậy nên số lượng nguyên thạch đền bù bảo trì là. Có những lần cập nhật phiên bản sẽ sửa lỗi game, khi đó sẽ có thêm đền bù sửa lỗi.
+
+Một tiếng trước khi bảo trì, sẽ có các bảng thông báo kèm thời gian đếm ngược. Bảng thông báo hiện vào lúc 60, 50, 40, 30, 20, 15, 10, 5, 4, 3, 2 và 1 phút trước giờ bảo trì theo kế hoạch. Trong tiếng Anh, bảng thông báo được ghi như sau:
+- Dear Travelers, Genshin Impact servers will be down for maintenance in about {X}m. Please plan your game time and progress accordingly. For more details, see the in-game notice.

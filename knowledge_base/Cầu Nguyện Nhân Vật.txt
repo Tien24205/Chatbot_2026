@@ -1,0 +1,38 @@
+# Cầu Nguyện Nhân Vật
+
+## Tổng Quan
+
+type: Loại Cầu Nguyện
+
+Cầu Nguyện Nhân Vật là Sự Kiện Cầu Nguyện có một Nhân Vật 5 giới hạn và ba nhân vật 4 được đề cử. Cả nhân vật 5 giới hạn và ba nhân vật 4 sao đều sẽ có tỷ lệ nhận được cao hơn so với tỷ lệ thông thường.
+
+## Quy Luật
+
+- Đảm Bảo 4: Nếu người chơi không có 4 nào trong 9 lần quay, thì lần thứ 10 chắc chắn sẽ ra 4 hoặc cao hơn.
+- Bộ đếm số lần này sẽ được reset khi người chơi ra được 4 hoặc cao hơn.
+- Đối với Nhân Vật 4 UP: Khi người chơi ra được 4, sẽ có 50% đó là Nhân vật 4 UP.
+- Nếu 4 đó không phải là Nhân Vật 4 UP, thì lần ra 4 tiếp theo chắc chắn là một trong các Nhân vật 4 UP.
+- Vì vậy tối đa là 20 lần, chắc chắn sẽ có một Nhân vật 4 UP.
+- Đảm Bảo 5: Nếu người chơi không có 5 nào sau 89 lần quay, thì lần thứ 90 chắc chắn sẽ ra 5.
+- Bộ đếm số lần này sẽ được reset khi người chơi ra được Nhân vật 5.
+- Các Banner Cầu Nguyện Nhân Vật sẽ không thể ra được vũ khi 5 (trong chi tiết).
+- Đảm bảo Nhân Vật 5 UP: Mỗi lần người chơi ra được vật phẩm 5, sẽ có 50% đó là Nhân Vật 5 UP.
+- Nếu Nhân Vật 5 đó không phải là Nhân Vật UP, thì lần ra 5 tiếp theo chắc chắn là Nhân Vật UP.
+- Vì vậy tối đa là 180 lần cho Banner Nhân Vật, sẽ có ít nhất một Nhân Vật 5 UP.
+- Bộ đếm và lần Bảo Đảm: Các Banner cùng loại đều có chung bộ đếm và số lần đảm bảo, có nghĩa là số lần bộ đếm của Banner Nhân Vật này sẽ được tiếp tục trong Banner Nhân Vật Tiếp Theo (Nhưng không phải là Banner Vũ Khí hoặc Cầu Nguyện Thường).
+- Ví Dụ: Khi bạn quay được 89 lần ở Banner Nhân Vật gọi tắt là A, không ra 5. Thì lần đầu tiên bạn quay ở Banner Nhân Vật Tiếp Theo gọi tắt là B, chính là lần 90 của Banner Nhân Vật. Vì vậy nó sẽ đảm bảo ra 5.
+- Tương tự nếu như bạn không ra được 5 UP ở Banner A thì bộ đếm bảo hiểm vẫn sẽ được bảo đảm. 5 tiếp theo mà bạn ra ở Banner B chắc chắn là 5 UP.
+
+## Cầu Nguyện Nhân Vật-2
+
+Cầu Nguyện Nhân Vật-2 là sự kiện cầu nguyện của nhân vật trở lại
+
+Số lần đảm bảo của sự kiện Cầu Nguyện Nhân Vật và Cầu Nguyện Nhân Vật-2 sẽ được tính chung, đồng thời được tích lũy trong sự kiện Cầu Nguyện Nhân Vật và Cầu Nguyện Nhân Vật-2, được tính độc lập với các sự kiện cầu nguyện khác và không ảnh hưởng lẫn nhau. Ví dụ:
+- Vật Phẩm 5 sao
+- # Trong sự kiện Cầu Nguyện Nhân Vật, sau khi cầu nguyện 50 lần vẫn chưa nhận được nhân vật 5 sao, tiếp sau đó liên tục cầu nguyện trong Cầu Nguyện Nhân Vật-2, tối đa trong 40 lần chắc chắn sẽ nhận được nhân vật 5 sao thuộc Cầu Nguyện Nhân Vật-2 qua cơ chế đảm bảo.
+- # Trong sự kiện Cầu Nguyện Nhân Vật, cầu nguyện nhận được nhân vật 5 sao, nhưng nhân vật 5 sao nhận được của lần cầu nguyện này không phải nhân vật 5 sao UP trong Cầu Nguyện Nhân Vật, tiếp sau đó liên tục cầu nguyện trong Cầu Nguyện Nhân Vật-2, nhân vật 5 sao nhận được lần sau chắc chắn là nhân vật 5 sao UP trong Cầu Nguyện Nhân Vật-2.
+- Vật Phẩm 4 sao
+- # Trong sự kiện Cầu Nguyện Nhân Vật, sau khi cầu nguyện 6 lần chưa nhận được vật phẩm 4 sao, tiếp sau đó liên tục cầu nguyện trong Cầu Nguyện Nhân Vật-2, tối đa trong 4 lần chắc chắn sẽ nhận được vật phẩm từ 4 sao trở lên thuộc Cầu Nguyện Nhân Vật-2 qua cơ chế đảm bảo.
+- # Trong sự kiện Cầu Nguyện Nhân Vật, cầu nguyện nhận được vật phẩm 4 sao, nhưng vật phẩm 4 sao nhận được của lần cầu nguyện này không phải nhân vật 4 sao UP trong Cầu Nguyện Nhân Vật, tiếp sau đó liên tục cầu nguyện trong Cầu Nguyện Nhân Vật-2, vật phẩm 4 sao nhận được lần sau chắc chắn là nhân vật 4 sao UP thuộc Cầu Nguyện Nhân Vật-2.
+
+Số lần đảm bảo của sự kiện Cầu Nguyện Nhân Vật và Cầu Nguyện Nhân Vật-2 sẽ được tính chung, dù Cầu Nguyện Nhân Vật-2 kết thúc, số lần đảm bảo của lần cầu nguyện này cũng sẽ được Cầu Nguyện Nhân Vật và Cầu Nguyện Nhân Vật-2 lần tiếp theo kế thừa.

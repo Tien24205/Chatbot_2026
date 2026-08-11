@@ -1,0 +1,19 @@
+# Kỹ Năng Nộ
+
+## Tổng Quan
+
+type: Thiên Phú Chiến Đấu
+
+Kỹ Năng Nộ — hoặc viết tắt là Nộ— là một Thiên Phú cần tiêu hao Năng Lượng để sử dụng và thường mạnh hơn Kỹ Năng Nguyên Tố. Trong cộng đồng, đôi khi nó được gọi là "chiêu cuối" (hoặc viết tắt là "ulti") hoặc "Q" (tham chiếu đến phím nóng mặc định tương ứng trên PC).
+
+Khi sử dụng Kỹ Năng Nộ sẽ xuất hiện khung cảnh thi triển kĩ năng (gọi là iframes). Việc này khác nhau giữa các nhân vật. Trong thời gian thi triển, nhân vật bất khả chiến bại, miễn nhiễm với tất cả mọi loại sát thương. Ảo Ảnh Bóng Đêm của Fischl là Kỹ Năng Nộ duy nhất không có iframes.
+
+## Tổng Quát
+
+Tất cả các Nhân Vật có thiên phú liên quan đến Kỹ Năng Nộ được mặc định mở khóa. Để được sử dụng, nó phải đáp ứng hai điều kiện:
+- Giống như Kỹ Năng Nguyên Tố, Nộ không ở trong thời gian hồi. Khi nó ở trong thời gian hồi, biểu tượng Kỹ Năng Nộ trên Màn Hình Quan Sát nằm ở phía dưới bên phải sẽ hiển thị thời gian để nó sẵn sàng trở lại, tương tự như Kỹ Năng Nguyên Tố.
+- Nhân vật phải nạp đủ Năng Lượng Nguyên Tố mà Kỹ Năng Nộ đó yêu cầu. Năng lượng thu thập được kể từ lần cuối cùng Nộ được thi triển bởi nhân vật trên sân sẽ được thể hiện trong biểu tượng Kỹ Năng Nộ khi nó lấp đầy với màu của nguyên tố đó. Năng lượng dư thừa không được tính đến.
+
+Bất cứ khi nào cả hai điều kiện đã thỏa mãn, biểu tượng Kỹ Năng Nộ sẽ phát sáng và tín hiệu âm thanh sẽ phát, cho biết rằng nó đã sẵn sàng để thi triển. Khi Nộ của một nhân vật ngoài sân đã sẵn sàng, biểu tượng sẽ xuất hiện bên cạnh thanh chứa hình ảnh và HP của họ. Trên một số phiên bản di động nhất định, biểu tượng này được thay thế bằng dấu tick cùng màu. Dấu hiệu tương tự sẽ xuất hiện bên cạnh thanh tên của những người chơi khác trong co-op. Sau khi sử dụng Kỹ Năng Nộ, tất cả Năng lượng sẽ được tiêu hao và kỹ năng sẽ vào thời gian hồi chiêu ngắn (Năng Lượng vẫn có thể được nạp khi đang trong thời gian hồi chiêu).
+
+- So Sánh: Bảng này mô tả lượng năng lượng mà mỗi nhân vật cần để thi triển và thời gian hồi chiêu của từng nhân vật.

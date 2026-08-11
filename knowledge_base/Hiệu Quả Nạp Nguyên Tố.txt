@@ -1,0 +1,13 @@
+# Hiệu Quả Nạp Nguyên Tố
+
+## Thông Tin Cơ Bản
+
+type: Chỉ Số
+
+- Tổng Quan: Hiệu Quả Nạp Nguyên Tố là phần trăm tăng tỉ lệ nạp Năng Lượng Nguyên Tố từ các Nguyên Tố Tinh Cầu nhận được, không tính năng lượng nhận trực tiếp từ vũ khí hoặc thánh di vật.
+
+- Thánh Di Vật: Thánh di vật sau tăng hiệu quả nạp nguyên tố.
+
+- Vũ Khí: Vũ khí sau có thuộc tính phụ là hiệu quả nạp nguyên tố.
+
+- Thiên Phú: Thiên phú sau có chỉ số phụ thuộc vào hiệu quả nạp nguyên tố.

@@ -1,0 +1,18 @@
+# Đạo Cụ Nhỏ
+
+## Tổng Quan
+
+type: Loại Vật Phẩm
+type2: Danh Mục Túi
+
+Đạo Cụ Nhỏ là vật phẩm tiện ích mà người chơi có thể sử dụng vào nhiều mục đích khác nhau. Đây là tab thứ sáu trong Túi.
+
+Một số Đạo Cụ Nhỏ có thể trang bị vào ô Dùng Nhanh, cho phép sử dụng chúng nhiều lần một cách dễ dàng, trong khi số khác chỉ có thể sử dụng hoặc đặt từ Túi.
+
+Đạo Cụ Nhỏ không thể tiêu hao sẽ có CD khi được sử dụng. Không giống như trong chiến đấu, CD của Đạo Cụ Nhỏ sẽ giảm đi ngay cả khi tạm dừng.
+
+## Cách Nhận
+
+Đạo Cụ Nhỏ có thể được nhận từ nhiều địa điểm khác nhau, phổ biến nhất là trong Nhiệm Vụ Thế Giới và Sự Kiện. Một số Đạo Cụ Nhỏ yêu cầu người chơi Ghép hoặc Rèn chúng sau khi nhận và sử dụng Giải Thích hoặc Bản Vẽ tương ứng để học cách làm nó. Giải Thích và Bản Vẽ có thể nhận bằng cách tăng cấp Danh Vọng ở các quốc gia khác nhau và Sự Báo Đáp Của Cổ Thụ.
+
+- Đổi Nhanh Đạo Cụ: Đổi Nhanh Đạo Cụ là một menu có thể truy cập bằng cách nhấn giữ biểu tượng Đạo Cụ Nhỏ hoặc nhấn giữ phím. Có thể thêm tối đa 4 Đạo Cụ để làm thao tác đổi nhanh từ Túi > Đạo Cụ Nhỏ > Đổi Nhanh.

@@ -1,0 +1,46 @@
+# Barbara
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+quality: 4
+weapon: Pháp Khí
+element: Thủy
+name: Barbara
+realname: Barbara Pegg
+birthday: 05 tháng 07
+constellation: Kim Bôi
+region: Mondstadt
+affiliation: Giáo Hội Tây Phong
+dish: Cà Rốt Cay Xè
+namecard1: Barbara - Dòng Chảy
+obtain: - Cầu Nguyện - Thánh Ca Cầu Nguyện - Đổi Bụi Ánh Sáng
+releaseDate: 2020-09-28
+title: Thần Tượng Tỏa Sáng
+title2: Mục Sư Tế Lễ
+voiceEN: [[imdb:nm3338130
+Laura Stahl]]<ref name: "Barbara EN/JP">Facebook: Công Bố Diễn Viên Lồng Tiếng tiếng Anh và Nhật
+voiceCN: Song Yuanyuan (zh|宋媛媛)
+voiceJP: w|Akari Kitō|Kitou Akari (ja|鬼頭明里)
+voiceKR: w|ko:윤아영|Yun A-yeong (ko|윤아영)
+ancestry: Nhà Gunnhildr
+father: Seamus Pegg
+mother: Frederica Gunnhildr
+sibling: Jean
+siblingNote: chị gái
+
+## Tổng Quan
+
+Barbara Pegg là một nhân vật hệ mà người chơi có thể điều khiển trong Genshin Impact.
+
+Cô là Mục Sư Tế Lễ của Giáo Hội Tây Phong và tự xưng là "thần tượng" sau khi học chúng từ nhà mạo hiểm Alice. Cô cũng là con gái của Frederica Gunnhildr, Seamus Pegg và là em gái của Jean.
+
+Người chơi có thể nhận miễn phí Barbara trong Sự kiện Thánh Ca Cầu Nguyện bằng cách hoàn thành
+
+## Có Mặt Trong
+
+- Cầu Nguyện Thường Du Hành Thế Gian
+- Cầu Nguyện Đề Xuất Cho Người Mới (Không giới hạn cho đến khi đủ 20 lần cầu nguyện)
+- Tất cả Sự Kiện Cầu Nguyện Nhân Vật và Sự Kiện Cầu Nguyện Vũ Khí
+- Sự Kiện Thánh Ca Cầu Nguyện (Từ 11/11/2020)
+- Sự Kiện Barbara Bước Lên Sân Khấu (28/10/2020 - 11/11/2020)

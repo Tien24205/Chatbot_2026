@@ -1,0 +1,25 @@
+# Hubel
+
+## Thông Tin Cơ Bản
+
+type: NPC Đại Thế Giới
+region: Fontaine
+location: Fontaine
+title: Chủ Sạp Báo
+
+- Tổng Quan: Hubel là một NPC thương nhân tại Đại Sảnh Fontaine, Fontaine. Anh bán những cuốn sách từ nhiều bộ sưu tập khác nhau. Bên cạnh cửa hàng của anh là Bảng Tin Quầy Báo.
+
+- Lời Thoại Nhàn Rỗi: Trang đầu gần đây... : "À... Thì ra đây là loại trang đầu mà gần đây họ đang hướng tới..."
+
+## Hội Thoại
+
+Hubel: Xin chào, chào mừng đến với đại dương của ngôn từ!
+Tôi muốn xem thử sách.
+:Hubel: Cứ thong thả lựa chọn, cá nhân tôi đề xuất tiểu thuyết kinh dị cho bạn!
+Anh là...
+:Hubel: Tạm thời tôi là chủ của sạp báo này.
+:Hubel: Nói "tạm thời" là vì ước mơ của tôi là được gia nhập vào Tòa Soạn Chim Hơi Nước!
+:Hubel: Tôi đang nỗ lực mài giũa cách hành văn, tích lũy từ ngữ, không ngừng học tập về nghệ thuật ngôn ngữ!
+:Hubel: Sẽ có một ngày tôi tự mình đưa tin về những thứ mắt thấy tai nghe, để tài năng văn học của tôi được lưu truyền trên trang nhất!
+Tạm biệt.
+:Hubel: Sách báo sẽ luôn được cập nhật thường xuyên, hoan nghênh quay lại!

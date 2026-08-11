@@ -1,0 +1,47 @@
+# Tholindis
+
+## Thông Tin Cơ Bản
+
+type: NPC Nhiệm Vụ
+region: Khaenri'ah
+affiliation: Viện Bí Ẩn
+affiliation2: Xích Nguyệt
+deceased: Quá Khứ
+ancestry: Xích Nguyệt
+biological: Relative Type|Hôn thê|Rerir (hôn phu)| Vụ|Vương Quốc Không Tồn Tại
+voiceEN: [[imdb:nm3524964
+voiceCN: Liu Shisi (zh|刘十四)
+voiceJP: Takamiya Saori (ja|高宮 彩織)
+voiceKR: Bae Ha-gyoung (ko|배하경)YouTube: 원신
+
+- Tổng Quan: Tholindis là một NPC độc quyền nhiệm vụ xuất hiện trong. Cô là hôn thê chưa chính thức của Rerir.
+
+- Tiểu Sử: Tholindis thuộc một nhánh phụ của Xích Nguyệt. Gia đình cô có quan hệ huyết thống xa với dòng chính. Cô là nhà nghiên cứu Tủy Mặt Trăng tại Viện Bí Ẩn.
+
+## Ngoại Hình
+
+Tholindis là một thiếu nữ với mái tóc vàng ngắn được trang điểm bằng một chiếc trâm vàng. Cô mặc một chiếc váy ngắn màu trắng với tay áo rời. Một lớp áo đối xứng màu xanh đậm hơn với điểm nhấn vàng phủ lên trên chiếc váy, được cố định bằng một chiếc thắt lưng ngang eo. Trang phục của cô hoàn chỉnh với đôi bốt cổ chân màu trắng.
+
+Dù mang huyết thống của Xích Nguyệt, Tholindis lại có đôi mắt tím bình thường.
+
+## Cốt Truyện
+
+Tholindis là hậu duệ xa của Xích Nguyệt, dù gia đình cô đã cắt đứt quan hệ từ lâu và không ai biết danh tính thật của cô ngoại trừ người thầy của mình. Cô giữ bí mật này để tránh bị bức hại oan uổng. Vào một thời điểm nào đó, cô gặp Rerir và bắt đầu một mối quan hệ, tiến triển đến mức anh cầu hôn cô dù cô tạm hoãn câu trả lời để suy nghĩ thêm.
+
+Cô cuối cùng biết được danh tính thật của Rerir sau khi gặp Orlog, người tiết lộ về hành động của hôn phu cô với tư cách là đao phủ hành quyết các hậu duệ Xích Nguyệt. Dù ban đầu không tin, cô đã điều tra và phát hiện ra sự thật khiến cô bàng hoàng. Cuối cùng cô quyết định tiếp tục mối quan hệ và từ chối làm hại Rerir dù những người đồng cảnh ngộ lo ngại. Tuy nhiên, cô cũng không quay lưng với các hậu duệ Xích Nguyệt, âm thầm hỗ trợ và giúp họ thoát khỏi hành quyết.
+
+Tholindis làm việc tại Viện Bí Ẩn với tư cách nhà nghiên cứu tại Phòng thí nghiệm Tủy Mặt Trăng, nơi chuyên nghiên cứu sức mạnh từ tàn tích của Xích Nguyệt. Cô tiến hành thí nghiệm và viết các bài báo với hy vọng tìm ra nguồn năng lượng thay thế cho Khaenri'ah nhưng không đạt được nhiều tiến triển. Về sau, vương giả Irmin chuyển hầu hết nguồn lực của Viện sang nghiên cứu năng lượng Vực Sâu, khiến cả nhóm của Tholindis bị điều chuyển và chỉ còn lại mình cô nghiên cứu Tủy Mặt Trăng. Cô đã thực hiện một khám phá quan trọng rằng Tủy Mặt Trăng có thể được dùng như một cổng không gian dẫn đến thế giới khác, dù cô không thể khám phá thêm tính chất này vì thiếu kinh phí và hạn chế công nghệ trong việc duy trì cổng mở.
+
+Tholindis dần trở nên bất an khi vương giả Irmin ngày càng lún sâu vào điên loạn đến mức ra lệnh tàn sát tất cả hậu duệ Xích Nguyệt. Cô đổ lỗi sự điên loạn ngày càng tăng của ông cho một "kẻ ngoại lai" nào đó và tự hỏi liệu loại bỏ kẻ đó có khiến mọi thứ trở lại bình thường không. Ít lâu trước Thảm Họa, cô gặp một hậu duệ khác tên Frithr, giao cho cô một mảnh Xích Nguyệt và nhờ giữ gìn nó như một cách đảm bảo huyết thống của họ sẽ không bao giờ tàn lụi. Frithr sau đó đã trốn thoát khỏi thành phố cùng gia đình, may mắn thoát khỏi việc bị bắt nhờ khoảnh khắc vỡ mộng của Rerir khi được lệnh giết hôn thê mình.
+
+Tholindis có mặt tại Viện Bí Ẩn vào ngày Dainsleif dẫn đầu cuộc tấn công vào cung điện để giải thoát Vedrfolnir. Việc giải phóng năng lượng Vực Sâu tiếp theo tại Khaenri'ah khiến quái vật xuất hiện trong Viện vì đây là trung tâm nghiên cứu Vực Sâu. Không có vũ khí tự vệ, Tholindis cố thủ trong một căn phòng và bắt đầu tuyệt vọng trước hoàn cảnh của mình.
+
+Rerir được Vedrfolnir mách tin, đến đúng lúc để cứu Tholindis khỏi lũ quái vật chỉ để phát hiện cô đang đứng trước một cánh cổng huyền bí. Tin rằng anh được cử đến để giết cô, cô thú nhận đã biết danh tính thật của anh nhưng cũng bảo anh đừng lo vì cô đã tìm ra một "giải pháp" để anh có thể sống một cuộc đời bình thường. Bất chấp sự phản đối của Rerir, cô để bản thân rơi vào cổng, khiến anh tan nát và bắt đầu bước trên con đường tối tăm trở thành một Tội Nhân.
+
+Bước vào hình bóng phản chiếu của mặt trăng với thân xác phàm trần khiến cơ thể cô bị xé tan ngay lập tức chỉ để lại linh hồn. Tholindis lang thang vô định, tự hỏi liệu công trình của mình có phải là vô nghĩa, cho đến khi gặp Columbina, người mang đến một lời nhắn từ Rerir trong lúc tìm đường trở về. Biết được sự thật, Tholindis tha thứ cho anh và cảm ơn Columbina vì đã mang tin đến và cho công trình nghiên cứu của cô có giá trị. Cô chỉ cho Columbina những sợi chỉ vàng có thể đẩy nhanh hành trình trở về quá khứ của cô.
+
+## Từ Nguyên
+
+- Tên Tholindis có khả năng bắt nguồn từ tholin + dís.
+- là một nhóm hợp chất đa hữu cơ được tạo thành do tác động của tia cực tím mặt trời hoặc bức xạ tia vũ trụ lên các hợp chất chứa carbon đơn giản như carbon dioxide, metan hay etan, thường kết hợp với nitơ hoặc nước. "Tholin" bắt nguồn từ, có nghĩa là "mờ đục" hoặc "bùn lầy". Tholin không hình thành tự nhiên trên Trái Đất ngày nay, nhưng chúng xuất hiện rất phổ biến trên bề mặt các thiên thể băng giá ở ngoài Hệ Mặt Trời, cũng như dưới dạng sol khí màu đỏ trong khí quyển của các hành tinh và vệ tinh ở ngoài Hệ Mặt Trời. Trong môi trường có nước, tholin có thể là nguyên liệu thô cho hóa học tiền sinh học (tức là các phản ứng hóa học phi sinh vật tạo ra các chất nền cơ bản của sự sống). Sự tồn tại của chúng có những hàm ý sâu sắc đối với nguồn gốc của sự sống trên Trái Đất và có thể cả trên các hành tinh khác.
+- Trong thần thoại Bắc Âu, (số nhiều dísir) nghĩa là "nữ nhân", là một nữ thần, hồn ma hoặc linh hồn gắn liền với, có thể mang lại phúc lành hoặc gây họa cho người phàm. dísir đóng vai trò trong các văn bản tiếng Bắc Âu tương tự như, và, đến mức một số học giả cho rằng dísir là thuật ngữ bao quát bao gồm cả những sinh linh kia. Đáng chú ý, các Norn thường được khắc họa là ba nữ thần dệt nên những sợi chỉ số phận và chăm sóc cây thế giới, một vai trò rất giống với vai trò của Ba Mặt Trăng.

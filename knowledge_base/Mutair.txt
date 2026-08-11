@@ -1,0 +1,11 @@
+# Mutair
+
+## Thông Tin Cơ Bản
+
+type: NPC Nhiệm Vụ
+region: Sumeru
+location: Sumeru
+voiceEN: [[imdb:nm8927279
+Nicholas Corda]]<ref name: "Nicholas Corda">Twitter: Diễn Viên Lồng Tiếng Tiếng Anh Tự Thông Báo
+
+- Tổng Quan: Mutair là một NPC độc quyền nhiệm vụ xuất hiện trong.

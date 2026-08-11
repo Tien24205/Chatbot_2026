@@ -1,0 +1,18 @@
+# Guoba
+
+## Thông Tin Cơ Bản
+
+type: NPC
+element: Hỏa
+element2: Nham
+elementNote2: trước kia
+region: Liyue
+realname: Marchosius
+affiliation: Thần
+affiliation2: Quy Li Tập
+affiliation3: Tiên Nhân
+affiliation4: Vạn Dân Đường
+title: Thần Bếp
+title2: Thổ Địa của Liyue
+
+- Tổng Quan: Guoba là người bạn đồng hành của Xiangling, cũng như là đồng đội của cô trong chiến đấu qua Guoba Xuất Kích.

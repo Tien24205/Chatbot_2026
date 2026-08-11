@@ -1,0 +1,76 @@
+# Câu Cá
+
+## Tổng Quan
+
+type: Hệ Thống Trò Chơi
+type2: Khám Phá
+group: Hoạt Động
+
+Câu Cá là Hệ Thống Trò Chơi có thể mở sau khi mở khóa Ấm Trần Ca và hoàn thành Nhiệm Vụ Thế Giới.
+
+Nó liên quan đến việc chế tạo mồi để bắt các loại cá khác nhau, với mỗi loại chỉ bị thu hút bởi một loại mồi cụ thể.
+
+Khi câu cá, người chơi cần thả dây câu của mình vào một vũng nước. Người chơi cần điều chỉnh điểm ném chính xác, không được quá gần làm cá sợ mà vẫn phải đủ gần để thu hút sự chú ý. Sau khi cá cắn câu, người chơi phải căn thời gian phản ứng và kiểm soát độ căng của dây để thu cá vào.
+
+Hiệu ứng gợn sóng thể hiện điểm câu cá sẽ biến mất sau khi câu tất cả cá trong đó và sẽ trở lại sau khi ít nhất một con cá hồi. Cá sẽ hồi sau mỗi 72 giờ.
+
+Mặc dù việc điều chỉnh thời gian trong trò chơi không ảnh hưởng đến tốc độ hồi sinh, nhưng cần lưu ý rằng mỗi điểm câu cá có nhóm cá cho ngày và đêm. Điều này có nghĩa là người chơi có thể câu gấp đôi số lượng nếu câu cá vào cả hai thời điểm trong ngày.
+
+Cá câu được có thể được chế biến trong Nấu Nướng để biến Cá thành vật phẩm nấu nướng, và có thể đổi lấy phần thưởng trong Hội Câu Cá của khu vực, nơi người chơi có thể trao đổi cần câu mới với các hiệu ứng khác nhau.
+
+Bản Đồ gồm Ghim có thể đánh dấu Điểm Câu Cá.
+
+## Khác
+
+- Độ khó đánh bắt dựa trên một số tham số, bao gồm tốc độ tăng tiến độ, kích thước của Vùng căng lý tưởng và chuyển động của Vùng căng lý tưởng. Các yếu tố khác bao gồm thời gian cá cắn câu (độ khó cao hơn = thời gian dài hơn) và thời gian người chơi phải bắt đầu quay để con cá cắn câu (độ khó cao hơn = thời gian ngắn hơn).
+
+## Cá Cảnh
+
+Cá cảnh có thể được tìm thấy ở các điểm câu cá phát ra ánh sáng xanh khi nhìn xa và có thể phát hiện dễ dàng giữa đàn vì chuyển động bất thường, nhảy lên ở điểm câu trong khi những con cá khác bơi xung quanh bình thường. Chúng cũng khó bắt hơn. (Thiên Phú của Thoma Tài Năng Câu Cá, mang lại cơ hội bắt gấp đôi trong Inazuma, cũng ảnh hưởng đến Cá Cảnh.) Sau khi được đánh bắt, Cá Cảnh có thể được trưng bày làm đồ trang trí nhất định hay trong Khu Rừng Ngát Hương. Bản thiết kế cho những đồ trang trí có sẵn từ Hội Câu Cá.
+
+Về việc Cá Cảnh hồi:
+- Cá Cảnh có thể tìm thấy tại bất kỳ điểm câu cá nào.
+- Cá Cảnh tại điểm câu cá có thể thuộc bất kỳ loại nào.
+- Cá Cảnh có thể xuất hiện vào ngày hoặc đêm.
+- Cá Cảnh xuất hiện bất chấp thời tiết.
+- Nhiều Cá Cảnh có thể xuất hiện cùng lúc ở điểm câu cá.
+- Giống như loài cá khác, Cá Cảnh trong điểm câu cá được hồi ba ngày một lần trong thế giới thực.
+
+- Hiệu Ứng Nhân Vật: Thiên Phú ảnh hưởng đến câu cá.
+
+- Thành Tựu: Các thành tựu câu cá gồm những mục sau.
+
+## Ghi Chú
+
+- Câu cá bắt phải chuyển nhân vật sang Nhà Lữ Hành. Do đó, nếu đang trong trạng thái hạ gục, người chơi sẽ không thể câu cá cho đến khi được hồi sinh.
+- Vào điểm câu cá (bằng cách bơi, sử dụng Xung Kích Thay Thế hoặc Thuyền Gió) sẽ xua đuổi cá, thay thế hiệu ứng gợn sóng bằng hiệu ứng bong bóng và cá sẽ quay trở lại vài giây sau khi người chơi và Thuyền Gió rời khỏi.
+- Ngoài ra, bay qua điểm câu cá sẽ khiến cá sợ hãi bỏ chạy, bất kể khoảng cách nào theo phương thẳng đứng.
+- Nếu có mồi ở gần Cá Cảnh, khi đang trong hoạt ảnh nhảy, hoạt ảnh sẽ không ảnh hưởng đến tốc độ cá cắn câu.
+- Nghĩa là bạn không cần phải đợi con cá hoàn thành hoạt ảnh để nó tiếp cận và cắn mồi. Hoạt ảnh sẽ hủy khi nó ăn mồi.
+- Không thể bắt đầu câu cá khi nhân vật đang đứng trên mặt nước đóng băng, Tạo Vật Nguyên Tố Nham, trong hoạt ảnh nhàn rỗi hoặc trong chiến đấu.
+- Tất cả các thế giới đều có cá, kể cả những thế giới có chủ chưa hoàn thành Đàn Cá Ồ Ạt. Người chơi khác đã mở khóa Câu Cá có thể câu cá nếu tham gia vào thế giới của họ.
+
+## Lồng Tiếng
+
+Khi câu cá, Paimon có thể nói một trong những lời thoại sau:
+(Khi suýt câu được cá)
+Paimon: Tốt lắm! Sắp câu được rồi!
+Paimon: Cố gắng chút nữa! Sắp được rồi!
+Paimon: Sắp rồi sắp rồi! Phải bình tĩnh nhé!
+Paimon: Sắp thành công rồi, sắp thành công rồi!
+Paimon: Chiến thắng ở ngay trước mắt, hihi
+(Khi cá chạy mất)
+Paimon: Đáng tiếc thật...Thử lại đi!
+Paimon: Đừng nản lòng, từ từ sẽ nắm bắt được...
+Paimon: Không sao, chúng ta làm lại lần nữa!
+(Khi câu được cá)
+Paimon: Ồ! Lần này thu hoạch cũng khá lắm!
+Paimon: Thật không dễ dàng mà! Phù...
+Paimon: Woa... Cá này ngon nè!
+Paimon: Đây là gì vậy? *thở* Mau đưa tôi xem thử!
+(Khi câu được cá cảnh)
+Paimon: Vui quá đi! Phải ăn mừng mới được!
+Paimon: Cũng có công của tôi đó, đãi tôi ăn đi!
+Paimon: Cũng khá lắm chứ, không hổ danh là bạn!
+Paimon: Tuyệt quá, đi khoe với bạn bè thôi!
+Paimon: Đặt cho bạn một biệt danh mới nhé, "Bàn Tay Vàng Trong Làng Câu Cá"

@@ -1,0 +1,72 @@
+# Tài Khoản
+
+## Tổng Quan
+
+type: Hệ Thống Trò Chơi
+
+Tài Khoản trong Genshin Impact lưu trữ toàn bộ dữ liệu nhân vật trong suốt quá trình chơi.
+
+Trên các máy chủ toàn cầu, tài khoản có thể được tạo thông qua tài khoản HoYoverse, Facebook, X, Google, Apple hoặc Game Center, và trên máy chủ Trung Quốc sử dụng tài khoản miHoYo, TapTap hoặc Bilibili.
+
+Người chơi có thể tham gia Chế Độ Nhiều Người Chơi với người chơi trên các nền tảng khác nhau nhưng không thể chơi cùng người chơi ở máy chủ khác.
+
+Người chơi trên PC, iOS, Android và Xbox có thể chuyển đổi máy chủ tại màn hình đăng nhập. Mỗi máy chủ lưu tiến trình nhân vật riêng biệt, vì vậy nếu tài khoản đã tạo nhân vật trên một máy chủ khác thì tiến trình tại máy chủ ban đầu sẽ không được chuyển sang máy chủ mới. Điểm liên kết duy nhất giữa các tài khoản là phương thức đăng nhập của tài khoản.
+
+- PC: Tài khoản PC trên máy chủ toàn cầu có thể được tạo bằng Thẻ Thông Hành HoYoverse, Facebook hoặc X; trên máy chủ Trung Quốc có thể sử dụng tài khoản miHoYo, TapTap hoặc Bilibili.
+
+- iOS: Tài khoản iOS trên máy chủ toàn cầu có thể được tạo bằng Thẻ Thông Hành HoYoverse, Apple ID, Game Center, Facebook hoặc X; trên máy chủ Trung Quốc có thể sử dụng tài khoản miHoYo hoặc TapTap.
+
+- Android: Tài khoản Android trên máy chủ toàn cầu có thể được tạo bằng Thẻ Thông Hành HoYoverse, Google, Facebook hoặc X; trên máy chủ Trung Quốc có thể sử dụng tài khoản miHoYo, TapTap hoặc Bilibili.
+
+- Harmony: Tài khoản Harmony trên máy chủ Trung Quốc có thể được tạo bằng tài khoản miHoYo hoặc Huawei.
+
+## PlayStation
+
+Tài khoản PlayStation khả dụng trên cả PlayStation 4 và PlayStation 5. Khu vực (máy chủ) liên kết với tài khoản sẽ phụ thuộc vào khu vực mà tài khoản PlayStation Network (PSN) thuộc về. Không thể thay đổi khu vực của tài khoản nếu không tạo tài khoản PSN mới. Không thể thay đổi khu vực của tài khoản nếu không tạo tài khoản PSN mới.
+
+Không cần đăng ký PlayStation Plus để tham gia Chế Độ Nhiều Người Chơi. Nếu tài khoản PSN của người dùng có đăng ký PlayStation Plus, người chơi có thể nhận miễn phí nội dung tải xuống "Genshin Impact Promotion for PlayStation®Plus" một lần sau mỗi lần cập nhật Phiên Bản
+
+Chức năng đồng bộ tiến trình giữa tài khoản PlayStation Network và Thẻ Thông Hành HoYoverse đã được thêm vào Phiên Bản 2.0..
+
+## Xbox
+
+Tài khoản Xbox khả dụng trên Xbox Series S, Xbox Series X và Xbox Game Pass. Người dùng cần sử dụng Tài Khoản Microsoft để liên kết với Thẻ Thông Hành HoYoverse. Khác với trên PlayStation, khu vực của tài khoản không bị ràng buộc với tài khoản Microsoft và người chơi có thể chuyển đổi máy chủ tại giao diện đăng nhập.
+
+Không cần đăng ký Xbox Game Pass để tham gia Chế Độ Nhiều Người Chơi. Nếu tài khoản Microsoft của người dùng có đăng ký Xbox Game Pass, người chơi có thể nhận miễn phí nội dung tải xuống "Genshin Impact - Gói Quà Hội Viên Xbox" một lần sau mỗi lần cập nhật phiên bản.
+
+## Liên Kết
+
+Liên Kết là hệ thống cho phép tiến trình của người chơi được lưu trên máy chủ và tiếp tục trên một nền tảng phần cứng khác. Genshin Impact hoạt động trên ba nền tảng chính: Máy tính cá nhân, Máy chơi game và Thiết bị di động.
+
+Khi sử dụng tính năng Liên Kết, có thể nhận các nội dung ban đầu chỉ dành riêng cho PlayStation hoặc Xbox. Người chơi cần đăng nhập vào game trên nền tảng tương ứng để nhận nội dung, sau đó kích hoạt chức năng Liên Kết để tiến trình được đồng bộ.
+
+## Nội Dung Trên PlayStation
+
+Các vật phẩm sau đây sẽ luôn có sẵn trên nền tảng PlayStation:
+
+Hiện tại, tất cả nội dung độc quyền của PlayStation có một số hạn chế trên PC/Mobile/Xbox.
+- Kiếm Giáng Lâm — Hiệu ứng vũ khí không kích hoạt ngoài PlayStation 4/PlayStation 5
+- Ác Điểu Nuốt Sao — Hiệu ứng không kích hoạt ngoài PlayStation 4/PlayStation 5
+- Đôi Cánh Giáng Lâm — Tự động thay đổi thành Đôi Cánh Sơ Khai ngoài PlayStation 4/PlayStation 5.
+
+- Nội Dung Trên Xbox: Các vật phẩm sau đây sẽ luôn có sẵn trên nền tảng Xbox: Hiện tại, nội dung độc quyền của Xbox không bị hạn chế khi truy cập trên PC, Mobile hay PlayStation.
+
+## Liên Kết Tài Khoản Bên Thứ Ba
+
+- Mở game, mở Giao Diện Paimon (Trên PC có thể bấm phím, trên PlayStation có thể bấm phím, trên Xbox có thể bấm phím )
+#* Người chơi trên di động cần hoàn thành nhiệm vụ mở khóa Thất Thiên Thần Tượng đầu tiên để tiếp tục.
+- Chọn "Cài Đặt"
+- Chọn "Tài Khoản" > "Trung Tâm Người Dùng"
+- Chọn "Liên Kết"
+- Liên kết Thẻ Thông Hành HoYoverse tương ứng với UID này qua email hoặc tên người dùng
+- Thẻ Thông Hành HoYoverse bạn vừa đăng ký (thông qua Email hoặc Tên người dùng và Mật khẩu tương ứng) sẽ được liên kết trực tiếp với tài khoản game.
+
+## Nạp
+
+Nạp là hành động sử dụng tiền thật để sở hữu các vật phẩm trong trò chơi. Riêng đối với Genshin Impact, bạn có thể chọn mua các vật phẩm như Đá Sáng Thế, Không Nguyệt Chúc Phúc, cũng như Nhật Ký Hành Trình Trân Châu/Bài Ca Trân Châu.
+
+Tùy thuộc vào nền tảng bạn liên kết, bạn có thể bắt buộc phải thực hiện Nạp thông qua cửa hàng của nền tảng đó. Ví dụ: Nếu bạn tạo tài khoản thông qua PlayStation Network, mọi giao dịch Nạp đều yêu cầu thực hiện qua hệ thống của PlayStation Network.
+- Người chơi đăng ký tài khoản trên iOS hoặc Android có thể nạp trên các nền tảng di động, nhưng sẽ không thể hoàn tất thanh toán trên PC.
+- Người chơi đăng ký tài khoản trên PC có thể thực hiện Nạp linh hoạt trên các nền tảng PC, iOS và Android.
+- Người chơi đăng ký tài khoản trên PlayStation có thể thực hiện Nạp thông qua Tài Khoản PSN.
+- Người chơi đăng ký tài khoản trên Xbox có thể thực hiện Nạp thông qua Tài Khoản Microsoft.

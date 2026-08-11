@@ -1,0 +1,14 @@
+# Kiara
+
+## Thông Tin Cơ Bản
+
+type: NPC Nhiệm Vụ
+group: Melusine
+region: Fontaine
+location: Fontaine
+affiliation: Đội Hắc Ảnh Marechausse
+voiceEN: [[imdb:nm3788571
+
+- Tổng Quan: Kiara là một NPC độc quyền nhiệm vụ xuất hiện trong.
+
+- Tiểu Sử: (Sẽ được bổ sung.)

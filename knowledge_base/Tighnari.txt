@@ -1,0 +1,42 @@
+# Tighnari
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+quality: 5
+weapon: Cung
+element: Thảo
+name: Tighnari
+birthday: 29 tháng 12
+constellation: Quách Hồ
+region: Sumeru
+affiliation: Làng Gandharva
+affiliation2: Đội Kiểm Lâm
+affiliation3: Amurta
+affiliationNote3: tốt nghiệp
+dish: Tuyển Chọn Của Đội Trưởng Kiểm Lâm
+namecard: Mộc Lộ
+obtain: Cầu Nguyện
+event_name: Thủ Hộ Sắc Xanh
+releaseDate: 2022-08-24
+biological: Relative Type|Cha mẹ|Cha vô danh| Relative Type|Cha mẹ|Mẹ vô danh|
+title: Dạo Bước Rừng Xanh
+title2: Kiểm Lâm Trưởng Rừng Avidya
+voiceEN: [[imdb:nm2325393
+Zachary Gordon]]<ref name: "ENZacharyGordon">Twitter: Công Bố Diễn Viên Lồng Tiếng Tiếng Anh
+voiceCN: Moran (zh|莫然)
+voiceJP: w|Sanae Kobayashi|Kobayashi Sanae (ja|小林沙苗)
+voiceKR: Jung Ui-taek (ko|정의택)
+
+## Tổng Quan
+
+Tighnari là một nhân vật hệ chơi được trong Genshin Impact.
+
+Tighnari là một Đội Trưởng nghiêm khắc của Đội Kiểm Lâm và là thầy giáo của Collei. Dù bản thân sở hữu tài năng và trí tuệ, Tighnari lại muốn sống ẩn dật ở Rừng Avidya hơn là nơi Giáo Viện nguy nga.
+
+## Có Mặt Trong
+
+- Cầu nguyện thường Du Hành Thế Gian (Vĩnh Viễn) từ Phiên Bản 3.1
+- Tất cả sự kiện Cầu Nguyện Nhân Vật từ Phiên Bản 3.1
+- Dạo Bước Khắp Nơi, Tìm Hơi Lửa Cũ (Sự Kiện Phiên Bản 5.0)
+- Khám Phá Cõi Trăng, Tôi Luyện Ánh Sáng (Sự Kiện Phiên Bản "Luna I")

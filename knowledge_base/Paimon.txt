@@ -1,0 +1,39 @@
+# Paimon
+
+## Thông Tin Cơ Bản
+
+type: NPC Nhiệm Vụ
+name: Paimon
+affiliation: Nhà Lữ Hành
+affiliation2: Vahumana
+birthday: 01 tháng 06
+voiceEN: [[imdb:nm2103271
+Corina Boettger (Trước 5.7)]]<ref name: "Paimon EN/JP-VA">Twitter: (EN & JP) Twitter - Thông Báo VA & [[imdb:nm2094501
+voiceCN: Duoduo Poi (多多poi)
+voiceJP: w|Aoi Koga|Aoi Koga (古賀葵)
+voiceKR: w|ko:김가령|Kim Ga-ryeong (김가령)
+title: Bạn Đồng Hành Tốt Nhất Teyvat
+
+## Tổng Quan
+
+Paimon là nhân vật thứ chính của Genshin Impact. Cô là một NPC chỉ xuất hiện trong nhiệm vụ, đồng hành cùng Nhà Lữ Hành trong suốt cuộc phiêu lưu của họ tại Teyvat với vai trò là người hướng dẫn. Cô gặp Nhà Lữ Hành khi được họ câu lên từ dưới biển, sau đó cô nói rằng mình đã có thể chết đuối nếu không được Nhà Lữ Hành cứu mạng.
+
+Paimon hiện đang là linh vật đại diện cho Genshin Impact và được sử dụng làm biểu tượng cho trò chơi, trang web chính thức, cũng như nhiều tài khoản mạng xã hội khác nhau.
+
+## Tiểu Sử
+
+Mặc dù xuất hiện xuyên suốt cốt truyện, trong giới thiệu và cả trong giao tiếp với người chơi, Paimon vẫn là một ẩn số lớn đối với cốt truyện và Teyvat. Không ai biết gì về cuộc sống của cô trước khi gặp Nhà Lữ Hành, và ngay cả bản chất thực sự của cô cũng vẫn chưa rõ ràng. Có vẻ như chính Paimon cũng không nhớ những điều này. Theo lời cô, trước đây cô chưa từng gặp rắc rối gì, và điều tồi tệ nhất từng xảy ra chỉ là việc cô “siêu mệt, bị cuốn vào một vòng xoáy kỳ lạ rồi bị hút ra biển”, cho đến khi được Nhà Lữ Hành câu lên.
+
+Paimon vui vẻ, hoạt bát nhưng đôi khi quá thẳng thắn, có phần ngây thơ và thỉnh thoảng khá bộc trực đến mức hơi thô lỗ. Cô thể hiện rất rõ mình thích hay ghét ai, thường đặt “biệt danh xấu xí” cho những người làm cô khó chịu, chẳng hạn như gọi Venti là "Tên hát rong" và Arataki Itto là "Tên bò tím" (dù phần nhiều chỉ mang tính trêu đùa). Dù nhỏ bé và lắm lời, Paimon thật sự quan tâm và an ủi những người xung quanh, đôi khi còn như một người chị lớn, đặc biệt với trẻ em. Cô cũng cực kỳ hào hứng với đồ ăn, kho báu hiếm và Mora.
+
+Dù đôi lúc đấu khẩu với Nhà Lữ Hành, Paimon vô cùng gắn bó với họ và thể hiện sự trung thành tuyệt đối. Cô luôn ở bên cạnh bất kể hiểm nguy, cố gắng động viên họ kể cả khi phải đối mặt với những thế lực áp đảo như các Ma Thần, 11 Quan chấp hành của Fatui, hay "Tội nhân". Paimon sẽ lo lắng khi Nhà Lữ Hành đột ngột biến mất hoặc bị tách khỏi cô. Cô cũng từng nói rằng điều ước lớn nhất của mình là muốn điều ước của Nhà Lữ Hành sẽ thành hiện thực, và đã thề sẽ luôn ở bên cạnh họ.
+
+Paimon từng ám chỉ rằng mình chưa đến 400 tuổi. Cô cũng được ngụ ý mạnh mẽ là có nguồn gốc từ bên ngoài Teyvat, tương tự như Nhà Lữ Hành. Kukulkan từng gọi cô là một “sứ giả”, nhưng cô thuộc về phe phái nào thì vẫn chưa rõ. Tuy vậy, cô vẫn chịu ảnh hưởng bởi những thay đổi của Cây Thế Giới - vốn chỉ tác động đến những cá thể bản địa của Teyvat.
+
+Paimon có khả năng chống chịu một số hiện tượng vốn thường yêu cầu phải có Vision hoặc nguyên tố tương thích mới có thể chống đỡ, như năng lượng Địa Mạch cô đặc hay sự ô nhiễm từ Vực Sâu. Khi Mavuika nói rằng Paimon không nên đi cùng cô và Nhà Lữ Hành đến trận chiến cuối cùng tại Vương Quốc Dạ Thần, do Vực Sâu có thể nhắm đến một người không có khả năng chiến đấu như Paimon, chứ không phải vì mức độ ăn mòn chết người sẽ gây hại cho cô. Thậm chí không có Vision hay biểu hiện nguyên tố nào rõ ràng, Paimon vẫn có thể lặn cùng Nhà Lữ Hành ở Fontaine và thậm chí còn nói chuyện được dưới nước.
+
+## Ngoại Hình
+
+Paimon có thân hình nhỏ nhắn làn dàn da trắng, mang lại cho cô vẻ ngoài của một tinh linh. Cô có mái tóc trắng dày dài ngang vai với những lọn xoăn nhẹ ở phần đuôi. Đôi mắt cô màu tím sẫm với đồng tử trắng sáng. Trong một số hình ảnh minh họa quảng bá, một lọn tóc bên trái của cô mờ dần sang màu đen.
+
+Cô mặc một bộ đồ liền quần dài tay màu trắng, được tô điểm bằng các họa tiết và đường viền màu vàng hồng, bao gồm một biểu tượng trên ngực. Cổ tay áo và đôi bốt của cô được tạo điểm nhấn bằng các vòng trang trí màu vàng hồng. Cô đi vớ trắng và bốt trắng. Một chiếc khăn quàng màu xanh navy quấn quanh cổ cô, và bay lơ lửng phía sau là một chiếc áo choàng lấp lánh ánh sao với họa tiết vũ trụ cùng các chòm sao phát sáng. Cô đội một chiếc vương miện hình vầng hào quang màu vàng hồng lơ lửng trên đầu và một phụ kiện hình ngôi sao tối màu trang trí trên mái tóc. Khi di chuyển, cô để lại phía sau một dải sao nhỏ bay lơ lửng.

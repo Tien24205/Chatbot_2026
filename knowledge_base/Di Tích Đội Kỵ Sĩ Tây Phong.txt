@@ -1,0 +1,12 @@
+# Di Tích Đội Kỵ Sĩ Tây Phong
+
+## Thông Tin Cơ Bản
+
+type: Địa Điểm Đáng Chú Ý
+map: Teyvat
+map_level: Di Tích Đội Kỵ Sĩ Tây Phong - Tầng Hầm 1; Di Tích Đội Kỵ Sĩ Tây Phong - Tầng Hầm 2; Di Tích Đội Kỵ Sĩ Tây Phong - Tầng Hầm 3
+subarea: Cảng Dornman
+area: Núi Gió Lặng
+region: Mondstadt
+
+- Bia Mộ Với Nét Chữ Phai Mờ: Bia Mộ Với Nét Chữ Phai Mờ: (Có vẻ là bia mộ từ rất lâu rồi... Chữ trên đó đã phai mờ không rõ nữa...) Bia Mộ Với Nét Chữ Phai Mờ: (Nhưng có thể nhận ra gần đây có dấu hiệu được dọn dẹp cẩn thận...)

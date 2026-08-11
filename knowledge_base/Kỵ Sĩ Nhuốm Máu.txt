@@ -1,0 +1,25 @@
+# Kỵ Sĩ Nhuốm Máu
+
+## Tổng Quan
+
+type: Nhân Vật Được Đề Cập
+region: Mondstadt
+affiliation: Đội Kỵ Sĩ Tây Phong
+affiliationNote: cũ
+affiliation2: Vực Sâu
+
+Kỵ Sĩ Nhuốm Máu, từng được biết tới với cái tên "Kỵ Sĩ Trắng", là một kỵ sĩ của Đội Kỵ Sĩ Tây Phong có xuất thân là quý tộc phục vụ dưới trướng Arundolyn từ 500 năm trước. Anh được huấn luyện bởi phó chỉ huy Đội Kỵ Sĩ, sói nhỏ Rostam, người đã dạy anh ấy về kỵ sĩ đạo, chính nghĩa và kiếm đạo và kết quả là, anh đã trở thành một kỵ sĩ tài năng ám ảnh với chính nghĩa. Anh cũng có một em trai nhỏ bị khiếm thị người đã du hành qua rất nhiều vùng đất để theo gót chân người anh trai nhưng cuối cùng đã bỏ mạng ở Sumeru
+
+Kiếm Đen là vũ khí của anh, trong đó bộ thánh di vật Kỵ Sĩ Đạo Nhuốm Máu là một di vật của anh ấy.
+
+## Câu Chuyện
+
+Trong lúc luyện tập với Rostam của Đội Kỵ Sĩ Tây Phong, Rostam đã truyền dạy cho anh những nguyên tắc của kỵ sĩ đạo, chính nghĩa và kiếm đạo. Sau đó, Kỵ Sĩ Trắng sẽ thường xuyên đứng lên ra tay tương trợ chống lại những chuyện bất bình mà anh chứng kiến và trong một lần anh đã cứu được thiếu nữ trong Thiếu Nữ Đáng Yêu người đã rơi vào lưới tình với anh. Cô cố gắng thưởng cho anh rất nhiều phần thưởng khác nhau, nhưng anh ấy khẳng định kỵ sĩ đạo là phần thưởng của anh và chỉ nhận một bông hoa màu trắng của cô.
+
+Đôi khi trong nhiều cuộc thám hiểm của mình, kỵ sĩ bắt đầu đánh mất chính mình trong việc tàn sát kẻ thù. Anh tự thuyết phục bản thân rằng cảm giác mà anh đang nhận được là sự hài lòng vì công lý được thực thi và tiếp tục hướng tới mục tiêu thanh trừng thế giới tà ác. Người khác cố gắng khuyên bảo anh rằng giết chóc vì chính nghĩa thì vẫn là giết chóc, nhưng kỵ sĩ không nghe theo lời khuyên của họ và tiếp tục con đường của mình.
+
+Khi kỵ sĩ tiếp tục hướng tới mục tiêu của mình, anh ngày càng bị vấy máu từ tất cả những con quái vật mà anh đã chiến đấu, thay đổi hình dáng của thanh kiếm, áo giáp và các phụ kiện khi tất cả chúng đều trở thành màu đen. Những người được anh cứu khỏi quái vật đã bỏ chạy vì sợ hãi, nhìn anh như một con quái vật khác.
+
+Cuối cùng anh nhận ra rằng không còn nơi nào cho mình và đi đến một vương quốc cổ đại đã sụp đổ, có ý định chết trong trận chiến chống lại lũ quái vật ở đó. Tuy nhiên, thay vào đó anh biết được rằng những con quái vật thực chất là người dân của vương quốc sụp đổ đang bị dính lời nguyền. Anh quyết định rằng đây là "sự bất công tột cùng" và ký kết bản thân với Vực Sâu.
+
+Vào một thời điểm không xác định sau khi biết về "tội ác biến con người thành hình dạng quái thú", kỵ sĩ đã chạm trán với Viridescent Venerer, người đã bị vấy bẩn bởi sự tàn sát không ngừng của những con thú Vực Sâu. Thấy cô không khác gì quái vật, kỵ sĩ đã giết cô trước khi tiếp tục hành trình về phía tây để giải quyết tội ác đã đề cập trước đó.

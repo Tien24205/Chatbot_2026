@@ -1,0 +1,38 @@
+# Kháng Gián Đoạn
+
+## Tổng Quan
+
+type: Thuộc Tính
+
+Kháng Gián Đoạn là một thuộc tính ẩn liên quan đến Chỉ Số Cân Bằng.
+
+Chỉ Số Cân Bằng là một cơ chế ẩn giúp xác định độ kháng choáng sau khi nhận đòn tấn công từ kẻ địch.
+
+Trong trò chơi, thuật ngữ "kháng gián đoạn" dùng để chỉ hyperarmor, một hệ số giúp giảm lượng gián đoạn nhận vào.
+
+## Giới Thiệu
+
+Mọi nhân vật và kẻ địch trong trò chơi đều có một thang chỉ số cân bằng vô hình. Thang này ban đầu sẽ đầy và giảm dần khi đối tượng sở hữu thang bị tấn công.
+
+Khi thang này giảm xuống còn 0, đối tượng sẽ rơi vào trạng thái phá vỡ cân bằng và sẽ có thể bị choáng bởi các đòn tấn công.
+
+## Thang Chỉ Số Cân Bằng
+
+Chiều dài của thang chỉ số cân bằng sẽ xác định lượng gián đoạn mà nhân vật hay kẻ địch có thể nhận cho đến khi bị phá vỡ cân bằng.
+Thang chỉ số cân bằng càng dài thì cần càng nhiều lượng gián đoạn để phá vỡ. Các nhân vật và kẻ địch khác nhau sẽ có chiều dài thang chỉ số cân bằng khác nhau.
+
+Khi thang chỉ số cân bằng giảm một phần, nó sẽ tăng lên từ từ cho đến khi đầy lại.
+
+Khi thế cân bằng của đối tượng bị phá vỡ, thang này sẽ không tăng nữa. Sau một vài giây, thang này sẽ đầy lại và đối tượng sẽ phục hồi trạng thái cân bằng.
+
+## Lượng Gián Đoạn
+
+Lượng Gián Đoạn là một thuộc tính ẩn giúp xác định hiệu quả tăng thang chỉ số cân bằng của một đòn tấn công. Lượng gián đoạn của một đòn tấn công càng cao thì sẽ càng làm giảm thang chỉ số cân bằng. Các đòn tấn công khác nhau sẽ có lượng gián đoạn khác nhau.
+
+Các yếu tố sau sẽ ảnh hưởng đến lượng gián đoạn nhận phải từ một đòn tấn công:
+- Sức chịu đựng từ chỉ số ban đầu.
+- Hyperarmor từ khả năng (hay Kháng Gián Đoạn) từ các kỹ năng.
+- Hyperarmor từ cử động trong các chuyển động tương ứng.
+- Hệ số cấp được xác định bởi khác biệt cấp độ giữa kẻ tấn công và kẻ nhận tấn công.
+
+- Kẻ Địch: Một số kẻ địch nhất định có thể tăng kháng gián đoạn bằng cách sử dụng một số đòn tấn công nhất định. Kẻ địch có khả năng tăng kháng gián đoạn (trừ kẻ địch có khả năng tạo khiên) bao gồm:

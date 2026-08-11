@@ -1,0 +1,35 @@
+# Delaroche
+
+## Thông Tin Cơ Bản
+
+type: NPC Đại Thế Giới
+type2: NPC
+region: Fontaine
+location: Fontaine
+affiliation: Hội Câu Cá
+title: Thợ Câu Fontaine
+voiceEN: [[imdb:nm0220635
+Debi Derryberry]]<ref name: "Debi Derryberry">TikTok: EN VA Self Announcement
+voiceJP: Tanaka Shiori (ja|田中しおり)
+
+- Tổng Quan: Delaroche là NPC Thương Nhân tại Đại Sảnh Fontaine, Fontaine.
+
+- Thoại Nhàn Rỗi: Kiên nhẫn... : "I just need to have patience! Come on, stay strong..."
+
+## Hội Thoại
+
+Delaroche: Kiên nhẫn... kiên nhẫn... đây là rèn luyện sự kiên nhẫn...
+Delaroche: Thân là quản lý của Hội Câu Cá, nhất định phải kiên trì bên cạnh điểm câu, dùng ý chí kiên cường đánh bại đấu sĩ cá!
+Đừng nói chuyện này nữa, tôi cần vật dụng câu cá.
+:Delaroche: Ồ, đương nhiên là được! Hãy tùy ý lựa chọn!
+;(Mở giao diện Cửa Hàng)
+Thu hoạch thế nào?
+;(trước khi hoàn thành Mồi Câu Của Delaroche)
+:Delaroche: A, xin chào... cảm ơn đã quan tâm!
+:Delaroche: Như bạn thấy, tôi đang ra sức chiến đấu với đấu sĩ cá dưới nước, tạm thời chưa có thành quả gì.
+:Delaroche: Chỉ cần tôi giữ được kiên nhẫn, chịu đựng thêm nữa, nhất định sẽ chiến thắng!
+Cô là?
+:Delaroche: Tôi là Delaroche, quản lý đương nhiệm của Hội Câu Cá Fontaine! Nếu có vấn đề gì liên quan tới câu cá thì có thể hỏi tôi!
+:Delaroche: À, ý tôi là tài nguyên và trang thiết bị... Còn về kỹ thuật và mẹo câu cá, tôi sẽ không tùy tiện chỉ dạy người khác.
+Không làm phiền nữa!
+:Delaroche: Ủa? Khi nãy bạn tìm tôi có việc gì sao? Xin lỗi, tôi không để ý, lần sau nhất định sẽ không lạnh nhạt với bạn!

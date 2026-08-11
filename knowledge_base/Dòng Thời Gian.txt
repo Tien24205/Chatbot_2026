@@ -1,0 +1,206 @@
+# Dòng Thời Gian
+
+## Tổng Quan
+
+type: Sự Kiện Lịch Sử
+type2: Cốt Truyện
+
+Một bản tóm tắt sơ bộ về dòng thời gian trong vũ trụ của Genshin Impact, kết hợp giữa các ghi chép lịch sử, thần thoại và truyện dân gian. Hiện bài viết vẫn đang trong quá trình thực hiện; hãy tiếp nhận thông tin một cách cởi mở.
+
+Để xem dòng thời gian của các quốc gia, xem Lịch Sử Quốc Gia và nhấn vào trang của quốc gia bạn muốn xem.
+
+Lưu ý: Bài viết này vẫn đang được xây dựng và chưa hoàn thiện. Một số thông tin đã được đưa vào các trang về lịch sử quốc gia và cần được chỉnh sửa ở đó. Một số thông tin liên quan đến nhiều quốc gia có thể bị trùng lặp.
+
+Các tài liệu tham khảo được cung cấp nhiều nhất có thể. Ngoài ra cũng có các ghi chú giúp mở rộng các suy luận và lập luận được dùng để đưa ra kết luận, đọc bằng cách di chuột vào (chỉ dành cho máy tính) hoặc nhấp thẳng vào ghi chú. Một số ghi chú có thể thấy trong bài viết này:
+- Mâu thuẫn trong cốt truyện: Khi các thông tin trong trò chơi tự mâu thuẫn, được thay đổi trước đó hoặc mâu thuẫn với thông tin được cung cấp trong manga, nó được coi là một mâu thuẫn trong cốt truyện. Mâu thuẫn trong cốt truyện khác với mâu thuẫn trong dịch thuật, bởi lẽ ở đó các thông tin mâu thuẫn với nhau do sự sai lệch trong quá trình bản địa hóa. Trong trường hợp mâu thuẫn cốt truyện có bao gồm thông tin trong trò chơi và trong manga, thông tin trong trò chơi luôn được ưu tiên.
+- Ghi chú dịch thuật: Sử dụng khi bản gốc tiếng Trung và bản dịch tiếng Việt không khớp nhau, hoặc khi thông tin được làm rõ hơn trong bản gốc tiếng Trung. Trong trường hợp mâu thuẫn dịch thuật, bản gốc tiếng Trung luôn được ưu tiên.
+- Giả thuyết: Do thiếu thông tin, thông tin mẫu thuẫn, thông tin được mở rộng trong các cốt truyện khác, tài liệu trong trò chơi có sự không chính xác và các điều gây nhiễu khác, các dịch giả sẽ thỉnh thoảng đưa ra các giả thuyết để xác định thứ tự của các sự kiện hoặc sắp xếp lại các phần cốt truyện rời rạc vào với nhau. Tuy nhiên chúng vẫn có thể bị phủ nhận hoặc được chứng minh là sai bởi các câu chuyện và cốt truyện mới. Các ghi chú này chỉ là một thông tin mở giúp các dịch giả đưa ra kết luận của họ.
+
+Nếu có bất kì đề xuất nào trong việc thay đổi, hãy để lại bình luận và bằng chứng.
+
+- Cựu Thế Giới: Mốc thời gian không xác định, lấy mốc thời gian là trước sự ra đời của Morax vào 6000 năm trước.
+
+## Thất Vương
+
+- Tại niên đại của Cựu Thế Giới, thế giới được cai trị bởi loài rồng, cùng với đó là Thất Vương – bảy vị Long Vương mang sức mạnh nguyên tố nguyên thủy, đỉnh cao nhất. Chúng cai trị bảy quốc gia, và từng quốc gia đều được nhào nặn nhằm thích nghi với đặc tính từng vị.
+- Loài Rồng cũng như Thất Vương cùng những cong rồng khác đều đến từ Lãnh Địa Rồng (hay Lãnh Địa Ánh Sáng) và là những sinh vật nguyên tố nguyên thủy thuần khiết.
+
+## Vương Tọa Vĩnh Hằng Trên Trời Cao
+
+-? năm trước ― Vị Đầu Tiên, còn được gọi là "Vương Toạ Vĩnh Hằng Trên Trời Cao" xuất hiện trên thế giới.
+- Phanes là một ứng cứ viên cho thân phận của "Vị Đầu Tiên", được sinh ra từ một "quả trứng", khó phân biệt được giới tính. Để thế giới được tạo ra thì vỏ trứng phải vỡ ra; tuy nhiên, ngài đã dùng vỏ trứng để tách "vũ trụ" và "chiếc bóng của thế giới" ra. Sau đó ngài đã đến với thế giới với tư cách là Chúa tể và tuyên bố Thiên Giới là Vương Tọa Vĩnh Hằng của ngài.
+- Vị Đầu Tiên đã thách thức Thất Vương và ngài đã tạo ra bốn chiếc bóng để khơi mào cuộc chiến chống lại loài rồng. Ngài đã dành chiến thắng và thiết lập nên một thế giới mới.
+- Istaroth, vị thần của Thời gian và Gió, là một trong bốn chiếc bóng của ngài.
+- Hơn 40 năm sau khi giữ cành ― Vị Đầu Tiên và bốn chiếc bóng đã giành chiến thắng tuyệt đối trước Thất Vương. Sau đó thế giới nằm dưới sự kiểm soát của Thiên Giới trong khi thần dân của Thất Vương chạy trốn ra đại dương. Vị Đầu Tiên bắt đầu tạo ra trời như đất vì lợi ích của nhân loại và các sáng chế của ngài.
+- Điều này dẫn đến sự ra đời của ba tầng thế giới: Lãnh Địa Rồng của nguyên tố (hay còn được biết đến là Lãnh Địa Ánh Sáng), Lãnh Địa Hư Vô của vực sâu và Lãnh Địa Con Người do Vị Đầu Tiên tạo nên.
+
+## Con Thuyền Mở Lối
+
+- Hơn 400 năm sau khi giữ cành ― Vị Đầu Tiên đã hoàn thành phần chuẩn bị thế giới cho nhân loại. Ngài và những chiếc bóng của mình đã tạo nên sự sống trên khắp thế giới, và con người đã lập một khế ước với ngài. Ngài đã giao một "kế hoạch thần thánh" cho nhân loại, mở ra thời đại "Con Thuyền Mở Lối". Con người hướng về đất đai giúp nó phát triển mạnh mẽ, mở ra thời kỳ "những năm tháng vui tươi".
+- Một nền văn minh nhân loại thống nhất trải dài trên toàn thế giới, khu vực Enkanomiya là một phần trong đó.
+- Tiên Linh từng là một giống loài sở hữu hình dạng tuyệt đẹp và trí tuệ thông thái. Họ dừng chân khắp nơi trên thế giới, mang trong mình trách nhiệm dẫn dắt nhân loại. Họ đã gầy dựng được một nền văn minh rộng lớn và thịnh vượng, những cung điện lớn cũng được khánh thành.
+- Ngày xưa có tồn tại ba mặt trăng, họ là ba chị em Aria, Sonnet và Canon. Họ sống ở cung trăng, cứ mỗi tháng thay phiên nhau cưỡi xe bạc tuần du.
+
+## Vị Thứ Hai Trên Trời Cao
+
+-? năm trước ― Một cá nhân được biết đến với danh xưng Vị Thứ Hai, hay còn gọi là Vị Thứ Hai Trên Trời Cao xuất hiện. Chiến tranh đã nổ ra giữa Vị Đầu Tiên và Vị Thứ Hai khiến cả trời đất đều bị hủy diệt.
+- Enkanomiya sụp đổ xuống lòng biển sâu, cắt đứt hoàn toàn với bề mặt Teyvat.
+- Sau chiến tranh ― Bất kể ai dành chiến thắng và lên nắm quyền cai trị sau cùng đều bị cấm biết về dòng chảy lịch sử trước trận chiến.
+- Người dân Enkanomiya đã không thể tìm được đường ra khi họ cố gắng quay trở lại mặt đất một năm sau khi dựng lên Dainichi Mikoshi. Họ tin rằng "sức mạnh ngăn cấm" chính là do Vị Đầu Tiên tạo ra và kết luận rằng Vị Đầu Tiên đã chiến thắng Vị Thứ Hai.
+- >6000 năm trước ― Morax - Nham Ma Thần - ra đời.
+- ~6000 năm trước (khi Morax còn trẻ), có thể là lúc đồng xảy ra sự kiện Vị Thứ Hai ― Nền văn minh Tiên Linh kết thúc khi một tổ tiên của họ đã phải lòng Lữ Khách phương xa, có thể là hậu quả của lời nguyền khiến hình dáng tuyệt mĩ tan vỡ cũng như trí tuệ sẽ mất đi khi họ phải lòng con người. Đúng ba mươi ngày sau, tai hoạ ập xuống, Tiên Linh và Lữ Khách đã chạy trốn giữa thế giới rạn nứt, cho đến khi tai hoạ nguy hiểm ập đến chặn đứng bước chân họ. Họ bị trừng phạt bằng sự chia lìa vĩnh viễn, thậm chí ngay cả ký ức cũng bị vỡ nát.
+- Ba tỷ muội cung trăng Aria, Sonnet và Canon đã chứng kiến tai hoạ ập xuống trên đầu tổ tiên Tiên Linh và Lữ Khách, tiếc thương cho số phận của họ. Tai hoạ đã "lật đổ" xe của quân vương, "cung điện tinh la" bị phá huỷ. Ba chị em màn đêm trở mặt thành kẻ thù, dùng cái chết để từ biệt. Chỉ còn lại thi thể của một người tái nhợt, cũng chính là mặt trăng còn lại bây giờ.
+- Những chú sói tại Teyvat có mối quan hệ mật thiết với ba chị em khóc thương cho số phận hẩm hiu của họ.
+- Nền văn minh đã mất đã tạo ra La Hoàn Thâm Cảnh có mối liên hệ mật thiết với Mặt Trăng và chị em Mặt Trăng.
+- Xe Mặt Trời rơi xuống phía Tây Tuần Ngọc Lăng bây giờ, tạo nên Vực Đá Sâu. Khu khai thác này thịnh vượng này đã duy trì khu vực Tuần Ngọc suốt cả ngàn năm cho đến khi tai ương thời cổ đại xảy đến 500 năm trước. Người dân tại đó đã kịp thời phát hiện và sửa chữa cỗ xe và đưa nó trở lại bầu trời.
+- Trong một số truyền thuyết khác, Xe Mặt Trời không phải một cỗ xe mà là một Thiên Tinh đã rơi xuống và tạo nên Vực Đá Sâu, sau đó tự trở lại bầu trời do Chiến Tranh Ma Thần đã xảy đến.
+- Sau tai hoạ, Tiên Linh đau lòng khôn xiết, ngày càng tiều tuỵ, hoá thành sinh linh nhỏ bé phiêu dạt. Chịu lời nguyền mất đi ký ức, họ vẫn theo đuổi những mảnh ký ức còn lại bằng cách dẫn lối các lữ khác đến với nơi trú ngụ cũ của họ, Tiên Linh Đài.
+- Tiên Linh Đài ở Enkanomiya có tình trạng tốt hơn ở Teyvat, cũng là một lời gợi ý rằng nền văn minh Tiên Linh đã kết thúc vào khoảng thời gian Enkanomiya rơi xuống biển sâu, do vậy Tiên Linh Đài ở đây phải chịu ít điều kiện thời tiết hơn Tiên Linh Đài ở Teyvat.
+- Không phải tất cả Tiên Linh đều hóa thành sinh linh lang thang; một số ít vẫn giữ lại được hình dáng con người. Sau sự sụp đổ của chủng tộc Tiên Linh, một vị vua sói (khả năng là Andrius) đã gặp một trong những tàn dư của tộc Tiên Linh. Có khả năng cô là vị "ma thần viễn cổ" đã ban sức mạnh cho Andrius.
+- Một Tiên Linh đã sống sót qua tai hoạ, ngầm ám chỉ là Hoa Thần đã đến làm bạn với Đại Vương Rukkhadevata và Vua Deshret.
+
+## Thời Kỳ Sứ Thần
+
+Lưu ý: Những thông tin về sự xuất hiện của Đảo Thiên Không và các Sứ Thần đều khá mơ hồ, có thể giả dụ rằng các Sứ Thần xuất hiện Vị Thứ Hai và sự sụp đổ của tộc Tiên Linh. Nền văn minh Enkanomiya đã sụp đổ từ thời Vị Thứ Hai được cho là có sức ảnh hưởng tối thiểu từ các Sứ Thần, và phần lớn có vẻ là đến từ Orobashi.
+-? năm trước ― Trái đất khi ấy bị bao phủ bởi nguyên tố - băng vô tận, lửa, và những thứ tương tự. Sứ Thần đã giúp cho trái đất dễ sinh sống hơn cho con người, họ dạo bước giữa nhân gian, trong khi con người có thể kết nối trực tiếp với Đảo Thiên Không. Cây Thế Giới kết nối với địa mạch trên toàn thế giới, nắm giữ một tầm quan trọng lớn trong các nghi lễ tôn giáo của nền văn minh cổ đại này.
+- Từng có một thời đại, người trên mặt đất có thể nghe được chỉ thị từ Đảo Thiên Không. Sứ giả của Thần dạo bước giữa loài người ngu dốt. Khi đó hơi thở của vạn vật yếu dần, và mặt đất mãi mãi đóng băng. Lúc này, băng dần tan, ngọn lửa mới bắt đầu bùng cháy. [...] ngọn lửa vụt tắt, và những cơn mưa bắt đầu. [...] biển hồ khô cạn, sấm sét bắt đầu giáng xuống.
+- Bản chất của thế giới mà Đảo Thiên Không tạo ra là "theo chu kỳ"; nhân loại sẽ phát triển và thịnh vượng dưới sự chúc phúc của Đảo Thiên Không đến khi nó kết thúc, sau đó trái đất sẽ được đổi mới và chu kỳ sẽ được lặp lại. Con người không được phép biết về điều này, vì vậy mỗi khi họ đặt câu hỏi về việc sự thịnh vượng sẽ kéo dài bao lâu, các Sứ Thần chọn cách im lặng.
+- Để nhận được câu trả lời từ Đảo Thiên Không, người dân đã chọn ra một vị chủ tế đội mão tế trắng kết từ cành Cây Thế Giới, đi đến nơi sâu nhất của thế giới để giác ngộ.
+- Mỗi chủ tế sau khi từ chứ đều trả lại mũ lễ nguyên vẹn cho thế giới. Cứ như vậy, một núi mũ lễ bệnh bằng cành trắng tích tụ bên dưới một cái cây khô héo.
+-? năm trước ― Sau khi nhân loại được ban tặng trí tuệ, họ trở nên ngạo mạn và đầy tham vọng. Họ thách thức quyền lực của các vị thần và tìm cách tiến vào các khu vườn địa đàng. Điều này làm cho các Sứ Thần nổi giận, vì vậy vị chủ tế lại đội lên chiếc mão tế trắng, đi đến nơi sâu nhất ủa thế giới để xoa dịu họ.
+-? năm trước ― Đã từng có 1 vương quốc rộng lớn trên bầu trời. Vị vua của vương quốc đó đã cử người kế nhiệm đầu tiên đến đất nước hắc ám, hòng tìm kiếm trân châu sáng thế. Người kế nhiệm bước vào con đường tìm kiếm trân châu. Nhưng cô ấy đã lầm đường lạc lối, quên đi sự cao quý của mình. Cô cho rằng chính mình là vua của vương quốc hắc ám. Sau đó, người kế nhiệm thứ 2 đã lên đường để làm nhiệm vụ tương tự, và kết cục thì vẫn chưa rõ.
+
+## Các Khu Vực Chưa Xác Định Ở Teyvat
+
+-? năm trước ― Lôi Ma Thú dùng sấm sét để nô dịch nhân loại, tàn phá đất đai. Vị Tôn Giả Trầm Lặng có gia đình đã bị giết sạch trong một lần nọ đã tnh tìm đến hang động nằm gần một quả núi lửa của Lôi Ma Thú. Anh chiến đấu và chặt đầu con quái vật, giành được chiếc mũ miện minh chứng cho thành tích của mình, nhưng rồi lại phải sống những ngày cuối đời trong cô độc.
+-? năm trước ― Quê hương của Kẻ Cuồng Chiến đã bị thiêu rụi bởi ngọn lửa trong cuộc chiến giữa các vị thần và người phàm. Là người sống sót duy nhất và cũng là một chiến binh mạnh mẽ, mặt nạ sắt cháy trên mặt thay cho máu thịt anh, anh phát điên khi quê nhà bị thiêu rùi và dấy lên cơn hận thù với Đảo Thiên Không. Anh ta nổi cơn cuồng chiến, chiến đấu với cả nhân loại, quái vật và cả các vị thần. Có lúc anh ta đã chiến đấu với một con quái vật ròng rã mấy năm trời trước khi giết được nó. Nhưng cuối cùng anh đã gục ngã, hoặc do bị giết, hoặc chết sau khi đã giết được tử thù.
+
+## Chiến Tranh Ma Thần (?–2000 năm trước)
+
+Lưu ý: Thuật ngữ "Chiến Tranh Ma Thần" là một thuật ngữ chung cho các cuộc xung đột khác nhau, rải rác khắp Teyvat để xác định ai sẽ trở thành một trong Bảy Vị Thần. Ví dụ, ở Liyue, Chiến tranh Ma Thần nổ ra giữa nhiều vị thần, bao gồm Morax, Guizhong, Havria, Osial... Tuy nhiên, ở Mondstadt, cuộc xung đột duy nhất được biết đến trong Chiến Tranh Ma Thần là giữa Andrius và Decarabian.
+-? năm trước ― Bảy ngôi vị thần thánh ở Đảo Thiên Không mở ra khiến các vị thần bị cuốn vào một cuộc chiến tranh giành quyền lực để ngồi vào bảy chiếc ghế này.
+- Nhiều vị thần đã chiến đấu cho lý tưởng vì một nhân loại thịnh vượng của họ. "Sự xao động cứ quấn lấy xương cốt của thần. Nó là những lý tưởng chưa thực hiện được, là sự miêu tả một cuộc sống hạnh phúc khác của nhân loại."
+- Trong Chiến Tranh Ma Thần, cuộc đấu đá nội bộ giữa các vị thần chỉ là một nguyên nhân dẫn đến nhiều cuộc xung đột ở Teyvat; các sinh vật và thực thể khác cũng tìm cách mở rộng lãnh địa của chúng, lợi dụng sự hỗn loạn để xâm lấn lục địa.
+- Ở Liyue trước giờ vẫn luôn có truyền thuyết về hải quái từ nơi "vượt quá tầm hiểu biết" nằm ngoài Teyvat. Người dân thời viễn cổ sẽ dùng xương hải quái trang trí thuyền để xua đuổi chúng.
+
+## Hậu Chiến Tranh Ma Thần
+
+- 2000 năm trước ― Chiến Tranh Ma Thần kết thúc khi bảy vị trí trên Đảo Thiên Không đã được xác định, tạo nên đội hình Bảy Vị Thần ban đầu. Những ma thần bại trận không chịu sống dưới sự cai trị của Bảy Vị Thần đã chạy trốn đến các hòn đảo ở Vùng Biển Đen và trở thành tà thần.
+- Từ sau khi Barbatos đến thăm Morax - không phải để tìm kiếm sự giúp đỡ mà để thám hiểm nước láng giềng - Bảy Vị Thần nguyên sơ thường tụ tập ở Cảng Liyue.
+- 2000–500 năm trước ― Trong suốt 1500 năm, Băng, Thảo, Lôi, Thủy và Hỏa Thần qua đời, chỉ còn lại Barbatos và Morax là những thành viên của Bảy Vị Thần nguyên sơ. Hiện không rõ vị trí của các vị thần đã qua bao nhiêu lần kế thừa, nhưng ngừi kế nhiệm hiện tại lần lượt là: Nữ Hoàng Băng Giá, Tiểu Vương Kusanali, Ei, Focalors và Murata. Trong số đó, Tiểu Vương Kusanali là vị thần mới nhất, đã thành thần sau tai ương thời cổ đại cách đây 500 năm.
+- Nghĩa vụ dẫn lối cho nhân loại của Bảy Vị Thần nguyên sơ đã không còn được các Chấp Chính Trần Thế mới coi trọng nữa.
+
+## Tai Ương Thời Cổ Đại (500 năm trước)
+
+- Ma vật từ Vực Sâu trồi lên mặt đất Teyvat, gây ra thiệt hại khắp nơi.
+- Người dân Teyvat cho rằng người đã tạo ra lũ ma vật này chính là "tội phạm" Gold hay còn được biết đến là người đã tạo ra Albedo, Rhinedottir. Tạo vật của cô - Alfisol là thú bảo hộ khỏi ma vật Vực Sâu.
+- Vương Quốc Khaenri'ah đã bị phá huỷ bởi Thiên Lý, gây nên sự sụp đổ của Vương Triều Nhật Thực và toàn bộ nền văn minh. Sự phá huỷ của Khaenri'ah đã gây nên hiệu ứng sóng tàn phá.
+- Bảy Vị Thần đã bị dính líu đến Khaenri sau khi Vực Sâu đổ bộ Teyvat.
+- Aether và Lumine đã rơi vào thế giới Teyvat khi lang thang giữa các thế giới khác sau sau khi quê nhà bị phá huỷ. Họ đã rơi xuống và bất tỉnh từ sau sự kiện "thiên thạch".
+- Song Sinh Của Nhà Lữ Hành của Nhà Lữ Hành đã tỉnh dậy trước và tìm hiểu thêm về Teyvat. Song Sinh Của Nhà Lữ Hành đã chứng kiến tai ương thời cổ đại và các vị thần huỷ diệt Khaenri'ah. Cô/Anh vội quay trở lại điểm va chạm để đánh thức Nhà Lữ Hành, cho Nhà Lữ Hành thấy sự tàn phá đàn diễn ra ở Khaenri'ah.
+- Do cuộc hành trình của Song Sinh Của Nhà Lữ Hành cùng với Dainsleif diễn ra sau tai ương thời cổ đại, người ta cho rằng Song Sinh Của Nhà Lữ Hành chỉ mới khám phá ra Teyvat một khoảng thời gian ngắn trước khi gặp phải tai ương thời cổ đại.
+- Trươc khi gặp Thần Vô Danh, Lumine đã cài một đoá Inteyvat lên tóc.
+- Nếu chọn Aether làm Nhà Lữ Hành, có thể hiểu rằng Lumine đã tự hái đoá hoa này ở Khaenri'ah. Nếu chọn Lumine làm Nhà Lữ Hành, có thể hiểu rằng Aether đã tặng đoá hoa này cho cô sau khi trở về từ Khaenri'ah để đánh thức cô.
+- Cặp song sinh sau đó cố tìm cách rời đi nhưng bị chặn lại bởi Thần Vô Danh. Cặp song sinh chiến đấu chống lại Thần Vô Danh để rời đi, họ mang theo đôi cánh và thanh kiếm của riêng mình. Cặp song sinh sau đó đã thua trận, Thần Vô Danh giam Song Sinh Của Nhà Lữ Hành vào một khối lập phương trước, Nhà Lữ Hành cố gắng giải cứu Song Sinh Của Nhà Lữ Hành. Nhà Lữ Hành sau đó rơi vào giấc ngủ sâu bên trong khối lập phương một lần nữa cho đến 500 năm sau.
+
+## Hậu Tai Ương Thời Cổ Đại (500–100 năm trước)
+
+- Số lượng và động thái của Hilichurl ở Teyvat tăng lên đáng kể, ngầm cho thấy rằng trong số chúng có thể là người dân Khaenri'ah biến thành khi chịu trừng phạt từ tai ương thời cổ đại.
+- (Mở Đầu - Màn 1)
+- Kho Báu Cướp Biển (Nhiệm Vụ Truyền Thuyết của Kaeya - Màn 1)
+- Gió, Đôi Cánh Và Dũng Khí (Nhiệm Vụ Truyền Thuyết của Amber - Màn 1)
+- Công Việc Phiền Phức (Nhiệm Vụ Truyền Thuyết của Lisa - Màn 1)
+- Con Đường Ẩm Thực Mondstadt (Nhiệm Vụ Truyền Thuyết của Xiangling - Màn 1)
+- Giang Hồ Không Hỏi Xuất Thân (Nhiệm Vụ Truyền Thuyết của Xingqiu - Màn 1)
+- Vì Một Ngày Mai Không Rơi Lệ (Mở Đầu - Màn 2)
+- Báo Cáo Quan Sát Nhà Lữ Hành (Nhiệm Vụ Truyền Thuyết của Albedo - Màn 1)
+- Bài Ca Về Rồng Và Tự Do (Mở Đầu - Màn 3)
+- Bằng Chứng Ngoại Phạm Của Anh Hùng Bóng Đêm (Nhiệm Vụ Truyền Thuyết của Diluc - Màn 1)
+- Ý Nghĩa Của Lupical (Nhiệm Vụ Truyền Thuyết của Razor - Màn 1)
+- Bảo Vật Thực Sự (Nhiệm Vụ Truyền Thuyết của Klee - Màn 1)
+- Phía ngoài bầu trời của kiếp này (Nhiệm Vụ Truyền Thuyết của Mona - Màn 1)
+- Một Ngày Nghỉ Của Đội Trưởng Kỵ Sĩ (Nhiệm Vụ Truyền Thuyết của Jean - Màn 1)
+- Nếu bạn bị nhốt ở nơi không có gió (Nhiệm Vụ Truyền Thuyết của Venti - Màn 1)
+- Sóng Không Quay Về Biển (Nhiệm Vụ Truyền Thuyết của Eula - Màn 1)
+- Phù Thế Phù Sinh Thiên Nham Gian (Chương 1 Màn 1)
+- Cánh Bướm Kỳ Diệu Giấc Mộng Bình An (Nhiệm Vụ Truyền Thuyết của Xiao - Màn 1)
+- Lời Tạm Biệt Thể Xác Vĩnh Hằng (Chương 1 Màn 2)
+- Bướm Bay Về Nơi Đâu (Nhiệm Vụ Truyền Thuyết của Hu Tao - Màn 1)
+- Ngôi Sao Đang Đến (Chương 1 Màn 3)
+- Tổng động viên tiểu bảo một mắt (Nhiệm Vụ Truyền Thuyết của Tartaglia - Màn 1)
+- Hoa Muối (Nhiệm Vụ Truyền Thuyết của Zhongli - Màn 1)
+- Biển Mây Rừng Người (Nhiệm Vụ Truyền Thuyết của Ganyu - Màn 1)
+- Phong Khởi Hạc Quy (Chương Đệm Màn 1)
+- Tấm Lòng Thầy Thuốc (Nhiệm Vụ Truyền Thuyết của Baizhu - Màn 1)
+- Ngôi Sao Vụt Tắt Chưa Trở Về (Phiên Bản 1.1)
+- Vôi Trắng và Rồng Đen (Phiên Bản 1.2)
+- Tết Hải Đăng (Phiên Bản 1.3)
+- Người Giữ Cành - Dainsleif (Chương 1 Màn 4 - Chương Đệm)
+- Lời Mời Của Hoa Gió (Phiên Bản 1.4)
+- Chúng Ta Ắt Sẽ Trùng Phùng (Chương 1 Màn 4)
+- Đĩa Dẫn Năng Lượng - Tóm Lược (Phiên Bản 1.5)
+- Sắt Đá (Nhiệm Vụ Truyền Thuyết của Zhongli - Màn 2)
+- Mùa Hè! Hải Đảo? Cuộc Mạo Hiểm! (Phiên Bản 1.6)
+- Gió Thu Vén Áo Hỏi Lá Đỏ (Chương 2 Mở Đầu)
+- Lôi Thần Uy Nghiêm, Địa Đàng Vĩnh Hằng (Chương 2 Màn 1)
+- Câu Chuyện Về Hạc Và Thỏ Trắng (Nhiệm Vụ Truyền Thuyết của Kamisato Ayaka - Màn 1)
+- Vĩnh hằng như một giấc mơ (Nhiệm Vụ Truyền Thuyết của Yoimiya - Màn 1)
+- Tâm Vô Tạp Niệm, Bất Sinh Bất Diệt (Chương 2 Màn 4)
+- Truy Tìm Vết Sấm (Phiên Bản 2.0)
+- Thiên Thủ Bách Nhãn, Thiên Hạ Nhân Gian (Chương 2 - Màn 3)
+- Phản Chiếu Trần Gian (Nhiệm Vụ Truyền Thuyết của Raiden Shogun - Màn 1)
+- Sau Cơn Mưa Trời Lại Sáng (Nhiệm Vụ Truyền Thuyết của Sangonomiya Kokomi - Màn 1)
+- Xích Kim Hồn (Nhiệm Vụ Truyền Thuyết của Arataki Itto - Màn 1)
+- Trăng Thu Soi Sáng (Phiên Bản 2.1)
+- Chiến Binh Bí Ẩn (Phiên Bản 2.2)
+- Ảo Ảnh Giữa Bão Tuyết (Phiên Bản 2.3)
+- Muôn Sắc Khắc Niên Hoa (Phiên Bản 2.4)
+- Nghi Lễ Cổng Tam Giới (Phiên Bản 2.5)
+- Giấc Mộng Thoáng Qua (Nhiệm Vụ Truyền Thuyết của Raiden Shogun - Màn 2)
+- Lễ Cầu Nguyện Trừ Tà Narukami (Nhiệm Vụ Truyền Thuyết của Yae Miko - Màn 1)
+- Sắc Màu Rực Rỡ (Phiên Bản 2.6)
+- Chiếc Lá Ngô Đồng Rơi (Nhiệm Vụ Truyền Thuyết của Kamisato Ayato - Màn 1)
+- Khúc An Hồn Nơi Đáy Vực (Chương 2 Màn 4)
+- Lộ Trình Nguy Hiểm (Chương Đệm Màn 2)
+- Nước Cờ Gặp Khó (Nhiệm Vụ Truyền Thuyết của Yelan - Màn 1)
+- Chuyến Đi Biển Ngày Hè (Phiên Bản 2.8)
+- Cố Nhân Xa Lạ (Nhiệm Vụ Truyền Thuyết của Kaedehara Kazuha - Màn 1)
+- Xuyên Qua Màn Sương Và Rừng Rậm (Chương 3 Màn 1)
+- Trở Về Tuổi Thơ (Phiên Bản 3.0)
+- Bình Minh Của Ngàn Đóa Hồng (Chương 3 Màn 2)
+- Đề Bài Không Đáp Án (Nhiệm Vụ Truyền Thuyết của Tighnari - Màn 1)
+- Gửi Người Trí Tuệ (Nhiệm Vụ Truyền Thuyết của Nilou - Màn 1)
+- Ảo Mộng, Trống Rỗng Và Dối Gian (Chương 3 Màn 3)
+- Xích Thổ Chi Vương Và Tam Triều Thánh Giả (Chương 3 Màn 4)
+- Cát Chìm Tĩnh Lặng (Nhiệm Vụ Truyền Thuyết của Cyno - Màn 1)
+- Khúc Ca Vang Trong Rượu (Phiên Bản 3.1)
+- Akasha Rung Động, Kiếp Hỏa Dâng Trào (Chương 3 Màn 5)
+- Hơi Ấm Quẩn Quanh (Nhiệm Vụ Truyền Thuyết của Nahida - Màn 1)
+- Ảo Cảnh Ô Hợp (Nhiệm Vụ Truyền Thuyết của Alhaitham - Màn 1)
+- Dòng Máu Sư Tử (Nhiệm Vụ Truyền Thuyết của Dehya - Màn 1)
+- Cội Nguồn Nghiêng Ngả (Chương Đệm Màn 3)
+- Đại Hội Đấu Nấm Siêu Cấp (Phiên Bản 3.2)
+- Akitsu Kimodameshi (Phiên Bản 3.3)
+- Âm Vang Dạ Tấu (Phiên Bản 3.4)
+- Caribert (Chương 3 Màn 6)
+- Hơi Thở Hoa Gió (Phiên Bản 3.5)
+- Điển Lễ Trí Tuệ (Phiên Bản 3.6)
+- Hồi Hương (Nhiệm Vụ Truyền Thuyết của Nahida - Màn 2)
+- Đỉnh Cao Triệu Hồi (Phiên Bản 3.7)
+- Hành Trình Tìm Sao (Nhiệm Vụ Truyền Thuyết của Yoimiya - Màn 2)
+- Thiên Đường Hè Kỳ Bí (Phiên Bản 3.8)
+- Mặt Trận Dây Cót (Phiên Bản 4.0)
+- Khúc Dạo Đầu Của Sương Trắng Và Sóng Đen (Chương 4 Màn 1)
+- Như Làn Mưa Nhẹ Không Rõ Nguyên Nhân (Chương 4 Màn 2)
+- Đạo Chích Bị Lãng Quên (Lyney - Màn 1)
+- Ngôi Sao Tỏa Sáng Dưới Biển Sâu (Chương 4 Màn 3)
+- Thảm Họa Cận Kề (Chương 4 Màn 4)
+- Vết Sẹo Ngày Cũ (Nhiệm Vụ Truyền Thuyết của Neuvillette - Màn 1)
+- Hồi Sinh Nơi Oán Than (Nhiệm Vụ Truyền Thuyết của Wriothesley - Màn 1)
+- Thelxie's Fantastic Adventures (Phiên Bản 4.2)
+- Masquerade of the Guilty (Chương 4 Màn 5)
+- Tinh Linh Nước Bé Nhỏ (Nhiệm Vụ Truyền Thuyết của Furina - Màn 1)
+- Tường Vi Và Hỏa Mai (Phiên Bản 4.3)
+- Cùng Vượt Thủy Triều (Nhiệm Vụ Truyền Thuyết của Navia - Màn 1)
+- Sắc Diều Đón Gió Xuân Đã Mở (Phiên Bản 4.4)
+- Thiên Lý Nguyệt Minh (Nhiệm Vụ Truyền Thuyết của Xianyun - Màn 1)

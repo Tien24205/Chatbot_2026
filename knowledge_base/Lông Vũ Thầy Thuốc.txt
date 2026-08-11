@@ -1,0 +1,14 @@
+# Lông Vũ Thầy Thuốc
+
+## Câu Chuyện
+
+set: Thầy Thuốc
+piece: Lông Vũ Tử Vong
+
+- Tổng Quan: Lông Vũ Thầy Thuốc là một Thánh Di Vật trong bộ Thầy Thuốc.
+
+Dẫu đêm đen đến mức chẳng nhìn rõ đường, người thầy thuốc vẫn xuất hiện kịp thời,
+
+màn đêm luôn tiềm ẩn vô vàn nguy hiểm, vì vậy người đi trong đêm cũng vô cùng cảnh giác.
+
+Cũng chính khát vọng không ngừng nghỉ của người thầy thuốc đã khiến bà đổ bệnh.

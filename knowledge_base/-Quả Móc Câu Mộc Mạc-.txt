@@ -1,0 +1,14 @@
+# "Quả Móc Câu Mộc Mạc"
+
+## Tiểu Sử
+
+type: NPC Nhiệm Vụ
+region: Fontaine
+location: Fontaine
+affiliation: Đội Trái Cây Trật Tự
+
+- Tổng Quan: "Quả Móc Câu Mộc Mạc" là một NPC độc quyền nhiệm vụ xuất hiện trong.
+
+Quả Móc Câu là một trong năm cán bộ của Đội Trái Cây Trật Tự. Quả Móc Câu coi hội này như một gia đình. Hơn nữa, Quả Móc Câu tin rằng không cần phải bỏ phiếu vì các thành viên trong gia đình là phải chăm sóc nhau, bất kể ai là anh lớn hay phụ.
+
+- Ngoại Hình: Anh có tóc tím, đôi mắt xanh lam và áo choàng tím.

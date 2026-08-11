@@ -1,0 +1,23 @@
+# Khuếch Tán
+
+## Tổng Quan
+
+type: Phản Ứng Nguyên Tố
+
+Sát thương từ phản ứng Khuếch Tán không được coi là sát thương (không phải Nguyên Tố Phong) gây ra từ sự Hấp Thụ Nguyên Tố. Sát thương Khuếch Tán là lượng sát thương cố định dựa trên cấp nhân vật và Tinh Thông Nguyên Tố, còn sát thương gây ra thêm từ sự Hấp Thụ Nguyên Tố là sát thương thông thường ảnh hưởng từ các chỉ số thường có tác động lên sát thương, bao gồm Tấn Công, Bạo Kích, Tăng Sát Thương và cấp Thiên Phú.
+
+## Tổng Quan
+
+Phản ứng Khuếch Tán sẽ gán ấn nguyên tố (không phải Nguyên Tố Phong) lên toàn bộ mục tiêu trong phạm vi trừ mục tiêu bị kích hoạt Khuếch Tán lên. Khuếch Tán Nguyên Tố, và cũng sẽ gây ST phạm vi nguyên tố tương ứng, tuy nhiên Khuếch Tán Nguyên Tố sẽ chỉ áp dụng trạng thái Ẩm Ướt và gây sát thương nguyên tố tương ứng lên mục tiêu bị kích hoạt Khuếch Tán lên.
+
+Khi kích hoạt phản ứng Khuếch Tán, vùng nguyên tố khuếch tán có thể gây ra các phản ứng thứ cấp. Sát thương từ các phản ứng thứ cấp này sẽ dựa trên Tinh Thông Nguyên Tố và cấp của nhân vật nguyên tố Phong. Từ đó các nhân vật nguyên tố Phong có thể gián tiếp gây ra hầu hết các phản ứng. Ví dụ:
+- Mục tiêu 1 mang ấn Hỏa.
+- Mục tiêu 2 mang ấn Lôi.
+- Áp dụng nguyên tố Phong lên mục tiêu 1 sẽ gây ra phản ứng Khuếch Tán Nguyên Tố Hỏa, đồng thời gán ấn Hỏa lên mục tiêu 2.
+- Áp dụng nguyên tố Hỏa từ Khuếch Tán sẽ gây phản ứng Quá Tải lên mục tiêu 2, gây ra sát thương dựa trên cấp và Tinh Thông Nguyên Tố của nhân vật nguyên tố Phong.
+
+Phản ứng Khuếch Tán gây ra các phản ứng thứ cấp là Tan Chảy, Bốc Hơi hay Tăng Cường cũng dựa trên cấp và/hoặc Tinh Thông Nguyên Tố của nhân vật nguyên tố Phong. Xem Sát Thương#Sát Thương Phản Ứng Khuếch Tán/Thiêu Đốt để biết thêm chi tiết.
+
+## Sát Thương
+
+Lưu ý rằng một mục tiêu chỉ có thể chịu 2 lượt sát thương Khuếch Tán mỗi 0,5s từ cùng một nhân vật kích hoạt phản ứng do bị hạn chế từ Chuỗi Sát Thương. Ngoài ra, nếu có nhiều phản ứng Khuếch Tán được gây ra trên cùng một mục tiêu trong 0,1s, bất kể từ nguồn nào cũng sẽ chỉ có thể gây sát thương và gán ấn nguyên tố một lần. Các giới hạn này sẽ áp dụng riêng biệt đối với các phản ứng Khuếch Tán nguyên tố khác nhau.

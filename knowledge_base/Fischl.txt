@@ -1,0 +1,41 @@
+# Fischl
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+quality: 4
+weapon: Cung
+element: Lôi
+name: Fischl
+realname: Amy
+birthday: 27 tháng 05
+constellation: Hoan Áp
+region: Mondstadt
+affiliation: Hiệp Hội Nhà Mạo Hiểm
+dish: Bản Giao Hưởng Chúc Phúc
+namecard1: Fischl - Quạ Bóng Đêm<!--
+father: Fischl's Father
+mother: Fischl's Mother-->
+obtain: - Cầu Nguyện - Đổi Bụi Ánh Sáng
+releaseDate: 2020-09-28
+title: Công Chúa Định Tội!!
+voiceEN: [[imdb:nm3743705
+Brittany Cox]]<ref name: "Fischl EN/JP">Facebook: Công Bố Diễn Viên Lồng Tiếng tiếng Anh và Nhật Oz: [[imdb:nm1408690
+Ben Pronsky]]<ref name: "Oz EN/JP">Facebook: (Oz) Công Bố Diễn Viên Lồng Tiếng tiếng Anh và Nhật
+voiceCN: Mace Oz: Zhao Yuecheng (zh|赵悦程)
+voiceJP: w|Maaya Uchida|Uchida Maaya (ja|内田真礼) Oz: w|Yasunori Masutani|Masutani Yasunori (ja|増谷康紀)
+voiceKR: w|ko:박고운|Park Go-woon (ko|박고운) Oz: w|ko:이현 (성우)|Lee Hyun (ko|이현)
+
+## Tổng Quan
+
+Fischl von Luftschloss Narfidort là một nhân vật hệ mà người chơi có thể điều khiển trong Genshin Impact.
+
+Fischl là điều tra viên của Hiệp Hội Nhà Mạo Hiểm ở Mondstadt, đồng hành cùng là một con quạ đen Oz. Fischl tự nhận mình đến từ một thế giới khác Teyvat. Cô ấy là một nhà mạo hiểm táo bạo với những lý thuyết có vẻ kỳ lạ nhưng hóa ra lại là sự thật.
+
+## Có Mặt Trong
+
+- Cầu Nguyện Thường Du Hành Thế Gian
+- Cầu Nguyện Đề Xuất Cho Người Mới (Không giới hạn cho đến khi đủ 20 lần cầu nguyện)
+- Tất cả Sự Kiện Cầu Nguyện Nhân Vật và Sự Kiện Cầu Nguyện Vũ Khí
+- Sự Kiện Ngôi Sao Vụt Tắt Chưa Trở Về (16/11/2020 - 30/11/2020)
+- Sự Kiện Chuyến Đi Biển Ngày Hè (15/07/2022 - 24/08/2022)

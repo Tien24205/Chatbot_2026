@@ -1,0 +1,62 @@
+# Genshin Impact
+
+## Tổng Quan
+
+type: HoYoverse
+
+ là một trò chơi nhập vai hành động miễn phí được phát triển và phát hành bởi miHoYo. Tại thị trường quốc tế, trò chơi được phát hành bởi Cognosphere Pte., Ltd. (hoạt động dưới tên thương hiệu là HoYoverse) - một công ty con của miHoYo.
+
+Trong Genshin Impact, người chơi được trải nghiệm môi trường thế giới mở giả tưởng và hệ thống chiến đấu sử dụng các nguyên tố, chuyển đổi giữa các nhân vật và cơ chế Cầu Nguyện để người chơi có được nhân vật mới, vũ khí và các tài nguyên khác. Người chơi có thể lập tổ đội tối đa bốn người chơi, có thể kết nối chơi cùng tối đa ba người chơi khác trong cùng một khoảng thời gian và cùng một thế giới. Để chơi trò chơi, cần kết nối Internet.
+
+## Lối Chơi
+
+Nhà Lữ Hành sẽ khám phá thế giới giả tưởng rộng lớn mang tên Teyvat, với hơn 100 Nhân Vật và vô số địa danh thú vị trải dài khắp bản đồ. Trò chơi sở hữu phong cách chiến đấu hành động, cho phép người chơi hoán đổi linh hoạt giữa 4 nhân vật trong Đội để tạo ra các chuỗi đòn đánh nhanh chóng. Trải nghiệm chơi đơn là trọng tâm của trò chơi, bên cạnh đó Chế Độ Nhiều Người Chơi cũng được sử dụng trong một số hoạt động nhất định.
+
+Mỗi nhân vật, kể cả nhân vật chính phân theo hệ, đều có hai kỹ năng riêng biệt: Kỹ Năng Nguyên Tố và Kỹ Năng Nộ. Kỹ Năng Nguyên Tố có thể dùng mọi lúc mọi nơi và sinh ra Năng Lượng khi trúng kẻ địch, nhưng sẽ bị giới hạn thời gian hồi chiêu; Kỹ Năng Nộ không chỉ giới hạn thời gian hồi chiêu, mà còn yêu cầu đủ Năng Lượng (nạp từ Kỹ Năng Nguyên Tố của bất cứ thành viên nào cùng đội) mới có thể thi triển được.
+
+Nhân vật nắm giữ sức mạnh của một trong các nguyên tố:,,,,, và. Kết hợp các nguyên tố, tạo nên Phản Ứng Nguyên Tố để nhanh chóng tiêu diệt kẻ địch.
+----
+
+Người chơi có thể thám hiểm trong Bí Cảnh - những khu di tích rải rác khắp Teyvat, nhằm hoàn thành thử thách một lần, nhận phần thưởng quý hiếm hoặc thúc đẩy nhiệm vụ, hoặc nhận nguyên liệu bồi dưỡng nhân vật và vũ khí. La Hoàn Thâm Cảnh là bí cảnh nơi người chơi có thể thử thách sức mạnh của nhân vật và khả năng lập chiến lược để hoàn thành thử thách chiến đấu trong thời gian giới hạn.
+
+Nấu Nướng và Giả Kim là các tính năng quan trọng khác trong Genshin Impact. Người chơi thu thập nguyên liệu trên hành trình, một số nguyên liệu có thể chế biến thành các món ăn, một số khác có thể ghép thành thuốc và Đạo Cụ Bồi Dưỡng. Món ăn có một trong các công dụng sau: hồi phục, phòng thủ, tăng tấn công và giảm tiêu hao thể lực; thuốc có công dụng tăng sát thương nguyên tố hoặc tăng kháng nguyên tố; Đạo Cụ Bồi Dưỡng cấp thấp có thể ghép thành nguyên liệu cùng loại cấp cao hơn, nhằm bồi dưỡng nhân vật và vũ khí mà không cần tiêu tốn thời gian và nguồn nguyên liệu quý hiếm khác để khai thác.
+
+Khi chơi đến một cấp độ nhất định sẽ mở hệ thống Ấm Trần Ca, người chơi có thể chế tạo đồ trang trí cho động tiên, tăng cấp động tiên để nhận phần thưởng và những nguyên liệu quý hiếm.
+
+Hệ thống Câu Cá cho phép Nhà Lữ Hành câu các loại cá khác nhau. Chúng có thể được trưng bày trong Ấm Trần Ca, đổi lấy các phần thưởng giá trị tại Hội Câu Cá hoặc chế biến thành Thịt Cá để nấu ăn.
+
+## Bối Cảnh Thế Giới
+
+Câu chuyện hiện tại của Genshin Impact nằm ở một lục địa có tên là Teyvat, gồm bảy quốc gia chính là Mondstadt, Liyue, Inazuma, Sumeru, Fontaine, Natlan và Snezhnaya. Những quốc gia này được cai trị bởi các Ma Thần, thuộc nhóm các vị thần mang tên "Bảy Vị Chấp Chính Trần Thế". Mỗi thần chấp chính liên kết với một nguyên tố trên lục địa Teyvat, có thể thấy sự có mặt của nguyên tố liên kết qua địa hình cũng như văn hóa của quốc gia. Ví dụ, Mondstadt được bảo hộ bởi Phong Thần Barbatos, bởi vậy mọi người ở Mondstadt đều quen thuộc với biểu tượng của gió. Bên cạnh đó, có những vùng đất và quốc gia nằm ngoài sự cai trị của Bảy Vị Thần, ví dụ như Khaenri'ah.
+
+Đảo Thiên Không là thế lực điều hành toàn bộ Teyvat, kết nối trực tiếp với Bảy Vị Thần. Người ta thấy một hòn đảo lơ lửng trên bầu trời, tin rằng đó là Đảo Thiên Không, nơi cư ngụ của các vị thần và cũng là nơi con người bước lên thần vị có thể đặt chân đến. Những người có được Vision - viên pha lê chứa sức mạnh nguyên tố, được gọi là "Nguyên Thần"; họ sẽ có cơ hội bước lên ngôi vị của thần.
+
+Bên cạnh sự cai quản của các vị thần, mỗi quốc gia đều có các cơ quan quản lý của con người như: Đội Kỵ Sĩ Tây Phong ở Mondstadt, Thất Tinh Liyue ở Liyue, Shogunate ở Inazuma, Giáo Viện Sumeru ở Sumeru và Palais Mermonia ở Fontaine.
+
+## Cốt Truyện
+
+Cặp song sinh "lữ hành ánh sao", đã từng khám phá muôn vàn thế giới, đặt chân đến Teyvat và chứng kiến đất nước Khaenri'ah bị hủy diệt. Trong khi cặp song sinh cố gắng chạy trốn, Thần Vô Danh chặn lại và tách hai người: một người bị bắt, một người bị phong ấn sức mạnh. Người bị phong ấn sức mạnh - được gọi là Nhà Lữ Hành và cũng là nhân vật chính của trò chơi, tỉnh dậy sau một thời gian dài và gặp Paimon, hai người trở thành bạn đồng hành. Họ lang thang cùng nhau suốt vài tháng, trước khi đặt chân đến Mondstadt, quyết định tìm kiếm các vị thần để hỏi về tung tích người anh em bị thất lạc.
+
+## Nhân Vật
+
+Trên đường đến Mondstadt, Paimon và Nhà Lữ Hành đã gặp Amber thuộc Đội Kỵ Sĩ Tây Phong đang đi trinh sát các doanh trại ma vật vật gần đó. Sau một vài câu hỏi, cô đã đề nghị hộ tống cả hai vào thành sau khi hoàn thành công việc của mình. Sau đó, một con rồng có biệt danh là "Phong Ma Long" tấn công Mondstadt, và Nhà Lữ Hành đã bị cuốn vào cơn lốc xoáy của nó. Nhà Lữ Hành đã đẩy lùi được con rồng và thu hút sự chú ý của Đội Kỵ Sĩ Tây Phong. Họ dần làm quen với các thành viên khác: Quyền Đội Trưởng Jean, Đội Trưởng Kỵ Binh Kaeya, và Thủ Thư Lisa. (Amber, Kaeya và Lisa là ba nhân vật chơi được miễn phí mà người chơi sẽ nhận được trong trò chơi). Nhà Lữ Hành đồng ý giúp Đội Kỵ Sĩ giải quyết cuộc khủng hoảng đang diễn ra và có thêm những người đồng minh mới: Venti, một nhà thơ lang thang muốn giúp đỡ con rồng, và ông chủ ngành rượu Diluc.
+
+## Phát Triển Và Ra Mắt
+
+Đội ngũ miHoYo bắt đầu phát triển Genshin Impact vào tháng 1/2017 với tên "." Trong thời gian đó, Thái Hạo Vũ () cân nhắc đến một dự án game tăng cường kỹ năng nghiên cứu và phát triển của đội ngũ miHoYo, cũng như trong tương lai sẽ trình làng tựa game với sự tiến bộ đáng kể về chất lượng. Từ đó, ý tưởng về tựa game thế giới mở ra đời. Trong bảy tháng sau đó, đội ngũ đã triển khai một vài mẫu thử. Cảm hứng về trải nghiệm khám phá thế giới ra đời sau khi Thái Hạo Vũ chơi ' của hãng. Một số nguồn cảm hứng cũng được lấy từ sự kiện ngẫu nhiên của ', chiến thuật của ' và nhà phát triển game.
+
+Đội ngũ sản xuất ban đầu có 150 người. Họ đã đối mặt với nhiều khó khăn trong việc tạo ra một thế giới mở, vì vậy số lượng nhân sự đã tăng lên 300 người vào giữa năm 2019, sau đó là 500 người vào tháng 4 năm 2020, và đạt mốc 700 người vào tháng 2 năm 2021. Ban đầu, dự án dự kiến sản xuất trong hai năm nhưng sau đó đã được gia hạn thêm từng năm một. Chi phí nghiên cứu và phát triển của dự án bắt đầu với mức 25 triệu USD và sau đó đã vượt quá 100 triệu USD, số tiền này đã được thu hồi chỉ sau hai tuần kể từ khi trò chơi phát hành. Phần lớn ngân sách của trò chơi đã được đầu tư vào sản xuất âm nhạc. Trần Vũ Bằng (), còn được biết đến với tên Trần Trí Dật (), đã gia nhập đội ngũ HOYO-MiX với tư cách là nhà sản xuất âm nhạc và soạn thảo các bản nhạc cho khu vực Mondstadt và Liyue.
+
+Genshin Impact đã thực hiện đợt thử nghiệm beta đầu tiên vào tháng 6 năm 2019, tập trung vào các cơ chế lối chơi cốt lõi và khu vực Mondstadt. Vào đầu năm 2020, việc quảng bá trò chơi ở thị trường nước ngoài đã bị ảnh hưởng bởi đại dịch. Quá trình phát triển cũng bị trì hoãn một tháng do việc làm việc tại nhà gần như là không thể và nhân viên không thể tiếp cận các thiết bị văn phòng. Đợt thử nghiệm beta thứ hai diễn ra vào tháng 3 với sự xuất hiện của Liyue, và sau đó đợt thử nghiệm beta thứ ba được thực hiện vào tháng 7. Trò chơi chính thức được phát hành vào ngày 28 tháng 9 năm 2020, trên các nền tảng Windows, PlayStation 4, Android và iOS.
+
+Trò chơi đã có mặt trên hệ máy PlayStation 5 vào ngày 28 tháng 4 năm 2021 (Phiên Bản 1.5) với đồ họa được nâng cấp và thời gian tải nhanh hơn so với PlayStation 4. Sau đó, trò chơi đã được phát hành trên Epic Games Store cho người dùng Windows vào ngày 9 tháng 6 năm 2021 (Phiên Bản 1.6). Gần đây nhất, trò chơi đã được phát hành trên Xbox Series S, Xbox Series X và Xbox Game Pass vào ngày 20 tháng 11 năm 2024, bắt đầu từ Phiên Bản 5.2.
+
+Vào ngày 6 tháng 8 năm 2025, có thông báo chính thức rằng Genshin Impact sẽ ngừng hoạt động trên hệ máy PlayStation 4. Bắt đầu từ Phiên Bản "Luna I", trò chơi đã bị gỡ khỏi cửa hàng PlayStation 4 Store, nhưng vẫn cho phép tải về đối với những người dùng đã từng tải trò chơi này trên PlayStation 4 trước đó. Từ ngày 17 tháng 12 năm 2026, các yêu cầu liên kết Tài Khoản sẽ xuất hiện liên tục trên máy PS4 sau mỗi lần đăng nhập. Vào ngày 25 tháng 2 năm 2026, các giao dịch mua hàng trong ứng dụng không còn có thể thực hiện trên PlayStation 4. Đến ngày 8 tháng 4 năm 2026, trò chơi sẽ ngừng nhận thêm các bản cập nhật mới, điều này đồng nghĩa với việc không thể đăng nhập vào game trên PlayStation 4 được nữa; theo đó Phiên Bản "Luna V" sẽ là phiên bản cuối cùng được hỗ trợ trên nền tảng này nếu tuân theo lịch phát hành thông thường.
+
+## Yêu Cầu Phần Cứng
+
+Liên Kết
+- Thông báo thời gian mở server và yêu cầu cấu hình của Genshin Impact
+- Thông Báo Bảo Trì Cập Nhật Phiên Bản 5.0
+- Thông Báo Về Điều Chỉnh Yêu Cầu Tính Năng Thiết Bị
+- Thông Báo Bảo Trì Cập Nhật Phiên Bản "Luna I"

@@ -1,0 +1,70 @@
+# Đao Chấn Động
+
+## Thông Tin Cơ Bản
+
+id: 12431
+type: Trọng Kiếm
+quality: 4
+base_atk: 44
+2nd_stat_type: Tấn Công
+2nd_stat: 6%
+series: Lò Luyện Tốt Lành
+releaseDate: 2024-08-28
+obtain: Rèn
+diagram: Alom
+passive: Lời Thề Qhapaq Nan
+effect: Sau khi nhân vật trong đội kích hoạt phản ứng liên quan đến nguyên tố Hỏa, sát thương Kỹ Năng Nguyên Tố của người trang bị gây ra tăng (var1)% trong 8s. Hiệu quả này cũng có thể kích hoạt khi nhân vật trong đội không ra trận.
+eff_rank1_var1: 16
+eff_rank2_var1: 20
+eff_rank3_var1: 24
+eff_rank4_var1: 28
+eff_rank5_var1: 32
+eff_att1: Tăng Sát Thương Kỹ Năng Nguyên Tố
+
+- Tổng Quan: Đao Chấn Động là một vũ khí Trọng Kiếm 4 sao có thể rèn được. Vũ Khí này nằm trong chuỗi vũ khí Lò Luyện Tốt Lành.
+
+## Trang 1
+
+Đó là thời xa xưa mà ngày nay được gọi là thần thoại, những năm tháng khi Rồng khổng lồ vẫn sải cánh trên vườn treo.
+Vị anh hùng được người đời sau tôn là Người Trộm Lửa, vào thời điểm đó chẳng qua chỉ là một chàng trai trẻ liều lĩnh như một con Chim Mũ Giáo.
+Kiêu ngạo với sức mạnh và dũng khí trời sinh của mình, ông ấy lang thang trong rừng, khiêu khích người qua đường đánh nhau.
+Nhưng lại dễ dàng bị đánh bại bởi anh hùng bán nhân đi theo dũng sĩ, bị bước chân xảo quyệt đó dẫn dụ mà rơi xuống đầm lầy.
+
+Cung thủ nhìn bộ dạng thê thảm của chàng trai trẻ, không khỏi bật cười.
+Người lai nói năng thận trọng lại có thể trêu chọc người khác như thế này.
+Nửa xấu hổ, nửa giận dữ, chàng trai trẻ tự mình hạ quyết tâm;
+Đi theo những kẻ kỳ quái này, che giấu đi sự nhục nhã khi bị đánh bại.
+
+"Này! Chẳng lẽ các người định đi thảo phạt... Ờm, tôi cũng không biết là cái gì, tóm lại là sao có thể thiếu tôi đây được chứ?"
+"Nghe cho rõ đây, các anh em! Tên ta là Yupanqui, được định sẵn sẽ làm rung chuyển cả mặt đất... Từ từ, đừng có đi mà!"
+
+Nhiều năm sau, khi nhớ lại hành trình năm xưa, sẽ luôn bật cười vì sự trẻ con, vụng về lúc đó.
+Không chỉ một lần ông gặp nguy hiểm vì không nghe lời khuyên, không chỉ một lần ông làm phiền đến những người thợ thủ công thầm lặng vì sự ồn ào của mình.
+Mặc dù ông đã hạ gục vô số kẻ địch bằng thanh đao này, nhưng nhìn chung, đóng góp thì chẳng được bao nhiêu, nhưng gây rối thì nhiều.
+Dẫu vậy, những người bạn đồng hành dấn thân vào cuộc hành trình cùng dũng sĩ vẫn bao dung cho bản thân còn non trẻ lúc bấy giờ.
+Khoảnh khắc tầm nhìn bị ngọn lửa ngông cuồng cướp đi, dường như lại nghe thấy những lời mà vị tư tế trầm mặc đã nói khi xưa...
+
+"Một ngày nào đó, ngươi sẽ biết vì sao mình dấn thân vào con đường xanh tươi này."
+"Củi lửa của ngày xưa, ngọn lửa của bây giờ, đều là những sự sống không bao giờ ngoảnh lại..."
+"Mọi việc đã làm sẽ bị ngọn lửa chất vấn. Đây chính là con đường của riêng mình ngươi."
+
+## Trang 2
+
+Đó là những năm tháng mà lá cờ của các bộ tộc đã quay trở lại Thành Tro Tàn, những lời thề đã phai nhạt từ lâu.
+Vị vua loài người dần rơi vào trạng thái mê sảng, thì thầm lảm nhảm về nỗi ám ảnh, đôi mắt phản chiếu không gì khác ngoài nỗi sợ hãi.
+Dù vẫn thường than thở rằng hoài bão về việc người và Rồng chung sống khi xưa đã trở nên ngoài tầm với,
+Người anh hùng già nua vẫn chưa thể quyết tâm giương cờ nổi dậy chống lại người bạn cũ duy nhất còn sống của mình.
+
+Cuối cùng, ông nghĩ, mọi con đường xanh tươi đều sẽ mất đi màu sắc ban đầu như thế này.
+Sự nhiệt tình giống như ngọn lửa, dù có tiếc nuối hay không cam lòng, một khi nó đã tắt là sẽ tắt lịm.
+Trên thế giới không có ngọn lửa nào cháy lại, cũng chẳng có con đường nào chỉ thuộc về một mình ông ấy.
+Cứ như thế, ông già chán nản lặng lẽ chấp nhận vị trí chỉ huy quân giới nhàn rỗi của Đại Liên Minh
+Quyết từ nay về sau không can thiệp vào luật lệ của người bạn cũ, chỉ chờ ngày trở về với Lửa Thánh...
+
+Cho đến khi thiếu niên mắt đỏ giải cứu đàn rồng khỏi bóng kiếm, một mình đến thăm cung điện của chỉ huy quân giới vào ban đêm.
+Nói với ông bằng sự nhiệt tình lạ mà quen, khẩn cầu vị anh hùng xưa kia hãy cắt đứt xiềng xích của lời thề đã tan vỡ.
+
+Ông lão lầm lì ít nói không trực tiếp trả lời, mà chỉ đưa ánh mắt nhìn về phía thanh đao lớn phủ đầy bụi bên cạnh.
+Đôi mắt vốn đã nhuốm màu lạnh lẽo bao năm nay lại bỗng lóe lên một tia sáng rực rỡ như lửa.
+
+- Rèn

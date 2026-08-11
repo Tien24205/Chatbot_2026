@@ -1,0 +1,33 @@
+# Nguyên Liệu Thiên Phú Nhân Vật
+
+## Tổng Quan
+
+type: Loại Vật Phẩm
+
+Nguyên Liệu Bồi Dưỡng Thiên Phú (hay còn được gọi là Nguyên Liệu Thiên Phú Nhân Vật hay Nguyên Liệu Tăng Cấp Nhân Vật) lầ Nguyên Liệu được sử dụng cùng với Nguyên Liệu Đột Phá Thường để tăng cấp thiên phú của Nhân Vật. Những nguyên liệu có độ hiếm cao hơn cũng có thể có được thông qua Ghép bằng cách kết hợp các vật liệu cùng loại có độ hiếm thấp hơn. Lấy ví dụ:
+- có thể kết hợp để tạo.
+- có thể kết hợp để tạo.
+
+Vì vài Nguyên Liệu Nâng Cấp Thiên Phú trông giống sách (hoặc cuộn), chúng thường được gọi là "sách thiên phú".
+
+Xem trang của từng nhân vật để xem nguyên liệu nào cần thiết cho thiên phú của họ hoặc kiểm tra từng trang nguyên liệu để xem nhân vật nào sử dụng nguyên liệu đó để tăng cấp thiên phú.
+
+Nhân Vật phải đạt Bậc Đột Phá 2 (yêu cầu Hạng Mạo Hiểm đạt 25) để bắt đầu tăng cấp thiên phú sử dụng các nguyên liệu bồi dưỡng thiên phú.
+
+- Nhà Lữ Hành: Nâng cấp thiên phú của Nhà Lữ Hành khác với các nhân vật khác: mỗi cấp thiên phú yêu cầu loại sách khác nhau. Xem Nhà Lữ Hành để biết thêm chi tiết.
+
+- Mondstadt: Có thể nhận sách thiên phú khi hoàn thành khiêu chiến Vách Núi Quên, Bí Cảnh Tinh Thông ở Mondstadt.
+
+- Liyue: Có thể nhận sách thiên phú khi hoàn thành khiêu chiến Thái Sơn Phủ, Bí Cảnh Tinh Thông ở Liyue.
+
+- Inazuma: Có thể nhận sách thiên phú khi hoàn thành khiêu chiến Sân Vườn Màu Tím, Bí Cảnh Tinh Thông ở Inazuma.
+
+- Sumeru: Có thể nhận sách thiên phú khi hoàn thành khiêu chiến Tháp Hôn Thức, Mật Cảnh Tinh Thông ở Sumeru.
+
+- Vật Phẩm Boss Rơi: Những nguyên liệu này chỉ rơi ra từ Boss tương ứng và chúng được sử dụng để nâng cấp Thiên Phú từ Cấp 7 trở lên.
+
+- Nguyên Liệu Giới Hạn: Những nguyên liệu này chỉ có thể nhận được thông qua nhận thưởng sự kiện giới hạn và được sử dụng để thăng cấp thiên phú lên Cấp 10.
+
+- Thiên Phú Giả Kim: Một số nhân vật sở hữu Nội Tại Tiện Ích có khả năng cho thêm Sách Thiên Phú khi Ghép.
+
+- Chi phí bồi dưỡng Thiên Phú: Tất cả Thiên Phú của Nhân Vật khi nâng cấp cần tiêu hao dường như tuân theo cùng một mẫu, chỉ khác nhau về nguyên liệu mà họ sử dụng.

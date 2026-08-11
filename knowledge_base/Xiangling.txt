@@ -1,0 +1,29 @@
+# Xiangling
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+quality: 4
+weapon: Vũ Khí Cán Dài
+element: Hỏa
+name: Xiangling
+realname: Mao Xiangling
+birthday: 02 tháng 11
+constellation: Trường Tiêu
+region: Liyue
+affiliation: Vạn Dân Đường
+affiliation2: Thuyền Nam Thập Tự
+dish: Cá Luộc Vạn Dân Đường
+namecard1: Xiangling - Nấu Xong
+obtain: - Cầu Nguyện - Khiêu Chiến Thâm Cảnh - Vạn Dân Đồng Hành - Đổi Bụi Ánh Sáng
+releaseDate: 2020-09-28
+father: Thầy Mao
+title: Vạn Dân Bách Vị
+title2: Đầu bếp Vạn Dân Đường
+voiceEN: [[imdb:nm4588329
+Jackie Lastra]]<ref name: "Xiangling EN/JP">Facebook: Công Bố Diễn Viên Lồng Tiếng tiếng Anh và Nhật
+voiceCN: Xiao N (zh|小N)
+voiceJP: w|Ari Ozawa|Ozawa Ari (ja|小澤亜李)
+voiceKR: w|ko:윤아영|Yun A-yeong (ko|윤아영)
+
+- Cầu Nguyện Thường Du Hành Thế Gian (vĩnh viễn) - Tất cả Sự Kiện Cầu Nguyện Nhân Vật và Sự Kiện Cầu Nguyện Vũ Khí - ===Cầu Nguyện Nhân Vật===

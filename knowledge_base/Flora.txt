@@ -1,0 +1,114 @@
+# Flora
+
+## Thông Tin Cơ Bản
+
+type: NPC Đại Thế Giới
+region: Mondstadt
+location: Mondstadt
+title: Chủ Tiệm "Hoa Ngữ"
+dialoguereward: Card|Hồ Ly Biển Bồ Công Anh|vol=1
+voiceJP: Aoto Hiroka (ja|青戸浩香)
+sibling: Chloris
+
+- Tổng Quan: Flora là NPC ở Thành Mondstadt. Cô là chủ tiệm hoa Hoa Ngữ. Nói chuyện lần đầu với Flora với nhánh hội thoại nhất định, người chơi sẽ nhận được Hồ Ly Biển Bồ Công Anh (I).
+
+## Tiểu Sử
+
+Flora là em gái của Chloris, nhà sinh vật học du ngoạn ở Phong Khởi Địa. Không như chị gái, Flora chỉ hứng thú với những bông hoa. Cô có một người bạn tưởng tượng là "Bồng Bồng", đó là tên cô đặt cho Quả Bồng Bồng,
+
+- Ngoại Hình: Flora có mái tóc màu vàng và đôi mắt sáng màu xanh. Cô mặc một chiếc váy màu trắng hồng, điểm họa tiết màu hồng.
+
+## Lời Thoại Nhàn Rỗi
+
+Bồ công anh?
+: "Bồ công anh? Tất nhiên nó là hoa rồi!"
+Nếu bị thương...
+: "Nếu bạn bị thương, tốt nhất hãy tìm Barbara ở đại giáo đường."
+Trong sự kiện Lời Mời Hoa Gió và Hơi Thở Hoa Gió
+Hoa Gió?
+: "Hoa Gió là gì ư? Hihi, tất nhiên đó là bồ công anh rồi!"
+Trong sự kiện Khúc Ca Vang Trong Rượu
+Hoa đại diện cho bội thu...
+: "Bồ công anh cũng đại diện cho bội thu đó."
+
+## Hội Thoại
+
+Flora: Chào mừng đến với Hoa Ngữ, bạn có cần tìm hiểu gì không?
+Tôi muốn mua hoa.
+:Flora: Được nhé, cho dù là đem tặng hay tự cắm cũng đều đẹp.
+;(Mở giao diện tiệm Hoa Ngữ.)
+Về tai họa rồng...
+;(Yêu cầu hoàn thành Người Phương Xa Đuổi Theo Gió)
+:Flora: Cơn bão bao trùm Mondstadt còn đáng sợ hơn cả Phong Ma Long...
+:Flora: Dù mọi người đều đang chú ý đến thương vong và tổn thất của dân chúng, nhưng tôi vẫn để ý đám hoa cỏ thực vật kia hơn.
+:Flora: Giống như đại nhân Barbatos bảo vệ chúng ta vậy, tôi cũng sẽ bảo vệ chúng.
+;(Yêu cầu hoàn thành Vì Bóng Hình Màu Xanh)
+:Flora: Không cần lo lắng hoa trong tiệm bị gió cuốn bay, đúng là tốt quá.
+:Flora: Nhưng hạt giống bồ công anh đã bay đi khắp Mondstadt vì bão lốc lần này, chưa biết chừng không lâu sau bồ công anh sẽ nở rộ khắp Mondstadt đó.
+:Flora: Vậy xem ra, bão lốc hình như không đáng sợ đến vậy.
+Về hoa trong tiệm...
+:Flora: Hì hì, hoa của tiệm rất nhiều loại, bạn cần hỏi loại nào?
+: Về Bồ Công Anh
+::Flora: Ồ ồ, Flora thích nhất là bồ công anh. Nhẹ nhàng bay bay, nhẹ nhàng bay bay.
+::Flora: Vị đó, Đội Trưởng Đại Diện của đội kỵ sĩ, hình như cũng gọi là Kỵ Sĩ Bồ Công Anh nhỉ.
+::Flora: Nói không chừng là do tiếp xúc nhiều với bồ công anh nên mới có thể nắm được sức mạnh Nguyên Tố phong nhỉ, hihi.
+:: Tại sao bạn lại thích bồ công anh?
+:::Flora: Phù, tại sao nhỉ... có lẽ là vì cuốn Hồ Ly Biển Bồ Công Anh mà tôi đã đọc trước đây.
+:::Flora: Tặng cho bạn cuốn sách này, có lẽ bạn cũng sẽ thích bồ công anh sau khi đọc xong câu chuyện này.
+::;(Nhận )
+: Về Hoa Ngọt
+::Flora: Hoa Ngọt à... hì hì.
+::Flora: Hoa thì rất đẹp, nhưng mọi người thường đem nó đi nấu ăn.
+::Flora: Nếu thấy có người trồng hoa ngọt ở trong nhà...
+::Flora: Nói không chừng là dùng để nấu đường đó, hề hề.
+: Về Hoa Cecilia
+::Flora: Hoa Cecilia à, bạn thật có thẩm mĩ.
+::Flora: Chịu lạnh, thích gió, trong truyền thuyết chỉ mọc ở nơi yên tĩnh.
+::Flora: Nếu muốn trồng nó...
+::Flora: Hề hề, không chừng còn khó trồng hơn Băng Vụ Hoa đó!
+Làm phiền rồi.
+Flora: Ồ, bạn phải đi rồi sao.
+Flora: Không sao, sau này Flora cũng sẽ nói cho bạn biết việc về hoa. Lần sau ghé thăm nhé, hì hì.
+
+## Chạm Vào Hoa
+
+Sau khi hoàn thành, đến gần những bông hoa ở tiệm Hoa Ngữ của Flora sẽ hiện gợi ý "Chạm vào". Tuy vậy, nếu chạm vào những bông hoa sẽ bị Flora mắng.
+Flora: Ấy! Những bông hoa bên đó chỉ để trưng bày. Nếu bạn muốn mua hoa thì hãy đến bên này!
+
+## Lời Mời Hoa Gió và Hơi Thở Hoa Gió
+
+Flora: Chào mừng đến với "Hoa Ngữ". Hihi, Lễ Hội Hoa Gió đến rồi, muốn mua một bó hoa cho người quan trọng không?
+Tôi muốn mua hoa.
+:Flora: Được nhé, cho dù là đem tặng hay tự cắm cũng đều đẹp.
+Về chuyện Lễ Hội Hoa Gió...
+:Flora: Lễ Hội Hoa Gió là ngày lễ cổ xưa của Mondstadt, là ngày lễ của tự do và tình yêu.
+:Flora: Nói đến truyền thống của Lễ Hội Hoa Gió thì chắc sẽ là tặng Hoa Gió cho người quan trọng nhất rồi, hihi...
+:Flora: Còn về Hoa Gió là loại hoa nào thì mọi người đều có suy nghĩ riêng của mình.
+:Flora: Đây cũng là cách thể hiện sự tự do của người Mondstadt, hihi.
+Về hoa trong tiệm...
+:Flora: Hì hì, hoa của tiệm rất nhiều loại, bạn cần hỏi loại nào?
+: Về Bồ Công Anh
+::Flora: Ồ ồ, Flora thích nhất là bồ công anh. Nhẹ nhàng bay bay, nhẹ nhàng bay bay.
+::Flora: Vị đó, Đội Trưởng Đại Diện của đội kỵ sĩ, hình như cũng gọi là Kỵ Sĩ Bồ Công Anh nhỉ.
+::Flora: Nói không chừng là do tiếp xúc nhiều với bồ công anh nên mới có thể nắm được sức mạnh Nguyên Tố phong nhỉ, hihi.
+:: Tại sao bạn lại thích bồ công anh?
+:::Flora: Phù, tại sao nhỉ... có lẽ là vì cuốn Hồ Ly Biển Bồ Công Anh mà tôi đã đọc trước đây.
+:::Flora: Tặng cho bạn cuốn sách này, có lẽ bạn cũng sẽ thích bồ công anh sau khi đọc xong câu chuyện này.
+::;(Nhận )
+: Về Hoa Ngọt
+::Flora: Hoa Ngọt à... hì hì.
+::Flora: Hoa thì rất đẹp, nhưng mọi người thường đem nó đi nấu ăn.
+::Flora: Nếu thấy có người trồng hoa ngọt ở trong nhà...
+::Flora: Nói không chừng là dùng để nấu đường đó, hề hề.
+: Về Hoa Cecilia
+::Flora: Hoa Cecilia à, bạn thật có thẩm mĩ.
+::Flora: Chịu lạnh, thích gió, trong truyền thuyết chỉ mọc ở nơi yên tĩnh.
+::Flora: Nếu muốn trồng nó...
+::Flora: Hề hề, không chừng còn khó trồng hơn Băng Vụ Hoa đó!
+Làm phiền rồi.
+:Flora: Hy vọng cũng vui vẻ với Lễ Hội Hoa Gió lần này nhé.
+
+## Khúc Ca Vang Trong Rượu
+
+Flora: Chào mừng đến với "Hoa Ngữ", bạn có cần tìm hiểu gì không?
+Flora: Gần đây mọi người đều hỏi tôi, hoa gì có thể đại diện cho niềm vui thu hoạch mùa thu. Hic, tôi cảm thấy Bồ Công Anh cũng được lắm mà.

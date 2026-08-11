@@ -1,0 +1,28 @@
+# Chiori
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+name: Chiori
+element: Nham
+elementNote: Vision
+weapon: Kiếm Đơn
+quality: 5
+title: Nhà Thiết Kế Sấm Chớp
+title2: Cô Chủ Của Tiệm Thời Trang Chioriya
+birthday: 17 tháng 08
+constellation: Ti Thiết Kiệp
+region: Inazuma
+region2: Fontaine
+affiliation: Đại Sảnh Fontaine
+affiliationNote: trong hồ sơ
+affiliation2: Tiệm Thời Trang Chioriya
+dish: "Buổi Trình Diễn Thời Trang"
+namecard: Tay Áo Trình Diễn
+obtain: Cầu Nguyện Nhân Vật
+event_name: Thêu Mây Dệt Gấm
+releaseDate: 2024-03-13
+voiceEN: w|Brittany Lauda
+voiceCN: Chen Yang (zh|陈阳)
+voiceJP: w|Ayana Taketatsu|Taketatsu Ayana (ja|竹達彩奈)
+voiceKR: w|ko:이다은|Lee Da-eun (ko|이다은)

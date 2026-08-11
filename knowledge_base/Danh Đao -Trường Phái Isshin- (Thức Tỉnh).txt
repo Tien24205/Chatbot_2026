@@ -1,0 +1,24 @@
+# Danh Đao "Trường Phái Isshin" (Thức Tỉnh)
+
+## Thông Tin Cơ Bản
+
+id: 11419;11421
+title: Danh Đao "Trường Phái Isshin"
+type: Kiếm Đơn
+quality: 4
+base_atk: 42
+2nd_stat_type: Tấn Công
+exclusiveto: Cố Nhân Xa Lạ
+passive: Lưỡi Đao Lang Thang
+effect: Tấn công thường, trọng kích hoặc tấn công khi đáp trúng kẻ địch sẽ kích hoạt Oán Linh, gây 180% sát thương diện rộng, đồng thời hồi phục lượng HP bằng 100% tấn công. Hiệu quả này mỗi 8s tối đa kích hoạt một lần. Sát thương gây ra của nhân vật trang bị vũ khí này giảm 50%.
+eff_att1: Hồi HP
+eff_att2: Sát Thương Vật Lý
+eff_att3: Giảm Sát Thương
+eff_att4: Sát Thương Diện Rộng
+eff_att5: Hiệu Quả Kích Hoạt Khi Thi Triển Tấn Công Thường
+maxrank: 1
+releaseDate: 2022-07-13
+
+- Tổng Quan: Thanh kiếm sẽ vỡ vụn sau khi hoàn thành Bí Cảnh Cốt Truyện Vùng Đất Xưa Bị Chiếm.
+
+- Ở cấp 90, khi vào bí cảnh Vùng Đất Xưa Bị Chiếm, chỉ số thuộc tính phụ của vũ khí là 41,3%, tuy nhiên sau trận đấu thứ hai thì chỉ số này bị giảm xuống còn 20,7%.

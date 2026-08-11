@@ -1,0 +1,11 @@
+# Dulphy
+
+## Thông Tin Cơ Bản
+
+type: NPC NhiệVụ
+region: Fontaine
+location: Fontaine
+affiliation: Đoàn Kịch Của Aurelie
+voiceEN: [[imdb:nm11698261
+
+- Tổng Quan: Dulphy là một NPC độc quyền nhiệm vụ xuất hiện trong.

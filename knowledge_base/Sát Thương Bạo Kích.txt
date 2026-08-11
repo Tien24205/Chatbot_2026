@@ -1,0 +1,13 @@
+# Sát Thương Bạo Kích
+
+## Tổng Quan
+
+type: Thuộc Tính
+type2: Chiến Đấu
+type3: Hệ Thống Trò Chơi
+
+Sát Thương Bạo Kích, thường viết tắt là ST Bạo Kích. Nó cho biết lượng sát thương cộng thêm khi một đòn đánh tạo ra bạo kích, có thể tăng ST Bạo Kích cho nhân vật bằng cách trang bị Thánh Di Vật hoặc Vũ Khí có dòng phụ hoặc dòng chính này.
+
+- Thuộc Tính Phụ: Các vũ khí sau có thuộc tính phụ tăng ST Bạo Kích.
+
+- Nội Tại: Các vũ khí sau có nội tại tăng Sát Thương Bạo Kích.

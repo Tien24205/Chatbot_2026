@@ -1,0 +1,17 @@
+# Bình Lão Lão
+
+## Tổng Quan
+
+region: Liyue
+affiliation: Tiên
+dialoguereward: Card|Bách Hợp Lưu Ly|5
+type: NPC
+title: Ca Trần Lãng Thị Chân Quân
+voiceCN: Ji Zhou (zh|周佶)
+voiceJP: Momone Iizumi (ja|飯泉 桃音)
+
+Bình Lão Lão, tiên danh Ca Trần Lãng Thị Chân Quân, là NPC ở Cảng Liyue. Có thể thấy bà vào buổi sáng ở Ngọc Kinh Đài, khi bà đang ngắm nhìn những đóa hoa Bách Hợp Lưu Ly.
+
+Sau khi hoàn thành Nhiệm Vụ Ma Thần Chương 1, Màn 2: Lời Tạm Biệt Thể Xác Vĩnh Hằng và trò chuyện với Bình Lão Lão, hội thoại đầu tiên của bà sẽ thay đổi.
+
+Thông qua trò chuyện với Bình Lão Lão, người chơi có thể nhận 5 bông Bách Hợp Lưu Ly.

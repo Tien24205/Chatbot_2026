@@ -1,0 +1,27 @@
+# Thoma
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+weapon: Vũ Khí Cán Dài
+quality: 4
+element: Hỏa
+name: Thoma
+sex: Nam
+birthday: 09 tháng 01
+region: Inazuma
+region2: Mondstadt
+constellation: Xích Thuẫn
+affiliation: Hiệp Hội Yashiro
+affiliation2: Gia Tộc Kamisato
+dish: "Ấm Áp"
+obtain: Cầu Nguyện
+releaseDate: 2021-11-02
+title: Người Bảo Vệ Phương Xa
+title2: Quản Gia Của Nhà Kamisato
+voiceEN: [[imdb:nm10744245
+voiceCN: Pei Zhang (张沛)
+voiceJP: w|Masakazu Morita|Masakazu Morita (森田成一)
+voiceKR: w|ko:류승곤|Ryu Seung-gon (류승곤) (KO) Version 2.2 Special Program (원신
+
+- Tổng Quan: là Nhân Vật hệ Hỏa trong Genshin Impact. Sinh ra ở Mondstadt, hiện tại Thoma đang làm quản gia ở Phủ Kamisato. Anh cũng là "thổ địa" ở Inazuma.

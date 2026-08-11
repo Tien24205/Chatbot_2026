@@ -1,0 +1,42 @@
+# Gui
+
+## Thông Tin Cơ Bản
+
+type: NPC Đại Thế Giới
+region: Liyue
+location: Liyue
+title: Dược Sư, Nhà Thuốc Bubu
+voiceEN: David Goldstein
+
+- Tổng Quan: Gui là một NPC Đại Thế Giới tại Cảng Liyue. Anh ấy có thể được tìm thấy khi đang làm việc với tư cách là dược sĩ tại Nhà Thuốc Bubu.
+
+## Tiểu Sử
+
+Gui làm việc cho Baizhu ở Nhà Thuốc Bubu. Mỗi khi Baizhu và Qiqi đi hái thuốc, anh sẽ trông cửa tiệm. Do thể chất không được tốt của Baizhu nên Gui cũng chịu trách nhiệm bốc thuốc. Anh cũng bán nhiều loại thảo mộc và sản phẩm khác dành cho những người không cần đơn thuốc.
+
+Khi Shenhe tới thăm thành, Nhà Lữ Hành chỉ cô ấy tới nhà thuốc sau khi cô thông báo với họ rằng cô ấy cần Túi Lưu Ly, Thanh Tâm và Bách Hợp Lưu Ly. Cô hỏi xin các loại thảo mộc và ăn chúng ngay lập tức, khiến Gui vô cùng ngạc nhiên.
+
+- Ngoại hình: (Sẽ được bổ sung.)
+
+- Lời Thoại Nhàn Rỗi: Đơn thuốc... : "Hãy cho tôi xem đơn thuốc của khách quan."
+
+## Hội Thoại
+
+Gui: Khách quan muốn bốc thuốc sao? Hãy đưa đơn thuốc cho tôi.
+Tôi muốn mua một vài vị thuốc.
+:Gui: Xin hỏi có đơn thuốc không? Nếu không có, tôi không thể bốc cho bạn những loại thuốc có dược tính mạnh, xin lỗi...
+;(Mở hàng của Nhà Thuốc Bubu)
+Đơn thuốc?
+:Gui: Thuốc có thể cứu người cũng có thể hại người, hoàn toàn phụ thuộc vào liều lượng thuốc.
+:Gui: Lượng nhỏ thì vô ích, lượng lớn thì có hại đến cơ thể, và lượng vừa đủ có thể chữa bệnh.
+:Gui: Hiện tại năng lực của tôi vẫn chưa giỏi, do đó không dám tuỳ tiện kê đơn bốc thuốc.
+:Gui:...Cho dù đó là vì tính mạng của bệnh nhân, hay là vì danh tiếng của sư phụ Baizhu và "Nhà Thuốc Bubu", chuyện này cũng không thể qua loa được.
+: Về Nhà Thuốc Bubu...
+:Gui: Như ngài thấy đó, nơi này là nhà thuốc tốt nhất Cảng Liyue. May mà Baizhu sư phụ y thuật cao siêu, mỗi ngày đều có không ngớt khách đến xin phương thuốc.
+:Gui: Baizhu sư phụ sức khoẻ không tốt lắm, vì vậy ngày thường việc bốc thuốc đều do tôi đảm nhận, chọn thuốc thì do Qiqi phụ trách...
+:Gui:...Nhưng Baizhu sư phụ mắc bệnh gì, tôi cũng không rõ nữa.
+:Gui: Từ lần đầu tiên gặp Baizhu sư phụ, ông ấy đã bị bệnh rồi, cho đến giờ vẫn chưa trị khỏi.
+:Gui: Có lẽ, đây chính là "Dao sắc không gọt được chuôi, kẻ hành y không chữa nổi cho mình" đây.
+Tạm biệt.
+:Gui: Chúc bạn sức khoẻ dồi dào.
+:Gui: Cũng đừng coi thường những thương tích hay bệnh nhẹ, nếu không chú ý đều có thể trở thành mối hoạ tiềm ẩn...

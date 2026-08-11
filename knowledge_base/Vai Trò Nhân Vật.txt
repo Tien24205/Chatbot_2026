@@ -1,0 +1,14 @@
+# Vai Trò Nhân Vật
+
+## Tổng Quan
+
+type: Hệ Thống Trò Chơi
+group: Nhà Hát Giả Tưởng
+
+Vai Trò Nhân Vật là những vai trò gợi ý cho nhân vật trong Nhà Hát Giả Tưởng. Khi chọn Diễn Viên Thay Thế trong màn hình Thiết Lập Đội ở giao diện Chuẩn Bị Biểu Diễn, nhân vật sẽ được lọc theo vai trò và nguyên tố. Vai trò nhân vật giúp cho người chơi sắp xếp được đội hình vận hành hoàn thiện và hài hòa, tuy nhiên đây chỉ là những vai trò được gợi ý, người chơi có thể sắp xếp nhân vật dựa theo vai trò tùy ý.
+
+## Thông Tin Thêm
+
+Tất cả các nhân vật đều có tối đa 3 vai trò: 1 vai trò là Trên Sân hoặc Ngoài Sân, và 1-2 trong 3 vai trò Sát Thương, Hỗ Trợ hoặc Sinh Tồn.
+
+Vai trò nhân vật dùng chung cho hệ thống, và có vẻ như chỉ dựa vào cơ chế chiến đấu của nhân vật ở Cung Mệnh 0, không liên quan gì tới Thánh Di Vật hay Vũ Khí (kể cả Thánh Di Vật hay Vũ Khí mà nhân vật đang trang bị, hay được đề xuất trong Chỉ Dẫn Bồi Dưỡng, màn hình thánh di vật, hay các bài đăng quảng bá nhân vật trên các nền tảng mạng xã hội của Genshin Impact).

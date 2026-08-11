@@ -1,0 +1,43 @@
+# Nấu Nướng
+
+## Tổng Quan
+
+type: Phương Thức Chế Tạo
+type2: Hệ Thống Trò Chơi
+
+Nấu Nướng là Phương Thức Chế Tạo mà người chơi có thể dùng để tạo ra Thực Phẩm và gia công nguyên liệu thực phẩm tại bếp/lò.
+
+Trong lồng tiếng của Ei có nhắc đến việc cô ấy không thể Nấu Nướng, nếu người chơi cố gắng chọn Raiden Shogun để nấu, người chơi sẽ nhận được một dòng thông báo "Nhân vật này không thể nấu nướng".
+
+## Nấu Nướng Thủ Công
+
+Khi người chơi vừa học một món ăn mới, người chơi phải hoàn thành thực hiện nấu thủ công món ăn đó một cách hoàn hảo trong một số lần nhất định trước khi có thể tự động nấu. Nấu thủ công yêu cầu người chơi dừng nấu khi kim chỉ thời gian ở trong khoảng vị trí được chỉ định.
+
+Các vị trí mà kim chỉ thời gian dừng quyết định đến chất lượng của món ăn:
+- Vùng màu cam: tạo thành một Món Ăn Ngon có hiệu quả nhận được từ món ăn là cao nhất, đồng thời tăng điểm thành thạo.
+- Vùng màu vàng: tạo thành một Món Ăn Bình Thường, hiệu quả nhận được từ món ăn là bình thường.
+- Vùng màu xám: tạo thành một Món Ăn Kỳ Lạ, hiệu quả nhận được từ món ăn là thấp nhất.
+
+Khi người chơi thoát khỏi giao diện, nguyên liệu sẽ không bị tiêu hao.
+
+## Thành Thạo
+
+Mỗi món ăn có điểm thành thạo riêng. Khi một món ăn được nấu chín hoàn hảo đủ số lần nhất định, điểm thành thạo sẽ đạt mức tối đa và tính năng Tự Động Nấu sẽ được mở khóa cho món ăn đó, cho phép cùng lúc nấu tối đa 99 món ăn. Khi đang Tự Động Nấu, người chơi sẽ không thể hủy và Tự Động Nấu sẽ luôn tạo ra phiên bản Ngon của món ăn đó.
+
+Vẫn có thể Nấu nướng thủ công khi điểm thành thạo đạt mức tối đa
+
+Điểm thành thạo tối đa phụ thuộc vào độ hiếm của món ăn mà người chơi sẽ nấu:
+
+## Địa Điểm Nấu Nướng
+
+Thành Chính ở tất cả các Quốc Gia đều sẽ có ít nhất một dụng cụ nấu nướng (bếp/lửa trại)(tên không chính thức).
+
+Lửa trại có nồi nấu thường được tìm thấy ở các vùng bên các thành phố, cho phép người chơi thực hiện nấu nướng trong khi khám phá. Lửa trại và bếp lò bị dập tắt phải được đốt lửa bằng nguyên tố để nấu ăn. Các nguyên tố,,,, có thể dập tắt lửa trại và bếp lò, ngăn chặn việc nấu ăn.
+
+Người chơi cũng có thể nấu nướng nhờ dụng cụ nấu ăn tiêu hao, có thể nhận được nhờ Rèn.
+
+## Món Ăn Đặc Biệt
+
+Là loại món ăn có khả năng nhận được nếu một nhân vật cụ thể thực hiện nấu một món ăn nhất định. Món Ăn Đặc Biệt cung cấp hiệu quả cao hơn hoặc có các hiệu ứng bổ sung so với loại Ngon, cũng như sẽ có biểu tượng, tên và mô tả riêng biệt.
+
+- Bổ Trợ Nhân Vật: Một số nhân vật có Thiên Phú nấu nướng giúp người chơi có tỉ lệ nhận thêm được món ăn khi nấu các món ăn có chức năng nhất định.

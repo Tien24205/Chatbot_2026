@@ -1,0 +1,15 @@
+# Bóng Reo Hò
+
+## Tổng Quan
+
+type: Khám Phá
+type2: Bong Bóng
+world: Teyvat
+
+Bóng Reo Hò là đạo cụ được tìm thấy trong khiêu chiến bắn cung Bách Phát Bách Trúng trong Lễ Hội Hoa Gió.
+
+Khi chúng được xuất hiện, người chơi sẽ được tăng thêm điểm. Đánh trúng sẽ nổ, làm vỡ bóng bay trong phạm vi nhất định.
+
+Thiết kế tương tự như Bom Nảy của Klee và giống búp bê đồ chơi Dodoco của cô.
+
+- Lời Mời Của Hoa Gió, Bách Phát Bách Trúng.

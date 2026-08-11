@@ -1,0 +1,26 @@
+# Bạn Bè
+
+## Tổng Quan
+
+type: Hệ Thống Trò Chơi
+group: Giao Diện
+
+Bạn Bè là những người chơi được thêm vào danh sách bạn bè trong Genshin Impact. Thêm bạn bè sẽ giúp người chơi dễ dàng xem hồ sơ người dùng của họ và tham gia Chế Độ Nhiều Người Chơi. Người chơi có thể nhắn tin cho bạn bè thông qua Nói Chuyện Riêng. Ngoài ra người chơi còn có thể nhận yêu cầu vào thăm Ấm Trần Ca từ bạn bè và đặt biệt danh cho họ để dễ dàng nhận biết. Mở khóa tính năng này yêu cầu người chơi cần đạt Hạng Mạo Hiểm cấp 2.
+
+## Bạn Của Tôi
+
+Giao diện Bạn của tôi có thể được truy cập thông qua Menu Paimon bằng cách nhấn nút Bạn Bè. Danh sách này được sắp xếp theo trạng thái trực tuyến, Hạng Mạo Hiểm và thời gian đăng nhập lần cuối.
+
+Thời gian đăng nhập lần cuối được tính từ "Trong hôm nay" đến "31 ngày".
+
+Người chơi có thể thêm tối đa 45 người bạn vào danh sách của mình.
+
+Sau khi kích hoạt tính năng lưu chéo trên PlayStation, danh sách này sẽ tự chia ra làm hai: Bạn bè Genshin Impact và Bạn bè Genshin Impact trên "PlayStation Network". Danh sách thứ hai chỉ có thể được thấy khi đăng nhập trên PlayStation.
+
+## Thêm Bạn
+
+Giao diện Thêm bạn được sử dụng để tìm kiếm và gửi yêu cầu kết bạn cho người chơi khác thông qua UID. Người nhận không cần thiết phải trực tuyến để nhận yêu cầu.
+
+Một người chơi có thể nhận tối đa 50 yêu cầu kết bạn trước khi không thể nhận thêm được nữa. Người chơi đó buộc phải chấp nhận hoặc tự chối yêu cầu hiện có để có thể nhận thêm lời mời từ người chơi khác.
+
+- Lịch Sử Liên Kết Chế Độ Nhiều Người Chơi: Giao diện Lịch sử liên kết Chế Độ Nhiều Người Chơi là danh sách các người chơi khác mà người chơi đã từng gặp cùng trong một phiên nhiều người chơi.

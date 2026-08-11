@@ -1,0 +1,36 @@
+# Ganyu
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+quality: 5
+weapon: Cung
+element: Băng
+name: Ganyu
+constellation: Tiên Lân
+birthday: 02 tháng 12
+region: Liyue
+affiliation: Nguyệt Hải Đình
+affiliation2: Nhân Viên Thất Tinh Liyue
+affiliation3: Tiên Nhân
+dish: Thái Bình Thịnh Thế
+namecard: Lân Tích
+obtain: - [[Hội Ngộ Nơi Trần Thế
+obtainType: Độc Quyền Sự Kiện
+event_name: Hội Ngộ Nơi Trần Thế
+releaseDate: 2021-01-12
+mother: Xianyun
+motherNote: sư phụ
+title: Người Bảo Vệ Tận Tâm
+title2: Thư Ký, Nguyệt Hải Đình
+voiceEN: [[imdb:nm1545196
+Jennifer Losi]]<ref name: "EN & JA VA">Twitter: Thông báo VA EN & JA
+voiceCN: Lin Su (zh|林簌)
+voiceJP: w|Reina Ueda|Ueda Reina (ja|上田 麗奈)
+voiceKR: w|ko:김선혜 (성우)|Kim Sun-hye (ko|김선혜)
+
+## Tổng Quan
+
+ là nhân vật hệ trong Genshin Impact.
+
+Cô là một Tiên Nhân bán Kỳ Lân đang trong khế ước với Nham Thần Morax và giữ chức tổng thư ký của Thất Tinh Liyue. Bởi nguồn gốc Tiên Nhân của mình mà cô cảm thấy cô độc giữa thế gian của con người.

@@ -1,0 +1,16 @@
+# Đạo Cụ Nhiệm Vụ
+
+## Tổng Quan
+
+type: Loại Vật Phẩm
+type2: Danh Mục Túi
+
+Đạo Cụ Nhiệm Vụ là vật phẩm trong Genshin Impact nhận được từ Nhiệm Vụ. Đây là tab thứ bảy trong Túi.
+
+Hầu hết Đạo Cụ Nhiệm Vụ nhận được trong một nhiệm vụ hoặc được tìm thấy trong thế giới mở và được đưa cho để hoàn thành mục tiêu, nhưng vật phẩm khác vẫn nằm trong túi dưới dạng kỷ vật.
+
+Một số Đạo Cụ Nhiệm Vụ được coi là Đạo Cụ Sự Kiện và hết hạn khi Sự Kiện tương ứng kết thúc.
+
+Một số có thể Đọc trong Túi đê xem ảnh hoặc văn bản.
+
+- Đạo Cụ Nhiệm Vụ Kỷ Niệm: Đạo Cụ Nhiệm Vụ Kỷ Niệm là vật phẩm nhiệm vụ còn lại trong Túi của người chơi như một kỷ vật. Chúng không thể trang bị, tiêu hao, sử dụng, đọc hoặc vứt đi.

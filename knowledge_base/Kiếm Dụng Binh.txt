@@ -1,0 +1,25 @@
+# Kiếm Dụng Binh
+
+## Mô Tả
+
+id: 12201
+type: Trọng Kiếm
+series: 2 Sao
+releaseDate: 2020-09-28
+quality: 2
+base_atk: 33
+obtain: Rương
+obtain2: Điều Tra
+obtain3: Cửa Hàng
+
+- Tổng Quan: Kiếm Dụng Binh là Trọng Kiếm 2 sao.
+
+Anh ta thường nhắc về những mạo hiểm đã trải qua của thời trai trẻ,
+
+Đều là những câu chuyện cười rụng răng nhàm chán.
+
+Nhưng thanh kiếm cũ kỹ này dường như đang nói thầm,
+
+"Đúng là nói hơi quá, nhưng lúc đó cũng có ta ở đó"
+
+- Được tìm thấy ngẫu nhiễn trong Rương Thường và Cao Cấp. - Rơi khi tương tác với một số điểm Điều Tra.

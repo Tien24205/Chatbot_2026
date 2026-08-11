@@ -1,0 +1,20 @@
+# Chuychu
+
+## Thông Tin Cơ Bản
+
+type: NPC Nhiệm Vụ
+deceased: Chết vì bị Vực Sâu ăn mòn trong Nỗi Tuyệt Vọng Phía Trên Cao
+region: Natlan
+location: Natlan
+affiliation: Hội Hoa Vũ
+sibling: Chasca
+siblingNote: chị gái nuôi
+voiceJP: w|Saya Horigome|Horigome Saya (ja|堀籠沙耶)
+
+- Tổng Quan: Chuychu là một NPC độc quyền nhiệm vụ, xuất hiện trong. Cô là em gái của Chasca.
+
+## Tiểu Sử
+
+Khi còn trẻ, cha mẹ của Chuychu đã nhận nuôi Chasca và Chuychu đã trở thành "em gái" của cô. Do căn bệnh hiếm gặp ảnh hưởng đến Chasca gây ra những vụ ẩu đả, Chuychu thường ở bên cạnh và xin lỗi những người khác thay cho cô. Sau này, Chuychu đã sử dụng kỹ năng của mình để trở thành một chuyên gia trong việc xử lý sự ăn mòn của Vực Sâu, chữa trị cho nhiều bệnh nhân bị ảnh hưởng bởi Vực Sâu.
+
+- Ngoại Hình: (Sẽ được bổ sung.)

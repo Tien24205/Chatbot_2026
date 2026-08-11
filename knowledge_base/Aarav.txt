@@ -1,0 +1,14 @@
+# Aarav
+
+## Thông Tin Cơ Bản
+
+type: NPC Nhiệm Vụ
+region: Sumeru
+location: Sumeru
+affiliation: Giáo Viện Sumeru
+title: Matra
+voiceEN: [[imdb:nm10853574
+Joshua Waters]]<ref name: "Joshua Waters">Twitter: Diễn Viên Lồng Tiếng Tiếng Anh Tự Thông Báo (Lưu Trữ)
+voiceJP: w|ja:渡辺紘|Watanabe Hiroshi (ja|渡辺紘)
+
+- Tổng Quan: Aarav là một NPC độc quyền nhiệm vụ xuất hiện trong.

@@ -1,0 +1,8 @@
+# Lễ Hội Rượu
+
+## Tổng Quan
+
+type: Văn Hóa Mondstadt
+type2: Lễ Hội
+
+Lễ Hội Rượu là một lễ hội ở Mondstadt mừng sự trở về của Phong Thần khi gió Tây thổi về mỗi mùa thu hoạch. Người dân sẽ ăn mừng bằng cách ủ rượu vang tươi, giữ cho đến Ngày Gió Về, khi đó họ sẽ khui thùng để tượng trưng cho việc mời Phong Thần cùng uống. Nếu Phong Thần thích rượu này, một làn gió nhẹ sẽ thổi tới mang theo chúc phúc của ngài.

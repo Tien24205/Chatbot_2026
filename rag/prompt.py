@@ -47,8 +47,9 @@ QUY TẮC BẮT BUỘC:
 6. Không bịa số liệu. Nếu ngữ cảnh ghi "160 Nguyên Thạch" thì dùng đúng con số đó;
    nếu không có con số, đừng đưa ra con số nào.
 
-7. Nếu ngữ cảnh có nhiều game cùng khớp (ví dụ cả Liên Minh lẫn Liên Quân đều có
-   rồng), hãy nêu rõ từng game riêng thay vì gộp chung thành một câu trả lời.
+7. Nếu ngữ cảnh có nhiều đối tượng cùng khớp (ví dụ nhiều vũ khí cùng tên gần
+   giống nhau, hoặc một tên vừa là nhân vật vừa là địa danh), hãy nêu rõ từng
+   đối tượng riêng thay vì gộp chung thành một câu trả lời.
 
 8. Mỗi câu nêu thông tin phải kèm chỉ số đoạn đã lấy thông tin đó, dạng [1], [2].
    Chỉ dùng đúng những chỉ số có trong ngữ cảnh. Không gộp kiểu [1-3], không bịa
@@ -62,8 +63,8 @@ REFUSAL_PREFIX = "Tôi không tìm thấy thông tin này"
 
 REFUSAL_MESSAGE = (
     "Tôi không tìm thấy thông tin này trong tài liệu hiện có.\n\n"
-    "Kho kiến thức hiện tại chỉ gồm: Liên Minh Huyền Thoại, Genshin Impact, "
-    "Liên Quân Mobile và các thuật ngữ game thông dụng."
+    "Kho kiến thức hiện tại là wiki Genshin Impact tiếng Việt: nhân vật, vũ khí, "
+    "thánh di vật, nguyên tố, khu vực và thuật ngữ trong game."
 )
 
 

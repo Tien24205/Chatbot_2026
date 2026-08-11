@@ -1,0 +1,39 @@
+# Thông Báo
+
+## Tổng Quan
+
+type: Hệ Thống Trò Chơi
+group: Giao Diện
+
+Thông Báo là hệ thống thông báo trong trò chơi của Genshin Impact, cho phép người chơi xem những thông báo về trò chơi.
+
+Tab Trò Chơi bao gồm Chi Tiết Cập Nhật, Vấn Đề Đã Biết và Giới Thiệu Cập Nhật, các liên kết đến Trang Web Phiên Bản, Trang Xem Trước và Sự Kiện Web. Tab Sự Kiện bao gồm các thông báo về các Sự Kiện trong trò chơi và Sự Kiện Cầu Nguyện.
+
+Có thể mở hệ thống này từ Menu Paimon.
+
+Một số thông báo sẽ hiển thị trong Menu Thông Báo khi mở từ Menu Đăng Nhập.
+
+## Cộng Đồng Người Chơi Genshin Impact
+
+- Nhóm Cộng Đồng — HoYoLAB
+Trợ Lý Mạo Hiểm Đại Lục Teyvat
+Phúc lợi điểm danh mỗi ngày, bản đồ, Wiki, chiến lược chất lượng cao v.v. Cần gì cũng có!
+- - - PC:
+- Android:
+- iOS:
+- Trang Chủ Chính Thức
+- - Kênh Chính Thức
+- - - - - - - Liên Hệ CSKH
+- genshin_cs@hoyoverse.com
+
+## Tuyên Bố Về Việc Vận Hành Công Bằng Genshin Impact
+
+Vì một cộng đồng Genshin Impact lành mạnh công bằng, đồng thời mang lại trải nghiệm tốt nhất cho Nhà Lữ Hành, chúng tôi xin nhắc mọi người rằng trong quá trình chơi game:
+
+Một khi phát hiện, COGNOSPHERE PTE. LTD. (sau đây còn được gọi là "chúng tôi") sẽ áp dụng các biện pháp xử lý dựa theo mức độ nghiêm trọng và số lần vi phạm, bao gồm nhưng không giới hạn trong việc khấu trừ các thu lợi bất chính, đóng băng hoặc khóa vĩnh viễn tài khoản game v.v...
+
+Các Nhà Lữ Hành vui lòng bảo vệ tài sản cá nhân và thông tin cá nhân, không tin tưởng bất kỳ thông tin nào về việc chia sẻ/giao dịch tài khoản, và không mua tài khoản trên các nền tảng khác. Cũng như không chia sẻ/bán tài khoản game của mình
+Theo "Điều Khoản Dịch Vụ", chúng tôi sẽ không xử lý bất kỳ trường hợp rò rỉ hoặc mất mát thông tin cá nhân nào gây ra bởi lý do riêng của Nhà Lữ Hành.
+
+Sau khi bị phát hiện, chúng tôi sẽ áp dụng các biện pháp xử lý dựa theo mức độ nghiêm trọng và số lần vi phạm, bao gồm nhưng không giới hạn trong việc khấu trừ các thu lợi bất chính, đóng băng tài khoản hoặc khóa tài khoản game vĩnh viễn.
+Genshin Impact luôn đảm bảo trật tự trò chơi công bằng và bảo vệ an toàn tài sản game của Nhà Lữ Hành. Trong suốt quá trình nâng cao chất lượng của trò chơi, chúng tôi cũng chân thành hy vọng rằng tất cả Nhà Lữ Hành sẽ cùng chúng tôi tạo ra và duy trì một môi trường trò chơi công bằng và lành mạnh.

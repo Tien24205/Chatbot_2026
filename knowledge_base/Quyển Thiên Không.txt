@@ -1,0 +1,73 @@
+# Quyển Thiên Không
+
+## Thông Tin Cơ Bản
+
+id: 14501
+type: Pháp Khí
+series: Mondstadt
+releaseDate: 2020-09-28
+quality: 5
+base_atk: 48
+2nd_stat_type: Tỷ Lệ Tấn Công
+2nd_stat: 7,2%
+obtain: Cầu Nguyện
+passive: Linh Vân Phiêu Du Bốn Phương
+effect: Tăng sát thương Nguyên Tố (var1)%. Khi tấn công thường đánh trúng địch, có tỷ lệ 50% nhận được sự ưu ái của mây trời, trong 15s chủ động tấn công kẻ địch ở gần, tạo thành sát thương bằng (var2)% lực tấn công. Mỗi 30s mới thi triển 1 lần.
+eff_rank1_var1: 12
+eff_rank2_var1: 15
+eff_rank3_var1: 18
+eff_rank4_var1: 21
+eff_rank5_var1: 24
+eff_rank1_var2: 160
+eff_rank2_var2: 200
+eff_rank3_var2: 240
+eff_rank4_var2: 280
+eff_rank5_var2: 320
+eff_att1: Tăng ST Nguyên Tố
+eff_att2: ST Vật Lý
+
+- Tổng Quan: Quyển Thiên Không là một pháp khí 5 Sao.
+
+## Ghi Chú
+
+- Nội tại sẽ thi triển 6 lần sát thương trong suốt thời gian được kích hoạt.
+- Hiệu ứng tăng sát thương vật lý có thể snapshot.
+- Nội tại sẽ không được kích hoạt khi nhân vật trang bị ngã xuống hoặc không ở trong đội.
+
+## Câu Chuyện
+
+Khái quát Thiên Phong Vạn Vân Thông.
+
+Bản sao chép toàn bộ mây và gió khắp vùng đất Bắc, được trình bày dưới dạng thơ và hình ảnh.
+
+Với khoảng mười nghìn bài tụng, mỗi bài là một đám mây, một luồng gió, tên gọi không trùng lặp.
+
+Hình dạng của mây là do gió tạo nên, thơ ca đã trao cho gió những tính cách đặc biệt.
+
+Vốn chỉ là những cơn gió vô hình, vậy mà qua cái nhìn của Barbatos lại trở nên thân thiết và gần gũi đến vậy.
+
+Thời thượng cổ có truyền thuyết kể lại rằng, Phong Thần gọi đến tứ phong,
+
+Xua tan đi băng, đẩy lùi ác thú, tạo ra mây và sương, từ đó Mondstadt được dựng lên.
+
+Sau này Phong Thần đã cho người phàm sao chép cuốn sách này và đặt tên là "Thiên Phong Vạn Vân".
+
+Thế nhưng điều đáng tiếc đó là, thời gian đã khiến bản đồ và thơ ca bị mất đi nhiều phần.
+
+Đa phần những quyển sách ghi chép lại ngàn vạn gió mây đã bị phân tán vào dân gian, trở thanh dân ca và các câu chuyện truyền thuyết.
+
+Cũng từ đó, cội nguồn thiên phong thất truyền, thế nhưng Phong Thần vẫn ghi nhớ điều đó.
+
+Cho đến khi ma long Durin dang đôi cánh khổng lồ ập đến, Barbatos mới đứng dậy chiến đấu.
+
+Trong trận ác chiến, nhật nguyệt rung động, Phong Thần cất tiếng hát gọi thiên phong, Phong Long theo hướng gió mà đến.
+
+Người nắm giữ cuốn sách, có thể biết được tên của ngàn gió cũng như điều khiển sức mạnh vĩ đại nằm trong chúng.
+
+Cho đến nay, bầu trời của Mondstadt đã quay về màu xanh yên bình.
+
+Phong Thần và Phong Long tìm thấy được nơi quy ẩn mới.
+
+Còn cuốn sách cũng được đưa cho người đáng tin cất giữ.
+
+- Cầu nguyện thường Du Hành Thế Gian (Không giới hạn thời gian) - Tất cả các sự kiện Cầu Nguyện Vũ Khí

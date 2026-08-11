@@ -1,0 +1,22 @@
+# Cung Hắc Đàn
+
+## Thông Tin Cơ Bản
+
+id: 15306
+type: Cung
+releaseDate: 2020-03-18
+quality: 3
+base_atk: 40
+2nd_stat_type: Tấn Công
+2nd_stat: 6.3%
+obtain: Chưa ra mắt
+passive: Phá Hủy
+effect: Sát thương gây ra tăng (var1)% đối với kẻ địch thuộc cơ quan di tích
+eff_rank1_var1: 40
+eff_rank2_var1: 50
+eff_rank3_var1: 60
+eff_rank4_var1: 70
+eff_rank5_var1: 80
+eff_att1: Tăng ST
+
+- Tổng Quan: Cung Hắc Đàn là một cây Cung 3 sao có mặt trong CBT2.

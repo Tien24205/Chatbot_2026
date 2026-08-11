@@ -1,0 +1,25 @@
+# Gaming
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+quality: 4
+weapon: Trọng Kiếm
+element: Hỏa
+elementNote: Vision
+name: Gaming
+birthday: 22 tháng 12
+constellation: Tỉnh Sư
+region: Liyue
+affiliation: Kiếm Hạp Tiêu Cục
+dish: Nhàn Rỗi Thưởng Trà
+namecard: A Văn
+obtain: Cầu Nguyện Nhân Vật
+releaseDate: 2024-01-31 10:00:00 GMT+8
+title: Tuấn Nghê Ngẩng Đầu
+title2: Tiêu Sư Của Kiếm Hạp Tiêu Cục
+voiceEN: [[imdb:nm9242088
+Caleb Yen]]<ref name: "Gaming EN JP">Facebook: Thông Tin Lồng Tiếng
+voiceCN: Xie Ying (zh|谢莹)
+voiceJP: w|ja:小松昌平|Komatsu Shouhei (ja|小松昌平)
+voiceKR: Kim Yoon-ki (ko|김윤기)

@@ -1,0 +1,28 @@
+# Bresson
+
+## Thông Tin Cơ Bản
+
+type: NPC Sự Kiện
+realname: Bresson Cartier
+region: Fontaine
+affiliation: Hiệp Hội Nhà Mạo Hiểm
+
+- Tổng Quan: Bresson Cartier là NPC độc quyền sự kiện xuất hiện trong Nghiên Cứu Sáng Và Tối - Đại Dương Mê Hoặc.
+
+## Hội Thoại
+
+Bresson: Bạn về rồi à, có chuyện gì muốn hỏi không?
+Về thân phận của anh...
+:Bresson: Tôi ư? Tôi là một nhà mạo hiểm của Hiệp Hội Nhà Mạo Hiểm Fontaine. Đồng thời cũng là thành viên của "Hội Đam Mê Máy Ảnh".
+:Bresson: Nhưng người trong Hội Đam Mê Máy Ảnh luôn nói chất lượng của một tấm ảnh được quyết định bởi tay nghề của người chụp.
+:Bresson: Tôi nghe nói thậm chí để rèn luyện kỹ năng, một nhóm người còn cố tình sử dụng mấy thứ máy ảnh lỗi thời để chụp hình... Đúng là tự kiếm phiền phức.
+:Bresson: Nhưng tôi thì khác, tôi cho rằng thiết bị càng tốt thì sẽ càng mang lại những tấm ảnh đẹp.
+:Bresson: Họ nói tôi không hiểu nghệ thuật. Hừ... Tôi thấy bọn họ mới là không hiểu nhiếp ảnh!
+:Bresson: Đám người này sớm muộn cũng sẽ hiểu công nghệ mới là điểm mấu chốt!
+Tại sao anh không dám lặn?
+:Bresson: Hmm... Cũng giống như có người không thích ăn nấm, có người không thích ăn cá. Mỗi người mỗi khác nhau mà.
+:Bresson: Tôi không chịu nổi cảnh tối đen thui dưới nước, ở dưới đó lâu là không thở nổi.
+:Bresson: Thỉnh thoảng còn tê bì tay chân, choáng váng đầu óc, sau đó vô thức rơi mất máy ảnh khỏi tay...
+:Bresson: Từ sau khi làm mất cái máy ảnh thứ năm, quả thực tôi không muốn lặn xuống để chụp ảnh nữa rồi...
+Tạm biệt.
+:Bresson: Được, vậy chuyện chụp ảnh nhờ bạn nhé. Tôi sẽ chờ bạn ở trên bờ.

@@ -1,0 +1,11 @@
+# Khu Vực
+
+## Tổng Quan
+
+type: Loại Địa Điểm
+
+Khu Vực là các phần của bản đồ thuộc một Quốc Gia cụ thể và có thể được nhóm lại thành một Phân Khu. Chúng lớn hơn Thành Phố và Khu riêng lẻ, nhưng nhỏ hơn toàn bộ vùng đất.
+
+Phần Bản Đồ của mỗi khu vực sẽ được mở khóa sau khi kích hoạt Thất Thiên Thần Tượng tương ứng, đồng thời cũng mở khóa các địa điểm Phái Đi Thám Hiểm của khu vực đó. Sau khi mở khóa, bản đồ sẽ cung cấp thông tin về địa hình của khu vực, giúp dễ dàng tìm thấy các Điểm Dịch Chuyển, Boss và Bí Cảnh.
+
+Tiến trình Phái Đi Thám Hiểm được theo dõi theo từng khu vực.

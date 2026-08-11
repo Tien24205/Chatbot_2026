@@ -1,0 +1,45 @@
+# Hilichurl
+
+## Mô Tả
+
+type: Nhóm Kẻ Địch
+
+- Tổng Quan: Hilichurl là nhóm Ma Vật dạng yêu tinh trong Genshin Impact và là một trong những nhóm ma vật đầu tiên mà người chơi sẽ gặp ở đầu trò chơi.
+
+Dù đang ở giai đoạn phát triển nào, tất cả Hilichurl đều để ngực trần, chân trần và có bờm lớn che gần hết đầu. Có vẻ chúng có hai chiếc tai thon dài nhô ra khỏi bờm. Trang phục duy nhất chúng mặc là khố, chân và tay được quấn băng lỏng lẻo. Mọi Hilichurl đều đeo mặt nạ để ngăn bản thân nhìn thấy ảnh phản chiếu khuôn mặt ghê rợn của mình. Ngoại trừ các Hilichurl nguyên tố như Phù Thủy Hilichurl, Lãng Khách Hilichurl và Vua Hilichurl có mang màu sắc tương ứng với nguyên tố của mình thì da tự nhiên của chúng sẽ có màu đen xám.
+
+Hilichurl nguyên tố như Phù Thủy Hilichurl và Vua Hilichurl đều có màu da và màu mặt nạ tương ứng với màu nguyên tố của chúng. Tuy bình thường khá hung dữ với nhân loại hoặc kẻ ngoại tộc, đồng thời có lối sống khá tối ưu nhưng Hilichurl vẫn khá thông minh theo tiêu chuẩn của chúng bởi vẫn có một số Hilichurl có thể sử dụng công cụ và Slime, đào bới và thậm chí là làm nông, tuy nhiên vẫn còn hạn chế trong chăn nuôi do mặt bằng chung chủng tộc này không thích rau. Chúng có phong cách kiến trúc dù cũ kỹ nhưng khá ấn tượng, chưa rõ cách dựng và mực đích của các kiến trúc đó.
+
+Khi một hilichurl phát triển và tồn tại, chúng sẽ tiến hóa thành Bạo Đồ Hilichurl to lớn và vạm vỡ hơn. Bạo Đồ Hilichurl sẽ tiếp tục phát triển và tồn tại đến khi tích lũy đủ năng lượng nguyên tố trong địa bàn và tiến hóa thành Vua Hilichurl. Hiện không rõ quá trình tiến hóa này mất bao lâu.
+
+Một số hilichurl có thể sẽ đi lang bạt; không giống như các hilichurl khác, nhưng hilichurl này không phải thành viên của một bộ tộc, thay vào đó chúng lang thang khắp Teyvat không rõ lý do. Tuy nhiên thỉnh thoảng chúng cũng sẽ giúp đỡ các bộ tộc hilichurl khác trước khi rời đi. Những hilichurl này lớn hơn, có chiều cao tương đương với bạo đồ hilichurl và mang trí thông minh của hilichurl tiêu chuẩn.
+
+Có vẻ không có chấp chính hay vị thần nào cai trị chúng, thay vào đó kẻ mạnh nhất và hung dữ nhất sẽ lãnh đạo bộ tộc. Hầu hết các bộ tộc đều có Phù Thủy Hilichurl làm lãnh đạo tinh thần cho chúng. Tuy mang hình mẫu "vua" đối với các hệ thống phân cấp nhỏ hơn nhưng hầu hết vua Hilichurl đều ưa ở một mình.
+
+Hilichurl có vẻ có một mạng lưới xã hội khá đáng tin cậy bởi một vài hilichurl vẫn làm bạn với nhau dù cách nhau khá xa. Tương tự như con người, hilichurl có thể sống và tự thích nghi ở nhiều loại môi trường.
+
+Rất nhiều hilichurl cũng có liên quan đến Giáo Đoàn Vực Sâu do Pháp Sư Vực Sâu có thể nói lưu loát tiếng Hilichurl. Không giống con người phải dựa vào Vision hoặc khoa học để có thể điều khiển nguyên tố, một số hilichurl có thể làm vậy một cách tự nhiên, ví dụ như phù thủy hilichurl, tuy nhiên không rõ vì sao chúng có thể làm vậy. Từ đó, hilichurl thường tránh xa những nơi có nồng độ nguyên tố cao bởi điều đó sẽ khiến chúng phải gồng gánh sức ép lớn.
+
+## Bộ Tộc
+
+Hilichurl rải rác khắp Teyvat nhưng một số vẫn sẽ tụ tập thành bộ tộc. Có ba bộ tộc lớn, cả ba đều ở Hẻm Núi Dadaupa. Thành phần của bộ tộc có xu hướng khác nhau, thường sẽ bao gồm một lượng lớn hilichurl bình thường. Hầu hết bộ tộc đều có phù thủy hilichurl là kẻ lớn đầu nhất, thường sẽ là kẻ lãnh đạo bộ tộc.
+
+Một vài bộ tộc không có phù thủy hilichurl, đó là do các hilichurl trẻ và mạnh hơn đã lật đổ chúng. Các bộ tộc này thường do bạo đồ hilichurl đứng đầu và hung hãn hơn nhiều. Có rất ít bộ tộc được lãnh đạo bởi bạo đồ hilichurl bởi những kẻ xung quanh thường thích ở một mình và không thích sự tôn kính mà các thành viên trẻ hơn hướng đến chúng.
+
+- Tộc Thích Ngủ: Hilichurl Tộc Thích Ngủ được biết đến là ngủ ở bất cứ đâu. Do tập trung vào việc ngủ nên Tộc Thích Ngủ được đồn là có những chiếc giường da thú cực kỳ mềm mại.
+
+## Tộc Thích Thịt
+
+Hilichurl Tộc Thích Thịt được biết đến là thường xuyên hoạt động hiến tế. Chúng cầu xin thịt mỗi ngày và cực kỳ đề cao sức mạnh. Ngoài việc xây dựng những đền thờ khổng lồ, chúng còn sở hữu một chiếc nồi khổng lồ và một đấu trường lớn để thành viên bộ tộc tranh tài.
+
+- Tộc Hắc Nhật: Hilichurl Tộc Hắc Nhật khá bí ẩn, toàn bộ hilichurl trong tộc đều biết cách vẽ ký hiệu hắc nhật. Người ta đồn rằng chỉ có phù thủy trong tộc hắc nhật mới biết ý nghĩa của biểu tượng đó.
+
+## Cốt Truyện
+
+Cốt truyện có rất nhiều ẩn ý về việc hilichurl từng là con người nhưng bị Thần nguyền rủa vì mang "tội lỗi". Hình phạt của Thần thường có rất nhiều dạng (ví dụ như bất tử), nhưng hình phạt đặc biệt này được biết đến với tên gọi "lời nguyền hoang dã" khiến con người biến thành ma vật và cuộc sống trường sinh bất thường. Sự tồn tại của Hilichurl đã được biết đến trong hơn 1000 năm, do vậy có vẻ chúng bắt nguồn từ một nền văn minh cổ xưa từng phát triển hưng thịnh ở Teyvat trước khi tàn lụi trong các sự kiện thảm khốc khắp lịch sử Teyvat. Đặc biệt, sự hiện diện của chúng đã tăng mạnh kể từ sau tai họa xảy ra 500 năm trước, trùng với sự hủy diệt của nền văn minh nhân loại Khaenri'ah. Thực tế, Dainsleif đã xác nhận rằng hilichurl ở Vực Đá Sâu thực chất là con dân trước đây của Khaenri'ah, Chlothar Alberich sau này cũng tiết lộ thêm rằng những người không mang "dòng máu Khaenri'ah thuần túy" sẽ bị biến thành ma vật.
+
+Do ảnh hưởng từ lời nguyền, ký ức về kiếp trước cũng như hình dáng con người mà chúng từng có đều đã dần biến mất. Trí tuệ cũng như hành vi của chúng cũng dần suy giảm, chúng không còn có thể hiểu hay nói ngôn ngữ chung của Teyvat nữa. Tuy vậy, hilichurl ít nhất có vẻ vẫn có khả năng tự nhận thức và cảm xúc. Ví dụ, chúng vẫn nhớ cảm giác có khuôn mặt con người là như thế nào bởi lý do chúng đeo mặt nạ che đi khuôn mặt thật là vì không thể chịu được nỗi đau khi nhìn thấy ảnh phản chiếu khuôn mặt gớm ghiếc của mình trên mặt nước.
+
+Mặc dù hầu hết hilichurl không thể nói và mang trí thông minh của con người nhưng vẫn có thể đảo ngược một phần của lời nguyền, ví dụ như khi Caribert có thể nói lại sau khi nhận được sức mạnh vực sâu từ bức tượng của Tội Nhân. Ngoài ra, ở Fontaine, Narzissenkreuz cũng có thể ban cho Lãng Khác Hilichurl Phong khả năng tri thức, cho cậu cả hình hài "con người" cũng như khả năng hiểu và nói ngôn ngữ của con người, trao cho cậu cái tên Caterpillar.
+
+Hilichurl không thể chết tự nhiên vì chúng bất tử; khi chúng lớn hơn, cả cơ thể vật lý lẫn trạng thái tinh thần của chúng sẽ dần bị bào mòn đến mức gần giống với chết. Chính vì vậy, những hilichurl lớn tuổi luôn phải chịu nỗi đau vô tận. Tuy nhiên hilichurl có vẻ biết rằng chúng bị nguyền rủa, và rằng đặc tính của một khu vực trong The Chasm có thể tạm thời áp chế ảnh hưởng của lời nguyền này. Do đó một số hilichurl đã theo bản năng mạo hiểm tìm đến nơi này để được chết, bất chấp cả nhu cầu về thức ăn và phòng vệ của bản thân, không mong muốn gì hơn ngoài việc được hưởng ít nhất một chút cảm giác yên bình.

@@ -1,0 +1,31 @@
+# Xana
+
+## Thông Tin Cơ Bản
+
+type: NPC Đại Thế Giới
+group: Melusine
+region: Fontaine
+location: Fontaine
+
+- Tổng Quan: Xana là một NPC đại thế giới có vị trí ở Làng Merusea, Fontaine, người trao đổi những Linh Kiện Kỳ Lạ. Cô ấy chỉ có thể trao đổi sau khi hoàn thành và nói chuyện với Serene.
+
+- Lời Thoại Nhàn Rỗi: Thứ lấp lánh...
+
+## Hội Thoại
+
+Xana: Nếu có thứ sáng lấp lánh, có thể trao đổi với Xana!
+Có thể đổi được gì...
+:Xana: Đều ở đây! Nếu thích gì thì cứ nói với tôi!
+;(Mở cửa hàng đổi Linh Kiện Kỳ Lạ.)
+Thứ sáng lấp lánh?
+:Xana: Đúng vậy, giống như thế này, linh kiện sáng lấp lánh!
+:Xana: Nếu có đủ linh kiện, nói không chừng sẽ có thể dùng chúng để ghép một con robot siêu khổng lồ lớn hơn cả Elynas. Nghĩ thôi đã thấy phấn khích rồi.
+:Xana: Xana thỉnh thoảng cũng ra bên ngoài làng thu thập những thứ tạm thời chưa thể phát sáng, và nghĩ cách làm cho chúng phát sáng.
+:Xana: Tóm lại, những thứ sáng lấp lánh càng nhiều càng tốt! Vì vậy, nếu có những thứ sáng lấp lánh, có thể dùng chúng để trao đổi như những người khác.
+Hình như tôi chưa từng gặp cô...
+:Xana: Hmm? Cách đây không lâu thì Xana luôn ở Viện Khoa Học Fontaine, muốn học cách chế tạo một con Robot Dây Cót thật ngầu.
+:Xana: Ở đó cũng có một con robot khổng lồ trông rất ngầu. Rồi sẽ có một ngày, Xana sẽ ráp ra một thứ còn to hơn cả nó!
+Tạm biệt.
+:Xana: Tạm biệt! Nhớ quay lại nhé!
+
+- là một nymph trong thần thoại của người Asturias.

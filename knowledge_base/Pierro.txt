@@ -1,0 +1,52 @@
+# Pierro
+
+## Thông Tin Cơ Bản
+
+type: Được Nhắc Đến
+sex: Nam
+affiliation: Fatui
+affiliation2: 11 Quan Chấp Hành của Fatui
+region: Snezhnaya
+region2: Khaenri'ah
+title: The Jester
+title2: Thống Lĩnh Fatui
+voiceEN: w|Richard Tatum
+voiceCN: Fu Chong (zh|符冲)
+voiceJP: Mamiya Yasuhiro (ja|間宮康弘)
+voiceKR: w|ko:심승한|Sim Seung-han (ko|심승한)
+
+## Tổng Quan
+
+Pierro, còn được biết đến dưới danh hiệu "The Jester" là Thống Lĩnh của Fatui, đồng thời cũng là thành viên và Quan Chấp Hành đầu tiên của tổ chức.
+
+Ông ta xuất hiện lần đầu tiên trong Chương Teyvat - Vở Kịch Đêm Đông cùng với các Quan Chấp Hành khác.
+
+## Tiểu Sử
+
+Pierro là Thống Lĩnh của Fatui, đồng thời cũng là thành viên và Quan Chấp Hành đầu tiên của tổ chức. Ông ta đã tự thân đứng ra chiêu mộ một số Quan Chấp Hành, trong đó có Il Dottore, Scaramouche, và Signora.
+
+## Lịch Sử
+
+Trước khi tai ương xảy ra, Pierro là pháp sư cung đình của Khaenri'ah và có một khoảng thời gian sống cùng với người thân của Nhà Lữ Hành. Ông ta không thể giành được sự sủng ái của người cai trị Khaenri'ah (có vẻ là vương giả Irmin) do không tài năng bằng các "hiền giả", và ổng ta không thể ngăn cản họ làm một việc gì đó khiến cho "bức màn tội lỗi" bị xé nát. Điều này đã khiến cho "sóng thần phẫn nộ, huỷ diệt và ngu xuẩn" ập xuống vương quốc và Pierro đoán chừng chính là một trong những người Khaenri'ah thuần huyết phải chịu lời nguyền bất tử. Vì lí do này, ông ta trở nên thù ghét "sự hoang đường và thờ ơ của thế giới" và chọn hợp tác với Nữ Hoàng Băng Giá, lập ra Fatui.
+
+## Chiêu Mộ Các Quan Chấp Hành Khác
+
+Tại một thời điểm trong quá khứ, Pierro đến Biển Cát Đỏ theo lời đồn về một học giả Giáo Viện Sumeru bị trục xuất do thực hiện những hành động dị đoan. Ông ta tìm thấy Zandik, hắn vui vẻ đồng ý trở thành Quan Chấp Hành Fatui sau khi nghe nghe rằng bọn họ ủng hộ hành động tạo ra "Người được ưu hoá" có sức mạnh vượt qua cả thần. Pierro đặt cho Zandik danh hiệu Il Dottore, hay The Doctor (Bác Sĩ), khiến anh ta nhịn cười không nổi vì sự mỉa mai này.
+
+400 năm trước, Pierro và Dottore tham gia vào một sự kiện được biết đến với tên Tatarasuna huyền bí: Theo lệnh của Pierro, Dottore trà trộn vào Lò Luyện Mikage dưới thân phận một thợ máy người Fontaine tên "Escher" để phá hoại đất nước. Sau khi hoàn thành nhiệm vụ, Dottore giới thiệu một con rối với Pierro, nói rằng nếu nó chứng minh được giá trị của bản thân thì sẽ trở thành chiến hữu mới, còn nếu không thì sẽ bị phá hủy. Sau đó, Pierro đã gặp con rối đó và chiêu mộ anh ta vào Fatui; con rối đó sau này trở thành Scaramouche. Pierro từng giao cho Scaramouche không ít nhiệm vụ quan trọng, bao gồm cả việc đi đến Vực Sâu, và vì lí do không rõ, đã kể với Scaramouche về chuyện giữa ông ta và Song Sinh Của Nhà Lữ Hành.
+
+Ở một thời điểm nào đó, Pierro cũng chiêu mộ Rosalyne-Kruzchka Lohefalter, khi đó đã trở thành Diệm Liệt Ma Nữ Cháy Rực, vào Fatui. Ông ta đặt cho cô danh hiệu La Signora và ban cho cô Delusion Băng để dập tắt ngọn lửa chảy trong huyết mạch cô ấy.
+
+Khi Tartaglia trở thành Quan Chấp Hành và nhận được Delusion, Pierro là người đã đeo nó lên cho anh.
+
+## Hiện Tại
+
+Trong Ngôi Sao Vụt Tắt Chưa Trở Về, dù Pierro không trực tiếp xuất hiện, ông ta là người đã cử Scaramouche đến Liyue. Trong lúc điều tra thiên thạch tại Rặng Musk, Scaramouche đã khám phá ra một điều: "Bầu trời sao chính là sự dối trá to lớn." Tin rằng Pierro đã đoán trước được cơn mưa thiên thạch và việc anh sẽ nhận ra điều trên, Scaramouche rời đi trong giận dữ, có lẽ là để đi đối chất với Pierro.
+
+Có thể cho rằng Pierro là "Quan Chấp Hành Đại Nhân đứng đầu" được nhắc đến trong "Chỉ Lệnh" Của Borenka, người đứng sau màn chỉ huy việc tham gia vào các sự kiện tại Inazuma của Fatui. Để kéo dài cuộc chiến với mục đích tăng cao nhu cầu sử dụng Delusion và đảm bảo nguồn cung nguyên liệu tạo Delusion, Pierro cử Nathan trà trộn vào Quân Watatsumi để tạo hỗn loạn trên đảo Đảo Yashiori. Scaramouche cũng được giao cho nhiệm vụ trông coi hoạt động của Công Xưởng Delusion, trong khi Signora thao túng Hiệp Hội Kanjou và tiếp tục nhiệm vụ thu thập Gnosis. Sau khi sự việc bị bại lộ, Pierro đã ra lệnh cho Borenka rút quân khỏi Đảo Yashiori và đem vài binh lính Shogunate đào ngũ về để làm mẫu sống trong một nghiên cứu chưa xác định.
+
+## Từ Nguyên
+
+- Trong ', một loại kịch của Ý, "" (Pedrolino trong tiếng Ý) là vai hề buồn, hắn yêu thầm Columbine, thế nhưng người sau thường sẽ khiến hắn đau khổ và chạy theo Harlequin.
+- Tên của ông ta được chuyển thành Pierro để hợp với cách phát âm của Pierrot.
+- Danh hiệu của Pierro trong tiếng Trung () có nghĩa là "Vai Hề", cũng chính là bản dịch trực tiếp từ cụm Pierro (hề buồn).

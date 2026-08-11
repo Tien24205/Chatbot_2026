@@ -1,0 +1,29 @@
+# HoYoLAB
+
+## Tổng Quan
+
+type: HoYoverse
+
+HoYoLAB là diễn đàn chính thức dành cho những trò chơi của HoYoverse. Diễn đàn này được chia thành nhiều diễn đàn nhỏ hơn, dành riêng cho Genshin Impact, Honkai Impact 3rd, Tears of Themis, và Honkai Star Rail. Tại đây người chơi có thể đăng bài, bình luận, tham gia vào các Sự Kiện Web và nhận được tin tức mới.
+
+Truy cập HoYoLAB và các quy tắc của diễn đàn lần lượt tại HoYoLAB và Quy Tắc.
+
+## Ứng dụng HoYoLAB
+
+Ứng dụng HoYoLAB được ra mắt vào ngày 15 tháng 7 năm 2021. Các tính năng bao gồm tương tác với các Bài Đăng, truy cập các tiện ích như Điểm Danh Hằng Ngày, Bản Đồ Tương Tác Teyvat và Chiến Tích.
+
+Truy cập HoYoLAB APP FAQ để biết thêm thông tin chi tiết.
+
+Thử Nghiệm Nội Bộ bắt đầu từ ngày 1 tháng 6 năm 2021.
+
+## HoYoWiki
+
+HoYoWiki là kho dữ liệu về game do HoYoLAB phát hành, ra mắt vào ngày 7 tháng 5 năm 2022.
+
+Các danh mục bao gồm Sách Nhân Vật, Thư Viện Trang Bị, Sách Sinh Vật và Sách Sản Vật.
+
+Truy cập tại đây: Genshin Impact HoYoWiki.
+
+- Điểm Danh: Có thể truy cập Sự Kiện Đăng Nhập vĩnh viễn Điểm Danh Hằng Ngày của Cộng Đồng HoYoLAB tại Điểm Danh Hằng Ngày.
+
+- Thông Báo Chính Thức: Mục Thông Báo Chính Thức của HoYoLAB gồm 2 phần Sự Kiện và Bản Tin. Truy cập tại đây: Sự Kiện và Bản Tin chính thức.

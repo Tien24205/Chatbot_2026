@@ -1,0 +1,32 @@
+# Lauma
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+quality: 5
+weapon: Pháp Khí
+element: Thảo
+name: Lauma
+birthday: 01 tháng 03
+constellation: Ngân Lộc
+region: Nod-Krai
+affiliation: Dòng Dõi Sương Nguyệt
+dish: Lời Thì Thầm Trong Rừng
+namecard: Sừng Hươu
+obtain: Cầu Nguyện Nhân Vật
+event_name: Khúc Trăng Rừng Sương
+releaseDate: 2025-09-10 11:00:00 GMT+8
+title: Tế Ca Vĩnh Nguyệt
+title2: Thánh Nữ Rừng Sâu
+ancestry: Dòng Dõi Sương Nguyệt
+voiceEN: [[imdb:nm5498692
+Alexandra Guelff]]<ref name: "frostbound">YouTube: Video Ngắn Xem Trước Nod-Krai: Bước Vào Đêm Sương Tĩnh Lặng (Mô tả video)
+voiceCN: Angela Chong (zh|张安琪)
+voiceJP: w|Houko Kuwashima|Kuwashima Houko (ja|桑島法子)
+voiceKR: Jang Chae-yeon (ko|장채연)
+
+## Tổng Quan
+
+Lauma là một nhân vật hệ chơi được trong Genshin Impact.
+
+Là Vịnh Nguyệt Sứ của Dòng Dõi Sương Nguyệt, cô là một người uyên bác, rất được mọi người kính trọng và nhận được sự tin cậy từ tất cả các loài sinh vật hoang dã. Lauma là người vô cùng tử tế và luôn cố gắng tìm cách giải quyết xung đột một cách nhẹ nhàng; tuy nhiên, ý chí kiên cường của cô sẽ bộc lộ nếu ai đó lầm tưởng lòng tốt của cô là sự nhượng bộ.

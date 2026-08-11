@@ -1,0 +1,38 @@
+# Kẻ Săn Mồi
+
+## Thông Tin Cơ Bản
+
+id: 15415
+type: Cung
+releaseDate: 2021-09-21
+quality: 4
+base_atk: 42
+2nd_stat_type: Tấn Công
+2nd_stat: 9%
+series: Ngoại Quốc
+obtain: Nhận qua Thư trên PS4/PS5 giữa phiên bản 2.1–2.2
+passive: Tấn Công Mạnh Mẽ
+effect: - Chỉ có hiệu lực trong: - "PlayStation Network" Sau khi gây color|Băng|Sát Thương Nguyên Tố Băng lên kẻ địch, tăng 10% sát thương tấn công thường và trọng kích gây ra, hiệu quả duy trì 6 giây, tối đa cộng dồn 2 lần; Ngoài ra, khi Aloy trang bị "Kẻ Săn Mồi", tấn công tăng 66 điểm.
+eff_att1: Tăng ST Tấn Công Thường
+eff_att2: Tăng ST Trọng Kích
+eff_att3: Tấn Công
+
+## Tổng Quan
+
+Kẻ Săn Mồi là cung mà người chơi chỉ có thể nhận được khi đăng nhập vào Genshin Impact trên hệ máy PlayStation trong Phiên Bản 2.1 hoặc 2.2. Cấp tinh luyện luôn ở cấp 1 vì chỉ có một bản sao duy nhất được cung cấp, tương tự như Kiếm Giáng Lâm.
+
+Người chơi trên các nền tảng khác có thể nhận bằng cách kích hoạt tính năng lưu chéo trên PlayStation. Tuy nhiên, hiệu quả nội tại (Tấn Công Mạnh Mẽ) sẽ không kích hoạt ngoài phiên bản PlayStation.
+
+## Câu Chuyện
+
+Thợ rèn nhận được ủy thác đã hỏi đơn hàng vì sao phải làm thành như vậy, với tại sao lại gọi tên này.
+
+Đáp án nhận được có chút phức tạp: nào là dã thú máy móc trên khắp thế giới, nào là vũ khí cán dài không có chỉ lệnh.
+
+Nhưng thợ rèn đã hiểu. Thì ra cây cung này là thần binh lợi khí dùng để săn bắt dã thú máy móc, từ đó nó sẽ trở thành kẻ ăn thịt cao cấp của thế giới đó.
+
+Nhưng thiếu nữ kỳ lạ nói không phải.
+
+Đơn giản bởi vì thế giới này dùng cung tên săn bắn, cũng có thể thu hoạch được thịt rừng. Cô ấy tiếp theo sẽ bắt heo rừng.
+
+- Nhận qua thư với người chơi PlayStation đăng nhập Genshin Impact trong phiên bản 2.1 hoặc phiên bản 2.2.

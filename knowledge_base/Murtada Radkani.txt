@@ -1,0 +1,12 @@
+# Murtada Radkani
+
+## Thông Tin Cơ Bản
+
+type: NPC Nhiệm Vụ
+region: Sumeru
+location: Sumeru
+affiliation: Haravatat
+father: Taj Radkani
+deceased: Trong quá khứ
+
+- Tổng Quan: Murtada Radkani là một NPC độc quyền nhiệm vụ xuất hiện trong.

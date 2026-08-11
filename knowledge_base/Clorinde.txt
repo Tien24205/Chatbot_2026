@@ -1,0 +1,30 @@
+# Clorinde
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+arkhe: Ousia
+quality: 5
+weapon: Kiếm Đơn
+element: Lôi
+name: Clorinde
+birthday: 20 tháng 09
+constellation: Tấn Tiệp Kiếm
+region: Fontaine
+affiliation: Tòa Án
+affiliation2: Đấu Sĩ Đại Diện
+dish: "Săn Bắt"
+namecard: Nhập Vai
+obtain: Cầu Nguyện Nhân Vật
+event_name: Tia Sét Xuyên Đêm
+releaseDate: 2024-06-05
+title: Thắp Nến Diệt Bóng Tối
+title2: Đấu Sĩ Đại Diện
+adoptive: Relative Type|Cha mẹ|Petronilla| Săn Tụ Họp
+voiceEN: [[imdb:nm10851940
+Crystal Lee]]<ref name: "The Final Feast desc">YouTube: Video Khúc Mở Đầu - Bữa Tiệc Hạ Màn (Mô tả video)
+voiceCN: Zhao Hanyu (zh|赵涵雨)
+voiceJP: w|Yui Ishikawa|Ishikawa Yui (ja|石川由依)
+voiceKR: Shin Na-ri (ko|신나리)
+
+- Tổng Quan: Clorinde là một nhân vật hệ chơi được, sở hữu Sức Mạnh Nền Tảng trong Genshin Impact. Cô là Đấu Sĩ Đại Diện mạnh nhất tại Fontaine và từng là vệ sĩ của Furina.

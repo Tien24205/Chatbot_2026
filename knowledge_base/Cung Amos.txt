@@ -1,0 +1,75 @@
+# Cung Amos
+
+## Thông Tin Cơ Bản
+
+id: 15502
+type: Cung
+releaseDate: 2020-09-28
+quality: 5
+base_atk: 46
+2nd_stat_type: Tấn Công
+2nd_stat: 10,8%
+obtain: Cầu Nguyện
+passive: Ý Chí Không Quên
+effect: Tăng (var1)% sát thương của tấn công thường và trọng kích. Tấn công thường và trọng kích mỗi 0,1s sau khi bắn tên, sát thương sẽ tăng (var2)% tối đa tăng 5 lần.
+eff_rank1_var1: 12
+eff_rank2_var1: 15
+eff_rank3_var1: 18
+eff_rank4_var1: 21
+eff_rank5_var1: 24
+eff_rank1_var2: 8
+eff_rank2_var2: 10
+eff_rank3_var2: 12
+eff_rank4_var2: 14
+eff_rank5_var2: 16
+eff_att1: Tăng Sát Thương
+eff_att2: Tăng ST Đánh Thường
+eff_att3: Tăng ST Trọng Kích
+
+- Tổng Quan: Cung Amos là Cung 5 sao nhận được từ Cầu Nguyện.
+
+## Câu Chuyện
+
+Thời thượng cổ hoang tàn, khi ấy vùng cỏ xanh nơi đất liền vẫn nhợt nhạt như xương.
+
+Thiếu nữ chân trần bước đi trên tuyết, theo dấu chân của vị vua trong tòa tháp cô đơn.
+
+Chàng vốn là người cô gái yêu mến, thế nhưng những cơn gió tàn khốc nào có thể hiểu được sự yếu đuối của con người.
+
+Chàng từng là kẻ thù của cô, thế nhưng sự truy đuổi của cô không chỉ vì báo thù.
+
+"Ta mơ thấy sóng biển và cát nhỏ, ta mơ về rừng xanh và đất liền rộng lớn"
+
+"Ta mơ thấy những chú heo rừng vui đùa trong lùm cây berry, ta mơ về tháp cao sừng sững"
+
+Cô từng nói với chàng bằng giọng điệu nhẹ nhàng, nhưng Thần Vương lại không nghe thấy.
+
+Thức tỉnh trong tình cảm mù quáng, cô nhận ra rằng chàng không có sự chân thành:
+
+Cũng giống như chàng luôn miệng nói lời yêu thương, nhưng quanh mình chỉ là những cơn gió rét.
+
+Đôi mắt sững sờ trước những cơn gió mạnh bất tận, người dân không thể đứng dậy,
+
+Lại nghĩ rằng họ đang thể hiện sự cung kính và thuần phục.
+
+Đó là thời đại chúa tể gió bắc cùng vua tháp cao chiến đấu,
+
+Nữ xạ thủ từng ngộ nhận mình nhận được sự sủng ái của chủ nô lệ.
+
+Cho đến phút cuối của đấu tranh, làn gió phản kháng trổi dậy,
+
+Cô cùng với thiếu niên vô danh, tinh linh vô danh, kỵ sĩ vô danh,
+
+Trèo lên ngọn tháp như những thanh kiếm đâm lên khoảng không sâu thẳm, khiêu chiến với vị vua quái gở trong gió.
+
+"Như vậy có thể rơi vào sự chú ý của anh ấy"
+
+Nhưng mà cho đến khoảnh khắc cô giương cung hướng về phía anh,
+
+Cho đến khoảnh khắc những con gió mạnh tụ lại đem cô xé rách ấy,
+
+Cô mới ý thức được khoảng cách giữa mình và chủ của những cơn gió.
+
+- Cốt Truyện: Cây cung này ban đầu được sử dụng bởi Amos, dùng để săn lợn rừng. Nó cũng là cây cung mà cô ấy dùng để bắn Decarabian.
+
+- Cầu nguyện thường Du Hành Thế Gian (Không giới hạn thời gian) - Tất Cả Cầu Nguyện Vũ Khí

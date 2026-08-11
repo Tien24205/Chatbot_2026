@@ -1,0 +1,21 @@
+# Nguyên Liệu
+
+## Thông Tin Cơ Bản
+
+type: Loại Vật Phẩm
+
+- Tổng Quan: Nguyên Liệu là những vật phẩm có thể thu thập và sử dụng trong Genshin Impact. Nguyên liệu nằm ở mục thứ năm trong Túi.
+
+- Đặc Sản Khu Vực: Đặc Sản Khu Vực chỉ có thể nhận ở một số khu vực nhất định. Chúng có thể được sử dụng cho nhiều thứ khác nhau như Đột Phá Nhân Vật, Đột Phá Vũ Khí, Nấu Ăn và Giả Kim.
+
+- Nguyên Liệu Thực Phẩm: Nguyên liệu được sử dụng trong Nấu Nướng.
+
+- Nguyên Liệu Rèn: Nguyên liệu được sử dụng trong Rèn.
+
+- Nguyên Liệu Chưa Phân Loại: Nguyên liệu có thể thu thập quanh Teyvat, chủ yếu được sử dụng trong Ghép.
+
+## Nguyên Liệu Trang Trí
+
+Nguyên liệu dùng để tạo đồ trang trí Nội Thất. Gỗ có thể được thu thập bằng cách đánh vào cây quanh Teyvat, trong khi Vải và Thuốc Nhuộm có thể được chế tạo trong giao diện Chế tạo Đồ Trang Trí của Tubby.
+
+- Nguyên Liệu Trồng Trọt: Nguyên liệu có thể được thu thập bằng Hộp Hạt Giống hoặc mua từ Ấm Trần Ca/Động Tiên Bách Bảo và Chu Du Bách Bảo.

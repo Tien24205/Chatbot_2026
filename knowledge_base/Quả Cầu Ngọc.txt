@@ -1,0 +1,37 @@
+# Quả Cầu Ngọc
+
+## Thông Tin Cơ Bản
+
+id: 14304
+type: Pháp Khí
+releaseDate: 2020-09-28
+quality: 3
+base_atk: 40
+2nd_stat_type: Tinh Thông Nguyên Tố
+2nd_stat: 20
+obtain: Cầu Nguyện
+passive: Kích Lưu
+effect: Sau khi kích hoạt phản ứng bốc hơi, điện cảm, đóng băng hoặc khuếch tán Nguyên Tố Thủy, trong 12s tăng tấn công (var1)%.
+eff_rank1_var1: 20
+eff_rank2_var1: 25
+eff_rank3_var1: 30
+eff_rank4_var1: 35
+eff_rank5_var1: 40
+eff_att1: ATK
+eff_att2: Phụ Thuộc Phản Ứng Nguyên Tố
+
+- Tổng Quan: Quả Cầu Ngọc là một pháp khí của Liyue.
+
+## Câu Chuyện
+
+Pháp Khí được đẽo gọt từ đá phỉ thúy, nhẹ bền, giá cả vừa phải, được giới giang hồ ưa thích.
+
+Do ngọai hình nhỏ gọn, gia công tinh tế, được người dân Liyue gọi là "Phỉ Ngọc Hoàn"
+
+Pháp khí này không chỉ là vật phòng thân hữu hiệu, mà còn là món đồ trang sức đẹp.
+
+## Có Mặt Trong
+
+- Cầu nguyện thường Du Hành Thế Gian (Không giới hạn thời gian)
+- Cầu Nguyện đề xuất cho người mới (Không giới hạn thời gian cho đến khi đủ 20 lần cầu nguyện)
+- Tất cả các sự kiện Cầu Nguyện Nhân Vật và Cầu Nguyện Vũ Khí

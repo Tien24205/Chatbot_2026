@@ -1,0 +1,32 @@
+# Sayu
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+quality: 4
+weapon: Trọng Kiếm
+element: Phong
+name: Sayu
+sex: Nữ
+birthday: 19 tháng 10
+constellation: Tiểu Lạc
+region: Inazuma
+affiliation: Shiyuumatsuban
+dish: Chống Nhức Đầu
+obtain: - Cầu Nguyện - Thiên Hà Rực Lửa
+event_name: Thiên Hà Rực Lửa
+releaseDate: 2021-08-10
+title: Ninja Mujina
+title2: Ninja Đặc Biệt "Shiyuumatsu Ban"
+voiceEN: w|LilyPichu|Lilypichu (Lily Ki)
+voiceCN: Sakula小舞
+voiceJP: w|Aya Suzaki|Aya Suzaki (洲崎綾)
+voiceKR: w|ko:이지현 (성우)|Lee Ji-hyeon (이지현)
+
+## Tổng Quan
+
+ là nhân vật hệ Phong chơi được trong Genshin Impact.
+
+Một ninja thuộc phái Shuumatsuban đang vật lộn với việc phát triển chiều cao. Sayu tin rằng ngủ có thể giúp cô phát triển, đó là lý do tại sao cô ấy thích ẩn trốn bằng cách sử dụng nhẫn thuật của mình để tạo cơ hội cho bản thân được ngủ nhiều hơn.
+
+- Cầu Nguyện Thường Du Hành Thế Gian (Không giới hạn thời gian) từ phiên bản 2.1 - Tất cả Sự Kiện Cầu Nguyện Nhân Vật và Sự Kiện Cầu Nguyện Vũ Khí từ phiên bản 2.1

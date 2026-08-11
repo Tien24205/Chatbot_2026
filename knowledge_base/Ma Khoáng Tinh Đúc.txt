@@ -1,0 +1,40 @@
+# Ma Khoáng Tinh Đúc
+
+## Thông Tin Cơ Bản
+
+title: Ma Khoáng Tinh Đúc
+id: 104013
+type: Nguyên Liệu Cường Hóa Vũ Khí
+invCategory: Vũ Khí
+quality: 3
+effect: Nguyên liệu EXP vũ khí, có chứa 10000 điểm EXP.
+description: Trong truyền thuyết, khoáng thạch tinh luyện đã ngưng đọng thành dòng ký ức chiến đấu trên mặt đất. Các binh khí hấp thu các ký ức này sẽ trở nên có linh hồn.
+source1: Rèn
+source2: Phần thưởng Sự Kiện Đột Xuất
+source3: Động Tiên Bách Bảo
+source4: Phần thưởng Sự Kiện
+source5: Máy Biến Đổi Tham Số
+
+## Tổng Quan
+
+Ma Khoáng Tinh Đúc là nguyên liệu cường hóa vũ khí chứa 10.000 EXP Vũ Khí.
+
+Nhận Ma Khoáng Tinh Đúc từ việc Rèn là chủ yếu. Cũng có thể nhận Ma Khoáng Tinh Đúc từ Nhật Ký Hành Trình, Rương, Sự Kiện Đột Xuất, Sự Kiện Hạn Giờ, Đổi Bụi Ánh Sáng và Động Tiên Bách Bảo.
+
+Theo tính toán, để đạt giới hạn rèn đến 300,000 điểm EXP Vũ Khí, cần rèn 30 Ma Khoáng Tinh Đúc (120 Mảnh Pha Lê) hoặc 150 Lương Khoáng Tinh Đúc (450 Mảnh Sắt Trắng), hay 750 Tạp Khoáng Tinh Đúcs (1.500 Mảnh Sắt). Các lần luyện khoáng tính chung EXP Vũ Khí, không phân biệt loại khoáng.
+
+Giới hạn chứa Ma Khoáng Tinh Đúc trong Túi là 9.999.
+
+- Rèn: Có hai loại công thức rèn Ma Khoáng Tinh Đúc.
+
+## Công Thức Giới Hạn
+
+Các công thức sau cho ra 1 Ma Khoáng Tinh Đúc, một lần rảnh rỗi có thể rèn được tối đa 5 Ma Khoáng Tinh Đúc. Khi dùng các công thức này, tính chung giới hạn rèn vũ khí là 300.000 cùng với Tạp Khoáng Tinh Đúc and Lương Khoáng Tinh Đúc.
+
+## Công Thức Không Giới Hạn
+
+Công thức này mở khóa khi đạt Hạng Mạo Hiểm 30, cho ra 6 Ma Khoáng Tinh Đúc, 50 EXP Mạo Hiểm và 10 EXP Yêu Thích. Khi dùng công thức này, giới hạn EXP Vũ Khí để luyện khoáng không được tính, cho nên chỉ cần đủ nguyên liệu là có thể luyện khoáng. Mỗi lần luyện khoáng giới hạn 1 Ma Khoáng Tinh Đúc, bù lại thời gian luyện rất nhanh. Không thể luyện khoáng bằng công thức này trong Ấm Trần Ca.
+
+## Nhật Ký Hành Trình
+
+Nhật Ký Hành Trình cho một lượng lớn Ma Khoáng Tinh Đúc khi đạt đến cấp nhất định. Trong Nhật Ký Hành Trình Trái Đất, có thể nhận tối đa tổng cộng 96 Ma Khoáng Tinh Đúc, và trong Bài Ca Trân Châu, có thể nhận tối đa tổng cộng 288 Ma Khoáng Tinh Đúc. Tổng cộng có thể nhận 384 Ma Khoáng Tinh Đúc.

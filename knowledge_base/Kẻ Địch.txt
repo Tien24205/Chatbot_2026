@@ -1,0 +1,33 @@
+# Kẻ Địch
+
+## Tổng Quan
+
+type: Hệ Thống Trò Chơi
+
+Kẻ Địch trong Genshin Impact là những sinh vật được tạo ra để có thể bị đánh bại bởi người chơi. Chúng được phân chia, dựa theo thuộc tính và loại (Kẻ Địch Thường, Kẻ Địch Tinh Anh, Thủ Lĩnh Thường và Thủ Lĩnh Tuần) hoặc bởi chủng loại của chúng nếu chúng thuộc một chủng loại (Cơ Quan Tự Động, Vực Sâu, Sinh Mệnh Nguyên Tố, Ma Thú Đột Biến, Bộ Tộc Hilichurl, Fatui, Các Thế Lực Loài Người Khác, Kẻ Thù Mạnh Đáng Nhớ).
+
+## Chủng loại Kẻ Thù
+
+Hầu hết kẻ thù trong trò chơi có thể được nhóm lại thành các Chủng Loại Kẻ Thù dựa trên bề ngoài và số loại không đa dạng của chúng. Kẻ thù không thuộc bất kỳ Chủng Loại Kẻ Thù nào được coi là Kẻ Thù Duy Nhất hoặc Kẻ Thù Đáng Chú Ý.
+Quái (Không Phải Người)
+- Cơ Quan Tự Động
+- Sinh Mệnh Nguyên Tố
+- Bộ Tộc Hilichurl
+- Ma Thú Đột Biến
+- Vực Sâu
+NPCs (Người)
+- Fatui (Kẻ Địch)
+- Các Thể Lực Loài Người Khác
+
+## Cấp Độ Và Chỉ Số Của Kẻ Địch
+
+Áp dụng cho Kẻ Địch, các chỉ số HP, ATK và DEF của chúng được xác định bởi Giá Trị Cơ Bản, Cấp Số Nhân và Số Nhân Đặc Biệt.
+
+Áp dụng cho Động Vật, phần lớn chúng có 0 DEF và không có khả năng chống lại sát thương. Toàn bộ cấp độ của chúng đều sở hữu chỉ số nhân HP là 1.
+
+Dữ liệu về chỉ số ATK vẫn đang được thử nghiệm và không được liệt kê.
+
+## Thông tin lề
+
+- Trước khi kích hoạt Thất Thiên Thần Tượng đầu tiên, đánh bại kẻ thù sẽ không rơi ra vật phẩm khi ở trong một bán kính nhất định gần điểm bắt đầu của trò chơi.
+- Nếu kẻ địch bị giết khi ở trạng thái Đóng Băng thì Nguyên Liệu và Thánh Di Vật sẽ rơi ra ngay lập tức, bỏ qua hoạt ảnh khi chết.

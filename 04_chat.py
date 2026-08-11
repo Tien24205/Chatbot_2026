@@ -22,7 +22,7 @@ def main() -> None:
         print("CHATBOT TRA CỨU KIẾN THỨC GAME")
         print("=" * 70)
         print(f"\n  {n} chunk · model {config.CHAT_MODEL} · ngưỡng {config.SIMILARITY_THRESHOLD}")
-        print("  Chủ đề: Liên Minh Huyền Thoại, Genshin Impact, Liên Quân Mobile, thuật ngữ game")
+        print("  Chủ đề: wiki Genshin Impact — nhân vật, vũ khí, thánh di vật, khu vực, thuật ngữ")
         print("\n  Lệnh: /nguon  /moi  /thoat\n")
 
         history: list[dict] = []

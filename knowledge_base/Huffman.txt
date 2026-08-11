@@ -1,0 +1,36 @@
+# Huffman
+
+## Thông Tin Cơ Bản
+
+realname: Huffman Schmidt
+region: Mondstadt
+title: Đội Kỵ Sĩ Tây Phong
+affiliation: Đội Kỵ Sĩ Tây Phong
+affiliation2: Câu lạc bộ người hâm mộ Barbara
+sibling: Mika
+siblingNote: em trai
+type: NPC
+voiceEN: Cory Yee
+voiceJP: Hayakawa Kei (ja|早川 慧)
+
+## Tổng Quan
+
+Huffman Schmidt là NPC ở Thành Mondstadt thuộc Mondstadt. Anh là anh trai của Mika.
+
+Anh xuất hiện lần đầu ở phần Mở Đầu nhiệm vụ ma thần, trong khi đang dọn dẹp tàn dư của sự kiện Phong Ma Long. Sau đó anh đóng vai trò quan trọng trong nhiệm vụ truyền thuyết Diluc, "Bằng Chứng Ngoại Phạm Của Anh Hùng Bóng Đêm".
+
+Có thể thấy anh thường đi tuần ở khu phố quanh Quán Rượu Thiên Sứ, ngoài ra anh cùng Swan trông coi chi phí và điều chế thuốc.
+
+## Tính Cách
+
+Những người tiếp xúc với Huffman đều cho rằng anh là một kỵ sĩ nghiêm túc trong công việc và đáng tin cậy; Paimon từng so sánh thái độ cống hiến hết mình của kỵ sĩ Tây Phong mà Huffman thể hiện với sự nhàn rỗi của cấp trên anh ấy, Đội Trưởng Kaeya. Nhà Lữ Hành biết thêm về tính cách của Huffman qua Sự Kiện Đồng Hành Suối Nguồn Trị Liệu: Albert nói rằng Huffman cũng ở trong câu lạc bộ người hâm mộ Barbara. Một nhiệm vụ của Đội Kỵ Sĩ là dọn dẹp giáo đường, và theo lời Barbara, cho dù Huffman dọn dẹp giáo đường - nơi làm việc của Barbara, anh vẫn rất nghiêm túc và kỷ luật; thậm chí Huffman chưa bao giờ bắt chuyện với cô. Thái độ theo đuổi thần tượng nghiêm túc của Huffman khác với cách theo đuổi cuồng nhiệt quá mức của những người hâm mộ khác, khiến Barbara rất ấn tượng. Khi biết được, cô đã nhờ người đưa chữ ký của cô cho Huffman.
+
+Huffman luôn năng nổ trong việc bảo vệ thành và người dân. Bởi vì làm quá nhiều nhiệm vụ, thỉnh thoảng anh phải nhờ Nhà Lữ Hành giúp đỡ. Anh cũng bộc lộ sự lo lắng khi đồng đội rơi vào hiểm cảnh.
+
+- Ngoại Hình: Bộ đồ Huffman mặc là đồng phục chuẩn của Đội Kỵ Sĩ Tây Phong.
+
+## Quá Khứ
+
+Câu chuyện của Klee có đề cập rằng Huffman là Kỵ Sĩ Tây Phong ít nhất được ba năm; trước khi Alice, mẹ của Klee rời Mondstadt, Huffman có tiếp xúc với cô. Anh từng mắng hai mẹ con Klee, có thể vì những rắc rối mà họ gây ra.
+
+- Huffman là cách gọi khác của Hoffmann, họ của người Đức đặt theo chức danh nghề nghiệp - chủ đất.

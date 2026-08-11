@@ -1,0 +1,15 @@
+# Bóng Hoa Gió
+
+## Tổng Quan
+
+type: Khám Phá
+type2: Bong Bóng
+world: Teyvat
+
+Bóng Hoa Gió là dụng cụ được tìm thấy trong khiêu chiến bắn cung Bách Phát Bách Trúng trong Lễ Hội Hoa Gió.
+
+Khi chúng được xuất hiện, người chơi sẽ được tăng thêm điểm. Đánh trúng nhận ít điểm hơn số điểm nhận được từ Bóng Sắc Màu.
+
+- Lời Mời Của Hoa Gió, Bách Phát Bách Trúng.
+
+- Chúng cũng có thể được triển khai với đạo cụ Bong Bóng Kỉ Niệm Lễ Hội Hoa Gió. - Một thay đổi với thiết kế khác, nhưng có cùng lối chơi, có thể tìm thấy trong Cơ Quan Giải Trí - Xạ Thủ Cừ Khôi.

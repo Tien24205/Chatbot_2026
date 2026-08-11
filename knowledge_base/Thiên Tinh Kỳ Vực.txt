@@ -1,0 +1,51 @@
+# Thiên Tinh Kỳ Vực
+
+## Tổng Quan
+
+type: Hệ Thống Trò Chơi
+
+Thiên Tinh Kỳ Vực là một hệ thống trò chơi cho phép người dùng tự sáng tạo nội dung (UGC) trong Genshin Impact.
+
+Hoàn thành để mở khóa. Người chơi truy cập vào tính năng này thông qua Giao Diện Paimon hoặc bằng biểu tượng truy cập nhanh.
+
+- Ải Kỳ Vực: Ải Kỳ Vực, hay còn được gọi là Kỳ Vực, là những màn chơi do người chơi tự tạo ra bằng cách sử dụng
+
+- Sandbox Thiên Tinh: Sandbox Thiên Tinh là công cụ chỉnh sửa cho Thiên Tinh Kỳ Vực. Tính năng này chỉ được hỗ trợ trên PC. Xem Hướng Dẫn Kỳ Tài để biết hướng dẫn sử dụng công cụ chỉnh sửa này.
+
+## Đại Sảnh Kỳ Vực
+
+Người chơi phải vào Đại Sảnh Kỳ Vực để chơi các Ải Kỳ Vực. Đại Sảnh Chung có thể vào tự do, tối đa 20 người và có giao diện dựa trên chủ đề hiện tại của Thiên Tinh Kỳ Vực. Đại Sảnh Riêng Tư có thể được tùy chỉnh bởi người chơi, tối đa 12 người và tồn tại trong 3 giờ kể từ khi tạo.
+
+## Người Mẫu Kỳ Vực
+
+Người Mẫu Nam và Người Mẫu Nữ là hình mẫu đại diện của người chơi trong Thiên Tinh Kỳ Vực. Người chơi có thể sử dụng chúng trong chế độ này và dùng để thám hiểm bên ngoài Teyvat. Ngoại hình của chúng có thể được tùy chỉnh hoàn toàn, bao gồm màu da, kiểu tóc, hình dáng mắt, trang điểm và trang phục.
+
+## Lời Mời Kỳ Vực - Thức Tỉnh Thú Vị
+
+Hoàn thành các nhiệm vụ trong Lời Mời Kỳ Vực - Thức Tỉnh Thú Vị để nhận, Ngoại Hình, Động Tác & Biểu Cảm Tương Tác và Nguyên Liệu Rực Rỡ. Sự kiện này chỉ khả dụng trong vòng 14 ngày sau khi thức tỉnh Người Mẫu đầu tiên.
+
+## Ngoại Hình
+
+Ngoại Hình được dùng để tùy chỉnh Người Mẫu. Chúng có các bậc như: Truyền Thuyết (5 sao), Siêu Việt (4 sao), Hoành Tráng (3 sao) và Tinh Xảo (2 sao).
+
+Các vật phẩm này có thể nhận được từ Ca Tụng và từ nhiều hình thức chơi khác. Danh Mục Ngoại Hình có thể được dùng để chế tạo Ngoại Hình cùng với Nguyên Liệu Rực Rỡ.
+
+Ngoại Hình có thể được thêm vào Danh Sách Nguyện Vọng và tặng cho Bạn Bè sau khi Cấp đạt 3. Các tùy chỉnh khác nhau có thể được lưu vào Kết Hợp Ngoại Hình.
+
+## Ca Tụng
+
+Ca Tụng là hệ thống Cầu Nguyện dành cho Thiên Tinh Kỳ Vực. Ca Tụng Thường "Vọng Âm Kỳ Ngộ" sử dụng và phần thưởng sẽ bao gồm Danh Mục Ngoại Hình (Danh Mục Bộ và Danh Mục Thành Phần), Biểu Cảm Tương Tác và Động Tác Tương Tác.
+
+Ca Tụng Sự Kiện sử dụng và phần thưởng sẽ bao gồm Bộ Ngoại Hình Truyền Thuyết (5 sao), Bộ Ngoại Hình Siêu Việt (4 sao) và Thành Phần Ngoại Hình Hoành Tráng (3 sao).
+
+Tùy vào loại và phẩm chất, các vật phẩm trùng lặp sẽ cho ra Đột Phá Ngoại Hình,, hoặc Nguyên Liệu Rực Rỡ.
+
+- Cửa Hàng Thiên Tinh: Sử dụng để nhận Bộ Ngoại Hình, Thành Phần Ngoại Hình và Trang Điểm Mặt. Danh sách vật phẩm này được cập nhật thường xuyên.
+
+- Cấp Thiên Tinh Kỳ Vực: Tăng Cấp Thiên Tinh Kỳ Vực để nhận, Nguyên Liệu Rực Rỡ, Bản Mẫu Thiết Kế Đại Sảnh, khả năng tạo Đại Sảnh Riêng Tư và khả năng đột phá Người Mẫu.
+
+- Khám Phá Kỳ Vực: Hoàn thành các nhiệm vụ trong Khám Phá Kỳ Vực để nhận, Ngoại Hình và Nguyên Liệu Rực Rỡ.
+
+## Sử Ký
+
+Sử Ký là Nhật Ký Hành Trình sử dụng EXP Sử Ký kiếm được từ nhiệm vụ hàng tuần để nhận các phần thưởng như:, Động Tác & Biểu Cảm Tương Tác, Nguyên Liệu Rực Rỡ và các vật phẩm khác. Nó bao gồm Sử Ký Thiên Không (loại cơ bản), Sử Ký Vượt Muôn Cõi và Sử Thi Vượt Muôn Cõi.

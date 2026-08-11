@@ -1,0 +1,27 @@
+# Đền Đáp Của Lửa Tona
+
+## Tổng Quan
+
+type: Hệ Thống Trò Chơi
+group: Hệ Thống Hiến Tế
+region: Natlan
+area: Lòng Chảo Vạn Hoa
+subarea: Đầu Trường Lửa Thánh
+
+Đền Đáp Của Lửa Tona là Hệ Thống Hiến Tế có thể được nâng cấp bằng Ấn Hỏa. Có thể hiến tế tại Vòng Lửa Tona trong Đền Pax, Natlan.
+
+Trước Phiên Bản 5.8, cấp tối đa bị giới hạn ở 20, 30 và 40 lần lượt trong Phiên bản 5.0-5.1, 5.2-5.4, và 5.5-5.7 mặc dù vẫn có thể thu thập thêm Ấn Hỏa. Trò chơi sẽ ngăn người chơi hiến tế và hiển thị lỗi "Đã đạt giới hạn cấp tối đa cho phiên bản này."
+
+- Giáo Trình: Ấn Hỏa và Vòng Lửa Tona
+
+## Phần Thưởng
+
+Mỗi cấp hiến tế yêu cầu 30. Cần tổng cộng 1,500 Ấn Hỏa để đạt cấp hiến tế tối đa. Khi đạt cấp tối đa sẽ nhận được thành tựu.
+
+Các cấp trừ cấp 50 sẽ thưởng:
+
+Cấp 50 sẽ thưởng:
+
+Mỗi cấp tương ứng sẽ thưởng:
+
+- Từ ' là một động từ trong tiếng Nahuatl Cổ, có nghĩa là "tỏa sáng" hoặc "ấm áp".

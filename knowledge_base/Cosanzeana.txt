@@ -1,0 +1,37 @@
+# Cosanzeana
+
+## Thông Tin Cơ Bản
+
+type: NPC Đại Thế Giới
+group: Melusine
+region: Fontaine
+location: Fontaine
+
+- Tổng Quan: Cosanzeana là một NPC Đại Thế Giới tại Làng Merusea, Fontaine.
+
+- Tiểu Sử: (Sẽ được bổ sung.)
+
+- Ngoại hình: (Sẽ được bổ sung.)
+
+- Lời Thoại Nhàn Rỗi: Hoa xứ người, hãy mau lớn... : "Cosanzeana sẽ chăm sóc cẩn thận những bông hoa này!"
+
+## Hội Thoại
+
+(Có sẵn sau khi hoàn thành Việc Tốt Khó Thành)
+Cosanzeana: A, hôm nay bạn cũng đến vườn hoa của Cosanzeana à?
+Những bông hoa vẫn ổn chứ?
+:Cosanzeana: Sau khi máy móc xấu xí bị đào lên, sẽ không còn Nguyên Thể Khe Nứt xấu xa gây rắc rối nữa.
+:Cosanzeana: Những bông hoa kỳ lạ quý giá đang phát triển khỏe mạnh dưới sự chăm sóc cẩn thận của Cosanzeana!
+Việc trồng hoa mới vẫn thuận lợi chứ?
+:Cosanzeana: Ừm, Cosanzeana tạm thời vẫn chưa có manh mối gì.
+:Cosanzeana: Nhưng nếu có thể khiến lá của hoa mọc thành hình dạng giống như Tidalga, nói không chừng có thể khiến mọi người ở hội chợ làm vườn bất ngờ đấy!
+(Sau bước 3 của Cơn Mưa Sắp Đến)
+Về chấn động lúc nãy...
+:Cosanzeana: May mà vườn hoa không sao, khi nãy đáng sợ thật...
+:Cosanzeana: Cứ tưởng lại có kẻ xấu muốn làm hỏng vườn hoa của Cosanzeana... Khó khăn lắm mới cùng (Nhà Lữ Hành) trồng được vườn hoa như vậy, nhất định phải bảo vệ thật cẩn thận!
+Chỉ tình cờ đi ngang qua.
+:Cosanzeana: Ừm, mang đến tâm trạng tốt cho người đi đường chính là một trong những lý do tồn tại của vườn hoa. Nhìn thấy vườn hoa, chắc chắn tâm trạng của bạn cũng rất tốt nhỉ!
+
+## Từ Nguyên
+
+- Tên của Cosanzeana đến từ tên truyền thống của Rumani,. Ileana Cosânzeana là một nhân vật thường xuất hiện trong truyện cổ tích và thần thoại Romania. Cô luôn được miêu tả là một nàng tiên hoặc công chúa trẻ trung, xinh đẹp và tốt bụng.

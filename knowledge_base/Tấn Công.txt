@@ -1,0 +1,29 @@
+# Tấn Công
+
+## Tổng Quan
+
+type: Thuộc Tính
+type2: Chiến Đấu
+type3: Hệ Thống Trò Chơi
+
+Tấn Công, hay còn được gọi là ATK (Attack), là một chỉ số để tính toán mức độ sát thương gây ra của một Nhân Vật (hoặc Kẻ Địch). Tất cả cách tính toán sát thương ngoại trừ một số Phản Ứng Nguyên Tố cụ thể đều tỉ lệ thuận với ATK.
+
+Công thức tính Tấn Công là:
+\text{ATK} = \left[(\text{ATK}_\text{Nhân Vật} + \text{ATK}_\text{Vũ Khí})\times(1 + % \text{ Tăng ATK})\right]+\text{Tăng Điểm ATK}
+
+Trong đó:
+- {\textstyle \text{ATK là giá trị tấn công cuối cùng của nhân vật, có thể xem được từ màn hình thuộc tính của nhân vật.
+- {\textstyle \text{ATK}_\text{Nhân Vật là giá trị điểm tấn công nhận được từ việc lên cấp và Đột Phá nhân vật.
+- {\textstyle \text{ATK}_\text{Vũ Khí là giá trị điểm tấn công của vũ khí.
+- {\textstyle \text{Tăng} %\text{ATK là tổng ATK% (hay %Tấn Công) nhận thêm từ tất cả các nguồn, bao gồm buff từ Thánh Di Vật, nội tại vũ khí, kỹ năng, đột phá nhân vật, v.v. Lưu ý rằng ATK % khác với Tăng Sát Thương (DMG %).
+- {\textstyle \text{Tăng Điểm ATK là chỉ số điểm tấn công nhận được từ Thánh Di Vật, kỹ năng, thực phẩm, v.v.
+
+Trong màn hình thuộc tính nhân vật, ATK Căn Bản (Nhân Vật + Vũ Khí) của một nhân vật hiển thị màu trắng trong khi phần ATK cộng thêm có màu xanh.
+
+- Cộng Hưởng Nguyên Tố: Cộng Hưởng Nguyên Tố Hỏa Nhiệt Tình tăng 25% tấn công của nhân vật trong đội.
+
+- Chỉ Số Phụ: Các vũ khí dưới đây có chỉ số phụ là Tấn Công.
+
+- Nội Tại: Các vũ khí dưới đây có Tấn Công là một phần trong nội tại.
+
+- Giảm Tấn Công: Các kỹ năng sau đây có thể giảm tấn công của kẻ địch.

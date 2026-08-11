@@ -1,0 +1,25 @@
+# Cảng Ormos
+
+## Thông Tin Cơ Bản
+
+type: Phân Khu
+region: Sumeru
+subregion: Rừng Dharma
+area: Thung Lũng Ardravi
+
+- Tổng Quan: Kaveh chịu trách nhiệm thiết kế và thi công cầu vòm cho Cảng Ormos.
+
+- Babak — Chủ Tiệm - Butrus — Người Bán Cá - Jahangir — Chủ Tiệm Ăn - Loumelat — Thợ Câu Sumeru - Qiuwei — Thương Nhân - Rama — Thương Nhân Gia Vị
+
+## Câu Chuyện
+
+Theo học giả Farahnaz, Cảng Ormos ban đầu được biết đến với cái tên Orghana, thành phố của "Hai Mươi Chín Dey". Các vị "Dey" hay còn được gọi là "minh chủ" này đều là thủ lĩnh của các băng cướp biển, những người đã liên minh với nhau để tạo ra sự phân chia quyền lực công bằng và duy trì hòa bình, thịnh vượng. Tuy nhiên, đấu đá nội bộ dẫn đến sự mất ổn định và cuối cùng tất cả các "Dey" đều đã bị xóa sổ bởi cuộc tấn công của một con hải thú khổng lồ.
+
+Trong quyển Câu Chuyện Về Mục Đồng Và Bình Ma cho rằng "tòa thành của 29 Dey" được gọi là Orghana, và Cảng Ormos thì được đề cập riêng biệt trong cùng một quyển sách. Cuốn sách lấy bối cảnh 15 năm sau khi xây dựng Cảng Ormos, một người du mục trẻ tuổi khai quật được một cái bình bạc có Trấn Linh tại Đồi Ca, nhưng độ tin cậy của cuốn sách bị nghi ngờ trong mô tả của nó.
+
+## Từ Nguyên
+
+- là một từ tiếng Hy Lạp mang ý nghĩa là "vịnh nhỏ."
+- Cảng Ormos cũng có thể ám chỉ đến, nằm ở miền nam Iran và kiểm soát một thành phố cảng lớn dọc theo, tương tự như vị trí của Cảng Ormos ở miền nam Sumeru. Từ Nguyên của Ormus/Hormuz được tranh luận rất nhiều, nhưng giả thuyết phổ biến nhất là nó có nguồn gốc từ, tên tiếng Ba Tư Trung cổ của vị thần sáng lập nên Hỏa Giáo và Chúa Tể Trí Tuệ,.
+-, được đặt theo tên của Vương Quốc Ormus/Hormuz, được người Hy Lạp cổ gọi là. Đây có thể là nguồn gốc của "Orghana" trong Câu Chuyện Về Mục Đồng Và Bình Ma.
+- Cái tên Ormazd, có khả năng bắt nguồn từ Ohrmuzd, được đặt theo tên của Vương Quốc Ormus ngoài đời thực, xuất hiện trong Câu Chuyện Về Shiruyeh Và Shirin là tên của người cai trị thứ ba đến cuối cùng của thành phố cổ Gurabad. Vẫn còn phải xem liệu có mối liên hệ nào tồn tại giữa Ormos và Ormazd trong thế giới Teyvat hay không.

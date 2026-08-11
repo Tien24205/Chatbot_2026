@@ -1,0 +1,23 @@
+# Phái Đi Thám Hiểm
+
+## Tổng Quan
+
+type: Hệ Thống Trò Chơi
+group: Giao Diện
+group2: Hoạt Động
+
+Phái Đi Thám Hiểm là Hệ Thống Trò Chơi mà người chơi có thể cử Nhân Vật để thu thập Nguyên Liệu hoặc Mora.
+
+Hệ Thống Phái Đi Thám Hiểm mở khóa ở Hạng Mạo Hiểm 14 khi hoàn thành. Nó có thể truy cập vào bằng cách nói chuyện với Katheryne và chọn lựa chọn hội thoại của Katheryne ở bất cứ khu vực nào có Hiệp Hội Nhà Mạo Hiểm. Vị trí Phái Đi Thám Hiểm được mở khóa khi Thất Thiên Thần Tượng bao phủ Khu Vực của khu vực tương ứng được mở khóa.
+
+## Tổng Quan
+
+Bất kỳ nhân vật nào ngoại trừ Nhà Lữ Hành đều có thể được cử đi thám hiểm trong 4, 8, 12 hoặc 20 giờ để nhận phần thưởng (không thể gửi nhân vật đã bị ngã xuống). Nhân vật sau khi được phái đi vẫn có thể dược sử dụng trong đội hình chiến đấu như thường. Phần thưởng nhận được tùy thuộc vào nơi nhân vật được phái đi và số lượng mỗi tài nguyên nhận được có thể thay đổi. Bộ đếm thời gian cho mỗi lần Đi Thám Hiểm vẫn sẽ hoạt động ngay cả khi người chơi không có trong game.
+
+Người chơi có thể triệu hồi lại nhân vật trong khi đang được phái đi, nhưng sẽ không nhận được bất kỳ phần thưởng nào.
+
+Khi hệ thống Phái Đi Thám Hiểm mở khóa lần đầu, người chơi chỉ có thể phái đi hai nhân vật cùng một lúc. Bằng cách tăng Hạng Mạo Hiểm, người chơi có thể tăng giới hạn giới hạn Phái Đi, giúp tăng số nhân vật được phái đi cùng một lúc.
+
+- Hiệu Quả Nhân Vật: Một số nhân vật sở hữu hiệu quả Thiên Phú Sinh Tồn có lợi cho việc Phái Đi Thám Hiểm.
+
+- Địa Điểm Thám Hiểm: Mondstadt Liyue Inazuma Sumeru Fontaine Natlan

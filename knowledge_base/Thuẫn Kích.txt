@@ -1,0 +1,41 @@
+# Thuẫn Kích
+
+## Thông Tin Cơ Bản
+
+id: 13302
+type: Vũ Khí Cán Dài
+releaseDate: 2020-09-28
+quality: 3
+base_atk: 40
+2nd_stat_type: Tỷ Lệ Tấn Công
+2nd_stat: 5,1%
+obtain: Rương
+passive: Trầm Trọng
+effect: Tạo thành thêm (var1)% công kích cho kẻ địch bị tấn công thường đánh trúng. Mỗi 10s mới thi triển 1 lần.
+eff_rank1_var1: 160
+eff_rank2_var1: 200
+eff_rank3_var1: 240
+eff_rank4_var1: 280
+eff_rank5_var1: 320
+eff_att1: Nội Tại kích hoạt bằng Tấn Công Thường
+
+- Tổng Quan: Thuẫn Kích là một vũ khí cán dài của Liyue.
+
+## Cấu Chuyện
+
+Thanh thuẫn kích trong tay người học võ cũng có phần uy mãnh, đó bởi vì đạo lý "một thước dài, một thước mạnh".
+Trên thanh thuẫn kích lắp thêm chiếc rìu nhỏ, mặc dù có chút thô kệch nhưng tăng thêm phần uy lực, dễ dàng sử dụng trong môi trường phức tạp.
+
+Loại binh khí dài này được coi trọng bởi đa số lực sĩ giỏi võ nghệ, cũng chính là tượng trưng cho danh dự và sự dũng cảm của quân sĩ Thiên Nham Quân.
+
+Mặc dù cảng Liyue ngày nay rất yên bình, nhưng trên đường phố vẫn có thể thấy được hình dáng của các dũng sĩ nắm thuẫn kích trong tay.
+
+Thủ lĩnh của Thiên Nham Quân dũng cảm tiến về phía trước, đảm nhiệm nhiệm vụ tiên phong và khiên chắn nơi hiểm địa.
+
+Bảo vệ bọn họ không chỉ có những đồng đội trung thành, mà còn bởi võ nghệ thành thục đã diễn tập không ngừng nghỉ trong nhiều năm.
+
+Đối với bất kỳ kẻ địch nào dám đến gần, sĩ quan tiền tuyến đều sẽ vung lên thanh thuẫn kích nguy hiểm chết người.
+
+Và trong hàng binh sĩ vững chắc như thạch, bọn họ chính là nòng cốt của Thiên Nham Trận.
+
+- Ngẫu nhiên tìm thấy trong Rương có phẩm chất từ Cao Cấp trở lên ở Liyue.

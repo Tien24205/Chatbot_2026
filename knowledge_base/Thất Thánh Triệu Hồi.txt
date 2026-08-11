@@ -1,0 +1,95 @@
+# Thất Thánh Triệu Hồi
+
+## Tổng Quan
+
+type: Hệ Thống Trò Chơi
+group: Tiến Trình
+group2: Hoạt Động
+
+Thất Thánh Triệu Hồi là chế độ chơi vĩnh viễn trong Genshin Impact, được giới thiệu trong Phiên Bản 3.3.
+
+Có thể mở khóa nhiệm vụ hướng dẫn Hãy Thử "Thất Thánh Triệu Hồi" Nào! khi đạt Hạng Mạo Hiểm 32 và hoàn thành Nhiệm Vụ Ma Thần Mở Đầu: Màn 3 - Bài Ca Về Rồng Và Tự Do.
+
+## Lối Chơi
+
+Nhà Lữ Hành có thể mời các Nhân Vật và NPC tham gia khiêu chiến trong chế độ PvE. Nhà Lữ Hành cũng có thể thi đấu cùng bạn bè, tuy nhiên sẽ không có phần thưởng cho chế độ PvP.
+
+Về luật chơi cụ thể, có thể xem Thất Thánh Triệu Hồi/Quy Tắc.
+
+## Thẻ Bài
+
+Có hai nhóm thẻ bài là Thẻ Nhân Vật và Thẻ Hành Động. Nhà Lữ Hành có thể nhận được chúng thông qua Cửa Hàng Thẻ Bài, hoàn thành khiêu chiến quyết đấu và tăng Cấp Bài Thủ.
+
+Tổng cộng Tiền May Mắn có thể nhận được từ các giai đoạn (không bao gồm Khiêu Chiến Khách Mỗi Tuần). Ngoài ra, Nhà Lữ Hành có thể nhận thêm 23.600 Xu May Mắn từ Thưởng Quyết Đấu trong Sổ Tay Bài Thủ và 500 Xu May Mắn từ Thưởng Cấp Bài Thủ.
+
+## Thẻ Nhân Vật
+
+Thẻ Nhân Vật có ba loại kỹ năng có thể sử dụng: Tấn Công Thường, Kỹ Năng Nguyên Tố và Kỹ Năng Nộ. Một số thẻ bài có thể sở hữu nhiều loại Tấn Công Thường hoặc Kỹ Năng Nguyên Tố.
+
+Cách nhận Thẻ Nhân Vật dựa trên Nhân Vật Chơi Được: Có thể nhận được bằng cách giành chiến thắng trong thử thách độ khó "Đánh Giải Trí" tại Mời Quyết Đấu. Riêng các thẻ Diluc, Kaeya, Sucrose, và Fischl sẽ được nhận trong quá trình thực hiện nhiệm vụ hướng dẫn Hãy Thử "Thất Thánh Triệu Hồi" Nào!.
+
+Cách nhận Thẻ Nhân Vật dựa trên Kẻ Địch: Có thể nhận được bằng cách giành chiến thắng trong thử thách độ khó "Đánh Giải Trí" tại Khiêu Chiến Quán Rượu.
+
+## Thẻ Hành Động
+
+Có 3 loại Thẻ Hành Động, mỗi loại có các hiệu ứng khác nhau:
+- Thẻ Trang Bị: Được trang bị cho nhân vật để áp dụng các hiệu ứng tăng cường cho nhân vật đó.
+- Thẻ Vũ Khí: Dựa trên các loại Vũ Khí.
+- Thẻ Thánh Di Vật: Dựa trên các Thánh Di Vật và Bộ Thánh Di Vật.
+- Thẻ Thiên Phú: Dựa trên Thiên Phú và Cung Mệnh của Nhân Vật.
+- Thẻ Sự Kiện: Sẽ kích hoạt hiệu ứng một lần duy nhất ngay khi sử dụng.
+- Thẻ Cộng Hưởng Nguyên Tố: Cung cấp hiệu ứng dựa trên việc có hai Thẻ Nhân Vật cùng nguyên tố trong đội hình.
+- Thẻ Thức Ăn: Tăng cường thuộc tính cho nhân vật sử dụng món ăn đó.
+- Thẻ Bí Truyền: Là những thẻ bài mà người chơi chỉ có thể sử dụng một lần mỗi ván đấu và chắc chắn xuất hiện trong xấp bài mở đầu.
+- Thẻ Không Thuộc Nhóm: Cung cấp các hiệu ứng không nằm trong các nhóm trên.
+- Thẻ Hỗ Trợ: Có thể đặt vào Khu Vực Hỗ Trợ để liên tục cung cấp các hiệu ứng hỗ trợ.
+- Thẻ Đồng Đội: Dựa trên các nhân vật NPC.
+- Thẻ Vật Phẩm: Dựa trên các Vật Phẩm.
+- Thẻ Sân / Địa Danh: Dựa trên các Địa Danh.
+- Thẻ Không Thuộc Nhóm: Cung cấp các hiệu ứng không nằm trong các nhóm trên
+
+## Cấp Bài Thủ
+
+Nhà Lữ Hành có thể tham gia Thất Thánh Triệu Hồi để nhận EXP Bài Thủ nhằm tăng Cấp Bài Thủ.
+
+Tại một số Cấp Bài Thủ nhất định, sau khi tích lũy đủ số EXP cần thiết, Nhà Lữ Hành cần phải hoàn thành Thử Thách Đột Phá Bài Thủ để có thể thăng cấp.
+
+Có thể nhận tổng cộng EXP Bài Thủ từ các giai đoạn (không bao gồm Khiêu Chiến Khách Mời Hàng Tuần).
+
+- Sổ Tay Bài Thủ: Sổ Tay Bài Thủ có các nhiệm vụ giúp Nhà Lữ Hành nhận được nhiều phần thưởng.
+
+- Thử Thách Ngoài Thế Giới: Sử dụng Hộp Bài Thần Bí để tìm kiếm bài thủ trên Bản Đồ. Có hai mức độ khó là Khiêu Chiến Khám Phá và Quyết Đấu. Hoàn thành để nhận EXP Bài Thủ và thẻ bài.
+
+## Khách Mời Hàng Tuần
+
+Mỗi tuần sẽ có tối đa 4 khách mời đến thăm Quán Rượu Đuôi Mèo. Ban đầu, mỗi ngày sẽ có 1 khách mời xuất hiện, nhưng sau khi đạt Cấp Bài Thủ 4, tất cả họ sẽ cùng xuất hiện vào Thứ Hai. Đánh bại họ trong các trận quyết đấu để nhận EXP Bài Thủ.
+
+Do tất cả khách mời đều xuất hiện vào Thứ Hai từ Cấp Bài Thủ 4 trở lên, nên nếu không phải là Chủ Nhật, phần thưởng khi hoàn thành khiêu chiến khách mời sẽ không thay đổi vào ngày hôm sau kể cả khi người chơi tăng Cấp Bài Thủ giữa các ngày có khiêu chiến do danh sách khiêu chiến hiện có sẽ không đổi.
+
+Một số đối thủ trong Khiêu Chiến Khách Mời Hàng Tuần sẽ thay đổi xấp bài dựa trên Cấp Bài Thủ của người chơi, chẳng hạn như thay đổi Đội Hình Thẻ Nhân Vật Xuất Chiến, thay đổi Đội Hình Dự Bị hoặc điều chỉnh các Thẻ Hành Động.
+
+## Khiêu Chiến Quán Rượu
+
+Khiêu Chiến Quán Rượu là những bài kiểm tra kỹ năng nhận được tại Quán Rượu Đuôi Mèo. Có hai mức độ khó là "Đánh Giải Trí" và "Đánh Nghiêm Túc". Hãy hoàn thành các mục tiêu khiêu chiến để nhận được Thẻ Nhân Vật và Thẻ Thiên Phú tương ứng.
+
+- Bảng Mời Quyết Đấu: Nhà Lữ Hành có thể sử dụng Bảng Mời Quyết Đấu để mời các nhân vật thông qua Danh Sách Bài Thủ hoặc ghép đội với những người chơi khác trong Chế Độ Nhiều Người Chơi.
+
+## Chế Độ Nhiệt Huyết
+
+Chế Độ Nhiệt Huyết sẽ mở trong thời gian giới hạn theo định kỳ mỗi Phiên Bản. Mỗi phiên bản sẽ có các quy tắc đặc biệt, mang đến trải nghiệm hoàn toàn khác biệt so với lối chơi Thất Thánh Triệu Hồi thông thường.
+
+Nhà Lữ Hành có thể tham gia Chế Độ Nhiệt Huyết tại Bảng Mời Quyết Đấu của Quán Rượu Đuôi Mèo sau khi đạt Cấp Bài Thủ 4.
+
+- Đấu Trường Vô Địch: Đấu Trường Vô Địch là chế độ chơi PvP nơi Nhà Lữ Hành phải giành chiến thắng liên tiếp để đạt được vinh quang cuối cùng.
+
+- Nghiên Cứu Tập Luyện: Nghiên Cứu Tập Luyện là một chế độ chơi PvE trong Sự Kiện với nhiều thử thách và các quy tắc điều chỉnh đa dạng.
+
+## Xem Lại Trận Đấu
+
+Tính năng Xem Lại Trận Đấu cho phép Nhà Lữ Hành xem lại các trận đấu trước đó của mình. Hệ thống sẽ tự động lưu tối đa 3 trận Trận Đấu Gần Đây và cho phép lưu tối đa 5 trận Trận Đấu Yêu Thích.
+
+Menu Xem Lại Trận Đấu hiển thị Thẻ Nhân Vật của người chơi và đối thủ, kết quả, loại hình trận đấu, ngày và thời gian diễn ra trận đấu.
+
+Trong khi xem lại, trận đấu có thể được phát bình thường, tạm dừng hoặc tua nhanh.
+
+- Nhạc Nền: Tùy thuộc vào Hộp Bài đang sử dụng, các bản nhạc nền khác nhau sẽ được phát trong các trận đấu Thất Thánh Triệu Hồi:

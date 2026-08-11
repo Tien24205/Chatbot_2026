@@ -1,0 +1,68 @@
+# "Bánh Lái Rỉ Sét"
+
+## NPC
+
+type: Địa Điểm Đáng Chú Ý
+area: Khu Rừng Erinnyes
+region: Fontaine
+
+Trên boong tàu
+- Brek
+- Choudy — "Tôi Còn Uống Được! Tôi Chưa Say!"
+- Permingeat — Phó Hai "Bánh Lái Rỉ Sét"
+- Pitot — Người Cầm Lái "Bánh Lái Rỉ Sét"
+
+Tầng dưới
+- Ciment
+- Freeman — "Người Mù"
+- Gacic
+- Nadia (Sau khi hoàn thành Chuyến Săn Kho Báu Như Ý Nguyện)
+- Urville (Sau khi hoàn thành Chuyến Săn Kho Báu Như Ý Nguyện)
+
+Dưới boong tàu
+- Choneaux — Phóng Viên
+- Debal
+- Lasselin — Thuyền Phó "Bánh Lái Rỉ Sét"
+- "Tilla" — Người Đưa Tin
+
+Dọc theo bờ biển
+- Chambelland
+
+- Tương Tác: Các mục tương tác được liệt kê theo thứ tự đường khám phá thông thường.
+
+## Mảnh Báo Nhuốm Bẩn
+
+Mảnh Báo Nhuốm Bẩn nằm ở trên bàn trên boong tàu bên cạnh Pitot.
+Mảnh Báo Nhuốm Bẩn: (Chuyên mục đời sống của tờ báo Chim Hơi Nước cũ nát, bị cắt ra rồi vứt ở đây.)
+Mảnh Báo Nhuốm Bẩn: "...Dự kiến lượng nhập khẩu trà từ Trầm Ngọc Cốc sẽ giảm trong quý tới... Khi đó, giá thị trường của trà và sản phẩm từ trà của Liyue sẽ tăng đến khoảng... Mora..."
+Mảnh Báo Nhuốm Bẩn: (Mảnh báo có vài dòng được khoanh tròn dưới góc phải, đánh dấu sao, lại đánh thêm ba dấu chấm than.)
+(Kiểm tra nội dung khoanh tròn.)
+:Mảnh Báo Nhuốm Bẩn: "Gần đây, những kẻ cầm đầu tổ chức tội phạm 'Câu Lạc Bộ Quần Mới Lạ' đã bị bắt giữ. Sự cân bằng quyền lực ngầm ở Cảng Lumidouce e là sẽ bị 'Spina di Rosula' phá vỡ..."
+;(Quay lại lựa chọn)
+(Kiểm tra nội dung đánh dấu sao)
+:Mảnh Báo Nhuốm Bẩn: "Kế hoạch tuyến đường thủy ở Cảng Lumidouce đã bị gác lại! Công nhân bị mắc kẹt tại bến cảng, một sự đãi ngộ huyền bí..."
+;(Quay lại lựa chọn)
+(Chẳng có gì đáng xem.)
+:Mảnh Báo Nhuốm Bẩn: (Bạn vứt mảnh báo này đi.)
+
+## Mảnh Giấy Rách Nát
+
+Mảnh Giấy Rách Nát có thể được tìm thấy trong một chiếc hộp ở chân dốc hướng ra biển.
+Mảnh Giấy Rách Nát: "...Muốn gia nhập... 'Hội Ngón Út'... bảo Choneaux nói với anh ta, sách của chúng tôi đều đã đưa anh ta xem rồi."
+Mảnh Giấy Rách Nát: "...Báo với Choudy, nói là: 'Thùng gỗ sồi bị mọt ăn rồi, mẻ rượu Corte mới đang bị quá chua'... Gọi anh ta mau chóng tới xử lý mối mọt..."
+
+## Hóa Đơn Bị Vò Nát
+
+Hóa Đơn Bị Vò Nát có thể được tìm thấy trong một chiếc hộp ngoài cửa dẫn xuống dưới boong tàu.
+Hóa Đơn Bị Vò Nát: (Một hóa đơn bị vò nát, mặt sau có vài dòng chữ nguệch ngoạc.)
+Hóa Đơn Bị Vò Nát: "Người đeo túi da mang đến một tin: Người Liyue thích độc chiếm, có người không hài lòng... Phải có người bắt họ mang giày cứng..."
+Hóa Đơn Bị Vò Nát: "Sếp sẽ xuất phát vào lúc mặt trời lặn, gọi thêm Walker tốt bụng dẫn theo chút lính..."
+
+## Hóa Đơn Bị Vứt Lại
+
+Hóa Đơn Bị Vứt Lại có thể được tìm thấy trên bàn bếp cạnh "Tilla" ở dưới boong tàu.
+Hóa Đơn Bị Vứt Lại: (Tờ hóa đơn bị vứt bừa bãi trên quầy rượu, trên góc có dấu vết tẩy xóa nguệch ngoạc.)
+Hóa Đơn Bị Vứt Lại: "...Ba chuyến hàng từ Liyue... rất nặng... Brek đã kiểm kê rồi..."
+Hóa Đơn Bị Vứt Lại: "...Những người bạn Liyue của chúng ta một chân đứng lên cầu rồi, phải gọi người tới giúp kéo họ..."
+
+"Ba chuyến hàng" có thể đang ám chỉ. Trong đó, thuộc hạ của Pantalone là Landa đã làm mất ba chiếc hộp đựng hóa đơn hàng cho một "thương vụ làm ăn lớn" và yêu cầu Nhà Lữ Hành giúp lấy lại chúng.

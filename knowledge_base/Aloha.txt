@@ -1,0 +1,17 @@
+# Aloha
+
+## Hội Thoại
+
+type: NPC Đại Thế Giới
+region: Natlan
+location: Natlan
+affiliation: Cư Dân Suối Nước
+title: Quản Lý Vườn Alpaca
+
+- Tổng Quan: Aloha là một NPC đại thế giới ở.
+
+Có sẵn sau khi hoàn thành Món Quà Lưu Niệm Của Vườn Alpaca Ngũ Sắc (Tên không chính thức)
+Aloha: Quý khách, hôm nay nếu không có thì chắc tôi làm không xuể mất.
+Aloha: Vô cùng cảm ơn, nơi này sẽ luôn hoan nghênh.
+
+- là một từ phổ biến của, có nghĩa là "tình yêu", "xin chào" và "tạm biệt".

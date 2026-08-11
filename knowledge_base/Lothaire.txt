@@ -1,0 +1,11 @@
+# Lothaire
+
+## Thông Tin Cơ Bản
+
+type: NPC Nhiệm Vụ
+region: Fontaine
+location: Fontaine
+voiceEN: [[imdb:nm5069764
+Michael Malconian]]<ref name: "Michael Malconian 3">Twitter: Diễn Viên Lồng Tiếng Tiếng Anh Tự Thông Báo (Lưu Trữ)
+
+- Tổng Quan: Lothaire là một NPC độc quyền nhiệm vụ xuất hiện trong.

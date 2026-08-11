@@ -1,0 +1,43 @@
+# Bennett
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+quality: 4
+weapon: Kiếm Đơn
+element: Hỏa
+name: Bennett
+birthday: 29 tháng 02
+constellation: Hiểm Lộ
+region: Mondstadt
+region2: Natlan
+regionNote2: trong cốt truyện
+affiliation: Hiệp Hội Nhà Mạo Hiểm
+affiliation2: Đoàn Mạo Hiểm Benny
+dish: Trứng Chiên Teyvat Cháy
+namecard: Chấp Nhận
+obtain: - Cầu Nguyện - Đổi Bụi Ánh Sáng
+releaseDate: 2020-09-28
+title: Thử Thách Của Vận Mệnh
+title2: Đội Trưởng Đoàn Mạo Hiểm Benny
+mother: Aroni
+motherNote: đã chết
+father: Macani
+fatherNote: đã chết
+voiceEN: w|Cristina Vee|Cristina Vee Valenzuela
+voiceCN: Mu Xueting (zh|穆雪婷)
+voiceJP: w|Ryōta Ōsaka|Ousaka Ryouta (ja|逢坂 良太)
+voiceKR: w|ko:송하림|Song Ha-rim (ko|송하림)
+
+## Tổng Quan
+
+Bennett là một nhân vật hệ chơi được trong Genshin Impact.
+
+Là một đứa trẻ mồ côi được một nhà thám hiểm lớn tuổi phát hiện khi còn nhỏ, Bennett được nuôi dưỡng trong Hiệp Hội Nhà Mạo Hiểm của Mondstadt. Cậu là thành viên duy nhất và cũng là đội trưởng của "Đoàn Mạo Hiểm Benny", sau khi các thành viên của đoàn lần lượt xin rời đi do ảnh hưởng từ vận đen của cậu.
+
+## Có Mặt Trong
+
+- Cầu Nguyện Thường Du Hành Thế Gian
+- Cầu Nguyện Đề Xuất Cho Người Mới (Không giới hạn cho đến khi đủ 20 lần cầu nguyện)
+- Tất cả Sự Kiện Cầu Nguyện Nhân Vật và Sự Kiện Cầu Nguyện Vũ Khí
+- Sự Kiện Mặt Trận Dây Cót (24/08/2023 - 11/09/2023)

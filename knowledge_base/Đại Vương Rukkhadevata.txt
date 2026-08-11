@@ -1,0 +1,31 @@
+# Đại Vương Rukkhadevata
+
+## Thông Tin Cơ Bản
+
+type: Lịch Sử
+deceased: Qua đời trong tai ương thời cổ đại cách đây 500 năm trước. Đã tự xóa bỏ khỏi Cây Thế Giới và thay thế sự tồn tại của mình trong lịch sử với Tiểu Vương Kusanali tại sự kiện trong nhiệm vụ Đích Đến Của Con Thuyền Ý Thức
+name: Đại Vương Rukkhadevata
+title: Thảo Thần
+title2: Thần Trí Tuệ
+title3: Chủ nhân của cây cỏ
+title4: Nữ vương Aranyani
+title5: Hóa thân của Cây Thế Giới
+voiceEN: [[imdb:nm9098554
+element: Thảo
+affiliation: Bảy Vị Thần
+region: Sumeru
+location: Sumeru
+
+## Tổng Quan
+
+Đại Vương Rukkhadevata là Thảo Thần đầu tiên của Sumeru, người đại diện của Cây Thế Giới và là người tiền nhiệm của Thảo thần hiện tại, Tiểu Vương Kusanali. Cô cũng như Tiểu Vương Kusanali, đều mang danh hiệu Thần Trí Tuệ.
+
+Đại Vương Rukkhadevata đã qua đời trong tai ương thời cổ đại 500 năm trước. Trước khi ra đi, Rukkhadevata đã tạo ra vòng luân hồi mới của mình, Tiểu Vương Kusanali, người kế nhiệm vị trí Thảo Thần và Thần Trí Tuệ. Để chữa trị hoàn toàn cho Cây Thế Giới, Rukkhadevata đã xóa bỏ hoàn toàn ký ức của mọi người trên toàn cõi Teyvat về sự tồn tại của cô. Chỉ có một người duy nhất còn nhớ về cô, đó là Nhà Lữ Hành, và có thể phỏng đoán rằng do dữ liệu về Nhà Lữ Hành không được ghi chép trong Cây Thế Giới.
+
+Aranara gọi cô bằng cái tên Nữ Vương Aranyani và Aranara coi mình như những đứa con của cô.
+
+## Thời Cổ Đại
+
+Đại Vương Rukkhadevata từng là bạn của Hoa Thần và Vua Deshret (Xích Vương), mỗi người có một định nghĩa khác nhau về "trí tuệ." Đại Vương Rukkhadevata từng cùng hai người bạn của mình cai trị Ay-Khanoum, còn được gọi là "Nguyệt Nữ Thành". Tuy nhiên, một thảm kịch xảy đến, Hoa Thần qua đời, và Ay-Khanoum bị một chiếc trụ thần giáng xuống, chìm trong biển cát.
+
+Xích Vương, vua Deshret, vẫn mãi đắm chìm trong quá khứ vàng son của Nguyệt Nữ Thành. Dần dần, lý tưởng của Xích Vương và Rukkhadevata đã chia tách. Rukkhadevata đã rời đi, về phía rừng mưa và xây dựng nên thiên đường sắc xanh.

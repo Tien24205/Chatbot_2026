@@ -1,0 +1,11 @@
+# Goli
+
+## Thông Tin Cơ Bản
+
+type: NPC Nhiệm Vụ
+region: Sumeru
+location: Sumeru
+affiliation: Kshahrewar
+voiceEN: [[imdb:nm12657348
+
+- Tổng Quan: Goli là một NPC độc quyền nhiệm vụ xuất hiện trong.

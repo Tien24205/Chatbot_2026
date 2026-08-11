@@ -1,0 +1,26 @@
+# Marjorie
+
+## Thông Tin Cơ Bản
+
+type: NPC Đại Thế Giới
+region: Mondstadt
+location: Mondstadt
+affiliation: Gió Vinh Quang
+title: Chủ Tiệm "Gió Vinh Quang"
+voiceEN: w|Erica Mendez
+voiceJP: Nakatomi Mana (ja|中臣 真菜)
+father: Cyrus
+relative: Iris (Lều Thám Hiểm Long Tích)!Iris
+relativeNote: dì
+
+## Tổng Quan
+
+Marjorie là NPC bán hàng ở Thành Mondstadt. Cô là chủ Cửa Hàng Lưu Niệm "Gió Vinh Quang", đứng bên ngoài cửa tiệm và dễ thấy bằng biểu tượng trên bản đồ.
+
+Cửa hàng của cô bán một số Nguyên Liệu Đột Phá Nhân Vật, Nguyên Liệu Đột Phá Vũ Khí, mora, Phôi Bắc Lục cùng một số vật phẩm giới hạn sự kiện. Cửa hàng mở mọi lúc trong ngày.
+
+- Cửa Hàng: Vật Phẩm Đặc Biệt Của Cửa Hàng
+
+## Tiểu Sử
+
+Marjorie là con gái của Cyrus và là dì của Iris. Cô khởi nghiệp vì muốn kể những câu chuyện đằng sau những kho báu mà cha cô kiếm được trên hành trình. Hiện nay, cô mua đồ hiếm từ các thương nhân và bán chúng thành đồ lưu niệm.

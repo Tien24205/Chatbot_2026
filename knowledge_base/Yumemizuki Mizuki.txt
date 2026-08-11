@@ -1,0 +1,36 @@
+# Yumemizuki Mizuki
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+quality: 5
+weapon: Pháp Khí
+element: Phong
+name: Yumemizuki Mizuki
+birthday: 16 tháng 03
+constellation: Mạc Chẩm
+region: Inazuma
+affiliation: Inazuma
+affiliation2: Phòng Tắm Hơi Aisa
+affiliationNote2: đại cổ đông
+group: Yumekui-Baku
+dish: Giấc Mơ Chữa Trị
+namecard: Ăn Giấc Mơ
+obtain: Cầu Nguyện
+event_name: Bình Minh Mơ Màng
+releaseDate: 2025-02-12 11:00:00 GMT+8
+title: Ảo Mộng Trùng Điệp
+title2: Nhà trị liệu tâm lý kiêm đại cổ đông của Phòng Tắm Hơi Aisa
+voiceEN: [[imdb:nm1696370
+Naomi McDonald]]<ref name: "Mizuki EN Voice Actress">YouTube: Chương Trình Đặc Biệt Genshin Impact Phiên Bản 5.4 (Mốc thời gian: 6m 12s)
+voiceCN: Fumeng Ruowei (zh|浮梦若薇)
+voiceJP: w|Saya Aizawa|Aizawa Saya ja|(会沢紗弥)
+voiceKR: Kim Seo-hyun (ko|김서현)
+
+## Tổng Quan
+
+ là một nhân vật hệ chơi được trong Genshin Impact.
+
+Mizuki là một nhà trị liệu tâm lý nổi tiếng đến từ Inazuma. Sau khi trở về từ Natlan, cô đã trở thành nhà đầu tư nòng cốt và đại cổ đông của Phòng Tắm Hơi Aisa. Với tư cách là một yumekui-baku, cô có khả năng nuốt chửng những cơn ác mộng của bệnh nhân và giúp họ cải thiện sức khỏe tinh thần.
+
+- Cầu nguyện thường Du Hành Thế Gian (Vĩnh Viễn) từ Phiên Bản 5.5 - Tất cả sự kiện Cầu Nguyện Nhân Vật từ Phiên Bản 5.5 - Khám Phá Cõi Trăng, Tôi Luyện Ánh Sáng (Sự Kiện Phiên Bản "Luna I")

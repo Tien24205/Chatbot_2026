@@ -1,0 +1,20 @@
+# Wagner
+
+## Tổng Quan
+
+name: Wagner
+type: NPC
+region: Mondstadt
+title: Ông Chủ Xưởng Rèn
+voiceEN: w|Sean Chiplock
+voiceJP: Shohei Tabuchi (田渕将平)
+
+Wagner là một NPC ở Thành Mondstadt, Mondstadt. Anh ta có thể được tìm thấy tại Xưởng Schulz gần cổng trước của thành phố, được hiển thị bằng biểu tượng trên bản đồ. Anh ta là một thợ rèn, người có thể rèn một số Vũ khí 4 Sao và nguyên liệu cường hóa vũ khí hoặc bán Vũ khí 2 Sao
+
+- Cửa Hàng: Anh ta có lượng hàng giống hệt như Lão Zhang và Hajime.
+
+- Mở Đầu - Màn I: Người phương xa đuổi theo gió - Tai Họa Rồng (unique dialogue)
+
+- Kho Báu Của Gió - Bough Keeper: Dainsleif - Con Đường Khai Khoáng - Đi Chơi Không Quên Nhiệm Vụ
+
+- Wagner là một họ có nguồn gốc từ Đức có nghĩa là "người chế tạo toa xe" hoặc "người thợ đóng thùng"

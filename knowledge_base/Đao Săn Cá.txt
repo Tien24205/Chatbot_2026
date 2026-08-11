@@ -1,0 +1,40 @@
+# Đao Săn Cá
+
+## Thông Tin Cơ Bản
+
+id: 11305
+type: Kiếm Đơn
+releaseDate: 2020-09-28
+quality: 3
+passive: Quyết
+base_atk: 39
+2nd_stat_type: Tỷ Lệ Tấn Công
+2nd_stat: 7,7%
+effect: Khi đánh trúng, có 50% cơ hội tạo thành (var1)% sát thương tấn công vào mục tiêu đơn. Hiệu quả này (var2)s xuất hiện một lần.
+eff_rank1_var1: 240
+eff_rank2_var1: 280
+eff_rank3_var1: 320
+eff_rank4_var1: 360
+eff_rank5_var1: 400
+eff_rank1_var2: 15
+eff_rank2_var2: 14
+eff_rank3_var2: 13
+eff_rank4_var2: 12
+eff_rank5_var2: 11
+obtain: Rương
+obtain2: Đối Thoại
+npc: Amenoma Tougo
+
+- Tổng Quan: Đao Săn Cá là một kiếm đơn 3 Sao của Liyue.
+
+## Câu Chuyện
+
+Truyền thuyết kể rằng, Liyue từng rất mạnh trong việc sản xuất loài cá Li Hổ, cũng là món ăn ưa thích của người dân.
+
+Thế nhưng người truyền người, tai truyền tai khắp đầu đường ngõ hẻm nên đọc sai thành "ăn cá Hổ".
+
+Đến nay, loài cá Li Hổ rất hiếm gặp,
+
+Ăn cá hổ cũng trở thành từ đồng nghĩa với việc người dân Liyue ăn thịt cá.
+
+- Ngẫu nhiên tìm thấy trong Rương có phẩm chất từ Cao Cấp trở lên ở Liyue - Amenoma Tougo - Lời thoại có thưởng

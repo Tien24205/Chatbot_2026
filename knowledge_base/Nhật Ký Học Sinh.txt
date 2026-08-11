@@ -1,0 +1,20 @@
+# Nhật Ký Học Sinh
+
+## Thông Tin Cơ Bản
+
+id: 14101
+type: Pháp Khí
+series: 1 Sao
+releaseDate: 2020-09-28
+quality: 1
+base_atk: 23
+obtain: Rương
+obtain2: Điều Tra
+obtain3: Bán bởi Schulz
+obtain4: Mặc Định
+
+- Tổng Quan: Nhật Ký Học Sinh là một pháp khí 1 Sao.
+
+- Câu Chuyện: Dùng câu chữ ghi chép lại bút tích và thần chú đã học và thực nghiệm, Ghi chép nỗ lực của học trò vào khoảng trắng giữa các câu chữ.
+
+- Ngẫu nhiên tìm thấy trong Rương Thường và Cao Cấp khắp Teyvat - Rơi ra khi tương tác với một số điểm Điều Tra

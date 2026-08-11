@@ -1,0 +1,25 @@
+# Gorou
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+quality: 4
+element: Nham
+weapon: Cung
+name: Gorou
+sex: Nam
+birthday: 18 tháng 05
+constellation: Sài Khuyển
+affiliation: Quân Watatsumi
+dish: Thường Thắng Truyền Thuyết
+region: Inazuma
+obtain: Cầu Nguyện
+releaseDate: 2021-12-14
+title: Chiến Khuyển Nanh Nhọn
+title2: Đại Tướng Watatsumi
+voiceJP: w|Tasuku Hatanaka|Tasuku Hatanaka (畠中 祐)
+voiceCN: Yang Xinran (杨昕燃)
+
+- Tổng Quan: Gorou là nhân vật hệ Nham chơi được trong Genshin Impact. Anh là một vị tướng can đảm và đáng tin cậy của Quân Kháng Chiến Sangonomiya, một nhà lãnh đạo luôn có thể đặt niềm tin vào.
+
+- Cầu nguyện thường Du Hành Thế Gian (vĩnh viễn) từ Phiên Bản 2.4 - Cầu Nguyện Đề Xuất Cho Người Mới (không giới hạn cho đến khi đủ 20 lần cầu nguyện)

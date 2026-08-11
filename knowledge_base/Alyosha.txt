@@ -1,0 +1,18 @@
+# Alyosha
+
+## Thông Tin Cơ Bản
+
+type: Sắp Ra Mắt
+element: Lôi
+name: Alyosha
+constellation: Tấn Tiệp Khuyển
+region: Snezhnaya
+title: Chiến Khuyển Thần Tốc
+title2: Thợ Săn Mùa Đông
+voiceEN: [[imdb:nm8517409
+Kevin Andrew Rivera]]<ref>YouTube: [https://www.youtube.com/watch?v: y2Zcmcbrm9s Video Đặc Biệt - Tuyết Rơi Bất Chợt] (Mô tả video)
+voiceCN: Wang Fuping (zh|王辅平)
+voiceJP: w|Gen Satō|Sato Gen (ja|佐藤 元)
+voiceKR: Kim Hye-sung (ko|김혜성)YouTube: 원신
+
+- Tổng Quan: Alyosha là một nhân vật hệ sắp ra mắt trong Genshin Impact. Cậu xuất hiện lần đầu tiên trong Video Ngắn Giới Thiệu Snezhnaya - Vùng Đất Băng Giá Gió Tuyết Che Phủ.

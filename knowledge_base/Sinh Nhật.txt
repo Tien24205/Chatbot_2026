@@ -1,0 +1,98 @@
+# Sinh Nhật
+
+## Tổng Quan
+
+type: Hệ Thống Trò Chơi
+
+Khi đến Sinh Nhật của mình, những nhân vật chơi được sẽ tặng cho người chơi Món Ăn Đặc Biệt của họ và một vài món quà khác. Nhân vật sẽ luôn nhắc đến món quà khác đó trong thư, nhưng hiếm khi nhắc đến món ăn đặc biệt đính kèm của họ.
+
+Người chơi có thể nhận thư mà không cần phải sở hữu nhân vật. Tuy nhiên, thư chỉ được gửi khi người chơi đăng nhập vào ngày sinh nhật của nhân vật đó và sẽ không thể nhận vào ngày hôm sau.
+
+Thư Sinh Nhật sẽ được tự động chuyển vào Hộp Thư Kỷ Niệm sau khi người chơi đã nhận đính kèm của thư. Thư sinh nhật trong hộp sẽ không bị tự động xóa và cũng không hết hạn theo thời gian.
+
+## Ghi Chú
+
+- Việc nhận thư Sinh Nhật của nhân vật không tuân theo thiết lập lại hằng ngày của máy chủ là 4:00 sáng (giờ máy chủ).
+- Thư Sinh Nhật của nhân vật chỉ được gửi vào đúng ngày sinh nhật của họ, từ 00:00 đến 23:59 (theo giờ máy chủ). Người chơi phải đăng nhập vào trò chơi trong khoảng thời gian đó để nhận thư. Nếu người chơi đăng nhập lúc 00:01 (giờ máy chủ) vào ngày hôm sau, kể cả khi chưa đến lần thiết lập lại tiếp theo vào 4:00 sáng (giờ máy chủ), thư cũng sẽ không được gửi.
+- Lưu ý về múi giờ máy chủ: máy chủ Asia là GMT+8, máy chủ EU là GMT-5, máy chủ NA là GMT+1
+- Hiện tại, Thư Sinh Nhật của nhân vật là cách duy nhất để nhận món ăn đặc biệt nếu người chơi không sở hữu nhân vật. Tuy nhiên vẫn có một số ngoại lệ, chẳng hạn như các món ăn đặc biệt nhận được khi hoàn thành các kết cục của nhân vật trong trong Sự Kiện Đồng Hành.
+
+## Nhà Lữ Hành
+
+Sinh nhật của Nhà Lữ Hành tùy thuộc vào sự lựa chọn của người chơi trong tùy chỉnh hồ sơ và không thể thay đổi lại sau khi đã đặt. Đến ngày sinh nhật của Nhà Lữ Hành, nhóm phát triển - thông qua hệ thống gửi thư - sẽ gửi lời chúc mừng sinh nhật, cùng với một món quà đặc biệt là một chiếc "Bánh kem tặng cho Nhà Lữ Hành", chứa Nhựa Dễ Vỡ và một phiên bản bánh không thể sử dụng được khi được sử dụng.
+
+Ngoài ra, các nhân vật mà người chơi sỡ hữu sẽ mở khoá vĩnh viễn lời thoại "Sinh nhật...". Các nhân vật sau này mà người chơi nhận được cũng sẽ mở khóa lời thoại "Sinh nhật...".
+
+Lưu ý, nếu thiết đặt ngày sinh nhật trong trò chơi khi sinh nhật của người chơi đã qua, người chơi sẽ không nhận được thư sinh nhật của năm đó.
+
+- Bảng Sinh Nhật: Biểu TượngTênSinh NhậtTrang Sinh Nhật
+
+## Lưu Giữ
+
+- Nếu như thư không được giữ ở trong Hộp Thư Kỷ Niệm, thư sinh nhật sẽ hết hạn sau 365 ngày.
+- Trước Phiên Bản 1.3, Nhà Lữ Hành là nhân vật duy nhất có thư sinh nhật có hạn là 365 ngày, trong khi những nhân vật khác có hạn thư là 30 ngày.
+- Các thư sinh nhật được gửi trước khi tính năng Hộp Thư Kỷ Niệm được giới thiệu vào Phiên Bản 2.4 đều được tự động chuyển vào Hộp Thư Kỷ Niệm của người chơi, miễn là người chơi vẫn giữ nó.
+- Do thời gian hết hạn ngắn, Hộp Thư Kỷ Niệm không thể lưu những thư sinh nhật (trừ của Nhà Lữ Hành) được gửi trước phiên bản 1.3, bao gồm:
+- Xingqiu, năm 2020
+- Xiangling, năm 2020
+- Keqing, năm 2020
+- Sucrose, năm 2020
+- Kaeya, năm 2020
+- Zhongli, năm 2020
+- Diona, năm 2021
+- Nhà Lữ Hành, năm đầu tiên (nếu được gửi trước ngày 05/01/2021)
+
+## Ngày Gửi
+
+- Nếu sinh nhật của người chơi là ngày 29 tháng 2, thư chúc mừng sinh nhật sẽ được gửi vào ngày 28 tháng 2 các năm không nhuận.
+- Tương tự, Bennett cũng sẽ được tổ chức sinh nhật vào ngày 28 tháng 2 các năm không nhuận.
+- Những nhân vật có cùng sinh nhật bao gồm:
+- Lynette và Lyney: ngày 2 tháng 2
+- Arataki Itto và Paimon: ngày 1 tháng 6
+- Klee và Kuki Shinobu: ngày 27 tháng 7
+- Chevreuse là nhân vật có thư sinh nhật được gửi sớm nhất sau khi được phát hành. Cô ra mắt vào ngày 09 tháng 1/2024, và thư sinh nhật đầu tiên của cô được gửi vào 1 ngày sau - ngày 10 tháng 1/2024.
+- Kamisato Ayato là nhân vật có khoảng cách giữa ngày ra mắt và ngày thư sinh nhật được gửi lâu nhất. Anh ra mắt ngày 30 tháng 3/2022, chỉ 4 ngày sau sinh nhật của anh, do đó thư sinh nhật đầu tiên của anh được gửi vào 361 ngày sau, tức 26 tháng 3/2023.
+
+## Đính Kèm
+
+- Thư Sinh Nhật của Paimon và Raiden Shogun không bao gồm món ăn đặc biệt, vì hai người không phải là nhân vật chơi được và không thể nấu ăn.
+- Xiangling và Ningguang là hai nhân vật duy nhất gọi tên trực tiếp món ăn đặc biệt của mình trong thư sinh nhật của họ. Các nhân vật khác chỉ đề cập đến món ăn mà không gọi tên hoặc đề cập đến việc đã nấu món gì đó, đề cập đến việc đi ăn cùng nhau, hoặc đề cập đến một món ăn khác trong thư để thay thế hoặc hoàn toàn không đề cập đến món ăn.
+- Các nhân vật gửi cho người chơi nhiều hơn một món ăn đặc biệt:
+- Beidou, năm 2021:
+- Noelle, năm 2021:
+- Ningguang, năm 2021:
+- Các nhân vật gửi cho người chơi món ăn khác ngoài món ăn đặc biệt của họ:
+- Noelle, năm 2021:
+- Xiangling, năm 2021:
+- Thoma, năm 2022: và
+- Yun Jin, năm 2022:
+- Raiden Shogun, năm 2022: và
+- Ningguang, năm 2022: và
+- Kaeya, năm 2022:
+- Kẻ Lang Thang, năm 2023: và
+- Thoma, năm 2023: và
+- Yaoyao, năm 2023: và
+- Noelle, năm 2023: và
+- Lisa, năm 2023:
+- Yoimiya, năm 2023:
+- Raiden Shogun, năm 2023:, và
+- Kuki Shinobu, năm 2023: và
+- Mika, năm 2023: và
+- Albedo, năm 2023:
+- Kaeya, năm 2023: và
+- Layla, năm 2023:
+- Tighnari, năm 2023: và
+- Các nhân vật gửi cho người chơi món ăn không thể nấu được:
+- Kaeya, năm 2020:
+- Diluc, năm 2021:
+- Albedo, năm 2021:
+- Yun Jin, năm 2022:
+- Lisa, năm 2022:
+- Raiden Shogun, năm 2022:
+- Nếu người chơi sở hữu 20 Hạt Giống Thanh Tâm trong Hộp Hạt Giống khi nhận thư sinh nhật của Ganyu năm 2021, họ sẽ không thể nhận thư vì giới hạn hạt giống đã đạt tối đa. Vì không thể xóa hạt giống đi, người chơi buộc phải trồng 1 Thanh Tâm trong Ấm Trần Ca để có thể nhận thư.
+
+## Lồng Tiếng
+
+- Itto có lời nhắn dài nhất dành cho Nhà Lữ Hành trong lời thoại "Sinh nhật..."
+- Raiden Shogun có hai lời thoại sinh nhật, một trong số đó là từ Shogun và còn lại là từ Ei.
+- Xingqiu cũng có hai lời thoại sinh nhật riêng biệt dành cho Nhà Lữ Hành: "Sinh Nhật - Chúc Phúc" và "Sinh Nhật - Tập Tục".

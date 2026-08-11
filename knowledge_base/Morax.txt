@@ -1,0 +1,52 @@
+# Morax
+
+## Thông Tin Cơ Bản
+
+type: NPC
+title: Thần Khế Ước
+title2: Thần Thương Nghiệp
+title3: Nham Thần
+title4: Chúng Tiên Tổ Sư
+title5: Thần Tài / Thần Lịch Sử / Thần Khai Sáng
+title6: Võ Thần
+region: Liyue
+element: Nham
+affiliation: Bảy Vị Thần
+affiliation3: Tiên Nhân
+group: Thần
+voiceEN: w|Keith Silverstein
+voiceCN: Bo Peng (彭博)
+voiceJP: w|Tomoaki Maeno|Tomoaki Maeno (前野 智昭)
+voiceKR: w|Pyo Yeong-jae|Pyo Yeong-jae (표영재)
+
+## Tổng Quan
+
+Morax, còn được gọi là Thần Khế Ước hay, là Nham Thần hiện tại và là một trong Bảy Vị Thần. Ông ta đã trị vì Liyue trước khi thu hồi sự quan phòng của mình trong Nghi thức Thăng thiên cuối cùng.
+
+Cùng với Barbatos, ông ta là một trong hai thành viên ban đầu của Bảy Vị Thần vẫn còn sống khi bắt đầu trò chơi. Ông ta hiện đang lang thang khắp thế giới với tư cách là Zhongli, một nhà tư vấn cho Vãng Sinh Đường.
+
+Ông ta có rất nhiều tên và chức danh, bao gồm Chúng Tiên Tổ Sư, Thần Khế Ước, Thần Thương Mại, Võ Thần, và Nham Vương Đế Quân.
+
+## Giới Thiệu
+
+Nham Vương Đế Quân là Thần Khế Ước, Thương mại và là Chiến Thần - trong số nhiều tên gọi khác. Ông là Nham Thần và là người già nhất trong "Bảy Vị Thần", và có thể là một trong những vị thần lâu đời nhất, nếu không muốn nói là già nhất, với hơn sáu nghìn năm tuổi.
+
+Ngoài việc hình thành địa lý của khu vực mà ông cai quản, Nham Vương Đế Quân đã bảo vệ Liyue trong những trận chiến lớn như Chiến Tranh Ma Thần, được tiến hành tại khu vực mà ngày nay là Quy Li Nguyên chống lại các vị thần khác. Trong một trận chiến, ông đã đánh bại thành công một vị thần cổ đại được gọi là Osial, sử dụng những cây thương bằng đá khổng lồ để giam cầm thần biển, mà ngày nay được biết đến là Cô Vân Các. Trong một lần khác, ông ta phong ấn Rồng núi Azhdaha dưới một gốc cây ở Nam Thiên Môn sau cuộc nổi loạn của loài rồng. Những sinh vật khác mà Nham Vương Đế Quân đã chiến đấu và giết chết bao gồm Li sống ở Khinh Sách Trang và vị thần là chủ nhân cũ của Xiao.
+
+Morax cũng là nguồn gốc và tên gọi của đơn vị tiền tệ của Teyvat, Mora. Mora được đúc tại Hoàng Kim Ốc thông qua việc sử dụng Gnosis của ông.
+
+Hiện tại, Nham Vương Đế Quân cư trú tại Cảng Liyue với tên gọi Zhongli, làm việc tại Vãng Sinh Đường với vai trò cố vấn.
+
+## Tính cách
+
+Người ta còn biết rất ít về tính cách của Nham Vương Đế Quân trước khi trở thành Vị Chấp Chính Trần Thế, nhưng những mô tả và truyền thuyết về ông ta mô tả một vị thần khác nhiều so với vị thần mà người ta biết đến ngày nay. Venti - hình dạng hiện tại của Barbatos, một người bạn lâu năm của Nham Vương Đế Quân, và là thành viên duy nhất còn lại của Bảy Vị Thần ban đầu - mô tả Nham Vương Đế Quân là một "kẻ đầu đất không hiểu lòng người" và "cứng đầu". Đến lượt mình, Morax lại coi cậu ta là "tên nhà thơ say xỉn hoàn toàn không hợp với hai từ nho nhã". Do tuổi già sức yếu, Nham Vương Đế Quân thường xuyên hồi tưởng lại những kỷ niệm và trải nghiệm của mình.
+
+Mặc dù là Thần Khế Ước, Nham Vương Đế Quân nhận ra rằng tất cả các tình huống đều khác nhau - và do đó, "công lý" có thể thay đổi tùy theo tình huống. Lão cũng không ngại "thao thao bất tuyệt" ở phía sau. Đáng ngạc nhiên, ông không hề xúc phạm những lời chỉ trích của Keqing về sự phụ thuộc của Liyue vào ông; trong thực tế, nó chỉ ra rằng ông thậm chí còn đồng ý với tình cảm của cô.
+
+Morax rất chậm trong việc thích ứng với sự thay đổi, nhưng dù sao cũng chấp nhận nó như một điều không thể tránh khỏi, điều mà hầu hết các tiên nhân đều gặp khó khăn trong việc thích nghi với chúng.
+
+## Lịch Sử
+
+Trước Chiến Tranh Ma Thần, Morax đã được biết đến như Nham Vương Gia. Ông thân thiết với Guizhong, Thần Bụi, và họ đã thành lập một khu định cư cho người dân của họ ở Quy Li Nguyên, được đặt theo tên của họ. Ông ta cũng có quan hệ tốt với Marchosius và Bình Lão Lão. Tuy nhiên, sau khi Chiến Tranh Ma Thần nổ ra, Guizhong đã hi sinh trong một trận chiến mà đã phá hủy toàn bộ Quy Li Nguyên và Địch Hoa Châu. Sau đó, Morax di chuyển người của họ xuống phía nam Thiên Hoành Sơn, đến nơi mà ngày nay là Cảng Liyue.
+
+Để bảo vệ thành phố mới của mình, Morax đã lập một khế ước với Tiên Nhân để bảo vệ bến cảng khi ông tiếp tục tiến hành cuộc chiến chống lại kẻ thù của mình. Li, Osial và chủ nhân cũ của Xiao đã bị đánh bại bởi tay ông, trong khi Havria, quá hiền lành trong giai đoạn tàn bạo này, đã bị giết bởi chính người của mình. Những người sống sót ở Vùng Đất Muối đã được rải khắp Liyue, nhiều người trong số họ đến cảng Liyue. Tại một thời điểm nào đó, ông kết bạn với một con rồng to lớn và ban cho nó đôi mắt, người đã trở thành người bạn suốt đời, nhưng cuối cùng con rồng đã trở lên xấu xa vì "xói mòn" và ông buộc phải phong ấn người bạn cũ của mình bên dưới Nam Thiên Môn.

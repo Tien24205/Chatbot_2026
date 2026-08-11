@@ -1,0 +1,34 @@
+# Mona
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+quality: 5
+weapon: Pháp Khí
+element: Thủy
+name: Mona
+realname: Astrologist Mona Megistus
+birthday: 31 tháng 08
+constellation: Ánh Thiên
+region: Mondstadt
+affiliation: Thành Mondstadt
+affiliationLabel: Mondstadt
+affiliation2: Chim Hơi Nước
+dish: Thông Minh Tột Đỉnh (Cuộc Sống)
+namecard1: Mona - Thiên Tinh
+obtain: Cầu Nguyện
+releaseDate: 2020-09-28
+title: Thủy Kính Thiên Tinh
+title2: Thuật Sĩ Chiêm Tinh Thần Bí
+voiceEN: w|Felecia Angelle
+voiceCN: Chen Tingting (zh|陈婷婷)
+voiceJP: w|Konomi Kohara|Kohara Konomi (ja|小原 好美)
+voiceKR: w|ko:우정신|Woo Jeong-sin (ko|우정신)
+
+## Tổng Quan
+
+Astrologist Mona Megistus là một nhân vật hệ mà người chơi có thể điều khiển trong Genshin Impact.
+
+Cô là một thuật sĩ chiêm tinh với tài năng và lòng kiêu hãnh cao, hiện đang cư trú tại Mondstadt để tránh làm sư phụ giận dữ sau khi vô tình đọc được nhật ký thời thiếu nữ của bà.
+
+- Cầu Nguyện Thường Du Hành Thế Gian - Cầu Nguyện Đề Xuất Cho Người Mới (Không giới hạn cho đến khi đủ 20 lần cầu nguyện) - Tất cả Sự Kiện Cầu Nguyện Nhân Vật

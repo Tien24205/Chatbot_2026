@@ -1,0 +1,22 @@
+# Ninan
+
+## Hội Thoại
+
+type: NPC
+region: Natlan
+location: Natlan
+title: Bưu Tá
+
+- Tổng Quan: Ninan là một NPC ở tại.
+
+- Lời Thoại Nhàn Rỗi: Xu hướng gần đây... : "Những câu chào hỏi xu hướng gần đây đều rất giống nhau."
+
+Ninan: "Lâu rồi không liên lạc"... "Mong mọi thứ đều đang tốt đẹp khi bạn mở lá thư này"... Hóa ra người Liyue thường viết thư như vậy sao...
+Anh đang học ngoại ngữ sao?
+:Ninan: Haha, không phải học chính thức đâu. Tôi chỉ là để thỏa mãn trí tò mò thôi.
+:Ninan: Xin đừng hiểu lầm, tôi không có lén lút đọc thư của khách hàng. Tôi đã hỏi để được tiếp cận kiến thức ngôn ngữ của họ một cách đường hoàng đấy nhé.
+:Ninan: Thường xuyên có khách du lịch nước ngoài đến đây, bản thân tôi cũng không định rời khỏi Natlan, nên đương nhiên phải nắm bắt cơ hội này để học hỏi họ rồi.
+:Ninan: Để đền đáp lại, tôi cũng sẽ dạy họ một số ngôn ngữ địa phương thông dụng của Natlan.
+:Ninan: Dùng ngôn ngữ của chúng tôi để giúp người nước ngoài viết lại những lời chúc phúc mà họ thích, trải nghiệm này khá kỳ diệu nhỉ.
+Làm phiền rồi.
+:Ninan: Không có gì đâu, nếu muốn gửi thư thì cứ đến tìm tôi nhé! Tôi có cung cấp dịch vụ viết hộ luôn.

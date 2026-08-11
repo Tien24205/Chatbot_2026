@@ -1,0 +1,19 @@
+# Kiếm Thạch Anh
+
+## Thông Tin Cơ Bản
+
+type: Trọng Kiếm
+quality: 3
+base_atk: 40
+2nd_stat_type: Tinh Thông Nguyên Tố
+2nd_stat: 16
+obtain: Không Ra Mắt
+passive: Nhiệt Thải
+effect: Trong 12s sau khi kích hoạt hiệu ứng Quá Tải, Tan Chảy, Thiêu Đốt, Bốc Hơi hoặc Khuếch Tán nguyên tố Hỏa, tấn công tăng (var1)%.
+eff_rank1_var1: 20
+eff_rank2_var1: 25
+eff_rank3_var1: 30
+eff_rank4_var1: 35
+eff_rank5_var1: 40
+eff_att1: Tấn Công
+releaseDate: 2020-03-18

@@ -1,0 +1,14 @@
+# Cazcal
+
+## Ngoại Hình
+
+type: NPC Nhiệm Vụ
+region: Natlan
+location: Natlan
+affiliation: Con Của Tiếng Vang
+
+- Tổng Quan: Cazcal là một NPC độc quyền nhiệm vụ xuất hiện trong.
+
+Cazcal mặc bộ đồ thường thấy của người thuộc bộ tộc Con Của Tiếng Vang. Bộ đồ đó bao gồm một chiếc áo choàng màu vàng có tua rua xanh với phần màu xanh lá ở tay áo, phân tách bởi những đường gấp khúc vàng và đen; một chiếc áo trắng bên trong có những tua rua ở gấu áo; và một chiếc quần đen phồng có những đường gấp khúc màu nâu. Ngoài ra, phụ kiện gồm một chiếc vòng cổ với mặt hình tam giác và những tua rua màu nâu, vòng vàng trên cánh tay, giày màu nâu và tất đen.
+
+- Tiểu Sử: (Sẽ được bổ sung)

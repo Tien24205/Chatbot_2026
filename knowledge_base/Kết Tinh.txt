@@ -1,0 +1,29 @@
+# Kết Tinh
+
+## Tổng Quan
+
+type: Phản Ứng Nguyên Tố
+
+Mảnh Kết Tinh có thể tồn tại trên sân đến 17,5 giây, tuy nhiên sẽ có một khoảng trễ trước khi có thể nhặt mảnh kết tinh. Nếu có trên 3 mảnh kết tinh cùng tồn tại, toàn bộ mảnh kết tinh sẽ biến mất sau 2s trừ ba mảnh mới nhất. Khiên được tạo ra từ mảnh kết tinh sẽ kéo dài 15s. Một người chơi chỉ có thể sở hữu cùng lúc một khiên kết tinh; khi nhặt mảnh kết tinh mới, khiên kết tinh mới sẽ thay thế khiên cũ. Mảnh kết tinh không gây hiệu quả gì lên kẻ địch.
+
+Trên cùng một mục tiêu, chỉ có thể gây ra kết tinh một lần mỗi giây.
+
+Lưu ý rằng trong thực chiến, Rồng Đất Nhỏ Nham và Nham Nguyên Bản Thuần Khiết có thể tạo ra Mảnh Nguyên Tố Nham, tuy nhiên các mảnh này khác so với mảnh nguyên tố được tạo ra bởi phản ứng Kết Tinh. Tuy rằng những mảnh nguyên tố này vẫn có thể nhặt và tạo khiên có màu sắc tương tự, tuy nhiên vẫn có thể chồng khiên Kết Tinh khác lên khiên Nham này — tức khiên Nham sẽ không thể bị ghi đè.
+
+## Lượng Khiên
+
+Lượng HP cơ bản của khiên Kết Tinh (hấp thụ sát thương) bắt nguồn từ cấp của nhân vật nguyên tố Nham kích hoạt phản ứng, sau đó được tăng thêm một phần trăm nhất định dựa trên thuộc tính Tinh Thông Nguyên Tố của nhân vật đó.
+
+Tương tự như các khiên khác, khiên nguyên tố này cũng có thể hấp thụ một lượng sát thương trước khi vỡ và có hiệu quả 250% đối với nguyên tố cùng loại (tức chỉ có thể nhận 40% sát thương từ nguyên tố đó so với các nguyên tố khác), đồng thời tăng Kháng Gián Đoạn cho nhân vật.
+
+Khiên kết tinh có thể tích tầng cùng khiên từ Thiên Phú và Cung Mệnh mà không bị ghi đè, tuy nhiên cả hai khiên vẫn sẽ nhận đồng thời cùng một lượng sát thương.
+
+Thuộc tính Hiệu Quả Khiên của nhân vật sẽ giảm lượng sát thương phải chịu của bất cứ khiên nào trên nhân vật xuất trận thay vì tăng lượng khiên được tạo ra.
+
+Đối với lượng Khiên Kết Tinh mỗi cấp, xem Phản Ứng Nguyên Tố/Hệ Số Cấp.
+
+Phần trăm HP Khiên qua Tinh Thông Nguyên Tố được dựa trên công thức:
+: 4,44 \times \frac{\text{Tinh Thông Nguyên Tố{\text{Tinh Thông Nguyên Tố} + 1400} \times 100 \%
+
+Công thức này có thể tính xấp xỉ (trong khoảng từ 0 đến 1000 Tinh Thông Nguyên Tố) như sau:
+:1,31676 + 0,285392 {\text{Tinh Thông Nguyên Tố - 0.000103375 {\text{Tinh Thông Nguyên Tố^2

@@ -1,0 +1,19 @@
+# Trang Phục
+
+## Tổng Quan
+
+type: Hệ Thống Trò Chơi
+group: Thời Trang
+group2: Tiền Tệ Hóa
+
+Trang Phục là mỹ phẩm cho các Nhân Vật Chơi Được và có thể được xem trước trong giao diện Thời Trang.
+
+Mỗi nhân vật đều sở hữu một Trang Phục Mặc Định, và có một số nhân vật sở hữu Trang Phục Thường Ngày đi kèm với Trang Phục Mặc Định của nhân vật đó. Trang phục đó sẽ tự động được mở khóa khi người chơi nhận nhân vật.
+
+Một số nhân vật cụ thể còn có trang phục không phải là trang phục mặc định/thường ngày - có thể được gọi là "Trang Phục Chủ Đề". Trang Phục Chủ Đề có thể được mua tại hoặc nhận miễn phí thông quá sự kiện giới hạn thời gian; sau khi sự kiện giới hạn thời gian đó kết thúc, Trang Phục Chủ Đề sẽ được mở bán trong cửa hàng. Trang phục 4 sao thường có giá, trong khi đó trang phục 5 sao thường có giá và đi kèm với hiệu ứng đặc biệt, khác với trang phục 4 sao. (Độ hiếm của trang phục tách biệt với độ hiếm của nhân vật.)
+
+Người chơi có thể mua Trang Phục Chủ Đề cho cả các nhân vật mà họ không sở hữu; trang phục sẽ có thể sử dụng khi người chơi nhận được nhân vật mang trang phục đó.
+
+Nhân Vật mặc Trang Phục Chủ Đề sẽ có Lồng Tiếng đặc biệt khi họ được người chơi thêm vào đội.
+
+- Cửa Hàng Thời Trang Nhân Vật: Mua tại Cửa Hàng > Thời Trang Nhân Vật. Dấu ngoặc cho biết giá của trang phục trong thời gian giảm giá.

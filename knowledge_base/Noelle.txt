@@ -1,0 +1,37 @@
+# Noelle
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+quality: 4
+weapon: Trọng Kiếm
+element: Nham
+name: Noelle
+birthday: 21 tháng 03
+constellation: Hộ Tâm
+region: Mondstadt
+affiliation: Đội Kỵ Sĩ Tây Phong
+dish: Bánh Quế Mây Dày
+namecard1: Noelle - Bảo Vệ
+obtain: - Cầu Nguyện - Đổi Bụi Ánh Sáng
+releaseDate: 2020-09-28
+title: Đóa Hoa Chưa Vinh Danh
+title2: Hầu gái của Đội Kỵ Sĩ Tây Phong
+voiceEN: [[imdb:nm2269470
+Laura Faye Smith]]<ref name: "Noelle EN/JP-VA">Twitter: Công Bố Diễn Viên Lồng Tiếng tiếng Anh và Nhật
+voiceCN: Yanning (zh|宴宁)
+voiceJP: w|Kanon Takao|Kanon Takao (ja|高尾 奏音)
+voiceKR: w|ko:이보희 (성우)|Lee Bo-hee (ko|이보희)
+
+## Tổng Quan
+
+Noelle là một nhân vật hệ mà người chơi có thể điều khiển trong Genshin Impact.
+
+Cô được coi là "Hầu Gái Vạn Năng" của Đội Kỵ Sĩ Tây Phong, vô cùng mạnh mẽ và đáng tin cậy, luôn có mặt ở khắp mọi nơi, không gì là không làm được,.... Cô luôn nhiệt tình giúp đỡ những người gặp khó khăn, hoạn nạn, đến mức không màng cả tính mạng bản thân, dù có là việc nhỏ nhặt thế nào đi chăng nữa. Noelle đã không biết bao lần cố gắng rèn luyện để được trở thành một thành viên chính thức của Đội Kỵ Sĩ Tây Phong, nhưng giấc mơ ấy tới nay vẫn chưa thể thành hiện thực.
+
+## Có Mặt Trong
+
+- Cầu Nguyện Thường Du Hành Thế Gian
+- Cầu Nguyện Đề Xuất Cho Người Mới (Không giới hạn cho đến khi đủ 20 lần cầu nguyện)
+- Trong cầu nguyện này, người chơi chỉ có thể nhận Noelle một lần duy nhất vào lượt cầu nguyên thứ 8.
+- Tất cả Sự Kiện Cầu Nguyện Nhân Vật và Sự Kiện Cầu Nguyện Vũ Khí

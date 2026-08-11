@@ -1,0 +1,32 @@
+# Varesa
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+quality: 5
+weapon: Pháp Khí
+element: Lôi
+name: Varesa
+birthday: 15 tháng 11
+constellation: Đấu Sĩ Giả Diện
+region: Natlan
+affiliation: Cộng Đồng Trù Phú
+affiliationLabel: Teteocan
+dish: Dãy Núi Nấm (Suất Một Người)
+namecard: Nguồn Gốc Sức Mạnh
+obtain: Sự Kiện Cầu Nguyện
+event_name: Cặp Sừng Giác Đấu
+releaseDate: 2025-03-26
+title: Sức Mạnh Nhàn Nhã
+title2: Chiến Binh Mạnh Mẽ Kiêm Chủ Vườn Trái Cây Tại Cộng Đồng Trù Phú
+voiceEN: [[imdb:nm10145347
+Jane Jackson]]<ref name: "Varesa EN Voice Actress">YouTube: Chương Trình Đặc Biệt Genshin Impact Phiên Bản 5.5 (Mốc thời gian: 14m 39s)
+voiceCN: Qiao Su (zh|乔苏)
+voiceJP: w|Mao Ichimichi|Ichimichi Mao (M・A・O)
+voiceKR: Kim Ye-rim (ko|김예림)YouTube: 원신
+
+## Tổng Quan
+
+Varesa là một nhân vật hệ chơi được trong Genshin Impact.
+
+Là chủ vườn trái cây đến từ Cộng Đồng Trù Phú, Varesa có một lối sống ung dung thong thả. Trên chiến trường, cô là một chiến binh với tốc độ và sức mạnh vượt trội và được những đứa trẻ trong bộ tộc phong cho danh hiệu "chiến binh đeo mặt nạ". Cô nổi tiếng vì niềm đam mê với các cuộc thi ăn uống, Varesa có thể tiêu thụ lượng thức ăn cực lớn nhờ sự thèm ăn phi thường của mình.

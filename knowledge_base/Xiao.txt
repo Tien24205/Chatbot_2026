@@ -1,0 +1,31 @@
+# Xiao
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+quality: 5
+weapon: Vũ Khí Cán Dài
+element: Phong
+name: Xiao
+birthday: 17 tháng 04
+constellation: Kim Sí Bằng Vương
+affiliation: Tiên Nhân
+affiliation2: Dạ Xoa
+region: Liyue
+dish: Giấc Mộng Đẹp
+obtain: Sự Kiện Cầu Nguyện Nhân Vật
+event_name: Lời Mời Pháo Hoa
+releaseDate: 2021-02-03
+title: Hộ Pháp Dạ Xoa
+title2: Hàng Ma Đại Thánh
+voiceEN: Laila Berzins
+voiceCN: Jinchuan (金船), aka "kinsen"
+voiceJP: [[wikipedia:Yoshitsugu Matsuoka
+Yoshitsugu Matsuoka (松岡 禎丞)]]<ref name: "Xiao EN/JP"/>
+voiceKR: Jeong Yoo-Mi (정유미)(~2020/12/22) Sim Kyuhyuk (심규혁)(2020/12/22~)
+
+## Tổng Quan
+
+ là nhân vật hệ chơi được trong Genshin Impact.
+
+Anh là một Tiên Nhân với tước hiệu Tam Nhãn Ngũ Hiển Tiên Nhân. Xiao cũng là Kim Bằng trong Ngũ Hiển Tiên Nhân, năm vị Dạ Xoa được cử bởi Morax để khuất phục linh hồn ma quỷ ám Liyue, và cũng là thành viên duy nhất còn sống trong năm vị Dạ Xoa. Anh hiện đang sống trong Nhà Trọ Vọng Thư và sống ẩn mình khỏi đám đông và sự chú ý của con người.

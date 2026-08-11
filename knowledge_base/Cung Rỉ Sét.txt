@@ -1,0 +1,51 @@
+# Cung Rỉ Sét
+
+## Thông Tin Cơ Bản
+
+id: 15405
+type: Cung
+releaseDate: 2020-09-28
+quality: 4
+base_atk: 42
+2nd_stat_type: Tấn Công
+2nd_stat: 9%
+obtain: Cầu Nguyện
+passive: Cung Tên Tốc Xạ
+effect: Tăng (var1)% sát thương của tấn công thường, giảm 10% sát thương trọng kích.
+eff_rank1_var1: 40
+eff_rank2_var1: 50
+eff_rank3_var1: 60
+eff_rank4_var1: 70
+eff_rank5_var1: 80
+eff_att1: Tăng ST
+eff_att2: Tăng ST Tấn Công Thường
+eff_att3: Giảm ST Trọng Kích
+
+- Tổng Quan: Cung Rỉ Sét là cung Liyue.
+
+## Câu Chuyện
+
+Cây cung cũ cứng như sắt thép, từng thuộc về xạ thủ lừng danh,
+Từng thấy ma vật và thổ phỉ như ngọn lau đổ xuống trong mưa.
+Tương truyền rằng, người này đam mê với xạ thuật,
+Tiếng dây cung không chỉ như bão sét,
+Mũi tên xé toạc không gian như cơn mưa sắt che lấp mặt trời.
+
+Cung thủ vào những năm cuối đời đã nhận ra:
+"Lời nói hay thì không có tiếng, tài bắn giỏi thì không thấy mũi tên"
+
+Từ đó không còn nói về trận đấu mà cung tên va chạm vào nhau trên không trung nữa.
+Cũng không nói về những con quái vật bị bắn hạ.
+
+Từ đó về sau, ông chôn vùi đại cung và ẩn cư ở vùng núi bên ngoài thành phố.
+
+Về cái chết của ông, có truyền thuyết kể rằng:
+Khi ông còn sống, căn biệt thự vang lên tiếng dây cung cùng mũi tên tím, khiến ma vật tà quái không dám đến gần. Đêm anh chết có gió và mưa.
+Sấm vang lên, khiến tia điện xuyên ngang bầu trời, như tên bay.
+
+- Cầu nguyện thường Du Hành Thế Gian (Không giới hạn thời gian) - Tất cả Cầu Nguyện Vũ Khí
+
+## Từ Nguyên
+
+- Tên tiếng Trung của Cung:弓藏 là một phần của câu thành ngữ.Nghĩa bóng của nó chỉ sự phụ người,vong ân bội nghĩa,vứt bỏ không thương tiếc sau khi lợi dụng người ta để đạt được mục đích cho riêng mình.
+- Câu trong phần câu chuyện "tài bắn giỏi thì không thấy mũi tên" rất có thể là ám chỉ đến cụm từ trong ', một cuốn sách cổ của Trung Quốc mô tả triết lý của Đạo giáo. Toàn bộ phần câu chuyện có thể được lấy cảm hứng từ cuốn tiểu thuyết Nhật Bản Legend of the Master của (người lấy cảm hứng từ Liệt Tử), sau đó dựng thành phim được làm bởi với tên To Shoot without Shooting.

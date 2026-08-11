@@ -1,0 +1,26 @@
+# Charlotte
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+quality: 4
+weapon: Pháp Khí
+element: Băng
+arkhe: Pneuma
+name: Charlotte
+birthday: 10 tháng 04
+constellation: Chân Thị Kính
+region: Fontaine
+affiliation: Chim Hơi Nước
+dish: Tin Tức Độc Quyền – Mục Ẩm Thực
+namecard: Độc Quyền
+obtain: Cầu Nguyện
+releaseDate: 2023-11-08
+title: Ống Kính Sự Thật
+title2: Phóng Viên Báo Chim Hơi Nước
+father: Galanopoulo
+voiceEN: [[imdb:nm3622625
+Maya Aoki Tuttle]]<ref name: "Version 3.7 Trailer">YouTube: Video Giới Thiệu Phiên Bản 3.7 "Đỉnh Cao Triệu Hồi" (Mô tả video)
+voiceCN: Ruan Congqing (zh|阮从青 )
+voiceJP: w|Azumi Waki|Waki Azumi (ja|和氣あず未)
+voiceKR: Shin On-yu (ko|신온유)

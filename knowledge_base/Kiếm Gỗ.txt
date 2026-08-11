@@ -1,0 +1,50 @@
+# Kiếm Gỗ
+
+## Thông Tin Cơ Bản
+
+title: Kiếm Gỗ
+id: 11417
+type: Kiếm Đơn
+quality: 4
+series: Aranara
+obtain: Rèn
+diagram: Sold By|Câu Chuyện Về Sa Mạc
+base_atk: 44
+2nd_stat_type: Hiệu Quả Nạp Nguyên Tố
+2nd_stat: 6,7%
+passive: Chúc Phúc Của Rừng
+effect: Sau khi kích hoạt phản ứng Thiêu Đốt, Sinh Trưởng, Tăng Cường, Lan Tràn, Sum Suê, Nở Rộ hoặc Bung Tỏa sẽ sản sinh "Lá Tri Thức" tồn tại tối đa 10s ở xung quanh nhân vật. Nhân vật khi nhặt "Lá Tri Thức" sẽ tăng (var1) điểm Tinh Thông Nguyên Tố, duy trì 12s. Mỗi 20s tối đa sản sinh một "Lá Tri Thức" bằng cách này. Nhân vật khi không ra trận cũng sẽ kích hoạt. Hiệu ứng Lá Tri Thức không thể cộng dồn.
+eff_rank1_var1: 60
+eff_rank2_var1: 75
+eff_rank3_var1: 90
+eff_rank4_var1: 105
+eff_rank5_var1: 120
+eff_att1: Tinh Thông Nguyên Tố
+eff_att2: Phụ Thuộc Vào Phản Ứng Nguyên Tố
+releaseDate: 2022-08-24
+
+- Tổng Quan: Kiếm Gỗ là một Kiếm Đơn 4 sao rèn được. Nó là một phần của Chuỗi Aranara.
+
+## Câu Chuyện
+
+"Đây là câu chuyện đến từ Valuka..."
+
+Khi ấy khu rừng vẫn là sa mạc lấp lánh ánh vàng, chúng tôi vẫn chưa sinh ra từ quả lựu.
+
+Từng có ba người bạn. Bọn họ thân nhau như Araji, Aramaha và Arayama.
+
+Nhưng trong ba người bạn ấy, có một người quay về với đất mẹ, hai người khác cũng vì vậy mà cắt đứt với nhau.
+
+Một trong số đó quyết tâm xây dựng vương quốc lý tưởng trên mặt đất, khiến tất cả đau thương biến mất từ đây.
+
+Một người khác thì quyết định ở lại cùng cây cối và thảm cỏ, khiến mặt đất tràn ngập tri thức và hạnh phúc.
+
+Đến cuối cùng, vương quốc sẽ sụp đổ, trí tuệ bị bóp méo, định nghĩa của hạnh phúc cũng thay đổi.
+
+Các người sẽ quên đi giấc mơ của mình, mà chúng tôi sẽ lùi về trong mơ, quên đi sự xoay chuyển của nhật nguyệt.
+
+Dù là vậy, sâu trong sa mạc vẫn in hằn câu chuyện của tôi và bạn, cũng giống như dấu chân mà Vua Rừng Rậm để lại,
+
+Dấu vết tình bạn ngày xưa, nghe nói giống như Aranara biến thành hạt giống, vẫn còn lẳng lặng ngủ say.
+
+- Rèn - Bản vẽ Câu Chuyện Về Sa Mạc nhận được từ Aravinay. Đổi 1 Câu Chuyện Về Bạn Và Aranara với một trong những bản vẽ có sẵn trong cửa hàng của chúng.

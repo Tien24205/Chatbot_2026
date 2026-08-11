@@ -1,0 +1,78 @@
+# Barbatos
+
+## Thông Tin Cơ Bản
+
+type: NPC Nhiệm Vụ
+element: Phong
+title: Thần Tự Do
+title2: Tinh Linh
+title3: Phong Thần
+region: Mondstadt
+location: Mondstadt
+affiliation: Bảy Vị Thần
+affiliation2: Thiên Phong
+group: Thần
+voiceEN: w|Erika Harlacher
+voiceCN: Miaojiang (喵酱)
+voiceJP: w|Ayumu Murase|Ayumu Murase (村瀬歩)
+voiceKR: w|ko:정유정 (성우)|Jung Yoo-jung (정유정)
+
+## Tổng Quan
+
+Barbatos, hay còn được gọi là Đại Nhân Barbatos hay Thần Tự Do, là Phong Thần trong số Bảy Vị Thần, là người cai quản Mondstadt.
+
+Cũng như như Morax, ngài là một trong hai thành viên ban đầu của Bảy Vị Thần vẫn còn sống cho đến thời điểm trò chơi bắt đầu. Ngài hiện đang du hành khắp thế giới trong lốt người phàm là nhà thơ Venti.
+
+Trong số Bảy Vị Thần, những người có sức mạnh tỉ lệ thuận với mức độ kiểm soát và sự tôn thờ từ con dân ở đất nước mà bản thân cai quản thì người yêu tự do như Barbatos không nghi ngờ gì chính là vị thần yếu nhất, bởi ngài đã từ chối trực tiếp cai quản con dân của mình. Tuy vậy, dù không xuất hiện nhiều nhưng ngài vẫn có rất nhiều con chiên ở Mondstadt, việc này khiến nhiều người ngoại quốc hoài nghi. Nói cách khác, một vài tín đồ trong chính nhà thờ của ngài cũng nghi ngờ về sự tồn tại của ngài.
+
+## Giới Thiệu
+
+Từng chỉ là một tinh linh tồn tại giữa những cơn gió, thực thể mang tên là Barbatos đã có được sức mạnh nhờ qua đức tin của người dân Mondstadt trong cuộc nổi dậy của họ chống lại Decarabian, Ma Thần Bão Tố, và cũng là kẻ đã gây dựng nên Mondstadt. Sau cái chết của Decarabian, Barbatos trở thành Phong Thần và tái lập Mondstadt ở hình dạng bây giờ.
+
+Giờ đây, Barbatos du hành khắp thế giới với thân phận nhà thơ Venti, dù rằng phần lớn thời gian người ta chỉ hay thấy cậu ở quanh Mondstadt.
+
+## Tính Cách
+
+Tương tự như hàm ý nằm trong Vision của ngài, Barbatos là một thực thể có một tinh thần đầy tự do, một bản chất tinh quái và một thái độ yêu đời thích hát mà nhiều lúc khiến người ta phải phát cáu bởi ngài quá hay đùa bỡn. Bởi ngài rất thích chơi nhạc và uống rượu, Morax, một người bạn của Barbatos và cũng là một trong Bảy Vị Thần nguyên sơ, đã nhận xét rằng ngài là "tên nhà thơ say xỉn" "hoàn toàn không hợp với hai từ nho nhã".
+
+Không như những thành viên khác trong Bảy Vị Thần, những người có những điều luật riêng đối với vùng đất nơi họ cai quản, thì Barbatos dường như không có điều luật nào, nhưng sẽ đích thân can thiệp nếu như quyền tự do của con dân bị đe dọa. Ngài đề cao tự do, nhất là tự do của trẻ con. Bởi thường xuyên vắng mặt, ngài là vị thần yếu nhất trong Bảy Vị Thần, tuy vậy ngài lại không quá để tâm vào điều đấy, và dù rằng không xuất hiện nhiều ở vùng đất của mình, con dân Mondstadt vẫn rất quý mến và cống hiến không ngừng vì ngài, đến mức khiến nhiều người ngoại quốc phải nghi hoặc.
+
+## Ngoại Hình
+
+Barbatos được miêu tả là một nhân vật nam mặc áo có mũ choàng với đôi cánh trên lưng. Quan sát kĩ hơn có thể thấy kiểu tóc của ngài có hai bím tóc tết ở hai bên. Hình dáng này sau này đã được tiết lộ là được dựa trên Nhà Thơ Vô Danh, người đã hy sinh trong cuộc nổi dậy giải phóng Mondstadt cũ.
+
+Barbatos ban đầu chỉ là một tinh linh gió không có hình dáng. Sau cuộc nổi dậy vào 2600 năm trước, ngài có được hình dáng của một tinh linh và được gọi như vậy. Mặc dù khá nhỏ bé so với con người bình thường, hình dáng tinh linh của ngài có một bộ lông vũ màu trắng và xanh lá, một viên kim cương xanh đính trên ngực, và một gương mặt tối màu với đôi mắt trắng.
+
+## Lịch Sử
+
+2600 năm trước, thực thể được biết đến là Barbatos bây giờ, trước đây chỉ là một tinh linh gió không tên, không hình dáng ở Mondstadt Cũ. Ngài đã kết giao với Nhà Thơ Vô Danh, người có khao khát được nhìn ra thế giới bên ngoài cơn bão dữ dội đang bủa vây lây thủ đô của Decarabian. Dưới thân phận "tinh linh", ngài đã tham gia vào cuộc nổi dậy của nhà thơ, và sau một trận chiến quyết liệt, họ đã tiêu diệt được kẻ bạo chúa độc tài.Còn Vua sói nghĩ rằng mình ghét loài người, tự cảm thấy không thể hiểu cuộc sống hạnh phúc của loài người, do đó cảm thấy không có tư cách để trở thành vua gió của trần thế. Nên nó đã lựa chọn biến mất. Việc đầu tiên mà Barbatos làm bằng sức mạnh của mình là tái tạo lại hình dáng của Nhà Thơ Vô Danh trong ký ức của mình, bởi cậu đã hy sinh trong trận chiến với Decarabian.
+
+Barbatos đã định hình lại địa hình và khí hậu của Mondstadt về trạng thái hiện tại, còn Andrius — người mà đến cuối đời của hắn — đã nhận ra rằng cơn bão tuyết dữ dội của hắn chỉ có thể lấy đi sinh mạng nên đã quyết định để sức mạnh của mình chảy vào Mondstadt và nuôi dưỡng vùng đất này. Sau khi chết đi, hắn đã trở thành một trong Tứ Phong Thủ Hộ của Mondstadt với hình dáng bằng băng mà ta thường thấy ở Lang Lãnh.
+
+Sau khi Chiến Tranh Ma Thần kết thúc vào 2000 năm trước, Barbatos đã trở thành một trong Bảy Vị Thần nguyên sơ giành được chiến thắng. Ngài trở nên khá thân thiết với Morax, vị Nham Thần cai quản quốc gia láng giềng Liyue. Trong một sự cố không rõ khoảng 500 năm trước, mối quan hệ của ngài với Tsaritsa trở nên chua chát. Sau khi thiết lập vùng đất của mình thành vùng đất tự do, Barbatos từ chối trực tiếp cai trị người dân của mình và rời đi.
+
+Một khoảng thời gian sau Chiến Tranh Ma Thần, Xiao đã được cứu rỗi bởi một người thổi sáo. Xiao đoán rằng người đó là Barbatos, bởi chỉ một trong Bảy Vị Thần mới có thể tạo ra thứ âm nhạc êm ái có thể tác động đến anh như vậy.
+
+## Kết Thúc Của Gia Cấp Quý Tộc
+
+Mặc dù là vùng đất của tự do, Mondstadt không phải lúc nào cũng tự do. Khoảng 1600 năm sau sự sụp đổ của Decarabian, Gia Tộc Lawrence, một nhóm quý tộc cai trị Mondstadt, đã dần trở nên thối nát và chuyên áp bức, chống tại tất cả những gì Barbatos đã làm cho con dân. Nhận thấy tình trạng diễn ra ở vùng đất của mình, Barbatos đã một lần nữa hạ thế xuống Mondstadt. Bằng thủ thuật của mình, ngài đã trợ giúp Vennessa trong cuộc nổi dậy chống lại giai cấp quý tộc. Sau khi lật đổ ách áp bức thống trị, cô đã lập nên Đội Kỵ Sĩ Tây Phong và tự do đã trở lại trên Mondstadt. Barbatos quyết định ở lại Mondstadt để đón nhìn thành quả từ việc làm của Vennessa. Sau khi hài lòng, ngài một lần nữa cất bước khởi hành từ vùng đất Mondstadt. Còn Vennessa, cô đã được các vị thần lựa chọn, được thăng thiên lên Celestia với hình dáng một con chim ưng và cô vẫn luôn dõi theo Mondstadt cho đến ngày nay.
+
+## Tai Ương
+
+Trong tai ương diễn ra 500 năm trước, Barbatos đã tham gia vào công cuộc chống lại rồng Durin.
+
+Một nhà giả kim tên Rhinedottir, hay còn được biết đến với cái tên "Gold" thời bấy giờ, đã tạo nên rất nhiều quái vật hắc ám xuất hiện ở Teyvat phá hủy mọi thứ ngáng đường chúng; và Durin là một trong số chúng. Durin đã xuất hiện ở Mondstadt và gây ra ô uế ở đó, không có ai trong quốc gia đủ mạnh để chống lại nó cả; Đội Kỵ Sĩ Tây Phong đã dẫn đầu một cuộc khai phá ở Khaenri'ah để tiêu diệt lũ quái vật dù phải chịu nhiều thương vong, trong đó có cả Sói con Rostam, và điều đó đã khiến Đại Đội trưởng Arundolyn hoang mang và không còn có thể tiếp tục chiến đấu nữa.
+
+Nghe được lời cầu khẩn của con dân mình, Barbatos đã thức tỉnh và triệu hồi Phong Long Dvalin đến và cùng nhau họ tiêu diệt Durin ở ngọn núi mà sau này được biết tới với cái tên Long Tích Tuyết Sơn
+
+Theo Venti, thân phận phàm tục của Barbatos, thì Khaenri'ah bị phá hủy bởi Thuật Đất Đen, một thuật giả kim có thể tạo ra sự sống Tuy nhiên, vào một thời điểm nào đó trong tai ương thời cổ đại, một sự kiện bí ẩn nào đó đã xảy ra khiến cho Nữ Hoàng Băng Giá bị tổn thương sâu sắc. Chuyện xảy ra khi đó đã khiến cô phẫn nộ tới mức cắt đứt mọi liên hệ với Barbatos, dù trước đó có quan hệ tương đối thân thiết..
+
+Sau tai ương, Barbatos quay trở lại giấc ngủ sâu. 500 năm sau đó, người dân Mondstadt đã quên đi tai ương và Tứ Phong Thủ Hộ. Và cũng theo đó, họ chẳng thể nào nhớ được hình dáng của Barbatos, người đã bảo vệ họ khỏi Độc Long Durin 500 năm trước.
+
+## Ngày Nay
+
+Barbatos đã thức tỉnh vào vài tháng trước khi câu chuyện chính diễn ra khi biến cố về Phong Ma Long bắt đầu và Nhà Lữ Hành thức tỉnh. Nhận ra rằng Dvalin đã bị xâm thực bởi ma thuật của Vực Sâu, lại thêm vết thương khi chiến đấu với Durin, Barbatos (nay là Venti) đã cố gắng tạo nên một mối dây liên kết với Dvalin để chữa lành cho nó. Tuy nhiên sau đó họ lại bị Nhà Lữ Hành cùng Paimon vô tình ngắt ngang khiến Davalin bay đi, và họ lại mất kết nối. Việc này ngược lại đã khiến Venti bị nhiễm ma thuật Vực Sâu khiến cậu phải tạm rút lui.
+
+Cùng với sự giúp sức của Nhà Lữ Hành, Diluc và Jean, Venti đã chữa trị thành công cho người bạn cũ của mình tại tòa tháp của Decarabian, nơi mà Dvalin đã tạm trú lại trước đó. Dù vậy, tuy là đã có nhận thức nhất định đối với Fatui, một tổ chức được thành lập bởi Tsaritsa sau tai ương thời cổ đại, cậu đã mất đi cảnh giác và bị mai phục bởi Signora, một trong 11 Quan Chấp Hành Của Fatui. Cô ta sau đó đã thành công lấy đi Gnosis của cậu
+
+Venti sau đó đã đến cây thần ở Phong Khởi Địa để trị thương. Sau khi Nhà Lữ Hành tìm được cậu ở đó, Venti đã giải thích ngắn gọn cho Nhà Lữ Hành về Gnosis, về Nguyên Thần và trả lời một vài câu hỏi về Fatui và Giáo Đoàn Vực Sâu. Sau đó cậu thông báo cho Nhà Lữ Hành và Paimon rằng đã sắp tới Điển Lễ Thỉnh Tiên ở Liyue, và rằng nếu lần này để lỡ, họ sẽ phải đợi một năm nữa thì vị thần cai trị Liyue, Morax mới xuất hiện.

@@ -93,6 +93,31 @@ _PROSE_TAIL = re.compile(r",\s+(?=[^A-ZĐÀ-Ỹ0-9])")
 # bắt nhầm khắp nơi) — bỏ qua để tránh nhiễu.
 MIN_SURFACE_LEN = 3
 
+# Vai trò có quá nhiều thực thể thì không còn phân biệt được gì.
+#
+# Cạnh `tương_tự` nối ĐÔI MỘT mọi thực thể cùng vai trò khác tài liệu, nên chi phí
+# là bậc hai. Với knowledge base cào từ wiki (mỗi bài một file), nhóm "NPC Nhiệm
+# Vụ" có 185 thực thể -> ~17.000 cạnh, mà "cùng là NPC nhiệm vụ" chẳng nói lên
+# điều gì về quan hệ giữa hai NPC cụ thể. Đây đúng là lý do "khái niệm" bị loại
+# từ đầu, chỉ khác là giờ đo được bằng số.
+#
+# Đặt 60 sau khi ĐO trên knowledge base thật (895 trang wiki Genshin):
+#   giữ  — Kiếm Đơn 53, Pháp Khí 52, Cung 47, Vũ Khí Cán Dài 40, Khu Vực 19,
+#          nguyên tố 18  -> "hai vũ khí cùng loại" là quan hệ dùng được
+#   loại — khái niệm 992, chủ đề 285, Chơi Được 118, NPC Nhiệm Vụ 78
+#          -> "hai nhân vật cùng là nhân vật chơi được" không nói lên điều gì
+MAX_SIMILAR_GROUP = 60
+
+# Cạnh đồng xuất hiện chỉ giữ khi hai thực thể gặp nhau ở NHIỀU HƠN một chunk.
+# Gặp nhau đúng một lần thường là trùng hợp; giữ lại thì số cạnh phình theo số
+# chunk mà không thêm thông tin.
+MIN_COOCCURRENCE = 2
+
+# Dòng `type: Chơi Được` do 09_fetch_fandom.py sinh từ infobox. Với tài liệu wiki,
+# đây là tín hiệu vai trò tốt hơn hẳn tiêu đề mục: tiêu đề mục của wiki là
+# "Tổng Quan", "Mô Tả", "Câu Chuyện" — không nói gì về việc trang đó nói về cái gì.
+_INFOBOX_TYPE = re.compile(r"^\s*type\s*:\s*(.+?)\s*$", re.IGNORECASE | re.MULTILINE)
+
 # Tiêu đề mục -> loại thực thể. Loại là thứ tạo ra cạnh `tương_tự` giữa các game,
 # nên nó phải phản ánh VAI TRÒ chứ không phải tên riêng.
 _KIND_RULES: tuple[tuple[str, str], ...] = (
@@ -162,8 +187,14 @@ def extract(docs: list[Document]) -> tuple[list[Entity], list[Edge]]:
                 if level == 1 and not doc_title:
                     doc_title = title
                     name, aliases = _split_alias(title)
-                    # Tài liệu có mục "Tổng quan" là một game; file thuật ngữ thì không.
-                    kind = "game" if "## Tổng quan" in doc.text else "chủ đề"
+                    # Ưu tiên vai trò lấy từ infobox (tài liệu wiki), sau đó mới
+                    # tới luật cũ cho knowledge base viết tay.
+                    m_type = _INFOBOX_TYPE.search(doc.text)
+                    if m_type:
+                        kind = m_type.group(1)
+                    else:
+                        # Tài liệu có mục "Tổng quan" là một game; file thuật ngữ thì không.
+                        kind = "game" if "## Tổng quan" in doc.text else "chủ đề"
                     doc_entity = Entity(
                         name=name,
                         kind=kind,
@@ -199,11 +230,17 @@ def extract(docs: list[Document]) -> tuple[list[Entity], list[Edge]]:
             if doc_entity is not None:
                 edges.append(Edge(ent.key, doc_entity.key, "thuộc_về"))
 
+        # Với tài liệu wiki, thực thể đáng kể của cả trang chính là TIÊU ĐỀ TRANG
+        # (Nahida, Bạch Hồ Đông Vũ). Phải đưa nó vào by_kind thì cạnh `tương_tự`
+        # mới nối được "các Kiếm Đơn" hay "các nhân vật chơi được" với nhau.
+        if doc_entity is not None:
+            by_kind[doc_entity.kind].append(doc_entity)
+
     # Cạnh `tương_tự`: cùng vai trò nhưng khác tài liệu.
     # Đây là cạnh mà vector search KHÔNG thể thay thế — Baron Nashor và Thần Rừng
     # không giống nhau một chữ nào, chúng chỉ cùng là "mục tiêu trung lập".
     for kind, group in by_kind.items():
-        if kind == "khái niệm":
+        if kind == "khái niệm" or len(group) > MAX_SIMILAR_GROUP:
             continue  # quá rộng, nối tất cả với tất cả thì thành nhiễu
         for i, a in enumerate(group):
             for b in group[i + 1 :]:
@@ -390,7 +427,9 @@ def build(conn: psycopg.Connection, docs: list[Document]) -> dict:
                     cooc[(a, b) if a < b else (b, a)] += 1
 
         all_edges = list(edges) + [
-            Edge(a, b, "đồng_xuất_hiện", float(w)) for (a, b), w in cooc.items()
+            Edge(a, b, "đồng_xuất_hiện", float(w))
+            for (a, b), w in cooc.items()
+            if w >= MIN_COOCCURRENCE
         ]
         cur.executemany(
             """

@@ -1,0 +1,39 @@
+# Collei
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+quality: 4
+weapon: Cung
+element: Thảo
+name: Collei
+birthday: 08 tháng 05
+constellation: Tẩu Miêu
+region: Sumeru
+affiliation: Làng Gandharva
+affiliation2: Đội Kiểm Lâm
+dish: Khát Khao
+namecard: Quân Tử
+obtain: - Cầu Nguyện - Khiêu Chiến Thâm Cảnh - Bức Màn Lá Xanh
+releaseDate: 2022-08-24
+title: Mầm Non Tái Sinh
+title2: Kiểm Lâm Tập Sự Rừng Avidya
+voiceEN: Christina Costello
+voiceCN: Qin Wenjing (zh|秦文静)
+voiceJP: Maekawa Ryoko (ja|前川涼子)
+voiceKR: Bang Siu (ko|방시우)
+
+## Tổng Quan
+
+Collei là một nhân vật hệ chơi được trong Genshin Impact.
+
+Từng là một nạn nhân mắc Eleazar và phải chịu đựng các cuộc thí nghiệm trên cơ thể con người của Fatui, Collei sau đó đã lang thang khắp nơi cho đến khi gặp được Amber ở Mondstadt. Từ đó, cuộc đời Collei bước sang trang mới và hiện cô đang làm Kiểm Lâm tại Rừng Avidya.
+
+Cô xuất hiện lần đầu tiên trong Manga chính thức và đóng vai trò là một trong những nhân vật chính.
+
+## Cách Nhận
+
+- Cầu nguyện thường Du Hành Thế Gian (Vĩnh Viễn) từ Phiên Bản 3.1
+- Tất cả sự kiện Cầu Nguyện Nhân Vật và Cầu Nguyện Vũ Khí từ Phiên Bản 3.1
+- Bức Màn Lá Xanh (Vĩnh Viễn)
+- Sự Kiện Trở Về Tuổi Thơ (24 tháng 08, 2022 - 28 tháng 09, 2022)

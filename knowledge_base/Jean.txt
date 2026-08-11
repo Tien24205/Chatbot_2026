@@ -1,0 +1,40 @@
+# Jean
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+quality: 5
+weapon: Kiếm Đơn
+element: Phong
+name: Jean
+realname: Jean Gunnhildr
+birthday: 14 tháng 03
+constellation: Ấu Sư
+region: Mondstadt
+affiliation: Đội Kỵ Sĩ Tây Phong
+affiliation2: Tứ Phong Thủ Hộ
+affiliation3: Gia Tộc Gunnhildr
+dish: Pizza Tỉnh Táo
+namecard1: Jean - Hướng Gió
+obtain: Cầu Nguyện
+releaseDate: 2020-09-28
+title: Kỵ Sĩ Bồ Công Anh
+title2: Đội Trưởng Đại Diện
+voiceEN: [[imdb:nm7604056
+Stephanie Southerland]]<ref name: "Jean EN/JP">Facebook: Công Bố Diễn Viên Lồng Tiếng tiếng Anh và Nhật
+voiceCN: Lin Su (zh|林簌)
+voiceJP: w|Chiwa Saitō|Saitou Chiwa (ja|斎藤 千和)
+voiceKR: w|ko:안영미 (성우)|Ahn Young-mi (ko|안영미)
+ancestry: Gia Tộc Gunnhildr
+father: Seamus Pegg
+mother: Frederica Gunnhildr
+sibling: Barbara
+siblingNote: em gái
+
+## Tổng Quan
+
+Jean Gunnhildr là một nhân vật hệ mà người chơi có thể điều khiển trong Genshin Impact.
+
+Là con gái của Frederica Gunnhildr và Seamus Pegg, chị gái của Barbara và là hậu duệ của Gia Tộc Gunnhildr danh giá, Jean là quyền Đội Trưởng của Đội Kỵ Sĩ Tây Phong. Cô luôn xử lý tình trạng bất ổn trên khắp Mondstadt và làm việc không mệt mỏi để đêm lại yên bình cho Thành phố Tự do này.
+
+- Cầu Nguyện Thường Du Hành Thế Gian - Cầu Nguyện Đề Xuất Cho Người Mới (Không giới hạn cho đến khi đủ 20 lần cầu nguyện) - Tất cả Sự Kiện Cầu Nguyện Nhân Vật

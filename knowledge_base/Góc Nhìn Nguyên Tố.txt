@@ -1,0 +1,51 @@
+# Góc Nhìn Nguyên Tố
+
+## Tổng Quan
+
+type: Khả Năng Thám Hiểm
+
+Góc Nhìn Nguyên Tố là một cơ chế Thám Hiểm cho phép nhìn thấy Dấu Vết Nguyên Tố trong Thưởng Thảo Phạt,xác định vị trí Tiên Linh từ Tiên Linh Đình,xem các đối tượng có thể tương tác được và hơn thế nữa.Nó sử dụng bằng cách nhấn biểu tượng Góc Nhìn Nguyên Tố cạnh bản đồ nhỏ,giữ nút Chuột giữa hoặc L1 + Cần trái.
+
+Góc Nhìn Nguyên Tố tự động hủy khi di chuyển một đoạn ngắn và phải kích hoạt lại.Góc Nhìn Nguyên Tố có phạm vi phủ lớn nhưng vẫn hạn chế dựa trên vị trí nhân vật khi kích hoạt.Do đó, tùy và phần cài đặt hình ảnh trên thiết bị,bạn có thể thấy các đối tượng ở xa bạn hơn tầm phủ của Góc Nhìn Nguyên Tố.Phạm vi được biểu thị bằng đường trắng lớn bao trùm toàn bộ khu vực trong phạm vi. Ngoài ra, khi tìm kiếm dấu vết nguyên tố trong Thưởng Thảo Phạt và một số nhiệm vụ, chỉ có thấy các dấu vết ở gần.
+
+Có thể chụp được Góc Nhìn Nguyên Tố bằng Máy Ảnh và Máy Ảnh Đặc Chế.
+
+## Góc Nhìn Nguyên Tố ở Teyvat
+
+Ở Teyvat,việc có thể sử dụng Góc Nhìn Nguyên Tố — hay được biết đến là khả năng cảm nhận nguyên tố — đồng nghĩa với việc sở hữu Vision hoặc ít nhất là có khả năng thao tác với Nguyên Tố.Nhật Ký Rách Nát Nguyên Thần từ bỏ Vision vẫn có khả năng cảm nhận nguyên tố. Bản thân Góc Nhìn Nguyên Tố rất hữu ích trong việc nghiên cứu thực địa, đây là một trong những lý do mà học giả không có Vision sẽ gặp khó khăn.
+
+Mặc dù dấu vết nguyên tố không thể cảm nhận với những người không có Vision (ngoài Nhà Lữ Hành), người ta luôn biết biết đến sự tôn tại của dấu vết nguyên tố và bất cứ thứ gì thuộc về nguyên tố đều có dấu vết nguyên tố,từ smile đến gió,kể cả con người.
+
+Khả năng cảm nhận nguyên tố thay đổi giữa những người sử dụng nguyên tố. Ví dụ: Lisa nghe nói rằng khả năng cảm nhận nguyên tố của Nhà Lữ Hành là "rất mạnh". Sau đó,Nhà Lữ Hành dường như thể hiện khả năng cảm nhận nguyên tố mạnh hơn Lisa,vì Lisa yêu cầu Nhà Lữ Hành vẽ lại nội dung bức thư thư nhìn dưới Góc Nhìn Nguyên Tố và nói rằng bức thư sẽ rõ ràng sau khi làm vậy. Ngoài ra,không phải tất cả các Nguyên Thần đều cảm nhận được nguyên tố ngay từ đầu.Ví dụ:Bennett hào hứng với "Kính bảo hộ của Nhà Giả Kim", một vật phẩm (rất tiếc là không tồn tại) được đồn là giúp cho mọi người nhìn thấy năng lượng nguyên tố.
+
+## Đối Tượng Được Đánh Dấu
+
+Khi Góc Nhìn Nguyên Tố được sử dụng,kẻ địch và các đối tượng bị ảnh hưởng bởi nguyên tố sẽ được tô bằng màu của nguyên tố tương ứng.Một số kẻ địch bị ảnh hưởng bởi nguyên tố, chẳng hạn như Slime Thủy hoặc áp dụng nguyên tố lên bản thân,chẳng hạn như Phong Nguyên Bản.
+
+Thanh máu của kẻ địch sẽ được thay bằng tên khi kích hoạt Góc Nhìn Nguyên Tố.
+
+Một số đối tượng nền có thể không luôn luôn không màu khi kích hoạt Góc Nhìn Nguyên Tố.
+
+Kẻ địch không được liệt kê trong bảng dưới đây.Những kẻ địch có giáp sẽ bị ảnh hưởng bởi nguyên tố trên giáp,và một số kẻ địch vốn đã bị ảnh hưởng bởi nguyên tố ngay cả khi không có giáp.Lưu ý rằng không phải tất cả kẻ địch nguyên tố đều bị ảnh hưởng bởi chình nguyên tố tương ứng.
+
+## Nhiệm Vụ
+
+Góc Nhìn Nguyên Tố,Dấu Vết Nguyên Tố hoặc Ma Pháp Nguyên Tố xuất hiện trong các nhiệm vụ:
+- Công Việc Phiền Phức (Nhiệm Vụ)
+- Quyển Sách Bị Mất
+- Nghiên Cứu Không Ngừng Nghỉ
+- Thực Nghiệm II - Thế Giới
+- Thuật Sĩ Giả Kim Trong Truyền Thuyết
+- Di Tích Lốc Xoáy
+- Vật bí mật bị mất
+- Tên Hắn Là "Quái Điểu"
+- Nỗi Tương Tư Của Người Ủy Thác Margaret
+- Tác Phong Của Kỵ Sĩ Trinh Thám
+- Hộ Pháp Dạ Xoa Đáng Ngờ
+- Không Hẹn Mà Gặp
+- Phi Hành Gia Của Mondstadt
+- Quần đảo huyền bí, cuộc hành trình đầy bất ngờ
+
+- Lá Rụng Về Cội - Chìa Khóa Là Vật Dễ Mất - Thuốc Thần Kỳ
+
+- Khác: Những thứ khác liên quan đến Góc Nhìn/Dấu Vết Nguyên Tố: - Thưởng Thảo Phạt - Nhật Ký Rách Nát

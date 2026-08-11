@@ -1,0 +1,12 @@
+# Gia Công
+
+## Chi Tiết
+
+type: Phương Thức Chế Tạo
+type2: Hệ Thống Trò Chơi
+
+- Tổng Quan: Gia Công là một Phương Thức Chế Tạo dùng để gia công một Nguyên Liệu Nấu Ăn thành một Nguyên Liệu Nấu Ăn khác theo mong muốn.
+
+Việc gia công một nguyên liệu đòi hỏi một lượng nguyên liệu và thời gian nhất định để hoàn thành. Những nguyên liệu nào và trong bao lâu tùy thuộc vào nguyên liệu mà người chơi đang cố gắng để gia công. Mỗi nguyên liệu chỉ có thể có 99 lần gia công cùng một lúc (ví dụ, 99 Bột Mì và 99 Kem). Người chơi nên thận trọng vì một khi đã bắt đầu gia công, quá trình gia công sẽ không thể bị hủy do đó các nguyên liệu không thể được hoàn lại.
+
+Sau khi người chơi có được Đèn Đốt Dạng Thí Nghiệm, việc Gia Công có thể được tăng tốc nhờ tốn số lượng quặng nhất định.

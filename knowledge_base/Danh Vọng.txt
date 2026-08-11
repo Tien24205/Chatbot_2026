@@ -1,0 +1,34 @@
+# Danh Vọng
+
+## Tổng Quan
+
+type: Hệ Thống Trò Chơi
+group: Tiến Độ
+group2: Giao Diện
+
+Danh Vọng, hay còn gọi Danh Vọng Thành Phố, là một hệ thống tiến độ gắn liền với mỗi quốc gia. Danh Vọng có thể đạt bằng cách hoàn thành Thưởng Thảo Phạt, Khẩn Cầu Của Cư Dân, Thám Hiểm Thế Giới và Nhiệm Vụ. Phần thưởng gồm Công Thức, Bản Vẽ Rèn, Bản Vẽ Ghép, Danh Thiếp, và Phong Chi Dực. Khác với Cây Chịu Lạnh, nhiệm vụ phần Danh Vọng vẫn có thể được thực hiện ngay cả khi Danh Vọng đạt mức tối đa.
+
+Mở khóa hệ thống Danh Vọng ở mỗi quốc gia yêu cầu Hạng Mạo Hiểm 25 và hoàn thành các nhiệm vụ sau:
+
+Khi Cấp Danh Vọng đạt mức tối đa ở một thành phố, không còn thể nhận EXP Danh Vọng. Thưởng Thảo Phạt và Khẩn Cầu Của Cư Dân có thể hoàn thành để nhận Mora và hoàn thành nhiệm vụ Nhật Ký Hành Trình.
+
+## Thưởng Thảo Phạt
+
+Thưởng Thảo Phạt được mở khóa khi đạt Cấp Danh Vọng 2. Chúng có thể được hoàn thành bằng cách chấp nhận thảo phạt từ NPC Danh Vọng, đi đến địa điểm được chỉ định, sử dụng Góc Nhìn Nguyên Tố để tìm kẻ địch, đánh bại kẻ chúng và nhận phần thưởng thảo phạt từ NPC Danh Vọng.
+
+Tổng cộng 3 Thưởng Thảo Phạt mỗi tuần có thể hoàn thành, giới hạn này được chia sẻ giữa các quốc gia với nhau. Lưu ý rằng Thưởng Thảo Phạt sẽ được đặt lại sau khi hoàn thành một lần nên thảo phạt cao nhất có thể hoàn thành 3 lần.
+
+## Khẩn Cầu Của Cư Dân
+
+Khẩn Cầu Của Cư Dân được mở khóa khi đạt Cấp Danh Vọng 2. Chúng có thể được hoàn thành bằng cách nhận nhiệm vụ từ NPC Danh Vọng. Sau khi nhận yêu cầu, chúng được coi như Nhiệm Vụ Thế Giới và có thể định vị từ menu Nhiệm Vụ. Khẩn Cầu Của Cư Dân được hoàn thành bằng cách gửi vật phẩm yêu cầu tới NPC đưa ra nó hoặc đánh bại trại địch được yêu cầu.
+
+Tổng cộng có 3 Khẩn Cầu Của Cư Dân trên tất cả quốc gia có thể hoàn thành mỗi tuần. Mỗi Khẩn Cầu thưởng 40 điểm Danh Vọng và 20.000 Mora.
+- Khẩn Cầu Của Cư Dân Mondstadt
+- Khẩn Cầu Của Cư Dân Liyue
+- Khẩn Cầu Của Cư Dân Inazuma
+- Khẩn Cầu Của Cư Dân Sumeru
+- Khẩn Cầu Của Cư Dân Fontaine
+
+- Thám Hiểm Thế Giới: Thám Hiểm Thế Giới được tiến bộ bằng cách giải câu đố, mở Rương, thùng gỗ, và hiến tế cho Thất Thiên Thần Tượng.
+
+- Cấp Danh Vọng và Phần Thưởng: Giảm giá 10% tại các cửa hàng được nêu, làm tròn có lợi cho người chơi đến bội gần nhất của 5 Mora.

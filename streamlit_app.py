@@ -26,10 +26,10 @@ from rag import config, graph, pipeline, store
 from rag.retry import RateLimited
 
 SUGGESTIONS = [
-    "Baron Nashor là gì?",
-    "Cơ chế pity trong Genshin ra sao?",
-    "Thần Rừng Liên Quân xuất hiện phút mấy?",
-    "Nerf nghĩa là gì?",
+    "Nahida là nhân vật như thế nào?",
+    "Phản ứng Bốc Hơi hoạt động ra sao?",
+    "Mondstadt là vùng đất nào?",
+    "Thánh Di Vật gồm những vị trí nào?",
 ]
 
 st.set_page_config(
@@ -198,8 +198,8 @@ with st.sidebar:
 if not st.session_state.turns:
     with st.chat_message("assistant"):
         st.markdown(
-            "Xin chào. Tôi trả lời dựa trên tài liệu về **Liên Minh Huyền Thoại**, "
-            "**Genshin Impact**, **Liên Quân Mobile** và thuật ngữ game.\n\n"
+            "Xin chào. Tôi trả lời dựa trên **wiki Genshin Impact tiếng Việt**: "
+            "nhân vật, vũ khí, thánh di vật, nguyên tố, khu vực và thuật ngữ trong game.\n\n"
             "Câu nào ngoài phạm vi đó tôi sẽ nói thẳng là không có thông tin, thay vì đoán."
         )
 

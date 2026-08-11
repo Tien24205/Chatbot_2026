@@ -1,0 +1,12 @@
+# Khám Phá Kỳ Vực
+
+## Tổng Quan
+
+type: Hệ Thống Trò Chơi
+group: Thiên Tinh Kỳ Vực
+
+Khám Phá Kỳ Vực là một hệ thống trò chơi trong Thiên Tinh Kỳ Vực và có thể truy cập thông qua Hướng Dẫn Cách Chơi.
+
+Hoàn thành các mục tiêu sẽ nhận được Huy Hiệu Khám Phá, Ngoại Hình, Tinh Thể Tái Hiện và Nguyên Liệu Rực Rỡ. Sau khi thu thập đủ 150 Huy Hiệu Khám Phá sẽ nhận được Nón Slime Phong.
+
+Hoàn thành Khám Phá Kỳ Vực để mở khóa Phần Thưởng EXP cho Cấp Kỳ Vực.

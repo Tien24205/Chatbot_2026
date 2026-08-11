@@ -1,5 +1,11 @@
 # Chatbot RAG với PostgreSQL + pgvector
 
+> **Nguồn dữ liệu.** Knowledge base được cào từ
+> [Wiki Genshin Impact tiếng Việt](https://genshin-impact.fandom.com/vi) bằng
+> `09_fetch_fandom.py`, qua MediaWiki API. Nội dung gốc thuộc giấy phép
+> **CC BY-SA**; bản phái sinh trong `knowledge_base/` giữ nguyên giấy phép đó.
+> URL từng trang được ghi trong `knowledge_base/_manifest.json`.
+
 Chatbot hỏi đáp tiếng Việt trên knowledge base riêng, xây từ đầu bằng Python
 thuần — **không dùng LangChain hay LlamaIndex** — để mỗi tầng đều nhìn thấy được
 và đo được.
@@ -21,14 +27,14 @@ Nhật ký thiết kế và các bẫy đã vấp: [chatbot_rag_plan.md](chatbot
 ## Kiến trúc
 
 ```text
-                     KNOWLEDGE BASE (10 file .txt)
+                   KNOWLEDGE BASE (1.123 file .txt)
                                │
         ┌──────────────────────┴──────────────────────┐
         ↓                                             ↓
    Chunk theo tiêu đề `##`                    Trích thực thể (regex)
         ↓                                             ↓
-   Embedding (Gemini)                          Đồ thị: 189 thực thể
-        ↓                                      2352 cạnh, 3 loại quan hệ
+   Embedding (Gemini)                         Đồ thị: 2.590 thực thể
+        ↓                                      9.549 cạnh, 3 loại quan hệ
    PostgreSQL + pgvector                              │
    (HNSW, cosine, 1536 chiều)                         │
         │                                             │
@@ -162,7 +168,8 @@ rag/
 
 streamlit_app.py  Giao diện chat (Streamlit), gọi thẳng rag.pipeline
 api.py            REST API thuần: /api/chat, /api/health, /api/graph
-knowledge_base/   10 tài liệu tiếng Việt về game (9 game + 1 file thuật ngữ)
+09_fetch_fandom.py Tải + chuyển đổi knowledge base từ wiki Fandom (không tốn API)
+knowledge_base/   1.123 tài liệu cào từ wiki Genshin tiếng Việt (2.848 chunk)
 init.sql          Schema pgvector — số chiều 1536 có lý do, đọc chú thích
 pyproject.toml    Chỉ chứa cấu hình ruff, dự án không đóng gói
 ```

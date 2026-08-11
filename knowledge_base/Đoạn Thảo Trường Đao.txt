@@ -1,0 +1,84 @@
+# Đoạn Thảo Trường Đao
+
+## Thông Tin Cơ Bản
+
+id: 13509
+type: Vũ Khí Cán Dài
+releaseDate: 2021-09-01
+quality: 5
+base_atk: 46
+2nd_stat_type: Hiệu Quả Nạp Nguyên Tố
+2nd_stat: 12%
+series: Inazuma
+obtain: Cầu Nguyện Vũ Khí
+passive: Giấc Mơ Vĩnh Cửu - Nguyên Liệu Vĩnh Hằng
+effect: Tăng sức tấn công nhận được, mức tăng thêm tương đương (var1)% lượng dư ra trên 100% của Hiệu Quả Nạp Nguyên Tố, tối đa tăng (var2)% từ cách này. Trong 12s sau khi thi triển Kỹ Năng Nộ, tăng (var3)% Hiệu Quả Nạp Nguyên Tố.
+eff_rank1_var1: 28
+eff_rank2_var1: 35
+eff_rank3_var1: 42
+eff_rank4_var1: 49
+eff_rank5_var1: 56
+eff_rank1_var2: 80
+eff_rank2_var2: 90
+eff_rank3_var2: 100
+eff_rank4_var2: 110
+eff_rank5_var2: 120
+eff_rank1_var3: 30
+eff_rank2_var3: 35
+eff_rank3_var3: 40
+eff_rank4_var3: 45
+eff_rank5_var3: 50
+eff_att1: Tấn Công
+eff_att2: Kỹ Năng Nộ
+
+- Tổng Quan: là một vũ khí cán dài của Inazuma.
+
+- Tại Cấp Tinh Luyện 1, nhân vật sử dụng vũ khí này cần phải dư ra 286% Hiệu Quả Nạp Nguyên Tố (tức cần 386%) để tận dụng tối đa hiệu quả tăng Tấn Công của vũ khí này.
+
+## Câu Chuyện
+
+Trường đao là vũ khí dùng để cắt đứt hỗn loạn.
+
+Người cầm trường đao sẽ bảo vệ sự vĩnh hằng.
+
+Khi cô ấy nhìn xuống phàm trần mà cô ấy luôn muốn hướng đến,
+
+Nhìn thấy cuộc tranh chấp nông cạn, chấp niệm bỗng chốc tan biến...
+
+Sự tranh chấp bắt nguồn từ chấp niệm và ham muốn không cần thiết, chính là kẻ thù của sự vĩnh hằng.
+
+Những sự quấy nhiễu vĩnh hằng sẽ bị sấm sét thiêu hủy.
+
+"Vậy trong đôi mắt đó sẽ phản chiếu sự vĩnh hằng như thế nào?"
+
+Vẫn còn trong hồi ức rõ rệt ấy, vị thần cùng uống rượu dưới cây anh đào đã nói rằng,
+
+Thật là vấn đề vô vị.
+
+Tuy đã quên mất đáp án khi đó,
+
+Nhưng hiện đã tìm được đáp án trong vô số hồi ức đó.
+
+Quả ngọt thì cần bỏ quả non, quả tươi thì không nên hái hoa.
+
+Trên mảnh đất vĩnh hằng, không nên xen lẫn bất kỳ hỗn tạp nào.
+
+"Cho dù là vậy..."
+
+"Dùng ánh đao sắc bén để chặt đứt chấp niệm và thiêu hủy giấc mơ sinh sôi..."
+
+"Trong một thế giới không có tranh chấp và mất mát như vậy, sẽ mất đi ký ức.
+
+Trong trái tim vĩnh hằng, bằng hữu năm đó vẫn như xưa, hoa anh đào vẫn tựa như ngày nào.
+
+Nhưng tôi sẽ mãi không quên bạn. Cũng như tôi sẽ mãi không quên mọi thứ đã mất đi trong ngàn năm nay.
+
+Dù sao thì....
+
+Dù sao thì đã tận mắt chứng kiến cảnh khói đen dìm chết những người quan trọng,
+
+Sao có thể bỏ qua sự sinh tồn bất tận, sự trói buộc không thể giải như kẻ thù không đội trời chung.
+
+Nếu đã không ai có thể nghịch chuyển được thế sự vô thường,
+
+Vậy hãy đem tấm lòng thanh tịnh đến nơi mà cô ấy yêu mến.

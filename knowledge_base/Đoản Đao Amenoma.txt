@@ -1,0 +1,65 @@
+# Đoản Đao Amenoma
+
+## Thông Tin Cơ Bản
+
+id: 11414
+series: Tử Tinh
+type: Kiếm Đơn
+releaseDate: 2021-07-21
+quality: 4
+base_atk: 41
+2nd_stat_type: ATK
+2nd_stat: 12%
+obtain: Rèn
+diagram: Nhiệm vụ Kho Báu Nông Dân
+passive: Sự Kế Thừa Iwakura
+effect: Sau khi thi triển Kỹ Năng Nguyên Tố, nhận 1 Âm Chủng, hiệu quả này mỗi 5s nhiều nhất kích hoạt 1 lần. Âm Chủng kéo dài 30s, cùng lúc có thể tồn tại nhiều nhất 3 cái. Sau khi thi triển Kỹ Năng Nộ, sẽ xóa tất cả Âm Chủng hiện có, và 2s sau đó sẽ dựa vào số Âm Chủng tiêu hao mà hồi (var1) điểm năng lượng nguyên tố cho nhân vật đó.
+eff_rank1_var1: 6
+eff_rank2_var1: 7,5
+eff_rank3_var1: 9
+eff_rank4_var1: 10,5
+eff_rank5_var1: 12
+eff_att1: Sản Sinh Năng Lượng Nguyên Tố
+
+- Tổng Quan: Đoản Đao Amenoma là kiếm đơn thuộc Inazuma. Có thể nhận Bản vẽ dùng để rèn thanh kiếm này sau khi hoàn thành Nhiệm Vụ Thế Giới Kho Báu Nông Dân.
+
+## Lưu Ý Về Cơ Chế
+
+- Trong trò chơi, Âm Chủng được biểu thị là những quả cầu nhỏ màu tím phía trên kiếm cách.
+- Nhận Âm Chủng mới sẽ khởi động lại bộ đếm thời gian tồn tại 30s. Thời gian tồn tại của các Âm Chủng đều tính chung một bộ đếm 30s.
+- Âm Chủng không biến mất khi đổi nhân vật, vậy nên không cần để nhân vật dùng vũ khí này trên sân toàn thời gian để kích hoạt hiệu quả ở mức tối đa.
+- Để lấy Âm Chủng, chỉ cần thi triển Kỹ Năng Nguyên Tố, không bắt buộc phải trúng địch.
+
+## Mô Tả
+
+Một trong những bản sao của danh đao "Hakuen Michimitsu Amenoma".
+
+Được tặng cho nhà Saimon bởi tông chủ đầu tiên của phái Iwakura, "Douin".
+
+Đó là món quà cảm ơn vì sự chăm sóc đã nhận được trong thời gian sống ở Làng Konda.
+
+Theo truyền thuyết, bí kiếm "Tengu Càn Quét" của phái Iwakura là một chiêu thức chỉ có thể được sử dụng khi trong lòng không một chút bối rối.
+
+Trước đây cái tên "Tengu Càn Quét" được phát âm là "Chiến Thắng Tengu", là một thanh kiếm có thể chém rơi cả Tengu đang di chuyển trong không trung.
+
+Trong hàng trăm năm, kiếm sĩ Iwakura kế thừa cái tên "In" đã sử dụng bí kiếm để tiêu diệt vô số yêu quái trên quần đảo Inazuma.
+
+Nghe nói nơi "Tengu Càn Quét" khi mới hoàn thành là tại một ngôi đền nhỏ đã lụi bại.
+
+Thanh bí kiếm mạnh đến mức phá hủy tất cả các ngôi nhà, và thanh kiếm của Iwakura Douin cũng bị gãy làm đôi.
+
+Sau này, dựa vào kiếm thuật, ông đã tạo dựng nên phái Iwakura, trở thành người dẫn dắt gia tộc Kujou.
+
+Và đặt Amenoma lúc bấy giờ làm danh kiếm "Hakuen Michimitsu Amenoma" được lưu truyền cùng với danh tiếng "In".
+
+Có rất nhiều truyền thuyết liên quan đến thanh kiếm, nghe nói nó sắc bén đến nỗi có thể chém đứt cả duyên phận của con người.
+
+Về cái tên của thanh kiếm, người ta nói rằng đó là Iwakura Douin đã đặc biệt chỉ định cho Amenoma trong lúc chế tạo nó.
+
+- Rèn - Có thể nhận bản vẽ rèn sau khi hoàn thành nhiệm vụ Kho Báu Nông Dân.
+
+## Từ Nguyên
+
+- Ở bản tiếng Nhật, Đoản Đao Amenoma được gọi là. Ở Nhật Bản, chỉ một loại phụ phẩm. Trong nhiều trường hợp, để hướng tới sự hoàn mỹ của thanh đao, thợ rèn có thể rèn hai cả hai thanh. Với thanh đao tốt hơn, sau khi rèn xong, người thợ đặt tên cho nó và đưa cho người đặt rèn đao. Thanh đao kém hơn, được gọi là kageuchi, không được đặt tên, và người thợ rèn giữ lấy thanh đao này.
+- Bản gốc của thanh đao này có tên, tạm dịch là "Duyên Mỏng, Ngưỡng Vọng Ánh Sáng". Truyền thuyết nói rằng nó có thể chém đứt "duyên phận con người" (人の縁), có thể liên quan tới triết lý Phật Giáo rằng cắt đứt Thập Nhị Nhân Duyên hoặc "" (縁起), là rường cột của nhân gian và cũng là căn nguyên của khổ đau, sẽ giúp người ta tiến tới trạng thái thức tỉnh.
+- Ý nghĩa của cái tên này mang chung một chủ đề với Lưỡi Đao Vô Tưởng của Ei. Trong lịch sử, triết lý này của Phật Giáo khá tương đồng với triết lý của kiếm đạo, chủ yếu được phát triển bởi hai triết gia - kiếm sĩ và.

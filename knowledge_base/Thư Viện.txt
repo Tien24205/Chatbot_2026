@@ -1,0 +1,12 @@
+# Thư Viện
+
+## Tổng Quan
+
+type: Hệ Thống Trò Chơi
+group: Giao Diện
+
+Thư Viện tổng hợp dữ liệu vật phẩm và Nhật Ký Du Lịch trong trò chơi, mở khóa khi hoàn thành. Khi nhận Vật Phẩm, tiêu diệt Kẻ Địch, Sinh Vật Hoang Dã hoặc hoàn thành Nhiệm Vụ Ma Thần, Nhiệm Vụ Truyền Thuyết, dữ liệu về chúng được mở khóa. Thư Viện được chia làm 7 phần. Trong phần Thư Viện Trang Bị và Sách Sản Vật còn có thêm mô tả về vật phẩm, sinh vật.
+
+Tổng cộng có 2571 mục tính đến Phiên Bản 4.8.
+
+Không phải tất cả người chơi đều có thể mở khóa tất cả các mục; ví dụ, Giáo Trình "Hiện trỏ chuột" chỉ có thể mở khóa trên PC. Một số mục ra mắt vào Phiên Bản nhất định, nhưng chưa xuất hiện trong trò chơi cũng được đưa thông tin vào Thư Viện.

@@ -1,0 +1,88 @@
+# Hệ Thống Trò Chơi
+
+## Tổng Quan
+
+type: Genshin Impact
+
+Hệ Thống Trò Chơi là những hệ thống phụ bên trong Genshin Impact mà người chơi có thể tương tác, thường là để hỗ trợ trong việc Thám Hiểm, Chiến Đấu, Phát Triển, cũng như nâng cấp Nhân Vật và trang bị.
+
+## Thám Hiểm
+
+ ở điểm bắt đầu]]
+
+Trong quá trình Khám Phá, người chơi có thể bắt gặp nhiều câu đố và Vật Cản khác nhau, cũng như mở khóa các khu vực mới trên bản đồ Teyvat thông qua Thiên Thần Tượng. Người chơi có thể di chuyển giữa các khu vực đã mở khóa bằng cách sử dụng Điểm Dịch Chuyển.
+
+Teyvat có các quy luật và vật lý riêng, bao gồm Thời Gian, Thời Tiết và Khí Hậu. Một số Thiên Phú của nhân vật và các khả năng như Chạy Nhanh, Bơi và Leo Trèo cũng sẽ hỗ trợ người chơi khi họ du hành qua thế giới Teyvat.
+
+Các vật phẩm đặc biệt có thể thu thập được trong khi khám phá để mở khóa kho báu và nâng cấp mới cho người chơi:
+- Thần Đồng: thu thập đủ số lượng có thể nâng cấp Thất Thiên Thần Tượng, giúp tăng Thể Lực cho nhân vật.
+- Ấn Nguyên Tố: có thể đổi tại các cửa hàng để lấy phôi vũ khí, mảnh đá nguyên tố, Mora và các phần thưởng khác.
+- Chìa Khóa Đền Địa Linh: có thể sử dụng để mở khóa các đền địa linh nơi người chơi nhận được những kho báu quý giá.
+
+Trong lúc thám hiểm, người chơi sẽ gặp nhiều loại cơ quan khác nhau, thường là một phần của các câu đố, thử thách và các chướng ngại vật. Như là cưỡi Luồng Gió để bay lên không trung hoặc mở khóa Rương bằng cách kích hoạt các Bia Nguyên Tố hoặc Cơ Quan Cảm Ứng.
+
+## Chiến Đấu
+
+Trong quá trình khám phá thế giới, người chơi sẽ phải chiến đấu với Kẻ Địch, điều này sẽ mở ra các hệ thống cơ chế mới. Khi đi vào phạm vi gần của kẻ địch, chúng sẽ bị sẽ bị khiêu khích và bắt đầu tấn công người chơi. Để khiêu chiến những kẻ địch mạnh hơn và đánh bại chúng nhanh chóng hơn, người chơi có thể nâng cấp Thuộc Tính và Cung Mệnh của mình, giúp tăng lượng Sát Thương gây ra và mở khóa các kỹ năng chiến đấu mới như Gán Ấn Nguyên Tố, Khiên và Hồi Phục để hỗ trợ trong chiến đấu.
+
+Các Nguyên Tố cũng bị chi phối bởi các quy luật vật lý riêng, bao gồm Phản Ứng Nguyên Tố, Cộng Hưởng Nguyên Tố, Kháng Gián Đoạn và Thuyết Lượng Nguyên Tố.
+
+## Chế Tạo
+
+]]
+
+Để hỗ trợ cho việc khám phá và chiến đấu, người chơi có thể chế tạo nhiều loại vật phẩm khác nhau thông qua các hệ thống sau:
+- Giả Kim: Dùng để thực hiện Ghép các loại Thuốc, nguyên liệu đột phá nhân vật, nguyên liệu nâng cấp thiên phú và nguyên liệu đột phá vũ khí.
+- Nấu Ăn: Dùng để chế biến Thực Phẩm để hồi phục cho nhân vật khi chiến đấu hoặc tăng cường khả năng tấn công và phòng thủ.
+- Chế Tạo: Một hệ thống chế tạo đặc biệt trong hệ thống nhà ở Ấm Trần Ca, dùng để tạo ra Đồ Trang Trí mới.
+- Rèn: Dùng để chế tạo các Vũ Khí mới. Có thể các tiệm rèn như Xưởng Schulz hay tiệm của Lão Zhang.
+
+## Bí Cảnh
+
+ ở Màn Hình Tải]]
+
+Người chơi cũng sẽ mở khóa các Bí Cảnh mới, là các đấu trường riêng biệt để người chơi nhận Thánh Di Vật, nguyên liệu hoặc thực hiện Nhiệm Vụ và hoàn thành thử thách. Một số bí cảnh, bao gồm cả La Hoàn Thâm Cảnh, sẽ cho các kẻ địch có Hào Quang đặc biệt hoặc Địa Mạch Bất Thường để thay đổi cục diện trận đấu. Nhiều Sự Kiện cũng có thể có các bí cảnh riêng với Địa Mạch Bất Thường hoặc các hạn chế thử thách độc đáo.
+
+## Nhiệm Vụ
+
+]]
+
+Trong quá trình thực hiện nhiệm vụ và ủy thác, người chơi có thể phải hoàn thành các thử thách đặc biệt như bảo vệ Địa Mạch Trấn Thạch, hộ tống Khinh Khí Cầu Vận Chuyển hoặc phá hủy Khinh Khí Cầu Slime.
+
+## Chế Độ Chơi
+
+Trong quá trình thực hiện một số Nhiệm Vụ, Nhà Lữ Hành sẽ được trải nghiệm các chế độ gameplay độc đáo như Ẩn Nấp, nơi mục tiêu chính là tránh né sự phát hiện của kẻ địch hoặc bắt giữ một mục tiêu chỉ định. Một số sự kiện cũng sẽ mở ra những chế độ chơi riêng biệt, ví dụ như truy tìm Tiền Lạc Lối, nơi người chơi sẽ vào vai Thợ Săn hoặc Hiệp Sĩ, hay các trò chơi trong Lễ Hội Hoa Gió, bao gồm mô phỏng âm nhạc và thử thách bay lượn.
+
+Ngay khi vừa bắt đầu hành trình, Nhà Lữ Hành sẽ được đưa vào chế độ mô phỏng bay lượn: một trận chiến không trung với Dvalin, nơi mục tiêu là hạ gục thực thể này bằng cách nhắm bắn vào các điểm tụ máu độc của nó.
+
+Chế Độ Nhiều Người Chơi cho phép tối đa 4 người chơi cùng xuất hiện trong một thế giới tại một thời điểm, khi đó tổng số 4 nhân vật trong đội hình sẽ được phân chia cho mỗi người chơi tham gia.
+
+## Tiền Tệ
+
+Các loại đơn vị tiền tệ lưu hành trong trò chơi bao gồm:
+- Mora: Đơn vị tiền tệ chung trên đại lục Teyvat, dùng để giao dịch tại các cửa hàng và là nguyên liệu không thể thiếu để nâng cấp nhân vật cũng như vũ khí.
+- Nguyên Thạch: Loại tiền hiếm dùng để đổi lấy các loại Vật Phẩm Cầu Nguyện nhằm thực hiện Cầu Nguyện tại banner nhân vật và vũ khí. Nhà Lữ Hành có thể chiêu mộ những người bạn đồng hành mới thông qua việc sử dụng Nguyên Thạch, hoặc sử dụng chúng để bổ sung Nhựa Nguyên Chất.
+- Ấn Nguyên Tố: Có thể thu thập được trong quá trình thám hiểm như đã nêu ở trên.
+- Nhựa Nguyên Chất: Một loại tài nguyên đặc thù dùng để nhận thưởng Hoa Chỉ Thị và Bí Cảnh. Lượng nhựa này có giới hạn tích lũy và sẽ phục hồi theo thời gian. Ngoài ra còn có các loại nhựa khác như Nhựa Dễ Vỡ và Nhựa Cô Đặc dùng để dự trữ và sử dụng khi cần thiết.
+- Tiền Động Tiên: Đơn vị lưu hành riêng biệt bên trong Ấm Trần Ca, dùng để đổi lấy các bản thiết kế và vật dụng trang trí gia tiên.
+
+## Tiền Tệ Hóa
+
+]]
+
+Nhà Lữ Hành có thể sử dụng các phương thức thanh toán thực tế để tiếp cận với các vật phẩm và tính năng mà những người chơi thông thường khó lòng nhận được. Các gói vật phẩm bao gồm:
+- Không Nguyệt Chúc Phúc
+- Nhật Ký Hành Trình
+- Đá Sáng Thế Loại tinh thể quý hiếm có thể quy đổi trực tiếp thành Nguyên Thạch để thực hiện Cầu Nguyện, hoặc dùng để mua Trang Phục trong cửa hàng.
+
+## Phát Triển
+
+]]
+
+Có rất nhiều hệ thống phát triển trong trò chơi khi Nhà Lữ Hành bồi dưỡng nhân vật của mình, đồng thời tích lũy kinh nghiệm thông qua việc thám hiểm và theo dòng chảy của cốt truyện:
+- Hạng Mạo Hiểm: Giúp mở khóa các tính năng, nhiệm vụ và hệ thống mới trong trò chơi. Có thể tăng cấp thông qua việc hoàn thành các nhiệm vụ và hoàn thành Bí Cảnh.
+- EXP Nhân Vật: Các nhân vật sẽ nhận được kinh nghiệm khi đánh bại kẻ địch và hoàn thành Bí Cảnh. Khi tích lũy đủ EXP sẽ có thể đột phá nhân vật để trở nên mạnh mẽ hơn và khai phá những thiên phú mới.
+- Bằng Chứng Mạo Hiểm: Bằng cách hoàn thành các mục tiêu đặc biệt trong thế giới rộng lớn, Nhà Lữ Hành có thể nhận được phần thưởng hậu hĩnh thông qua từng chương của sổ tay.
+- Danh Vọng: Thông qua việc hoàn thành Thảo Phạt tại các Quốc Gia, có thể nhận được những báu vật mới và cả công thức chế tạo Đạo Cụ.
+- Cây Chịu Lạnh: Một hệ thống đặc biệt tại Long Tích Tuyết Sơn, cung cấp nhiều phần thưởng và cả vật phẩm Cầu Nguyện.
+- Ấm Trần Ca: Hệ thống được mở khóa sau khi hoàn thành chuỗi Nhiệm Vụ Ma Thần tại Liyue, đưa Nhà Lữ Hành vào một thế giới trong ấm, nơi Nhà Lữ Hành có thể tự tay chế tạo Đồ Trang Trí và sắp đặt tiên cảnh. Khi tích lũy càng nhiều đồ đạc và Tiên Lực, sẽ nhận được càng nhiều đặc quyền (tương tự như Bằng Chứng Mạo Hiểm), bao gồm cả Tinh Hoa Chúc Phúc và Dầu Chúc Phúc để cường hóa Thánh Di Vật.

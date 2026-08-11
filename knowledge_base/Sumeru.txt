@@ -1,0 +1,148 @@
+# Sumeru
+
+## Tổng Quan
+
+map: Teyvat
+chapter: Chương 3
+element: Thảo
+archon: Buer
+ideal: Trí Tuệ
+main city: Thành Sumeru
+festival: Lễ Hội Sabzeruz
+controlling_entity: Giáo Viện Sumeru
+demonym: Người Sumeru
+adjectival: Sumeru
+
+Sumeru là một trong bảy quốc gia trên lãnh thổ Teyvat. Người dân ở đây tôn thờ Thảo Thần Tiểu Vương Kusanali, Thần của Trí Tuệ. Nơi đây nổi tiếng là trung tâm học tập của Teyvat và là nơi tọa lạc của Giáo Viện Sumeru.
+
+Nhiệm Vụ Ma Thần Chương 3 sẽ diễn ra tại khu vực này.
+
+- Cách Đến Sumeru: Có thể mở khóa Sumeru sau khi hoàn thành.
+
+## Mô Tả
+
+Cảnh quan của Sumeru bao gồm cả sa mạc và rừng rậm. Trong Trailer chương chính - Dấu Chân, Dainsleif ví Sumeru như một sa mạc, và Liben thì nói rằng "Sumeru toàn là rừng nhiệt đới và sa mạc."
+
+Trong trận tai ương diễn ra vào 500 năm trước, Thảo Thần - Thần Trí Tuệ trước đây đã bị giết và Tiểu Vương Kusanali đã thay thế vị trí của cô ấy. Dưới sự che chở của Thần Trí Tuệ, các hiền giả Sumeru đã tự đẩy mình vào trạng thái cuồng loạn và vứt bỏ thế tục để theo đuổi một loại trí tuệ tối cao.
+
+Lisa đã theo học ma thuật tại Giáo Viện, họ cho rằng cô là một trong những học sinh xuất sắc nhất mà họ từng gặp trong suốt 200 năm qua. Mặc cho sự tôn trọng mà cô có được ở nơi đó, cuối cùng cô vẫn trở lại Mondstadt sau khi bị vỡ mộng với "những học giả điên cuồng" và cái giá phải trả cho "sự uyên bác không thể kiềm chế" mà cô đã chứng kiến ở Sumeru.
+
+Eremite là một nhóm lính đánh thuê đến từ Sumeru và họ di chuyển khắp mọi nên trên Teyvat. Họ tự coi mình là những người "không sợ chết để được sống thực sự". Nazafarin, một học giả đến từ Sumeru cho rằng một vài thành viên của nhóm lính đánh thuê này đang nắm giữ một "sức mạnh kỳ lạ", cô cảm thấy chủ đề về Eremite rất đáng sợ nên đã nhanh chóng đổi chủ đề sau khi giải thích cho Nhà Lữ Hành một số thông tin về họ.
+
+Thất Thiên Thần Tượng của Sumeru miêu tả một người phụ nữ với hình dạng của một đứa trẻ đang mặc áo choàng giống với những bức tượng của những vị Thần khác. Thân hình nhỏ nhắn của cô đang ngồi trên một chiếc lá to lớn, nhờ vào chiếc áo choàng đặc trưng mà chúng ta có thể nhận ra cô chính là Thảo Thần.
+
+- Cơ Chế Đáng Chú Ý: Sumeru có nhiều cơ chế độc đáo và các mối nguy hiểm trong môi trường. Một số được tìm thấy trên khắp Sumeru, trong khi một số khác chỉ có thể được tìm thấy ở một trong các Phân Khu của nó:
+
+## Cơ Chế Chung
+
+- Thảo Thần Đồng có thể được cung cấp cho bất kỳ Thất Thiên Thần Tượng nào ở Sumeru để nhận phần thưởng.
+- Hạt Giống Thảo sẽ tăng cường và phát động đòn tấn công khi sử dụng Trọng Kích hoặc Ngắm Bắn. Hạt Giống Thảo cũng là cách duy nhất để phá vỡ những Viên Đá Thảo, Cành Cây Mục Nát, Cành Nhánh Tử Vực và kích hoạt Valaya. Có thể triệu hồi Hạt Giống Thảo tại Cây Cỏ May Mắn.
+- Khối Năng Lượng được sử dụng để cung cấp năng lượng cho một số Tượng Di Tích Khổng Lồ.
+- Ấn Bốn Lá cho phép người chơi nhanh chóng vượt qua địa hình và di chuyển đến những khu vực khó tiếp cận.
+- Nhựa Thông Nguyên Thủy dùng để mở khóa lối đi trong các Bí Cảnh.
+- Hoa Thể Lực (tên không chính thức) hồi 80 thể lực khi đến gần chúng.
+- Vật Ba Hình Thể có thể thay đổi trạng thái khi tiếp xúc với các Nguyên Tố sau: Khô Héo (chưa được kích hoạt) -, Bình Thường - và Bung Nở -:
+- Nấm Nhảy: Phóng người chơi lên không trung (phóng cao hơn khi Bung Nở).
+- Hoa Mộng Mị: Làm cho kẻ địch quên đi sự tồn tại của người chơi (Bình Thường) và giúp người chơi đánh dấu vị trí Hạt Giống Ảo Mộng (Bung Nở).
+- Nấm Quỷ: Vật phẩm rơi ra khi đánh bại sẽ thay đổi tùy vào trạng thái của chúng.
+- Nấm Độc: Tấn công bằng nguyên tố khi chúng không ở trạng thái Khô Héo.
+- Trụ Thảo: Vươn lên từ mặt đất khi ở trạng thái Bình Thường, để lộ các vật phẩm bị ẩn bên dưới (vươn cao hơn khi Bung Nở).
+- Kính Hạt Giống: Phát hiện những Tử Vực chưa thành hình (Bình Thường), phát hiện Aranara Tinh Nghịch (Bung Nở).
+- Nấm Sao: Hồi máu sau khi ăn: 1 HP (Khô Héo), 300 HP (Bình Thường), 800 HP (Bung Nở).
+- Hạt Ba Trạng Thái: Có thể đứng yên (Khô Héo), di chuyển (Bình Thường) và để lộ những vật phẩm bị ẩn (Bung Nở).
+- Tử Vực là một loại Khí Hậu gây ảnh hưởng nguy hiểm đến một vài khu vực, nơi bị ảnh hưởng được gọi là Khu Tử Vực, Tử Vực sẽ gây ra trạng thái Héo Mòn cho người chơi. Nếu người chơi tích lũy 10 mức Héo Mòn, tất cả nhân vật sẽ ngã xuống. Người chơi phải sử dụng Hạt Giống Thảo để phá hủy tất cả Cành Nhánh Tử Vực trong khu vực đó, đánh bại tất cả kẻ địch được triệu hồi, sau đó tương tác với Khối U Tử Vực để loại bỏ vĩnh viễn Khu Tử Vực.
+- Cành Cây Mục Nát sẽ tấn công người chơi, gây sát thương và hiệu ứng Héo Mòn cho người chơi.
+- Ánh Lửa Sự Sống có thể xuất hiện trong Khu Tử Vực, khi chạm vào chúng thì người chơi sẽ được giảm một mức Héo Mòn.
+- Seelie Sự Sống (tên không chính thức) và Nến Sự Sống có thể liên tục loại bỏ hiệu ứng Héo Mòn khi người chơi đứng gần chúng, Điểm Dịch Chuyển đặt gần Khu Tử Vực cũng có công dụng tương tự.
+
+## Rừng Dharma
+
+- Sảnh Ashvattha là địa điểm có Cây Vasara bị nhiễm Tử Vực. Người chơi phải thanh tẩy các khu vực này trong chuỗi Nhiệm Vụ Thế Giới Vườn Trong Mơ.
+- Sử dụng nguyên tố lên Nhụy Hoa Bung Lá sẽ sinh ra Ấn Bốn Lá kéo dài trong vòng 24 giờ.
+- Thiết Bị Rút Năng Lượng là thử thách tìm được ở các doanh trại của Eremite. Người chơi phải tìm chìa khóa kiểm soát và đánh bại kẻ địch để vô hiệu hóa chúng.
+- Vườn Ươm là câu đố mang lại một quả Vasmrti và một chiếc Rương sau khi giải.
+- Trụ Đá Phong Ấn có thể được loại bỏ bằng nguyên tố để giải thoát cho các Cơ Quan Di Tích.
+- Chơi Đàn Cổ có thể kích hoạt nhiều vật phẩm khác nhau, khi chơi một bài nhạc đã được mở khóa sẽ kích hoạt các cơ chế:
+- Loại bỏ các chướng ngại vật gần Hoa U Bế
+- Sửa Bia Nguyên Tố (cũng có thể dùng "Kusava" để sửa)
+- Có thể vào Bí Cảnh thông qua Mật Đạo
+- Chuyển đổi giữa thế giới thực và thế giới trong mơ tại Silapna
+- Triệu hồi một Hạt Giống Thảo Khỏe Mạnh tại Mầm Non
+- Xoay Vamadha
+- Kích hoạt Cổ Máy Varuna, cho phép người chơi thay đổi thời tiết trong Rừng Apam
+- Mở khóa thử thách tại Cánh Cổng Ảo Mộng
+- Làm hài lòng Aranara Yêu Âm Nhạc
+
+## Biển Cát Đỏ
+
+- Xoáy Khí Quyển có nhiều loại nhỏ và lớn. Chúng hoạt động như một bức tường đẩy người chơi lùi lại khi tiếp xúc nhưng sẽ không gây sát thương. Khi người chơi đang sử dụng Trấn Linh Bình Ma - Liloupar, chạm vào xoáy khí quyển sẽ khiến cho Trấn Linh tiêu hao Trấn Linh Lực, đồng thời khiến cho xoáy khí quyển biến mất. Xoáy Khí Quyển Lớn yêu cầu Bình Ma phải đạt được cấp 6. Hồi phục Trấn Linh Lực tại Đền Trấn Linh.
+- Vòi Chứa Nước thải cát vào Hồ Chứa Nước. Chúng có thể được bật và tắt bằng các đòn tấn công. Đổ đầy cát vào các Hồ Chứa Nước trong khu vực giải đố sẽ nhận được Rương.
+- Có 3 Nụ Hoa (tên không chính thức) chỉ xuất hiện trong Ốc Đảo Pairidaeza. Khi chạm vào chúng sẽ di chuyển đến một vị trí nhất định, nơi đó người chơi có thể Kích Hoạt Hồi Ức để điều chỉnh thời gian và thay đổi cảnh tượng trong Ốc Đảo, mở khóa đường đi cho Nụ Hoa và để lộ ra những chiếc Rương. Dẫn các Nụ Hoa đến vạch đích sẽ nhận được một vật phẩm Ký Ức Ốc Đảo Vĩnh Hằng (I, II, III) và một chiếc Rương khác.
+- Nền Tảng Ảo Ảnh là những mặt phẳng sẽ biến mất sau vài giây tính từ lúc người chơi đứng trên chúng.
+- Đống Cát Rời Rạc có thể che giấu vật phẩm hoặc kẻ địch. Chúng có thể bị thổi bay khi sử dụng nguyên tố hoặc khi kẻ địch cảm nhận được sự hiện diện của người chơi.
+- Cơ Quan Hiện Thực Hóa có thể kích hoạt bằng cách di chuyển Ách Linh Gió. Đi theo Ách Linh Gió đến từng Cơ Quan trong cùng một chuỗi, đưa Ách Linh Gió đến Cơ Quan cuối cùng sẽ nhận được một chiếc Rương.
+- Bích Họa Thần Bí xuất hiện theo từng cặp. Tương tác với từng Bích Họa vào buổi tối sẽ triệu hồi kẻ địch. Đánh bại tất cả kẻ địch sẽ nhận được một chiếc Rương.
+- Obelisk Nguyên Thủy có thể dùng để xác định vị trí của Đá Thánh Chương, những viên đá này sẽ được gắn vào Obelisk Nguyên Thủy. Tìm thấy tất cả các viên Đá Thánh Chương sẽ nhận được Rương Siêu Cấp.
+- Các Thiết Bị Di Tích hầu hết được tìm thấy trong và xung quanh các ngôi đền. Mỗi thiết bị đều có một yêu cầu riêng mà người chơi cần phải đáp ứng bằng cách nâng cấp Phiến Đá Cát Đỏ.
+- Linh Kiện Ánh Sáng có thể di chuyển hoặc xoay để khiến cho Tia Sáng Năng Lượng chiếu đến Linh Kiện Nuốt Ánh Sáng. Một số Linh Kiện Ánh Sáng sẽ trở về trạng thái ban đầu sau một khoảng thời gian tính từ lúc người chơi tương tác với chúng. Linh Kiện Ánh Sáng Hai Pha phát ra hai Tia Sáng Năng Lượng, và Linh Kiện Nuốt Ánh Sáng Hai Pha cần cả hai tia này chiếu trúng mới có thể khởi động. Đôi khi tia sáng sẽ bị chặn bởi những bức tường, có thể khiến những bức tường đó trở nên trong suốt bằng cách kích hoạt Linh Kiện Tàng Hình.
+- Cánh Quạt Khổng Lồ sẽ tự động thay đổi trạng thái mở và tắt, hoặc bị điều khiển bởi Đài Bí Ẩn. Trong trạng thái hoạt động, chúng có thể đẩy người chơi lùi lại và thổi bay Mồi Lửa Nguyên Thủy.
+- Van Xoay Đường Ống có thể thay đổi cách kết nối của đường ống, từ đó điều chỉnh dòng chảy bên trong chúng.
+- Đài Bí Ẩn có thể dùng để kích hoạt một số cơ quan, ví dụ như mở cửa, loại bỏ Rào Chắn Nguyên Thủy, hoặc bật và tắt những Cánh Quạt Khổng Lồ.
+- Rào Chắn Nguyên Thủy là những chướng ngại vật có thể tắt đi để người chơi có thể đi qua chúng.
+- Lật một chiếc Đồng Hồ Cát Năng Lượng sẽ để lộ vị trí của chiếc đồng hồ cát gần đó. Sau một khoảng thời gian, đồng hồ cát sẽ lật về vị trí ban đầu. Thông thường, lật hết tất cả đồng hồ cát gần nhau sẽ hoàn thành câu đố. Đôi khi, đồng hồ cát chỉ là một phần nhỏ trong một câu đố lớn, khi lật thì đồng hồ cát sẽ triệu hồi vật phẩm như Ấn Bốn Lá.
+- Có thể tìm thấy Mồi Lửa Nguyên Thủy nằm ở những nơi không có Đế Nến Nguyên Thủy. Khi tương tác chúng sẽ di chuyển theo một con đường nhất định. Mồi Lửa có thể dừng tại một Đế Nến gần nhất cho đến khi người chơi tương tác với chúng lần nữa, hoặc Mồi Lửa sẽ đợi ở một vị trí nào đó và chờ người chơi đến gần. Dẫn Mồi Lửa đến Đuốc Nguyên Thủy sẽ khiến cho đuốc được kích hoạt. Thông thường sẽ có vài ngọn đuốc trong một phòng, kích hoạt hết tất cả ngọn đuốc sẽ giải được câu đố.
+- Lăng Trụ Khaj-Nisut tỏa ra ánh sáng màu xanh hoặc đỏ, và được dùng để điều khiển những vật thể có màu sắc tương tự xung quanh. Người chơi có thể tương tác để thay đổi màu của Lăng Trụ.
+- Kích hoạt Đá Nhân Bản bằng cách sử dụng Đèn Nguyên Bản, có thể tạo ra cơ quan di tích, hỗ trợ mạo hiểm.
+- Cơ Quan Phù Văn có thể sản sinh năng lượng để tiêu hủy đụn cát. Khi bị đánh trúng cơ quan sẽ thay đổi hướng bắn năng lượng. Một vài cơ quan được đặt trên đường ray có thể di chuyển. Đôi khi năng lượng sẽ bị chặn bởi Cửa Sổ Phù Văn, sử dụng Cần Điều Khiển Cửa Sổ để mở những chiếc cửa sổ này.
+- Sử dụng Linh Kiện Nguyên Bản có thể khiến cho những thứ trong suốt xung quanh xuất hiện trở lại trong một khoảng thời gian.
+- Bão Cát liên tục làm giảm tầm nhìn tại Sa Mạc Hadramaveth. Càng đến gần tâm bão thì cường độ bão cát càng tăng. Trấn Linh Bình Ma - Liloupar có thể dự đoán được khi nào bão cát đến gần và giúp người chơi cải thiện tầm nhìn trong bão cát sau khi được trang bị. Nếu Trấn Linh đã được nâng cấp lên cấp 5, người chơi có thể triệu hồi hoặc xua tan bão cát tại bất kỳ Đền Trấn Linh nào.
+- Hạt Nhân Suda xuất hiện dưới dạng những quả cầu phát sáng được bao quanh bởi dây leo, chúng chỉ xuất hiện bên trong Tượng Di Tích Khổng Lồ tại Thung Lũng Dahri. Bất kì đòn tấn công nào cũng có thể phá hủy chúng, phá hủy tất cả Hạt Nhân Suda liên quan đến phong ấn sẽ loại bỏ phong ấn.
+- Cây Cỏ Lăn có thể được tìm thấy tại Biển Cát Đỏ. Khi chạy vào sẽ có thể phá hủy nó, đôi khi nó sẽ rơi ra vài vật phẩm.
+- Bia Đá Xói Mòn được chia theo từng nhóm. Với mỗi cặp bia đá, sẽ có một bia có thể thay đổi ký tự khi tấn công, trong khi bia còn lại sẽ không thay đổi. Thay đổi tất cả bia đá theo từng cặp sao cho các cặp khớp với nhau để giải câu đố.
+- Đá Xói Mòn có thể bị phá hủy bởi các đòn tấn công của Wenut.
+
+## Ốc Đảo Hoang Mạc
+
+- Tinh Thạch Xám chặng lối đi, bao bọc kẻ thù, vật có thể tương tác, hoặc hệ thống kiểm soát năng lượng. Có thể loại bỏ những Tinh Thạch này bằng Farrwick gần đó.
+- Có thể chơi Trống Kory bằng cách tấn công vào chúng. Tìm kiếm và chơi trống Kory là một trong những yêu cầu cần thiết để hoàn thành Nhiệm Vụ Thế Giới Âm Thanh Thức Tỉnh.
+- Cơ Quan Bí Văn có thể mở khóa những di tích của Khaenri'ahn bên dưới Vực Thẳm Tunigi.
+- Người chơi sẽ nhận được Sorush trong Nhiệm Vụ Thế Giới Ngày Ấy Trời Mang Sắc Lạ, Sorush sẽ mang đến cho người chơi một vài khả năng như:
+- Người chơi có thể điều khiển Sorush bay xung quanh trong một khoảng cách nhất định.
+- Người chơi có thể nhận phần thưởng bằng cách đốt cháy Đài Lửa Ánh Sáng, hấp thụ năng lượng từ các Sinh Linh Sinh Sôi, đánh thức Pari còn sót lại bên trong Cây Fravashi, và khiến cho Hoa Sunyata trong Ốc Đảo Vourukasha nở và mang Phù Du Amrita đến chúng.
+- Sorush có thể thi triển sức mạnh Khvarena để thanh tẩy Tín Hiệu Tà Uế.
+- Thánh Ca Khvarena được bảo vệ bởi một lớp rào chắn, Sorush có thể bay qua lớp rào chắn đó sau khi cô ấy nhận được sức mạnh Vòng Hoa Hai Sừng.
+- Tường Chắn Khvarena có thể được kích hoạt để tạo ra một lá chắn tạm thời.
+- Có thể khiến cho người chơi nhìn thấy Mảnh Khắc Khvarena, Con Đường Ánh Sáng, và Phù Thạch Thần Bí.
+- Sorush có thể khiến cho Phong Ấn Amrita Kỳ Lạ biến mất tạm thời, giúp người chơi đi chuyển qua phong ấn một cách dễ dàng.
+- Sức mạnh của Quả Nirodha có thể làm tan rã tinh thạch ngưng kết từ Amrita hoặc thanh tẩy Khói Tím trong Đầm Lầy Asipattravana.
+- Sorush có thể thu thập Tịnh Quang Vũ để cung cấp cho Hồ Amrita.
+- Sorush có thể nhặt Ấn Bốn Lá Đặc Biệt và đặt nó ở nơi cần dùng.
+- Khi kích hoạt Hoa Minh Vân bằng sức mạnh của Sorush, chúng sẽ nở ra thành đài hoa và để lộ Ấn Bốn Lá bên trong.
+- Sorush có thể khiến cho Hoa Udumbara trong Đầm Lầy Asipattravana duy trì trạng thái nở rộ, người chơi có thể thu thập nhụy hoa của chúng và giao cho Tàn Dư Pari ở trong Cây Fravashi.
+- Thí Luyện "Chuông Linh Bảo" yêu cầu người chơi tương tác với Chuông Linh Bảo, sau đó di chuyển đến từng điểm đánh dấu cho đến khi chạm điểm cuối cùng để nhận phần thưởng.
+
+- Lễ Hội Sabzeruz: Một lễ hội được tổ chức hằng năm để kỷ niệm ngày sinh của Tiểu Vương Kusanali.
+
+- Lễ Hội Utsava: Một lễ hội được tổ chức bởi các Aranara.
+
+## Từ Nguyên
+
+- Sumeru là một trong những tên gọi của, một ngọn núi thiêng với năm đỉnh được đề cập trong vũ trụ học của Ấn Độ Giáo, Kỳ Na Giáo và Phật Giáo.
+- Tên Tiếng Trung của Sumeru,, cũng là tên Tiếng Trung của Núi Tu-di.
+- Tên của Sumeru cũng có thể bắt nguồn từ, là một nền văn minh cổ đại và cũng để chỉ khu vực lịch sử ở phía nam, được gọi là Šumeru trong Tiếng Akkad.
+
+## Tham Khảo Văn Hóa
+
+- Sumeru được lấy cảm hứng từ văn hóa của người và người.
+- và ngôn ngữ có mối liên hệ dễ thấy nhất với Giáo Viện Sumeru, đặc biệt là các danh hiệu giành cho học giả, nhà nghiên cứu và tên sáu trường phái chính của Giáo Viện, mỗi trường phái được đặt theo tên của một trong những.
+- Tiểu Vương Kusanali, Thảo Thần hiện tại, được mô tả là người mang đến "Kiến Thức Màu Mỡ". Trong Hỏa Giáo, (Anāhīd/Nahid) được xem là "Nữ Thần của Nước", gắn liền với sinh sản, chữa bệnh và trí tuệ.
+- Các khái niệm từ, đặc biệt là và, được thể hiện một cách nổi bật ở các nhiệm vụ của Sumeru; tên của các địa điểm, cây cỏ, và vật phẩm địa phương của Rừng Dharma.
+- Ba vị Thần-Vua của Sumeru — Đại Vương Rukkhadevata, Nabu Malikata, và Vua Deshret — có thể được lấy cảm hứng từ, một khái niệm của Ấn Độ giáo về sự tạo hóa, bảo vệ và hủy diệt được nhân cách hóa như một bộ ba vị thần. Một số NPC cũng có tên có nguồn gốc từ Vệ Đà.
+- Một vài thuật ngữ sử dụng trong cốt truyện của Sumeru có nguồn gốc từ tên của các vị thần Vệ Đà, ví dụ như Cỗ Máy Varuna (được đặt theo tên của vị thần nước của Ấn Độ giáo, ), Aranyaka (được đặt theo tên của ). Tên gọi chung của các vị Thảo Thần, Đại Vương Rukkhadevata và Tiểu Vương Kusanali, cũng bắt nguồn từ các khái niệm Dharmic.
+- Âm nhạc của Sumeru là sự kết hợp giữa âm nhạc Nam Á (đặc biệt là của Ấn Độ) và âm nhạc Trung Đông. Ở một số khu vực, thể loại nhạc cũng được sử dụng. Khu vực sa mạc chủ yếu lấy cảm hứng từ Ai Cập cổ đại và âm nhạc cũng vậy.
+- Một số nguồn cảm hứng lấy từ Vệ Đà (Ấn Độ) cũng có thể thấy trong Trailer chương chính: Dấu Chân - Màn Sumeru:
+- là một thể loại văn học Ấn Độ bao gồm nhiều chủ đề, thường liên quan đến truyền thuyết và các câu chuyện thần thánh khác. Trong tiếng Hindi, nó cũng có nghĩa là "cũ" khi sử dụng trong bối cảnh hoài cổ hoặc đáng nhớ.
+- Thuật ngữ có thể là viết tắt của, một từ mượn từ tiếng Phạn. Trong vũ trụ học Ấn Độ Giáo và Phật Giáo, có nghĩa là một khoảng thời dài vô hạn, thường nằm giữa sự hình thành và tái tạo của một thế giới hay vũ trụ. Do đó, một cách dịch thay thế cho cụm từ cũng có thể là "tro tàn kalpa", ám chỉ tro tàn còn sót lại khi một thế giới bị hủy diệt vào cuối một kalpa.
+- Khái niệm Vệ Đà về, từ này có ý nghĩa là "thế giới" và hiện nay chủ yếu đề cập đến quá trình tái sinh, được sử dụng phổ biến trong Màn 1 để đề cập đến kế hoạch thu hoạch giấc mơ của các Hiền Giả và sau đó được sử dụng để chỉ mối quan hệ của Tiểu Vương Kusanali và Đại Vương Rukkhadevata.
+- Tên của một vài NPC được nhắc đến và các gia tộc tại Sumeru lấy cảm hứng từ các nhân vật nổi bật từ, ví dụ như Nhà Purbiruni (), Nhà Pursina (), Alhaitham () và Firnas ().
+-, là một thành quốc của nền thuộc Lưỡng Hà cổ đại, được biết đến là trung tâm học tập và tiến bộ khoa học trong Thời Đại Hoàng Kim, tương tự như Sumeru được biết đến với Giáo Viện. Babylon, cụ thể là những đoạn Kinh thánh liên quan đến sự sụp đổ của nó, được đề cập đến thông qua chủ mẫu Babel của Tanit và các nhiệm vụ liên quan đến cô ấy.

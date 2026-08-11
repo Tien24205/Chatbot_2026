@@ -1,0 +1,43 @@
+# Con Thoi Chu Sa
+
+## Thông Tin Cơ Bản
+
+id: 11415
+type: Kiếm Đơn
+releaseDate: 2021-11-25
+quality: 4
+event_name: Ảo Ảnh Giữa Bão Tuyết
+base_atk: 41
+2nd_stat_type: Tỷ Lệ Phòng Ngự
+2nd_stat: 15%
+obtain: Sự Kiện
+passive: Trái Tim Hoàn Mỹ
+effect: Tăng sát thương do Kỹ Năng Nguyên Tố gây ra, lượng tăng thêm tương đương (var1)% phòng ngự. Hiệu quả này mỗi 1,5s tối đa kích hoạt 1 lần, sau 0,1s khi Kỹ Năng Nguyên Tố gây ra sát thương, hiệu quả này sẽ biến mất.
+eff_rank1_var1: 40
+eff_rank2_var1: 50
+eff_rank3_var1: 60
+eff_rank4_var1: 70
+eff_rank5_var1: 80
+eff_att1: Tăng ST Thường
+eff_att2: Tăng ST Thường Kỹ Năng Nguyên Tố
+
+- Tổng Quan: Con Thoi Chu Sa là một Kiếm Đơn 4 sao đặc biệt, có thể nhận được sau khi làm một Người Tuyết Tròn Trịa trong sự kiện Ảo Ảnh Giữa Bão Tuyết.
+
+- Tinh Luyện: Tinh luyện Con Thoi Chu Sa yêu cầu một vật phẩm đặc biệt có tên Alkahest thay vì sử dụng bản sao của chính nó. Vật phẩm đó có thể đổi lấy trong cửa hàng sự kiện Ảo Ảnh Giữa Bão Tuyết.
+
+## Lưu Ý Về Cơ Chế
+
+- Trái Tim Hoàn Mỹ vẫn có thể kích hoạt kể cả khi nhân vật trang bị vũ khí này không ở trên sân.
+- Trái Tim Hoàn Mỹ chỉ có thể tăng Sát Thương lên một mục tiêu trong quá trình đó cho dù Kỹ Năng Nguyên Tố trúng nhiều kẻ địch đi nữa.
+
+## Câu Chuyện
+
+Phải vui vẻ tách lớp bụi từ trong ngọn lửa, và luyện hóa những thứ tinh tế từ cái thô sơ.
+
+Vì tất cả mọi vật trong vũ trụ đều bắt nguồn từ một thứ duy nhất, do đó tìm hiểu về một thứ có thể lý giải vạn vật.
+
+Ngươi phải theo đuổi điều mà anh trai của ngươi, con ngựa trắng một sừng chưa thể thực hiện được,
+
+Hãy vươn tới bến bờ của triết học, và thêu dệt nên một số phận mới cho ta và những người anh em của ngươi...
+
+- Khi nhân vật trang bị sử dụng Kỹ Năng Nguyên Tố đánh trúng kẻ địch có khiên mà không gây ra sát thương, Trái Tim Hoàn Mỹ có thể ngừng hoạt động vô thời hạn cho đến khi hủy trang bị món vũ khí.

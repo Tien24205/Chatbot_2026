@@ -1,0 +1,30 @@
+# Kujou Sara
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+element: Lôi
+weapon: Cung
+quality: 4
+name: Kujou Sara
+birthday: 14 tháng 07
+sex: Nữ
+constellation: Vũ Phiến
+affiliation: Hiệp Hội Tenryou
+dish: Trứng Cuộn
+region: Inazuma
+obtain: Cầu Nguyện
+releaseDate: 2021-09-01
+title: Hắc Vũ Tiễn
+title2: Đại Tướng Của Hiệp Hội Tenryou
+voiceEN: [[imdb:nm7429639
+voiceJP: w|Asami Seto|Asami Seto (瀬戸麻沙美)
+voiceCN: Yang Menglu (杨梦露)
+voiceKR: w|ko:%EB%AC%B8%EC%A7%80%EC%98%81|Mun Ji-yeong (문지영)
+ancestry: Kujou Clan (adopted)
+
+## Tổng Quan
+
+ là một nhân vật chơi được hệ Lôi trong Genshin Impact.
+
+Kujou Sara là con gái nuôi của Gia tộc Kujou thuộc Hiệp Hội Tenryou. Luôn trung thành với gia tộc của mình và Shogun, Kujou Sara thực hiện mọi mệnh lệnh mà Shogun yêu cầu.

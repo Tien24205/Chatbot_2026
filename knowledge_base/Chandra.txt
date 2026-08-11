@@ -1,0 +1,12 @@
+# Chandra
+
+## Thông Tin Cơ Bản
+
+type: NPC Nhiệm Vụ
+region: Sumeru
+location: Sumeru
+affiliation: Vahumana
+voiceEN: Marco "Meatball" Domenico
+voiceJP: Nonoi Aki (ja|野々井 爽)
+
+- Tổng Quan: Chandra là một NPC độc quyền nhiệm vụ xuất hiện trong.

@@ -1,0 +1,11 @@
+# Bản Đồ Điêu Khắc
+
+## Tổng Quan
+
+type: Địa Điểm Đáng Chú Ý
+map: Enkanomiya
+region: Inazuma
+area: Enkanomiya
+subarea: Lối Mòn Khe Núi
+
+Bản Đồ Điêu Khắc là một Địa Điểm Đáng Chú Ý ở Lối Mòn Khe Núi, Enkanomiya, Inazuma. Tương tác với nó trong nhiệm vụ Trộm Nhìn Đêm Trắng sẽ thắp sáng Bản Đồ của Enkanomiya (ngoại trừ Khu Vực Yachimatahiko, Khu Vực Yachimatahime, Khu Vực Kunado, và Viện Nghiên Cứu Rồng Đất vẫn bị ẩn).

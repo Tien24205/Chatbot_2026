@@ -1,0 +1,21 @@
+# Cung Điện Daena
+
+## Vật Phẩm Nhiệm Vụ
+
+type: Địa Điểm Đáng Chú Ý
+type2: Nội Khu
+region: Sumeru
+subregion: Rừng Dharma
+area: Rừng Avidya
+subarea: Thành Sumeru
+poi: Giáo Viện
+
+Những quyển sách sau được giữ lại dưới dạng Vật Phẩm Nhiệm Vụ thay vì được lưu vào trong Thư Viện.
+- - - ==NPC==
+- Gregor (Ban ngày)
+- Hunayn
+- Jafar (Ban đêm)
+- Katayoun
+- Nargess
+- Sanad (Ban ngày)
+- Shohre

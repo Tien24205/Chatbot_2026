@@ -1,0 +1,35 @@
+# Alice
+
+## Thông Tin Cơ Bản
+
+type: NPC Nhiệm Vụ
+name: Alice
+affiliation: Hội Ma Nữ
+region: Mondstadt
+title: A
+title2: Nhà Mạo Hiểm Vĩ Đại
+title3: Ma Vương Cực Kỳ Xấu Xa
+title4: Người Thủ Hộ Mondstadt Cũ
+title5: Người Bạn Của Những Người Bạn Ôm Hy Vọng
+title6: Tác Giả Của Hướng Dẫn Du Ngoạn Teyvat
+title7: Tông Gia Của [[Thuật Temari Cung Điện Kujirai
+title8: Nhà Cung Cấp Của [[Dori
+title9: Nguyên Lão Hội Ma Nữ
+title10: Mẹ Của Klee Dễ Thương Nhất
+title11: Nữ Thần Sáng Thế
+titleNote11: bởi người dân Simulanka
+child: Klee
+voiceEN: w|Rachel Kimsey
+voiceCN: Zhang Qi (zh|张琦)
+voiceJP: w|Kikuko Inoue|Inoue Kikuko (ja|井上 喜久子)
+voiceKR: W|Yeo Min-jeong (voice actress)|Yeo Min-jeong (ko|여민정)YouTube: 원신
+
+## Tổng Quan
+
+Alice, còn được biết đến với biệt hiệu "A", cô là mẹ của Klee, là nhà mạo hiểm tài ba, tác giả của Hướng Dẫn Du Ngoạn Teyvat và là người sáng lập Hội Ma Nữ, đồng thời cũng là Nguyên Lão của tổ chức này. Cô là một ma nữ toàn năng với nhiều kỹ năng bao gồm giả kim, chiêm tinh, cơ khí, pháp thuật và y thuật.
+
+Tuy chúng ta chưa gặp mặt Alice, nhưng có thể thấy lần đầu hiện diện của cô ấy là khi cô sắp đặt mọi thử thách trong sự kiện Phiên Bản 1.6 Mùa Hè! Hải Đảo? Cuộc Mạo Hiểm!, và để lại một chiếc máy hát đĩa thu âm lời gợi ý của cô dành cho những người tham gia thử thách. Cô cũng có tham gia sự kiện Phiên Bản 2.8 Chuyến Đi Biển Ngày Hè với vai trò không quá quan trọng - đưa mọi người đến Đảo Táo Vàng và sắp xếp bữa tiệc cho hội của Nhà Lữ Hành. Ở sự kiện Phiên Bản 4.8, Rồng Và Vương Quốc Hè, đã có đề cập rằng cô ấy đã tạo ra vùng đất Simulanka với sự tham gia của "B" và sự đồng ý của "M". Trong Nhiệm Vụ Ma Thần Ngộ Biện, cô xuất hiện dưới hình dạng Dodoco.
+
+## Tiểu Sử
+
+Alice là một nhà mạo hiểm thuộc về chủng tộc trường thọ, ít nhất cô cũng sống được 500 năm. Cô được cho là từng du ngoạn toàn bộ thế giới, thậm chí ở bên ngoài thế giới, dựa theo mô tả của Đôi Cánh Dạ Yến, việc cô từng nhắc đến, và việc cô dẫn lời thay Dainsleif ở video Collected Miscellany của Aloy và Kẻ Lang Thang

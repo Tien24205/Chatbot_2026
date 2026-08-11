@@ -1,0 +1,32 @@
+# Keqing
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+quality: 5
+weapon: Kiếm Đơn
+element: Lôi
+name: Keqing
+sex: Nữ
+birthday: 20 tháng 11
+constellation: Kim Tử Định Thùy
+region: Liyue
+affiliation: Thất Tinh Liyue
+dish: Cá Nướng Không Lối Thoát
+obtain: Cầu Nguyện
+releaseDate: 2020-09-28
+title: Sấm Chớp Trước Cơn Mưa
+title2: Ngọc Hành Tinh của Thất Tinh Liyue
+voiceEN: [[imdb:nm7607995
+Kayli Mills]]<ref name: "Keqing EN/JP">(EN & JP) Twitter - VA Announcement
+voiceCN: Ying Xie (谢莹)
+voiceJP: w|Eri Kitamura|Eri Kitamura (喜多村英梨)
+voiceKR: w|ko:이보희 (성우)|Lee Bo-hee (이보희)
+
+## Tổng Quan
+
+ là nhân vật hệ trong Genshin Impact.
+
+Là Ngọc Hành Tinh, một trong 7 Thất Tinh Liyue, cô ấy là người luôn tìm kiếm câu trả lời cho riêng mình thay vì cứ để tình trạng hỗn loạn hoành hành ở Liyue. Cô chọn con đường của riêng  bằng chính sức mạnh và khả năng của mình, thay vì để các vị thần định đoạt số phận của mình.
+
+- Cầu Nguyện Thường Du Hành Thế Gian (Không giới hạn thời gian) - Cầu Nguyện Dành Cho Nhà Lữ Hành Mới (Không giới hạn thời gian cho đến khi đủ 20 lần cầu nguyện) - Tất cả Sự Kiện Cầu Nguyện Nhân Vật

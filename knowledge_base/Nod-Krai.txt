@@ -1,0 +1,41 @@
+# Nod-Krai
+
+## Tổng Quan
+
+map: Teyvat
+chapter: Bài Ca Không Nguyệt
+main city: Thị Trấn Nasha
+
+Nod-Krai, còn được biết đến là vùng biên giới, là một vùng tự trị nằm ở phía cực nam Snezhnaya, tận cùng của Teyvat và là một trong những quốc gia chính của Genshin Impact. Nơi này tụ tập người ở khắp Teyvat, dẫn đến việc Nod-Krai được gọi là "Lạc Viên" hay "Miền Đất Hứa". Nod-Krai có liên hệ mật thiết với Ba Vầng Trăng từng tồn tại phía trên Teyvat. Người dân bản địa nơi đây, còn gọi là Dòng Dõi Sương Nguyệt, thờ phụng Nguyệt Thần Kuutar, người còn được biết đến là Quan Chấp Hành Fatui tiền nhiệm, Columbina.
+
+ diễn ra tại nơi đây.
+
+## Mô Tả
+
+Nod-Krai đặc biệt nguy hiểm do môi trường hoang sơ và không có Đội Kỵ Sĩ hay tòa án nào ngoài Thương Hội Voynich, Liben cảnh báo Nhà Lữ Hành phải cảnh giác nếu họ đến đó. Những người bị nghi ngờ nắm giữ lượng lớn Mora cũng bị chúng coi là mục tiêu.
+
+Nod-Krai bao gồm các địa điểm như Thị Trấn Nasha nơi "Speranza" hoạt động, Xưởng Krumkake Clink-Clank cho ra đời nhiều phát minh khác nhau, cũng như Đảo Hiisi là nơi sinh sống của Dòng Dõi Sương Nguyệt. Theo Helka, Dòng Dõi Sương Nguyệt là một nhóm người kỳ lạ sống giữa núi rừng tại Nod-Krai, mọi người thường không điều tra hay tiếp cận họ. Họ cũng đã khắc những bức tượng thần dành riêng Columbina và đặt chúng khắp Nod-Krai.
+
+Một số người dân của Nod-Krai có thể sử dụng kuuvahki, một sức mạnh đặc biệt có trước cả bảy nguyên tố của Teyvat. Tại đây có một cứ điểm Fatui đang hoạt động do Dottore chỉ huy. Trước đây, khu vực này được coi là một nơi "rất nguy hiểm nhưng cũng tràn đầy sức sống", nhưng trong thời gian gần đây, nó đã trở nên nguy hiểm hơn bình thường. Vào một thời điểm nào đó, khu vực này đã được lên kế hoạch phát triển quy mô lớn nhưng không có dấu vết nào tồn tại cho đến ngày nay, cho tới khi người ta tìm thấy nhiều mảnh vụn rải rác xung quanh. Ngoài ra còn có một loài cua sinh sống trong khu vực này rất khác so với những loài được tìm thấy ở Fontaine. Vào một thời điểm nào đó sau khi Helka rời đi để khám phá quái vật từ các quốc gia khác, Fatui đã trở lại và chuyển rất nhiều vật liệu xây dựng vào như một phần của "Sắc Lệnh Palestar", với tin đồn lan truyền rằng một hoặc một vài Quan Chấp Hành Fatui cũng có mặt. Cũng có những tình huống "xấu" ở phía bắc liên quan đến ảnh hưởng của Vực Sâu.
+
+Sau thảm họa, Nod-Krai là một trong những địa điểm đầu tiên bị Vực Sâu tấn công. Những thực thể Vực Sâu này thường được gọi là Cuộc Săn Hoang Dã và những ma vật này mạnh hơn đáng kể so với các sinh vật Vực Sâu khác. Chúng dường như đang tìm kiếm thứ gì đó cực kỳ quan trọng trong khu vực. Người Giữ Đèn vẫn đang chiến đấu với Vực Sâu nhưng đã bị tổn thất nặng nề trong cuộc đại chiến trước đây.
+
+Sau khi thu thập được các manh mối mới trong chuyến viễn chinh, Varka và Đội Kỵ Sĩ Tây Phong cũng đã hướng đến Nod-Krai. Tại đó, Varka đã nhận thấy rằng tình hình ở Nod-Krai vô cùng căng thẳng, anh đã gửi một bức thư cảnh báo Nhà Lữ Hành rằng họ nên chuẩn bị sẵn sàng trước khi đến.
+
+- Cơ Chế Đáng Chú Ý: Nod-Krai có nhiều cơ chế độc đáo và các mối nguy hiểm trong môi trường.:
+
+## Kuuvahki
+
+Kuuvahki là một nguồn năng lượng tương tự như Phlogiston của Natlan và Arkhe của Fontaine và được sử dụng trong nhiều cơ chế khác nhau tại Nod-Krai. Năng lượng này mang tính phân cực, được biểu thị bằng màu xanh dương hoặc đỏ. Một số vật thể "đơn cực" được truyền dẫn một trong hai cực tính của kuuvahki. Chúng sẽ hút các vật thể đơn cực khác mang cực tính trái ngược và đẩy các vật thể cùng cực tính. Trong một số trường hợp, người chơi có thể kích hoạt trạng thái tăng cường để truyền dẫn một cực tính, cho phép điều khiển từ xa bằng cách đẩy hoặc kéo các vật thể kuuvahki mang cực tính phù hợp. Một số vật thể "song cực" có thể được thao tác bằng bất kỳ cực tính nào của kuuvahki. Năng lượng kuuvahki được sử dụng theo các cách sau:
+- Thu hoạch Rương Mora, Vòng Bi Di Động, Pha Lê Cầu Vồng và Đá Lạnh Giá có năng lượng kuuvahki
+
+## Hội Thoại
+
+(Vào Nod-Krai lần đầu tiên, trước khi bắt đầu Bước 2 trong )
+Paimon:, chúng ta đến Nod-Krai rồi! Nơi này có bầu không khí rất đặc biệt nhỉ.
+: (Lạ thật, mình cảm nhận được một luồng sức mạnh quen thuộc...)
+
+## Từ Nguyên
+
+- Nod-Krai có thể được lấy từ (: אֶרֶץ־נוֹד‎ – ʾereṣ-Nōḏ), một địa danh được nhắc đến trong, nơi bị God đày ải sau khi giết chính anh trai mình là.
+- là một loại của, là tên của các đơn vị hành chính ở và (kraj) với nghĩa là "biên giới", "quốc gia" hoặc "khu vực" trong tiếng Nga, Ba Lan, Ukraina, Belarus và Bulgaria.

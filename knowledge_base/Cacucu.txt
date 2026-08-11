@@ -1,0 +1,41 @@
+# Cacucu
+
+## Thông Tin Cơ Bản
+
+type: NPC Nhiệm Vụ
+group: Qucusaur
+group2: Saurian
+region: Natlan
+location: Natlan
+affiliation: Hội Hoa Vũ
+voiceEN: [[imdb:nm0146297
+Dominic Catrambone]]<ref name: "Paralogism EN Livestream info">YouTube: Chương Trình Đặc Biệt Phiên Bản 5.6
+voiceCN: Lu Shujun (zh|吕书君)
+voiceJP: w|ja:小松昌平|Komatsu Shouhei (ja|小松昌平)
+voiceKR: Park Ki-wook (ko|박기욱)
+
+## Tổng Quan
+
+Cacucu là bạn đồng hành Saurian và tự nhận là "người anh em" của Ifa.
+
+Khi thi triển Kỹ Năng Nguyên Tố của Ifa, Cacucu sẽ vào trận, đồng thời Ifa có khả năng bay của nhân vật thuộc Hội Hoa Vũ và của Qucusaur.
+
+Nó xuất hiện lần đầu trong.
+
+## Tiểu Sử
+
+Cacucu là một Qucusaur non vui vẻ, tràn đầy năng lượng và là trợ lý của Ifa tại phòng khám. Nó có khả năng hiểu và bắt chước tiếng người, nhưng do cấu tạo lưỡi của Saurian có giới hạn, nó chỉ có thể giao tiếp bằng cách lặp lại các câu cửa miệng học được từ Ifa:
+Thật à? Người anh em, nghe lại lời mình thử xem.
+Hahaha!
+Không phải chứ, người anh em!
+Không được!
+Ôi chà! Ôi chà!
+Trời ơi, không phải chứ, người anh em?
+Tạm biệt!
+Đang nói nhăng nói cuội gì thế?
+
+Giống với các Saurian NPC khác, Cacucu có thể giao tiếp trôi chảy khi Nhà Lữ Hành ở trong trạng thái Nhập Thể Saurian.
+
+Trong quá khứ, Cacucu từng bị những saurian khác bắt nạt vì vẻ ngoài khác thường. Khi Ifa tìm thấy nó, tình hình của nó rất nguy kịch. Ifa chăm sóc cho nó cho tới khi hồi phục, và Cacucu bắt đầu đi theo Ifa. Sau này, khi đôi người và saurian đang điều trị cho một saurian khác bị bệnh, Cacucu cũng bị nhiễm bệnh và sốt cao. Cacucu đã tới mức thập tử nhất sinh, nhưng Ifa đã rất cố gắng và nó đã hồi phục.
+
+- Ngoại Hình: Cacucu là một Qucusaurus non với thân hình tròn, màu hồng nhạt. Mắt trái của nó được che bởi một miếng bịt mắt màu trắng.

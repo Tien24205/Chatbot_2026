@@ -1,0 +1,37 @@
+# Durin
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+quality: 5
+weapon: Kiếm Đơn
+element: Hỏa
+teamBonus: Hexerei
+name: Durin
+birthday: 14 tháng 03
+constellation: Xích Long
+region: Mondstadt
+region2: Simulanka
+regionNote2: trong cốt truyện
+affiliation: Hội Ma Nữ
+dish: Thịt Om Táo (Bản Thử Nghiệm)
+namecard: Trái Tim Rực Rỡ
+obtainType: Cầu Nguyện Nhân Vật
+event_name: Đá Trắng Hóa Đỏ
+releaseDate: 2025-12-03 11:00:00 GMT+8
+group: Rồng
+title: Ngọn Lửa Bất Diệt
+title2: Chú Rồng Sinh Ra Từ Ngòi Bút Của Ma Nữ M
+adoptive: Relative Type|Anh trai|Albedo| Quest|ref=Quest|Tiếng Vọng Của Vận Mệnh
+creator: Relative Type|synthetic|Andersdotter| Đến Tận Cùng Của Thế Giới
+derivedFrom: Relative Type|synthetic|Durin (NPC)| Đến Tận Cùng Của Thế Giới
+voiceEN: w|Laurie Kynaston (Người) [[imdb:nm11533466
+voiceCN: w|zh:陶典|Tao Dian (zh|陶典) (Người) w|zh:花玲|Hualing (zh|花玲) (Rồng)
+voiceJP: w|Chiaki Kobayashi|Kobayashi Chiaki (ja|小林 千晃) (Người) w|Aya Hisakawa|Hisakawa Aya (ja|久川 綾) (Rồng)
+voiceKR: Kim Ji-yul (ko|김지율) (Người)
+
+## Tổng Quan
+
+Durin là một nhân vật hệ chơi được trong Genshin Impact.
+
+Một chú rồng đến từ thế giới Simulanka, được ma nữ Andersdotter thuộc Hội Ma Nữ tạo ra dựa trên Durin nguyên bản. Nhờ vào Thuật Đất Đen, Albedo đã khiến cho cậu trở thành một con người nhân tạo bằng cách truyền năng lượng từ trái tim của Durin nguyên bản sang cậu, hiện cậu đang sử dụng cơ thể này để hòa nhập vào xã hội Mondstadt

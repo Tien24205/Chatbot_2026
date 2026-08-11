@@ -1,0 +1,78 @@
+# Vết Tích Cầu Vồng
+
+## Thông Tin Cơ Bản
+
+id: 13431
+type: Vũ Khí Cán Dài
+quality: 4
+base_atk: 42
+2nd_stat_type: Phòng Ngự
+2nd_stat: 11,3%
+series: Lò Luyện Tốt Lành
+releaseDate: 2024-08-28
+obtain: Rèn
+diagram: Alom
+passive: Giao Ước Giữa Sông Và Suối
+effect: Khi thi triển Kỹ Năng Nguyên Tố, Phòng Ngự tăng (var1)% trong 15s.
+eff_rank1_var1: 16
+eff_rank2_var1: 20
+eff_rank3_var1: 24
+eff_rank4_var1: 28
+eff_rank5_var1: 32
+eff_att1: Phòng Ngự
+
+- Tổng Quan: Vết Tích Cầu Vồng là Vũ Khí Cán Dài 4 sao có thể rèn được. Vũ Khí này nằm trong chuỗi vũ khí Lò Luyện Tốt Lành.
+
+## Trang 1
+
+Đó là thời xa xưa mà ngày nay được gọi là thần thoại, những năm tháng khi Rồng khổng lồ vẫn bơi lội trên dòng suối.
+Tinh linh mang theo sứ mệnh từ nơi xa phiêu bạt đến đây, gặp gỡ chàng thiếu niên kiên nghị dưới ánh trăng tựa dòng nước.
+Chàng thiếu niên mang tên Uenuku đến từ Meztli, chính là vị anh hùng được đời sau gọi là Người Vượt Qua Cầu Vồng.
+Cũng như nước của dòng suối chưa từng có hình dáng cố định, truyền thuyết của Vua Cầu Vồng cũng có nhiều phiên bản khác nhau.
+Cho dù là vậy, thì câu chuyện trong bất kỳ phiên bản nào, đều sẽ kể về cuộc gặp gỡ của anh và thiếu nữ tinh linh nước.
+
+"Tôi là giọt nước mắt sinh ra từ chén thánh nguyên sơ, là con gái của cam lộ và dòng suối trong, của gió nhẹ và sương mỏng."
+"Hỡi người anh hùng bước lên hành trình để bảo vệ cho kẻ yếu, chính nghĩa mà ngài theo đuổi cũng là lý tưởng mà tôi hướng đến."
+"Xin cho phép tôi dùng tiếng ca để chúc phúc cho mũi giáo của ngài, hãy để tôi sát cánh cùng ngài trên hành trình cô độc."
+"Tôi chỉ xin rằng vào ngày ngài trở thành vua, hãy ban cho tôi dòng suối nơi thú dữ chiếm đóng để báo đáp."
+
+Vì nguyện vọng nhân từ và cao quý của chủ nhân muôn dòng nước, vì tình yêu bình đẳng nương theo dòng nước lan tỏa khắp mặt đất.
+Vì điều này, nhất định phải biến dòng nước rực cháy thành dòng suối trong, hoàn toàn loại bỏ Phlogiston khỏi đó.
+Vậy hãy lấy danh của chính nghĩa dẫn dắt chiến sĩ bắt đầu hành trình, mở nên cuộc chiến chống lại trật tự chỉ thuộc về loài rồng khổng lồ...
+
+Dù hiểu rõ ý đồ của tinh linh, dù đã sớm phát giác Tinh Linh Nước Trong chẳng qua chỉ muốn lợi dụng mình,
+Nhưng nếu đã có cùng kẻ địch, vậy thì trước khi cả hai phản bội nhau, thì cứ sát cánh chiến đấu cùng thiếu nữ đã lừa dối mình vậy.
+
+Như vậy là đủ rồi, anh nghĩ rằng, dù tất cả chỉ là lời dụ dỗ, dù tất cả rồi cũng sẽ tan biến trong mưa bụi,
+Thì ít ra chính nghĩa mà anh luôn tin tưởng, chính nghĩa "đoàn kết" kẻ yếu đó, dù đến cuối con đường này cũng sẽ không phai nhòa.
+
+Cho đến khi hàng chục mùa đông qua đi, vị "vua" dành cả đời cũng không thể thực hiện lời hứa mới nhận ra...
+Ở cuối hành trình vinh quang đó, điều khiến anh ấy hối hận nhất, lại chính là niềm tin kiên định ban đầu.
+
+## Trang 2
+
+Mở khóa sau khi hoàn thành Đảo Thần Bí Thực Sự
+
+Cũng như nước của dòng suối chưa từng có hình dáng cố định, trái tim của con người và tinh linh cũng sẽ lay động theo gió đêm.
+Cho đến khi ngọn lửa của chúa rồng sắp nuốt chửng cơ thể của thiếu niên, cô mới ý thức được mục đích của mình đã trở nên hỗn loạn từ lâu.
+Chỉ cần vứt bỏ người mù quáng tin vào chính nghĩa ở đây là được, huống hồ cô đã sớm khuyên anh ta từ bỏ thôn làng.
+Chỉ cần tìm được một người khác có thể trở thành vua là được, hơn nữa lý tưởng của anh ta chưa từng liên quan đến cô.
+
+Nếu đã như vậy, tại sao trong ánh mắt kinh ngạc của anh ta, mình lại phải nghênh đón ngọn lửa của rồng vì sự ngu xuẩn đó chứ?
+Có lẽ đây chính là "giao lưu và thấu hiểu" mà chủ nhân muôn dòng nước tìm kiếm, thiếu nữ tinh linh nước nghĩ như vậy.
+Lần cuối nở nụ cười nhẹ với anh ta, bao trùm lấy ngọn lửa tựa mặt trời, trong làn hơi nước bay lên chỉ còn lại màu sắc của cầu vồng.
+
+...
+
+Trong cuộn tranh lưu truyền từ xa xưa của Meztli, lại kể về một câu chuyện khác hoàn toàn...
+Dưới ánh trăng dịu dàng, vị anh hùng Uenuku gặp gỡ thiếu nữ tinh linh nước đang lưu lạc đất khách, rồi họ yêu nhau.
+Nhưng lại vì nhất thời hoài nghi, nên đã chia ly với người yêu tên Hineila (hay Ianeira) đó.
+"Ai cũng nói lòng người dễ thay đổi như thủy triều. Nhưng chinh phục thủy triều rất dễ, chinh phục lòng người mới khó."
+Mang theo sự hối hận, vị anh hùng Uenuku đi qua từng cánh đồng rực cháy, chỉ để tìm lại người mình yêu.
+Hàng chục năm vẫn không ngừng tìm kiếm, cuối cùng cũng khiến cho trái tim cứng rắn của thiếu nữ tinh linh nước sinh ra chút thương tiếc.
+Cô hái những đám mây mềm mại trên trời xuống, hóa thành cầu vồng, dẫn dắt anh hùng hướng về phía bên kia của biển cả.
+Dưới sự chúc phúc của Lửa Thánh, vị anh hùng Uenuku cuối cùng cũng được đoàn tụ với người yêu, từ đó không bao giờ chia xa nữa.
+Người già trong bộ tộc tin rằng, vỏ sò ngày nay chính là những mảnh vỡ cầu vồng rơi xuống biển khi đó.
+Vỏ sò luôn có hai mảnh ghép lại thành một cặp, cũng vì chúng tượng trưng cho tâm nguyện được gặp lại nhau.
+
+- Rèn

@@ -1,0 +1,16 @@
+# Chemin Oublie
+
+## Từ Nguyên
+
+type: Địa Điểm Đáng Chú Ý
+map_level: Chemin Oublie
+area: Vườn Farakhkert
+subregion: Ốc Đảo Hoang Mạc
+region: Sumeru
+
+- Tiên Linh - Khiêu Chiến Hạn Giờ
+
+- - ===Kẻ Địch=== - - ==Bên Lề==
+
+- Trong tiếng Pháp, có nghĩa là "Con đường bị lãng quên".
+- Sự thật này và nhiều vỏ sò rải rác xung quanh hang động có thể cho thấy rằng Tinh Linh Nước Trong đã sử dụng đường hầm này như một tuyến đường hành hương.

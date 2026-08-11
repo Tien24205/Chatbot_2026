@@ -1,0 +1,112 @@
+# Thánh Di Vật
+
+## Tổng Quan
+
+type: Loại Vật Phẩm
+type2: Danh Mục Túi
+
+Thánh Di Vật là vật phẩm trong Genshin Impact, Nhân Vật có thể trang bị để tăng Chỉ Số. Nó là tab thứ hai trong Túi.
+
+Có 5 loại Thánh Di Vật có thể trang bị:,,,, và. Mỗi loại chỉ có thể được trang bị một cho mỗi nhân vật.
+
+Các Thánh Di Vật đều có một chỉ số chính, cùng với tối đa 4 Thuộc Tính Thêm. Những chỉ số này có thể gia tăng sức mạnh của nhân vật một cách đáng kể. Một số loại Thánh Di Vật nhất định, chẳng hạn như Hoa Sự Sống và Lông Vũ Tử Vong, chỉ có thể đi kèm với một chỉ số chính cụ thể, trong khi các loại khác có thể đi kèm với nhiều chỉ số chính.
+
+## Cách Nhận
+
+Thánh Di Vật có thể nhận thông qua:
+- Điểm Điều Tra
+- Rương
+- Phá hủy Cỏ Lăn
+- Đánh bại Quái Tinh Anh và Thủ Lĩnh
+- Nhận thưởng từ Cổ Thụ Hóa Thạch trong Bí Cảnh Chúc Phúc
+- Nhận Ngôi Sao Bí Bảo trong La Hoàn Thâm Cảnh.
+Ở cấp Bí Cảnh cao nhất, trung bình nhận được 1 Thánh Di Vật 5 Sao và 1,5 Thánh Di Vật 4 Sao. Mỗi Thánh Di Vật cho ra sẽ có xác suất 50% thuộc một trong hai loại.
+
+Có thể chứa tối đa 1.500 Thánh Di Vật trong Túi. Nếu người chơi tiếp tục nhận Thánh Di Vật, một thông báo đặc biêt sẽ hiện ra.
+
+Một số NPC có nhánh hội thoại sẽ cho người chơi một Thánh Di Vật. Ngoài ra còn có NPC bán Thánh Di Vật 2★.
+
+- Trang Bị: Thánh Di Vật có thể trang bị cho Nhân Vật từ Nhân Vật > Thánh Di Vật > Đổi hoặc Túi > Thánh Di Vật > Chi Tiết > Trang Bị.
+
+## Cường Hoá
+
+Thánh Di Vật yêu cầu EXP Thánh Di Vật và Mora để cường hoá. EXP Thánh Di Vật có thể nhận thông qua Nguyên Liệu Cường Hóa Thánh Di Vật hoặc sử dụng từ Thánh Di Vật khác như là Nguyên Liệu Cường Hoá.
+
+1 điểm EXP trả bằng trừ khi nâng bằng Thánh Di Vật đã được nâng cấp.
+
+Nâng cấp trọn bộ 5 Thánh Di Vật 5 lên cấp 20 sẽ tốn 270,475 × 5 = 1,352,375 EXP Thánh Di Vật & Mora.
+
+## Tiêu Huỷ
+
+Thánh Di Vật từ 1 sao đến 4 sao có thể tiêu huỷ để nhận Mora, và có thể Tiêu hủy 100 Thánh Di Vật cùng lúc. Thánh Di Vật phải ở cấp 0 (+0) với 0 EXP. Khi tiêu hủy sẽ nhận được 420/840/1260/2520 Mora tuỳ vào độ hiếm, bằng với lượng Mora dùng để Cường hóa thánh di vật bằng thánh di vật.
+
+Thánh Di Vật 5 sao không thể bị Tiêu Hủy để đổi Mora nhưng có thể dùng ở tính năng Hoàn Thánh Huyền Bí, bạn sẽ nhận lại một Tráp Thánh.
+
+## Hỗ Trợ Khoá
+
+Chức năng Hỗ Trợ Khóa cho phép tự động khóa Thánh Di Vật 5 sao dựa trên các tiêu chí nhất định. Có thể mở chức năng từ Túi.
+
+Có thể cài đặt các thiết lập áp dụng cho tất cả các bộ Thánh Di Vật cần khóa, và mỗi thiết lập có thể được bật riêng:
+- Tự động khóa Thánh Di Vật 5 sao đáp ứng điều kiện
+- Cài đặt kế hoạch khóa chung
+- Vị Trí Bất Kỳ
+Trực tiếp khoá Thánh Di Vật với Thuộc Tính Thêm bao gồm cả và
+- Ly Không Gian
+Trực tiếp khoá Thuộc Tính Chính của Ly Không Gian
+- Nón Lý Trí
+Trực tiếp khoá Thuộc Tính Chính của Nón Lý Trí
+- Nón Lý Trí
+Trực tiếp khoá Thuộc Tính Chính của Nón Lý Trí
+- Phương án khoá bộ
+- Số lượng Thuộc Tính Thêm yêu cầu trong phương án bao gồm cả Thuộc Tính Thêm chưa kích hoạt.
+
+Đối với mỗi bộ Thánh Di Vật, người chơi có thể tạo 2 Phương Án Khóa Bộ với cài đặt khóa dựa trên chỉ số chính và Thuộc Tính Thêm.
+
+Chỉ số chính của Cát Thời Gian, Ly Không Gian, và Nón Lý Trí có thể được chọn riêng biệt.
+
+Thuộc Tính Thêm áp dụng cho tất cả các món và có thể chọn bất kỳ từ 1 đến 4 chỉ số trong danh sách đã chọn.
+
+Có thể đặt lại các phương án về Cài Đặt Mặc Định, dựa trên dữ liệu hoạt động gần đây.
+
+Thức năng “Dùng Thiết Lập Đề Xuất” sẽ áp dụng thiết lập được đề xuất cho Phương Án Khoá Chung và Phương Án Khoá Bộ dựa trên dữ liệu người chơi.
+
+Tính năng “Mở Khóa Nhanh” hiển thị số lượng bộ Thánh Di Vật không đáp ứng tiêu chí khóa và cho phép mở khóa từng bộ riêng lẻ.
+
+Tính năng “Khóa Nhanh” hiển thị số lượng bộ Thánh Di Vật chưa đáp ứng tiêu chí khóa và cho phép khóa toàn bộ hoặc từng bộ riêng lẻ.
+
+## Tái Tạo
+
+Tiêu hao một số Bụi Khai Sáng nhất định để đảm bảo một số lần nâng cấp sẽ rơi vào các Thuộc Tính Thêm đã chọn.
+
+Khi tái tạo thánh di vật, cần chọn 2 Thuộc Tính Thêm. Số lần cường hoá của thuộc tính thêm sẽ được phân bổ lại. Sau khi tái tạo, người chơi có thể chọn giữ kết quả ban đầu hoặc kết quả sau khi tái tạo, nhưng Bụi Khai Sáng đã tiêu hao sẽ không được hoàn lại.
+
+Mỗi khi tiêu hao 1 Bụi Khai Sáng, đều sẽ nhận 1 điểm tiến độ Giải Mã Thánh Ngôn, có thể dùng để kích hoạt hiệu quả Tái Tạo Cao Cấp và Tái Tạo Sấm Truyền
+
+## Định Nghĩa
+
+Thông qua Máy Biến Đổi Di Vật có thể đổi một số Bột Thánh Hóa để định nghĩa (tạo ra) Thánh Di Vật của một bộ tùy chọn, cũng có thể tùy chọn Thuộc Tính Chính và 2 Thuộc Tính Phụ.
+
+Chỉ có thể định nghĩa 2 mảnh Thánh Di Vật mỗi Phiên Bản
+
+## Chiết Xuất
+
+Thông qua Máy Biến Đổi Di Vật, Thánh Di Vật đã cường hóa có thể được biến đổi thành Bột Thánh Hóa. Có thể chọn tối đa 25 Thánh Di Vật trong một lần chiết xuất. Tối đa chiết xuất 1 Bột Thánh Hóa mỗi phiên bản. Cần đạt 100 Tiến Độ Chiết Xuất để nhận được Bột Thánh Hóa. Tiến độ chiết xuất dư thừa sẽ được lưu lại cho lần chiết xuất tiếp theo.
+
+Thánh Di Vật cần đạt Cấp 4 trỏ lên để có thể chiết xuất. Khi chiết xuất, lượng Tiến Độ Chiết Xuất nhận được sẽ được xác định bởi cấp độ của vật phẩm được sử dụng như sau:
+- Thánh Di Vật từ Cấp 4 đến 7: Tương đương cấp Thánh Di Vật
+- Thánh Di Vật từ Cấp 8 đến 11: Tương đương cấp Thánh Di Vật + 2 điểm
+- Thánh Di Vật từ Cấp 12 đến 15: Tương đương cấp Thánh Di Vật + 6 điểm
+- Thánh Di Vật từ Cấp 16 đến 19: Tương đương cấp Thánh Di Vật + 14 điểm
+- Thánh Di Vật từ Cấp 20: 50 điểm
+
+Xét đến Tiến Độ Chiết Xuất và chi phí cường hóa, Thánh Di Vật ở những cấp (4, 8, 12, 16, 20) sẽ hiệu quả hơn về tổng thể
+
+- Bộ Thánh Di Vật: Bộ Thánh Di Vật là các loại Thánh Di Vật có các hiệu quả bộ khác nhau dựa trên số món của bộ được trang bị trên một Nhân Vật.
+
+## Chỉ Số
+
+Mỗi Thánh Di Vật đều có một chỉ số chính, được xác định bởi loại/vị trí của nó. Giá trị ban đầu của chỉ số này được xác định bởi độ hiếm của Thánh Di Vật. Chỉ Số Chính bao gồm HP, HP%, Tấn Công, Tấn Công%, Phòng Ngự%, Tinh Thông Nguyên Tố, Hiệu Quả Nạp Nguyên Tố, ST Nguyên Tố cho một trong sáu Nguyên Tố có sẵn, ST Vật Lý, TL Bạo Kích, ST Bạo Kích, và Tăng Trị Liệu, nhưng không phải tất cả Chỉ Số Chính đều có sẵn cho tất cả Thánh Di Vật.
+
+Cùng với Chỉ Số Chính, Thánh Di Vật có thể có tối đa 4 Thuộc Tính Thêm. Cứ mỗi 4 cấp cường hóa, một Thuộc Tính Thêm sẽ được nâng cấp hoặc thêm vào tùy vào việc Thánh Di Vật đã có đủ 4 dòng Thuộc Tính Thêm hay chưa. Thuộc Tính Thêm bao gồm HP, HP%, Tấn Công, Tấn Công%, Phòng Ngự%, Tinh Thông Nguyên Tố, Hiệu Quả Nạp Nguyên Tố, TL Bạo Kích và ST Bạo Kích.
+
+- Câu Chuyện: Thánh Di Vật là biểu hiện của ký ức và lý tưởng. Thánh Di Vật thường ở hình dạng đồ vật ở những ngày quá khứ, và chủ nhân trước đây của chúng thường được mô tả trong phần mô tả của Thánh Di Vật

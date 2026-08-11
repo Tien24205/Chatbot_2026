@@ -1,0 +1,61 @@
+# Hắc Nham Trường Kiếm
+
+## Thông Tin Cơ Bản
+
+id: 11408
+type: Kiếm Đơn
+series: Hắc Nham
+releaseDate: 2020-11-01
+quality: 4
+base_atk: 44
+2nd_stat_type: Sát Thương Bạo Kích
+2nd_stat: 8%
+passive: Thừa Thắng Xông Lên
+effect: Sau khi đánh bại kẻ địch, tấn công tăng (var1), kéo dài 30s. Hiệu quả này cộng dồn đến 3 tầng, CD mỗi tầng độc lập.
+eff_rank1_var1: 12
+eff_rank2_var1: 15
+eff_rank3_var1: 18
+eff_rank4_var1: 21
+eff_rank5_var1: 24
+eff_att1: Tấn Công
+obtain: Đổi Bụi Ánh Sáng
+
+- Tổng Quan: Hắc Nham Trường Kiếm là Kiếm Đơn 4 sao nhận được từ Đổi Bụi Ánh Sáng.
+
+## Mô Tả
+
+Trường kiếm được làm từ đá đen rất hiếm có, sắc bén không gì sánh bằng, có thể gọt vàng, cắt ngọc.
+
+Trong đêm dưới ánh trăng có thể nhìn thấy một vệt khảm màu đỏ sẫm cỡ ngón tay giữa thân kiếm.
+
+Màu máu mờ ảo thoáng qua, như thể tiếng gào rít đến xé toạc mặt đất.
+
+Sau khi vũ khí "thử nghiệm" ra đời, nghệ nhân Han Wu đã sửa lại binh khí phổ.
+
+Muốn dùng kết tinh đá đen quý hiếm để tạo ra vũ khí tốt hơn.
+
+Khi xử lý nhiệt, phôi kiếm đá đen cần phải dựa vào nhiệt độ và nước, không gian lưu động của độ cứng và độ dẻo.
+
+Là một thách thức lớn. Cũng chính là ngọn núi mà kẻ si mê đúc kiếm nhất định phải vượt qua, là những rào cản cần phải phá vỡ.
+
+Han Wu mê mẩn đúc kiếm, nhờ bạn thân họ Yun giới thiệu, tự mình đi đến Vực Đá Sâu lựa chọn.
+
+Song vụ sụt lở bất ngờ đã xảy ra trong đường hầm, mọi người bị mắc kẹt trong mỏ đến 4 ngày.
+
+Lúc đó, mọi người hoàn toàn bị nhốt trong nhà tù xây dựng bằng đất đá, dụng cụ khai thác thông thường không thể chọc thủng những bức tường đá.
+
+Trong bóng tối không trăng sao, không rõ thời gian, khiến những người mắc kẹt dần rơi vào trạng thái hôn mê, điên dại và tuyệt vọng.
+
+Khi tuyệt vọng, Han Wu nhận thấy một mẫu mà bản thân mang xuống trong góc hầm đang phát ra ánh sáng mờ ảo...
+
+...Dựa vào thanh kiếm này, những người sống sót tìm được lối ra. Trong khoảnh khắc nhìn thấy ánh mặt trời, kiếm trong tay vỡ thành ngàn mảnh.
+
+Đôi chân người thợ mềm nhũn ngã ngồi trên mặt đất. Vài tháng sau, anh lại đúc thanh trường kiếm này, được đặt tên là "Hắc Nham"
+
+Thế nhân đều ca tụng vẻ đẹp của hắc nham, sự sắc bén của hắc nham, sự kiên cố của hắc nham.
+
+Nhưng nhóm người gặp phải tai nạn mỏ, không hề nhắc đến chuyện lúc đó...
+
+Trong bóng tối sâu tận xương tuỷ, người thợ tận lực đem thanh kiếm đánh vào tảng đá. Kiếm khí ầm ầm như sét đánh.
+
+Có lẽ từ lúc đó bọn họ đã nghe thấy tiếng rít của kiếm, trong tương lai vài năm sau, sẽ có động đất...

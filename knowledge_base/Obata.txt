@@ -1,0 +1,41 @@
+# Obata
+
+## Thông Tin Cơ Bản
+
+type: NPC
+chineseName: Lang|mini=1|zh=|zh_rm=
+japaneseName: Lang|mini=1|ja=|ja_rm=
+koreanName: Lang|mini=1|ko=|ko_rm=
+sex: Nam
+region: Inazuma
+title: Ngư Dân
+dialoguereward: Card|Thịt Cá|10
+
+- Tổng Quan: Obata là một NPC có vị trí ở Đảo Ritou, Inazuma. Nói chuyện với một nhánh cụ thể với NPC này sẽ nhận 10 Thịt Cá.
+
+- "Biển lớn..." - "The sea beckons me..." (Câu Thoại)
+
+## Hội Thoại
+
+Obata: Xin chào, có muốn xem thử thủy sản của tôi không? Thủy sản chỗ tôi tươi nhất Teyvat đó!
+Tôi muốn mua cá.
+:Obata: Hoan nghênh, ở đây có tất cả các loại cá, bạn xem thử nhé.
+;(Mở giao diện Cửa Hàng)
+Về bản thân bạn.
+:Obata: Hòn đảo này là quê hương của tôi, nhà tôi ba đời làm ngư dân, cho nên tôi cũng là ngư dân.
+:Obata:...Nhưng giờ đây, nghề đánh cá cũng xem như là một nghề hiếm rồi.
+:Obata: "Lệnh bế quan tỏa cảnh" đã hạn chế rất nhiều người dân bên ngoài Inazuma, đồng thời cũng hạn chế phạm vi ra biển của chúng tôi.
+:Obata: Không ít ngư dân đã bỏ nghề, tôi là một trong số những ngư dân hiếm hoi còn bám trụ lại.
+:Obata: Bởi vì khi tôi nghe tiếng sóng vỗ, tôi đều sẽ nghĩ rằng biển cả đang nói chuyện với tôi...
+: Về lệnh bế quan tỏa cảnh...
+::Obata: Tôi là một người lao động, nên cũng không biết nhiều đạo lý gì, nhưng mà theo tôi thấy thì quyết sách này không mang lại hạnh phúc cho mọi người.
+::Obata: Lệnh bế quan tỏa cảnh không chỉ thu hẹp số lượng khách hàng, mà còn thu hẹp cả phạm vi đánh cá.
+::Obata: Haiz, không được tự do ra khơi thì tôi chả khác gì con cá khô đang bị phơi trên bờ vậy...thật không biết các đại nhân trên đó đang nghĩ gì...
+: Tiếng gọi nơi biển cả?
+::Obata: Ừm! Bạn nghe xem, tiếng sóng vỗ vào bờ cát, tiếng cá heo bơi theo dòng hải lưu...
+::Obata: Ấy? Vẫn không thể hiểu sao?
+::Obata:...Ha ha ha ha, bạn là người ngoại quốc nhỉ, chẳng trách!
+::Obata: Những con cá biển Inazuma tươi ngon này đều tặng cho bạn đấy. Bạn sống gần biển một thời gian nữa là có thể hiểu được sự lãng mạng của biển cả rồi!
+:;(Nhận Thịt Cá ×10)
+Tạm biệt.
+:Obata: Này! Nếu muốn mua cá tươi thì hãy đến ủng hộ tôi nhé.

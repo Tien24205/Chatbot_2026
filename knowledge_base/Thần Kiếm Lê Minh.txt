@@ -1,0 +1,51 @@
+# Thần Kiếm Lê Minh
+
+## Thông Tin Cơ Bản
+
+id: 11302
+type: Kiếm Đơn
+releaseDate: 2020-09-28
+quality: 3
+base_atk: 39
+2nd_stat_type: ST Bạo Kích
+2nd_stat: 10,2%
+passive: Khích Lệ
+effect: Khi HP trên 90%, tỷ lệ bạo kích tăng (var1)%.
+eff_rank1_var1: 14
+eff_rank2_var1: 17,5
+eff_rank3_var1: 21
+eff_rank4_var1: 24,5
+eff_rank5_var1: 28
+eff_att1: Tỷ Lệ Bạo Kích
+obtain: Cầu Nguyện
+obtain2: Nhiệm Vụ
+quest: Thu Hoạch Của Kaeya
+obtain3: Đối Thoại
+npc: Nanako
+
+- Tổng Quan: Thần Kiếm Lê Minh là một Kiếm Đơn 3 Sao.
+
+## Câu Chuyện
+
+Thanh kiếm này được gọi bằng một cái tên đầy đủ là:
+
+"Thần Kiếm Mở Ra Bình Minh Hướng Về Thắng Lợi Bay Bổng".
+
+Thế nhưng trong chiến trường, chỉ có một người duy nhất gục ngã vì nó:
+
+Là bóng đêm, anh rút kiếm gọi tên thắng lợi.
+
+Trong phút chốc màn đêm lóe lên ánh sáng như ánh mặt trời.
+
+Cũng chì vì có ánh sáng như vậy, cũng trở thành mục tiêu của nhiều người,
+
+Mục tiêu đổ dồn vào nó như là thép dẫn điện, như mưa mũi tên.
+
+## Có Mặt Trong
+
+- Cầu nguyện thường Du Hành Thế Gian (Không giới hạn thời gian)
+- Cầu Nguyện đề xuất cho người mới (Không giới hạn thời gian cho đến khi đủ 20 lần cầu nguyện)
+- Tất cả các sự kiện Cầu Nguyện Nhân Vật và Cầu Nguyện Vũ Khí
+- Phần thưởng từ Nhiệm Vụ Truyền Thuyết "Thu Hoạch Của Kaeya"
+- Nanako - Lời thoại có thưởng
+- Eymen - Lời thoại có thưởng

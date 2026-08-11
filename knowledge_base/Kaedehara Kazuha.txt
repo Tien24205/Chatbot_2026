@@ -1,0 +1,43 @@
+# Kaedehara Kazuha
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+quality: 5
+weapon: Kiếm Đơn
+element: Phong
+name: Kaedehara Kazuha
+birthday: 29 tháng 10
+constellation: Phong Đỏ
+region: Inazuma
+affiliation: Đội Thuyền Nam Thập Tự
+affiliation2: Gia Tộc Kaedehara
+affiliation3: Quân Watatsumi
+affiliationNote3: trước đó
+dish: Tuyệt Tác Thế Gian
+namecard: Lặng Ngắm Núi Thu
+obtain: Cầu Nguyện Nhân Vật
+event_name: Lá Rụng Theo Gió
+releaseDate: 2021-06-29
+ancestry: Gia Tộc Kaedehara
+ancestry2: Gia Tộc Niwa
+father: Kaedehara Kageharu
+relative: Kaedehara Kagemitsu
+relativeNote: tổ tiên
+relative2: Kaedehara Yoshinori
+relativeNote2: cụ cố
+relative3: Kaedehara Hisamichi
+relativeNote3: ông
+title: Lá Đỏ Đuổi Sóng
+title2: Ronin Samurai rời xa quê hương
+voiceEN: [[imdb:nm4008536
+Mark Whitten]]<ref name: "ensp">YouTube: Chương Trình Đặc Biệt Phiên Bản 1.6
+voiceCN: Banma (zh|斑马)
+voiceJP: w|Nobunaga Shimazaki|Shimazaki Nobunaga (ja|島崎 信長)
+voiceKR: w|ko:김신우 (성우)|Kim Shin-woo (ko|김신우)
+
+## Tổng Quan
+
+ là nhân vật hệ chơi được trong Genshin Impact.
+
+Cậu là một samurai lang thang thuộc Gia Tộc Kaedehara đã suy tàn, hiện nay là thành viên tạm thời của Đội Thuyền Nam Thập Tự. Kazuha có khả năng lắng nghe âm thanh của thiên nhiên. Cho dù cuộc đời nhiều thăng trầm, Kazuha vẫn giữ tâm thế ung dung.

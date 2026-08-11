@@ -1,0 +1,9 @@
+# Cát Thời Gian
+
+## Tổng Quan
+
+type: Món Thánh Di Vật
+
+Cát Thời Gian (hay được biết đến là "Đồng Hồ") là một Món Thánh Di Vật trong Genshin Impact. Nó tăng chỉ số của nhân vật và có sẵn 5 Chỉ Số Chính: HP%, Phòng Ngự%, Tấn Công%, Tinh Thông Nguyên Tố, hoặc Hiệu Quả Nạp Nguyên Tố. Món Thánh Di Vật này có sẵn ở mọi độ hiếm (1-5 sao).
+
+Đây được cho là Món Thánh Di Vật có độ khó vừa phải để có "chỉ số đẹp": khó hơn Hoa Sự Sống và Lông Vũ Tử Vong (mà cả hai đều có Chỉ Số Chính cố định), nhưng dễ hơn Ly Không Gian và Nón Lý Trí. Một số thí nghiệm do cộng đồng làm chỉ ra xác suất ra cao nhất của chỉ số chính là HP% (28%), Phòng Ngự% (28%), và Tấn Công% (25%), và xác suất thấp nhất là Tinh Thông Nguyên Tố (10%) và Hiệu Quả Nạp Nguyên Tố (9%).

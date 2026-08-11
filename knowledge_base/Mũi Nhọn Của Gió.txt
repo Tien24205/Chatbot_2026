@@ -1,0 +1,30 @@
+# Mũi Nhọn Của Gió
+
+## Thông Tin Cơ Bản
+
+type: Vũ Khí Cán Dài
+quality: 4
+base_atk: 42
+2nd_stat_type: Tỷ Lệ Tấn Công
+2nd_stat: 9%
+releaseDate: 2022-09-29
+obtain: Sự Kiện
+event_name: Khúc Ca Vang Trong Rượu
+passive: Ngọn Gió Không Đến
+effect: Trong 10s sau khi kích hoạt [[Phản Ứng Nguyên Tố
+eff_rank1_var1: 12
+eff_rank2_var1: 15
+eff_rank3_var1: 18
+eff_rank4_var1: 21
+eff_rank5_var1: 24
+eff_rank1_var2: 48
+eff_rank2_var2: 60
+eff_rank3_var2: 72
+eff_rank4_var2: 84
+eff_rank5_var2: 96
+eff_att1: Tấn Công
+eff_att2: Tinh Thông Nguyên Tố
+
+- Tổng Quan: Mũi Nhọn Của Gió là một Vũ Khí Cán Dài 4 Sao có thể nhận được từ sự kiện Khúc Ca Vang Trong Rượu Phiên Bản 3.1.
+
+- Tinh Luyện: Tinh luyện Mũi Nhọn Của Gió cần đạo cụ tinh luyện Lông Vũ Chuyển Gió thay vì bản sao của món vũ khí này. Có thể đổi 4 Trích Đoạn Cổ Tích trong cửa hàng sự kiện Khúc Ca Vang Trong Rượu.

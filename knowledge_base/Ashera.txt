@@ -1,0 +1,14 @@
+# Ashera
+
+## Thông Tin Cơ Bản
+
+type: NPC Nhiệm Vụ
+region: Sumeru
+location: Sumeru
+spouse: Alyasa
+child: Ilyas
+childNote: con trai
+child2: Izebel
+childNote2: con gái
+
+- Tổng Quan: Ashera là một NPC độc quyền nhiệm vụ xuất hiện trong.

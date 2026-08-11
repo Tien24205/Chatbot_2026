@@ -1,0 +1,31 @@
+# Navia
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+element: Nham
+quality: 5
+weapon: Trọng Kiếm
+arkhe: Ousia
+name: Navia
+realname: Navia CasparHội Thoại NPC: [[Ngài Arthur#Hội Thoại #26
+birthday: 16 tháng 08
+constellation: Dã Tường Vi
+region: Fontaine
+affiliation: Spina di Rosula
+dish: "Cứ Chọn Thoải Mái!"
+namecard: Rosula
+obtain: Cầu Nguyện Nhân Vật
+event_name: Nhân Danh Rosula
+releaseDate: 2023-12-20
+title: Bánh Lái Hoa Lệ
+title2: Hội Trưởng, Lãnh Đạo, Cô Chủ, Tổng Chỉ Huy Spina di Rosula
+father: Callas
+fatherNote: đã chết
+mother: Clementine
+motherNote: đã chết
+voiceEN: [[imdb:nm7446036
+Brenna Larsen]]<ref name: "The Final Feast desc">YouTube: Video Khúc Mở Đầu - Bữa Tiệc Hạ Màn (Mô tả video)
+voiceCN: Xiaogan (zh|小敢)
+voiceJP: w|Aki Toyosaki|Toyosaki Aki ja|豊崎愛生
+voiceKR: Jeong Hae-eun (ko|정해은)

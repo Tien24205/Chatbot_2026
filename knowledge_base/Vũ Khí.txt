@@ -1,0 +1,66 @@
+# Vũ Khí
+
+## Tổng Quan
+
+type: Vật Phẩm
+type2: Danh Mục Vật Phẩm
+
+Vũ Khí trong Genshin Impact là những trang bị hỗ trợ người chơi gây ra nhiều sát thương hơn khi chiến đấu. Đây là danh mục đầu tiên trong Túi.
+
+Hiện tại có năm loại vũ khí khác nhau trong Genshin Impact, mỗi Nhân Vật chỉ có thể sử dụng một loại vũ khí. Đi tới trang của từng loại vũ khí (Cung, Vũ Khí Cán Dài, Trọng Kiếm, Pháp Khí, hoặc Kiếm Đơn) để xem danh sách tất cả các vũ khí thuộc loại đó. Vũ Khí/Danh Sách cũng có một bảng thống kê lại tất cả các loại vũ khí.
+
+Vũ khí có cấp độ có thể được cường hóa với EXP Vũ Khí, được tạo ra bởi các vũ khí khác hoặc Nguyên Liệu Nâng Cấp Vũ Khí
+
+## Độ Hiếm
+
+Mọi vũ khí đều độ hiếm từ 1 sao tới 5 sao. Những vũ khí có độ hiếm/sao lớn hơn sẽ có chỉ số lớn hơn vũ khí có độ hiếm thấp hơn nhưng khả năng nhận được cũng khó hơn, và cũng cần nhiều EXP Vũ Khí hơn để cường hóa.
+- Ví dụ: Dù Gậy Thu Phục (Trọng Kiếm, 3 sao) và Đường Cùng Của Sói (Trọng Kiếm, 5 sao) đều có Lv.20, Gậy Thu Phục sẽ chỉ có 87 Tấn Công Căn Bản và tăng thêm 9,8% Tấn Công Căn Bản ở chỉ số thứ 2, trong khi Đường Cùng Của Sói sẽ có 160 Tấn Công Căn Bản và tăng thêm 15,1% Tấn Công Căn Bản ở chỉ số thứ 2.
+
+## Cách Nhận
+
+- Vũ Khí 5 Sao chỉ có thể nhận được thông qua Cầu Nguyện Du Hành Thế Gian và Sự Kiện Cầu Nguyện Giới Hạn dành cho vũ khí. Không thể nhận được Vũ Khí 5 Sao từ Sự Kiện Cầu Nguyện Giới Hạn dành cho Nhân Vật.
+- Vũ Khí 4 Sao có thể nhận được thông qua Cầu Nguyện, mua từ Cửa Hàng Của Paimon hay thông qua Rèn.
+- Trong một số trường hợp, chúng sẽ xuất hiện trong thế giới mở, nhưng không nằm trong rương. Cho đến nay, chỉ có Tuyết Vùi Tinh Ngân là được nhận thông qua cách này.
+- Vài Vũ Khí chỉ nhận được thông qua Sự Kiện và không thể kiếm được thông qua bất kỳ phương thức nào khác.
+- Mở Rương Báu Vật Nhật Ký Hành Trình nhận được thông qua Nhật Ký Hành Trình, có thể nhận được một món vũ khí 4 sao loại bất kì.
+- Một số vũ khí được gửi kèm trong Thư cho người chơi trên một nền tảng nhất định. Cho đến nay, chỉ có vũ khí từ Chuỗi Người Phương Xa là được nhận thông qua cách này.
+- Hoàn thành sự kiện vĩnh viễn Ngôi Sao Trở Về có thể nhận được vũ khí rèn 4 Sao.
+- Hoàn thành Nhiệm Vụ Ma Thần Bài Ca Về Rồng Và Tự Do có thể nhận được một vũ khí 4 Sao - Cung Tây Phong.
+- Đạt Hạng Mạo Hiểm 10 sẽ nhận được một vũ khí rèn 4 Sao - Mẫu Trảm Nham tại Hiệp Hội Nhà Mạo Hiểm.
+- Vũ Khí 3 Sao có thể nhận được thông qua Cầu Nguyện và khi mở Rương trong thế giới mở.
+- Trong một số trường hợp, chúng sẽ xuất hiện lại trong thế giới mở. Cho đến nay, mới chỉ có Đại Kiếm Phi Thiên nhận được theo cách này.
+- Có thể nhận được vũ khí 3 Sao trong một vài nhiệm vụ thuộc Nhiệm Vụ Ma Thần Chương Mở Đầu, Màn 1: Người Phương Xa Đuổi Theo Gió.
+- Một số NPC sẽ tặng người chơi vũ khí 3 Sao khi lần đầu đối thoại theo một nhánh nhất định nào đó.
+- Vũ Khí 2 Sao và Vũ Khí 1 Sao có thể nhận được thông qua rương trong thế giới mở, trao đổi trong Cửa Hàng của NPC, tìm thấy khi Khai Quật hoặc được NPC tặng khi lần đầu đối thoại theo một nhánh nhất định. Vũ Khí 1 Sao còn đi kèm với mỗi Nhân Vật mới mà người chơi nhận được.
+
+- Cường Hóa: Cũng như Nhân Vật, vũ khí có thể nhận được kinh nghiệm và tăng cấp độ thông qua tiêu hao vũ khí khác hoặc với Nguyên Liệu Tăng Cấp Vũ Khí.
+
+## Đột Phá
+
+Giống Nhân Vật, vũ khí có thể đột phá tới trạng thái tiếp theo khi chúng đạt cấp độ tối đa, tối đa 6 lần (Lv.90). Đột phá vũ khí cần tiêu hao Nguyên Liệu Đột Phá Vũ Khí.
+
+Diện mạo vũ khí sẽ thay đổi vĩnh viễn sau khi Đột Phá Bậc 2.
+
+## Chỉ Số Thứ 2
+
+Vũ khí có độ hiếm từ 3 sao trở lên sẽ có chỉ số thứ 2, cung cấp cho nhân vật trang bị một chỉ số phụ tương ứng với cấp độ của vũ khí, giống như Tấn Công Căn Bản. Tùy thuộc vào vũ khí, sẽ có đi kèm một trong các chỉ số phụ sau đây:
+- Vũ Khí Tấn Công
+- Vũ Khí Phòng Ngự
+- Vũ Khí HP
+- Vũ Khí Sát Thương Bạo Kích
+- Vũ Khí Tỷ Lệ Bạo Kích
+- Vũ Khí Tinh Thông Nguyên Tố
+- Vũ Khí Hiệu Quả Nạp Nguyên Tố
+- Vũ Khí Tăng Sát Thương Vật Lí
+
+## Nội Tại
+
+Vũ khí có độ hiếm 3 sao hoặc lớn hơn sẽ có một nội tại và đi kèm với chỉ số thứ 2. Những hiệu ứng này có thể bao gồm một số thứ đơn giản - tăng hiệu ứng như Cung Lông Quạ, nội tại "Diệt Hỏa Ngưng Thủy" có thể tăng sát thương tạo thành cho kẻ địch bị ảnh hưởng bởi nguyên tố Thủy hoặc Hỏa - tới những thứ phức tạp hơn như Chương Nhạc Lang Thang, nội tại "Sàng lọc" có thể tăng 1 trong 3 loại hiệu ứng khác nhau khi người chơi chủ động chuyển nhân vật được trang bị vũ khí này lên sân.
+
+## Tinh Luyện
+
+Nội tại của vũ khí có thể được nâng cấp thông qua tinh luyện. Có thể tăng cấp từ mọi thứ hạng, lên đến tối đa là hạng 5. Mọi vũ khí có nội tại đều có thể được tinh luyện bằng cách tiêu thụ một vũ khí tương tự.
+
+Nếu bạn có hai vũ khí giống nhau, cùng đạt tinh luyện 2 và tinh luyện chúng với nhau, bạn sẽ có được một vũ khí tinh luyện 4. Điều này đúng với tất cả các cấp độ tinh luyện. Tuy nhiên, bạn không thể tinh luyện vượt quá hạng 5 bằng cách thực hiện điều này. Xin lưu ý rằng các tài nguyên nâng cấp của bạn sẽ không được hoàn trả bởi hành động này, nếu chúng đã được sử dụng.
+
+Tinh luyện Vũ Khí Chỉ Có Trong Sự Kiện sẽ tiêu hao nguyên liệu tinh luyện đặc biệt mà chúng chỉ có hiệu lực trong sự kiện. (Ví dụ: Nguyên liệu tinh luyện Tuyển tập các câu chuyện về Dodoco nằm trong cửa hàng sự kiện Mùa Hè! Hải Đảo? Cuộc Mạo Hiểm!. Mua toàn bộ 4 nguyên liệu tinh luyện từ cửa hàng đủ để người chơi nâng tinh luyện Tuyển tập các câu chuyện về Dodoco lên hạng 5.)

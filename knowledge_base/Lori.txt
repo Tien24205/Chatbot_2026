@@ -1,0 +1,13 @@
+# Lori
+
+## Thông Tin Cơ Bản
+
+type: NPC Nhiệm Vụ
+region: Fontaine
+location: Fontaine
+affiliation: Hiến Binh
+title: Thành Viên Đội Hiến Binh
+
+- Tổng Quan: Lori là một NPC độc quyền nhiệm vụ xuất hiện trong và.
+
+- Tiểu Sử: Cô là một trong những người bắt giữ Lorenzo.

@@ -1,0 +1,68 @@
+# Charles
+
+## Thông Tin Cơ Bản
+
+region: Mondstadt
+location: Mondstadt
+title: Người Pha Chế Rượu Quán "Quà Tặng Của Thiên Sứ"
+type: NPC Đại Thế Giới
+affiliation: Tửu Trang Dawn
+affiliation2: Quà Tặng Của Thiên Sứ
+voiceJP: w|Yasunori Masutani|Masutani Yasunori (ja|増谷 康紀)
+
+- Tổng Quan: Charles là người pha chế rượu, NPC bán đồ uống ở Quà Tặng Của Thiên Sứ, Mondstadt.
+
+## Tiểu Sử
+
+Charles là người pha chế rượu ở quán Quà Tặng Của Thiên Sứ, được Tửu Trang Dawn tuyển về và làm việc ở quán rượu hơn 10 năm. Anh làm cả ngày ở quán rượu, tuy vậy có những đêm chủ quán Diluc sẽ làm thay, và đó là những đêm anh được nghỉ.
+
+- Ngoại Hình: Anh có mái tóc nâu nhạt, đeo một chiếc vòng cổ với mặt đính đá màu hổ phách. Anh đeo đôi găng tay màu nâu và buộc ví bên hông bằng một chiếc thắt lưng,
+
+- Lời Thoại Nhàn Rỗi: : "Bạn uống gì nào?"
+
+## Hội Thoại
+
+Charles: Hôm nay muốn uống gì?
+Tôi muốn mua một số đồ uống.
+:Charles: Đây là thực đơn, quyết định xong thì cứ nói tôi một tiếng.
+;(Mở giao diện thực đơn Quà Tặng Của Thiên Sứ)
+Về tai họa rồng...
+;(Yêu cầu hoàn thành Người Phương Xa Đuổi Theo Gió)
+:Charles: Ừm... có chút đau đầu, con đường nhập hàng của tửu quán bị ảnh hưởng bởi Phong Ma Long, vì thế các loại rượu cũng ít đi...
+:Charles:...Tôi không lo lắng lắm về Phong Ma Long, những vị khách uống rượu để say mèm kia chỉ là do họ sợ hãi quá độ.
+:Charles: Nói qua cũng phải nói lại, nếu thật sự không thể vãn hồi, vậy chỉ cần đợi đến khi màn đêm buông xuống là được.
+:Charles: Kỵ sĩ chỉ thuộc về bóng đêm kia sẽ không khoanh tay đứng nhìn.
+;(Yêu cầu hoàn thành Vì Bóng Hình Màu Xanh)
+:Charles: Chẳng có gì đáng nói, đây đã là việc quá khứ rồi.
+:Charles: Đời người đâu chỉ có quả mọng ngọt ngào, cũng cần có rượu đắng chát, những chuyện này sẽ trở thành một phần trải nghiệm của bạn.
+:Charles: So với việc than thở "tại sao lại xảy ra", chi bằng tiếp tục nhìn về phía trước. Học cách tiếp nhận mùi vị đắng chát, đây chính là cách làm của người lớn.
+:Charles: Đợi đến khi bạn chuẩn bị sẵn sàng tiếp nhận thứ đắng chát này, tôi sẽ cho bạn nếm một ly đặc biệt.
+Có đề xuất gì không?
+Charles: Rượu táo đặc trưng của Tửu Trang Dawn, có thể nói đây là loại rượu bán chạy nhất quán Quà Tặng Của Thiên Sứ.
+Charles: Nếu có hứng thú cũng có thể nếm thử rượu pha chế của tôi, nếu bạn uống lần đầu, tôi có thể tặng bạn một ly đặc biệt.
+Rượu mạnh loại nào ngon?
+Charles: Nếu thích rượu mạnh, tôi nghĩ bạn nên thử Cái Chết Chiều, đây là thứ mà đội trưởng Kaeya thích nhất.
+Charles: Nhưng tôi từng thấy rượu mạnh nhất, chắc là loại rượu mang tên Hỏa Thủy đó.
+Charles: Rượu này của Snezhnaya, là thứ thương nhân Snezhnaya đem đến Mondstadt cùng với sứ đoàn, nhưng Diluc lão gia cho rằng nó không thích hợp với khẩu vị của người Mondstadt, nên không nhập hàng.
+Charles: Ở đây chỉ có một bình là vật mẫu năm xưa, chỉ để trưng bày chứ không bán, nếu thật sự muốn thử thì hãy đến Snezhnaya.
+Về bản thân anh.
+Charles: Không ngờ bạn có hứng thú với tôi à?
+Charles: Tôi làm người pha chế rượu ở đây cũng hơn mười năm rồi, cũng giống với các nhân viên khác, đều làm thuê cho Tửu Trang Dawn.
+Charles: Cũng không phải quá yêu thích rượu, chỉ là công việc mà thôi...
+Charles: Ừm... đương nhiên cũng không phải như Diona của quán rượu Đuôi Mèo, nghe nói cô ấy rất ghét rượu.
+Charles: Thỉnh thoảng ông chủ Diluc của tửu trang cũng đến làm thay.
+Charles: Dù gì với tôi mà nói cũng là kỳ nghỉ hiếm có, về điểm này tôi rất cảm ơn lão gia.
+Không cần, cảm ơn.
+Charles: Vậy sao, uống ít một chút cũng đúng mà.
+
+## Một Ngụm Mộng Mơ
+
+Charles: Có việc gì cần giúp không?
+Tôi muốn so tài pha chế.
+:Charles: Xem ra bạn đã chuẩn bị sẵn sàng rồi, vậy chúng ta bắt đầu thôi.
+;(Mở giao diện so tài pha chế)
+Tôi muốn nghiên cứu công thức mới.
+:Charles: Được, nguyên liệu đã có đầy đủ. Hãy phát huy khả năng sáng tạo của bạn thôi nào.
+;(Mở giao diện tạo công thức)
+Tạm biệt.
+:Charles: Ừm, vất vả cho bạn rồi. Nếu như có việc gì cần thì cứ đến tìm tôi nhé.

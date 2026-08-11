@@ -1,0 +1,51 @@
+# Thực Phẩm
+
+## Tổng Quan
+
+type: Loại Vật Phẩm
+type2: Danh Mục Túi
+
+Thực Phẩm là các Vật Phẩm Tiêu Hao trong Genshin Impact. Đây là mục thứ tư trong Túi đồ. Sử dụng thực phẩm có thể hồi HP, hồi sinh, hiệu quả buff cho nhân vật của người chơi, thậm chí là cho cả đội.
+
+Phần lớn các loại thực phẩm có thể nhận được thông qua Nấu Nướng hoặc Ghép. Một vài (Táo, Trái Bulle, Nấm Sao, và Quả Nhật Lạc) có thể kiếm trong tự nhiên hoặc tiêu hao trực tiếp.
+
+Khi một nhân vật đã ngã xuống được hồi sinh, họ vẫn sẽ nhận được các buff thực phẩm đang được sử dụng giống như các nhân vật khác trong đội. Không thể xóa các vật phẩm loại thực phẩm khỏi Túi, ngoại trừ thực phẩm có thể kiếm được.
+
+## Chất Lượng
+
+Vật phẩm thực phẩm có 3 loại chất lượng khác nhau: Kỳ Lạ, Bình Thường, và Ngon. Biến thể Kỳ Lạ và Ngon sẽ giảm/tăng 20% hiệu quả so với món ăn bình thường; thời gian duy trì của cả ba loại thực phẩm này là như nhau bất kể chất lượng.
+
+Khi một nhân vật cụ thể nấu một Món Ăn, sẽ có khả năng nhất định nhận được biến thể Món Ăn Đặc Biệt tùy thuộc vào độ hiếm và chất lượng của món ăn. Món Ăn Đặc Biệt cung cấp hiệu quả cao hơn hoặc có các hiệu ứng bổ sung so với loại Ngon, cũng như sẽ có biểu tượng, tên và mô tả riêng biệt.
+
+## No Bụng
+
+Khi một nhân vật tiêu hao Món Ăn Hồi Phục (thực phẩm giúp hồi HP), Độ No của chúng sẽ tăng lên. Độ No có mức tối đa là 100.
+
+Khi Độ No = 100, không thể tiêu hao thêm các Món Ăn Hồi Phục.
+
+Khi Độ No > 0, nó sẽ giảm dần theo thời gian với tốc độ 0,3/s
+
+Khi Độ No đạt 100, trạng thái No Bụng sẽ được áp dụng cho nhân vật trong vòng 30 giây, nó sẽ trì hoãn Độ No giảm dần theo thời gian cho đến khi kết thúc.
+
+Độ No sẽ đặt lại về mức 0 khi nhân vật được hồi sinh.
+
+Độ No tăng lên từ Món Ăn Hồi Phục được tính theo công thức \text{Tham Số A} + \frac{\text{Tham Số B{\text{Giới Hạn HP Nhân Vật.
+
+## Nhiều Thực Phẩm Buff Cùng Lúc
+
+Ăn các món ăn hỗ trợ ngoài hồi máu còn có có thể gia tăng Phòng Ngự, Tỷ Lệ Bạo Kích, Tấn Công - Những món ăn này được chia làm 4 loại - Tấn Công, Phòng Ngự, Nguyên Tố, và Thể Lực. Tại một thời điểm nhất định, chỉ có thể kích hoạt một món ăn của mỗi loại thực phẩm, món nào ăn sau sẽ thay thế cho món ăn trước dù có kém hiệu quả hơn. Tuy nhiên, có thể kích hoạt món ăn thuộc cả bốn loại cùng một lúc.
+
+#Nhóm Tấn Công: Tăng Tỷ Lệ Bạo Kích, Sát Thương Bạo Kích, Sát Thương Vật Lý, Tấn Công
+#Nhóm Phòng Ngự: Tăng hiệu quả Khiên và Phòng Ngự
+#Nhóm Thể Lực: Giảm thể lực khi leo trèo, xung kích, bay và chạy
+- Nhóm Nguyên Tố: Tăng sát thương nguyên tố và kháng nguyên tố được coi là chung một loại thực phẩm, nên không thể vừa tăng sát thương nguyên tố vừa kháng nguyên tố.
+
+## Ghi Chú
+
+- Món ăn giảm tốc độ Tích Tụ Giá Rét được coi là nhóm thứ năm.
+- Món ăn tăng điểm Tấn Công (ví dụ như +100 Tấn Công) không chịu tác động từ chỉ số %Tấn Công của trang bị.
+- (Tính đến Phiên Bản 1.4) Cả số liệu về món ăn đang dùng hay thời gian còn lại không xuất hiện trong bất kì giao diện nào. Món ăn giảm thể lực tiêu hao cũng không xuất hiện trong trạng thái sau khi được sử dụng.
+
+## Thời Gian Chờ
+
+Một vài sẽ rơi vào khoảng thời gian chờ (CD) sau khi sử dụng. Món ăn hồi thể lực có CD 300 giây, món ăn hồi sinh có CD là 120 giây sau khi sử dụng. Không giống như hầu hết CD của các vật phẩm khác khi sử dụng, đồng hồ đếm CD thực phẩm sẽ không đếm khi trò chơi bị tạm dừng (tức là mở Giao Diện Túi Đồ).

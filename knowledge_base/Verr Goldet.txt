@@ -1,0 +1,19 @@
+# Verr Goldet
+
+## Thông Tin Cơ Bản
+
+type: NPC
+name: Verr Goldet
+affiliation: Nhà Trọ Vọng Thư
+affiliation2: Thất Tinh Liyue
+region: Liyue
+title: Chủ Nhà Trọ Vọng Thư
+spouse: Huai'an
+voiceEN: Lauren Amante
+voiceJP: Amano Mizuhana (水花 天乃)
+
+## Tổng Quan
+
+Verr Goldet là một NPC có mặt ở Nhà Trọ Vọng Thư tại Địch Hoa Châu, Liyue. Cô ta là chủ nhà trọ, cùng với Huai'an (chồng cô ấy) với vai trò trưởng quầy nhà trọ. Ngoài ra, cô ấy cũng có bán một vài món ăn và công thức nấu ăn của nhà trọ.
+
+Verr Goldet có liên quan đến Nhiệm Vụ Ma Thần "Vọng Thư". Đoạn hội thoại của cô ấy sẽ thay đổi một chút sau khi hoàn thành nhiệm vụ.

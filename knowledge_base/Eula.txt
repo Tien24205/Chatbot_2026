@@ -1,0 +1,33 @@
+# Eula
+
+## Thông Tin Cơ Bản
+
+name: Eula
+type: Chơi Được
+quality: 5
+weapon: Trọng Kiếm
+element: Băng
+realname: Eula Lawrence
+sex: Nữ
+birthday: 25 tháng 10
+constellation: Lãng Mạt
+region: Mondstadt
+affiliation: Đội Kỵ Sĩ Tây Phong
+affiliation2: Gia Tộc Lawrence
+dish: Bánh Gợn Sóng
+obtain: Sự Kiện Cầu Nguyện
+event_name: Khoảnh Khắc Dậy Sóng
+releaseDate: 18-05-2021
+title: Vũ Điệu Bọt Biển
+title2: Kỵ Sĩ Sóng Nước
+title3: Đội trưởng Đội du kích của Đội Kỵ Sĩ Tây Phong
+voiceEN: Suzie Yeung
+voiceCN: Ziyin (子音)
+voiceJP: Rina Sato (佐藤利奈)
+voiceKR: Kim Hyeon-ji (김현지)
+
+## Tổng Quan
+
+Eula là một nhân vật hệ Băng chơi được trong Genshin Impact.
+
+Eula mang tiếng hậu duệ của quý tộc cũ từng áp bức nhân dân Mondstadt, thanh danh trong mắt người dân thành phố tự do bị ô uế. Giữa một bên là gia tộc và một bên là Mondstadt, cô lựa chọn đi theo thành phố tự do, gia nhập Đội Kỵ Sĩ Tây Phong và trở thành đội trưởng Đội Du Kích.

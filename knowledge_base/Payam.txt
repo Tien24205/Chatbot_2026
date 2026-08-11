@@ -1,0 +1,11 @@
+# Payam
+
+## Thông Tin Cơ Bản
+
+type: NPC Nhiệm Vụ
+region: Sumeru
+location: Sumeru
+affiliation: "Lữ Đoàn 30"
+title: Lính Đánh Thuê "Lữ Đoàn 30"
+
+- Tổng Quan: Payam là một NPC độc quyền nhiệm vụ xuất hiện trong.

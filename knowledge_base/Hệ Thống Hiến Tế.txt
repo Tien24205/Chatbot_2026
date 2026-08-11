@@ -1,0 +1,26 @@
+# Hệ Thống Hiến Tế
+
+## Tổng Quan
+
+type: Hệ Thống Trò Chơi
+type2: Tiến Trình
+
+Hệ Thống Hiến Tế là hệ thống trong trò chơi Genshin Impact cho phép hiến tế các vật phẩm tìm được thông qua việc Thám Hiểm để đổi lấy phần thưởng. Tương tự như Thất Thiên Thần Tượng nhưng thay vì dâng từng vật phẩm một thì sẽ tự động dâng tất cả vật phẩm có trong Túi.
+
+- Sự Báo Đáp Của Cổ Thụ: Xuất hiện khi tương tác với Cây Chịu Lạnh tại Long Tích Tuyết Sơn, Mondstadt.
+
+- Anh Đào Thần Bảo Vệ: Xuất hiện khi tương tác với cây Anh Đào Thần trên Đảo Narukami, Inazuma.
+
+- Cường Hóa Chất Xúc Tác Lưu Minh Thạch: Xuất hiện khi tương tác với Jinwu tại Vực Đá Sâu - Khu Mỏ Ngầm, Liyue.
+
+- Sự Ủng Hộ Của Vanarana: Xuất hiện khi tương tác với Cây Mơ Mộng tại Vanarana, Sumeru.
+
+- Amrita Ban Phúc: Xuất hiện khi tương tác với Hồ Amrita tại Ốc Đảo Vourukasha, Sumeru.
+
+- Phản Hồi Của Đài Phun Nước Lucine: Xuất hiện khi tương tác với Đài Phun Nước Lucine trong Khu Đại Sảnh Fontaine, Fontaine.
+
+- Phước Lành Của Ngọc Tế Lễ: Xuất hiện khi tương tác với Ngọc Tế Lễ tại Cẩm Lạc Đình, Liyue.
+
+- Đền Đáp Của Lửa Tona: Xuất hiện khi tương tác với Vòng Tona trong Đền Pax, Natlan.
+
+- Cộng Hưởng Lửa Nguồn: Xuất hiện khi tương tác với Ngai Vàng Của Ngọn Lửa Nguyên Thủy tại Ochkanatlan, Natlan.

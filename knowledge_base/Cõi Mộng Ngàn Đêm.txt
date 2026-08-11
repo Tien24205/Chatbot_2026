@@ -1,0 +1,80 @@
+# Cõi Mộng Ngàn Đêm
+
+## Thông Tin Cơ Bản
+
+type: Pháp Khí
+quality: 5
+base_atk: 44b
+2nd_stat_type: Tinh Thông Nguyên Tố
+2nd_stat: 58
+series: Sumeru
+releaseDate: 2022-11-02
+obtain: Cầu Nguyện Vũ Khí
+passive: Khúc Ca Bình Minh Ngàn Đêm
+eff_rank1_var1: 32
+eff_rank2_var1: 40
+eff_rank3_var1: 48
+eff_rank4_var1: 56
+eff_rank5_var1: 64
+eff_rank1_var2: 10
+eff_rank2_var2: 14
+eff_rank3_var2: 18
+eff_rank4_var2: 22
+eff_rank5_var2: 26
+eff_rank1_var3: 40
+eff_rank2_var3: 42
+eff_rank3_var3: 44
+eff_rank4_var3: 46
+eff_rank5_var3: 48
+eff_att1: Tinh Thông Nguyên Tố
+eff_att2: Buff ST Nguyên Tố
+
+## Effect
+
+Căn cứ xem loại nguyên tố của mỗi nhân vật khác trong đội có tương đồng với người trang bị vũ khí này hay không, từ đó nhận được các loại hiệu quả sau. Giống nhau: Tinh Thông Nguyên Tố tăng (var1) điểm. Khác nhau: Buff sát thương loại nguyên tố của người trang bị tăng (var2)%. Hiệu quả nói trên mỗi loại tối đa cộng dồn 3 tầng. Ngoài ra, sẽ tăng (var3) điểm Tinh Thông Nguyên Tố cho nhân vật trong đội gần đó (trừ người trang bị vũ khí này). Hiệu quả này có thể cộng dồn từ nhiều vũ khí cùng tên.
+
+- Tổng Quan: Cõi Mộng Ngàn Đêm là một pháp khí 5 Sao.
+
+## Câu Chuyện
+
+"Vạn vật sinh diệt đều theo định kỳ, cũng giống như đêm đen và bình minh luôn luân chuyển không ngừng."
+
+"Hãy để câu chuyện trong chiếc đèn này, cho bạn một giấc mộng đẹp đáng để mong chờ đi."
+
+Vào thời khắc vườn ngự uyển sụp đổ, thiếu nữ chưa từng biết đến "ánh sáng" đã nghe thấy tiếng thì thầm của cô ấy trong mơ.
+
+Đứa trẻ vốn dĩ đã hạ quyết tâm, sẽ cùng rời đi cùng với "giấc mơ", trong nước mắt đã nhìn thấy được lòng từ bi trắc ẩn của cô ấy.
+
+Ngọn đèn màu xanh lục chiếu rọi lên ánh trăng yên tĩnh, cùng thuật lại hình ảnh của bầu trời đầy sao và bài ca dao vĩnh hằng đó...
+
+Vũ công với đôi mắt xanh ngọc khẽ hôn lên dãy lụa đang rũ xuống, những con cá màu trắng đỏ xanh vàng đang lượn lờ trong dòng nước thuần khiết tựa trân châu.
+
+Nhạc sĩ dạ hành đang dẫn dắt ngọn đuốc trấn linh, ca ngợi về thành trì dát vàng trong biển cát và cây đàn màu thạch lựu,
+
+Thủy thủ nhạy bén bước chân lên hành trình vinh quang, chỉ để tìm kiếm tiếng hát trong giấc mơ và hoa viên xanh ngát ở phía bờ bên kia.
+
+Ngọn đèn yên tĩnh chiếu sáng vườn ngự uyển đổ nát, và thứ xoay chuyển trong chiếc đèn là giấc mơ ảo diệu của một ngàn thế giới.
+
+Ngọn gió rừng dịu dàng thổi qua con đường trở về đã phủ đầy bụi, dẫn dắt đứa trẻ lạc lối bước ra khỏi cung điện không còn yên bình đó.
+
+Giữa những kẽ lá có những tia sáng mỏng manh lọt qua, chiếc đèn màu xanh đang kể về giấc mơ ngàn đêm càng trở nên ảm đạm:
+
+Mãi cho đến khi cô như nửa mơ nửa tỉnh và đột ngột quay đầu, thiếu nữ mù lòa mới phát giác ra khu rừng đã không còn nữa, ánh bình minh đã đến.
+
+Chiếc đèn trong mơ đó từ đây không còn nhấp nháy nữa, giấc mơ của đêm cũ cũng đã bị thời gian dần nuốt chửng,
+
+Những con chim đón chào ánh mặt trời vẫn líu lo ca hát, hát về giai thoại rực rỡ tựa những đóa hoa nở rộ,
+
+Những đứa trẻ chưa từng nhìn thấy giấc mơ, sẽ được ban cho dũng khí, hy vọng và niềm vui,
+
+Dệt nên khúc ca ngàn đêm mãi không hồi kết, thắp sáng ngọn lửa cho chiếc đèn đêm đang lặng lẽ chờ rạng đông.
+
+Vượt qua mộng mị của ngàn đêm, mãi cho đến khi dạ oanh không còn hót, mãi cho đến khi mặt trời một lần nữa lặng xuống,
+
+Người lữ khách đi đến tận cùng một lần nữa nhìn thấy chiếc đèn màu xanh, cố hương xa xôi đó,
+
+Tường vi đọng sương mai vẫn đung đưa trong làn gió tắm ánh trăng, chờ cô ấy kể về câu chuyện mới:
+
+"Dù cho hồi ức của đêm qua mãi không còn nữa, chúng ta vẫn phải hát vang vì giấc mộng đẹp của đêm nay."
+
+- Điều Hướng: Con Đường Thợ Săn

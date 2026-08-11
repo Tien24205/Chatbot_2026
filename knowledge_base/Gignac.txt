@@ -1,0 +1,11 @@
+# Gignac
+
+## Thông Tin Cơ Bản
+
+type: NPC Nhiệm Vụ
+region: Fontaine
+location: Fontaine
+voiceEN: [[imdb:nm9824541
+Drew Breedlove]]<ref name: "Drew Breedlove">Twitter: Diễn Viên Lồng Tiếng Tiếng Anh Tự Thông Báo (Thư Viện)
+
+- Tổng Quan: Gignac là một NPC độc quyền nhiệm vụ xuất hiện trong.

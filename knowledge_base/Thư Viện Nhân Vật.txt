@@ -1,0 +1,23 @@
+# Thư Viện Nhân Vật
+
+## Tổng Quan
+
+type: Hệ Thống Trò Chơi
+group: Giao Diện
+
+Thư Viện Nhân Vật là Hệ Thống Trò Chơi dùng để xem tất cả Nhân Vật, ngoại trừ Nhà Lữ Hành. Hệ thống này hiển thị những nhân vật mà người chơi đã sở hữu cũng như những nhân vật chưa sở hữu. Hệ thống sẽ mở sau khi hoàn thành.
+
+## Nội Dung
+
+Có thể xem hình ảnh Cầu Nguyện của nhân vật đã sở hữu tại hình kính lúp ở góc dưới bên phải màn hình khi chọn nhân vật. Nếu đã thay đổi Trang Phục của nhân vật, có thể xem cả nhân vật với bộ trang phục bất kể người chơi đã sở hữu nhân vật hay chưa.
+
+Khi xem chi tiết nhân vật sẽ hiển thị Nguyên Tố, Vũ Khí, mô tả, Cung Mệnh, Thiên Phú ở Cấp 1, Sinh Nhật và liệu nhân vật thuộc về đâu. Cũng sẽ hiển thị hoạt ảnh chờ của nhân vật.
+
+Có thể lọc nhân vật theo một hoặc nhiều Nguyên Tố và Vũ Khí.
+
+Nhân vật có thể được sắp xếp theo thứ tự tăng dần hoặc giảm dần theo:
+- Mặc định (Ngày ra mắt, sau đó là Độ Hiếm)
+- Nhân vật đã sở hữu
+- Độ Hiếm của nhân vật
+- Nguyên Tố của nhân vật
+- Vũ Khí

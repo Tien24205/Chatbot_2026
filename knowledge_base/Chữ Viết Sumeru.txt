@@ -1,0 +1,9 @@
+# Chữ Viết Sumeru
+
+## Tổng Quan
+
+type: Ngôn Ngữ
+
+Chữ Vedanagari là hệ thống chữ viết của Sumeru.
+
+Chữ viết này dường như được dựa trên bảng chữ cái Teyvat, lấy cảm hứng từ chữ viết được dùng phổ biến ở Ấn Độ. Ngôn ngữ này thường được sử dụng để viết các từ và câu tiếng Anh nhưng không giống như tiếng Anh, có vẻ không có viết hoa và dấu câu.

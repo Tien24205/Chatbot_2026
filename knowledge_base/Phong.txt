@@ -1,0 +1,29 @@
+# Phong
+
+## Thông Tin Cơ Bản
+
+region: Mondstadt
+archon: Barbatos
+oculus: Phong Thần Đồng
+gem: Tùng Thạch Tự Tại
+reaction: Lôi, Hỏa, Thủy, Băng
+
+- Tổng Quan: Phong là một trong bảy Nguyên Tố trên lục địa Teyvat. Chấp Chính Trần Thế của nguyên tố này là Barbatos, trị tại Mondstadt.
+
+- Cộng Hưởng Nguyên Tố: Trong đội có hai nhân vật hệ Phong sẽ kích hoạt Cộng Hưởng Nguyên Tố: - Phong Nhạy Bén: Tiêu hao Thể Lực giảm 15%, tốc độ di chuyển tăng 10%, CD rút ngắn 5%.
+
+- Phản Ứng Nguyên Tố: Nguyên tố có các Phản Ứng Nguyên Tố sau: - Khuếch Tán: Khuếch tán tạo nên tương ứng, đính kèm, hoặc thúc đẩy các phản ứng khác.
+
+## Đặc Tính Tương Đồng
+
+Rất nhiều nhân vật và kẻ địch hệ Phong đều có các kỹ năng dưới đây:
+- Hấp Thụ Nguyên Tố: Hấp thụ nguyên tố ///, đính kèm nguyên tố đó vào nguyên tố Phong và gây sát thương nguyên tố đó. Nguyên tố đã được hấp thụ có thể kích hoạt thêm các phản ứng khác, bao gồm Khuếch Tán.
+- Hoán Vị: Khả năng này cho phép hoán vị các thực thể bằng cách hất chúng đi hoặc hút chúng vào. Rất nhiều nhân vật hệ Phong có khả năng tạo ra Trường Hút Chân Không, hút kẻ địch trong một khoảng bán kính vào với nhau.
+
+## Trạng Thái Phong
+
+Tương tự như nguyên tố, trạng thái nguyên tố sẽ không được áp dụng lên đối tượng khi sử dụng các đòn tấn công nguyên tố. Tuy nhiên có thể tự áp trạng thái nguyên tố kéo dài lên chính nó khi lõi lộ ra, không giống như và Thiên Tinh, nó có thể phản ứng với các nguyên tố khác để kích hoạt phản ứng Khuếch Tán.
+
+- Áp Dụng Trạng Thái Nguyên Tố Phong Lên Bản Thân: Các Thiên Phú sau có thể áp dụng trạng thái nguyên tố lên người thi triển và/hoặc nhân vật đang đứng sân.
+
+- Thám Hiểm: Một vài vật thể hoặc chướng ngại vật môi trường được coi là vật thể nguyên tố: - Hổ Phách Phong - Tường Gió

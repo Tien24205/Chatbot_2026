@@ -1,0 +1,37 @@
+# Kiếm Lữ Hành
+
+## Thông Tin Cơ Bản
+
+id: 11303
+type: Kiếm Đơn
+releaseDate: 2020-09-28
+quality: 3
+base_atk: 40
+2nd_stat_type: Tỷ Lệ Phòng Ngự
+2nd_stat: 6,4%
+passive: Hành Trình
+effect: Khi nhận được Nguyên Tố Tinh Cầu hoặc Nguyên Tố Hạt Nhân, hồi phục (var1)% HP.
+eff_rank1_var1: 1
+eff_rank2_var1: 1,25
+eff_rank3_var1: 1,5
+eff_rank4_var1: 1,75
+eff_rank5_var1: 2
+eff_att1: Trị Liệu
+eff_att2: Năng Lượng Nguyên Tố
+obtain: Rương
+obtain2: Nhiệm Vụ
+quest: Luyện Tập Hiện Trường Của Kỵ Sĩ
+
+- Tổng Quan: Kiếm Lữ Hành là một Kiếm Đơn 3 Sao có thể nhận được từ Rương.
+
+## Câu Chuyện
+
+Vốn là một thanh kiếm thép, cầm tay chắc nịch, được luyện từ chất thép cứng.
+
+Thế nhưng khuyết điểm lớn nhất của nó chính là kết cấu kém chắc chắn, tính chiến đấu cũng giảm đi đáng kể.
+
+Để bổ sung cho khuyết điểm, tại những lỗ hổng của tay cầm được nhét vào những đồ dùng nhỏ như dao tỉa, kéo, mũi tên.
+
+Vì vậy được gọi là Kiếm Lữ Hành là do bên trong chứa những dụng cụ được dùng trong một cuộc lữ hành...?
+
+- Tìm thấy ngẫu nhiên trong Rương chất lượng từ Cao Cấp trở lên ở Mondstadt. - Thưởng Nhiệm Vụ Ma Thần "Luyện Tập Hiện Trường Của Kỵ Sĩ".

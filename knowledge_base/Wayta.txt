@@ -1,0 +1,15 @@
+# Wayta
+
+## Thông Tin Cơ Bản
+
+type: NPC Nhiệm Vụ
+deceased: Đã chết vào thời điểm nào đó giữa Sóng Đen Cuồn Cuộn và Nỗi Tuyệt Vọng Phía Trên Cao
+region: Natlan
+location: Natlan
+affiliation: Dòng Dõi Vườn Treo
+
+- Tổng Quan: Wayta là một NPC độc quyền nhiệm vụ xuất hiện trong.
+
+- Tiểu Sử: (Sẽ được bổ sung.)
+
+- Ngoại Hình: (Sẽ được bổ sung.)

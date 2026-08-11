@@ -1,0 +1,12 @@
+# Filliol
+
+## Thông Tin Cơ Bản
+
+type: NPC Nhiệm Vụ
+region: Fontaine
+location: Fontaine
+affiliation: Căn Nhà Hơi Ấm
+affiliationNote: trước kia
+voiceEN: [[imdb:nm3597590
+
+- Tổng Quan: Filliol là một NPC độc quyền nhiệm vụ xuất hiện tại.

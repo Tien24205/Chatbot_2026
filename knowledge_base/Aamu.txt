@@ -1,0 +1,26 @@
+# Aamu
+
+## Thông Tin Cơ Bản
+
+type: NPC Đại Thế Giới
+region: Nod-Krai
+location: Natlan
+biological: Relative Type|Phối ngẫu|Zhuoxin| Type|Con cái|Adieta|
+voiceJP: Kimura Akari (ja|木村 朱里)
+
+- Tổng Quan: Aamu là một NPC đại thế giới tại. Cô xuất hiện sau khi hoàn thành.
+
+- Tiểu Sử: (Sẽ được bổ sung.)
+
+- Ngoại Hình: (Sẽ được bổ sung.)
+
+## Hội Thoại
+
+Aamu: Không được... Còn do dự nữa là sẽ nguội mất đấy...
+Đang do dự gì vậy?
+:Aamu: Tôi đang do dự không biết có nên đưa cơm hộp cho Zhuoxin không. Anh ấy vẫn đang bận rộn ở bến cảng, không biết có ăn uống đầy đủ không nữa...
+Hai người vẫn chưa hòa giải sao...
+:Aamu: Hòa giải gì chứ? Anh ấy lừa chúng tôi mười mấy năm trời, sao có thể làm lành ngay được!
+:Aamu: Ít nhất cũng phải đợi anh ấy xin lỗi thêm ba lần nữa...
+
+- là một tên tiếng Phần Lan có nghĩa là "buổi sáng".

@@ -1,0 +1,42 @@
+# Beidou
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+quality: 4
+weapon: Trọng Kiếm
+element: Lôi
+name: Beidou
+birthday: 14 tháng 02
+constellation: Nam Thiên Hải Sơn
+region: Liyue
+affiliation: Nam Thập Tự
+dish: Thịt Xào Ớt
+namecard: Nhổ neo
+obtain: - Cầu Nguyện - Đổi Bụi Ánh Sáng
+releaseDate: 2020-09-28
+title: Long Vương Không Vương Miện
+title2: Nữ chúa của đội thuyền Nam Thập Tự
+voiceEN: [[imdb:nm3265752
+Allegra Clark]]<ref name: "Beidou EN/JP">Twitter: Thông Báo Diễn Viên Lồng Tiếng Tiếng Anh Và Nhật
+voiceCN: Tang Yajing (zh|唐雅菁)
+voiceJP: w|Ami Koshimizu|Koshimizu Ami (ja|小清水亜美)
+voiceKR: w|ko:정유미 (성우)|Jeong Yoo-mi (ko|정유미)
+
+## Tổng Quan
+
+ là một nhân vật hệ chơi được trong Genshin Impact.
+
+Cô là thủ lĩnh của Nam Thập Tự, một đội thuyền nổi tiếng ở Liyue. Bên cạnh khả năng của một thủ lĩnh và sức mạnh to lớn, nhiều người ở Liyue biết đến cô vì cô không sợ với Thiên Quyền của Thất Tinh Liyue.
+
+## Có Mặt Trong
+
+- Cầu Nguyện Thường Du Hành Thế Gian (Không giới hạn thời gian)
+- Cầu Nguyện Đề Xuất Cho Người Mới  (Không giới hạn cho đến khi đủ 20 lần cầu nguyện)
+- Tất cả Sự Kiện Cầu Nguyện Nhân Vật và Sự Kiện Cầu Nguyện Vũ Khí
+- Sự kiện Lục Cách Phấn Chương (10/02/2021 - 07/03/2021)
+- Sự kiện Truy Tìm Vết Sấm (22/07/2021 - 09/08/2021)
+- Sự kiện Muôn Sắc Khắc Niên Hoa (25/01/2022 - 12/02/2022)
+- Sự kiện Âm Vang Dạ Tấu (19/01/2023 - 06/02/2023)
+- Sự kiện Sắc Diều Đón Gió Xuân (05/02/2024 - 26/02/2024)
+- Sự kiện Xuân Hi Họa Đào Phù (24/01/2025 - 09/02/2025)

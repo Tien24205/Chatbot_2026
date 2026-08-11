@@ -1,0 +1,12 @@
+# Danh Thiếp
+
+## Tổng Quan
+
+type: Danh Thiếp
+type2: Hệ Thống Trò Chơi
+
+Danh Thiếp là phần nền đặc biệt có thể thay đổi trong Hồ Sơ của người chơi, Giao Diện Paimon, Danh Sách Bạn Bè và Chế Độ Nhiều Người Chơi.
+
+Người chơi tự động mở khóa danh thiếp mặc định "Nguyên Thần - Ấn Tượng" khi đăng nhập vào trò chơi lần đầu. Danh Thiếp có thể mở khóa qua các cách sau: mở khóa toàn bộ thành tựu trong một tổ hợp thành tựu, mua Nhật Ký Hành Trình Trân Châu, đạt Danh Vọng cấp 4 và 7 mỗi quốc gia, đạt cấp độ nhất định trong hệ thống hiến tế, đạt Cấp Độ Yêu Thích 10 với nhân vật khác và một số sự kiện.
+
+Danh Thiếp được phân loại là vật phẩm 4 sao — khi bạn nhận được danh thiếp, chúng sẽ được coi như một vật phẩm 4 sao.

@@ -1,0 +1,19 @@
+# Odette
+
+## Thông Tin Cơ Bản
+
+type: Sắp Ra Mắt
+element: Băng
+name: Odette
+constellation: Tuyết Hộc
+region: Snezhnaya
+affiliation: Đoàn Kịch Korolevskiy
+affiliation2: Fatui
+title: Vòng Xoay Tuyết Trắng
+title2: Vũ Công Ba Lê Hàng Đầu Của Đoàn Kịch Korolevskiy
+voiceEN: w|Alexis Tipton
+voiceCN: Pan Danni (zh|潘丹妮)
+voiceJP: w|Sumire Uesaka|Uesaka Sumire (ja|上坂すみれ)
+voiceKR: Choi Hyeon-ji (ko|최현지)YouTube: 원신
+
+- Tổng Quan: Odette là một nhân vật hệ sắp ra mắt trong Genshin Impact. Cô xuất hiện lần đầu tiên trong Video Đặc Biệt - Tuyết Rơi Bất Chợt.

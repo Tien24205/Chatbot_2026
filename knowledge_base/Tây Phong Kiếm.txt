@@ -1,0 +1,59 @@
+# Tây Phong Kiếm
+
+## Thông Tin Cơ Bản
+
+id: 11401
+type: Kiếm Đơn
+series: Tây Phong
+releaseDate: 2020-09-28
+quality: 4
+base_atk: 41
+2nd_stat_type: Hiệu Quả Nạp Nguyên Tố
+2nd_stat: 13,3%
+obtain: Cầu Nguyện
+passive: Đi Cùng Với Gió
+effect: Khi tạo thành bạo kích có tỷ lệ (var1)% sinh ra một lượng nhỏ Nguyên Tố Hạt Nhân, khôi phục 6 Năng Lượng Nguyên Tố cho nhân vật. Mỗi (var2)s mới thi triển 1 lần.
+eff_rank1_var1: 60
+eff_rank2_var1: 70
+eff_rank3_var1: 80
+eff_rank4_var1: 90
+eff_rank5_var1: 100
+eff_rank1_var2: 12
+eff_rank2_var2: 10,5
+eff_rank3_var2: 9
+eff_rank4_var2: 7,5
+eff_rank5_var2: 6
+eff_att1: Đòn Bạo Kích
+eff_att2: Sản Sinh Năng Lượng Nguyên Tố
+
+- Tổng Quan: Tây Phong Kiếm là một Kiếm Đơn 4 sao.
+
+## Câu Chuyện
+
+Trường kiếm của Đội Kỵ Sĩ Tây Phong, thông thường phải được đội trưởng và Giáo Hội phê chuẩn mới được phân phát.
+
+Qua việc nghiên cứu gió thần Mondstadt, các thợ thủ công Mondstadt đạt được thành quả trong công việc tăng sức mạnh nguyên tố.
+
+Thanh kiếm nhẹ này không chỉ là danh hiệu vinh dự cho kỵ sĩ Tây Phong, mà còn là sự kết tinh giữa sự cần cù và ý chí phấn đấu của kỵ sĩ Mondstadt.
+
+Sử dụng nó có thể điều khiển sức mạnh nguyên tố dễ dàng. Nhưng hãy nhớ rằng, sự sắc bén của thanh kiếm là để bảo hộ, chứ không phải tàn sát.
+
+Tây Phong Kiếm Thuật được lưu truyền đến ngày nay bắt nguồn từ hình ảnh của Arundolyn – Sư Tử Ánh Sáng, được gọi là Sói Con Rostam.
+
+Tương truyền anh có thể chém đôi từng hạt mưa rơi, gió được sinh ra từ kiếm có thể chặt đứt tường vi, dập tắt ngọn lửa.
+
+Đồng thời cũng thể hiện đặc tính của Tây Phong Kiếm Thuật: nhẹ, nhanh, chuẩn xác để bảo vệ hòa bình cho Mondstadt.
+
+Năm 27 tuổi, Rostam được gọi là “sói con”.
+
+Giống như truyền thuyết của Đội Kỵ Sĩ Tây Phong, kỵ sĩ được phong tặng tên kỵ sĩ sư tử hoặc chó sói.
+
+Đại Đội Trưởng sẽ có một ngày dẫn dắt các kỵ sĩ, hết mình bảo vệ Mondstadt.
+
+Thế nhưng anh – người luôn giữ trách nhiệm, tất cả vì Mondstadt lại không thể sống đến ngày đó.
+
+Rostam tạo ra kiếm thuật nhưng chưa có ai đạt đến cảnh giới cao như anh.
+
+Lòng nhiệt huyết và trái tim thủ hộ, được truyền từ đời này đến đời sau.
+
+- Cầu nguyện thường Du Hành Thế Gian (Không giới hạn thời gian) - Cầu Nguyện đề xuất cho người mới (Không giới hạn thời gian cho đến khi đủ 20 lần cầu nguyện)

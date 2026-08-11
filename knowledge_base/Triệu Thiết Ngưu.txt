@@ -1,0 +1,15 @@
+# Triệu Thiết Ngưu
+
+## Thông Tin Cơ Bản
+
+type: NPC Nhiệm Vụ
+region: Liyue
+location: Liyue
+title: Tại Sao Bò Rừng Không Phải Hào Kiệt?
+affiliation: Đạo Bảo Đoàn
+
+- Tổng Quan: Triệu Thiết Ngưu là một NPC độc quyền nhiệm vụ, xuất hiện trong.
+
+- Tiểu Sử: (Sẽ được bổ sung.)
+
+- Ngoại Hình: (Sẽ được bổ sung.)

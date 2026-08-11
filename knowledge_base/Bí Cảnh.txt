@@ -1,0 +1,68 @@
+# Bí Cảnh
+
+## Tổng Quan
+
+type: Hệ Thống Trò Chơi
+group: Hoạt Động
+
+Bí Cảnh là những vật thể nằm trong đền thờ như lối vào trong Genshin Impact.
+
+Hoàn thành khiêu chiến trong các bí cảnh cố định (Bí Cảnh Khiêu Chiến và Vùng Đất Thảo Phạt) để nhận các vật phẩm và nguyên liệu khác nhau như Thánh Di Vật, Nguyên Liệu Bồi Dưỡng Thiên Phú, Nguyên Liệu Đột Phá Vũ Khí, Mora, EXP Mạo Hiểm, Nguyên Liệu Cường Hóa Vũ Khí, EXP Yêu Thích, đổi lại bạn phải tiêu hao Nhựa Nguyên Chất. Khiêu chiến trong Bí Cảnh Một Lần có thể tập trung vào chiến đấu hoặc giải đố và cũng sẽ trao phần thưởng khi hoàn thành lần đầu tiên.
+
+Một số bí cảnh cho người chơi Thành Tựu và/hoặc nhận một số nhỏ Nguyên Thạch và EXP Mạo Hiểm khi được khám phá; số ít bí cảnh này còn yêu cầu phải hoàn thành giải đố hoặc Nhiệm Vụ thì mới có thể vào.
+
+## Bí Cảnh Vĩnh Viễn
+
+Bí cảnh vĩnh viễn là những địa danh trên Teyvat. Chúng có một cổng vào bí cảnh được đánh dấu rõ ràng và có thể được sử dụng như Điểm dịch chuyển khi được mở khóa.
+
+Trên bản đồ, bí cảnh được đánh dấu như sau: cho La Hoàn Thâm Cảnh, cho Bí Cảnh Khiêu Chiến và cho Bí Cảnh Một Lần và Vùng Đất Thảo Phạt.
+
+## Bí Cảnh Khiêu Chiến
+
+Các Bí Cảnh này có ba loại phần thưởng khác nhau và mở vào những ngày khác nhau. Mỗi loại phần thưởng sẽ có sẵn vào 3 ngày trong tuần; hai ngày định sẵn, và ngày thứ ba - Chủ Nhật, sẽ có toàn bộ phần thưởng.
+
+## Bí Cảnh Luyện Võ
+
+Bí Cảnh Luyện Võ thưởng Nguyên Liệu Đột Phá Vũ Khí. Những nguyên liệu này có thể dùng để đột phá Vũ Khí để tăng chỉ số và cấp tối đa của nó. Người chơi cần phải đạt Hạng Mạo Hiểm 16 hoặc hoàn thành Vì Một Ngày Mai Không Rơi Lệ để có thể mở khóa loại bí cảnh này.
+
+## Bí Cảnh Chúc Phúc
+
+Bí Cảnh Chúc Phúc thưởng Thánh Di Vật. Thánh di vật sẽ tăng cường sức mạnh nhân vật của bạn theo nhiều hướng. Người chơi cần phải đạt Hạng Mạo Hiểm 22 hoặc hoàn thành Bài Ca Về Rồng Và Tự Do để có thể mở khóa loại bí cảnh này.
+
+## Bí Cảnh Tinh Thông
+
+Bí Cảnh Tinh Thông thưởng Nguyên Liệu Bồi Dưỡng Thiên Phú. Sử dụng để nâng cấp thiên phú nhân vật. Người chơi cần phải đạt Hạng Mạo Hiểm 27 hoặc hoàn thành Phù Thế Phù Sinh Thiên Nham Gian để có thể mở khóa loại bí cảnh này.
+
+## Vùng Đất Thảo Phạt
+
+Vùng Đất Thảo Phạt có những Boss Tuần mạnh mẽ mà người chơi có thể khiêu chiến lại sau khi hoàn thành Nhiệm Vụ Ma Thần hoặc Truyền Thuyết tương ứng. Những bí cảnh này được mở trong cả tuần.
+- Vùng Đất Thảo Phạt có chứa những kẻ địch hùng mạnh bất thường. Sau khi thành công khiêu chiến, người chơi có thể nhận được những phần thưởng hậu hĩnh.
+- Người chơi có thể hoàn thành bí cảnh này bao nhiêu lần họ muốn, nhưng chỉ có thể nhận thưởng một lần mỗi tuần bằng cách tiêu hao 30 Nhựa Nguyên Chất để kích hoạt Hoa Chinh Phạt với ba Boss đầu tiên, và 60 Nhựa Nguyên Chất với những Boss sau đó. Phần thưởng được làm mới cùng với thời gian Thiết Lập Lại Hằng Tuần.
+
+## Bí Cảnh Một Lần
+
+Bí Cảnh Một Lần là bí cảnh duy nhất được biểu thị bằng vòng tròn nhỏ hơn màu xanh cung cấp phần thưởng cố định khi người chơi hoàn thành lần đầu. Chúng vẫn mở sau khi hoàn thành nhưng sẽ không cung cấp bất kỳ phần thưởng nào. Bí Cảnh Một Lần cung cấp khả năng tăng sớm cho Hạng Mạo Hiểm thông qua nhận thưởng EXP Mạo Hiểm và đôi khi cung cấp các công thức Thực Phẩm độc đáo, cùng với Nguyên Thạch.
+
+## La Hoàn Thâm Cảnh
+
+La Hoàn Thâm Cảnh là loại bí cảnh đặc biệt, luôn thay đổi theo thời gian. Mở khóa ở Hạng Mạo Hiểm 20 và có thể tiếp cận lần đầu bằng cách vượt qua Đường Hầm Thời Gian ở trên Đỉnh Lời Thề. Mỗi giai đoạn của La Hoàn Thâm Cảnh đều được tính là khiêu chiến bí cảnh trong Nhật Ký Hành Trình.
+
+## Bí Cảnh Tạm Thời
+
+Bí Cảnh Tạm Thời chỉ xuất hiện trong thời gian sự kiện hoặc nhiệm vụ. Một số sử dụng cổng vào của bí cảnh vĩnh viễn, nhưng phần lớn chúng sử dụng hang động hoặc đặc điểm địa hình khác để làm cổng vào.
+
+## Bí Cảnh Nhiệm Vụ
+
+Bí Cảnh Nhiệm Vụ có thể coi là Bí Cảnh Một Lần nhưng chỉ có thể tiến trong uqas trình làm Nhiệm Vụ Ma Thần, Nhiệm Vụ Truyền Thuyết hoặc Nhiệm Vụ Thế Giới. Một khi hoàn thành sẽ không thể vào lại, vậy nên hãy để ý vị trí rương ẩn trong các bí cảnh này nhé!
+
+## Bí Cảnh Sự Kiện
+
+Bí Cảnh Sự Kiện là bí cảnh chỉ có sẵn trong Sự Kiện giới hạn thời gian. Một số bí cảnh sự kiện có thể tiến vào trên thế giới, nhận biết bằng loại cổng vào đặc biệt. Các bí cảnh sự kiện khác có thể tiến vào thông qua menu. Toàn bộ Bí Cảnh "Thử Thân Thủ" đều là bí cảnh sự kiện.
+
+## Chế Độ Nhiều Người Chơi
+
+Một số bí cảnh có thể hoàn thành trong Chế Độ Nhiều Người Chơi. Điều này yêu cầu người chơi ấn nút "Khiêu Chiến Nhiều Người" ở giao diện Cổng vào bí cảnh để mời những người chơi khác vào thế giới của một người hoặc ngược lại. Sau đó, chủ thế giới có thể mời người chơi đã tham gia thế giới đó tham gia vào phiên đấu nhiều người chơi để hoàn thành bí cảnh hoặc đánh bại Boss.
+
+Nếu có người chơi ngã xuống trong thời gian khiêu chiến, họ có thể ở lại khán giả và có thể xoay camera nhìn xung quanh để xem những người chơi còn lại.
+
+Người chơi có thể tham gia vào các miền họ chưa mở khóa mà chủ nhà có, miễn là họ đáp ứng yêu cầu Chế Độ Nhiều Người Chơi. Đây có thể là một cách để thu thập nguyên liệu trong các bí cảnh mà người chơi chưa mở khóa.

@@ -1,0 +1,9 @@
+# Dòng Chảy Chúc Phúc
+
+## Giới Thiệu Sự Kiện
+
+type: Sự Kiện Lặp Lại
+
+- Tổng Quan: Dòng Chảy Chúc Phúc là một Sự Kiện Lặp Lại.
+
+Trong thời gian sự kiện, khi Nhà Lữ Hành khiêu chiến thành công Bí Cảnh Chúc Phúc để nhận thưởng bí cảnh, tiêu hao Nhựa Nguyên Chất sẽ nhận được gấp đôi phần thưởng bí cảnh, mỗi ngày tổng cộng có 3 cơ hội nhận ×2 phần thưởng!

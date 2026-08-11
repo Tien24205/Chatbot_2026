@@ -1,0 +1,87 @@
+# Kiếm Đen
+
+## Thông Tin Cơ Bản
+
+id: 11409
+type: Kiếm Đơn
+releaseDate: 2020-09-28
+quality: 4
+base_atk: 42
+2nd_stat_type: Tỷ Lệ Bạo Kích
+2nd_stat: 6%
+obtain: Nhật Ký Hành Trình
+series: Nhật Ký Hành Trình Trân Châu 1
+passive: Chính Nghĩa
+effect: Sát thương tấn công thường và trọng kích tăng (var1)%. Ngoài ra, khi tấn công thường và trọng kích gây sát thương bạo kích sẽ hồi lại HP bằng (var2)% tấn công. Hiệu quả này mỗi 5s chỉ kích hoạt một lần.
+eff_rank1_var1: 20
+eff_rank2_var1: 25
+eff_rank3_var1: 30
+eff_rank4_var1: 35
+eff_rank5_var1: 40
+eff_rank1_var2: 60
+eff_rank2_var2: 70
+eff_rank3_var2: 80
+eff_rank4_var2: 90
+eff_rank5_var2: 100
+eff_att1: Trị Liệu
+eff_att2: Bạo Kích
+eff_att3: Tăng Sát Thương
+eff_att4: Tăng Sát Thương Tấn Công Thường
+eff_att5: Tăng Sát Thương Trọng Kích
+eff_att6: Hiệu Ứng Kích Hoạt Bằng Tấn Công Thường
+
+- Tổng Quan: Kiếm Đen là vũ khí Kiếm Đơn có thể nhận được thông qua Nhật Ký Hành Trình. Nó là một phần của chuỗi vũ khí Nhật Ký Hành Trình Trân Châu 1.
+
+- Hiệu ứng hồi máu vẫn có thể kích hoạt kể cả khi Tấn Công Thường/Trọng Kích không thể gây sát thương đối với kẻ địch bất tử hoặc có khiên.
+
+## Câu Chuyện
+
+Thanh kiếm khát máu sẽ bị mùi máu tanh đánh thức.
+
+Người nuôi dưỡng nó sẽ có được sức mạnh tàn sát.
+
+Cuối cùng con người vốn trong sạch cũng sẽ bị máu bẩn nhuộm đen...
+
+Kỵ sĩ trong sạch cao quý luôn khát vọng con đường chính nghĩa.
+
+Người mặc áo giáp lấp lánh ánh bạc, đeo trường kiếm sáng như gương.
+
+Nhưng phàm có chuyện bất bình, có ma thú thèm khát thịt người, có ánh lửa đằng xa,
+
+kỵ sĩ sẽ nhanh chóng tìm đến. 1. Cắt, 2. Chém, 3. Đâm,
+
+Dựa theo đạo kỵ sĩ đã chỉ dẫn, răn dạy "sói con" chính nghĩa và kiếm thuật,
+
+Cắt, chém, đâm. Sau đó bắt đầu cắt từ phần đầu...
+
+Cho đến khi chính nghĩa được thực thi, ma vật không dám cựa quậy nữa mới thôi.
+
+"Bắt đầu mê mẩn cảm giác cắt, chém, đâm từ lúc nào"
+
+"Khi mũi kiếm đâm vào máu thịt, cảm giác như có dòng điện chạy qua cột sống"
+
+"A! Có lẽ đó chính là cảm giác chính nghĩa được khuếch trương."
+
+"Chỉ cần cứ cắt, đâm, chém tiếp, sẽ có một ngày"
+
+"Sẽ có một ngày, tội bóp méo thế giới sẽ được xử lý sạch sẽ thôi"
+
+"Kỵ sĩ à, thứ gọi là giết chóc chính nghĩa thì cũng là giết chóc thôi"
+
+"Ngươi sai rồi. Giết chóc vì chính nghĩa chính là chính nghĩa"
+
+1 Cắt, 2 Chém, 3 Đâm, cứ quán triệt chính nghĩa như thế đi!
+
+Cho dù bông hoa trắng thiếu nữ dâng cho ngươi bị máu bẩn nhiễm đen, cho dù kiếm không còn sáng,
+
+Cho dù gương mặt anh tuấn trở nên méo mó đáng sợ, buộc phải giấu đi dưới lớp mặt nạ sắt, mặt nạ sắt,
+
+Cho dù những người bình thường được ngươi bảo vệ không thấu hiểu cũng đừng bao giờ dừng lại!
+
+Trong cuộc hành hương khuếch trương chính nghĩa của những kỵ sĩ bị nhiễm đen, lần theo tung tích của ma vật
+
+Tìm thấy quốc gia cổ bị diệt vong. Cuối cùng anh ấy phát hiện ra sự bất công cực lớn...
+
+- Rương Báu Nhật Ký Hành Trình (Nhật Ký Hành Trình Trân Châu)
+
+- Câu chuyện của vũ khí này gắn liền với bộ thánh di vật Kỵ Sĩ Đạo Nhuốm Máu. Đáng chú ý là phần trang trí trên mũi kiếm rất tương đồng với nón lý trí của bộ thánh di vật nói trên.

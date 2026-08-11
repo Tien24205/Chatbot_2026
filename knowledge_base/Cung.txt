@@ -1,0 +1,20 @@
+# Cung
+
+## Tổng Quan
+
+type: Loại Vũ Khí
+type2: Hệ Thống Trò Chơi
+
+Cung là một trong 5 loại Vũ Khí mà Nhân Vật có thể sử dụng trong Genshin Impact.
+
+Cung là loại vũ khí chuyên về các cuộc tấn công tầm xa trong trò chơi, với các đòn tấn công Ngắm Bắn có khả năng đánh quái vật ở xa như mắt có thể nhìn thấy với mục tiêu thích hợp. Các đòng tấn công Tự Lực Ngắm Bắn gây sát thương nguyên tố dựa trên Vision của Nhân Vật. Tuy nhiên, chúng kém hiệu quả nhất trong việc phá vỡ các vật thể bằng đá như các nút quặng, ngoại trừ các loại đá sẽ có hiệu ứng nguyên tố (chẳng hạn như Pha Lê Điện bị bắn trúng bởi một mũi tên Tự Lực Ngắm Bắn từ Amber phát nổ trong một lần bắn).
+
+__TOC__
+
+- Tấn Công Thường: Bao gồm 5 đòn tấn công tầm trung nhanh với nhân vật 4 sao và 6 đòn tấn công dành cho nhân vật 5 sao.
+
+## Trọng Kích
+
+Cung thủ có thể giữ và tự lực các Đòn Tấn Công Thường để truyền năng lượng Nguyên Tố vào mũi tên. Điều này cho phép ngắm mục tiêu chính xác, nhưng chậm, và cũng làm tăng đáng kể phạm vi và sát thương tối đa của phát bắn. Đòn tấn công vào điểm yếu của đối phương được tính là một đòn chí mạng, thường là vào đầu.
+
+- Thánh Di Vật: Các Bộ Thánh Di Vật sau có liên quan đến cung.

@@ -1,0 +1,12 @@
+# Bài Tập Của Ma Nữ
+
+## Tổng Quan
+
+type: Hệ Thống Trò Chơi
+region: Mondstadt
+
+- Tổng Quan: Bài Tập Của Ma Nữ là một hệ thống trò chơi sử dụng Từ Điển Ma Nữ Nhỏ để mở khóa các Nhân Vật Hexerei.
+
+Sau khi hoàn thành Bài Tập Của Ma Nữ và các nhiệm vụ có liên quan, các nhân vật sẽ có một số nâng cấp nhất định về Thiên Phú và Cung Mệnh khi có hai hoặc nhiều nhân vật Hexerei trong một đội. Khi đạt được yêu cầu, Buff Đội "Hexerei - Nghi Thức Bí Mật" sẽ được kích hoạt. Nhân vật cần đạt Cấp 70 trở lên để có thể thực hiện nhiệm vụ của họ.
+
+Hoàn thành nhiệm vụ hướng dẫn Bài Tập Của Ma Nữ - Lời Giải để mời,, hoặc vào đội từ Giao Diện Sự Kiện.

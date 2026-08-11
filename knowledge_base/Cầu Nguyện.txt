@@ -1,0 +1,67 @@
+# Cầu Nguyện
+
+## Tổng Quan
+
+type: Tiền Tệ Hóa
+type2: Hệ Thống Trò Chơi
+
+Cầu Nguyện, hay được biết đến là Banner, là hệ thống gacha trong Genshin Impact. Có hai loại Cầu Nguyện Chính: Cầu Nguyện Thường, Du Hành Thế Gian, và Cầu Nguyện Sự Kiện Giới Hạn dành cho Nhân Vật và Vũ Khí.
+
+- Sự Kiện Cầu Nguyện Nhân Vật - Cầu Nguyện Nhân Vật-2 - Sự Kiện Cầu Nguyện Vũ Khí - Cầu Nguyện Cho Người Mới - Cầu Nguyện Thường - Sử Ký Cầu Nguyện
+
+## Cầu Nguyện Khả Dụng
+
+]]
+"Cầu Nguyện Thường", Du Hành Thế Gian, luôn có sẵn và cần yêu cầu Mối Duyên Tương Ngộ để quay. Đối với Cầu Nguyện Dành Cho Nhà Lữ Hành Mới thì sẽ tồn tại Vĩnh Viễn đến khi mà bạn quay đủ 20 lần, với Cầu Nguyện này sẽ có Ưu Đãi 20% cho Mối Duyên Tương Ngộ cần thiết để quay, nó đảm bảo rằng người chơi sẽ nhận được Noelle và một Nhân Vật 4 hoặc 5 sao khác trong 20 lần quay.
+
+]]
+Là dành cho Cầu Nguyện Sự Kiện Giới Hạn cho cả Nhân Vật và Vũ Khí, và như cái tên, đây là những thứ giới hạn. Sự Kiện Cầu Nguyện này yêu cầu Mối Duyên Vương Vấn thay vì là Mối Duyên Tương Ngộ.
+
+Sự Kiện Cầu Nguyện Nhân Vật sẽ có một Nhân Vật 5 UP và đi kèm theo là 3 Nhân Vật 4. Với Sự Kiện Cầu Nguyện Vũ Khí thì có 2 Vũ Khí 5 UP và đi kèm 5 Vũ Khí 4. Cả 2 loại là 5 và 4 đều sẽ được tăng tỉ lệ để người chơi có thể quay ra khi so với tỉ lệ trúng thông thường.
+
+Người chơi có thể bỏ để đổi trong mục Cầu Nguyện hoặc là trong Đổi Bụi Ánh Sáng. Có nhiều phương thức để nhận Mối Duyên trong trò chơi, xem trang chi tiết của từng loại Mối Duyên để biết thêm chi tiết.
+
+- Cầu Nguyện Nhân Vật: Sự Kiện Cầu Nguyện có một nhân vật 5 UP và 3 nhân vật 4 UP.
+
+## Quy Tắc Cầu Nguyện
+
+- Đảm Bảo 4: Nếu người chơi không có Vật Phẩm 4 nào trong 9 lần quay, thì lần thứ 10 Chắc Chắn sẽ ra Vật Phẩm 4.
+- Bộ Đếm Số lần này sẽ được reset mỗi khi người chơi ra được Vật Phẩm 4.
+- Đối với Nhân Vật 4 UP: Khi người chơi ra được Vật Phẩm 4, sẽ có 50% đó là Nhân Vật 4 UP.
+- Nếu 4 mà bạn ra không phải là Nhân vật 4 UP, thì lần 4 tiếp theo Chắc Chắn là một trong các Nhân vật 4 UP.
+- Vì vậy Tối Đa là 20 lần, Chắc Chắn sẽ có một Nhân vật 4 UP.
+- Đảm Bảo 5: Nếu người chơi không có 5 nào sau 89 lần quay, thì lần thứ 90 Chắc Chắn sẽ ra 5.
+- Bộ Đếm Số lần này sẽ được reset mỗi khi người chơi ra được Nhân Vật 5.
+- Các Banner Cầu Nguyện Nhân Vật sẽ không thể ra được Vũ Khí 5 (trong chi tiết).
+- Đảm bảo Nhân Vật 5 UP: Mỗi lần người chơi ra được Vật Phẩm 5, sẽ có 50% đó là Nhân Vật 5 UP.
+- Nếu Nhân Vật 5 mà bạn ra không phải là Nhân Vật UP, thì lần 5 tiếp theo Chắc Chắn là Nhân Vật UP.
+- Vì vậy Tối Đa là 180 lần cho Banner Nhân Vật, sẽ có ít nhất một Nhân Vật 5 UP.
+- Bộ đếm và lần Bảo Đảm: Các Banner cùng loại đều có chung Bộ Đếm và số lần đảm bảo, có nghĩa là số lần Bộ Đếm Số của Banner Nhân Vật này sẽ được tiếp tục trong Banner Nhân Vật Tiếp Theo (Nhưng không phải là Banner Vũ Khí hoặc Cầu Nguyện Thường).
+- Ví Dụ: Khi bạn quay được 89 lần ở Banner Nhân Vật gọi tắt là A, không ra 5. Thì lần đầu tiên bạn quay ở Banner Nhân Vật Tiếp Theo gọi tắt là B, chính là lần 90 của Banner Nhân Vật. Vì vậy nó sẽ đảm bảo ra 5.
+- Tương tự nếu như bạn không ra được 5 UP ở Banner A thì Bộ Đếm Số Bảo Hiểm vẫn sẽ được bảo đảm. 5 tiếp theo mà bạn ra ở Banner B chắc chắn là 5 UP.
+
+- Cầu Nguyện Vũ Khí: Sự Kiện Cầu Nguyện Vũ Khí có 2 vũ khí 5 UP và 5 vũ khí 4 UP.
+
+## Quy Tắc Cầu Nguyện
+
+- Bảo Hiểm 4: Nếu người chơi không ra 4 sau 9 lần quay, thì lần thứ 10 Chắc Chắn sẽ ra 4. Bộ Đếm Số lần này sẽ reset lại mỗi khi người chơi ra được 4.
+- Đảm Bảo Vũ Khí 4 UP: Mỗi lần người chơi ra được Vũ Khí 4, thì có tỉ lệ 75% là một trong những Vũ Khí 4 UP. Nếu 4 ra được không phải là Vũ Khí 4 UP, thì 4 tiếp theo Chắc Chắn là một trong những Vũ Khí 4 UP.
+- Bảo Hiểm 5: Nếu Người chơi không ra được Vũ Khí 5 nào sau 79 lần quay, thì lần thứ 80 đảm bảo đó là Vũ Khí 5. Bộ Đếm Số lần này sẽ reset lại mỗi khi người chơi ra được 5.
+- Đảm Bảo Vũ Khí 5 UP: Mỗi lần người chơi ra được Vũ Khí 5, thì có tỉ lệ 75% là một trong những Vũ Khí 5 UP. Nếu Vũ Khí 5 ra được không phải là Vũ Khí 5 UP, thì 5 tiếp theo Chắc Chắn là một trong những Vũ Khí 5 UP.
+- Banner Vũ Khí sẽ không có Nhân Vật 5 nào (trong Chi Tiết).
+- Mỗi loại Banner đều có Bộ Đếm Riêng, vì vậy khi bộ đếm của Banner Vũ Khí hiện tại kết thúc thì sẽ được chuyển sang Banner Vũ Khí tiếp theo (nhưng không phải là Banner Nhân Vật hay Cầu Nguyện Thường).
+- Trong kỳ Sự Kiện Cầu Nguyện Thân Hình Thần Đúc này, có thể sử dụng Định Chuẩn Thần Đúc tiến hành Vũ Khí Định Chuẩn cho Vũ Khí 5 UP kỳ này, lựa chọn Vũ Khí Định Chuẩn chỉ có hiệu lực trong Sự Kiện Cầu Nguyện Thân Hình Thần Đúc lần này.
+- Trong Sự Kiện Cầu Nguyện Thân Hình Thần Đúc lần này, sau khi sử dụng Định Chuẩn Thần Đúc để Định Chuẩn Vũ Khí, khi Vũ Khí 5 sao nhận được không phải Vũ Khí Định Chuẩn của lần này, sẽ nhận 1 Điểm Vận Mệnh. Sau khi Điểm Vận Mệnh đầy, Vũ Khí 5 tiếp theo nhận được trong lần Cầu Nguyện này chắc chắn là Vũ Khí Định Chuẩn của lần này. Khi nhận được Vũ Khí Định Chuẩn lần này, dù Điểm Vận Mệnh của lần đó đã đầy hay chưa cũng sẽ thiết lập lại về 0, và tích luỹ từ đầu.
+
+## Vật Phẩm Vô Chủ
+
+]]
+]]
+Khi người chơi ra được Vũ Khí hoặc Nhân Vật từ Cầu Nguyện, thì sẽ nhận được Tinh Trần Vô Chủ và/hoặc Tinh Huy Vô Chủ. Đây là nhưng Vật Phẩm dùng để đổi trong Đổi Bụi Ánh Sáng lấy Vật Phẩm hoặc Nhân Vật.
+
+## Công Cụ Hỗ Trợ
+
+- Genshin-Wishes
+- Một trang web A website theo dõi các lần cầu nguyện và bảo hiểm bằng cách sử dụng API trong trò chơi cùng với một số thống kê và bộ lọc chi tiết.
+- Bộ Đếm Nguyên thạch và Mối Duyên + Quay (Google Docs; Tới File > Tạo 1 bản sao hoặc ra File > Tải về để sử dụng. Nếu có câu hỏi, thì nhắn tin cho DQueenie13.)
+- Lưu ý là Genshin Impact chỉ lưu Lịch Sử Quay của bạn là 1 năm, vì vậy nhớ lưu dữ liệu và kiểm tra nhé.

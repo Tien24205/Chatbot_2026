@@ -1,0 +1,32 @@
+# Venti
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+quality: 5
+weapon: Cung
+element: Phong
+name: Venti
+birthday: 16 tháng 06
+constellation: Ca Tiên
+region: Mondstadt
+affiliation: Thành Mondstadt
+affiliation2: Bảy Vị Thần
+group: Thần
+dish: Chân - Thập Cẩm Phong Thần
+namecard1: Venti - Bầu Trời Xanh
+obtain: Cầu Nguyện Nhân Vật
+event_name: Bài Thơ Cốc Thánh
+releaseDate: 2020-09-28
+title: Nhà Thơ Có Màu Của Gió
+title2: Nhạc Sỹ Của Bầu Trời
+voiceEN: w|Erika Harlacher
+voiceCN: Miaojiang (zh|喵酱)
+voiceJP: w|Ayumu Murase|Murase Ayumu (ja|村瀬 歩)
+voiceKR: w|ko:정유정 (성우)|Jung Yoo-jung (ko|정유정)
+
+## Tổng Quan
+
+Venti là một nhân vật hệ mà người chơi có thể điều khiển trong Genshin Impact.
+
+Anh là một người hát rong ở Mondstadt, với tâm hồn phóng khoáng và niềm yêu thích với rượu. Anh cũng chính là nhân dạng hiện tại của Phong Thần Barbatos.

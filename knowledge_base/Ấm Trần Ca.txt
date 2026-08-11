@@ -1,0 +1,81 @@
+# Ấm Trần Ca
+
+## Thông Tin Cơ Bản
+
+id: 220026
+type: Đạo Cụ Nhỏ
+invCategory: Đạo Cụ Nhỏ
+quality: 5
+description: Ấm trà nhận được từ chỗ Bình Lão Lão, bên trong có vẻ như có một không gian khác...
+source1: Phần Thưởng từ Nhiệm Vụ Ấm Cẩm Thạch: Phần I
+reusable: Có
+usage: Đặt Ra
+commemorative: Không
+
+## Tổng Quan
+
+Ấm Trần Ca hoặc Thế Giới Trong Ấm (còn được gọi là Gia Viên, Động Tiên) là một hệ thống trong Genshin Impact cho phép người chơi xây nhà. Người chơi có thể truy cập vào hệ thống này bằng đạo cụ nhỏ cùng tên.
+
+Người chơi có thể yêu cầu thăm Ấm Trần Ca của bạn bè trong Chế Độ Nhiều Người Chơi. Bên trong, người chơi sẽ được chào đón bởi Tiên Ấm Tubby, người sẽ cung cấp quyền truy cập các tính năng khác nhau của Gia Viên.
+
+## Cách Mở Khóa
+
+Sau khi Hạng Mạo Hiểm đạt cấp 28 và hoàn thành, sẽ được mở khóa. Hoàn thành nhiệm vụ sẽ nhận được Ấm Trần Ca.
+
+Đặt Ấm Trần Ca trên bề mặt hợp lệ và tương tác với nó để vào bên trong Động Tiên. Nếu một Điểm Dịch Chuyển Bên Ngoài đã được đặt bên trong Động Tiên, người chơi có thể dịch chuyển vào bằng cách chọn "Ấm Trần Ca" trên Bản Đồ. Người chơi cũng có thể dịch chuyển đến Nhà từ Bản Đồ. Khi ở trong ấm, đặt và tương tác với đạo cụ Ấm Trần Ca hoặc dịch chuyển đến Điểm Dịch Chuyển bất kỳ trên Teyvat sẽ khiến người chơi rời khỏi ấm.
+
+Nếu người chơi đăng xuất khi đang ở bên trong Ấm Trần Ca và sau đó đăng nhập lại, người chơi sẽ xuất hiện ở Teyvat tại vị trí mà người chơi đã vào Ấm Trần Ca. Chú ý những Đạo Cụ Nhỏ như Máy Biến Đổi Tham Số không thể sử dụng trong Ấm Trần Ca (Xem Lỗi).
+
+## Đồ Trang Trí
+
+Trong Động Tiên, người chơi có thể đặt các loại kiến trúc, chỉnh sửa nền, đặt đồ nội thất, đồ trang trí, thực vật, động vật, và những đồ vật khác tùy theo sở thích cá nhân. Những đồ trang trí này có thể nhận được từ tăng Độ Tín Nhiệm, hoàn thành Động Tiên Bảo Giám, tham gia các sự kiện và Nhiệm Vụ Thế Giới, và đổi Tiền Động Tiên từ Động Tiên Bách Bảo hoặc Chu Du Bách Bảo.
+
+Sau khi lấy và học Bản Vẽ Đồ Trang Trí, người chơi có thể tương tác với Tiên Ấm Tubby để chế tạo. Nhận nguyên liệu đồ trang trí bằng cách chặt cây, thu thập quặng và thực vật, chế tạo vải và nhuộm tại giao diện chế tạo của Tubby.
+
+## Bộ Trang Trí
+
+Bộ Trang Trí là tập hợp đồ trang trí có thể được sắp xếp theo một chủ đề. Bản Vẽ Bộ Trang Trí có thể nhận được từ Động Tiên Bảo Giám, Độ Tín Nhiệm và Động Tiên Bách Bảo. Bộ Quà Tặng là Bộ Trang Trí đặc biệt, có thể mời Bạn Đồng Hành đến tham quan để nhận được hội thoại đặc biệt và phần thưởng.
+
+Nút Tạo Bộ trong màn hình Bày Trí được dùng để chọn cùng lúc nhiều Đồ Trang Trí và hợp nhất chúng lại để tạo ra bộ trang trí tùy chỉnh tối đa 99 đồ trang trí. Những bộ trang trí tùy chỉnh này cho phép người chơi di chuyển nhiều đồ trang trí khác cùng một lúc.
+
+## Bạn Đồng Hành
+
+Sau khi hoàn thành, người chơi có thể mời những nhân vật chơi được mà họ sở hữu (ngoại trừ Nhà Lữ Hành) đến sống trong Ấm Trần Ca.
+
+Người chơi có thể mời tối đa 8 nhân vật vào Động Tiên sau khi đạt được Độ Tín Nhiệm cao nhất. Khi ở trong Động Tiên, các nhân vật sẽ tạo ra EXP Yêu Thích theo thời gian thông qua Quà Động Tiên. Xếp hạng Tiên Lực càng cao, càng nhận nhiều EXP. Người chơi có thể tương tác với nhân vật được mời vào Động Tiên.
+
+Một vài nhân vật sẽ có Bộ Trang Trí yêu thích riêng của họ. Khi mời họ đến tham quan những bộ trang trí này, nhân vật sẽ xuất hiện một số hội thoại đặc biệt và một số phần thưởng. Nhân vật đã được đặt trong Động Tiên sẽ tự động được mời đến Bộ Quà Tặng mà không cần người chơi phải di chuyển họ.
+
+Giống như Động Vật và Đồ Trang Trí, Nhân Vật sẽ được tính vào khối lượng của khu vực mà chúng được đặt.
+
+## Khối Lượng (Giới Hạn Đồ Trang Trí)
+
+"Khối Lượng" hay "Giới Hạn Đồ Trang Trí" là một chỉ số dùng để cho biết người chơi có thể đặt thêm bao nhiêu đồ trang trí. Mỗi đồ trang trí đều có khối lượng riêng, kiến trúc càng to thì khối lượng sẽ càng lớn. Do nhu cầu về hoạt ảnh, Động Vật và Nhân Vật sẽ có khối lượng tương đối cao hơn so với các đồ nội thất khác. Đa số Đồ Trang Trí Có Thể Tương Tác cũng sẽ chiếm rất nhiều khối lượng.
+
+Khối Lượng sử dụng hệ thống cảnh báo 3 màu, với màu xanh lá cây cho biết người chơi vẫn có thể đặt thêm, màu cam cho biết sắp đầy và màu đỏ cho biết đã đạt đến sức chứa hoặc giới hạn đồ trang trí đã đạt mức tối đa.
+
+- Động Tiên Bảo Giám: Động Tiên Bảo Giám bao gồm các nhiệm vụ cung cấp Bản Vẽ Đồ Trang Trí và Đồ Trang Trí. Nó hoạt động tương tự như Bằng Chứng Mạo Hiểm.
+
+- Cấp Tín Nhiệm: Cấp Tín Nhiệm tăng bằng cách nhận từ mỗi lần đầu chế tạo Đồ Trang Trí.
+
+- Bình Tài Động Tiên: Đặt nhiều loại đồ trang trí có thể giúp tăng Tiên Lực.
+
+- Động Tiên Bách Bảo: Động Tiên Bách Bảo là cửa hàng sử dụng Tiền Động Tiên để mua vật phẩm, đồ trang trí, và bản vẽ đồ trang trí.
+
+## Tiên Ấm Chu Du
+
+Chubby (hay Tiên Ấm Chu Du) là Tiên Ấm sẽ thăm Nhà Lữ Hành vào mỗi ngày Chủ Nhật trước khi thiết lập lại. Tiên Ấm Chu Du sẽ mang một số đồ trang trí mới vào mỗi tuần, người chơi có thể dùng Tiền Động Tiên để trao đổi. Bản Vẽ Đồ Trang Trí mà Tiến Ấm Chu Du mang đến cho mỗi Nhà Lữ Hành sẽ khác nhau.
+
+Nhà Lữ Hành và bạn bè chia sẻ số lần đổi đồ trang trí tại Chu Du Bách Bảo.
+
+## Thời Gian Ghé Thăm
+
+Từ 4:00 giờ sáng mỗi ngày Chủ Nhật cho đến 4:00 giờ sáng thứ Hai của tuần sau, Tiên Ấm Chu Du sẽ ghé thăm Động Tiên của người chơi, mang theo đồ và kho báu quý hiếm.
+
+Từ 4:00 giờ sáng mỗi ngày Chủ Nhật cho đến 4:00 giờ sáng thứ Hai của tuần sau, người chơi cũng có thể ghé thăm Động Tiên của người chơi khác để trao đổi với Tiên Ấm Chu Du.
+
+- Bản Sao: Tính năng sao chép cho phép người chơi chia sẻ Bản Sao của một khu vực có ID Bản Sao, ID này có thể được sử dụng bởi người chơi khác trong Ấm Trần Ca của họ.
+
+## Chế Độ Nhiều Người Chơi
+
+Người chơi có thể ghé thăm Ấm Trần Ca của Bạn Bè bằng cách mở Giao Diện Paimon và đi đến mục Bạn Bè. Nhấn vào ảnh đại diện của bạn bè và chọn "Xin ghé thăm Ấm Trần Ca". Người chơi có thể ghé thăm Ấm Trần Ca của bạn bè bất kể Cấp Thế Giới của họ.

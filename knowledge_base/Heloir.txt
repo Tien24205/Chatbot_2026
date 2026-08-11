@@ -1,0 +1,13 @@
+# Heloir
+
+## Thông Tin Cơ Bản
+
+type: NPC Nhiệm Vụ
+region: Fontaine
+location: Fontaine
+affiliation: Căn Nhà Hơi Ấm
+voiceEN: [[imdb:nm3597590
+
+- Tổng Quan: Heloir là một NPC độc quyền nhiệm vụ xuất hiện trong.
+
+- Tiểu Sử: Heloir là một thành viên của Căn Nhà Hơi Ấm, luôn có chấp niệm với thuốc, cô vẫn thường xuyên uống trộm thuốc do mình pha chế mặc dù Cha đã ngăn cấm điều đó.

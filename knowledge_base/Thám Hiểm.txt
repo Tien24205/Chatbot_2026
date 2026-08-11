@@ -1,0 +1,330 @@
+# Thám Hiểm
+
+## Tổng Quan
+
+type: Hệ Thống Trò Chơi
+
+Trong quá trình Thám Hiểm Teyvat, Nhà Lữ Hành có thể bắt gặp nhiều loại câu đố, Ma Vật, vật thể và Nguyên Liệu khác nhau.
+
+Một số vật thể và câu đố không có tên gọi chính thức trong trò chơi, vì vậy chúng được liệt kê theo những tên gọi được cộng đồng sử dụng phổ biến.
+
+- Cơ Chế: Dưới đây là các cơ chế trò chơi chung liên quan đến hoạt động khám phá, bao gồm việc di chuyển của nhân vật, các khả năng hỗ trợ thám hiểm và những cơ chế tương tác với thế giới xung quanh.
+
+## Cơ Chế Của Người Chơi
+
+- Thể Lực là một thuộc tính được sử dụng cho nhiều hoạt động chiến đấu và di chuyển như Chạy (hoặc Né), Leo Trèo, Bơi, Bay và Trọng Kích. Thanh Thể Lực xuất hiện dưới dạng một thanh màu vàng bên phải nhân vật khi bị tiêu hao hoặc đang hồi phục, và sẽ tự động ẩn khi được nạp đầy. Người chơi có thể tăng giới hạn Thể Lực bằng cách hiến tế cho Thất Thiên Thần Tượng tại Mondstadt và Liyue.
+- Leo Trèo là cơ chế khám phá cho phép người chơi leo lên hầu hết các bề mặt. Trong khi leo trèo, nhân vật không thể thực hiện các hành động chiến đấu. Leo trèo tiêu hao Thể Lực, và việc nhảy lên sẽ tiêu tốn nhiều Thể Lực hơn. Nếu hết Thể Lực khi đang leo trèo, nhân vật sẽ rơi xuống và chịu Sát Thương Rơi dựa trên độ cao từ vị trí rơi.
+- Bay có thể được thực hiện bằng cách nhảy khỏi vách đá, mép núi hoặc sử dụng Luồng Gió. Khoảng cách bay phụ thuộc vào độ cao hiện tại và lượng Thể Lực còn lại. Người chơi có thể kết thúc trạng thái bay bằng cách tiếp đất, rơi tự do, thực hiện đòn tấn công khi đáp xuống, bị kẻ địch đánh trúng hoặc hết Thể Lực. Trong một số trường hợp, điều này có thể dẫn đến Sát Thương Rơi.
+- Dấu Vết Hình Vòng Phong là những vòng sáng màu trắng giúp tăng tốc độ di chuyển khi bay qua.
+- Luồng Gió tạo ra luồng khí hướng lên trên, cho phép người chơi cất cánh, tăng độ cao khi đang bay hoặc hồi phục Thể Lực trong lúc lượn.
+- Chạy là cơ chế giúp nhân vật di chuyển nhanh hơn. Hành động này tiêu hao nhiều Thể Lực hơn và được kích hoạt bằng cách nhấn vào nút Chạy. Một số nhân vật sở hữu thiên phú Xung Kích Thay Thế.
+- Bơi là cơ chế khám phá khi nhân vật tiến vào vùng nước quá sâu để đứng. Độ sâu cần thiết sẽ thay đổi tùy theo chiều cao của nhân vật. Tương tự như leo trèo và bay, người chơi không thể thực hiện các hành động chiến đấu khi đang bơi.
+- Bơi tiêu hao Thể Lực, và bơi nhanh sẽ tiêu hao nhiều Thể Lực hơn. Nếu hết Thể Lực khi đang bơi, nhân vật sẽ bị đuối nước và hồi sinh tại vị trí đất liền gần nhất từng đứng.
+- Kẻ địch bị đánh rơi xuống vùng nước sâu sẽ chết đuối, và vật phẩm rơi ra sẽ xuất hiện trên phần đất liền gần nhất. Tuy nhiên, nếu kẻ địch bị đánh bại trước khi rơi xuống nước, nguyên liệu sẽ xuất hiện tại vị trí bị hạ gục.
+- có thể tạm thời đóng băng mặt nước, cho phép người chơi vượt qua các vùng nước sâu mà không cần bơi. Cách di chuyển này thường được gọi là "bắc cầu băng".
+- Góc Nhìn Nguyên Tố là cơ chế thay đổi cách người chơi quan sát thế giới. Khi vào góc nhìn, sẽ hiển thị tên của kẻ địch gần đó, làm nổi bật các cơ quan nguyên tố, đánh dấu vật thể có thể tương tác và chỉ dẫn người chơi theo các hướng cụ thể, chẳng hạn như truy tìm Tiên Linh hoặc lần theo dấu vết trong các nhiệm vụ.
+- Điều Tra là cơ chế cho phép người chơi tương tác với các điểm điều tra xuất hiện khắp Teyvat để nhận Thánh Di Vật, nguyên liệu Nấu Ăn, nguyên liệu Rèn, Vũ Khí hoặc Mora.
+
+## Chướng Ngại Vật
+
+Một số chướng ngại vật sau đây có thể gây sát thương cho người chơi hoặc gây khó khăn cho việc di chuyển.
+- Hoa Nổ là những loài thực vật tích tụ nguyên tố,, hoặc. Khi bị tác động hoặc dẫm lên, chúng sẽ trồi lên khỏi mặt đất, xoay tròn rồi phát nổ, gây sát thương và khuếch tán nguyên tố tương ứng trong một phạm vi nhất định.
+- Bóng Nước là những thực thể có thể xuất hiện trong một số bí cảnh, trò chơi nhỏ, Địa Mạch Bất Thường, Hào Quang hoặc được tạo ra bởi kỹ năng của một số kẻ địch. Khi va chạm với người chơi, bong bóng sẽ nhốt người chơi bên trong và có thể gây.
+- Dây Gai Nguyên Tố Thảo (tên gọi không chính thức) là những bụi gai dày đặc có thể bị đốt bởi.
+- Thùng Thuốc Nổ có thể được tìm thấy trong quá trình khám phá hoặc tại một số bí cảnh và sự kiện. Hiện có bảy loại:,,,,, và Phlogiston. Khi bị tấn công, chúng sẽ phát nổ và gây sát thương diện rộng cho cả người chơi lẫn kẻ địch.
+- Công Trình Của Hilichurl là các công trình được xây dựng xung quanh doanh trại Hilichurl, có thể bị phá hủy.
+- Đống Đá là những cấu trúc có thể phá hủy để làm lộ ra rương báu, lối đi ẩn hoặc các vật thể khác. Hiện có ba loại:, và Phlogiston.
+- Vách Gió là những bức tường gió vô hình hoặc gần vô hình thường bao quanh một khu vực hoặc vật thể nhất định. Người chơi sẽ bị đẩy lùi nếu cố gắng đi qua.
+
+## Cơ Chế Chung
+
+- Kích Động là cơ chế xác định mục tiêu của kẻ địch, khiến chúng cảnh giác và tấn công các thực thể thù địch ở gần, chẳng hạn như người chơi. Nhiều yếu tố có thể ảnh hưởng đến việc kẻ địch bị kích động, bao gồm khoảng cách, tầm nhìn và các hành động của mục tiêu.
+- Bản Đồ là giao diện mô phỏng thế giới Teyvat. Người chơi có thể sử dụng bản đồ nhỏ ở góc màn hình hoặc mở Bản Đồ để quan sát toàn bộ khu vực đã khám phá. Từ bản đồ, người chơi có thể dịch chuyển nhanh đến Điểm Dịch Chuyển, Thất Thiên Thần Tượng và Bí Cảnh đã được mở khóa.
+- Vượt Giới Hạn là cơ chế ngăn người chơi tiến vào các khu vực chưa được mở khóa. Khi tiếp cận những khu vực này, màn hình sẽ dần tối đi, sau đó Paimon sẽ xuất hiện và yêu cầu người chơi quay trở lại.
+- Cấp Đội là chỉ số được dùng để đánh giá độ phù hợp giữa sức mạnh đội hình và khu vực hiện tại. Nếu cấp độ đội quá thấp, thông báo màu đỏ "Độ Nguy Hiểm Cao" sẽ xuất hiện khi tiến vào khu vực đó.
+- Thời Gian liên tục trôi qua trong quá trình khám phá, làm thay đổi ánh sáng và bầu trời của thế giới. Một số sinh vật và NPC chỉ xuất hiện vào những khung giờ nhất định hoặc thay đổi vị trí tùy theo thời gian trong ngày. Người chơi có thể điều chỉnh thời gian thủ công thông qua Menu Paimon. Một số nhiệm vụ cũng yêu cầu chờ đến hoặc chuyển thời gian đến một thời điểm cụ thể.
+- Thời Tiết và Khí Hậu ảnh hưởng trực tiếp đến môi trường khám phá. Mưa và giông bão sẽ áp dụng trạng thái lên nhân vật, kẻ địch và các vật thể có thể chịu ảnh hưởng của nguyên tố, cho phép kích hoạt Phản Ứng Nguyên Tố tương tự như các nguồn khác. Trong thời tiết giông bão, Sét đôi khi có thể đánh trúng nhân vật, kẻ địch hoặc vật thể, gây.
+- Cỏ xuất hiện rộng khắp Teyvat và được cho là mang. Khi chịu tác động của sẽ kích hoạt phản ứng Thiêu Đốt. Sau khi cháy hết, khu vực đó sẽ tạm thời không thể tiếp tục cháy cho đến khi cỏ mọc lại. Vùng cỏ đang cháy sẽ liên tục gây lên các thực thể đứng trên nó.
+- Nước xuất hiện ở nhiều khu vực trên khắp Teyvat. Khi tiếp xúc với nước, nhân vật sẽ nhận trạng thái. Người chơi có thể bơi, sử dụng Thuyền Gió hoặc đóng băng mặt nước bằng các đòn tấn công để di chuyển qua các vùng nước.
+- Thuyền Gió là phương tiện đường thủy dùng để di chuyển trên mặt nước. Thuyền Gió lần đầu xuất hiện tại Quần Đảo Táo Vàng và hiện có thể sử dụng tại nhiều khu vực ở Teyvat thông qua các Điểm Dịch Chuyển Thuyền Gió. Ngoài khả năng di chuyển, Thuyền Gió còn sở hữu các kỹ năng riêng để chiến đấu và giải đố, đồng thời có thể được sử dụng để tương tác với một số cơ chế khám phá như Bóng Nước.
+
+## Rương
+
+Rương có thể được tìm thấy trên khắp Teyvat. Có một số rương bị ẩn giấu, chôn lấp hoặc khóa, số khác yêu cầu giải đố hoặc tiêu diệt kẻ địch để mở khóa. Rương bị phong ấn là những biến thể được bao bọc bởi Nguyên Tố, hoặc, yêu cầu sử dụng cơ chế tương ứng như Thiêu Đốt, Tan Chảy, Siêu Dẫn hoặc Tấn Công Hạng Nặng để tiếp cận.
+Đền Địa Linh là những công trình cổ đại nằm rải rác khắp Teyvat, bên trong chứa một Rương Hiếm. Mỗi khu vực đều có các Đền Địa Linh riêng. Có thể sử dụng Chìa Khóa Đền Địa Linh để mở khóa các Đền Địa Linh này.
+
+Các vật thể sau đây có chức năng tương tự Rương nhưng sở hữu ngoại hình và phần thưởng khác:
+- Rương Gỗ là những thùng gỗ nổi trên mặt nước. Tại Liyue, người chơi sẽ nhận được Ấn Nham và Mora khi điều tra, trong khi ở Inazuma, Sumeru, Fontaine và Natlan chỉ nhận được Mora.
+- Rương Mora là những thùng đá chứa 10.000, 15.000 hoặc 20.000 Mora. Chúng có thể được tìm thấy tại Enkanomiya, Vực Đá Sâu, Sumeru, Fontaine và Natlan.
+
+## Thần Đồng
+
+Thần Đồng là những khối năng lượng nguyên tố đặc biệt xuất hiện khắp Teyvat. Chúng thường nằm ở những vị trí khó tiếp cận hoặc được che giấu kỹ lưỡng. Khi hiến tế Thần Đồng cho Thất Thiên Thần Tượng sẽ nhận được nhiều phần thưởng giá trị. Hiện có bảy loại Thần Đồng: Phong Thần Đồng, Nham Thần Đồng, Lôi Thần Đồng, Thảo Thần Đồng, Thủy Thần Đồng, Hỏa Thần Đồng và Nguyệt Thần Đồng. Có thể sử dụng Đá Cộng Hưởng Thần Đồng để xác định vị trí của chúng.
+
+## Tiên Linh
+
+Tiên Linh là những sinh vật nhỏ bé xuất hiện khắp thế giới. Khi tiếp cận, chúng sẽ bắt đầu di chuyển về Đài Tiên của mình. Trên đường đi, Tiên Linh có thể dừng lại và yêu cầu người chơi tương tác để tiếp tục dẫn đường. Đưa Tiên Linh trở về Đài Tiên thường sẽ thưởng một Rương hoặc là một phần của các câu đố khám phá.
+Sử dụng Góc Nhìn Nguyên Tố gần Tiên Linh hoặc Đài Tiên sẽ giúp xác định hướng di chuyển của chúng.
+Tại Long Tích Tuyết Sơn, Tiên Linh Ấm Áp còn đóng vai trò là nguồn nhiệt giúp giảm hiệu ứng giá rét.
+Tại Inazuma, Lôi Tiên Linh có tốc độ di chuyển cực nhanh.
+
+## Ấn Nguyên Tố
+
+Ấn Nguyên Tố là vật phẩm có thể nhận được từ Rương trên khắp Teyvat. Hiện có Ấn Phong, Ấn Nham, Ấn Lôi, Ấn Thảo, Ấn Thủy, Ấn Hỏa và Ấn Nguyệt.
+Ngoài ra, Ấn Nham còn có thể thu thập từ các Hốc Đá xuất hiện trên vách núi ở Liyue. Mỗi Hốc Đá cho 2 Ấn Nham.
+
+- Mục Tiêu Ẩn: Mục Tiêu Ẩn là những nội dung khám phá không được hiển thị dưới dạng Nhiệm Vụ hoặc đánh dấu trực tiếp trên bản đồ. Chúng thường gắn liền với các Thành Tựu thuộc tổ hợp thành tựu Thế Giới Muôn Màu.
+
+## Câu Đố
+
+Dưới đây là một số vật thể và cơ chế thường xuất hiện trong các câu đố khám phá. Khi được kích hoạt đúng cách, chúng có thể tạo ra Rương, mở đường đến các vật phẩm thu thập như Thần Đồng hoặc giúp giải các câu đố lớn hơn.
+- Quả Bồng Bồng là một loài thực vật kỳ lạ mọc gần các vách đá. Khi bị tấn công hoặc nhấn điều tra, chúng sẽ tạo ra ba bong bóng bay lơ lửng xung quanh khu vực. Sau khi làm nổ toàn bộ bong bóng sẽ xuất hiện Rương.
+- Hổ Phách Nguyên Tố là những tinh thể hình bầu dục chứa nguyên tố bên trong. Hiện có hai loại là Hổ Phách và Hổ Phách. Phá huỷ Hổ Phách Phong sẽ tạo ra Luồng Gió, còn Hổ Phách Thuỷ sẽ áp dụng trạng thái lên các thực thể trong phạm vi ảnh hưởng.
+- Bia Nguyên Tố là những công trình có thể được kích hoạt bằng nguyên tố tương ứng, nhằm giải đố hoặc mở khóa cơ chế trong Bí Cảnh.
+- Slime Phong Đang Bay khác với các Slime Phong thông thường ở chỗ chúng lơ lửng trên không theo một quỹ đạo cố định và không chủ động tấn công người chơi. Tiêu diệt toàn bộ Slime Phong Đang Bay thường sẽ xuất hiện một Rương hoặc kích hoạt cơ chế giải đố.
+- Phong Ấn là trạng thái khóa xuất hiện trên một số vật thể như Rương hoặc Bia Nguyên Tố. Chúng thường được biểu thị bằng vòng ký tự được viết bằng ngôn ngữ chưa biết màu đỏ bao quanh vật thể. Để mở khóa, người chơi phải hoàn thành điều kiện tương ứng, chẳng hạn như đánh bại kẻ địch hoặc giải đố.
+- Đuốc Di Tích là những ngọn đuốc đặc biệt có thể được kích hoạt bằng.
+- Khiêu Chiến Hạn Giờ là những khiêu chiến yêu cầu hoàn thành mục tiêu trong thời gian quy định. Các mục tiêu phổ biến bao gồm đánh bại kẻ địch, phá hủy thùng thuốc nổ hoặc mở Rương.
+
+## Mondstadt
+
+Các vật thể khám phá và cơ chế giải đố dưới đây chỉ xuất hiện tại Mondstadt:
+- Hạt Giống Phong là một loại Hạt Giống xuất hiện trên mặt đất theo từng cụm gồm ba hạt. Có thể thu thập chúng bằng cách đến gần. Khi thu thập đủ cả ba Hạt Giống Phong trong cùng một khu vực, sẽ xuất hiện Luồng Gió tại vị trí nhân vật đang đứng.
+Long Tích Tuyết Sơn
+- Tảng Băng Cổ Đại là những khối băng phát sáng không thể sử dụng để làm tan chảy mà cần phải nhờ sức mạnh của Thạch Anh Đỏ.
+- Mã Não Đỏ Thẫm có thể được hiến tế cho Cây Chịu Lạnh tại Long Tích Tuyết Sơn để nhận thưởng, tương tự như khi hiến tế Thất Thiên Thần Tượng. Chúng có thể được tìm thấy rải rác bên ngoài thế giới, xuất hiện trong một số rương nhất định hoặc thông qua hoàn thành Ước Nguyện Đỏ Thẫm.
+- Nến Di Tích là những nguồn nhiệt giúp làm chậm quá trình tích tụ Giá Rét của các nhân vật ở gần.
+- Thạch Anh Đỏ là những tinh thể màu đỏ xuất hiện khắp Long Tích Tuyết Sơn. Sẽ giảm 5% mức tích tụ Giá Rét khi nhận và ngăn việc tăng hiệu ứng Giá Rét khi hiệu ứng của Thạch Anh Đỏ còn tồn tại. Khi tấn công trong lúc đang mang hiệu ứng của Thạch Anh Đỏ, sẽ gây thêm. Nếu tấn công vào Tảng Băng Cổ Đại, hiệu ứng này sẽ làm tan chảy lớp băng.
+- Giá Rét là một hiệu ứng môi trường xuất hiện tại những khu vực có khí hậu cực lạnh. Khi thanh Giá Rét tích tụ đạt 100%, nhân vật sẽ liên tục mất HP. Có thể khắc chế hiệu ứng bằng cách sử dụng các nguồn nhiệt tại Long Tích Tuyết Sơn hoặc thu thập Thạch Anh Đỏ.
+- Tuyết: Khắp Long Tích Tuyết Sơn có những đống tuyết có thể bị làm tan chảy bằng. Sau khi tan chảy, có thể làm lộ ra kẻ địch, rương báu, Băng Tinh Điệp hoặc Tiên Linh.
+
+## Liyue
+
+Các vật thể khám phá và cơ chế giải đố sau đây chỉ xuất hiện tại Liyue:
+- Tiên Đạo là những cây cầu tựa dải lụa xuất hiện trong nơi ở của các Tiên Nhân. Chúng có thể được kích hoạt, vô hiệu hóa hoặc xoay chuyển thông qua các điểm tương tác.
+- Đèn Lồng Nham là những thiết bị được kích hoạt bằng cách dẫn Hạt Giống Nham đến vị trí của chúng. Việc kích hoạt toàn bộ Đèn Nham trong một khu vực thường sẽ xuất hiện Rương, một số lại là một phần của việc giải đố.
+- Phong Ấn Nham là những phong ấn mang hình dạng được khắc trên mặt đất. Chúng có thể được kích hoạt bằng và chủ yếu xuất hiện tại Cửa Biển Thanh Hư.
+- Cơ Quan Trọng Lực là những thiết bị trên mặt đất, có thể kích hoạt bằng cách đứng lên chúng hoặc đặt vật thể lên, chẳng hạn như Bá Tước Thỏ của Amber hay Kiếm Sao Băng của Nhà Lữ Hành Nham.
+- Cơ Quan Cối Xay Gió chỉ có thể được kích hoạt bằng.
+Vực Đá Sâu
+- Thạch Ấn là những trận pháp do Thất Tinh Liyue thiết lập, xuất hiện trên bề mặt Vực Đá Sâu.
+- Tạo Vật Nguyên Tố Nham Hình Chiếc Lồng có thể dùng Hạt Giống Nham để kích hoạt, bắn ra Đạn Tinh Thể và phá hủy Thạch Ấn.
+- Luồng Khí Nguy Hiểm sẽ gây phát nổ khi tiếp xúc với hoặc, đồng thời có thể bị xua tan tạm thời bằng.
+- Bùn Đen sẽ liên tục rút HP và năng lượng của Chất Xúc Tác Lưu Minh Thạch khi người chơi đứng trên nó.
+- Nấm Nham Phát Nổ sẽ phát nổ khi tiếp cận hoặc nhận tấn công, gây.
+- Đèn Minh Thạch là những thiết bị đặc biệt trong Khu Mỏ Ngầm của Vực Đá Sâu, dùng để nạp lại năng lượng cho Chất Xúc Tác Lưu Minh Thạch.
+- Pháo Phá Núi là những khẩu pháo mà người chơi có thể vận hành tại Vực Đá Sâu để bắn ra đạn gây và phá bỏ chướng ngại vật.
+- Bãi Phù Sa xuất hiện trong Khu Mỏ Ngầm của Vực Đá Sâu. Đôi khi sẽ nằm trong Bùn Đen và giúp duy trì sự tồn tại của lớp bùn này. Bãi Phù Sa có nhiều cấp độ khác nhau và yêu cầu Chất Xúc Tác Đá Lưu Minh phải sở hữu đủ năng lượng để phá hủy.
+- Đá Phun Khí là những tảng đá đặc biệt giúp tăng cường khả năng bật nhảy, giúp nhanh chóng tiếp cận các vị trí trên cao.
+- Nham Thạch Kỳ Lạ là những khối đá có hình dạng độc đáo xuất hiện tại Vực Đá Sâu. Chúng sẽ bị phá vỡ nếu nhận đủ số lần cộng hưởng từ Trụ Nham Kỳ Lạ trong một khoảng thời gian ngắn.
+- Trụ Nham Kỳ Lạ là một dạng câu đố xuất hiện tại Vực Đá Sâu. Sử dụng Tấn Công Hạng Nặng để đánh vào trụ sẽ tạo ra các làn sóng xung kích cộng hưởng, dùng để phá hủy Nham Thạch Kỳ Lạ, từ đó làm lộ ra Rương Báu hoặc mở ra những lối đi mới.
+Trầm Ngọc Cốc
+- Tiên Tượng Thong Dong
+- Tiên Tượng Bay Bổng
+- Đèn Rực Lửa
+- Thác Cẩm Ngọc
+- Đỉnh Ngọc Tỏa Hương
+- "Lịch Sử Hàng Ngàn Năm Đang Dõi Theo Chúng Ta!"
+- Quang Cảnh Sen Trôi
+- Hiện Tượng Lạ - Uân Khí
+- Tiên Tượng Cau Có
+
+## Inazuma
+
+Các vật thể khám phá và cơ chế giải đố sau đây chỉ xuất hiện tại Inazuma:
+- Sấm Dội là một hiệu ứng Khí Hậu đặc biệt xuất hiện tại những khu vực có nồng độ cao ở Inazuma. Người chơi chịu ảnh hưởng của Sấm Dội sẽ liên tục mất HP. Có thể triệt tiêu hiệu ứng bằng Hạt Giống Lôi hoặc khi ở gần Gỗ Chống Sét.
+- Tượng Địa Hồ là những bức tượng hồ ly xuất hiện trên Đảo Narukami. Sử dụng Kính Kỷ Vật để quan sát chúng có thể làm lộ ra các cơ quan, vật thể hoặc hội thoại ẩn.
+- Hạt Giống Lôi là Hạt Giống đặc trưng của Inazuma. Sau khi được triệu hồi từ Cành Lôi Anh Đào, chúng có thể hỗ trợ giải đố, cường hóa khả năng chiến đấu và bảo vệ người chơi khỏi các hiệu ứng môi trường bất lợi trong quá trình khám phá. Cấp độ của Hạt Giống Lôi có thể tăng thông qua hiến tế Anh Đào Thần Bảo Vệ.
+- Kết Giới Lôi là những màn chắn chỉ có thể vượt qua khi mang theo Hạt Giống Lôi. Chúng tồn tại ở nhiều cấp độ khác nhau, một số màn chắn cần Hạt Giống Lôi cấp cao hơn để có thể vượt qua. Bên trong kết giới có thể xuất hiện Đạn Lôi, gây sát thương lên người chơi không mang theo Hạt Giống Lôi.
+- Điện Cực Lôi là những vật thể lơ lửng trên không. Khi mang theo Hạt Giống Lôi, người chơi có thể di chuyển tức thời theo hướng của chúng, giúp nhanh chóng vượt qua những khoảng cách lớn.
+- Đèn Bàn Điện là những cột đèn đá cổ xưa xuất hiện trên Đảo Watatsumi. Chúng sẽ phát sáng khi tiếp xúc với Hạt Giống Lôi và đôi khi yêu cầu được kích hoạt theo một trình tự nhất định.
+- Kết Tinh Ánh Chớp là các vật thể hỗ trợ chiến đấu khi mang theo Hạt Giống Lôi, xuất hiện trong sự kiện, Ủy Thác và nhiều khiêu chiến khác. Tùy thuộc vào số lượng kết tinh liên kết với người chơi, chúng có thể hồi phục Năng Lượng cho đội, tăng Sát Thương Kỹ Năng Nộ hoặc tạo ra sóng xung kích.
+- Đá Lôi Điện là những vật thể có thể được nạp năng lượng bằng Hạt Giống Lôi để gây lên kẻ địch.
+- Khối Cơ Quan là dạng câu đố gồm nhiều khối lập phương liên kết với nhau. Có hai loại Khối Lôi: loại có thể xoay chuyển và loại phát sáng khi bị tấn công. Sự thay đổi về hướng xoay hoặc trạng thái phát sáng của một khối có thể ảnh hưởng đến các khối liền kề hoặc toàn bộ nhóm, đòi hỏi người chơi phải tác động đúng trình tự để nhận phần thưởng.
+- Câu Đố Dòng Điện gồm ba loại đá phải được sắp xếp để tạo thành một dòng điện: Đá Phóng Điện phát ra dòng điện, Đá Tiếp Điện truyền dẫn dòng điện đó và Đá Tụ Điện hấp thụ năng lượng điện từ Đá Phóng Điện. Ngoài Đá Tiếp Điện, các vật thể, nhân vật hoặc kẻ địch đang được gán ấn cũng có thể được sử dụng để dẫn điện.
+- Đống Đá Lôi là phiên bản của Đống Đá xuất hiện khắp Teyvat. Chúng có thể bị phá hủy thông qua các phản ứng nguyên tố để làm lộ ra Rương báu.
+- Pháo Kamuijima là những khẩu pháo xuất hiện trên Kannazuka. Người chơi có thể điều chỉnh hướng bắn và vận hành chúng để phá hủy các vật thể nằm trên quỹ đạo đạn.
+- Câu Đố Sàn Đá yêu cầu người chơi bước lên các ô gạch theo một trình tự xác định.
+- Đầu Dò Sét là những thiết bị di tích có khả năng phát hiện, bao gồm cả Hạt Giống Lôi. Khi có mục tiêu trong phạm vi, chúng sẽ xoay để chỉ về hướng tương ứng.
+- Cổng Hai Chiều là những thiết bị xuất hiện trên Đảo Seirai và Đảo Watatsumi. Khi hai cổng đối diện nhau, người chơi có thể nhanh chóng dịch chuyển qua lại giữa chúng.
+Đảo Tsurumi
+- Tượng Thần Bí là những bức tượng chim cổ xưa và các hình chạm khắc trên tường xuất hiện khắp Đảo Tsurumi. Kích hoạt chúng có thể làm xuất hiện các cơ quan hoặc câu đố khám phá khác.
+- Văn Tự Ishine là những phiến đá mang các ký hiệu đặc biệt, yêu cầu người chơi tương tác theo đúng thứ tự. Các dấu hiệu xuất hiện gần đó chẳng hạn như ký hiệu trên tường thường sẽ có manh mối về trình tự chính xác.
+- Đá Sấm Sét là những phiến đá được chạm khắc đặc biệt có thể được kích hoạt bằng, tạo ra lối đi xuyên qua màn sương dày đặc.
+Enkanomiya
+- Đêm Trắng và Đêm Đen là hai trạng thái tồn tại tại Enkanomiya. Người chơi có thể chủ động chuyển đổi giữa chúng bằng cách điều khiển mặt trời nhân tạo Dainichi Mikoshi nằm ở trung tâm khu vực.
+- Đài Nhật Dạ là những cơ quan có hình dạng khác nhau tùy thuộc vào trạng thái Đêm Trắng hoặc Đêm Đen. Người chơi có thể vận hành chúng khi đến gần, và trạng thái của chúng sẽ được đặt lại sau mỗi lần chuyển đổi giữa hai chu kỳ.
+- Cá Ma là những đàn cá bay lơ lửng trong không trung. Khi tiến vào phạm vi của chúng, người chơi sẽ được đàn cá bao quanh, cho phép liên tục bay lượn trên không.
+- Ấn Khóa là những vật phẩm mang một trong năm biểu tượng khác nhau xuất hiện khắp Enkanomiya. Mỗi loại tương ứng với một dạng phong ấn riêng và có thể dùng để giải trừ các phong ấn tương ứng trên bản đồ. Giải phong ấn sẽ cho Rương báu hoặc thúc đẩy tiến trình Nhiệm Vụ Thế Giới.
+- Lá Chắn Ánh Sáng là những màn chắn xuất hiện trong trạng thái Đêm Trắng và biến mất khi chuyển sang Đêm Đen.
+- Ảo Ảnh Lửa Mặt Trời là những hiện tượng méo mó có thể quan sát được trong không khí. Việc chuyển đổi giữa Đêm Trắng và Đêm Đen có thể khiến chúng hiện rõ hoặc biến mất.
+- Cơ Quan Ba Góc là những cơ quan có thể được kích hoạt bằng đòn tấn công. Chúng có thể bị hư hại cần phải chuyển sang trạng thái Đêm Đen để sử dụng.
+
+## Sumeru
+
+Các vật thể khám phá và cơ chế giải đố sau đây chỉ xuất hiện tại Sumeru:
+- Hồ Chứa Nước là các cơ quan giải đố có thể bị tấn công để chuyển đổi giữa trạng thái đóng và mở.
+- Ống Phun Cát có thể bị bắn bằng cung để lấp đầy Hồ Chứa Nước bằng sỏi đá.
+- Hạt Giống Thảo là các Hạt Giống xuất hiện ở Sumeru, có thể được triệu hồi thông qua Cây Cỏ May Mắn. Người chơi có thể mang theo chúng trong vòng 30 giây, sẽ làm mới khi triệu hồi Hạt Giống Thảo mới.
+- Cây Cỏ May Mắn dùng để triệu hồi Hạt Giống Thảo.
+- Đá Bị Phong Ấn Bởi Hạt Giống Thảo sẽ vỡ ra và để lộ một số vật thể hoặc kẻ địch nhất định khi bị đánh trúng bởi đòn tấn công kết hợp Hạt Giống Thảo.
+- Vòng Thảo là những chiếc vòng lơ lửng được kích hoạt bằng đòn tấn công đi kèm Hạt Giống Thảo.
+- Tử Vực sẽ khiến thanh Héo Mòn tích tụ, gây hiệu ứng bất lợi cho toàn đội và có thể khiến cả đội nằm xuống. Tử Vực có thể được dọn sạch bằng cách phá hủy Khối U Tử Vực với sự trợ giúp của Hạt Giống Thảo thông qua Trọng Kích hoặc Ngắm Bắn.
+- Nến Sự Sống sẽ làm giảm điểm tích tụ Héo Mòn của người chơi ở gần khi được kích hoạt. Chúng có thể xuất hiện trong Tử Vực.
+- Ánh Lửa Sự Sống làm giảm một đơn vị tích tụ Héo Mòn trong Tử Vực.
+- Sảnh Ashvattha là các địa điểm ở Sumeru chịu ảnh hưởng của Tử Vực. Người chơi có thể dọn sạch Tử Vực bằng cách tương tác với Cây Vasara và tiến vào giấc mơ của chúng.
+- Khối Năng Lượng là các vật thể xuất hiện trong Thủ Vệ Di Tích, dùng để cung cấp năng lượng cho thiết bị tiếp nhận.
+- Thiết Bị Rút Năng Lượng sẽ mở một khiêu chiến yêu cầu người chơi tắt thiết bị bằng cách tìm hai hoặc ba chìa khóa điều khiển rồi mang chúng trở lại thiết bị. Nếu đi quá xa khỏi khu vực, khiêu chiến sẽ thất bại và tiến trình bị thiết lập lại.
+- Ấn Bốn Lá là những bông hoa bốn cánh cho phép người chơi di chuyển nhanh chóng.
+- Nhụy Hoa Bung Lá phân tán Ấn Bốn Lá xung quanh đến một vị trí cụ thể sau khi tiếp xúc với Nguyên Tố. Các Ấn này sẽ biến mất sau 24 giờ.
+- Nền Tảng Ảo Ảnh là các tấm nền sẽ biến mất khi bị giẫm lên sau vài giây nhấp nháy.
+- Đền Trấn Linh được sử dụng để khôi phục Sức Mạnh Trấn Linh của Trấn Linh Bình Ma - Liloupar.
+- Xoáy Khí Quyển Lớn là các vật thể hình trụ đứng yên, ngăn cản người chơi đi qua.
+- Cánh Quạt Khổng Lồ sẽ thổi ra những luồng gió mạnh, có thể cản trở tiến trình hoặc thổi bay Mồi Lửa Nguyên Thủy.
+- Đống Cát Nhỏ có thể bị phân tán bằng đòn tấn công hệ. Đống Cát Nhỏ che phủ kẻ địch có thể tự động phân tán khi kẻ địch phát hiện ra người chơi.
+- Cơ Quan Hiện Thực Hóa Và Ách Linh Gió là một loại câu đố yêu cầu người chơi dẫn một Ách Linh Gió ở gần đến sát chúng trong một khoảng thời gian giới hạn sau khi kích hoạt.
+- Vườn Ươm là những khu vườn nơi người chơi phải đi theo các linh hồn phát sáng và đi qua từng ô đất mà không bị gián đoạn hoặc lặp lại để nhận được một chiếc rương và một Quả Vasmrti.
+- Van Xoay Đường Ống thay đổi cách thức kết nối của các đường ống.
+- Đài Bí Ẩn là các bộ điều khiển cho những cơ quan khác nhau trong Lăng Mộ Vua Deshret.
+- Rào Chắn Nguyên Thủy có thể được mở bằng cách dẫn Mồi Lửa Nguyên Thủy đi qua chúng hoặc kích hoạt Đài Bí Ẩn trên Phiến Đá Cát Đỏ.
+- Mồi Lửa Nguyên Thủy là các khối năng lượng có thể bắn ra và kích hoạt Đuốc Nguyên Thủy.
+- Đuốc Nguyên Thủy kích hoạt nhiều hiệu ứng khác nhau, chẳng hạn như mở cửa, bật hoặc tắt các cấu trúc khác nhau trong Lăng Mộ Vua Deshret, tăng cấp Phiến Đá Cát Đỏ hoặc tạo ra Rương.
+- Phục Chế Obelisk Nguyên Thủy có thể được khôi phục bằng cách sử dụng sáu Đá Thánh Chương nằm rải rác khắp Biển Cát Đỏ.
+- Nhựa Thông Nguyên Thủy được sử dụng để mở khóa các lối đi trong các Bí Cảnh ở Sumeru.
+- Lăng Trụ Khaj-Nisut có thể được sử dụng để điều khiển các vật thể lân cận có cùng màu ánh sáng.
+- Đá Nhân Bản là một loại nền tảng đặc biệt.
+- Đèn Nguyên Bản có thể được nhặt lên và đặt vào Đá Nhân Bản để tạo ra các thiết bị di tích.
+- Tia Sáng Năng Lượng là sự kết hợp của các cơ quan truyền phát Tia Sáng Nguyên Bản.
+- Linh Kiện Ánh Sáng được sử dụng để bắn ra Tia Sáng Nguyên Bản nhằm liên kết với Linh Kiện Nuốt Ánh Sáng khi Phiến Đá Cát Đỏ có đủ cấp.
+- Linh Kiện Nuốt Ánh Sáng là các thiết bị tiếp nhận Tia Sáng Nguyên Bản được bắn ra bởi Linh Kiện Ánh Sáng.
+- Linh Kiện Tàng Hình có thể khiến các bức tường trở nên trong suốt, cho phép Tia Sáng Nguyên Bản đi qua.
+- Linh Kiện Nguyên Bản có thể khiến các vật thể vô hình xuất hiện trở lại, bao gồm tường, sàn nhà, Đuốc Di Tích, v.v.
+- Đế Nến Nguyên Thủy là các điểm trung chuyển được sử dụng để chứa Mồi Lửa Nguyên Thủy và mở cửa.
+- Đồng Hồ Cát Năng Lượng kích hoạt một câu đố yêu cầu người chơi tìm tất cả các Đồng Hồ Cát Nguyên Thủy ở gần trước khi hết thời gian.
+- Cơ Quan Bí Văn có thể loại bỏ các đống cát bằng cách bị đánh trúng để thay đổi hướng của chúng.
+- Cửa Sổ Phù Văn cho phép năng lượng của Cơ Quan Bí Văn đi qua.
+- Cần Điều Khiển Cửa Sổ được sử dụng để đóng và mở Cửa Sổ Phù Văn.
+- Cỗ Máy Saghira xuất hiện trong các doanh trại của Eremite và yêu cầu người chơi tìm hai "chìa khóa", đồng thời bảo vệ thiết bị trong lúc chờ nó nạp năng lượng.
+- Phiến Đá Cát Đỏ là Đạo Cụ được sử dụng để khám phá Di Tích Của Vua Deshret.
+- Xoáy Khí Quyển Nhỏ là các vật thể hình cầu nhỏ đứng yên. Tiếp xúc với chúng sẽ đẩy lùi người chơi nhưng không gây sát thương.
+- Hoa Thể Lực là những bông hoa giúp hồi phục Thể Lực cho người chơi khi đến gần.
+- Cột Đá Phong Ấn có thể bị phá hủy bằng Nguyên Tố.
+- Vật Ba Hình Thể có ba trạng thái tùy thuộc vào nguyên tố được áp dụng lên nó, gồm Khô Héo, Bình Thường và Kích Động.
+- Nấm Nhảy có thể nhảy lên để phóng người chơi lên không trung.
+- Hoa Mộng Mị có thể được sử dụng để trốn khỏi kẻ địch hoặc đánh dấu vị trí của các Hạt Giống Ảo Ảnh còn lại.
+- Nấm Độc giải phóng một vụ nổ, gây cho cả người chơi và kẻ địch.
+- Cành Nâng Đá thay đổi chiều cao dựa trên nguyên tố được áp dụng.
+- Kính Hạt Giống có thể được sử dụng để định vị Khối U Tử Vực Cần Phá Hủy và Tượng Gỗ Aranara.
+- Hạt Ba Trạng Thái để lộ các vật thể bị ẩn dựa trên nguyên tố được áp dụng.
+- Cỏ Lăn có cơ hội rơi ra một vật phẩm như Trứng Chim, Ajilenakh Ngào Đường, hoặc một Thánh Di Vật khi bị phá hủy bằng cách chạy vào hoặc tấn công chúng.
+- Cỗ Máy Varuna là một bộ máy được sử dụng để điều khiển thời tiết nằm ở Gỗ Apam.
+- Đàn Cổ là một đạo cụ có thể nhận được trong Nhiệm Vụ Thế Giới Thế Giới Của Aranara, dùng để chơi nhạc.
+- Hoa U Bế là những bông hoa đóng vai trò như một phong ấn. Khi người chơi chơi bản nhạc Tutorial/Giai Điệu Lối Mòn Muôn Thú bằng Đàn Cổ gần Hoa U Bế, các chướng ngại vật sẽ biến mất.
+- Mật Đạo Rừng Sâu nằm rải rác trong rừng. Chơi bản nhạc Tutorial/Giai Điệu Mật Đạo bằng Đàn Cổ gần Mật Đạo Rừng Sâu sẽ kích hoạt lối đi để người chơi tiến vào, dịch chuyển họ đến một khu vực mà thông thường không thể tiếp cận.
+- Cổng Ảo Ảnh xuất hiện rải rác ở Sumeru. Chơi bản nhạc Tutorial/Giai Điệu Giấc Mơ bằng Đàn Cổ gần Cổng Ảo Ảnh sẽ kích hoạt khiêu chiến, trong đó người chơi phải thu thập các Hạt Giống Ảo Ảnh xung quanh khu vực và mang chúng trở lại Cổng Ảo Ảnh. Trong suốt khiêu chiến, Hoa Mộng Mị sẽ xuất hiện.
+- Silapna là "những cánh cổng" giữa thế giới thực và cảnh giới mơ mộng, được tìm thấy ở Vanarana (Phân Khu) và Khoảnh Rừng Mơ. Kích hoạt chúng bằng cách chơi bản nhạc Tutorial/Giai Điệu Giấc Mơ mà Arana dạy cho người chơi.
+- Mầm Non là các cây Hạt Giống Thảo chưa kích hoạt và có thể được kích hoạt bằng bản nhạc Tutorial/Giai Điệu Mầm Non do Aramaha để lại.
+- Vamadha là các cấu trúc có thể xoay được bằng cách chơi bản nhạc Tutorial/Giai Điệu Vamadha do Ararycan dạy.
+- Bia Đá Héo Mòn là một loại câu đố đi theo từng cặp; việc thay đổi các ký tự trên tấm này để khớp với tấm kia sẽ trao thưởng một Rương.
+- Wenut sẽ lao lên từ mặt đất để tấn công người chơi ở một số khu vực nhất định, gây Sát Thương Vật Lý Diện Rộng.
+- Đá Héo Mòn được tìm thấy gần các Wenut. Dụ Wenut tấn công từ phía dưới một Tảng Đá Héo Mòn sẽ phá hủy tảng đá, để lộ các vật thể hoặc kẻ địch bị ẩn giấu.
+
+## Fontaine
+
+Các vật thể khám phá và cơ chế giải đố sau đây chỉ xuất hiện tại Fontaine:
+- Tàu Luân Chuyển vận hành trên hệ thống giao thông chuyên dụng gọi là đường ray nước, vừa cung cấp các chuyến tham quan ngắm cảnh, vừa là phương tiện di chuyển cho hành khách.
+- Sức Mạnh Nền Tảng bao gồm hai nguồn năng lượng đối lập nhau - và. Khi hai nguồn năng lượng này gặp nhau, phản ứng Quá Tải Năng Lượng sẽ được kích hoạt, tạo ra nhiều hiệu ứng khác nhau tùy thuộc vào thiết lập.
+- Khối Pneumousia sẽ giải phóng năng lượng tích trữ bên trong khi bị đánh trúng.
+- Trạm Chuyển Tiếp Pneumousia có ba trạng thái năng lượng: Ousia, Cân Bằng và Pneuma. Các trạng thái này có thể thay đổi khi bị tấn công bằng nguồn năng lượng đối lập.
+- Rương Chứa Đồ Pneumousia sẽ mở ra sau khi bị đánh trúng bằng thuộc tính đối lập.
+- Cổng Nước là cổng dịch chuyển đưa người chơi từ điểm này sang điểm khác. Khi ở bên trong sẽ không thể tự điều khiển nhân vật.
+- Vết Nứt Quái Cảnh là khiêu chiến yêu cầu người chơi bảo vệ một số tinh thể bên trong trận pháp ma thuật khỏi các đợt tấn công của Ma Sói.
+- Thảm Nấm Ô Nhiễm bao phủ một số vùng nước và ngăn cản người chơi tiến vào. Các lõi ô nhiễm chỉ có thể được thanh tẩy bằng năng lượng của Sinh Vật Dị Sắc.
+- Thiết Bị Trữ Năng Lượng Cố Định Và Di Động có thể dùng để kích hoạt một số cơ quan nhất định, chẳng hạn như cửa/cổng bị khóa và Máy Ổn Định.
+- Trạm Chuyển Năng Lượng có thể dùng để chuyển năng lượng từ một Thiết Bị Trữ Năng Lượng Cố Định hoặc Thiết Bị Chuyển Năng Lượng sang một thiết bị khác.
+- Máy Ổn Định sẽ tạo ra một chiếc rương sau khi được ổn định bằng cách đánh vào thiết bị khi vòng tròn nằm trong vùng kiểm tra đang sáng màu xanh lam.
+- Hoa Thủy Tinh có thể xoay khi chịu ảnh hưởng từ năng lượng của Bạch Tuộc Bóng Tròn Dị Sắc, qua đó để lộ các Nền Tảng Hoa Thủy Tinh Nổi.
+- Ống Hòa Âm là một dạng câu đố liên quan đến nhiều đường ống khác nhau, với một con số hiển thị phía trên mỗi đường ống. Các đường ống phải được làm vang lên bằng Bọt Sương theo đúng thứ tự của những con số đó.
+- Bọt Sương sẽ tạo ra các gợn sóng để hoàn thành khiêu chiến Ống Hòa Âm sau khi vỡ ra.
+- Sứa Nón Khổng Lồ có thể xuất hiện cả trên mặt đất lẫn dưới nước, và việc tiến vào bên trong chúng sẽ đẩy người chơi lên cao.
+- Hạt Giống Thủy là các Hạt Giống xuất hiện ở Fontaine. Người chơi có thể thu thập Hạt Giống Thủy bằng cách đi vào chúng, và chúng sẽ duy trì trong 15 giây. Khi thu thập đủ ba Hạt Giống Thủy, chúng sẽ kết hợp để tạo thành một Hạt Nhân Thủy, liên tục áp dụng trạng thái trong một phạm vi diện rộng xung quanh người chơi.
+- Vỏ Sò Khổng Lồ sẽ để lộ vật phẩm bên trong sau khi bị đánh trúng.
+- Quả Ngọc Nước là những vật thể chứa nguyên tố Thủy, có thể bị phá hủy bằng các nguyên tố phản ứng với. Khi bị tấn công, chúng có thể phun ra các Bong Bóng có khả năng giam cầm người chơi. Sau khi vỡ, chúng thường sẽ tạo ra một Chiếc Rương.
+- Huyền Thoại Địa Phương là những kẻ địch thủ lĩnh nhỏ đặc biệt. Mười lăm trong số đó là các phiên bản cường hóa của kẻ địch thông thường hoặc kẻ địch tinh anh, với chỉ số được tăng mạnh.
+- Cơ Quan Điều Chỉnh là dạng câu đố bao gồm Bánh Răng Điều Chỉnh và Cột Điều Chỉnh.
+- Quả Cầu Năng Lượng có thể được bắn vào các vòng tròn để hoàn thành khiêu chiến bằng khả năng ngắm bắn của Bạch Tuộc Bóng Tròn Dị Sắc.
+- "Phi Thuyền Antoine Roger" Thần Kỳ là một khinh khí cầu cần Sức Mạnh Nền Tảng để khởi động. Lần vận hành đầu tiên có thể kích hoạt một sự kiện giữa chuyến đi, dẫn người chơi đến các địa điểm khác nhau.
+- Tinh Thể Đo Mực Nước là một phần của câu đố có thể được giải bằng cách liên tục áp dụng nguyên tố lên chúng.
+Dưới Nước
+- Vòng Tăng Tốc Dưới Nước giúp đẩy nhanh người chơi về phía trước khi đi qua.
+- Trận Địa Bóng Nước bắn Bong Bóng vào người chơi trong phạm vi khóa mục tiêu. Một biến thể khác có thể giúp giải ấn các rương báu thay vì tấn công.
+- Bình Đạn định kỳ gây sát thương cho người chơi khi ở gần. Sử dụng khả năng của Cua Giáp Nặng để giảm sát thương nhận vào, rồi dùng đòn phản công để phá hủy chúng.
+- Luồng Nước dẫn người chơi đến một điểm đến cụ thể. Người chơi không thể thay đổi hướng di chuyển nhưng vẫn có thể di chuyển xung quanh ở một mức độ nhất định.
+- Ốc Biển Vọng Âm giải phóng các sóng âm thanh, giúp người chơi phát hiện vật thể vô hình ở gần hoặc tìm kiếm manh mối.
+- Bộ Khuếch Đại Pneumousia áp dụng một hào quang thuộc tính tương ứng với nguyên tố của Bộ Khuếch Đại lên tất cả kẻ địch trong phạm vi. Khi còn chịu ảnh hưởng của hào quang này, chúng sẽ nhận được một số buff nhất định.
+- Bóng Trôi Nổi Thần Kỳ sẽ di chuyển khi chịu ảnh hưởng của các luồng nước áp suất cao hoặc những yếu tố tương tự. Các thiết bị vòng tròn sẽ được kích hoạt khi tiếp xúc với những quả cầu này.
+- Rong Biển là một loại Dị Chủng Biển Sâu có hình dạng giống tảo biển/rong biển. Chúng tạo ra một màn chắn hình cầu bao quanh các vật thể khác nhau.
+- Luồng Nước Áp Suất Cao Phun Trào có thể phun ra các luồng nước dưới đáy biển. Nếu người chơi có khả năng Cua Giáp Nặng từ Cua Giáp Nặng Dị Sắc, có thể tránh việc bị cuốn đi.
+- Bong Bóng Hồi Phục hồi phục Thể Lực Dưới Nước và 50% HP tối đa của mỗi nhân vật cho toàn đội.
+- Lưu Manh Đỏ Báo Thù sẽ tấn công bất kỳ thực thể nào đến gần. Chúng phải bị đánh bại cùng lúc để ngăn việc hồi phục trở lại.
+- Lươn Kỳ Lạ nhanh chóng di chuyển băng qua đáy biển. Chúng sẽ ngừng tái sinh nếu bị tấn công bằng năng lượng của Sinh Vật Dị Sắc.
+- Sinh Vật Dị Sắc là các Dị Chủng Biển Sâu mà người chơi có thể mượn năng lượng ở Fontaine để giải các câu đố dưới nước. Sinh Vật Dị Sắc sẽ không tấn công người chơi và không thể bị tiêu diệt.
+
+## Natlan
+
+Các vật thể khám phá và cơ chế giải đố sau đây chỉ xuất hiện tại Natlan:
+- Khiêu Chiến "Khí Cầu Bia Nổi"
+- Tế Đàn Lửa Nguồn
+- Vòng Khắc Cổ Xưa
+- Ấn Lá Cuộn
+- Chùm Tia Ánh Sáng
+- Monetoo
+- Graffiti Linh Hồn Vĩ Đại
+- Ấn Linh Hồn Vĩ Đại
+- Dạ Hồn Chúc Phúc
+- Vật Tổ Dạ Hồn
+- Màn Sương Nhợt Nhạt
+- Phlogiston
+- Ngọn Lửa Vĩnh Hằng (Natlan)
+- Phlogiston Thể Khí
+- Bia Khắc Ấn Phlogiston
+- Thùng Nổ Phlogiston
+- Trụ Phlogiston
+- Mồi Lửa Phlogiston
+- Phlogiston Thể Lỏng
+- Bóng Chuyển Tiếp
+- Nhập Thể Saurian
+- Cây Lựu Lửa
+- Lá Cuộn Đặc Biệt
+- Đường Linh Hồn
+- Vòng Xoáy Phun Trào
+- Khe Nứt Nóng Chảy
+- Cỗ Máy Bí Ẩn
+- Thiết Bị Nguồn
+- Khiêu Chiến Dũng Sĩ
+
+## Nod-Krai
+
+Các vật thể khám phá và cơ chế giải đố sau đây chỉ xuất hiện tại Nod-Krai:
+- Đường Nứt Vực Sâu
+- Robot Hình Ảnh Kỳ Diệu
+- Ốc Atapetra
+- Robot Dọn Dẹp
+- Kuuhenki
+- Nơi Cất Kho Báu Kuuhenki
+- Kuuvahki
+- Sóng Kuuvahki
+- Sương Mai Kuuvahki
+- Dẫn Truyền Kuuvahki
+- Môi Trường Kuuvahki Mạnh
+- Đơn Cực
+- Mandragora
+- Gương Mặt Trăng
+- Con Đường Kuuhenki
+- Đèn Lời Thề
+- Robot Trinh Sát
+- Cỏ Gợn Sóng
+- Cừu Lười
+- Chuột Chũi Khịt Khịt
+- Tượng Thần Tân Nguyệt
+- Tịch Ấn Thạch

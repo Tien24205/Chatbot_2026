@@ -1,0 +1,26 @@
+# Asmoday
+
+## Thông Tin Cơ Bản
+
+type: NPC Nhiệm Vụ
+group: Thần
+name: Asmoday
+affiliation: Bốn Chiếc Bóng
+title: Chấp Chính Của Không Gian
+title2: Người Duy Trì Thiên Lý
+voiceEN: [[imdb:nm7116087
+Christie Cate]]<ref>TikTok: [https://www.tiktok.com/@christiecatevo/video/6915945796311551237?lang: en EN VA Tự Công Bố]
+voiceCN: w|zh:陶典|Tao Dian (zh|陶典)
+voiceJP: w|Rie Kugimiya|Kugimiya Rie (ja|釘宮理恵)
+
+## Tổng Quan
+
+Asmoday là Chấp Chính Của Không Gian trong Bốn Chiếc Bóng của Thiên Lý. Cô là vị thần lạ mặt đã chia cắt hai anh em Nhà Lữ Hành trong phần mở đầu của Genshin Impact.
+
+Cô xuất hiện trong hoạt cảnh đầu game, lúc Nhà Lữ Hành kể lại cho Paimon lý do cô/cậu bị kẹt tại Teyvat. Cô tự xưng là "người duy trì thiên lý" - hiện vẫn chưa rõ ý nghĩa của danh hiệu này.
+
+## Cốt Truyện
+
+Khi Nhà Lữ Hành và anh/em định rời Teyvat, vị thần vô danh này chặn họ lại. Cô tự xưng là "Người duy trì Thiên Lý", lên án "sự kiêu ngạo của loài người" và tham chiến với anh em Nhà Lữ Hành. Triệu hồi những khối lập phương màu đỏ thẫm, cô tấn công hai người, nhốt lại và phong ấn từng người vào mỗi chùm khối lập phương.
+
+Nhà Lữ Hành chìm vào giấc ngủ sâu, trước khi tỉnh dậy sau một khoảng thời gian không xác định, mọi sức mạnh đã bị phong ấn và không có chút tung tích về người anh/em của mình. Nhà Lữ Hành không biết rằng, vào thời khắc không xác định, người anh/em ấy đã bị đưa đến một nơi xa lạ. Nơi ấy đã bị hủy hoại dưới một sức mạnh tương tự sức mạnh của Thần vô danh, nhưng không rõ nguồn cơn của nó từ đâu. Sự việc ấy khiến cho người anh/em của Nhà Lữ Hành bước lên ngôi vị tối cao và dẫn dắt Giáo Đoàn Vực Sâu.

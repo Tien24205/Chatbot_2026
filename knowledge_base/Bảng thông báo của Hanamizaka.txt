@@ -1,0 +1,235 @@
+# Bảng thông báo của Hanamizaka
+
+## Tổng Quan
+
+type: Bảng Thông Báo
+region: Inazuma
+area: Đảo Narukami
+subarea: Thành Inazuma
+
+Bảng thông báo của Hanamizaka là bảng thông báo đặt ở Hanamizaka trong Thành Inazuma. Các cáo thị thường đi theo một vòng tròn ngẫu nhiên mỗi khi được tương tác. Đợt cáo thị đầu tiên được thay thế khi Nhiệm Vụ Truyền Thuyết của Sangonomiya Kokomi, Sau Cơn Mưa Trời Lại Sáng được hoàn thành.
+
+Nó có thể được tìm thấy ở phía Đông Bắc - Bắc Điểm Dịch Chuyển ở Thành Inazuma.
+
+- Tin Nhắn (Đợt 1): Bảng thông báo của Hanamizaka: Đây là bảng thông báo Hanamizaka của Shogunate! Không nhiệm vụ miễn đưa tin không liên quan!
+
+## Quảng cáo của môi giới
+
+Quảng cáo của môi giới: "Cũng may nhờ ngài Takayuki - Hiệp Hội Tenryou Kujou suy nghĩ sâu xa, lệnh truy lùng Vision diễn ra nhanh chóng, dân nổi loạn phải bỏ nhà tháo chạy."
+Quảng cáo của môi giới: "Hôm nay sẽ bán, cho thuê giá thấp đối với nhà của những người chạy trốn. Hiệp Hội Tenryou đảm bảo đất đai, nhà cửa là an toàn và có trách nhiệm đến cùng!"
+
+## Thông báo của Xưởng Rèn Amenoma
+
+Thông báo của Xưởng Rèn Amenoma: "Thời gian gần đây do ảnh hưởng của chiến tranh, việc cung ứng Thép Ngọc sẽ bị tạm dừng."
+Thông báo của Xưởng Rèn Amenoma: "Kính mong quý khách có nhu cầu sửa chữa hay rèn vũ khí Thép Ngọc vui lòng chờ đợi."
+Thông báo của Xưởng Rèn Amenoma: "Lão phu Amenoma ta hy vọng các vị khách mới, cũ có thể lượng thứ."
+
+## Arataki Itto vs. Kujou Tengu
+
+Arataki Itto Đệ Nhất: "Tengu Kujou! Đại lão gia lại đến đây! Ngươi đang ở đâu!!"
+Arataki Itto Đệ Nhất: "Ta sẽ không bao giờ quên được mối hận bị ngươi cướp mất Vision, chỉ cần còn sống, ta nhất định sẽ tìm đến ngươi!"
+Arataki Itto Đệ Nhất: "Ngươi hãy nhớ cho ta!!"
+Trả Lời: Người dân hãy yên tâm, Hiệp Hội Tenryou nhất định sẽ trấn áp những kẻ viết bậy.
+Trả Lời: Kujou Sara đại nhân không có quan hệ gì với người này, mọi người hãy yên tâm.
+
+## Bảng thông báo của Bantan Sango
+
+Bảng thông báo của Bantan Sango: "Bantan Sango, không gì không thể!"
+Bảng thông báo của Bantan Sango: "Tìm người, tìm thú cưng, điều tra hôn nhân, điều tra tội phạm, ủy thác thương mại, vận chuyển hàng hóa, ký gửi hàng mua hộ..."
+Bảng thông báo của Bantan Sango: "Chỉ cần đưa ra mức giá phù hợp, ngay cả hải tặc Ako Domeki chúng tôi cũng bắt về cho quý khách!"
+
+## Tội phạm ở Thành Inazuma
+
+Tin Nhắn: "Vấn nạn trộm cắp đêm, cướp biển và đồ giả ngày càng phổ biến tại Inazuma"
+Tin Nhắn: "Buôn bán trái phép"
+Tin Nhắn: "Bắt giữ, lạm quyền, tự do xuất cảng"
+Tin Nhắn: "Cưỡng chế, ngăn cản, dối trên lừa dưới
+Trả Lời: Những điều kể trên là không chính xác!
+Trả Lời: Nếu phát hiện ra kẻ viết bậy, ngài Takayuki - Hiệp Hội Tenryou Kujou sẽ trừng phạt nghiêm khắc!
+
+## Thông báo của đội cứu hỏa
+
+Thông báo của đội cứu hỏa: " Nếu người dân nhìn thấy tiểu thư Yoimiya đốt pháo bừa bãi, vui lòng ra sức ngăn cản!"
+Thông báo của đội cứu hỏa: "Hoặc ít nhất là khiển trách, chứ đừng tiếp tay cho việc xấu!"
+Thông báo của đội cứu hỏa: "Đội cứu hỏa Inazuma kính mong quý vị tăng cường cảnh giác. Vô cùng cảm ơn."
+
+## Thông Báo Đền Narukami: Hỗ Trợ Lương Thực
+
+Thông Báo Đền Narukami: Được Yae Miko đại nhân cho phép, Đền Narukami sẽ hỗ trợ lương thực, tiền trợ cấp cho các hộ kinh doanh, gia đình khó khăn chịu ảnh hưởng bởi chiến tranh.,
+Thông Báo Đền Narukami: Những người có nhu cầu vui lòng mang theo giấy tờ đến nhà Kamisato làm thủ tục liên quan.
+Thông Báo Đền Narukami: Do chiến tranh liên miên, công quỹ eo hẹp nên thời gian gần đây tiền trợ cấp cho người khó khăn đã giảm xuống còn một nửa. Xin lượng thứ.
+Tin Nhắn: "Đều là tin lừa đảo! Ngày hôm qua xếp hàng đến lượt thì cô gái đó liền bảo tôi là hết rồi!"
+Tin Nhắn: "Kho lương thực của Hiệp hội Yashiro còn rất nhiều chứ nhỉ? Yae Miko đại nhân chớ bị đám quan liêu lừa!!"
+Thông Báo Đền Narukami: Vô cùng cảm ơn, chi bằng cùng nhau cầu nguyện cho chiến tranh mau kết thúc, mọi việc sẽ quay về bình thường.
+Tin Nhắn: "Chút lời có ích cũng không biết nói."
+
+## Tìm việc của Higi Hirotaka
+
+Tin Nhắn: "Higi Hirotaka, nam, 35 tuổi. Một võ sĩ đã nghỉ hưu, làm thợ mỏ, mạnh mẽ, chăm chỉ."
+Tin Nhắn: "Chưa từng nhiễm bệnh, cơ thể khỏe mạnh! Cần một công việc có thể nuôi sống bốn miệng ăn."
+Tin Nhắn: "Công việc từ 6 giờ sáng đến 8 giờ tối, gặp mặt để biết thêm thông tin chi tiết!"
+Trả Lời: Bến tàu đảo Ritou đã tuyển được người, thông tin này có thể xóa được rồi.
+
+## Tin nhắn của Hiratsuka
+
+Hiratsuka của Nhà Xuất Bản Yae: "Tuy không phải việc lớn nhưng mong rằng mọi người đều hiểu rõ."
+Hiratsuka của Nhà Xuất Bản Yae "Bản duy nhất còn sót lại của quyển "Câu Chuyện Hẻm Ibis" nổi tiếng đó đã bị tôi làm mất rồi."
+Hiratsuka của Nhà Xuất Bản Yae: "Tuy sự việc không lớn nhưng Yae đại nhân bắt tôi đi khắp nơi in thông báo tìm sách, thật đau đầu mà."
+Hiratsuka của Nhà Xuất Bản Yae: "Nghĩ lại thì cuốn sách đó cũng có phần tội nghiệp, chắc giờ bị gió thổi bay khắp nơi rồi... Muốn tìm lại cũng khó quá mà."
+Hiratsuka của Nhà Xuất Bản Yae: "Tuy không phải là việc lớn, nhưng nếu có người giúp đỡ tìm lại được cuốn sách thì Nhà Xuất Bản Yae sẽ vô cùng biết ơn."
+
+## Quảng cáo của "Nhà Hàng Kiminami"
+
+Quảng cáo của "Nhà Hàng Kiminami": "Nhà Hàng Kiminami chỉ cung cấp đồ ăn tươi và chính hiệu Inazuma!"
+Quảng cáo của "Nhà Hàng Kiminami": "Tất cả quý khách đến nhà hàng chúng tôi, sẽ được ngắm nhìn nụ cười của tiểu thư Anna!"
+Quảng cáo của "Nhà Hàng Kiminami": "Hãy để nụ cười ngọt ngào ấy, mang đến cho quý khách một ngày mới tốt lành!"
+Tin Nhắn: "Đây chắc hẳn là dùng nụ cười để thúc đẩy doanh số bán hàng đây mà..."
+
+## Hải tặc ở Inazuma
+
+Tin Nhắn: "Nghe nói vì vấn nạn hải tặc, lại xuất hiện một lô hàng bị mắc kẹt ở đảo Ritou."
+Tin Nhắn: "Thật là điên rồ, từ khi cuộc nổi loạn của hải tặc Ako Domeki kết thúc, đã vài trăm năm rồi chưa từng thấy hải tặc hoạt động trở lại."
+Tin Nhắn: "Lệnh bế quan tỏa cảng càng khiến cho tình trạng buôn lậu và cướp bóc trên biển xuất hiện trở lại..."
+Tin Nhắn: "Nếu đây là ý của Ogosho điện hạ... thì suy nghĩ của thần linh con người khó mà đoán biết được."
+Trả Lời: Tốt nhất ngài đừng đoán nữa.
+
+## Thông Báo Của Tenryou: Chống lại quân nổi dậy
+
+Thông Báo Của Tenryou: Cuộc chiến với quân nổi dậy hiện đang được khai triển ở nhiều nơi, chỉ cần một đòn đánh cuối cùng là có thể dẹp được toàn bộ đám phản loạn!
+Thông Báo Của Tenryou: Mong các vị võ sĩ đồng tâm hợp lực, xây dựng đại nghiệp!
+Thông Báo Của Tenryou: Mau đi đầu quân đi! Để không phải hối hận lúc hòa bình vì đã không đóng góp được gì cho đất nước!
+Thông Báo Của Tenryou: Tất cả những việc liên quan đến đầu quân vui lòng đến Sở Trị An tìm hiểu.
+Thông Báo Của Tenryou: Xin chú ý! Các gia đình đã nhận được giấy tham gia nghĩa vụ quân sự phải đưa ra danh sách ít nhất bao gồm một người trưởng thành trong độ tuổi thích hợp!
+Tin Nhắn: "Đòn đánh cuối cùng này đã kéo dài hơn ba tháng rồi nhỉ... Sao mà vẫn chưa thấy quân làm loạn bị dọn sạch cơ chứ?"
+Thông Báo Của Tenryou: Người chưa đầu quan, không có tư cách bình xét những binh sĩ ở tiền tuyến! Nhờ có sự bảo vệ của họ, các người mới có thời gian mà đứng đây tán chuyện!
+Tin Nhắn: "Lão già tôi không thể tham gia chiến trường, cũng rất cảm ơn sự công hiến của những người trẻ... Thế nhưng đến nay, ba người con của lão vẫn chưa quay trở về."
+Tin Nhắn: "Cũng mong đại nhân của Hiệp Hội Tenryou cho con của lão phu xin nghỉ phép về nhà vài hôm, để lão phu không còn gì hối tiếc."
+Thông Báo Của Tenryou: Xin hãy lượng thứ. Ai cũng có người nhà ở tiền tuyến và ai cũng bất an, thế nhưng xin hãy cố gắng thêm một thời gian nữa, thắng lợi nhất định sẽ đến.
+Tin Nhắn: "Hy vọng như vậy, hy vọng như vậy..."
+Thông Báo Của Tenryou: Thông báo tuyển binh không được viết bậy! Nếu còn phát hiện, sẽ bị phạt nặng!
+
+## Thông Báo Của Tenryou: Kẻ Ngoại Quốc
+
+Thông Báo Của Tenryou: Gần đây, có kẻ ngoại quốc nhập cảnh vào Inazuma. Hắn lang thang rất nhiều nơi, chắc hẳn có ý đồ xấu.
+Thông Báo Của Tenryou: Shogunate thông báo: Ban thưởng cho những ai tố cáo kẻ khả nghi; nếu cố ý che giấu sẽ bị trừng trị!
+Thông Báo Của Tenryou: Shogun Trường Tồn, Vĩnh Hằng Bất Diệt.
+
+## Thông báo của Xưởng Rèn Amenoma 2
+
+Thông báo của Xưởng Rèn Amenoma: Do thỏa thuận giữa Shogunate và Sangonomiya, chuỗi cung ứng Thép Ngọc đã bị đình trệ.
+Thông báo của Xưởng Rèn Amenoma: Ngày tháng còn dài, có lẽ chính sách sẽ còn thay đổi...
+Thông báo của Xưởng Rèn Amenoma: Kính mong quý khách có nhu cầu sửa chữa hay rèn vũ khí Thép Ngọc vui lòng chờ đợi.
+Thông báo của Xưởng Rèn Amenoma: Lão phu Amenoma ta hy vọng các vị khách mới, cũ có thể lượng thứ.
+
+## Arataki Itto vs. Kujou Tengu 2
+
+Arataki "Nam Tử Hán" Itto: "Tengu Kujou!! Ta thấy giao lộ Hanamizaka rất thích hợp để đấu vật, ngươi ở đâu!!!"
+Arataki "Nam Tử Hán" Itto: "Quân sự, chính sự hãy vứt hết qua một bên!! Mau đến giao đấu với ta! Vinh dự của samurai làm rớt trên chiến trường hết rồi à??"
+Tin Nhắn: "Nhắc đến mới nhớ, từ sau khi bế quan tỏa cảng, đã không còn thấy biểu diễn đấu vật công khai trên đường phố rồi.."
+Another Person's Tin Nhắn: "Kujou Sara đại nhân, xin hãy chấp nhận lời thách đấu của Arataki! Chúng tôi cũng rất muốn được chiêm ngưỡng thực lực của ngài!"
+Trả Lời: Đây chỉ là một hành động quấy nhiễu mà thôi, xin các cư dân đừng hùa theo phần tử lưu manh mà làm ảnh hưởng đến người thi hành công vụ.
+Trả Lời: Kujou Sara đại nhân đã khẳng định, cô ấy và người này không có quan hệ gì!
+
+## Arataki Itto và Kuki Shinobu
+
+Tin Nhắn: "Các bạn nhỏ và phụ huynh ở trong ngoài thành, nếu có bị một Xích Quỷ sừng dài ức hiếp, mất đồ chơi, thẻ bài, Onikabuto, thức ăn vặt, sách tranh ảnh v.v"
+Tin Nhắn: "Hãy đến Hanamizaka tìm Kuki Shinobu, tôi sẽ cố gắng tìm về đầy đủ...Đương nhiên, nếu đã bị làm hỏng hoặc bị ăn mất thì tại hạ cũng đành bó tay."
+Arataki "Kẻ Thắng Làm Vua" Itto: "Này này, Shinobu, ngươi lại quá thương hại kẻ bại trận rồi!"
+Arataki "Kẻ Thắng Làm Vua" Itto: "Đây là chiến lợi phẩm, chiến lợi phẩm đó! Ta đã vất vả giành được mới chia cho ngươi, không phải để ngươi đem trả lại cho kẻ yếu!!"
+Tin Nhắn: "Vậy sao? Lần sau anh bị cô nàng Tengu đó đánh bầm dập, thì tôi cũng không vác anh về nữa đâu."
+Arataki "Bất Bại" Itto: "Cái tên này sao lại vậy chứ!"
+Tin Nhắn: "Chính nhờ anh, mà bây giờ tôi quen thuộc với từng Lính Tuần Tra của Sở Trị An luôn này..."
+Arataki "Không Ngồi Bóc Lịch" Itto: "Ta đâu có nhờ ngươi rước ta ra! Còn cái thư bảo lãnh giám định tâm thần kia nữa, ngươi đang bôi tro trét trấu vô mặt ta sao!!!"
+Thông Báo Của Tenryou: Nhờ cư dân tố cáo, hai kẻ vẽ bậy trên bảng thông báo đã bị bắt giữ.
+Thông Báo Của Tenryou: Tuy đều là chỗ quen biết, nhưng xin hãy biết điều một chút.
+
+## Bảng thông báo của Bantan Sango
+
+Bảng thông báo của Bantan Sango: "Bantan Sango, không gì không thể!"
+Bảng thông báo của Bantan Sango: "Tìm người, tìm thú cưng, điều tra hôn nhân, điều tra tội phạm, ủy thác thương mại, vận chuyển hàng hóa, ký gửi hàng mua hộ...""
+Bảng thông báo của Bantan Sango: "Chỉ cần đưa ra mức giá phù hợp, ngay cả hải tặc Ako Domeki chúng tôi cũng bắt về cho quý khách!"
+Bảng thông báo của Bantan Sango: "Nhân tiện, xin các vị đừng tin vào cái tên Heizou tự xưng là "thám tử" đó! Tên này thường xuyên đi lừa bịp đấy!!"
+Tin Nhắn: "Có phải đây là cái gọi là "kẻ cùng nghề thì không coi nhau ra gì" không...?"
+Bantan Sango Trả Lời: "Ai cùng nghề với tên đó chứ!"
+
+## Hôn Lễ Bị Hoãn
+
+Thông báo của Shogunate: Thông báo trước đó về việc kết hôn của Kujou Kamaji đại nhân và Hiiragi Chisato đại nhân là do sự nhầm lẫn của nội bộ Hiệp Hội Kanjou
+Thông báo của Shogunate: Rất xin lỗi vì đã gây ra sự hỗn loạn và hiểu lầm này.
+Thông báo của Shogunate: Kẻ liên quan đã phải chịu hình phạt nghiêm khắc, nội bộ Shogunate một lần nữa mong người dân thông cảm cho sự bất tiện này.
+Thông báo của Shogunate: Hôn lễ của hai vị đại nhân sẽ được hoãn lại, thời gian cụ thể sẽ được thông báo sau.
+
+## Thông báo của đội cứu hỏa
+
+Thông báo của đội cứu hỏa: " Nếu người dân nhìn thấy tiểu thư Yoimiya đốt pháo bừa bãi, vui lòng ra sức ngăn cản!"
+Thông báo của đội cứu hỏa: "Hoặc ít nhất là khiển trách, chứ đừng tiếp tay cho việc xấu!"
+Thông báo của đội cứu hỏa: "Hoặc ít nhất là không nhận pháo hoa cô ấy phát cũng được!"
+Thông báo của đội cứu hỏa: "Đội cứu hỏa Inazuma kính mong quý vị tăng cường cảnh giác. Vô cùng cảm ơn."
+
+## Thông Báo Đền Narukami: Tư Vấn Hậu Chiến
+
+Thông Báo Đền Narukami: Những samurai giải ngũ trở về có thể đến Hiệp Hội Yashiro để nhận trợ cấp, đăng ký nguyện vọng nghề nghiệp..
+Thông Báo Đền Narukami: Ngoài ra, Đền Narukami sẽ tổ chức một buổi giao lưu cho những samurai đã tham chiến cũng như gia đình của họ, nhằm an ủi phần nào nỗi đau mà cuộc chiến đem lại.
+
+## Tin nhắn của Hiratsuka
+
+Hiratsuka của Nhà Xuất Bản Yae: "Tuy không phải việc lớn nhưng mong rằng mọi người đều hiểu rõ."
+Hiratsuka của Nhà Xuất Bản Yae "Bản duy nhất còn sót lại của quyển "Câu Chuyện Hẻm Ibis" nổi tiếng đó đã bị tôi làm mất rồi."
+Hiratsuka của Nhà Xuất Bản Yae: "Tuy sự việc không lớn nhưng Yae đại nhân bắt tôi đi khắp nơi in thông báo tìm sách, thật đau đầu mà."
+Hiratsuka của Nhà Xuất Bản Yae: "Nghĩ lại thì cuốn sách đó cũng có phần tội nghiệp, chắc giờ bị gió thổi bay khắp nơi rồi... Muốn tìm lại cũng khó quá mà."
+Hiratsuka của Nhà Xuất Bản Yae: "Tuy không phải là việc lớn, nhưng nếu có người giúp đỡ tìm lại được cuốn sách thì Nhà Xuất Bản Yae sẽ vô cùng biết ơn."
+
+## Quảng cáo của "Nhà Hàng Kiminami"
+
+Quảng cáo của "Nhà Hàng Kiminami": "Nhà Hàng Kiminami chỉ cung cấp đồ ăn tươi và chính hiệu Inazuma!"
+Quảng cáo của "Nhà Hàng Kiminami": "Tất cả quý khách đến nhà hàng chúng tôi, sẽ được ngắm nhìn nụ cười của tiểu thư Anna!"
+Quảng cáo của "Nhà Hàng Kiminami": "Hãy để nụ cười ngọt ngào ấy, mang đến cho quý khách một ngày mới tốt lành!"
+Tin Nhắn: "Đây chắc hẳn là dùng nụ cười để thúc đẩy doanh số bán hàng đây mà..."
+
+## Làng Konda: Xin giúp đỡ
+
+Tin Nhắn: "Làng Konda đang có một cánh đồng thuốc nhuộm lớn đang cần trồng lại, nhân lực hiện tại đang eo hẹp, mong là những thanh niên trong thành có thể ra tay giúp đỡ.."
+Tin Nhắn: "Tuy hiện giờ làng Konda không giàu có gì cho cam, nhưng chỉ cần chịu thương chịu khó, Konda Densuke tôi bảo đảm sẽ trả thù lao hậu hĩnh!"
+Tin Nhắn: "Ai có gia đình cũng có thể đưa người nhà đến đây, bao ăn bao ở, tăng thêm dân số cho làng mạc!"
+Tin nhắn của một người khác: "Trưởng thôn à, thay vì quảng cáo như thế này, chi bằng mở một tour du lịch có thu phí không chừng còn hay hơn đó."
+Tin Nhắn: "Bớt bớt đi, chỉ mưu mô là giỏi thôi! Sao có thể lấy tiền của người ta được chứ!"
+
+## Đảo Seirai
+
+Tin Nhắn: "Đảo Seirai lại xuất hiện hải tặc, trước kia, vì chiến tranh mà kế hoạch tái thiết của đại nhân Hiệp Hội Yashiro cứ bị trì hoãn hết lần này đến lần khác...
+Tin Nhắn: "May mà bây giờ chiến tranh đã kết thúc, Đền Asase bên đó cũng đã đến lúc tu sửa lại rồi."
+Tin Nhắn: "Chỉ là không rõ, qua mấy trăm năm, con cháu của đảo Seirai có còn ấn tượng gì về cố hương..."
+
+## Tin Nhắn Của Shimura Kanbei
+
+Tin Nhắn: "Hỡi những bằng hữu sarumai, "Nhà Hàng Shimura" luôn mở rộng cửa đón chào các bạn!!"
+Tin Nhắn: "Thất nghiệp cũng không sao, thất tình cũng đừng buồn, có ưu phiền gì cứ đến làm vài ly!"
+Tin Nhắn: "Lão phu Shimura Kanbei chờ đón bạn!"
+
+## Thông báo của Shogunate
+
+Thông báo của Shogunate: Trước nhiều thảm kịch đã xảy ra ở Tatarasuna và Đảo Yashiori vào thời kỳ chiến tranh, Ogosho điện hạ và Thánh Pháp Sư của Watatsumi đều cảm thấy vô cùng đau xót.
+Thông báo của Shogunate: Từ nay về sau, Shogunate và Sangonomiya sẽ bắt tay nhau cố gắng xây dựng lại các vùng đất, sau đó bàn bạc về việc hợp tác phát triển.
+Thông báo của Shogunate: Chiến tranh đã chấm dứt, tội đồ đã bị trừng trị, đây đúng là điều may mắn của đất nước Inazuma.
+Thông báo của Shogunate: Chúng ta từ đây càng nên hướng theo thần uy và trí tuệ của Shogun điện hạ, phối hợp hài hòa, từ đó tác thành đại nghiệp "vĩnh hằng".
+
+## Thông báo của Shogunate 2
+
+Thông báo của Shogunate: Người dân xin hãy bình tĩnh, công tác bảo vệ an toàn của Tenryou và việc phòng thủ của Thiên Thủ Các đã chuyển giao ổn thỏa cho đại nhân Kujou Sara quản lý.
+Thông báo của Shogunate: Kujou Takayuki vô cùng hiếu chiến, tước đoạt Vision, mượn cớ bóc lột, thu thuế dân chúng, gây rối loạn xã hội, những hành vi này, nay sẽ được xử lý gọn gàng!
+
+## Thông Báo Của Tenryou: Kujou Takayuki
+
+Thông Báo Của Tenryou: Kujou Takayuki ở Hiệp Hội Tenryou do phạm phải vô số tội lỗi như không làm tròn chức trách, tham ô, gây tổn hại quốc dân...nay bị bãi nhiệm, chờ ngày trị tội.
+Thông Báo Của Tenryou: Do tuổi đã cao và lập được nhiều thành tích, tạm giam giữ vô thời hạn, không được bảo lãnh.
+Thông Báo Của Tenryou: Nếu còn tái phạm, sẽ xử tử hình, không được khoan dung.
+Thông Báo Của Tenryou: Hiệp Hội Tenryou vẫn đang bàn về việc cải cách Hội Quán, trước khi ấn định, chức vụ sẽ do người mà Ogosho điện hạ chỉ định gánh vác.
+Thông Báo Của Tenryou: Chức vị của Doushin và Yoriki không thay đổi, tổng giám sẽ chuyển cho đại nhân Kujou Sara thống lĩnh.
+
+## Quảng Cáo Của Nhà Xuất Bản Yae
+
+Quảng Cáo Của Nhà Xuất Bản Yae: Tác phẩm "Trầm Thu Thập Kiếm Lục" phiên bản bìa sơn mài với chữ ký của tác giả Zhenyu nổi tiếng ở Liyue đang được mở bán rầm rộ!!
+Quảng Cáo Của Nhà Xuất Bản Yae: Mua ngay bây giờ, sẽ có cơ hội được tặng tuyển tập đặc biệt và huy hiệu nhân vật đẹp mắt!!
+Tin Nhắn: "Về nhà tìm cả buổi tối vẫn không thấy...nên đến đây để hỏi: Xin hỏi chữ ký của tác giả nằm ở đâu?."
+Quảng Cáo Của Nhà Xuất Bản Yae: *Lưu ý đặc biệt: Chữ ký của tác giả rồng bay phượng múa, không nhìn kỹ rất dễ lẫn lộn với hoa văn trên nắp hộp.
+Tin Nhắn: "Các tác giả nổi tiếng bây giờ đều không luyện viết chữ sao..."
