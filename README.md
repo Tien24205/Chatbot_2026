@@ -19,8 +19,8 @@ và đo được.
 - **Mọi hằng số đều đo mà ra**, không chép từ tutorial — kèm số liệu và lý do
   trong tài liệu.
 
-Chi tiết kỹ thuật: [CHONG_HALLUCINATION_VA_GRAPH.md](CHONG_HALLUCINATION_VA_GRAPH.md)
-Nhật ký thiết kế và các bẫy đã vấp: [chatbot_rag_plan.md](chatbot_rag_plan.md)
+Chi tiết kỹ thuật: [docs/CHONG_HALLUCINATION_VA_GRAPH.md](docs/CHONG_HALLUCINATION_VA_GRAPH.md)
+Nhật ký thiết kế và các bẫy đã vấp: [docs/chatbot_rag_plan.md](docs/chatbot_rag_plan.md)
 
 ---
 
@@ -203,31 +203,47 @@ chỉ còn là REST API (tài liệu tự sinh ở `/docs`), không phục vụ 
 
 ## Cấu trúc
 
-```text
-rag/
-├── config.py     Đọc .env, neo mọi đường dẫn theo vị trí file
-├── loader.py     Đọc + làm sạch (NFC, LF, BOM, zero-width)
-├── chunker.py    Cắt theo tiêu đề `##` trước, kích thước sau
-├── embedder.py   Gemini embedding — CHUẨN HOÁ LẠI vector + tách task_type
-├── store.py      pgvector: lưu, tìm, kiểm tra khớp số chiều
-├── graph.py      Đồ thị tri thức: trích thực thể, cạnh, đi đa bước
-├── prompt.py     System prompt (8 quy tắc) + ghép ngữ cảnh + trích dẫn
-├── verify.py     Lớp 3-4: kiểm chứng tất định, không gọi API
-├── retry.py      Thử lại khi 429, đọc đúng thời gian chờ Google đề nghị
-├── pipeline.py   Ghép toàn tuyến: truy hồi → ngưỡng → LLM → kiểm chứng
-│
-│  Dùng chung, gom về đây để không còn bản chép:
-├── gemini.py     Một client Gemini duy nhất cho cả embedder lẫn pipeline
-├── text.py       Regex/hằng số đọc tiếng Việt (tiêu đề, gạch đầu dòng, chữ HOA)
-└── checks.py     Khung check()/report() cho 01, 05, 07
+Thư mục gốc chỉ chứa **script đánh số theo bước** (chạy trực tiếp) và cấu hình.
+Mọi thứ khác đã gom vào thư mục con.
 
-streamlit_app.py  Giao diện chat (Streamlit), gọi thẳng rag.pipeline
-api.py            REST API thuần: /api/chat, /api/health, /api/graph
-09_fetch_fandom.py Tải + chuyển đổi knowledge base từ wiki Fandom (không tốn API)
-knowledge_base/   1.123 tài liệu cào từ wiki Genshin tiếng Việt (2.848 chunk)
-init.sql          Schema pgvector — số chiều 1536 có lý do, đọc chú thích
-pyproject.toml    Chỉ chứa cấu hình ruff, dự án không đóng gói
+```text
+00_smoke_test.py … 09_fetch_fandom.py   Mười bước, chạy theo thứ tự
+streamlit_app.py    Giao diện chat, gọi thẳng rag.pipeline
+api.py              REST API thuần: /api/chat, /api/health, /api/graph
+
+rag/                Thư viện — không script nào ở đây chạy trực tiếp
+├── config.py       Đọc .env, neo mọi đường dẫn theo vị trí file
+├── loader.py       Đọc + làm sạch (NFC, LF, BOM), quét cả thư mục con
+├── chunker.py      Cắt theo tiêu đề `##` trước, kích thước sau
+├── embedder.py     Chọn backend: Gemini API hoặc chạy trên máy
+├── local_embed.py  multilingual-e5-base — không hạn mức, không cần key
+├── store.py        pgvector: lưu, tìm, kiểm tra khớp số chiều
+├── graph.py        Đồ thị tri thức: trích thực thể, cạnh, đi đa bước
+├── prompt.py       System prompt (8 quy tắc) + ghép ngữ cảnh + trích dẫn
+├── verify.py       Lớp 3-4: kiểm chứng tất định, không gọi API
+├── retry.py        Thử lại khi 429, đọc đúng thời gian chờ Google đề nghị
+├── pipeline.py     Ghép toàn tuyến: truy hồi → ngưỡng → LLM → kiểm chứng
+│
+│   Dùng chung, gom về đây để không còn bản chép:
+├── gemini.py       Một client Gemini duy nhất cho cả embedder lẫn pipeline
+├── text.py         Regex/hằng số đọc tiếng Việt (tiêu đề, gạch đầu dòng, chữ HOA)
+└── checks.py       Khung check()/report() cho 01, 05, 07
+
+knowledge_base/     1.123 tài liệu wiki Genshin → 2.848 chunk
+├── thanh_di_vat/   274      ├── nhan_vat/    129      ├── cot_truyen/  33
+├── vu_khi/         232      ├── dia_diem/     47      ├── khac/        14
+├── npc/            204      ├── he_thong/    183      └── nguyen_to/    7
+└── _manifest.json  URL gốc + liên kết wiki của từng trang (ghi nguồn CC BY-SA)
+
+docs/               chatbot_rag_plan.md, CHONG_HALLUCINATION_VA_GRAPH.md
+init.sql            Schema pgvector — số chiều phải khớp EMBED_DIMENSION
+pyproject.toml      Chỉ chứa cấu hình ruff, dự án không đóng gói
 ```
+
+Thư mục con của `knowledge_base/` **không đổi `source_name`** — nó vẫn là tên file,
+nên khoá `(source_name, chunk_index)` giữ nguyên và sắp xếp lại **không bắt phải
+embed lại**. Đổi lại, tên file phải duy nhất trên toàn cây; `loader.py` kiểm tra
+và báo lỗi nếu trùng, vì trùng thì hai tài liệu sẽ ghi đè nhau âm thầm.
 
 Kiểm tra mã trước khi commit (cần `requirements-dev.txt`):
 
