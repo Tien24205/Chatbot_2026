@@ -33,6 +33,8 @@ QUY TẮC BẮT BUỘC:
 3. Ngữ cảnh liên quan tới chủ đề KHÔNG có nghĩa là nó chứa câu trả lời. Ví dụ, nếu
    được hỏi "nhân vật nào mạnh nhất" mà ngữ cảnh chỉ mô tả cơ chế chiến đấu chứ
    không xếp hạng sức mạnh, hãy nói rằng tài liệu không xếp hạng — đừng tự suy ra.
+   Quy tắc này có đúng HAI ngoại lệ: câu so sánh (quy tắc 5) và câu đếm/cộng từ
+   dữ kiện có sẵn (quy tắc 8).
 
 4. Danh sách trong ngữ cảnh thường chỉ thuộc MỘT PHẠM VI HẸP — phải nêu rõ phạm vi
    đó theo nhãn nguồn của đoạn. Ví dụ: đoạn lấy từ trang Hỏa liệt kê các phản ứng
@@ -54,16 +56,26 @@ QUY TẮC BẮT BUỘC:
    "Dựa trên ngữ cảnh...". Đi thẳng vào câu trả lời.
 
 7. Không bịa số liệu. Nếu ngữ cảnh ghi "160 Nguyên Thạch" thì dùng đúng con số đó;
-   nếu không có con số, đừng đưa ra con số nào. Cũng không tự cộng hay đếm để tạo
-   ra con số mới: hỏi "có bao nhiêu X" mà tài liệu chỉ liệt kê chứ không nêu tổng
-   thì nói tài liệu không nêu tổng, rồi liệt kê những gì có kèm phạm vi (quy tắc 4).
+   nếu không có con số, đừng đưa ra con số nào.
 
-8. Nếu ngữ cảnh có nhiều đối tượng cùng khớp, hãy nêu rõ từng đối tượng riêng thay
+8. NGOẠI LỆ thứ hai của quy tắc 3 — câu hỏi ĐẾM, CỘNG, "có bao nhiêu", "tối đa
+   bao nhiêu": đếm một danh sách CÓ SẴN trong ngữ cảnh không phải là suy diễn.
+   Nếu ngữ cảnh chứa đủ danh sách hoặc dữ kiện để đếm/cộng ra đáp án thì PHẢI
+   trả lời, không được từ chối. Kết luận viết thành câu riêng, theo ĐÚNG khuôn:
+   "Suy ra từ [1][2]: 9 + 2 + 2 = 13 loại."
+   - Phép đếm/phép tính phải lộ ra trong câu; từng số hạng, từng dữ kiện phải nằm
+     trong chính các đoạn được dẫn.
+   - Không bao giờ trình bày kết luận suy ra như thể tài liệu viết sẵn nó.
+   - Chỉ từ chối khi danh sách trong ngữ cảnh KHÔNG trọn vẹn cho phạm vi được hỏi;
+     ngữ cảnh chỉ có danh sách của một phạm vi hẹp (quy tắc 4) thì nói rõ giới hạn
+     đó, không đếm bù bằng kiến thức ngoài.
+
+9. Nếu ngữ cảnh có nhiều đối tượng cùng khớp, hãy nêu rõ từng đối tượng riêng thay
    vì gộp chung thành một câu trả lời. Ví dụ: Kiếm Đen và Kiếm Sắt Đen là hai vũ
    khí khác nhau tên gần trùng — hỏi về "kiếm đen" mà ngữ cảnh có cả hai thì phải
    tách bạch từng thanh.
 
-9. Mỗi câu nêu thông tin phải kèm chỉ số đoạn đã lấy thông tin đó, dạng [1], [2].
+10. Mỗi câu nêu thông tin phải kèm chỉ số đoạn đã lấy thông tin đó, dạng [1], [2].
    Chỉ dùng đúng những chỉ số có trong ngữ cảnh. Không gộp kiểu [1-3], không bịa
    thêm chỉ số. Câu dẫn dắt hoặc câu kết luận chung thì không cần chỉ số."""
 
@@ -92,6 +104,11 @@ Quy tắc:
 - Một khẳng định chỉ "được chứng minh" khi ngữ cảnh nói đúng điều đó, không phải
   khi ngữ cảnh nói điều gần giống hoặc cho phép suy ra.
 - Diễn đạt lại bằng từ khác vẫn tính là được chứng minh.
+- NGOẠI LỆ — câu theo khuôn "Suy ra từ [n]: ...": đây là kết luận suy ra CÓ ĐÁNH
+  DẤU, không phải trích dẫn. Nó được chứng minh khi và chỉ khi (a) mọi dữ kiện,
+  mọi số hạng nó dùng đều có trong NGỮ CẢNH, và (b) phép đếm/cộng/so sánh đó
+  đúng — hãy tự đếm hoặc tính lại từ ngữ cảnh để kiểm tra. Vi phạm (a) hoặc (b)
+  thì liệt kê nó như khẳng định chưa được chứng minh.
 
 NGỮ CẢNH:
 {context}
@@ -115,8 +132,12 @@ def build_context(hits: list[SearchHit]) -> str:
     for i, h in enumerate(hits, 1):
         # Ghi rõ đoạn nào đến từ đồ thị: nó có điểm similarity thấp một cách bình
         # thường (được chọn vì quan hệ, không vì giống câu hỏi), nên nếu không chú
-        # thích thì con số 0.4x nằm cạnh các đoạn 0.7x trông như lỗi.
-        via = " · bổ sung qua đồ thị tri thức" if h.via == "graph" else ""
+        # thích thì con số 0.4x nằm cạnh các đoạn 0.7x trông như lỗi. Đoạn nạp
+        # theo trọn trang (via="doc") cũng vậy — điểm 0.0 của nó không phải lỗi.
+        via = {
+            "graph": " · bổ sung qua đồ thị tri thức",
+            "doc": " · cùng trang với đoạn liên quan nhất",
+        }.get(h.via, "")
         blocks.append(
             f"[{i}] (nguồn: {h.source_name} · mục: {h.section} · "
             f"độ liên quan: {h.similarity:.3f}{via})\n"
@@ -126,7 +147,10 @@ def build_context(hits: list[SearchHit]) -> str:
 
 
 def build_user_message(
-    question: str, hits: list[SearchHit], graph_notes: list[str] | None = None
+    question: str,
+    hits: list[SearchHit],
+    graph_notes: list[str] | None = None,
+    doc_note: str = "",
 ) -> str:
     """
     Ghép ngữ cảnh + quan hệ từ đồ thị + câu hỏi.
@@ -144,6 +168,11 @@ def build_user_message(
             "QUAN HỆ RÚT TỪ CẤU TRÚC TÀI LIỆU (dùng để đối chiếu, không phải nguồn "
             "để trích dẫn):\n" + "\n".join(f"- {n}" for n in graph_notes)
         )
+    if doc_note:
+        # Nhét vào USER message chứ không chỉ dựa vào quy tắc 8 trong system
+        # prompt: đo được model nhỏ vẫn buột câu từ chối thuộc lòng của quy tắc 2
+        # cho câu đếm, dù ngữ cảnh chứa đủ mọi danh sách và quy tắc 8 đã cho phép.
+        parts.append(doc_note)
     parts.append(f"{'=' * 60}\n\nCÂU HỎI: {question}")
     return "\n\n".join(parts)
 
@@ -166,6 +195,11 @@ def citations(hits: list[SearchHit], min_similarity: float) -> list[str]:
     """
     seen, out = set(), []
     for h in hits:
+        # Chunk nạp theo trọn trang (via="doc") KHÔNG thành nguồn trích: chúng là
+        # ngữ cảnh phụ cho phép đếm, còn tài liệu gốc đã có mặt qua hit vector rồi.
+        # Liệt kê cả chục mục cùng một trang làm "nguồn" chỉ gây nhiễu.
+        if h.via == "doc":
+            continue
         if h.via != "graph" and h.similarity < min_similarity and out:
             break
         label = f"{h.source_name} · {h.section}"

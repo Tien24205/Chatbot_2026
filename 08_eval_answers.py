@@ -66,6 +66,18 @@ def judge(q: dict, ans) -> tuple[bool, str]:
     if ans.refused:
         return False, f"bỏ sót (điểm cao nhất {ans.top_similarity:.3f} < τ)"
 
+    if q["type"] == "suy_luan":
+        # Chấm theo NỘI DUNG chứ không chỉ theo nguồn: đáp án suy luận (con số
+        # đếm được, tên rút ra) phải xuất hiện trong câu trả lời. So sánh không
+        # phân biệt hoa thường; con số thì so nguyên chuỗi ("13" khớp "13").
+        missing = [s for s in q["expect_contains"] if s.lower() not in ans.text.lower()]
+        if missing:
+            return False, f"thiếu đáp án {missing} trong câu trả lời"
+        expect = set(q.get("expect_any_source", []))
+        if expect and not (sources & expect):
+            return False, f"đáp án đúng nhưng trích {sorted(sources)}, kỳ vọng {sorted(expect)}"
+        return True, f"đủ {q['expect_contains']}, trích {', '.join(sorted(sources)) or '—'}"
+
     if q["type"] == "ambiguous":
         expect = set(q.get("expect_any_source", []))
         if not expect or sources & expect:
@@ -82,12 +94,18 @@ def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--limit", type=int, default=6, help="số câu hỏi (mặc định 6, giữ hạn mức)")
     ap.add_argument("--all", action="store_true", help="chạy toàn bộ bộ câu hỏi")
-    ap.add_argument("--graph", action="store_true", help="chỉ chạy nhóm câu so sánh chéo game")
+    ap.add_argument("--graph", action="store_true", help="chỉ chạy nhóm câu so sánh")
+    ap.add_argument("--reasoning", action="store_true", help="chỉ chạy nhóm câu suy luận")
     args = ap.parse_args()
 
     data = json.loads(QUESTIONS_FILE.read_text(encoding="utf-8"))
-    pool = data["questions_graph"] if args.graph else data["questions"]
-    questions = pool if (args.all or args.graph) else pick(pool, args.limit)
+    if args.graph:
+        pool = data["questions_graph"]
+    elif args.reasoning:
+        pool = data["questions_reasoning"]
+    else:
+        pool = data["questions"]
+    questions = pool if (args.all or args.graph or args.reasoning) else pick(pool, args.limit)
 
     print("=" * 74)
     print("MILESTONE 6 — ĐÁNH GIÁ CÂU TRẢ LỜI")
@@ -124,6 +142,8 @@ def main() -> None:
             print(f"      [{mark}] {reason}  ({wall} ms)")
             if ans.graph_expanded:
                 print(f"             đồ thị bổ sung {ans.graph_expanded} đoạn")
+            if ans.doc_expanded:
+                print(f"             nạp trọn trang +{ans.doc_expanded} đoạn")
             for f in ans.flags:
                 print(f"             ⚠ lớp 3-4: {f}")
             for u in ans.unsupported:
@@ -141,6 +161,7 @@ def main() -> None:
                     "unsupported": ans.unsupported,
                     "entailment_ran": ans.entailment_ran,
                     "graph_expanded": ans.graph_expanded,
+                    "doc_expanded": ans.doc_expanded,
                     "rewrite_ms": ans.rewrite_ms,
                     "retrieval_ms": ans.retrieval_ms,
                     "llm_ms": ans.llm_ms,

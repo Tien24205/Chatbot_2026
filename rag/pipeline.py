@@ -16,7 +16,7 @@ from google.genai import types
 from . import config, embedder, graph, prompt, verify
 from .gemini import client
 from .retry import RateLimited, with_retry
-from .store import SearchHit, hits_for_ids, search
+from .store import SearchHit, chunks_of_source, hits_for_ids, search
 
 _lexicon: graph.Lexicon | None = None
 
@@ -32,6 +32,41 @@ TOP_K = 6
 # Số lượt hỏi-đáp giữ lại trong lịch sử. Giới hạn để prompt không phình vô hạn
 # qua nhiều lượt, mà vẫn đủ để viết lại được câu hỏi có đại từ.
 MAX_HISTORY_TURNS = 6
+
+# Câu ĐẾM/TỔNG HỢP: đáp án nằm rải trong nhiều mục của MỘT trang, mà top-k chỉ
+# vớt được vài mục. Đo được: hỏi "có bao nhiêu phản ứng nguyên tố?", mục "Phản
+# Ứng Chuyển Hóa" (chứa 9/13 cái tên) xếp hạng 15 — không bao giờ vào top-6.
+# Gặp dạng câu này thì nạp thêm TRỌN TRANG của hit hạng 1 vào ngữ cảnh.
+_AGGREGATE_MARKERS = ("bao nhiêu", "tổng cộng", "tất cả", "liệt kê", "gồm những", "có những")
+# Trần mở rộng: trang wiki hiện tại trung bình ~2,5 chunk nhưng trang hệ thống
+# lớn có thể 16 chunk (Thuyết Định Lượng Nguyên Tố). 12 chunk ~ 14k ký tự, đủ
+# trọn mọi trang trừ vài trang ngoại cỡ, mà không làm prompt phình gấp ba.
+MAX_DOC_CHUNKS = 12
+
+
+def needs_doc_expansion(question: str) -> bool:
+    q = question.lower()
+    return any(m in q for m in _AGGREGATE_MARKERS)
+
+
+def expand_with_document(
+    conn: psycopg.Connection, hits: list[SearchHit], query: str
+) -> list[SearchHit]:
+    """
+    Nạp phần còn lại của MỘT tài liệu — xem _AGGREGATE_MARKERS.
+
+    Chọn tài liệu theo TIÊU ĐỀ TRANG nằm trong câu hỏi trước, hit hạng 1 sau.
+    Đo được vì sao phải vậy: hỏi "có bao nhiêu phản ứng nguyên tố?", hạng 1 là
+    trang Hỏa (nói về phản ứng CỦA Hỏa) — nạp trọn trang Hỏa thì vẫn thiếu ba
+    danh sách nằm ở trang "Phản Ứng Nguyên Tố", đúng trang mang tên câu hỏi.
+    """
+    q = query.lower()
+    target = next(
+        (h.source_name for h in hits if h.source_name.rsplit(".", 1)[0].lower() in q),
+        hits[0].source_name,
+    )
+    have = {h.id for h in hits}
+    return chunks_of_source(conn, target, have, MAX_DOC_CHUNKS)
 
 
 @dataclass
@@ -59,6 +94,7 @@ class Answer:
     unsupported: list[str] = field(default_factory=list)  # lớp 5, do LLM soát
     entailment_ran: bool = False
     graph_expanded: int = 0  # số chunk do đồ thị bổ sung
+    doc_expanded: int = 0  # số chunk nạp thêm khi mở rộng trọn trang (câu đếm/tổng hợp)
 
     @property
     def verified(self) -> bool:
@@ -327,6 +363,22 @@ def ask(
         )
         hits = hits + graph_hits
 
+    # --- Mở rộng trọn trang cho câu đếm/tổng hợp ----------------------------
+    # Chạy SAU ngưỡng (lớp 2), cùng nguyên tắc với đồ thị: chỉ bổ sung ngữ cảnh
+    # cho câu đã đáng trả lời, không bao giờ cứu câu đáng bị từ chối.
+    doc_hits: list[SearchHit] = []
+    doc_note = ""
+    if needs_doc_expansion(search_query):
+        doc_hits = expand_with_document(conn, hits, search_query)
+        hits = hits + doc_hits
+        if doc_hits:
+            doc_note = (
+                f"LƯU Ý: ngữ cảnh trên đã gồm TOÀN BỘ trang "
+                f"\"{doc_hits[0].source_name.rsplit('.', 1)[0]}\". Nếu câu hỏi là đếm "
+                "hay tổng hợp, hãy đếm trực tiếp từ các danh sách trong ngữ cảnh theo "
+                "quy tắc 8 — đừng từ chối chỉ vì không có con số tổng viết sẵn."
+            )
+
     retrieval_ms = int((time.perf_counter() - t1) * 1000)
 
     # --- Lớp chống bịa 1: system prompt ràng buộc ---------------------------
@@ -334,7 +386,7 @@ def ask(
     contents.append(
         {
             "role": "user",
-            "parts": [{"text": prompt.build_user_message(question, hits, graph_notes)}],
+            "parts": [{"text": prompt.build_user_message(question, hits, graph_notes, doc_note)}],
         }
     )
 
@@ -388,6 +440,7 @@ def ask(
             search_query=search_query,
             model_used=model_used,
             graph_expanded=len(graph_hits),
+            doc_expanded=len(doc_hits),
         )
 
     # --- Lớp chống bịa 4: kiểm chứng grounding tất định ----------------------
@@ -431,4 +484,5 @@ def ask(
         unsupported=unsupported,
         entailment_ran=entailment_ran,
         graph_expanded=len(graph_hits),
+        doc_expanded=len(doc_hits),
     )

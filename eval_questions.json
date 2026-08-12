@@ -132,6 +132,63 @@
       "type": "out_of_scope"
     }
   ],
+  "_ghi_chu_reasoning": [
+    "Nhóm SUY LUẬN: đáp án KHÔNG nằm nguyên văn trong tài liệu mà phải suy ra",
+    "từ các dữ kiện có trong tài liệu (đếm danh sách, cộng số, nối hai dữ kiện).",
+    "Mọi expect_contains đều đã đối chiếu tay với file nguồn trước khi ghi:",
+    "  13 = 9 chuyển hóa + 2 khuếch đại + 2 phụ (Phản Ứng Nguyên Tố.txt);",
+    "  5 món = 'Có 5 loại... Mỗi loại chỉ có thể được trang bị một' (Thánh Di Vật.txt);",
+    "  Tan Chảy ×2 > Bốc Hơi ×1,5 khi Hỏa kích hoạt (Hỏa.txt);",
+    "  Mondstadt element: Phong; Phong + ấn Hỏa -> Khuếch Tán Hỏa (Khuếch Tán.txt).",
+    "Đo lần đầu để làm MỐC trước khi mở suy luận có đánh dấu: kỳ vọng gần 0% đạt,",
+    "vì prompt đang cấm tự cộng/đếm và lớp 4-5 chặn kết luận không nguyên văn.",
+    "",
+    "KẾT QUẢ SAU KHI MỞ SUY LUẬN (quy tắc 8 + mở rộng trọn trang + miễn kiểm số",
+    "cho câu 'Suy ra từ [n]' đổi lấy ép chạy lớp 5): 3/5, và cờ oan biến mất.",
+    "Hai câu chưa đạt có lý do riêng, KHÔNG phải kiến trúc:",
+    "  - câu '13 phản ứng': trang nguồn liệt kê 3 nhóm nhưng KHÔNG nói đó là tất cả",
+    "    (Kết Tinh, Đóng Băng nằm ngoài cả ba nhóm) — model từ chối vì danh sách",
+    "    chưa trọn vẹn là ĐÚNG quy tắc 8; kỳ vọng '13' của chính bộ eval mới là chỗ",
+    "    đáng ngờ. Giữ nguyên câu này làm thước đo tính thận trọng.",
+    "  - câu '5 món Thánh Di Vật': danh sách 5 vị trí trong file nguồn bị template",
+    "    ăn mất từ lúc cào ('Có 5 loại:,,,, và.') — lỗi dữ liệu, cần refetch khi",
+    "    hết chặn mạng fandom.",
+    "Chuỗi suy luận ĐÃ chạy trọn trên câu thật: 'Genshin Impact có bao nhiêu nguyên",
+    "tố?' ra 'Suy ra từ [3]: 7 nguyên tố...' — đúng khuôn, lớp 5 bị ép chạy và gắn",
+    "nhãn thận trọng thay vì chặn."
+  ],
+  "questions_reasoning": [
+    {
+      "q": "Có tổng cộng bao nhiêu phản ứng nguyên tố?",
+      "type": "suy_luan",
+      "expect_contains": ["13"],
+      "expect_any_source": ["Phản Ứng Nguyên Tố.txt"]
+    },
+    {
+      "q": "Phản ứng chuyển hóa gồm bao nhiêu loại?",
+      "type": "suy_luan",
+      "expect_contains": ["9"],
+      "expect_any_source": ["Phản Ứng Nguyên Tố.txt"]
+    },
+    {
+      "q": "Một nhân vật trang bị được tối đa bao nhiêu món Thánh Di Vật cùng lúc?",
+      "type": "suy_luan",
+      "expect_contains": ["5"],
+      "expect_any_source": ["Thánh Di Vật.txt"]
+    },
+    {
+      "q": "Khi cùng do đòn Hỏa kích hoạt, Tan Chảy hay Bốc Hơi nhân sát thương cao hơn?",
+      "type": "suy_luan",
+      "expect_contains": ["Tan Chảy"],
+      "expect_any_source": ["Hỏa.txt", "Phản Ứng Nguyên Tố.txt"]
+    },
+    {
+      "q": "Mondstadt thuộc nguyên tố nào, và nguyên tố đó kết hợp với Hỏa tạo ra phản ứng gì?",
+      "type": "suy_luan",
+      "expect_contains": ["Phong", "Khuếch Tán"],
+      "expect_any_source": ["Mondstadt.txt", "Khuếch Tán.txt", "Hỏa.txt"]
+    }
+  ],
   "_ghi_chu_graph": [
     "Nhóm riêng cho tầng đồ thị: câu cần ĐỐI CHIẾU nhiều đối tượng cùng vai trò.",
     "Sau khi thu hẹp về một game, cạnh `tương_tự` không còn nối chéo game nữa mà nối",

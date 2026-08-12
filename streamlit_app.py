@@ -91,6 +91,7 @@ def to_view(ans) -> dict:
         "unsupported": ans.unsupported,
         "entailment_ran": ans.entailment_ran,
         "graph_expanded": ans.graph_expanded,
+        "doc_expanded": ans.doc_expanded,
         "rewrite_ms": ans.rewrite_ms,
         "retrieval_ms": ans.retrieval_ms,
         "llm_ms": ans.llm_ms,
@@ -169,6 +170,10 @@ def draw_answer(view: dict, question: str) -> None:
         t.append(f"kiểm chứng {view['verify_ms']} ms")
     if view["graph_expanded"]:
         t.append(f"đồ thị bổ sung {view['graph_expanded']} đoạn")
+    # .get: các lượt lưu trong chat_turns TRƯỚC khi có mở rộng trọn trang không
+    # mang khoá này — vẽ lại lịch sử cũ không được phép vỡ.
+    if view.get("doc_expanded"):
+        t.append(f"nạp trọn trang +{view['doc_expanded']} đoạn")
     st.caption(f"{view['total_ms']} ms — " + " · ".join(t))
 
 
