@@ -16,21 +16,21 @@ tại ở một chỗ duy nhất.
 
 Đây là giao diện DUY NHẤT. Bản HTML/CSS/JS cũ trong web/ đã bỏ; api.py giờ chỉ
 còn là REST API thuần, vẫn chạy và vẫn được 05_test_api.py kiểm thử.
+
+Hội thoại được lưu bền trong PostgreSQL (rag/chatlog.py): thanh bên liệt kê các
+hội thoại cũ, mở lại xem được và chat tiếp được — lịch sử cho LLM dựng lại qua
+đúng pipeline.remember() nên quy tắc bỏ-lượt-từ-chối vẫn chỉ có một chỗ.
 """
 
 from __future__ import annotations
 
+import uuid
+from types import SimpleNamespace
+
 import streamlit as st
 
-from rag import config, graph, pipeline, store
+from rag import chatlog, config, graph, pipeline, store
 from rag.retry import RateLimited
-
-SUGGESTIONS = [
-    "Nahida là nhân vật như thế nào?",
-    "Phản ứng Bốc Hơi hoạt động ra sao?",
-    "Mondstadt là vùng đất nào?",
-    "Thánh Di Vật gồm những vị trí nào?",
-]
 
 st.set_page_config(
     page_title="Chatbot Kiến Thức Game",
@@ -176,7 +176,28 @@ def draw_answer(view: dict, question: str) -> None:
 
 st.session_state.setdefault("turns", [])  # để vẽ lại: [{"q":..., "view":...}]
 st.session_state.setdefault("history", [])  # định dạng của pipeline (Gemini contents)
-st.session_state.setdefault("pending", None)  # câu hỏi bấm từ nút gợi ý
+# Mã hội thoại dùng làm khoá lưu trong chat_turns. Sinh sẵn từ lượt đầu: câu hỏi
+# đầu tiên phải được lưu ngay dưới đúng mã này, không chờ tới "Hội thoại mới".
+st.session_state.setdefault("session_id", uuid.uuid4().hex[:12])
+
+
+def open_session(sid: str, turns: list[dict]) -> None:
+    """
+    Mở lại một hội thoại đã lưu: vẽ lại các lượt và DỰNG LẠI lịch sử cho LLM.
+
+    Phần dựng lại đi qua đúng pipeline.remember() — nó là nơi duy nhất giữ quy
+    tắc "không ghi lượt bị từ chối vào lịch sử LLM". remember() chỉ đọc hai
+    trường refused/text nên một SimpleNamespace là đủ đóng vai Answer.
+    """
+    st.session_state.turns = turns
+    st.session_state.history = []
+    for t in turns:
+        pipeline.remember(
+            st.session_state.history,
+            t["q"],
+            SimpleNamespace(refused=t["view"]["refused"], text=t["view"]["text"]),
+        )
+    st.session_state.session_id = sid
 
 
 # --- Thanh bên -------------------------------------------------------------
@@ -205,15 +226,44 @@ with st.sidebar:
     if st.button("Hội thoại mới", use_container_width=True):
         st.session_state.turns = []
         st.session_state.history = []
-        st.session_state.pending = None
+        st.session_state.session_id = uuid.uuid4().hex[:12]
         st.rerun()
 
     st.divider()
-    st.caption("Thử hỏi:")
-    for i, s in enumerate(SUGGESTIONS):
-        if st.button(s, key=f"sug{i}", use_container_width=True):
-            st.session_state.pending = s
-            st.rerun()
+    st.caption("Hội thoại đã lưu:")
+
+    # Không cache như health(): danh sách này phải thấy ngay lượt vừa lưu xong.
+    # Một truy vấn nhỏ mỗi thao tác là cái giá chấp nhận được cho sự đúng.
+    with store.connect() as conn:
+        sessions = chatlog.list_sessions(conn)
+
+    if not sessions:
+        st.caption("_Chưa có — hỏi câu đầu tiên là hội thoại được lưu tự động._")
+
+    for s in sessions:
+        col_open, col_del = st.columns([5, 1])
+        title = s["title"] if len(s["title"]) <= 40 else s["title"][:40] + "…"
+        active = s["session_id"] == st.session_state.session_id
+        with col_open:
+            if st.button(
+                title,
+                key=f"open{s['session_id']}",
+                use_container_width=True,
+                type="primary" if active else "secondary",
+                help=f"{s['turns']} lượt · lần cuối {s['last_at']:%d/%m %H:%M}",
+            ):
+                with store.connect() as conn:
+                    open_session(s["session_id"], chatlog.load_session(conn, s["session_id"]))
+                st.rerun()
+        with col_del:
+            if st.button("✕", key=f"del{s['session_id']}", help="Xoá hội thoại này"):
+                with store.connect() as conn:
+                    chatlog.delete_session(conn, s["session_id"])
+                if active:
+                    st.session_state.turns = []
+                    st.session_state.history = []
+                    st.session_state.session_id = uuid.uuid4().hex[:12]
+                st.rerun()
 
 
 # --- Khung chat ------------------------------------------------------------
@@ -233,8 +283,6 @@ for turn in st.session_state.turns:
         draw_answer(turn["view"], turn["q"])
 
 question = st.chat_input("Nhập câu hỏi về game…", max_chars=2000)
-if st.session_state.pending:
-    question, st.session_state.pending = st.session_state.pending, None
 
 if question:
     with st.chat_message("user"):
@@ -264,3 +312,10 @@ if question:
     # Tự bỏ qua lượt bị từ chối — xem pipeline.remember.
     pipeline.remember(st.session_state.history, question, ans)
     st.session_state.turns.append({"q": question, "view": view})
+
+    # Lưu bền MỌI lượt, kể cả lượt bị từ chối — mục đích là xem lại đúng những
+    # gì đã diễn ra, khác với lịch sử LLM ở trên (xem rag/chatlog.py).
+    with store.connect() as conn:
+        chatlog.save_turn(conn, st.session_state.session_id, question, view)
+    # Vẽ lại để hội thoại vừa lưu hiện ngay trong danh sách ở thanh bên.
+    st.rerun()
