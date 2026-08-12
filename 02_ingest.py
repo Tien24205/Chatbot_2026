@@ -37,22 +37,41 @@ def main() -> None:
         store.assert_schema_matches(conn)
         print(f"  Schema khớp: vector({config.EMBED_DIMENSION})")
 
-        # --- 3. Embedding ---------------------------------------------------
-        print(f"\n  Đang embed {len(chunks)} chunk...")
+        # --- 3. Bỏ qua chunk đã embed lần chạy trước -------------------------
+        # Embedding là thứ ĐÃ TRẢ TIỀN (bằng hạn mức). Chạy lại mà embed lại từ
+        # đầu là trả lần thứ hai cho cùng một đoạn văn — với KB vài nghìn chunk
+        # thì đủ để đốt hết hạn mức ngày.
+        done = store.existing_keys(conn)
+        todo = [c for c in chunks if (c.source_name, c.chunk_index) not in done]
+        if len(todo) < len(chunks):
+            print(f"\n  Bỏ qua {len(chunks) - len(todo)} chunk đã có vector từ lần chạy trước")
+        if not todo:
+            print("  Không có gì để nạp thêm — database đã đầy đủ.")
+
+        # --- 4. Embedding + ghi theo LÔ --------------------------------------
+        # Ghi sau mỗi lô thay vì gom hết tới cuối: hỏng giữa chừng thì chỉ mất lô
+        # cuối, phần trước vẫn nằm trong database và lần chạy sau bỏ qua được.
+        WRITE_EVERY = 200
         t0 = time.perf_counter()
-        vectors = embedder.embed_documents([c.content for c in chunks], progress=True)
+        worst = 0.0
+        loaded = 0
+        for start in range(0, len(todo), WRITE_EVERY):
+            part = todo[start : start + WRITE_EVERY]
+            print(f"\n  Đang embed lô {start + 1}-{start + len(part)} / {len(todo)}...")
+            vectors = embedder.embed_documents([c.content for c in part], progress=True)
+
+            # Kiểm chứng đầu ra thay vì tin tưởng mù quáng.
+            assert all(len(v) == config.EMBED_DIMENSION for v in vectors), "Sai số chiều"
+            worst = max(worst, max(abs(sum(x * x for x in v) ** 0.5 - 1.0) for v in vectors))
+
+            loaded += store.upsert_chunks(conn, part, vectors)
+            print(f"    đã ghi vào database: {loaded}/{len(todo)}")
+
         elapsed = time.perf_counter() - t0
-        print(f"  Xong trong {elapsed:.1f}s ({elapsed / len(chunks):.2f}s/chunk)")
-
-        # Kiểm chứng đầu ra thay vì tin tưởng mù quáng.
-        assert all(len(v) == config.EMBED_DIMENSION for v in vectors), "Sai số chiều"
-        norms = [sum(x * x for x in v) ** 0.5 for v in vectors]
-        worst = max(abs(n - 1.0) for n in norms)
-        print(f"  Mọi vector đã chuẩn hoá (sai lệch norm lớn nhất: {worst:.2e})")
-
-        # --- 4. Nạp vào pgvector --------------------------------------------
-        n = store.upsert_chunks(conn, chunks, vectors)
-        print(f"\n  Đã nạp {n} chunk. Tổng trong database: {store.count(conn)}")
+        if todo:
+            print(f"\n  Xong trong {elapsed:.1f}s ({elapsed / len(todo):.2f}s/chunk)")
+            print(f"  Mọi vector đã chuẩn hoá (sai lệch norm lớn nhất: {worst:.2e})")
+        print(f"  Đã nạp {loaded} chunk. Tổng trong database: {store.count(conn)}")
 
         # --- 5. Truy vấn thử ngay để xác nhận toàn tuyến chạy ---------------
         print("\n" + "=" * 66)
@@ -60,9 +79,12 @@ def main() -> None:
         print("=" * 66)
 
         for q in [
-            "Baron Nashor là gì?",
-            "Phản ứng Bốc Hơi trong Genshin hoạt động thế nào?",
-            "Cách nấu phở bò",  # ngoài phạm vi -> để xem điểm rơi tới đâu
+            "Phản ứng Bốc Hơi hoạt động thế nào?",
+            "Mondstadt là vùng đất của thần nào?",
+            # Ngoài phạm vi. Chọn câu về GAME KHÁC chứ không phải nấu ăn: sau khi
+            # thu hẹp kho về một game, câu hỏi cùng miền game mới là ca sát ngưỡng.
+            "Baron Nashor trong Liên Minh Huyền Thoại là gì?",
+            "Cách nấu phở bò",
         ]:
             hits = store.search(conn, embedder.embed_query(q), top_k=3)
             print(f"\n  Hỏi: {q}")

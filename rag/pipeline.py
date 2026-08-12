@@ -20,7 +20,14 @@ from .store import SearchHit, hits_for_ids, search
 
 _lexicon: graph.Lexicon | None = None
 
-TOP_K = 4
+# Nâng 4 -> 6 khi knowledge base lên 2.848 chunk.
+#
+# Đo bằng 03_eval_retrieval.py trên KB wiki Genshin:
+#   recall@1 = 53%   recall@3 = 82%   recall@5 = 88%
+# Chunk đúng thường CÓ trong kho nhưng không phải hạng nhất — lấy 4 đoạn là tự
+# vứt đi phần lớn khoảng cách giữa 53% và 88%. Với KB viết tay 65 chunk thì
+# recall@1 đã là 100% nên 4 là đủ; kho lớn hơn thì không.
+TOP_K = 6
 
 # Số lượt hỏi-đáp giữ lại trong lịch sử. Giới hạn để prompt không phình vô hạn
 # qua nhiều lượt, mà vẫn đủ để viết lại được câu hỏi có đại từ.

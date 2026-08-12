@@ -284,6 +284,23 @@ class Lexicon:
 
         self._entities = {e.key: e for e in entities}
         self._by_surface = by_surface
+
+        # Bản ĐẠI DIỆN cho mỗi chuỗi: một lần khớp trong văn bản chỉ được tính là
+        # MỘT lượt nhắc tới, không phải một lượt cho mỗi tài liệu có định nghĩa.
+        #
+        # Không có bước này thì đồ thị nổ tung khi knowledge base nhiều file: tên
+        # như "Thánh Di Vật" được định nghĩa lại trong hàng chục trang wiki, nên
+        # một lần khớp sinh ra hàng chục mention. Đo được trên KB 1.123 file:
+        # 819.475 lượt nhắc / 2.848 chunk = 288 thực thể mỗi chunk, và 871.294
+        # cạnh đồng xuất hiện — đồ thị nối tất cả với tất cả, tức vô nghĩa.
+        #
+        # Ưu tiên thực thể của CHÍNH TRANG đó (definition rỗng = sinh từ dòng
+        # `# Tiêu đề`): trang "Thánh Di Vật" mới là chủ sở hữu tự nhiên của cái
+        # tên, các trang khác chỉ nhắc lại nó.
+        self._canonical: dict[str, Entity] = {}
+        for surface, group in by_surface.items():
+            own_page = next((e for e in group if e.definition == ""), None)
+            self._canonical[surface] = own_page or group[0]
         self._patterns: list[tuple[re.Pattern, str]] = [
             # Biên từ theo Unicode: \w trong Python đã bao gồm chữ tiếng Việt.
             (re.compile(rf"(?<!\w){re.escape(s)}(?!\w)", re.IGNORECASE), s)
@@ -313,13 +330,18 @@ class Lexicon:
         return out
 
     def find_keys(self, text: str) -> list[str]:
-        """Như find() nhưng trả khoá định danh — phân biệt được hai game."""
+        """
+        Như find() nhưng trả khoá định danh, MỘT khoá cho mỗi chuỗi khớp được.
+
+        Cố tình không trả mọi thực thể trùng tên: xem giải thích ở `_canonical`.
+        Bên cần đủ mọi bản (ví dụ kiểm chứng grounding) thì dùng find().
+        """
         seen, out = set(), []
         for surface in self._matches(text):
-            for e in self._by_surface[surface]:
-                if e.key not in seen:
-                    seen.add(e.key)
-                    out.append(e.key)
+            e = self._canonical[surface]
+            if e.key not in seen:
+                seen.add(e.key)
+                out.append(e.key)
         return out
 
 

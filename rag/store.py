@@ -181,3 +181,15 @@ def hits_for_ids(
 
 def count(conn: psycopg.Connection) -> int:
     return conn.execute("SELECT count(*) FROM chunks").fetchone()[0]
+
+
+def existing_keys(conn: psycopg.Connection) -> set[tuple[str, int]]:
+    """
+    Các chunk ĐÃ có vector trong database, theo khoá (tên file, thứ tự).
+
+    Dùng để chạy lại việc nạp mà không embed lại thứ đã embed. Với knowledge base
+    vài nghìn chunk thì đây là khác biệt giữa "mất 5 phút" và "mất cả hạn mức
+    ngày": embedding đã trả tiền rồi, trả lần nữa cho cùng một đoạn là lãng phí.
+    """
+    rows = conn.execute("SELECT source_name, chunk_index FROM chunks").fetchall()
+    return {(r[0], r[1]) for r in rows}

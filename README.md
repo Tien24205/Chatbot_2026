@@ -70,10 +70,34 @@ thì rẻ, thứ nó không bắt được mới đáng tiêu hạn mức API.
 
 ## Kết quả đo được
 
-> ⚠ Các số ở mục này đo trên knowledge base **4 tài liệu / 25 chunk**. Kho hiện đã
-> mở rộng lên **10 tài liệu / 65 chunk**, và `eval_questions.json` chưa phủ 6 tài
-> liệu mới. Phải chạy lại `03_eval_retrieval.py` và `08_eval_answers.py` rồi mới
-> được trích dẫn con số ở đây như kết quả hiện tại.
+Đo trên knowledge base wiki Genshin (1.123 tài liệu / 2.848 chunk),
+embedding `intfloat/multilingual-e5-base` chạy trên máy, bộ 25 câu hỏi:
+
+| | recall@1 | recall@3 | recall@5 |
+|---|---|---|---|
+| Đúng file nguồn | 53% | 82% | **88%** |
+
+**Phân bố điểm số — đây mới là phát hiện đáng nói:**
+
+| | thấp nhất | trung vị | cao nhất |
+|---|---|---|---|
+| Trong phạm vi | 0.824 | 0.865 | 0.902 |
+| Ngoài phạm vi | 0.785 | 0.823 | 0.863 |
+
+Hai nhóm **chồng lấn 0.039**. Câu gây chồng lấn: *"Doanh thu Genshin Impact 2024
+là bao nhiêu?"* đạt 0.863 — vì nó **thật sự** nói về Genshin, chỉ là kho không có
+câu trả lời. Ngưỡng đơn thuần không phân biệt được "đúng chủ đề" với "có câu trả
+lời", và không model embedding nào sửa được điều đó.
+
+`03_eval_retrieval.py` đề xuất τ = 0.891 để đạt 0 câu bịa — nhưng nó **chỉ nhìn
+ngưỡng**, coi như không có lớp nào khác, và trả giá bằng 16/17 câu bị từ chối oan.
+Dự án này có năm lớp, nên chọn **τ = 0.82** và để bốn lớp còn lại làm việc của
+chúng. Đúng nguyên tắc đã ghi bên dưới: ngưỡng là hàm của số lớp phòng thủ.
+
+---
+
+<details>
+<summary>Số liệu cũ — knowledge base 4 tài liệu game viết tay, Gemini embedding</summary>
 
 Bộ câu hỏi so sánh chéo game (8 câu, τ = 0.60):
 
@@ -105,14 +129,23 @@ năm lớp phía sau thì hạ được ngưỡng mà không mất an toàn.
 > tương đồng của `gemini-embedding-001` rất cao: hai câu hoàn toàn không liên quan
 > vẫn đạt 0.513.
 
+</details>
+
 ## Cài đặt
 
-Cần: Python 3.11+, Docker Desktop, và một API key Gemini
-(miễn phí tại <https://aistudio.google.com/apikey>).
+Cần: Python 3.11+, Docker Desktop, và một API key Gemini cho phần **sinh câu trả
+lời** (miễn phí tại <https://aistudio.google.com/apikey>).
+
+Phần **embedding chạy trên máy**, không cần key và không có hạn mức — xem
+`EMBED_BACKEND` trong `.env.example`. Lý do: hạn mức embedding của free tier là
+1.000 request/ngày tính theo **tài khoản Google**, mà nạp knowledge base 2.848
+chunk đã ăn một phần ba, và mỗi câu hỏi của người dùng cũng tốn một request.
 
 ```powershell
 python -m venv .venv
 .venv\Scripts\python.exe -m pip install -r requirements.txt
+# torch bản CPU (~120 MB) thay vì bản CUDA (~2,5 GB):
+.venv\Scripts\python.exe -m pip install torch --index-url https://download.pytorch.org/whl/cpu
 
 copy .env.example .env      # rồi điền GEMINI_API_KEY vào .env
 docker compose up -d        # PostgreSQL + pgvector, cổng 5433
