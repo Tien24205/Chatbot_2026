@@ -187,6 +187,18 @@
       "type": "suy_luan",
       "expect_contains": ["Phong", "Khuếch Tán"],
       "expect_any_source": ["Mondstadt.txt", "Khuếch Tán.txt", "Hỏa.txt"]
+    },
+    {
+      "q": "Có bao nhiêu Kiếm Đơn?",
+      "type": "suy_luan",
+      "_ghi_chu": "Đường đếm tất định (rag/counting.py). Con số gắn với bản chụp KB 1.123 trang — nạp lại KB thì cập nhật.",
+      "expect_contains": ["53"]
+    },
+    {
+      "q": "Kho tài liệu có bao nhiêu vũ khí?",
+      "type": "suy_luan",
+      "_ghi_chu": "Bí danh nhóm: 5 loại vũ khí cộng lại. 53+35+47+52+40 trên bản chụp KB hiện tại.",
+      "expect_contains": ["227"]
     }
   ],
   "_ghi_chu_graph": [

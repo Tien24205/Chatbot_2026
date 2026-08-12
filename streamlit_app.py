@@ -92,6 +92,7 @@ def to_view(ans) -> dict:
         "entailment_ran": ans.entailment_ran,
         "graph_expanded": ans.graph_expanded,
         "doc_expanded": ans.doc_expanded,
+        "counted": ans.counted,
         "rewrite_ms": ans.rewrite_ms,
         "retrieval_ms": ans.retrieval_ms,
         "llm_ms": ans.llm_ms,
@@ -137,9 +138,16 @@ def draw_answer(view: dict, question: str) -> None:
             lines.append(f"- {c['source_name']} · {c['section']} ({c['similarity']}){via}")
         st.caption("Nguồn:\n" + "\n".join(lines))
 
+    # Đường đếm tất định không đi qua LLM nên không có gì để "soát" — hiện đúng
+    # bản chất thay vì mượn thông điệp kiểm chứng của các lớp 3-5. (.get: lượt
+    # lưu trước khi có tính năng này không mang khoá "counted".) Dùng elif để
+    # phần đo thời gian phía dưới vẫn chạy cho mọi loại lượt.
+    if view.get("counted"):
+        st.info("Đếm bằng SQL trên đồ thị tri thức — không gọi LLM, không thể bịa.")
+
     # Kết quả kiểm chứng hiện CẢ KHI ĐẠT. Nếu chỉ hiện lúc có lỗi thì người đọc
     # không phân biệt được "đã soát, sạch" với "chưa soát gì".
-    if not view["refused"]:
+    elif not view["refused"]:
         if view["flags"] or view["unsupported"]:
             # Tách hai nhóm: lớp 3-4 là phép kiểm TẤT ĐỊNH (trích dẫn, số liệu,
             # tên riêng), lớp 5 là nhận định của một LLM khác. Gộp chung thành một

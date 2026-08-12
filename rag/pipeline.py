@@ -13,7 +13,7 @@ from dataclasses import dataclass, field
 import psycopg
 from google.genai import types
 
-from . import config, embedder, graph, prompt, verify
+from . import config, counting, embedder, graph, prompt, verify
 from .gemini import client
 from .retry import RateLimited, with_retry
 from .store import SearchHit, chunks_of_source, hits_for_ids, search
@@ -95,6 +95,7 @@ class Answer:
     entailment_ran: bool = False
     graph_expanded: int = 0  # số chunk do đồ thị bổ sung
     doc_expanded: int = 0  # số chunk nạp thêm khi mở rộng trọn trang (câu đếm/tổng hợp)
+    counted: bool = False  # trả lời bằng đường đếm tất định (rag/counting.py), không qua LLM
 
     @property
     def verified(self) -> bool:
@@ -333,7 +334,24 @@ def ask(
     search_query = rewrite_query(question, history or [])
     rewrite_ms = int((time.perf_counter() - t0) * 1000)
 
+    # --- Đường đếm tất định (hướng B) ---------------------------------------
+    # Chạy TRƯỚC cả embedding: câu "có bao nhiêu <loại>?" khớp đúng một kind
+    # trong đồ thị thì đếm bằng SQL — 0 lệnh gọi API, không thể bịa. Câu không
+    # khớp (kể cả "bao nhiêu phản ứng nguyên tố" — không phải kind nào) rơi
+    # xuống pipeline thường, nơi quy tắc 8 + mở rộng trọn trang xử lý tiếp.
     t1 = time.perf_counter()
+    counted_text = counting.try_count(conn, search_query)
+    if counted_text is not None:
+        return Answer(
+            text=counted_text,
+            counted=True,
+            top_similarity=1.0,  # khớp kind chính xác — trong phạm vi theo định nghĩa
+            rewrite_ms=rewrite_ms,
+            retrieval_ms=int((time.perf_counter() - t1) * 1000),
+            search_query=search_query,
+            model_used="đồ thị tri thức",
+        )
+
     query_vector = embedder.embed_query(search_query)
     hits = search(conn, query_vector, top_k=top_k)
 
