@@ -26,7 +26,7 @@ lớp 3 và lớp 4; lớp 1-2-5 nằm ở chỗ khác nhưng ghi lại đây đ
 
 VÌ SAO CẦN LỚP 3-4 khi đã có lớp 1 (system prompt)?
 
-Vì system prompt là YÊU CẦU, không phải RÀNG BUỘC. Quy tắc số 5 trong prompt ghi
+Vì system prompt là YÊU CẦU, không phải RÀNG BUỘC. Quy tắc số 7 trong prompt ghi
 "không bịa số liệu" — nhưng không có gì bảo đảm model tuân theo, và khi nó không
 tuân thì hệ thống hoàn toàn không biết. Lớp 3-4 biến yêu cầu đó thành phép kiểm
 tra chạy được: mọi con số trong câu trả lời phải tìm thấy được trong ngữ cảnh, nếu
