@@ -64,6 +64,10 @@ def judge(q: dict, ans) -> tuple[bool, str]:
         return False, "PHẢI từ chối nhưng đã trả lời"
 
     if ans.refused:
+        # Phân biệt hai lối từ chối — in "0.824 < τ" khi τ = 0.82 là sai toán và
+        # đổ lỗi nhầm cho ngưỡng trong khi chính model nói không tìm thấy.
+        if ans.refused_by == "model":
+            return False, f"bỏ sót (model tự từ chối dù điểm {ans.top_similarity:.3f} ≥ τ)"
         return False, f"bỏ sót (điểm cao nhất {ans.top_similarity:.3f} < τ)"
 
     if q["type"] == "suy_luan":

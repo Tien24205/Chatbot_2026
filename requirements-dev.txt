@@ -7,3 +7,11 @@
 #   .venv\Scripts\python.exe -m ruff check .      # soát import thừa, mã chết
 #   .venv\Scripts\python.exe -m ruff format .     # định dạng lại
 ruff>=0.16,<1
+
+# CHỈ cần khi tải lại wiki (09_fetch_fandom.py). Cloudflare của fandom.com chặn
+# mọi HTTP client lẫn Chromium tự động — đường duy nhất đo được là: mở Chrome
+# THẬT bằng lệnh thường với --user-data-dir riêng + --remote-debugging-port=9222,
+# rồi connect_over_cdp và chạy fetch() trong trang qua page.evaluate (trên tab
+# Special:BlankPage để quảng cáo không điều hướng làm đứt context).
+# KHÔNG cần `playwright install` — bundle Chromium của nó vô dụng ở đây.
+playwright>=1.49,<2

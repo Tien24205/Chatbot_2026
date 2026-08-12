@@ -100,10 +100,20 @@ bên dưới: ngưỡng là hàm của số lớp phòng thủ.
 
 | Nhóm | Đạt | Tổng |
 |---|---|---|
-| in_scope | 10 | 13 |
-| ambiguous | 3 | 4 |
+| in_scope | 12 | 13 |
+| ambiguous | 4 | 4 |
 | out_of_scope | 8 | 8 |
-| **Tất cả** | **21** | **25** |
+| **Tất cả** | **24** | **25** |
+
+Con số 24 có được sau hai sửa đổi rút từ chẩn đoán ba câu bỏ sót:
+- **Mở rộng theo thực thể** (`expand_with_entities`): bullet định nghĩa "Quá
+  Tải: Gây... vụ nổ" nằm trong trang Hỏa, ngoài top-k của câu hỏi về Quá Tải —
+  đồ thị biết chunk nào nhắc tới thực thể trong câu hỏi, chấm điểm lại bằng
+  similarity thật rồi bổ sung tối đa 2 đoạn.
+- **Quy tắc không-từ-chối-vì-khác-cách-gọi** (quy tắc 2): hỏi "cơ chế bảo hiểm",
+  tài liệu viết "chắc chắn nhận được trong vòng N lần" — cùng một thứ.
+Câu còn trượt duy nhất chính là ca ranh giới đó ("bảo hiểm" ↔ "đảm bảo"):
+chập chờn giữa các lần chạy, khi đạt khi không.
 
 | | Chỉ nhìn ngưỡng (`03`) | Đầu-cuối (`08`) |
 |---|---|---|
@@ -113,10 +123,10 @@ Mười hai câu đó bị các lớp phía sau chặn hết. Đây là con số
 hiệu chuẩn ngưỡng một mình là chưa đủ: `03` đo tầng truy hồi, `08` đo cái người
 dùng thực sự nhận được.
 
-Câu bị gắn cờ kiểm chứng: **3/14** (cả ba là cờ nhắc soát, không câu nào bịa
-ngoài phạm vi). Lớp 5 chỉ chạy **3/14** lần (chế độ `auto`). Latency trung vị:
-truy hồi **94 ms** · sinh câu trả lời **1.180 ms** · tổng **1.370 ms**; một câu
-chạm giới hạn tần suất model chat nên tốn 25 giây chờ thử lại.
+Câu bị gắn cờ kiểm chứng: **1/16** (cờ nhắc soát, không câu nào bịa ngoài phạm
+vi). Latency trung vị: truy hồi **~100 ms** · sinh câu trả lời **~1.000 ms** ·
+tổng **~1.300 ms**; câu nào chạm giới hạn tần suất model chat thì tốn thêm
+~20 giây chờ thử lại — truy hồi thì không bao giờ, vì embedding chạy trên máy.
 
 ### Suy luận có kiểm soát (đếm, cộng, đa bước)
 

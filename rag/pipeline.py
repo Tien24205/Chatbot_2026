@@ -227,6 +227,46 @@ def lexicon(conn: psycopg.Connection) -> graph.Lexicon | None:
     return _lexicon
 
 
+def expand_with_entities(
+    conn: psycopg.Connection,
+    question: str,
+    query_vector: list[float],
+    hits: list[SearchHit],
+    limit: int = 2,
+) -> list[SearchHit]:
+    """
+    Bổ sung chunk NHẮC TỚI thực thể mà người dùng nêu trong câu hỏi.
+
+    Vá đúng lỗ đo được sau refetch: hỏi "Quá Tải gây ra hiệu ứng gì?" — bullet
+    định nghĩa "Quá Tải: Gây... vụ nổ" nằm trong trang Hỏa/Lôi, xếp NGOÀI top-6
+    (top toàn mục nói CHUNG về phản ứng), model từ chối dù kho có câu trả lời.
+    Đồ thị đã biết chunk nào nhắc tới "Quá Tải" — chỉ việc kéo về.
+
+    Ứng viên được CHẤM ĐIỂM LẠI bằng similarity thật với câu hỏi rồi mới lấy
+    top: chunks_mentioning với MỘT thực thể trả về theo thứ tự id (tuỳ ý), mà
+    tên như "Quá Tải" xuất hiện trong cả tá nội tại vũ khí — lấy bừa là rước
+    nhiễu. Cùng hai ràng buộc với expand_with_graph: chỉ gieo từ thực thể trong
+    CÂU HỎI, và chỉ chạy sau khi ngưỡng (lớp 2) đã cho qua.
+    """
+    lex = lexicon(conn)
+    if lex is None:
+        return []
+    seeds = lex.find(question)
+    if not seeds:
+        return []
+
+    have = {h.id for h in hits}
+    candidates = [
+        c["id"]
+        for c in graph.chunks_mentioning(conn, seeds, limit=20)
+        if c["id"] not in have
+    ]
+    if not candidates:
+        return []
+    scored = hits_for_ids(conn, query_vector, candidates)
+    return sorted(scored, key=lambda h: -h.similarity)[:limit]
+
+
 def expand_with_graph(
     conn: psycopg.Connection,
     question: str,
@@ -386,6 +426,13 @@ def ask(
             conn, search_query, query_vector, hits, config.GRAPH_MAX_EXTRA_CHUNKS
         )
         hits = hits + graph_hits
+
+    # Mở rộng theo thực thể được nhắc trong CÂU HỎI — chạy cho mọi câu (không
+    # chỉ câu so sánh), vì chi phí là một truy vấn SQL + chấm điểm lại vài chunk.
+    if config.GRAPH_EXPANSION:
+        entity_hits = expand_with_entities(conn, search_query, query_vector, hits)
+        hits = hits + entity_hits
+        graph_hits = graph_hits + entity_hits  # gộp vào số "đồ thị bổ sung" hiển thị
 
     # --- Mở rộng trọn trang cho câu đếm/tổng hợp ----------------------------
     # Chạy SAU ngưỡng (lớp 2), cùng nguyên tắc với đồ thị: chỉ bổ sung ngữ cảnh
