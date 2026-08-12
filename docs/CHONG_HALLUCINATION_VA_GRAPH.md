@@ -4,6 +4,11 @@ Tài liệu này mô tả hai phần kỹ thuật đi sâu của chatbot RAG: **
 hallucination** và **tầng đồ thị tri thức**. Mọi con số trong đây đều đo được
 bằng script trong repo, không lấy từ tài liệu tham khảo.
 
+> **Ghi chú (branch GI_Rag):** các ví dụ Baron Nashor / Liên Quân và số liệu
+> trong tài liệu này được đo trên **knowledge base cũ** (game viết tay, còn
+> nguyên trên branch `main`). Kiến trúc 5 lớp và tầng đồ thị không đổi khi
+> chuyển sang KB wiki Genshin; số liệu đo trên KB hiện tại xem README.
+
 Chạy lại để kiểm chứng:
 
 ```powershell

@@ -19,7 +19,7 @@ ignore = [
     "B008",  # gọi hàm trong giá trị mặc định — đúng cách dùng Depends() của FastAPI
 ]
 
-# Các script được đánh số 00→08 là chương trình dòng lệnh, không phải module thư viện.
+# Các script được đánh số 00→09 là chương trình dòng lệnh, không phải module thư viện.
 [tool.ruff.lint.per-file-ignores]
 "0*.py" = ["E402"]  # import sau docstring/hằng số ở đầu file là cố ý
 

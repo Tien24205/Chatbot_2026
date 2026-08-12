@@ -7,7 +7,7 @@ KHÔNG gọi API: trích thực thể bằng regex, dựng cạnh bằng SQL.
   .venv\\Scripts\\python.exe 06_build_graph.py
 
 Script tự kiểm chứng luôn hai thứ mà truy hồi thuần vector làm không tốt:
-  1. đi từ một thực thể sang thực thể cùng vai trò ở game khác (đa bước),
+  1. đi từ một thực thể sang thực thể cùng vai trò ở tài liệu khác (đa bước),
   2. tóm tắt cộng đồng để biết kho kiến thức thực sự phủ những gì.
 """
 
@@ -55,14 +55,16 @@ def main() -> None:
             print(f"  {n:>4}  {rel}")
 
         # --- Kiểm chứng 1: đi đa bước ------------------------------------------
-        # Đây chính là câu mà truy hồi thuần vector trượt (đo ở Milestone 5):
-        # "Baron Nashor" và "Thần Rừng" không giống nhau MỘT CHỮ NÀO, nên vector
-        # không nối được. Đồ thị nối bằng vai trò.
+        # Đây chính là loại câu mà truy hồi thuần vector trượt (đo ở Milestone 5):
+        # "Kiếm Sắt Đen" và "Ánh Trăng Xiphos" không giống nhau MỘT CHỮ NÀO, nên
+        # vector không nối được. Đồ thị nối bằng vai trò (cùng type trong infobox).
+        # "Mondstadt" cố ý giữ lại làm ca 0 hàng xóm: được nhận ra nhưng không có
+        # thực thể cùng vai trò — để thấy nhánh đó của code cũng chạy.
         print("\n" + "-" * 66)
-        print("KIỂM CHỨNG — ĐI ĐA BƯỚC GIỮA CÁC GAME")
+        print("KIỂM CHỨNG — ĐI ĐA BƯỚC GIỮA CÁC TÀI LIỆU")
         print("-" * 66)
 
-        for start in ["Baron Nashor", "Thần Rừng", "Xạ thủ (ADC / Bot)"]:
+        for start in ["Quá Tải", "Kiếm Sắt Đen", "Mondstadt"]:
             names = graph.load_lexicon(conn).find(start)
             if not names:
                 print(f"\n  '{start}' — không nhận ra thực thể nào")
@@ -70,7 +72,7 @@ def main() -> None:
             nbrs = graph.neighbors(conn, names, ("tương_tự",))
             print(f"\n  '{start}' -> nhận ra: {', '.join(names)}")
             if not nbrs:
-                print("      (không có thực thể cùng vai trò ở game khác)")
+                print("      (không có thực thể cùng vai trò ở tài liệu khác)")
             for n in nbrs[:6]:
                 print(
                     f"      {n['from_name']} --{n['relation']}--> {n['name']}"

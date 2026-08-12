@@ -132,10 +132,11 @@ def build_user_message(
     Ghép ngữ cảnh + quan hệ từ đồ thị + câu hỏi.
 
     Khối quan hệ KHÔNG phải là kiến thức thêm từ bên ngoài: nó rút ra từ cách
-    chính tài liệu phân mục (Baron Nashor và Thần Rừng đều nằm dưới mục "mục tiêu
-    trung lập" của game mình). Nói rõ điều đó cho model là cần thiết — nếu không,
-    gặp câu so sánh nó sẽ từ chối vì không đoạn nào viết sẵn câu so sánh, dù mọi
-    dữ kiện để so sánh đều đã nằm trong ngữ cảnh. Đo được đúng như vậy.
+    chính tài liệu phân loại (Kiếm Sắt Đen và Ánh Trăng Xiphos đều mang type
+    "Kiếm Đơn" trong infobox của trang mình). Nói rõ điều đó cho model là cần
+    thiết — nếu không, gặp câu so sánh nó sẽ từ chối vì không đoạn nào viết sẵn
+    câu so sánh, dù mọi dữ kiện để so sánh đều đã nằm trong ngữ cảnh. Đo được
+    đúng như vậy.
     """
     parts = [f"NGỮ CẢNH:\n\n{build_context(hits)}"]
     if graph_notes:
@@ -153,8 +154,8 @@ def citations(hits: list[SearchHit], min_similarity: float) -> list[str]:
 
     CHỈ trích những chunk vượt ngưỡng tin cậy, không trích toàn bộ top-k. Toàn bộ
     top-k vẫn được đưa vào ngữ cảnh cho LLM (thừa ngữ cảnh không hại), nhưng liệt
-    kê tất cả làm "nguồn" thì sai: câu trả lời về Baron Nashor lấy từ tài liệu Liên
-    Minh mà lại ghi thêm nguồn Liên Quân và thuật ngữ game, khiến người đọc tưởng
+    kê tất cả làm "nguồn" thì sai: câu trả lời về Khuếch Tán lấy từ trang Khuếch
+    Tán mà lại ghi thêm nguồn trang Lôi và trang Sát Thương, khiến người đọc tưởng
     thông tin đã được đối chiếu chéo. Trích nguồn sai còn tệ hơn không trích.
 
     Luôn trả về ít nhất chunk hạng 1 — hàm này chỉ được gọi khi đã qua ngưỡng.

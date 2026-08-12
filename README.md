@@ -33,10 +33,10 @@ Nhật ký thiết kế và các bẫy đã vấp: [docs/chatbot_rag_plan.md](do
         ↓                                             ↓
    Chunk theo tiêu đề `##`                    Trích thực thể (regex)
         ↓                                             ↓
-   Embedding (Gemini)                         Đồ thị: 2.590 thực thể
+   Embedding (e5, chạy máy)                   Đồ thị: 2.590 thực thể
         ↓                                      9.549 cạnh, 3 loại quan hệ
    PostgreSQL + pgvector                              │
-   (HNSW, cosine, 1536 chiều)                         │
+   (HNSW, cosine, 768 chiều)                          │
         │                                             │
         └──────────────────┬──────────────────────────┘
                            ↓

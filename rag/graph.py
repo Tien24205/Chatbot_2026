@@ -1,19 +1,19 @@
 """
 GraphRAG — tầng đồ thị tri thức đặt cạnh tầng vector.
 
-VÌ SAO CẦN, khi vector search đã đạt recall@1 = 100% (đo ở 03_eval_retrieval.py
-trên bản knowledge base 4 tài liệu, chưa đo lại sau khi mở rộng lên 10)?
+VÌ SAO CẦN, khi vector search đã đạt recall@5 = 88% (đo ở 03_eval_retrieval.py
+trên knowledge base wiki Genshin, 2.848 chunk)?
 
-Vì recall 100% đó đo trên các câu hỏi ĐƠN, tự đủ nghĩa. Đo thực tế ở Milestone 5,
-truy hồi thuần vector hỏng đúng ở hai chỗ:
+Vì recall đó đo trên các câu hỏi ĐƠN, tự đủ nghĩa. Đo thực tế ở Milestone 5 (trên
+KB cũ — ví dụ dưới đã đổi theo KB hiện tại, cơ chế hỏng thì không đổi), truy hồi
+thuần vector hỏng đúng ở hai chỗ:
 
-  1. Câu nối tiếp: sau khi hỏi Baron Nashor, câu "Còn Liên Quân thì sao?" truy hồi
-     ra Tổng quan / Xếp hạng / Giải đấu và TRƯỢT chunk "Mục tiêu trung lập" — đúng
-     chỗ chứa Rồng Bạo Chúa. Cách chữa hiện tại là gọi LLM viết lại câu hỏi,
-     tốn ~7 giây và một lượt gọi API mỗi lần.
-  2. Câu so sánh chéo game: "Liên Quân có con nào giống Baron Nashor không?".
-     Vector chỉ trả về các chunk GIỐNG câu hỏi về mặt từ ngữ, mà "Baron Nashor" và
-     "Thần Rừng" không hề giống nhau về từ ngữ — chúng chỉ giống nhau về VAI TRÒ.
+  1. Câu nối tiếp: sau khi hỏi về Khuếch Tán, câu "Còn Kết Tinh thì sao?" tự nó
+     không chứa từ khoá nào của chủ đề nên truy hồi trượt trang Kết Tinh. Cách
+     chữa hiện tại là gọi LLM viết lại câu hỏi, tốn một lượt gọi API mỗi lần.
+  2. Câu so sánh: "có vũ khí nào cùng loại với Kiếm Sắt Đen không?". Vector chỉ
+     trả về các chunk GIỐNG câu hỏi về mặt từ ngữ, mà "Kiếm Sắt Đen" và "Ánh Trăng
+     Xiphos" không hề giống nhau về từ ngữ — chúng chỉ giống nhau về VAI TRÒ.
 
 Cả hai đều là quan hệ giữa các thực thể, không phải độ tương đồng văn bản. Vector
 không biểu diễn được quan hệ; đồ thị thì có.
@@ -58,9 +58,9 @@ class Entity:
         """
         Định danh duy nhất. PHẢI kèm tên tài liệu, không được dùng riêng tên.
 
-        "Đường Giữa" tồn tại trong CẢ Liên Minh lẫn Liên Quân, và là hai thực thể
-        khác nhau (khác vai trò, khác định nghĩa, thuộc hai game). Gộp chúng theo
-        tên sẽ nuốt mất một bên cùng toàn bộ cạnh của nó.
+        "Tinh Luyện" tồn tại trong HÀNG TRĂM trang vũ khí, và ở mỗi trang nó là
+        một thực thể khác nhau (hiệu ứng khác, định nghĩa khác). Gộp chúng theo
+        tên sẽ nuốt mất tất cả trừ một, cùng toàn bộ cạnh của chúng.
         """
         return f"{self.source_name}#{self.name.lower()}"
 
@@ -81,7 +81,7 @@ class Edge:
 # Giới hạn phần tên ở 60 ký tự để câu văn xuôi có dấu hai chấm giữa dòng
 # không bị nhận nhầm thành định nghĩa.
 _DEFINITION = re.compile(_BULLET.pattern + r"([^:\n]{2,60}?)\s*:\s*(.+)$")
-# Bí danh trong ngoặc: "Sứ Giả Khe Nứt (Rift Herald)", "Xạ thủ (ADC / Bot)".
+# Bí danh trong ngoặc: "Durin (NPC)", "Hoàng Ngọc Cứng (Nhóm)".
 _PAREN = re.compile(r"^(.*?)\s*\(([^)]+)\)\s*$")
 
 # Phần văn xuôi bám đuôi tên: "Thánh Di Vật (Artifact), gồm năm vị trí: ..." —
@@ -122,11 +122,12 @@ _INFOBOX_TYPE = re.compile(r"^\s*type\s*:\s*(.+?)\s*$", re.IGNORECASE | re.MULTI
 # nên nó phải phản ánh VAI TRÒ chứ không phải tên riêng.
 _KIND_RULES: tuple[tuple[str, str], ...] = (
     ("mục tiêu", "mục tiêu trung lập"),
-    # PHẢI đứng trước hai luật "vị trí"/"bản đồ" bên dưới. Trong game bắn súng và
-    # sinh tồn, "bản đồ" là cả một đấu trường (Ascent, Bermuda); trong MOBA, mục
-    # bản đồ lại liệt kê các ĐƯỜNG (Đường giữa, Đường Rồng). Gộp hai thứ vào cùng
-    # vai trò thì đồ thị sinh ra cạnh vô nghĩa — đo được: "Xạ thủ" bị nối
-    # `tương_tự` với "Ascent" chỉ vì cả hai nằm dưới mục có chữ "bản đồ".
+    # PHẢI đứng trước hai luật "vị trí"/"bản đồ" bên dưới. Bài học đo trên KB cũ
+    # (nhiều game, còn trên branch main): "bản đồ" của game bắn súng là cả một đấu
+    # trường, "bản đồ" của MOBA lại liệt kê các ĐƯỜNG — gộp vào cùng vai trò thì
+    # đồ thị sinh cạnh `tương_tự` vô nghĩa giữa hai thứ chỉ chung mỗi chữ "bản đồ".
+    # Với KB wiki Genshin, kind chủ yếu lấy từ dòng `type:` của infobox; các luật
+    # theo tiêu đề mục ở đây là lưới dự phòng, luật không khớp thì không gây hại.
     ("đấu trường", "bản đồ thi đấu"),
     ("vị trí", "vị trí"),
     ("bản đồ", "vị trí"),
@@ -154,7 +155,7 @@ def _kind_of_section(section: str) -> str:
 
 
 def _split_alias(raw: str) -> tuple[str, list[str]]:
-    """"Xạ thủ (ADC / Bot)" -> ("Xạ thủ", ["ADC", "Bot"])."""
+    """"Durin (NPC)" -> ("Durin", ["NPC"])."""
     raw = _PROSE_TAIL.split(raw.strip(), maxsplit=1)[0]
     m = _PAREN.match(raw.strip())
     if not m:
@@ -237,8 +238,8 @@ def extract(docs: list[Document]) -> tuple[list[Entity], list[Edge]]:
             by_kind[doc_entity.kind].append(doc_entity)
 
     # Cạnh `tương_tự`: cùng vai trò nhưng khác tài liệu.
-    # Đây là cạnh mà vector search KHÔNG thể thay thế — Baron Nashor và Thần Rừng
-    # không giống nhau một chữ nào, chúng chỉ cùng là "mục tiêu trung lập".
+    # Đây là cạnh mà vector search KHÔNG thể thay thế — "Kiếm Sắt Đen" và "Ánh
+    # Trăng Xiphos" không giống nhau một chữ nào, chúng chỉ cùng là Kiếm Đơn.
     for kind, group in by_kind.items():
         if kind == "khái niệm" or len(group) > MAX_SIMILAR_GROUP:
             continue  # quá rộng, nối tất cả với tất cả thì thành nhiễu
@@ -268,14 +269,14 @@ class Lexicon:
     """
     Bộ dò tên thực thể trong văn bản, khớp cụm DÀI TRƯỚC.
 
-    Bắt buộc khớp dài trước: "Rồng" là một thực thể, nhưng "Rồng Ngàn Tuổi" và
-    "Rồng Bạo Chúa" cũng vậy. Nếu quét theo thứ tự tuỳ ý thì câu về Rồng Ngàn Tuổi
-    sẽ bị tính là nhắc tới Rồng (một thực thể khác hẳn), kéo theo cả cụm chunk sai.
+    Bắt buộc khớp dài trước: "Băng" là một thực thể, nhưng "Đóng Băng" và
+    "Phá Băng" cũng vậy. Nếu quét theo thứ tự tuỳ ý thì câu về Đóng Băng sẽ bị
+    tính là nhắc tới Băng (một thực thể khác hẳn), kéo theo cả cụm chunk sai.
     """
 
     def __init__(self, entities: list[Entity]):
-        # Một chuỗi có thể trỏ tới NHIỀU thực thể: "Đường Giữa" có ở cả hai game.
-        # Giữ tất cả, để bên gọi tự quyết định lọc theo game hay không.
+        # Một chuỗi có thể trỏ tới NHIỀU thực thể: "Tinh Luyện" có ở hàng trăm
+        # trang vũ khí. Giữ tất cả, để bên gọi tự quyết định lọc hay không.
         by_surface: dict[str, list[Entity]] = defaultdict(list)
         for e in entities:
             for s in e.surfaces:
@@ -354,8 +355,8 @@ class Lexicon:
 SCHEMA = """
 CREATE TABLE IF NOT EXISTS graph_entities (
     id          BIGSERIAL PRIMARY KEY,
-    -- khoá "<tài liệu>#<tên viết thường>": tên KHÔNG duy nhất giữa các game,
-    -- "Đường Giữa" có ở cả Liên Minh lẫn Liên Quân và là hai thực thể khác nhau.
+    -- khoá "<tài liệu>#<tên viết thường>": tên KHÔNG duy nhất giữa các tài liệu,
+    -- "Tinh Luyện" có ở hàng trăm trang vũ khí và mỗi trang là một thực thể riêng.
     key         TEXT NOT NULL UNIQUE,
     name        TEXT NOT NULL,
     kind        TEXT NOT NULL,

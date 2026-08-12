@@ -58,27 +58,29 @@ def main() -> None:
 
     # --- 1. Câu trong phạm vi ------------------------------------------------
     print("\n  --- Câu trong phạm vi ---")
-    r = call("/api/chat", {"session_id": SESSION, "message": "Baron Nashor là gì?"}, "POST")
+    r = call("/api/chat", {"session_id": SESSION, "message": "Khuếch Tán là gì?"}, "POST")
     print(f"    trả lời: {r['answer'][:90]}...")
     print(f"    nguồn  : {[c['source_name'] for c in r['citations']]}")
     check(not r["refused"], "Không bị từ chối")
-    check("Baron" in r["answer"], "Câu trả lời nhắc tới Baron")
+    check("Khuếch Tán" in r["answer"], "Câu trả lời nhắc tới Khuếch Tán")
     check(
-        any(c["source_name"] == "lien_minh_huyen_thoai.txt" for c in r["citations"]),
-        "Trích đúng nguồn Liên Minh Huyền Thoại",
+        any(c["source_name"] == "Khuếch Tán.txt" for c in r["citations"]),
+        "Trích đúng nguồn trang Khuếch Tán",
     )
-    check(len(r["citations"]) <= 2, f"Không trích thừa nguồn (có {len(r['citations'])})")
+    # Trang wiki dài nên một nguồn có thể góp vài mục — chặn trên nới hơn KB cũ,
+    # nhưng vẫn phải là hữu hạn: trích cả top-k làm nguồn là sai (xem citations()).
+    check(len(r["citations"]) <= 4, f"Không trích thừa nguồn (có {len(r['citations'])})")
 
     # --- 2. Câu nối tiếp — kiểm tra query rewriting -------------------------
     print("\n  --- Câu nối tiếp ---")
-    r2 = call("/api/chat", {"session_id": SESSION, "message": "Còn Liên Quân thì sao?"}, "POST")
+    r2 = call("/api/chat", {"session_id": SESSION, "message": "Còn Kết Tinh thì sao?"}, "POST")
     print(f"    viết lại: {r2['search_query']}")
     print(f"    trả lời : {r2['answer'][:90]}...")
     check(r2["rewrote_query"], "Câu hỏi phụ thuộc ngữ cảnh đã được viết lại")
     check(not r2["refused"], "Trả lời được câu nối tiếp")
     check(
-        any(c["source_name"] == "lien_quan_mobile.txt" for c in r2["citations"]),
-        "Truy hồi đúng sang tài liệu Liên Quân",
+        any(c["source_name"] == "Kết Tinh.txt" for c in r2["citations"]),
+        "Truy hồi đúng sang trang Kết Tinh",
     )
 
     # --- 3. Câu ngoài phạm vi -> phải từ chối --------------------------------

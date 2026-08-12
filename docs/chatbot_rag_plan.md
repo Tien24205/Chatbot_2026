@@ -1,5 +1,9 @@
 # Kế hoạch xây dựng Chatbot RAG với PostgreSQL + pgvector
 
+> **Ghi chú (branch GI_Rag):** đây là bản kế hoạch gốc, viết cho knowledge base
+> game tự soạn (còn trên branch `main`). Branch này đã thay KB bằng wiki Genshin
+> Impact tiếng Việt và chuyển embedding sang chạy máy — xem README cho hiện trạng.
+
 ## 1. Mục tiêu
 
 Xây dựng một chatbot hỏi đáp dựa trên Knowledge Base, sử dụng mô hình RAG (Retrieval-Augmented Generation), PostgreSQL/pgvector để lưu trữ và tìm kiếm vector, kết hợp với LLM API để sinh câu trả lời.

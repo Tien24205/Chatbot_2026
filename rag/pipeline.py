@@ -128,10 +128,10 @@ def rewrite_query(question: str, history: list[dict]) -> str:
     """
     Viết lại câu hỏi nối tiếp thành câu đứng độc lập trước khi truy hồi.
 
-    Lý do: retrieval chỉ nhìn thấy văn bản câu hỏi, không thấy hội thoại. Đo được
-    thực tế: sau khi hỏi về Baron Nashor, câu "Còn Liên Quân thì sao?" truy hồi ra
-    Tổng quan / Xếp hạng / Giải đấu và TRƯỢT chunk "Mục tiêu trung lập" — đúng chỗ
-    chứa Rồng Bạo Chúa và Thần Rừng.
+    Lý do: retrieval chỉ nhìn thấy văn bản câu hỏi, không thấy hội thoại. Câu
+    "Còn Kết Tinh thì sao?" đứng một mình không chứa từ khoá nào của chủ đề đang
+    nói, nên truy hồi trả về chunk lạc đề và trượt đúng trang Kết Tinh (đo được
+    hiện tượng này trên KB cũ, cơ chế không phụ thuộc dữ liệu).
 
     Đánh đổi: tốn thêm một lượt gọi LLM mỗi khi có lịch sử. Chỉ chạy khi cần.
     """
@@ -195,16 +195,16 @@ def expand_with_graph(
     Bổ sung chunk mà vector bỏ sót, đi qua cạnh `tương_tự` trong đồ thị.
 
     Trả về (chunk bổ sung, các quan hệ đã đi qua). Phần quan hệ quan trọng ngang
-    phần chunk: bản thân "Baron Nashor và Thần Rừng cùng vai trò mục tiêu trung
-    lập" đã là một dữ kiện rút từ cách tài liệu phân mục, và nó chính là thứ LLM
+    phần chunk: bản thân "Kiếm Sắt Đen và Ánh Trăng Xiphos cùng vai trò Kiếm Đơn"
+    đã là một dữ kiện rút từ cách tài liệu phân loại, và nó chính là thứ LLM
     cần để dám so sánh mà không phải tự suy diễn.
 
     HAI RÀNG BUỘC:
 
     1. Chỉ gieo mầm từ thực thể NGƯỜI DÙNG NHẮC TRONG CÂU HỎI, không gieo từ thực
-       thể nằm trong các chunk đã truy hồi. Đo được: chunk "Mục tiêu trung lập"
-       của Liên Quân có nhắc cả "đường dưới", "đường trên" — gieo từ đó thì đồ thị
-       kéo về toàn chunk vị trí, loãng hẳn ngữ cảnh của câu hỏi về mục tiêu.
+       thể nằm trong các chunk đã truy hồi. Lý do (đo trên KB cũ): chunk trả lời
+       thường nhắc kèm hàng loạt thực thể phụ — gieo từ chúng thì đồ thị kéo về
+       toàn chunk lạc đề, loãng hẳn ngữ cảnh của chính câu hỏi.
 
     2. Chỉ chạy SAU khi ngưỡng similarity (lớp 2) đã cho qua. Đồ thị không bao giờ
        được cứu một câu vốn phải bị từ chối, nếu không thì mọi câu ngoài phạm vi
@@ -252,10 +252,10 @@ def entailment_check(answer_text: str, hits: list[SearchHit]) -> list[str]:
 
     Trả về danh sách khẳng định KHÔNG được chứng minh (rỗng = đạt).
 
-    Đây là lớp duy nhất bắt được lỗi SUY DIỄN: ngữ cảnh nói "Thần Rừng xuất hiện
-    từ phút thứ 8", câu trả lời viết "nên trận đấu thường kết thúc sau phút 8" —
-    mọi con số đều có thật, mọi tên đều có thật, lớp 4 không thấy gì; chỉ có đọc
-    hiểu mới thấy đó là suy diễn.
+    Đây là lớp duy nhất bắt được lỗi SUY DIỄN: ngữ cảnh nói "phản ứng Bốc Hơi
+    nhân sát thương 1,5 lần", câu trả lời viết "nên Bốc Hơi luôn là lựa chọn mạnh
+    nhất" — mọi con số đều có thật, mọi tên đều có thật, lớp 4 không thấy gì;
+    chỉ có đọc hiểu mới thấy đó là suy diễn.
 
     Lỗi ở lớp này KHÔNG được phép làm hỏng câu trả lời: nếu lệnh gọi kiểm chứng
     thất bại thì coi như chưa kiểm chứng, chứ không chặn câu trả lời đã sinh xong.

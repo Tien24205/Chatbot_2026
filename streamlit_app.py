@@ -104,8 +104,8 @@ def to_view(ans) -> dict:
 
 def draw_answer(view: dict, question: str) -> None:
     # Câu hỏi nối tiếp được viết lại trước khi truy hồi — nói ra cho minh bạch,
-    # nếu không người dùng không hiểu vì sao "Còn Liên Quân thì sao?" lại ra
-    # nguyên một đoạn về Rồng Bạo Chúa.
+    # nếu không người dùng không hiểu vì sao "Còn Kết Tinh thì sao?" lại ra
+    # nguyên một đoạn về phản ứng Kết Tinh.
     if view["search_query"] and view["search_query"] != question:
         st.caption(f'Đã diễn giải câu hỏi thành: "{view["search_query"]}"')
 
