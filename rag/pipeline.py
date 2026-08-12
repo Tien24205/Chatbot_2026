@@ -40,6 +40,12 @@ class Answer:
     citations: list[str] = field(default_factory=list)
     hits: list[SearchHit] = field(default_factory=list)
     refused: bool = False
+    # AI đã từ chối: "threshold" = lớp 2 chặn trước khi gọi LLM;
+    #                "model"     = ngữ cảnh đủ liên quan nhưng LLM nói không có
+    #                              câu trả lời trong đó (quy tắc 2 của system prompt).
+    # Phải phân biệt, nếu không giao diện sẽ báo "0.872 < ngưỡng 0.82" — một câu
+    # vừa sai số học vừa đổ lỗi nhầm cho ngưỡng.
+    refused_by: str = ""
     top_similarity: float = 0.0
     rewrite_ms: int = 0  # gọi LLM viết lại câu hỏi (chỉ khi có lịch sử)
     retrieval_ms: int = 0  # embed câu hỏi + truy vấn pgvector
@@ -304,6 +310,7 @@ def ask(
         return Answer(
             text=prompt.REFUSAL_MESSAGE,
             refused=True,
+            refused_by="threshold",
             top_similarity=top,
             hits=hits,
             rewrite_ms=rewrite_ms,
@@ -372,6 +379,7 @@ def ask(
         return Answer(
             text=text,
             refused=True,
+            refused_by="model",
             top_similarity=top,
             hits=hits,
             rewrite_ms=rewrite_ms,

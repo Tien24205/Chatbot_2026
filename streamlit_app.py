@@ -74,6 +74,7 @@ def to_view(ans) -> dict:
     return {
         "text": ans.text,
         "refused": ans.refused,
+        "refused_by": ans.refused_by,
         "top_similarity": ans.top_similarity,
         "search_query": ans.search_query,
         "citations": [
@@ -111,11 +112,20 @@ def draw_answer(view: dict, question: str) -> None:
     st.markdown(view["text"])
 
     if view["refused"]:
-        st.caption(
-            f"Không nguồn nào vượt ngưỡng tin cậy "
-            f"(liên quan cao nhất {view['top_similarity']:.4f} "
-            f"< ngưỡng {config.SIMILARITY_THRESHOLD})"
-        )
+        # Hai lối từ chối rất khác nhau, và nói nhầm thì người đọc hiểu sai hoàn
+        # toàn vì sao không có câu trả lời.
+        if view["refused_by"] == "model":
+            st.caption(
+                f"Có tài liệu liên quan (cao nhất {view['top_similarity']:.4f}, "
+                f"trên ngưỡng {config.SIMILARITY_THRESHOLD}) nhưng không đoạn nào "
+                "chứa câu trả lời — chính model nói vậy, không phải ngưỡng chặn."
+            )
+        else:
+            st.caption(
+                f"Không nguồn nào vượt ngưỡng tin cậy "
+                f"(liên quan cao nhất {view['top_similarity']:.4f} "
+                f"< ngưỡng {config.SIMILARITY_THRESHOLD})"
+            )
     elif view["citations"]:
         lines = []
         for c in view["citations"]:
@@ -130,8 +140,21 @@ def draw_answer(view: dict, question: str) -> None:
     # không phân biệt được "đã soát, sạch" với "chưa soát gì".
     if not view["refused"]:
         if view["flags"] or view["unsupported"]:
-            items = "\n".join(f"- {f}" for f in view["flags"] + view["unsupported"])
-            st.warning("Kiểm chứng phát hiện dấu hiệu đáng ngờ:\n" + items)
+            # Tách hai nhóm: lớp 3-4 là phép kiểm TẤT ĐỊNH (trích dẫn, số liệu,
+            # tên riêng), lớp 5 là nhận định của một LLM khác. Gộp chung thành một
+            # danh sách khiến người đọc tưởng chúng cùng độ tin cậy.
+            parts = []
+            if view["flags"]:
+                parts.append(
+                    "**Lớp 3-4 — kiểm tra tất định:**\n"
+                    + "\n".join(f"- {f}" for f in view["flags"])
+                )
+            if view["unsupported"]:
+                parts.append(
+                    "**Lớp 5 — khẳng định chưa đối chiếu được với tài liệu:**\n"
+                    + "\n".join(f"- {u}" for u in view["unsupported"])
+                )
+            st.warning("\n\n".join(parts))
         else:
             extra = " + đối chiếu entailment" if view["entailment_ran"] else ""
             st.success(f"Đã soát trích dẫn, số liệu và tên riêng{extra}")

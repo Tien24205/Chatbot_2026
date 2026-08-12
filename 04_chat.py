@@ -74,7 +74,10 @@ def main() -> None:
 
             print(f"\nBot: {ans.text}\n")
 
-            if ans.refused:
+            if ans.refused and ans.refused_by == "model":
+                print(f"  (có tài liệu liên quan {ans.top_similarity:.3f} nhưng không "
+                      f"đoạn nào chứa câu trả lời — model tự nói, không phải ngưỡng)")
+            elif ans.refused:
                 print(f"  (từ chối — độ liên quan cao nhất {ans.top_similarity:.3f} "
                       f"< ngưỡng {config.SIMILARITY_THRESHOLD})")
             else:
