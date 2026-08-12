@@ -94,6 +94,28 @@ ngưỡng**, coi như không có lớp nào khác, và trả giá bằng 16/17 c
 Dự án này có năm lớp, nên chọn **τ = 0.82** và để bốn lớp còn lại làm việc của
 chúng. Đúng nguyên tắc đã ghi bên dưới: ngưỡng là hàm của số lớp phòng thủ.
 
+**Đo đầu-cuối bằng `08_eval_answers.py` (25 câu) chứng minh lựa chọn đó:**
+
+| Nhóm | Đạt | Tổng |
+|---|---|---|
+| in_scope | 10 | 13 |
+| ambiguous | 4 | 4 |
+| out_of_scope | 8 | 8 |
+| **Tất cả** | **22** | **25** |
+
+| | Chỉ nhìn ngưỡng (`03`) | Đầu-cuối (`08`) |
+|---|---|---|
+| Câu ngoài phạm vi bị trả lời | dự báo **9** | thực tế **0** |
+
+Chín câu đó bị các lớp phía sau chặn hết. Đây là con số nói rõ nhất vì sao hiệu
+chuẩn ngưỡng một mình là chưa đủ: `03` đo tầng truy hồi, `08` đo cái người dùng
+thực sự nhận được.
+
+Câu bị gắn cờ kiểm chứng: **2/14**. Lớp 5 chỉ chạy **2/14** lần (chế độ `auto`).
+Latency trung vị: truy hồi **91 ms** · sinh câu trả lời **1044 ms** · tổng
+**1174 ms**. Một lần lớp 5 mất 87 giây vì chạm giới hạn tần suất của model chat —
+truy hồi thì không, vì embedding đã chạy trên máy.
+
 ---
 
 <details>
