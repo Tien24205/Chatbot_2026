@@ -91,13 +91,49 @@ MIN_SECTION_CHARS = 200
 
 _ILLEGAL = re.compile(r'[<>:"/\\|?*]')
 
+# Template nội dòng CÓ NGHĨA — thay bằng chữ thay vì xoá trắng.
+#
+# Wiki dùng {{Hỏa}}, {{Đóng Băng}}... để hiện icon + tên nguyên tố/phản ứng ngay
+# giữa câu và cả TRONG TIÊU ĐỀ MỤC. Bản đầu xoá trắng mọi template, gây hai hậu quả
+# đo được trên trang Thuyết Định Lượng Nguyên Tố:
+#   - tiêu đề "==={{Đóng Băng}} và {{Phá Băng}}===" thành "=== và ===" -> mục "## và";
+#     "==={{Sinh Trưởng}}===" thành "======" -> regex bắt nhầm ra mục "## =".
+#     Chunk mang tên mục "=" lọt vào top-6 truy hồi — rác chiếm chỗ đoạn thật.
+#   - câu "tiêu hao với các nguyên tố {{Thảo}} và {{Lôi}}" thành "với các nguyên
+#     tố và." — mất sạch tên nguyên tố ở 10 file.
+#
+# Chỉ đưa vào danh sách những tên tra được từ chính nội dung đã tải (tên nguyên tố,
+# tên phản ứng) + tên tiếng Anh chuẩn của 7 nguyên tố. KHÔNG thay bừa mọi template
+# không tham số: {{stub}}, {{Clr}}... mà thành chữ trần thì còn tệ hơn xoá.
+INLINE_TEMPLATES = {
+    t.lower(): t
+    for t in (
+        "Hỏa", "Thủy", "Phong", "Lôi", "Thảo", "Băng", "Nham", "Vật Lý",
+        "Quá Tải", "Phá Băng", "Điện Cảm", "Siêu Dẫn", "Khuếch Tán", "Kết Tinh",
+        "Thiêu Đốt", "Bốc Hơi", "Tan Chảy", "Đóng Băng", "Sinh Trưởng",
+        "Tăng Cường", "Lan Tràn", "Nở Rộ", "Sum Suê", "Bung Tỏa", "Tăng Trưởng",
+    )
+} | {
+    "pyro": "Hỏa", "hydro": "Thủy", "anemo": "Phong", "electro": "Lôi",
+    "dendro": "Thảo", "cryo": "Băng", "geo": "Nham",
+}
 
-# --- Dọn wikitext ----------------------------------------------------------
+
+def _template_text(tpl: str) -> str:
+    """Chữ thay thế cho một template, hoặc '' nếu template đáng xoá thật."""
+    body = tpl[2:-2]
+    name, _, rest = body.partition("|")
+    key = name.strip().lower()
+    # Dạng bọc {{NT|Hỏa}} / {{Nguyên Tố|Cryo}}: tên thật nằm ở tham số đầu.
+    if key in {"nt", "nguyên tố", "element"} and rest:
+        key = rest.split("|", 1)[0].strip().lower()
+    return INLINE_TEMPLATES.get(key, "")
 
 
 def _strip_templates(text: str) -> tuple[str, list[str]]:
     """
-    Bỏ mọi {{...}}, khớp ngoặc lồng nhau. Trả về (phần còn lại, các template gốc).
+    Bỏ mọi {{...}}, khớp ngoặc lồng nhau — trừ template nội dòng có nghĩa (xem
+    INLINE_TEMPLATES) được thay bằng chữ. Trả về (phần còn lại, các template gốc).
 
     Không dùng regex cho việc này được: template Fandom lồng nhau nhiều tầng
     ({{Seffect|{{Star}}}}), mà regex không đếm được ngoặc.
@@ -115,7 +151,9 @@ def _strip_templates(text: str) -> tuple[str, list[str]]:
             depth -= 1
             i += 2
             if depth == 0:
-                found.append(text[start:i])
+                tpl = text[start:i]
+                found.append(tpl)
+                out.append(_template_text(tpl))
         else:
             if depth == 0:
                 out.append(text[i])
@@ -292,9 +330,16 @@ def to_markdown(title: str, wikitext: str) -> tuple[str, dict]:
     for raw in text.split("\n"):
         m = re.match(r"^==+\s*(.+?)\s*==+\s*$", raw)
         if m:
+            # Chốt chặn cho template NGOÀI danh sách INLINE_TEMPLATES: tiêu đề mà
+            # sau khi bỏ template chỉ còn "=", "và", dấu câu... thì KHÔNG mở mục
+            # mới — để nội dung chảy tiếp vào mục hiện tại. Mục tên "=" từng lọt
+            # vào top-6 truy hồi; gộp nhầm mục còn đỡ hại hơn sinh mục rác.
+            cand = m.group(1).strip("= \t")
+            if not re.search(r"\w", cand, re.UNICODE) or cand.lower() in {"và", "hoặc"}:
+                continue
             if keep and any(x.strip() for x in buf):
                 sections.append((name, buf))
-            name = m.group(1).strip()
+            name = cand
             keep = name.lower() not in DROP_SECTIONS
             buf = []
             continue

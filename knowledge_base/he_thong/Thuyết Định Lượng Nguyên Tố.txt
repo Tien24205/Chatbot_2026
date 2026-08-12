@@ -89,7 +89,7 @@ Ví dụ: Một mục tiêu mang có thể tạo ấn đủ cho 4 lần phản �
 
 Trên thực tế, hiện tượng phân rã ấn nguyên tố và ICD trong việc cấp nguyên tố sẽ làm suy giảm khả năng tạo phản ứng liên tục.
 
-## và
+## Đóng Băng Và Phá Băng
 
 Khi kích hoạt phản ứng Đóng Băng, nguyên tố Thủy và nguyên tố Băng sẽ được tiêu hao bình thường với Hệ Số Phản Ứng tương ứng là 1, tuy nhiên phản ứng này cũng sẽ tạo ra ấn có thể tương tác và tiêu hao với các nguyên tố, và.
 - Ấn nguyên tố hoặc có thể tồn tại cùng lúc với ấn dưới dạng Ấn Ngầm.
@@ -99,19 +99,19 @@ Khi kích hoạt phản ứng Đóng Băng, nguyên tố Thủy và nguyên tố
 - Tấn công kẻ địch bằng đòn tấn công nguyên tố cũng sẽ kích hoạt Phá Băng kể cả khi đòn tấn công nguyên tố Nham đó không phải đòn tấn công hạng nặng. Đòn tấn công nguyên tố Nham không phải đòn hạng nặng sẽ trực tiếp kích hoạt Phá Băng và không tiêu hao ấn Đông Cứng dựa trên lượng gián đoạn.
 - Khi một đòn tấn công nguyên tố kích hoạt Phá Băng, trước hết nó sẽ xóa ấn rồi mới áp dụng ấn nguyên tố của đòn tấn công nguyên tố đó sau.
 
-## =
+## Sinh Trưởng
 
 Khi kích hoạt phản ứng Sinh Trưởng, nguyên tố Thảo và nguyên tố Lôi sẽ được tiêu hao bình thường với Hệ Số Phản Ứng tương ứng là 1, tuy nhiên phản ứng này cũng sẽ tạo ra ấn có thể tương tác và tiêu hao với các nguyên tố và. Ấn Sinh Trưởng cũng sẽ phản ứng với nguyên tố và để lần lượt tạo ra phản ứng và, nhưng ấn Sinh Trưởng và ấn nguyên tố kích hoạt đều sẽ không bị tiêu hao.
 - Ấn nguyên tố hoặc có thể tồn tại cùng lúc với ấn dưới dạng Ấn Ngầm.
 - Ấn Ngầm sẽ được tạo ra khi ấn nguyên tố ban đầu kích hoạt phản ứng Sinh Trưởng không bị tiêu hao hết, hoặc do có nguyên tố Thảo/Lôi được áp dụng lại sau khi kích hoạt phản ứng Sinh Trưởng.
 
-## =
+## Điện Cảm
 
 - Nguyên tố và nguyên tố sẽ tồn tại cùng lúc với nhau trong suốt phản ứng, đồng thời không phân biệt nguyên tố nào là ấn hay nguyên tố kích hoạt.
 - Sự tiêu hao nồng độ của phản ứng sẽ diễn ra với mỗi lần gây sát thương, đồng thời làm giảm 0,4U nguyên tố của cả hai cho đến khi một trong hai nguyên tố bị tiêu hao hết.
 - Mục tiêu sẽ có cả hai ấn nguyên tố và khi đang diễn ra, cho phép các nguyên tố này tham gia các phản ứng khác (ví dụ, một đòn tấn công nguyên tố có thể đồng thời tạo ra lần lượt và lên mục tiêu ).
 
-## =
+## Thiêu Đốt
 
 Phản ứng Thiêu Đốt sẽ tạo ra một ấn. Trạng thái Thiêu Đốt sẽ bảo toàn cả ấn Thiêu Đốt và ấn Thảo, và sẽ chỉ kết thúc khi một trong hai đã bị tiêu hao hết.
 - Khi Thiêu Đốt diễn ra, ấn nguyên tố Thảo sẽ ảnh hưởng bởi một mức tiêu hao cố định mỗi khung là 0,4U/s.
