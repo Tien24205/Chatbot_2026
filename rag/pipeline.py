@@ -50,6 +50,29 @@ _AGGREGATE_MARKERS = (
 MAX_DOC_CHUNKS = 12
 
 
+# Tiếng lóng cộng đồng -> từ ngữ THẬT trong knowledge base. Vấn đề đo được:
+# "cơ chế bảo hiểm khi cầu nguyện" chỉ đạt 0.824 (sát ngưỡng, top toàn chunk
+# lạc đề) vì wiki không dùng chữ "bảo hiểm" — nó viết "Đảm Bảo 5: ... lần thứ
+# 90 chắc chắn sẽ ra" (Cầu Nguyện Nhân Vật.txt). Nối chú giải vào câu truy vấn
+# cho embedding có từ khớp nguồn.
+#
+# TỪNG mục phải grep thấy vế phải trong knowledge_base TRƯỚC khi thêm — bí danh
+# đoán mò kéo truy hồi lệch còn tệ hơn không có. Đã kiểm và KHÔNG thêm: "banner",
+# "quay", "gacha" (wiki tự dùng các từ này); "AR"/"Cấp Mạo Hiểm" (kho không có).
+_SLANG = {
+    "bảo hiểm": "số lần đảm bảo, chắc chắn nhận được vật phẩm khi cầu nguyện",
+    "pity": "số lần đảm bảo khi cầu nguyện",
+    "resin": "Nhựa Nguyên Chất",
+}
+
+
+def expand_slang(query: str) -> str:
+    """Nối chú giải cho tiếng lóng — KHÔNG thay chữ gốc, giữ nguyên tín hiệu cũ."""
+    q = query.lower()
+    notes = [f"{k} tức là {v}" for k, v in _SLANG.items() if k in q]
+    return f"{query} ({'; '.join(notes)})" if notes else query
+
+
 def needs_doc_expansion(question: str) -> bool:
     q = question.lower()
     return any(m in q for m in _AGGREGATE_MARKERS)
@@ -377,7 +400,7 @@ def ask(
     """
     # Đo tách bạch: viết lại câu hỏi là một lượt gọi LLM, không phải chi phí truy hồi.
     t0 = time.perf_counter()
-    search_query = rewrite_query(question, history or [])
+    search_query = expand_slang(rewrite_query(question, history or []))
     rewrite_ms = int((time.perf_counter() - t0) * 1000)
 
     # --- Đường đếm tất định (hướng B) ---------------------------------------
@@ -463,8 +486,11 @@ def ask(
 
     gen_cfg = types.GenerateContentConfig(
         system_instruction=prompt.SYSTEM_PROMPT,
-        # Nhiệt độ thấp: đây là tác vụ tra cứu, không phải sáng tác.
-        temperature=0.2,
+        # Nhiệt độ 0 — tra cứu, không phải sáng tác. Hạ từ 0.2 sau khi đo: câu
+        # mở "Nhân vật hệ Thảo có gì đặc biệt?" ở 0.2 lúc trả lời lúc tự từ
+        # chối tuỳ lần chạy (cùng ngữ cảnh!), ở 0 thì trả lời ổn định. Ca ranh
+        # giới thì tính tất định đáng giá hơn chút đa dạng câu chữ.
+        temperature=0.0,
     )
 
     t2 = time.perf_counter()

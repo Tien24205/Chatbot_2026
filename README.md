@@ -100,20 +100,25 @@ bên dưới: ngưỡng là hàm của số lớp phòng thủ.
 
 | Nhóm | Đạt | Tổng |
 |---|---|---|
-| in_scope | 12 | 13 |
+| in_scope | 13 | 13 |
 | ambiguous | 4 | 4 |
 | out_of_scope | 8 | 8 |
-| **Tất cả** | **24** | **25** |
+| **Tất cả** | **25** | **25** |
 
-Con số 24 có được sau hai sửa đổi rút từ chẩn đoán ba câu bỏ sót:
+Con số 25 có được sau khi chẩn đoán từng câu bỏ sót (mốc sau refetch: 21/25)
+và vá đúng bốn thứ đo được:
 - **Mở rộng theo thực thể** (`expand_with_entities`): bullet định nghĩa "Quá
   Tải: Gây... vụ nổ" nằm trong trang Hỏa, ngoài top-k của câu hỏi về Quá Tải —
   đồ thị biết chunk nào nhắc tới thực thể trong câu hỏi, chấm điểm lại bằng
   similarity thật rồi bổ sung tối đa 2 đoạn.
-- **Quy tắc không-từ-chối-vì-khác-cách-gọi** (quy tắc 2): hỏi "cơ chế bảo hiểm",
-  tài liệu viết "chắc chắn nhận được trong vòng N lần" — cùng một thứ.
-Câu còn trượt duy nhất chính là ca ranh giới đó ("bảo hiểm" ↔ "đảm bảo"):
-chập chờn giữa các lần chạy, khi đạt khi không.
+- **Từ điển tiếng lóng** (`_SLANG`): "cơ chế bảo hiểm" chỉ đạt 0.824 vì wiki
+  viết "Đảm Bảo 5: ... lần thứ 90 chắc chắn sẽ ra". Nối chú giải vào câu truy
+  vấn nâng điểm lên 0.847 và câu trả lời ổn định. Từng mục đều grep thấy vế
+  phải trong kho trước khi thêm.
+- **Quy tắc không-từ-chối-vì-khác-cách-gọi** (quy tắc 2), kèm vế cho câu hỏi
+  mở "X có gì đặc biệt?".
+- **Nhiệt độ 0**: ở 0.2, câu ranh giới lúc trả lời lúc tự từ chối tuỳ lần chạy
+  với CÙNG ngữ cảnh. Tra cứu thì tính tất định đáng giá hơn đa dạng câu chữ.
 
 | | Chỉ nhìn ngưỡng (`03`) | Đầu-cuối (`08`) |
 |---|---|---|
@@ -123,7 +128,7 @@ Mười hai câu đó bị các lớp phía sau chặn hết. Đây là con số
 hiệu chuẩn ngưỡng một mình là chưa đủ: `03` đo tầng truy hồi, `08` đo cái người
 dùng thực sự nhận được.
 
-Câu bị gắn cờ kiểm chứng: **1/16** (cờ nhắc soát, không câu nào bịa ngoài phạm
+Câu bị gắn cờ kiểm chứng: **3/17** (cờ nhắc soát, không câu nào bịa ngoài phạm
 vi). Latency trung vị: truy hồi **~100 ms** · sinh câu trả lời **~1.000 ms** ·
 tổng **~1.300 ms**; câu nào chạm giới hạn tần suất model chat thì tốn thêm
 ~20 giây chờ thử lại — truy hồi thì không bao giờ, vì embedding chạy trên máy.
