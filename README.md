@@ -33,8 +33,8 @@ Nhật ký thiết kế và các bẫy đã vấp: [docs/chatbot_rag_plan.md](do
         ↓                                             ↓
    Chunk theo tiêu đề `##`                    Trích thực thể (regex)
         ↓                                             ↓
-   Embedding (e5, chạy máy)                   Đồ thị: 2.590 thực thể
-        ↓                                      9.549 cạnh, 3 loại quan hệ
+   Embedding (e5, chạy máy)                   Đồ thị: 2.600 thực thể
+        ↓                                      24.079 cạnh, 3 loại quan hệ
    PostgreSQL + pgvector                              │
    (HNSW, cosine, 768 chiều)                          │
         │                                             │
@@ -70,51 +70,73 @@ thì rẻ, thứ nó không bắt được mới đáng tiêu hạn mức API.
 
 ## Kết quả đo được
 
-Đo trên knowledge base wiki Genshin (1.123 tài liệu / 2.848 chunk),
-embedding `intfloat/multilingual-e5-base` chạy trên máy, bộ 25 câu hỏi:
+Đo trên knowledge base wiki Genshin (1.125 tài liệu / 2.859 chunk, refetch
+2026-08-12 sau khi sửa bộ dọc template), embedding `intfloat/multilingual-e5-base`
+chạy trên máy, bộ 25 câu hỏi:
 
 | | recall@1 | recall@3 | recall@5 |
 |---|---|---|---|
-| Đúng file nguồn | 53% | 82% | **88%** |
+| Đúng file nguồn | 53% | 76% | **88%** |
 
 **Phân bố điểm số — đây mới là phát hiện đáng nói:**
 
 | | thấp nhất | trung vị | cao nhất |
 |---|---|---|---|
-| Trong phạm vi | 0.824 | 0.865 | 0.902 |
-| Ngoài phạm vi | 0.785 | 0.823 | 0.863 |
+| Trong phạm vi | 0.824 | 0.868 | 0.902 |
+| Ngoài phạm vi | 0.785 | 0.823 | 0.852 |
 
-Hai nhóm **chồng lấn 0.039**. Câu gây chồng lấn: *"Doanh thu Genshin Impact 2024
-là bao nhiêu?"* đạt 0.863 — vì nó **thật sự** nói về Genshin, chỉ là kho không có
+Hai nhóm **chồng lấn 0.028**. Câu gây chồng lấn: *"Doanh thu Genshin Impact 2024
+là bao nhiêu?"* đạt 0.852 — vì nó **thật sự** nói về Genshin, chỉ là kho không có
 câu trả lời. Ngưỡng đơn thuần không phân biệt được "đúng chủ đề" với "có câu trả
 lời", và không model embedding nào sửa được điều đó.
 
-`03_eval_retrieval.py` đề xuất τ = 0.891 để đạt 0 câu bịa — nhưng nó **chỉ nhìn
-ngưỡng**, coi như không có lớp nào khác, và trả giá bằng 16/17 câu bị từ chối oan.
-Dự án này có năm lớp, nên chọn **τ = 0.82** và để bốn lớp còn lại làm việc của
-chúng. Đúng nguyên tắc đã ghi bên dưới: ngưỡng là hàm của số lớp phòng thủ.
+`03_eval_retrieval.py` đề xuất τ = 0.89 để đạt 0 câu bịa — nhưng nó **chỉ nhìn
+ngưỡng**, coi như không có lớp nào khác, và trả giá bằng độ chính xác toàn cục
+rơi xuống 36% vì từ chối oan hàng loạt. Dự án này có năm lớp, nên chọn
+**τ = 0.82** và để bốn lớp còn lại làm việc của chúng. Đúng nguyên tắc đã ghi
+bên dưới: ngưỡng là hàm của số lớp phòng thủ.
 
 **Đo đầu-cuối bằng `08_eval_answers.py` (25 câu) chứng minh lựa chọn đó:**
 
 | Nhóm | Đạt | Tổng |
 |---|---|---|
 | in_scope | 10 | 13 |
-| ambiguous | 4 | 4 |
+| ambiguous | 3 | 4 |
 | out_of_scope | 8 | 8 |
-| **Tất cả** | **22** | **25** |
+| **Tất cả** | **21** | **25** |
 
 | | Chỉ nhìn ngưỡng (`03`) | Đầu-cuối (`08`) |
 |---|---|---|
-| Câu ngoài phạm vi bị trả lời | dự báo **9** | thực tế **0** |
+| Câu ngoài phạm vi bị trả lời | dự báo **12** | thực tế **0** |
 
-Chín câu đó bị các lớp phía sau chặn hết. Đây là con số nói rõ nhất vì sao hiệu
-chuẩn ngưỡng một mình là chưa đủ: `03` đo tầng truy hồi, `08` đo cái người dùng
-thực sự nhận được.
+Mười hai câu đó bị các lớp phía sau chặn hết. Đây là con số nói rõ nhất vì sao
+hiệu chuẩn ngưỡng một mình là chưa đủ: `03` đo tầng truy hồi, `08` đo cái người
+dùng thực sự nhận được.
 
-Câu bị gắn cờ kiểm chứng: **2/14**. Lớp 5 chỉ chạy **2/14** lần (chế độ `auto`).
-Latency trung vị: truy hồi **91 ms** · sinh câu trả lời **1044 ms** · tổng
-**1174 ms**. Một lần lớp 5 mất 87 giây vì chạm giới hạn tần suất của model chat —
-truy hồi thì không, vì embedding đã chạy trên máy.
+Câu bị gắn cờ kiểm chứng: **3/14** (cả ba là cờ nhắc soát, không câu nào bịa
+ngoài phạm vi). Lớp 5 chỉ chạy **3/14** lần (chế độ `auto`). Latency trung vị:
+truy hồi **94 ms** · sinh câu trả lời **1.180 ms** · tổng **1.370 ms**; một câu
+chạm giới hạn tần suất model chat nên tốn 25 giây chờ thử lại.
+
+### Suy luận có kiểm soát (đếm, cộng, đa bước)
+
+RAG thuần từ chối câu "có bao nhiêu X" vì không đoạn nào viết sẵn con số tổng.
+Hai đường mở, đo bằng nhóm `suy_luan` (7 câu, `08_eval_answers.py --reasoning`):
+
+- **Suy luận có đánh dấu** — quy tắc 8 của system prompt: được đếm/cộng từ dữ
+  kiện trong ngữ cảnh, nhưng phải lộ phép tính theo khuôn
+  `"Suy ra từ [1][2]: 9 + 2 + 2 = 13 loại"`. Lớp 4 miễn kiểm số cho câu này,
+  đổi lại nó **bắt buộc** bị lớp 5 kiểm phép tính. Kèm mở rộng trọn trang:
+  câu đếm/tổng hợp tự nạp thêm toàn bộ trang liên quan vào ngữ cảnh.
+- **Đếm tất định** (`rag/counting.py`) — "có bao nhiêu Kiếm Đơn?" khớp đúng
+  loại trong đồ thị thì đếm bằng SQL: **2 ms, 0 lệnh gọi API, không thể bịa**.
+  Chỉ whitelist loại danh-mục (một trang = một cá thể); loại khái niệm rơi về
+  đường suy luận có đánh dấu.
+
+Kết quả: **6/7 đạt, 0 cờ oan, 0 câu ngoài phạm vi bị trả lời**. Câu duy nhất
+chưa đạt ("có tổng cộng bao nhiêu phản ứng nguyên tố?") là từ chối **đúng
+luật**: trang nguồn liệt kê ba nhóm phản ứng nhưng không hề nói đó là tất cả —
+giữ lại làm thước đo tính thận trọng.
 
 ---
 
