@@ -91,7 +91,12 @@ QUY TẮC BẮT BUỘC:
 # Câu mở đầu của lời từ chối, dùng để NHẬN RA khi chính LLM tự từ chối (quy tắc 2
 # bắt nó nói đúng câu này). Cần nhận ra vì hai lối từ chối phải được đối xử như
 # nhau: không trích nguồn, không ghi vào lịch sử hội thoại.
-REFUSAL_PREFIX = "Tôi không tìm thấy thông tin này"
+#
+# Bỏ chữ "này" khỏi khuôn so khớp: model thỉnh thoảng viết chệch thành "Tôi
+# không tìm thấy thông tin CỤ THỂ về..." — đo được hậu quả khi không nhận ra:
+# câu từ chối bị coi là câu trả lời, lớp 5 đem chính nó đi soát rồi dán nguyên
+# văn vào khối cảnh báo — người dùng thấy lời từ chối lặp hai lần.
+REFUSAL_PREFIX = "Tôi không tìm thấy thông tin"
 
 REFUSAL_MESSAGE = (
     "Tôi không tìm thấy thông tin này trong tài liệu hiện có.\n\n"

@@ -34,8 +34,13 @@ _COUNT_Q = re.compile(
 # Cùng gốc với đếm: danh sách đầy đủ chỉ tồn tại dưới dạng TẬP HỢP TRANG, không
 # trang nào viết sẵn — đo được: "liệt kê các nhân vật chơi được" bị model từ
 # chối thật thà dù kho có đủ 120 trang, vì ngữ cảnh không thể chứa danh sách.
+#
+# Cụm dấu hiệu cho phép LẶP: câu nối tiếp "liệt kê" được LLM diễn giải thành
+# "liệt kê danh sách các nhân vật chơi được" — hai dấu hiệu chồng nhau, bắt một
+# lần thì phần dư "danh sách các..." dính vào cụm loại và trượt whitelist.
+# Mạo từ cũng lặp được ("tất cả các nhân vật...") — đo từ diễn giải thật của LLM.
 _LIST_Q = re.compile(
-    r"(?:liệt kê|kể tên|danh sách)\s+(?:các\s+|những\s+|tất cả\s+)?(.+?)" + _TAIL
+    r"(?:(?:liệt kê|kể tên|danh sách)\s+)+(?:(?:các|những|tất cả)\s+)*(.+?)" + _TAIL
     + r"|có những\s+(.+?)\s+nào\b",
     re.IGNORECASE,
 )
@@ -104,7 +109,10 @@ def try_count(conn: psycopg.Connection, question: str) -> str | None:
 
     total = len(rows)
     phrase = phrase.strip()
-    parts = [f"Trong kho tài liệu hiện có **{total} trang** loại {phrase}."]
+    # Nói bằng đơn vị NGƯỜI HỎI dùng ("120 nhân vật chơi được"), không phải đơn
+    # vị kỹ thuật ("120 trang loại nhân vật chơi được") — người dùng đã phản hồi
+    # đúng chỗ này. Chú thích cuối câu vẫn nói rõ cách đếm là theo trang.
+    parts = [f"Trong kho tài liệu hiện có **{total} {phrase}**."]
     if mode == "list":
         # Liệt kê ĐỦ, không cắt mẫu: đây chính là điều người hỏi cần, và danh
         # sách dài nhất (vũ khí, 227 tên) vẫn chỉ vài KB chữ.
