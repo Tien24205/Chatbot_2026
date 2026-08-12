@@ -26,4 +26,4 @@ voiceCN: Hao Xianghai (zh|郝祥海)
 voiceJP: w|Tomokazu Sugita|Sugita Tomokazu (ja|杉田智和)
 voiceKR: Park Sang-hoon (ko|박상훈)YouTube: 원신
 
-- Tổng Quan: Varka là một nhân vật hệ chơi được trong Genshin Impact.
+- Tổng Quan: Varka là một nhân vật hệ Phong chơi được trong Genshin Impact.

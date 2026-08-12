@@ -29,7 +29,7 @@ releaseDate: 2021-09-27
 
 - Tổng Quan: Vua Biển Hàng Hiệu là Vũ Khí Trọng Kiếm 4 sao có thể nhận được thông qua sự kiện Trăng Thu Soi Sáng.
 
-- Tinh Luyện: Tinh luyện Vua Biển Hàng Hiệu cần có nguyên liệu đặc biệt thay vì bản sao của chính nó, có thể kiếm được thông qua sự kiện Trăng Thu Soi Sáng.
+- Tinh Luyện: Tinh luyện Vua Biển Hàng Hiệu cần có nguyên liệu đặc biệt Dầu Vua Biển thay vì bản sao của chính nó, có thể kiếm được thông qua sự kiện Trăng Thu Soi Sáng.
 
 ## Mô Tả
 

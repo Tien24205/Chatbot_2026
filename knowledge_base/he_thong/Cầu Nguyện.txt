@@ -19,7 +19,7 @@ Là dành cho Cầu Nguyện Sự Kiện Giới Hạn cho cả Nhân Vật và V
 
 Sự Kiện Cầu Nguyện Nhân Vật sẽ có một Nhân Vật 5 UP và đi kèm theo là 3 Nhân Vật 4. Với Sự Kiện Cầu Nguyện Vũ Khí thì có 2 Vũ Khí 5 UP và đi kèm 5 Vũ Khí 4. Cả 2 loại là 5 và 4 đều sẽ được tăng tỉ lệ để người chơi có thể quay ra khi so với tỉ lệ trúng thông thường.
 
-Người chơi có thể bỏ để đổi trong mục Cầu Nguyện hoặc là trong Đổi Bụi Ánh Sáng. Có nhiều phương thức để nhận Mối Duyên trong trò chơi, xem trang chi tiết của từng loại Mối Duyên để biết thêm chi tiết.
+Người chơi có thể bỏ Nguyên Thạch để đổi trong mục Cầu Nguyện hoặc là trong Đổi Bụi Ánh Sáng. Có nhiều phương thức để nhận Mối Duyên trong trò chơi, xem trang chi tiết của từng loại Mối Duyên để biết thêm chi tiết.
 
 - Cầu Nguyện Nhân Vật: Sự Kiện Cầu Nguyện có một nhân vật 5 UP và 3 nhân vật 4 UP.
 

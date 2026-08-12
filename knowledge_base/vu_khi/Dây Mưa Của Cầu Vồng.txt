@@ -20,7 +20,7 @@ eff_att1: Tấn Công
 
 - Tổng Quan: Dây Mưa Của Cầu Vồng là một cây Cung 4 sao nhận được từ sự kiện Hành Trình Tuyết Của Đấu Sĩ Lửa.
 
-- Tinh Luyện: Tinh Luyện Dây Mưa Của Cầu Vồng cần đến. Có thể nhận 4 Tâm Trí Tinh Tế trong sự kiện Hành Trình Tuyết Của Đấu Sĩ Lửa.
+- Tinh Luyện: Tinh Luyện Dây Mưa Của Cầu Vồng cần đến Tâm Trí Tinh Tế. Có thể nhận 4 Tâm Trí Tinh Tế trong sự kiện Hành Trình Tuyết Của Đấu Sĩ Lửa.
 
 ## Câu Chuyện
 

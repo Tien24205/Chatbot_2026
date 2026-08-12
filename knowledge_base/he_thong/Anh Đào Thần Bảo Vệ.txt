@@ -16,7 +16,7 @@ Trước Phiên Bản 2.4, cấp tối đa bị giới hạn ở 20, 30 và 40 l
 
 ## Phần Thưởng
 
-Mỗi cấp hiến tế yêu cầu 25. Cần tổng cộng 1,250 Ấn Lôi để đạt cấp hiến tế tối đa. Khi đạt cấp tối đa sẽ nhận được thành tựu.
+Mỗi cấp hiến tế yêu cầu 25 Ấn Lôi. Cần tổng cộng 1,250 Ấn Lôi để đạt cấp hiến tế tối đa. Khi đạt cấp tối đa sẽ nhận được thành tựu.
 
 Các cấp trừ cấp 40 và 50 sẽ thưởng:
 

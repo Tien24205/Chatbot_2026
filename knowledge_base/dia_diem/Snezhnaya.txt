@@ -19,10 +19,10 @@ Hiệp Hội Nhà Mạo Hiểm bắt nguồn từ Snezhnaya; mặc cho sự th�
 
 - "Snezhnaya" () là một tính từ tiếng Nga. Trong trường hợp này, có thể đây là phép hoán dụ (cụm từ đầy đủ có thể là hoặc; hai danh từ "đất nước" và "vùng đất" ở giống cái, theo nó là tính từ "nhiều tuyết" phải chia giống cái là "Snezhnaya", nhưng có thể lược bỏ hai danh từ này đi để tạo thành phép hoán dụ "nhiều tuyết"). Trong trò chơi, nhân vật phát âm từ (Snezh-na-ya) đặt trọng âm ở "na", nhưng chính xác hơn phải đặt trong âm ở "Snezh" (Snezh-na-ya).
 - Trong bản CBT đầu tiên, Snezhnaya có tên "Prekrasnaya" ().
-- Tên tiếng Trung đảo ngược từ tiếng Trung của ().
+- Tên tiếng Trung đảo ngược từ tiếng Trung của Đông chí ().
 - "Zapolyarny" () dịch thô thành "xuyên qua vòng Bắc cực" hoặc "bên trong vùng cực đông".
 - "Morepesok" () kết hợp từ và, ngụ ý cho bờ biển.
-- "Tsaritsa" (), là giống cái của, từ này phiên âm trực tiếp từ tên vị tướng La Mã Caesar. Hiện tại, chưa có ai gọi tên thật của Băng Thần; người Snezhnaya gọi cô ấy bằng danh hiệu Tsaritsa, Venti và Zhongli gọi cô ấy là "Băng Thần".
+- "Tsaritsa" (), là giống cái của Tsar, từ này phiên âm trực tiếp từ tên vị tướng La Mã Caesar. Hiện tại, chưa có ai gọi tên thật của Băng Thần; người Snezhnaya gọi cô ấy bằng danh hiệu Tsaritsa, Venti và Zhongli gọi cô ấy là "Băng Thần".
 
 ## Tham Khảo Văn Hóa
 
@@ -30,5 +30,5 @@ Hiệp Hội Nhà Mạo Hiểm bắt nguồn từ Snezhnaya; mặc cho sự th�
 - Mùa đông khắc nghiệt của Snezhnaya tương đồng với khí hậu Nga, một điều.
 - Tartaglia gọi Nhà Lữ Hành là "đồng đội" trong phần lồng tiếng, dịch từ "tovarishch" (). Đây là cách gọi đồng đội hay dùng trong Liên Bang Xô Viết.
 - Trong video tổng hợp lối chơi của Childe, anh mở đầu bức thư bằng dòng ("Gửi chị...") bằng tiếng Nga.
-- Hỏa Thủy () là loại rượu có nguồn gốc Snezhnaya. Người pha chế rượu của Quà Tặng Của Thiên Sứ Charles khẳng định đây là loại rượu mạnh nhất. Hỏa Thủy lấy cảm hứng từ, thức uống gắn liền với người Nga. Thực tế, Vodka của Nga thường có nồng độ cồn 45-55%, thậm chí một số loại Vodka có nồng độ cồn 80%. Do vậy, Vodka là loại rượu nhiều cồn nhất trên thế giới
+- Hỏa Thủy () là loại rượu có nguồn gốc Snezhnaya. Người pha chế rượu của Quà Tặng Của Thiên Sứ Charles khẳng định đây là loại rượu mạnh nhất. Hỏa Thủy lấy cảm hứng từ vodka, thức uống gắn liền với người Nga. Thực tế, Vodka của Nga thường có nồng độ cồn 45-55%, thậm chí một số loại Vodka có nồng độ cồn 80%. Do vậy, Vodka là loại rượu nhiều cồn nhất trên thế giới
 - Tên tiếng Trung cũng là từ địa phương của "dầu hỏa".

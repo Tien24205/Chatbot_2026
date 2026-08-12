@@ -7,7 +7,7 @@ type2: Khám Phá
 
 Bóng Nước là những vật có thể sinh ra từ Địa Mạch Bất Thường, Hào Quang,hoặc từ đòn tấn công từ một số kẻ thù nhất định (Pháp Sư Vực Sâu Thủy, Slime Thủy Lớn).
 
-Pháp Sư Vực Sâu Thủy sẽ sử dụng đòn tấn công giải phóng bóng nước dẫn đường gây khi chạm và sẽ bẫy người chơi bên trong, gây ra bất động giống như Quỹ Đạo Tinh Mệnh của Mona.Những bóng nước này cũng có thể bẫy những kẻ thù khác.
+Pháp Sư Vực Sâu Thủy sẽ sử dụng đòn tấn công giải phóng bóng nước dẫn đường gây Sát Thương Nguyên Tố Thủy khi chạm và sẽ bẫy người chơi bên trong, gây ra bất động giống như Quỹ Đạo Tinh Mệnh của Mona.Những bóng nước này cũng có thể bẫy những kẻ thù khác.
 
 ## Bị Bẫy
 

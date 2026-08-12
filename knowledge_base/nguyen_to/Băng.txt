@@ -17,30 +17,30 @@ Có hai nhân vật Băng ở trong đội sẽ kích hoạt Cộng Hưởng Ngu
 
 ## Phản Ứng Nguyên Tố
 
-Nguyên tố có các Phản Ứng Nguyên Tố sau:
-- Siêu Dẫn: Gây và giảm của kẻ địch chịu đòn đi 40%.
+Nguyên tố Băng có các Phản Ứng Nguyên Tố sau:
+- Siêu Dẫn: Gây Sát Thương Phạm Vi Nguyên Tố Băng và giảm Kháng Vật Lý của kẻ địch chịu đòn đi 40%.
 - Đóng Băng: Làm bất động mục tiêu và áp dụng aura Đóng Băng.
-- Phá Băng: Nếu mục tiêu bị đóng băng bị tấn công bởi đòn hạng nặng hoặc nguyên tố thì sẽ gây và hủy trạng thái đóng băng của mục tiêu.
-- Tan Chảy: Gây với bội số ×1,5 khi một đòn tấn công hệ Băng kích hoạt phản ứng.
-- Khuếch Tán: Gây và cùng lúc phân tán ấn nguyên tố Băng cho kẻ địch ở gần.
+- Phá Băng: Nếu mục tiêu bị đóng băng bị tấn công bởi đòn hạng nặng hoặc nguyên tố Nham thì sẽ gây Sát Thương Vật Lý và hủy trạng thái đóng băng của mục tiêu.
+- Tan Chảy: Gây Sát Thương Nguyên Tố Băng với bội số ×1,5 khi một đòn tấn công hệ Băng kích hoạt phản ứng.
+- Khuếch Tán: Gây Sát Thương Phạm Vi Nguyên Tố Băng và cùng lúc phân tán ấn nguyên tố Băng cho kẻ địch ở gần.
 - Kết Tinh: Tạo một khiên thuộc tính Băng.
 
 ## Trạng Thái Nguyên Tố Băng
 
-Nguyên tố là hiệu quả trạng thái gây giảm tốc toàn thể của nhân vật. Khi bị ảnh hưởng bởi trạng thái nguyên tố, toàn bộ tốc độ hoạt cảnh sẽ bị giảm 15%. Hiệu quả giảm tốc độ hoạt ảnh này được cộng dồn với Tốc Độ Tấn Công và Tốc Độ Di Chuyển. Không nên nhầm lẫn hiệu quả này với Giá Rét, một cơ chế môi trường dưới khí hậu Môi Trường Cực Hàn.
+Nguyên tố Băng là hiệu quả trạng thái gây giảm tốc toàn thể của nhân vật. Khi bị ảnh hưởng bởi trạng thái nguyên tố Băng, toàn bộ tốc độ hoạt cảnh sẽ bị giảm 15%. Hiệu quả giảm tốc độ hoạt ảnh này được cộng dồn với Tốc Độ Tấn Công và Tốc Độ Di Chuyển. Không nên nhầm lẫn hiệu quả này với Giá Rét, một cơ chế môi trường dưới khí hậu Môi Trường Cực Hàn.
 
 Không giống các nguyên tố khác, hiệu quả nguyên tố Băng cũng có thể áp dụng lên một số vật thể nhất định như khoáng vật, Gỗ Chống Sét, Lôi Thạch và Bá Tước Thỏ của Amber, đồng thời có thể cho phep phản ứng nguyên tố xảy ra trên các vật thể này.
 
 ## Nguyên Tố Đôi
 
-Nguyên tố còn có hai nguyên tố đôi nữa là Đóng Băng và Đông Cứng. Biểu tượng trạng thái của Đóng Băng/Đông Cứng tương tự với biểu tượng trạng thái nguyên tố Băng nhưng có thêm vầng sáng xung quanh.
+Nguyên tố Băng còn có hai nguyên tố đôi nữa là Đóng Băng và Đông Cứng. Biểu tượng trạng thái của Đóng Băng/Đông Cứng tương tự với biểu tượng trạng thái nguyên tố Băng nhưng có thêm vầng sáng xung quanh.
 
 Ấn Băng, ấn Đóng Băng và ấn Đông Cứng có thể cùng tồn tại trên cùng một mục tiêu.
 
 ## Đóng Băng
 
 Ấn Đóng Băng vận hành tương tự với nguyên tố Băng, tuy nhiên có các điểm khác biệt sau:
-- Nó sẽ không phản ứng với ấn.
+- Nó sẽ không phản ứng với ấn Thủy.
 - Nó sẽ không áp dụng hiệu quả giảm tốc hoạt ảnh.
 - Định lượng của Đóng Băng không thể bị lượng gián đoạn từ đòn tấn công hạng nặng phân rã.
 
@@ -52,8 +52,8 @@ Các cách sau có thể áp dụng nguyên tố Đóng Băng lên mục tiêu:
 
 ## Đông Cứng
 
-Ấn Đông Cứng sẽ được áp dụng khi phản ứng Đóng Băng được kích hoạt, đồng thời duy trì trạng thái Đóng Băng khi nó xuất hiện. Tương tự ấn Đóng Băng, ấn Đông Cứng không thể phản ứng với ấn. Khi thi triển tấn công hạng nặng hoặc tấn công nguyên tố Nham lên mục tiêu mang ấn Đông Cứng, phản ứng Phá Băng sẽ được kích hoạt.
+Ấn Đông Cứng sẽ được áp dụng khi phản ứng Đóng Băng được kích hoạt, đồng thời duy trì trạng thái Đóng Băng khi nó xuất hiện. Tương tự ấn Đóng Băng, ấn Đông Cứng không thể phản ứng với ấn Thủy. Khi thi triển tấn công hạng nặng hoặc tấn công nguyên tố Nham lên mục tiêu mang ấn Đông Cứng, phản ứng Phá Băng sẽ được kích hoạt.
 
-- Áp Dụng Trạng Thái Đóng Băng Lên Bản Thân: Các Thiên Phú sau có thể áp dụng trạng thái nguyên tố lên người thi triển và/hoặc nhân vật đang đứng sân.
+- Áp Dụng Trạng Thái Đóng Băng Lên Bản Thân: Các Thiên Phú sau có thể áp dụng trạng thái nguyên tố Đóng Băng lên người thi triển và/hoặc nhân vật đang đứng sân.
 
-- Thám Hiểm: Một vài vật thể hoặc chướng ngại vật môi trường được coi là vật thể nguyên tố: - Thùng Nổ Băng - Rương Đóng Băng - Heo Tuyết Đóng Băng - Băng Tuyết - Nhũ Băng - Băng Vụ Hoa
+- Thám Hiểm: Một vài vật thể hoặc chướng ngại vật môi trường được coi là vật thể nguyên tố Băng: - Thùng Nổ Băng - Rương Đóng Băng - Heo Tuyết Đóng Băng - Băng Tuyết - Nhũ Băng - Băng Vụ Hoa

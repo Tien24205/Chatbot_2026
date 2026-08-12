@@ -20,7 +20,7 @@ Trong đó:
 
 Trong màn hình thuộc tính nhân vật, ATK Căn Bản (Nhân Vật + Vũ Khí) của một nhân vật hiển thị màu trắng trong khi phần ATK cộng thêm có màu xanh.
 
-- Cộng Hưởng Nguyên Tố: Cộng Hưởng Nguyên Tố Hỏa Nhiệt Tình tăng 25% tấn công của nhân vật trong đội.
+- Cộng Hưởng Nguyên Tố: Cộng Hưởng Nguyên Tố Hỏa Hỏa Nhiệt Tình tăng 25% tấn công của nhân vật trong đội.
 
 - Chỉ Số Phụ: Các vũ khí dưới đây có chỉ số phụ là Tấn Công.
 

@@ -27,6 +27,6 @@ voiceKR: w|ko:정유정 (성우)|Jung Yoo-jung (ko|정유정)
 
 ## Tổng Quan
 
-Venti là một nhân vật hệ mà người chơi có thể điều khiển trong Genshin Impact.
+Venti là một nhân vật hệ Phong mà người chơi có thể điều khiển trong Genshin Impact.
 
 Anh là một người hát rong ở Mondstadt, với tâm hồn phóng khoáng và niềm yêu thích với rượu. Anh cũng chính là nhân dạng hiện tại của Phong Thần Barbatos.

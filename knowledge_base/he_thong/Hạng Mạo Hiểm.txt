@@ -5,7 +5,7 @@
 type: Hệ Thống Trò Chơi
 type2: Phát Triển
 
-Hạng Mạo Hiểm (HMH hay ) ghi nhận cấp độ tổng thể của một tài khoản, được nâng lên bằng cách nhận EXP Mạo Hiểm. Bạn có thể nhận nguyên thạch khi nâng Hạng Mạo Hiểm lên một số cấp độ nhất định.
+Hạng Mạo Hiểm (HMH hay AR) ghi nhận cấp độ tổng thể của một tài khoản, được nâng lên bằng cách nhận EXP Mạo Hiểm. Bạn có thể nhận nguyên thạch khi nâng Hạng Mạo Hiểm lên một số cấp độ nhất định.
 
 Khi người chơi đạt đến một Hạng Mạo Hiểm nhất định, Cấp Thế Giới của họ sẽ được nâng lên tự động hoặc sau khi người chơi hoàn thành nhiệm vụ Đột Phá Hạng Mạo Hiểm. Khi Cấp Thế Giới của người chơi tăng lên, nó sẽ tăng độ khó và phần thưởng của Quái vật, Boss và Địa Mạch Sinh Thành.
 

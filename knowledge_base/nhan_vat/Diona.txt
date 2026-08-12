@@ -31,7 +31,7 @@ voiceKR: w|ko:우정신|Woo Jeong-sin (ko|우정신)
 
 ## Tổng Quan
 
-Diona là một nhân vật hệ mà người chơi có thể điều khiển trong Genshin Impact.
+Diona là một nhân vật hệ Băng mà người chơi có thể điều khiển trong Genshin Impact.
 
 Mặc dù là người pha chế nổi tiếng của Quán Rượu Đuôi Mèo, cô lại cực kì ghét rượu và luôn mong muốn phá hủy ngành rượu ở Mondstadt. Cô là con gái của Draff, một thợ săn ở Thanh Tuyền Trấn.
 

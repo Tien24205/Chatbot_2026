@@ -2,8 +2,6 @@
 
 ## Tổng Quan
 
- là một mô hình xác suất dựa trên máy trạng thái hữu hạn.
-
 Nó có thể được sử dụng để mô tả hệ thống bảo hiểm Cầu Nguyện trong Genshin Impact. Lưu ý rằng đây chỉ là mô hình lý thuyết và trong thực tế,hệ thống gacha trong trò chơi có thể mang những kết quả khác.
 
 ## Tỉ Lệ Nhận Nhân Vật Đi Kèm 5 Sao

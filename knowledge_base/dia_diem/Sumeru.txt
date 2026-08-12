@@ -36,16 +36,16 @@ Thất Thiên Thần Tượng của Sumeru miêu tả một người phụ nữ 
 ## Cơ Chế Chung
 
 - Thảo Thần Đồng có thể được cung cấp cho bất kỳ Thất Thiên Thần Tượng nào ở Sumeru để nhận phần thưởng.
-- Hạt Giống Thảo sẽ tăng cường và phát động đòn tấn công khi sử dụng Trọng Kích hoặc Ngắm Bắn. Hạt Giống Thảo cũng là cách duy nhất để phá vỡ những Viên Đá Thảo, Cành Cây Mục Nát, Cành Nhánh Tử Vực và kích hoạt Valaya. Có thể triệu hồi Hạt Giống Thảo tại Cây Cỏ May Mắn.
+- Hạt Giống Thảo sẽ tăng cường và phát động đòn tấn công Thảo khi sử dụng Trọng Kích hoặc Ngắm Bắn. Hạt Giống Thảo cũng là cách duy nhất để phá vỡ những Viên Đá Thảo, Cành Cây Mục Nát, Cành Nhánh Tử Vực và kích hoạt Valaya. Có thể triệu hồi Hạt Giống Thảo tại Cây Cỏ May Mắn.
 - Khối Năng Lượng được sử dụng để cung cấp năng lượng cho một số Tượng Di Tích Khổng Lồ.
 - Ấn Bốn Lá cho phép người chơi nhanh chóng vượt qua địa hình và di chuyển đến những khu vực khó tiếp cận.
 - Nhựa Thông Nguyên Thủy dùng để mở khóa lối đi trong các Bí Cảnh.
 - Hoa Thể Lực (tên không chính thức) hồi 80 thể lực khi đến gần chúng.
-- Vật Ba Hình Thể có thể thay đổi trạng thái khi tiếp xúc với các Nguyên Tố sau: Khô Héo (chưa được kích hoạt) -, Bình Thường - và Bung Nở -:
+- Vật Ba Hình Thể có thể thay đổi trạng thái khi tiếp xúc với các Nguyên Tố sau: Khô Héo (chưa được kích hoạt) - Hỏa, Bình Thường - Thảo và Bung Nở - Lôi:
 - Nấm Nhảy: Phóng người chơi lên không trung (phóng cao hơn khi Bung Nở).
 - Hoa Mộng Mị: Làm cho kẻ địch quên đi sự tồn tại của người chơi (Bình Thường) và giúp người chơi đánh dấu vị trí Hạt Giống Ảo Mộng (Bung Nở).
 - Nấm Quỷ: Vật phẩm rơi ra khi đánh bại sẽ thay đổi tùy vào trạng thái của chúng.
-- Nấm Độc: Tấn công bằng nguyên tố khi chúng không ở trạng thái Khô Héo.
+- Nấm Độc: Tấn công bằng nguyên tố Thảo khi chúng không ở trạng thái Khô Héo.
 - Trụ Thảo: Vươn lên từ mặt đất khi ở trạng thái Bình Thường, để lộ các vật phẩm bị ẩn bên dưới (vươn cao hơn khi Bung Nở).
 - Kính Hạt Giống: Phát hiện những Tử Vực chưa thành hình (Bình Thường), phát hiện Aranara Tinh Nghịch (Bung Nở).
 - Nấm Sao: Hồi máu sau khi ăn: 1 HP (Khô Héo), 300 HP (Bình Thường), 800 HP (Bung Nở).
@@ -58,13 +58,13 @@ Thất Thiên Thần Tượng của Sumeru miêu tả một người phụ nữ 
 ## Rừng Dharma
 
 - Sảnh Ashvattha là địa điểm có Cây Vasara bị nhiễm Tử Vực. Người chơi phải thanh tẩy các khu vực này trong chuỗi Nhiệm Vụ Thế Giới Vườn Trong Mơ.
-- Sử dụng nguyên tố lên Nhụy Hoa Bung Lá sẽ sinh ra Ấn Bốn Lá kéo dài trong vòng 24 giờ.
+- Sử dụng nguyên tố Thảo lên Nhụy Hoa Bung Lá sẽ sinh ra Ấn Bốn Lá kéo dài trong vòng 24 giờ.
 - Thiết Bị Rút Năng Lượng là thử thách tìm được ở các doanh trại của Eremite. Người chơi phải tìm chìa khóa kiểm soát và đánh bại kẻ địch để vô hiệu hóa chúng.
 - Vườn Ươm là câu đố mang lại một quả Vasmrti và một chiếc Rương sau khi giải.
-- Trụ Đá Phong Ấn có thể được loại bỏ bằng nguyên tố để giải thoát cho các Cơ Quan Di Tích.
+- Trụ Đá Phong Ấn có thể được loại bỏ bằng nguyên tố Hỏa để giải thoát cho các Cơ Quan Di Tích.
 - Chơi Đàn Cổ có thể kích hoạt nhiều vật phẩm khác nhau, khi chơi một bài nhạc đã được mở khóa sẽ kích hoạt các cơ chế:
 - Loại bỏ các chướng ngại vật gần Hoa U Bế
-- Sửa Bia Nguyên Tố (cũng có thể dùng "Kusava" để sửa)
+- Sửa Bia Nguyên Tố Thảo (cũng có thể dùng "Kusava" để sửa)
 - Có thể vào Bí Cảnh thông qua Mật Đạo
 - Chuyển đổi giữa thế giới thực và thế giới trong mơ tại Silapna
 - Triệu hồi một Hạt Giống Thảo Khỏe Mạnh tại Mầm Non
@@ -79,7 +79,7 @@ Thất Thiên Thần Tượng của Sumeru miêu tả một người phụ nữ 
 - Vòi Chứa Nước thải cát vào Hồ Chứa Nước. Chúng có thể được bật và tắt bằng các đòn tấn công. Đổ đầy cát vào các Hồ Chứa Nước trong khu vực giải đố sẽ nhận được Rương.
 - Có 3 Nụ Hoa (tên không chính thức) chỉ xuất hiện trong Ốc Đảo Pairidaeza. Khi chạm vào chúng sẽ di chuyển đến một vị trí nhất định, nơi đó người chơi có thể Kích Hoạt Hồi Ức để điều chỉnh thời gian và thay đổi cảnh tượng trong Ốc Đảo, mở khóa đường đi cho Nụ Hoa và để lộ ra những chiếc Rương. Dẫn các Nụ Hoa đến vạch đích sẽ nhận được một vật phẩm Ký Ức Ốc Đảo Vĩnh Hằng (I, II, III) và một chiếc Rương khác.
 - Nền Tảng Ảo Ảnh là những mặt phẳng sẽ biến mất sau vài giây tính từ lúc người chơi đứng trên chúng.
-- Đống Cát Rời Rạc có thể che giấu vật phẩm hoặc kẻ địch. Chúng có thể bị thổi bay khi sử dụng nguyên tố hoặc khi kẻ địch cảm nhận được sự hiện diện của người chơi.
+- Đống Cát Rời Rạc có thể che giấu vật phẩm hoặc kẻ địch. Chúng có thể bị thổi bay khi sử dụng nguyên tố Phong hoặc khi kẻ địch cảm nhận được sự hiện diện của người chơi.
 - Cơ Quan Hiện Thực Hóa có thể kích hoạt bằng cách di chuyển Ách Linh Gió. Đi theo Ách Linh Gió đến từng Cơ Quan trong cùng một chuỗi, đưa Ách Linh Gió đến Cơ Quan cuối cùng sẽ nhận được một chiếc Rương.
 - Bích Họa Thần Bí xuất hiện theo từng cặp. Tương tác với từng Bích Họa vào buổi tối sẽ triệu hồi kẻ địch. Đánh bại tất cả kẻ địch sẽ nhận được một chiếc Rương.
 - Obelisk Nguyên Thủy có thể dùng để xác định vị trí của Đá Thánh Chương, những viên đá này sẽ được gắn vào Obelisk Nguyên Thủy. Tìm thấy tất cả các viên Đá Thánh Chương sẽ nhận được Rương Siêu Cấp.
@@ -129,20 +129,20 @@ Thất Thiên Thần Tượng của Sumeru miêu tả một người phụ nữ 
 
 - Sumeru là một trong những tên gọi của, một ngọn núi thiêng với năm đỉnh được đề cập trong vũ trụ học của Ấn Độ Giáo, Kỳ Na Giáo và Phật Giáo.
 - Tên Tiếng Trung của Sumeru,, cũng là tên Tiếng Trung của Núi Tu-di.
-- Tên của Sumeru cũng có thể bắt nguồn từ, là một nền văn minh cổ đại và cũng để chỉ khu vực lịch sử ở phía nam, được gọi là Šumeru trong Tiếng Akkad.
+- Tên của Sumeru cũng có thể bắt nguồn từ Sumer, là một nền văn minh cổ đại và cũng để chỉ khu vực lịch sử ở phía nam Lưỡng Hà, được gọi là Šumeru trong Tiếng Akkad.
 
 ## Tham Khảo Văn Hóa
 
-- Sumeru được lấy cảm hứng từ văn hóa của người và người.
-- và ngôn ngữ có mối liên hệ dễ thấy nhất với Giáo Viện Sumeru, đặc biệt là các danh hiệu giành cho học giả, nhà nghiên cứu và tên sáu trường phái chính của Giáo Viện, mỗi trường phái được đặt theo tên của một trong những.
-- Tiểu Vương Kusanali, Thảo Thần hiện tại, được mô tả là người mang đến "Kiến Thức Màu Mỡ". Trong Hỏa Giáo, (Anāhīd/Nahid) được xem là "Nữ Thần của Nước", gắn liền với sinh sản, chữa bệnh và trí tuệ.
-- Các khái niệm từ, đặc biệt là và, được thể hiện một cách nổi bật ở các nhiệm vụ của Sumeru; tên của các địa điểm, cây cỏ, và vật phẩm địa phương của Rừng Dharma.
-- Ba vị Thần-Vua của Sumeru — Đại Vương Rukkhadevata, Nabu Malikata, và Vua Deshret — có thể được lấy cảm hứng từ, một khái niệm của Ấn Độ giáo về sự tạo hóa, bảo vệ và hủy diệt được nhân cách hóa như một bộ ba vị thần. Một số NPC cũng có tên có nguồn gốc từ Vệ Đà.
-- Một vài thuật ngữ sử dụng trong cốt truyện của Sumeru có nguồn gốc từ tên của các vị thần Vệ Đà, ví dụ như Cỗ Máy Varuna (được đặt theo tên của vị thần nước của Ấn Độ giáo, ), Aranyaka (được đặt theo tên của ). Tên gọi chung của các vị Thảo Thần, Đại Vương Rukkhadevata và Tiểu Vương Kusanali, cũng bắt nguồn từ các khái niệm Dharmic.
-- Âm nhạc của Sumeru là sự kết hợp giữa âm nhạc Nam Á (đặc biệt là của Ấn Độ) và âm nhạc Trung Đông. Ở một số khu vực, thể loại nhạc cũng được sử dụng. Khu vực sa mạc chủ yếu lấy cảm hứng từ Ai Cập cổ đại và âm nhạc cũng vậy.
+- Sumeru được lấy cảm hứng từ văn hóa của người Nam Á và người Trung Đông.
+- Hỏa Giáo và ngôn ngữ Avesta có mối liên hệ dễ thấy nhất với Giáo Viện Sumeru, đặc biệt là các danh hiệu giành cho học giả, nhà nghiên cứu và tên sáu trường phái chính của Giáo Viện, mỗi trường phái được đặt theo tên của một trong những Amesha Spenta.
+- Tiểu Vương Kusanali, Thảo Thần hiện tại, được mô tả là người mang đến "Kiến Thức Màu Mỡ". Trong Hỏa Giáo, Anahita (Anāhīd/Nahid) được xem là "Nữ Thần của Nước", gắn liền với sinh sản, chữa bệnh và trí tuệ.
+- Các khái niệm từ Tôn Giáo Dharma, đặc biệt là Ấn Độ Giáo và Phật Giáo, được thể hiện một cách nổi bật ở các nhiệm vụ của Sumeru; tên của các địa điểm, cây cỏ, và vật phẩm địa phương của Rừng Dharma.
+- Ba vị Thần-Vua của Sumeru — Đại Vương Rukkhadevata, Nabu Malikata, và Vua Deshret — có thể được lấy cảm hứng từ Tam Thần Ấn Giáo, một khái niệm của Ấn Độ giáo về sự tạo hóa, bảo vệ và hủy diệt được nhân cách hóa như một bộ ba vị thần. Một số NPC cũng có tên có nguồn gốc từ Vệ Đà.
+- Một vài thuật ngữ sử dụng trong cốt truyện của Sumeru có nguồn gốc từ tên của các vị thần Vệ Đà, ví dụ như Cỗ Máy Varuna (được đặt theo tên của vị thần nước của Ấn Độ giáo, Varuna), Aranyaka (được đặt theo tên của Aranyaka). Tên gọi chung của các vị Thảo Thần, Đại Vương Rukkhadevata và Tiểu Vương Kusanali, cũng bắt nguồn từ các khái niệm Dharmic.
+- Âm nhạc của Sumeru là sự kết hợp giữa âm nhạc Nam Á (đặc biệt là Nhạc cổ điển Hindustani của Ấn Độ) và âm nhạc Trung Đông. Ở một số khu vực, thể loại nhạc Yoga cũng được sử dụng. Khu vực sa mạc chủ yếu lấy cảm hứng từ Ai Cập cổ đại và âm nhạc cũng vậy.
 - Một số nguồn cảm hứng lấy từ Vệ Đà (Ấn Độ) cũng có thể thấy trong Trailer chương chính: Dấu Chân - Màn Sumeru:
 - là một thể loại văn học Ấn Độ bao gồm nhiều chủ đề, thường liên quan đến truyền thuyết và các câu chuyện thần thánh khác. Trong tiếng Hindi, nó cũng có nghĩa là "cũ" khi sử dụng trong bối cảnh hoài cổ hoặc đáng nhớ.
-- Thuật ngữ có thể là viết tắt của, một từ mượn từ tiếng Phạn. Trong vũ trụ học Ấn Độ Giáo và Phật Giáo, có nghĩa là một khoảng thời dài vô hạn, thường nằm giữa sự hình thành và tái tạo của một thế giới hay vũ trụ. Do đó, một cách dịch thay thế cho cụm từ cũng có thể là "tro tàn kalpa", ám chỉ tro tàn còn sót lại khi một thế giới bị hủy diệt vào cuối một kalpa.
+- Thuật ngữ có thể là viết tắt của, một từ mượn từ tiếng Phạn. Trong vũ trụ học Ấn Độ Giáo và Phật Giáo, kalpa có nghĩa là một khoảng thời dài vô hạn, thường nằm giữa sự hình thành và tái tạo của một thế giới hay vũ trụ. Do đó, một cách dịch thay thế cho cụm từ cũng có thể là "tro tàn kalpa", ám chỉ tro tàn còn sót lại khi một thế giới bị hủy diệt vào cuối một kalpa.
 - Khái niệm Vệ Đà về, từ này có ý nghĩa là "thế giới" và hiện nay chủ yếu đề cập đến quá trình tái sinh, được sử dụng phổ biến trong Màn 1 để đề cập đến kế hoạch thu hoạch giấc mơ của các Hiền Giả và sau đó được sử dụng để chỉ mối quan hệ của Tiểu Vương Kusanali và Đại Vương Rukkhadevata.
-- Tên của một vài NPC được nhắc đến và các gia tộc tại Sumeru lấy cảm hứng từ các nhân vật nổi bật từ, ví dụ như Nhà Purbiruni (), Nhà Pursina (), Alhaitham () và Firnas ().
--, là một thành quốc của nền thuộc Lưỡng Hà cổ đại, được biết đến là trung tâm học tập và tiến bộ khoa học trong Thời Đại Hoàng Kim, tương tự như Sumeru được biết đến với Giáo Viện. Babylon, cụ thể là những đoạn Kinh thánh liên quan đến sự sụp đổ của nó, được đề cập đến thông qua chủ mẫu Babel của Tanit và các nhiệm vụ liên quan đến cô ấy.
+- Tên của một vài NPC được nhắc đến và các gia tộc tại Sumeru lấy cảm hứng từ các nhân vật nổi bật từ Thời Đại Hoàng Kim Của Hồi Giáo, ví dụ như Nhà Purbiruni (al-Biruni), Nhà Pursina (Ibn Sina), Alhaitham (Ibn al-Haytham) và Firnas (Abbas ibn Firnas).
+- Babylon, là một thành quốc của nền văn minh cổ Babylon thuộc Lưỡng Hà cổ đại, được biết đến là trung tâm học tập và tiến bộ khoa học trong Thời Đại Hoàng Kim, tương tự như Sumeru được biết đến với Giáo Viện. Babylon, cụ thể là những đoạn Kinh thánh liên quan đến sự sụp đổ của nó, được đề cập đến thông qua chủ mẫu Babel của Tanit và các nhiệm vụ liên quan đến cô ấy.

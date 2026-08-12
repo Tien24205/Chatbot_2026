@@ -5,7 +5,7 @@
 type: Khu Vực
 region: Fontaine
 
-- - ===Bí Cảnh===
+- Cành Cây Rừng Rậm - Ly Ốc Biển Khô
 
 - Thảm Nấm Ô Nhiễm: mặt hồ phủ đầy nấm ô nhiễm, có thể loại bỏ nguồn ô nhiễm bằng cách dùng năng lực của Bạch Tuộc Bóng Tròn Dị Sắc
 - Pháo Chiến Hạm Tự Động Nguy Hiểm: loại pháo nguy hiểm, tự động bắn vào người chơi; có thể làm nó ngừng hoạt động bằng cách dùng năng lực của Bạch Tuộc Bóng Tròn Dị Sắc
@@ -17,4 +17,4 @@ region: Fontaine
 - Cơ Quan Điều Chỉnh: dùng Bạch Tuộc Bóng Tròn Dị Sắc bắn vào để mở cửa
 - Quả Cầu Năng Lượng: khiêu chiến yêu cầu bắn bóng xuyên qua các vòng vàng, dùng năng lực từ Bạch Tuộc Bóng Tròn Dị Sắc
 
-- - - - - ===Kẻ Địch===
+- Pha Lê Cô Đọng - Lily Ánh Sáng Hồ Nước - Hoa Lumidouce - Tường Vi Cầu Vồng - Hoa Romaritime

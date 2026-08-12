@@ -30,4 +30,4 @@ voiceCN: Yun He Zhui (zh|云鹤追)
 voiceJP: w|Megumi Toyoguchi|Toyoguchi Megumi (ja|豊口めぐみ)
 voiceKR: w|ko:이소은_(성우)|Lee So-eun (ko|이소은)
 
-- Tổng Quan: Nicole là một nhân vật hệ chơi được trong Genshin Impact. Cô là một Thiên Sứ không có giọng nói và là một thành viên của Hội Ma Nữ với biệt hiệu "N".
+- Tổng Quan: Nicole là một nhân vật hệ Hỏa chơi được trong Genshin Impact. Cô là một Thiên Sứ không có giọng nói và là một thành viên của Hội Ma Nữ với biệt hiệu "N".

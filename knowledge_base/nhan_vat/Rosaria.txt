@@ -22,6 +22,6 @@ voiceJP: w|Ai Kakuma|Kakuma Ai (ja|加隈 亜衣)
 voiceKR: w|ko:김보나|Kim Bo-na (ko|김보나)
 releaseDate: 2021-04-06
 
-- Tổng Quan: Rosaria là một nhân vật hệ mà người chơi có thể điều khiển trong Genshin Impact. Cô là thành viên của Giáo Hội Tây Phong ở Mondstadt.
+- Tổng Quan: Rosaria là một nhân vật hệ Băng mà người chơi có thể điều khiển trong Genshin Impact. Cô là thành viên của Giáo Hội Tây Phong ở Mondstadt.
 
 - Cầu Nguyện Thường Du Hành Thế Gian từ Phiên Bản 1.5 - Tất cả Sự Kiện Cầu Nguyện Nhân Vật và Sự Kiện Cầu Nguyện Vũ Khí từ Phiên Bản 1.5

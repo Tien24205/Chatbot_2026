@@ -1,0 +1,12 @@
+# Bí Quyết Biểu Diễn
+
+## Tổng Quan
+
+type: Hệ Thống Trò Chơi
+group: Nhà Hát Giả Tưởng
+
+Bí Quyết Biểu Diễn là dáng chụp ảnh đặc biệt. Có thể sử dụng bí quyết trong Chụp Ảnh.
+
+Mỗi nhân vật đều có dáng mặc định, tự tin và suy tư. Tự động mở khóa khi nhận được nhân vật.
+
+Dáng phụ của nhân vật đổi bằng Huy Chương Đồ Chơi từ Sói Nhỏ trong Nhà Hát Giả Tưởng. Bí quyết thường có giá Huy Chương Đồ Chơi.

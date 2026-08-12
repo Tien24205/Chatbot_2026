@@ -150,9 +150,10 @@
     "    (Kết Tinh, Đóng Băng nằm ngoài cả ba nhóm) — model từ chối vì danh sách",
     "    chưa trọn vẹn là ĐÚNG quy tắc 8; kỳ vọng '13' của chính bộ eval mới là chỗ",
     "    đáng ngờ. Giữ nguyên câu này làm thước đo tính thận trọng.",
-    "  - câu '5 món Thánh Di Vật': danh sách 5 vị trí trong file nguồn bị template",
-    "    ăn mất từ lúc cào ('Có 5 loại:,,,, và.') — lỗi dữ liệu, cần refetch khi",
-    "    hết chặn mạng fandom.",
+    "  - câu '5 món Thánh Di Vật': TỪNG hỏng vì danh sách 5 vị trí bị template",
+    "    {{Item|...}} ăn mất từ lúc cào. ĐÃ ĐẠT sau khi refetch 2026-08-12 với bộ",
+    "    dọn biết đọc template có tham số ({{Item}}, {{Color}}) — 248 file được",
+    "    hồi sinh số liệu, nhóm suy_luan lên 6/7.",
     "Chuỗi suy luận ĐÃ chạy trọn trên câu thật: 'Genshin Impact có bao nhiêu nguyên",
     "tố?' ra 'Suy ra từ [3]: 7 nguyên tố...' — đúng khuôn, lớp 5 bị ép chạy và gắn",
     "nhãn thận trọng thay vì chặn."

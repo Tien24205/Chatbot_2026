@@ -34,7 +34,7 @@ Xét về nguyên liệu sử dụng cho mỗi thành phẩm, các bổ trợ n�
 25% tỉ lệ hoàn trả
 Giả sử ban đầu có x_0 nguyên liệu. Cứ mỗi 3 nguyên liệu, xác suất nhận lại một nguyên liệu là p, do đó số lượng nguyên liệu được hoàn trả "kỳ vọng" là x_0\left(\tfrac{p}{3}\right). Có thể sử dụng những nguyên liệu này để ghép thêm và nhận lại nhiều nguyên liệu hơn. Số lượng nguyên liệu được hoàn trả từ những nguyên liệu này "kỳ vọng" là x_0(\tfrac{p}{3})^2. Quá trình này có thể tiếp tục, do đó theo giả thuyết, số lượng nguyên liệu nhận được là:
 x_0[\tfrac{p}{3} + (\tfrac{p}{3})^2 + (\tfrac{p}{3})^3 + \ldots] = \tfrac{x_0}{(3/p)-1}
-khi tổng hợp. Điều này có nghĩa là \tfrac{1}{(3/p)-1} nguyên liệu nhận được từ Thiên Phú. Theo đó, có thể ghép thêm khoảng \tfrac{1}{3/p-1} thành phẩm (hoặc \tfrac{1}{(3/p)-1} thành phẩm mỗi 3 nguyên liệu sử dụng).
+khi tổng hợp chuỗi số học. Điều này có nghĩa là \tfrac{1}{(3/p)-1} nguyên liệu nhận được từ Thiên Phú. Theo đó, có thể ghép thêm khoảng \tfrac{1}{3/p-1} thành phẩm (hoặc \tfrac{1}{(3/p)-1} thành phẩm mỗi 3 nguyên liệu sử dụng).
 
 Vì vậy, tổng số nguyên liệu có thể sử dụng để ghép là x_0 + \tfrac{x_0}{(3/p)-1} = \tfrac{x_0}{1-(p/3)} có nghĩa là có thể ghép \tfrac{x_0}{3-p} thành phẩm. Do đó với kỹ năng này, số lượng nguyên liệu sử dụng cho mỗi thành phẩm là 3-p trong khi bình thường là 3. Vì vậy 3-(3-p)=p ít nguyên liệu hơn cho mỗi thành phẩm được sử dụng.
 

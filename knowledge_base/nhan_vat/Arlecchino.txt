@@ -37,6 +37,6 @@ voiceKR: w|ko:이명희 (성우)|Lee Myung-hi (ko|이명희)
 
 ## Tổng Quan
 
-Arlecchino, còn được biết đến với mật danh "The Knave", là một nhân vật hệ chơi được trong Genshin Impact.
+Arlecchino, còn được biết đến với mật danh "The Knave", là một nhân vật hệ Hỏa chơi được trong Genshin Impact.
 
 Cô đứng thứ 4 trong 11 Quan Chấp Hành của Fatui và là người đứng đầu hiện tại của Căn Nhà Hơi Ấm. Những thành viên trong nhà, những đứa trẻ mồ côi được thu nhận về, gọi cô là "Cha", còn cô gọi những thành viên ấy là "những đứa con" của mình.

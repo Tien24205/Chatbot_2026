@@ -7,7 +7,7 @@ type2: Danh Mục Túi
 
 Thánh Di Vật là vật phẩm trong Genshin Impact, Nhân Vật có thể trang bị để tăng Chỉ Số. Nó là tab thứ hai trong Túi.
 
-Có 5 loại Thánh Di Vật có thể trang bị:,,,, và. Mỗi loại chỉ có thể được trang bị một cho mỗi nhân vật.
+Có 5 loại Thánh Di Vật có thể trang bị: Hoa Sự Sống, Lông Vũ Tử Vong, Cát Thời Gian, Ly Không Gian, và Nón Lý Trí. Mỗi loại chỉ có thể được trang bị một cho mỗi nhân vật.
 
 Các Thánh Di Vật đều có một chỉ số chính, cùng với tối đa 4 Thuộc Tính Thêm. Những chỉ số này có thể gia tăng sức mạnh của nhân vật một cách đáng kể. Một số loại Thánh Di Vật nhất định, chẳng hạn như Hoa Sự Sống và Lông Vũ Tử Vong, chỉ có thể đi kèm với một chỉ số chính cụ thể, trong khi các loại khác có thể đi kèm với nhiều chỉ số chính.
 
@@ -32,7 +32,7 @@ Một số NPC có nhánh hội thoại sẽ cho người chơi một Thánh Di 
 
 Thánh Di Vật yêu cầu EXP Thánh Di Vật và Mora để cường hoá. EXP Thánh Di Vật có thể nhận thông qua Nguyên Liệu Cường Hóa Thánh Di Vật hoặc sử dụng từ Thánh Di Vật khác như là Nguyên Liệu Cường Hoá.
 
-1 điểm EXP trả bằng trừ khi nâng bằng Thánh Di Vật đã được nâng cấp.
+1 điểm EXP trả bằng Mora trừ khi nâng bằng Thánh Di Vật đã được nâng cấp.
 
 Nâng cấp trọn bộ 5 Thánh Di Vật 5 lên cấp 20 sẽ tốn 270,475 × 5 = 1,352,375 EXP Thánh Di Vật & Mora.
 
@@ -50,13 +50,13 @@ Có thể cài đặt các thiết lập áp dụng cho tất cả các bộ Th�
 - Tự động khóa Thánh Di Vật 5 sao đáp ứng điều kiện
 - Cài đặt kế hoạch khóa chung
 - Vị Trí Bất Kỳ
-Trực tiếp khoá Thánh Di Vật với Thuộc Tính Thêm bao gồm cả và
+Trực tiếp khoá Thánh Di Vật với Thuộc Tính Thêm bao gồm cả Tỷ Lệ Bạo Kích và Sát Thương Bạo Kích
 - Ly Không Gian
-Trực tiếp khoá Thuộc Tính Chính của Ly Không Gian
+Trực tiếp khoá Thuộc Tính Chính Buff Sát Thương Nguyên Tố hoặc buff Sát Thương Vật Lý của Ly Không Gian
 - Nón Lý Trí
-Trực tiếp khoá Thuộc Tính Chính của Nón Lý Trí
+Trực tiếp khoá Thuộc Tính Chính Tỷ Lệ Bạo Kích của Nón Lý Trí
 - Nón Lý Trí
-Trực tiếp khoá Thuộc Tính Chính của Nón Lý Trí
+Trực tiếp khoá Thuộc Tính Chính Sát Thương Bạo Kích của Nón Lý Trí
 - Phương án khoá bộ
 - Số lượng Thuộc Tính Thêm yêu cầu trong phương án bao gồm cả Thuộc Tính Thêm chưa kích hoạt.
 
@@ -90,7 +90,7 @@ Chỉ có thể định nghĩa 2 mảnh Thánh Di Vật mỗi Phiên Bản
 
 ## Chiết Xuất
 
-Thông qua Máy Biến Đổi Di Vật, Thánh Di Vật đã cường hóa có thể được biến đổi thành Bột Thánh Hóa. Có thể chọn tối đa 25 Thánh Di Vật trong một lần chiết xuất. Tối đa chiết xuất 1 Bột Thánh Hóa mỗi phiên bản. Cần đạt 100 Tiến Độ Chiết Xuất để nhận được Bột Thánh Hóa. Tiến độ chiết xuất dư thừa sẽ được lưu lại cho lần chiết xuất tiếp theo.
+Thông qua Máy Biến Đổi Di Vật, Thánh Di Vật đã cường hóa có thể được biến đổi thành Bột Thánh Hóa. Có thể chọn tối đa 25 Thánh Di Vật trong một lần chiết xuất. Tối đa chiết xuất 1 Bột Thánh Hóa mỗi phiên bản. Cần đạt Tiến Độ Chiết Xuất 100 Tiến Độ Chiết Xuất để nhận được Bột Thánh Hóa. Tiến độ chiết xuất dư thừa sẽ được lưu lại cho lần chiết xuất tiếp theo.
 
 Thánh Di Vật cần đạt Cấp 4 trỏ lên để có thể chiết xuất. Khi chiết xuất, lượng Tiến Độ Chiết Xuất nhận được sẽ được xác định bởi cấp độ của vật phẩm được sử dụng như sau:
 - Thánh Di Vật từ Cấp 4 đến 7: Tương đương cấp Thánh Di Vật

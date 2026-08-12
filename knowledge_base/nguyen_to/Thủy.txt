@@ -1,6 +1,6 @@
 # Thủy
 
-## Thông Tin Cơ Bản
+## Tổng Quan
 
 archon: Không
 archonNote: ngai thần bị phá hủy
@@ -8,6 +8,8 @@ status: Ẩm Ướt
 gem: Thanh Kim Sạch
 reaction: Lôi, Băng, Hỏa, Phong, Nham, Thảo
 
-- Tổng Quan: là một trong bảy Nguyên Tố. Vị thần cai trị nguyên tố này trước kia là Focalors, thuộc quốc gia Fontaine. Hiện nay không còn vị thần nào cai trị nguyên tố Thủy, thay vào đó là Thủy Long Neuvillette.
+Thủy là một trong bảy Nguyên Tố.
+
+Vị thần cai trị nguyên tố này trước kia là Focalors, thuộc quốc gia Fontaine. Hiện nay không còn vị thần nào cai trị nguyên tố Thủy, thay vào đó là Thủy Long Neuvillette.
 
 - Cộng Hưởng Nguyên Tố: Có hai nhân vật mang nguyên tố Thuỷ trong đội dẫn đến Cộng hưởng nguyên tố:

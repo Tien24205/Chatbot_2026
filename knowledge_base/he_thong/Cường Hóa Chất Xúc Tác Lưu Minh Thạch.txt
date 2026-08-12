@@ -13,7 +13,7 @@ Cường Hóa Chất Xúc Tác Lưu Minh Tinh Thạch là Hệ Thống Hiến T�
 
 ## Phần Thưởng
 
-Mỗi cấp hiến tế yêu cầu 8. Ở mỗi cấp 2, 6, 8 sẽ cần thêm 1. Cần tổng cộng 80 Lưu Minh Tinh Thạch và 3 Quặng Lưu Minh để đạt cấp tối đa. Đạt cấp tối đa sẽ đạt được thành tựu.
+Mỗi cấp hiến tế yêu cầu 8 Lưu Minh Tinh Thạch. Ở mỗi cấp 2, 6, 8 sẽ cần thêm 1 Quặng Lưu Minh. Cần tổng cộng 80 Lưu Minh Tinh Thạch và 3 Quặng Lưu Minh để đạt cấp tối đa. Đạt cấp tối đa sẽ đạt được thành tựu.
 
 Ở Cấp 0, Chất Xúc Tác Lưu Minh Thạch trữ được 1 điểm Năng Lượng, chiếu sáng một khu vực nhỏ và các cơ quan cảm quan đặc biệt.
 

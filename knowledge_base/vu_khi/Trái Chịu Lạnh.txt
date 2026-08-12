@@ -36,9 +36,9 @@ eff_att2: ST Phạm Vi
 
 ## Ghi Chú
 
-- Khi bị Đá Vĩnh Hằng rơi xuống, kẻ địch sẽ nhận Sát Thương Vật Lý, không phải.
-- Hiệu ứng gây sát thương thứ hai (200% khi chưa tinh luyện) sẽ thay thế hiệu ứng thứ nhất (80% khi chưa tinh luyện) khi Đá Vĩnh Hằng rơi xuống kẻ địch bị ảnh hưởng bởi nguyên tố.
-- Đá Vĩnh Hằng không áp dụng trạng thái lên kẻ địch.
+- Khi bị Đá Vĩnh Hằng rơi xuống, kẻ địch sẽ nhận Sát Thương Vật Lý, không phải sát thương nguyên tố Băng.
+- Hiệu ứng gây sát thương thứ hai (200% khi chưa tinh luyện) sẽ thay thế hiệu ứng thứ nhất (80% khi chưa tinh luyện) khi Đá Vĩnh Hằng rơi xuống kẻ địch bị ảnh hưởng bởi nguyên tố Băng.
+- Đá Vĩnh Hằng không áp dụng trạng thái Băng lên kẻ địch.
 
 ## Câu Chuyện
 

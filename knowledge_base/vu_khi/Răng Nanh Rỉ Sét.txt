@@ -30,7 +30,7 @@ releaseDate: 2020-12-23
 
 - Tổng Quan: Răng Nanh Rỉ Sét là một Vũ Khí Kiếm Đơn 4 sao có thể nhận được thông qua sự kiện Vôi Trắng và Rồng Đen.
 
-- Tinh Luyện: Tinh luyện Răng Nanh Rỉ Sét cần có nguyên liệu đặc biệt thay vì bản sao của chính nó, có thể kiếm được thông qua sự kiện Vôi Trắng và Rồng Đen.
+- Tinh Luyện: Tinh luyện Răng Nanh Rỉ Sét cần có nguyên liệu đặc biệt Xương Rồng Mục Nát thay vì bản sao của chính nó, có thể kiếm được thông qua sự kiện Vôi Trắng và Rồng Đen.
 
 ## Mô Tả
 

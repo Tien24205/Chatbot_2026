@@ -27,7 +27,7 @@ voiceKR: w|Kim Seo-yeong|Kim Seo-yeong (ko|김서영)
 
 ## Tổng Quan
 
-Razor là một nhân vật hệ mà người chơi có thể điều khiển trong Genshin Impact.
+Razor là một nhân vật hệ Lôi mà người chơi có thể điều khiển trong Genshin Impact.
 
 Bị bỏ rơi từ khi còn là một đứa trẻ sơ sinh, Razor được thu nhận bởi Vua Sói Bắc Phong Andrius và được nuôi dưỡng bởi đàn sói trong Lang Lãnh. Sau khi có cơ hội gặp gỡ với Varka, Đại Đội Trưởng hiện tại của Đội Kỵ Sĩ Tây Phong và sự giúp đỡ của Lisa, cậu ấy đã dần bắt đầu hòa nhập với loài người một lần nữa.
 

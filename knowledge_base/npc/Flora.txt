@@ -55,7 +55,7 @@ Về hoa trong tiệm...
 :: Tại sao bạn lại thích bồ công anh?
 :::Flora: Phù, tại sao nhỉ... có lẽ là vì cuốn Hồ Ly Biển Bồ Công Anh mà tôi đã đọc trước đây.
 :::Flora: Tặng cho bạn cuốn sách này, có lẽ bạn cũng sẽ thích bồ công anh sau khi đọc xong câu chuyện này.
-::;(Nhận )
+::;(Nhận Hồ Ly Biển Bồ Công Anh)
 : Về Hoa Ngọt
 ::Flora: Hoa Ngọt à... hì hì.
 ::Flora: Hoa thì rất đẹp, nhưng mọi người thường đem nó đi nấu ăn.
@@ -94,7 +94,7 @@ Về hoa trong tiệm...
 :: Tại sao bạn lại thích bồ công anh?
 :::Flora: Phù, tại sao nhỉ... có lẽ là vì cuốn Hồ Ly Biển Bồ Công Anh mà tôi đã đọc trước đây.
 :::Flora: Tặng cho bạn cuốn sách này, có lẽ bạn cũng sẽ thích bồ công anh sau khi đọc xong câu chuyện này.
-::;(Nhận )
+::;(Nhận Hồ Ly Biển Bồ Công Anh (I))
 : Về Hoa Ngọt
 ::Flora: Hoa Ngọt à... hì hì.
 ::Flora: Hoa thì rất đẹp, nhưng mọi người thường đem nó đi nấu ăn.

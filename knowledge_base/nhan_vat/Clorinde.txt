@@ -27,4 +27,4 @@ voiceCN: Zhao Hanyu (zh|赵涵雨)
 voiceJP: w|Yui Ishikawa|Ishikawa Yui (ja|石川由依)
 voiceKR: Shin Na-ri (ko|신나리)
 
-- Tổng Quan: Clorinde là một nhân vật hệ chơi được, sở hữu Sức Mạnh Nền Tảng trong Genshin Impact. Cô là Đấu Sĩ Đại Diện mạnh nhất tại Fontaine và từng là vệ sĩ của Furina.
+- Tổng Quan: Clorinde là một nhân vật hệ Lôi chơi được, sở hữu Sức Mạnh Nền Tảng trong Genshin Impact. Cô là Đấu Sĩ Đại Diện mạnh nhất tại Fontaine và từng là vệ sĩ của Furina.

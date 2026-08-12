@@ -8,7 +8,7 @@ type3: Hệ Thống Trò Chơi
 
 CD dùng để chỉ khoảng thời gian chờ để có thể sử dụng lại Kỹ Năng Nguyên Tố, Kỹ Năng Nộ hay các khả năng khác (ví dụ như Đại Bác của Thuyền Gió).
 
-Có thể giảm CD thông qua cộng hưởng nguyên tố Phong Nhạy Bén hoặc thông qua một số khả năng nhất định của các nhân vật. Một số kẻ địch nhất định như Sứ Đồ Vực Sâu - Kích Lưu cũng có khả năng thao túng CD của người chơi. Địa Mạch Bất Thường Nước Lững Lờ cũng có thể kéo dài CD kỹ năng của nhân vật.
+Có thể giảm CD thông qua cộng hưởng nguyên tố Phong Phong Nhạy Bén hoặc thông qua một số khả năng nhất định của các nhân vật. Một số kẻ địch nhất định như Sứ Đồ Vực Sâu - Kích Lưu cũng có khả năng thao túng CD của người chơi. Địa Mạch Bất Thường Nước Lững Lờ cũng có thể kéo dài CD kỹ năng của nhân vật.
 
 Hầu hết CD kỹ năng của nhân vật đều là cố định, tuy nhiên cũng có một số trường hợp đặc biệt CD sẽ phụ thuộc vào thời gian sử dụng kỹ năng, ví dụ như Trang Phục Ma Vương - Thủy Triều của Tartaglia và Trường Phái Yoohoo - Fuuin Lăn Tròn của Sayu.
 
@@ -19,7 +19,7 @@ Giảm CD là lượng giảm phần trăm CD cần chờ cho đến khi có th�
 Thuộc tính Giảm CD sẽ cộng dồn và bị ảnh hưởng bởi bất cứ hiệu quả giảm toàn bộ CD nào, tuy nhiên bất cứ hiệu quả giảm CD của các thiên phú cụ thể nào cũng sẽ được cộng dồn theo cấp số nhân.
 
 Ví dụ, nếu Bennett
-- ở trong đội hình có Cộng Hưởng Nguyên Tố Phong Nhạy Bén (CD giảm 5%)
+- ở trong đội hình có Cộng Hưởng Nguyên Tố Phong Phong Nhạy Bén (CD giảm 5%)
 - và đứng trong khu vực Sương Bạc Trung Điệp từ Kỹ Năng Nguyên Tố với hiệu quả Cung Mệnh tầng 2 của Chongyun (CD giảm 15%)
 
 thì sẽ nhận hiệu quả CD giảm 20%. Ngoài ra, nếu Bennett đã đột phá bậc 4 hoặc cao hơn (tức đã mở khóa toàn bộ Thiên Phú Cố Định), Kỹ Năng Nộ của cậu sẽ...

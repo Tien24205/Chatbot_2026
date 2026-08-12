@@ -9,4 +9,18 @@ Bản Vẽ Rèn có thể coi là một loại công thức dùng để rèn. Kh
 
 Có thể lấy bản vẽ rèn qua hệ thống Danh Vọng, Nhiệm Vụ, Rương và một số vị trí hiến tế. Độ hiếm của bản vẽ rèn tương đương độ hiếm của vật được rèn.
 
-- Bản Vẽ Rèn Vũ Khí Có Tên Đặc Biệt: Hầu như các bản vẽ rèn đều có cách đặt tên "Bản Vẽ: (tên vũ khí)" ngoại trừ các bản vẽ sau: Dragonspine - — - — Inazuma - — - — Sumeru - — - — - — - — - —
+## Bản Vẽ Rèn Vũ Khí Có Tên Đặc Biệt
+
+Hầu như các bản vẽ rèn đều có cách đặt tên "Bản Vẽ: (tên vũ khí)" ngoại trừ các bản vẽ sau:
+Dragonspine
+- Tuyết Vùi Tinh Ngân — Ký ức Cố Đô Tuyết Vùi
+- Trái Chịu Lạnh — Ký ức Cây Chịu Lạnh
+Inazuma
+- Đoản Đao Amenoma — Bản vẽ danh đao gia truyền của nhà Saimon
+- Vòng Bạch Thần — Mặt Nạ Đầy Ký Ức
+Sumeru
+- Kiếm Gỗ — Câu Chuyện Về Sa Mạc
+- Vương Khí Rừng Sâu — Câu Chuyện Về Vua Rừng Sâu
+- Quán Nguyệt Thương — Câu Chuyện Về Mặt Trăng
+- Quả Mọng — Câu Chuyện Về Điềm Báo
+- Cận Vệ Nhà Vua — Câu Chuyện Về Cận Vệ Của Vua

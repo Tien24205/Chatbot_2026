@@ -11,7 +11,7 @@ group2: Tiền Tệ Hóa
 
 ## Ca Tụng Sự Kiện
 
-Ca Tụng Sự Kiện yêu cầu để thực hiện Ca Tụng.
+Ca Tụng Sự Kiện yêu cầu Ngọc Kỳ Bí để thực hiện Ca Tụng.
 
 Hệ thống này sở hữu cơ chế bảo hiểm Ngoại Hình 5 sao và 4 sao. Người chơi chắc chắn nhận được Ngoại Hình 5 sao trong vòng 70 lần Ca Tụng và Ngoại Hình 4 sao hoặc cao hơn trong vòng 10 lần Ca Tụng.
 
@@ -27,7 +27,7 @@ Tỉ Lệ
 
 ## Ca Tụng Thường
 
-Ca Tụng Thường (Vọng Âm Kỳ Ngộ) yêu cầu để thực hiện Ca Tụng.
+Ca Tụng Thường (Vọng Âm Kỳ Ngộ) yêu cầu Tinh Thể Tái Hiện để thực hiện Ca Tụng.
 
 Hệ thống này sở hữu cơ chế bảo hiểm vật phẩm 4 sao và 3 sao. Người chơi chắc chắn nhận được một vật phẩm (Danh Mục Bộ) 4 sao trong vòng 70 lần Ca Tụng và một vật phẩm 3 sao hoặc cao hơn trong vòng 5 lần Ca Tụng. Mỗi lần nhận được vật phẩm 4 sao, hệ thống sẽ ưu tiên xuất hiện những món mà người chơi đang sở hữu ít hơn hai bản.
 
@@ -51,4 +51,4 @@ Khi người chơi nhận Ngoại Hình thông qua Ca Tụng, cơ chế bảo hi
 
 Khi người chơi nhận được một Ngoại Hình 5 sao lần thứ hai thông qua bất kỳ hình thức nào (bao gồm nhưng không giới hạn ở: Ca Tụng, Đổi Cửa Hàng hoặc Quà Tặng) trong khi đã sở hữu Ngoại Hình đó, tính năng Đột Phá sẽ được kích hoạt.
 
-Bắt đầu từ lần thứ ba nhận được cùng một Ngoại Hình 5 sao, chúng sẽ được chuyển hóa thành.
+Bắt đầu từ lần thứ ba nhận được cùng một Ngoại Hình 5 sao, chúng sẽ được chuyển hóa thành Mảnh Rực Rỡ.

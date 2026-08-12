@@ -5,7 +5,7 @@
 type: Khu Vực
 region: Natlan
 
-- ===Đặc Sản Khu Vực=== - - ===Vật Có Thể Tương Tác===
+- ===Đặc Sản Khu Vực=== - Lưu Lân Thạch - Lá Rạn Vân Đá
 
 - Thư Gửi Chị Anna: Vật tương tác này có thể tìm thấy trên thuyền tại doanh trại Fatui nằm ở phía đông của Bí Cảnh Bến Tàu Xây Dựng Bỏ Hoang.
 
@@ -23,4 +23,4 @@ Bảng Tin Nhắn Cảnh Báo: "Saurian ở chỗ chúng tôi rất nóng nảy,
 Vật tương tác này có thể tìm thấy tại lối vào "Hành Lang Xuyên Núi", ngay phía bắc của Tàn Dư Của Tetenanco.
 Cảnh Báo: Do gần đây núi lửa đang trong thời kỳ thường xuyên "phun trào", nơi khai quật của Di Tích Nguồn tạm thời không mở cửa cho người ngoài!
 
-- Atocpan có nghĩa là "đất dày và màu mỡ" trong tiếng.
+- Atocpan có nghĩa là "đất dày và màu mỡ" trong tiếng Nahuatl.

@@ -26,8 +26,10 @@ Thánh Di Vật có các phẩm chất 1 Sao, 2 Sao, 3 Sao, 4 Sao và 5 Sao. Th�
 
 Món Ăn có các phẩm chất 1 Sao, 2 Sao, 3 Sao, 4 Sao và 5 Sao. Món Ăn phẩm chất càng cao thì càng cần nhiều lần nấu ăn Hoàn Mỹ để đạt Thông Thạo và mở khóa Tự Động Nấu; Món Ăn 1 Sao cần 5 lần, 2 Sao cần 10 lần, 3 Sao cần 15 lần, 4 Sao cần 20 lần và 5 Sao cần 25 lần. Món Ăn phẩm chất cao hơn cũng có hiệu quả mạnh hơn so với Món Ăn phẩm chất thấp cùng loại, ngoại trừ các món đặc sản của Nhân Vật, vốn có thể mạnh hơn món ăn Kỳ Lạ của phẩm chất cao hơn có cùng loại hiệu quả.
 
-- Đồ Trang Trí: Đồ Trang Trí có các phẩm chất 2 Sao, 3 Sao, 4 Sao và 5 Sao. Đồ Trang Trí có phẩm chất cao hơn sẽ tốn nhiều thời gian chế tạo hơn và thưởng nhiều hơn.
+- Đồ Trang Trí: Đồ Trang Trí có các phẩm chất 2 Sao, 3 Sao, 4 Sao và 5 Sao. Đồ Trang Trí có phẩm chất cao hơn sẽ tốn nhiều thời gian chế tạo hơn và thưởng nhiều Độ Tín Nhiệm hơn.
 
 - Sách: Sách có các phẩm chất 0 Sao, 3 Sao và 4 Sao.
 
-- Trang Phục Nhân Vật: Trang Phục nhân vật có các phẩm chất 4 Sao và 5 Sao. Trang Phục 4 Sao có giá, trong khi Trang Phục 5 Sao thông thường có giá và đi kèm với Lồng Tiếng đặc biệt, động tác chờ và hiệu ứng hình ảnh mới.
+## Trang Phục Nhân Vật
+
+Trang Phục nhân vật có các phẩm chất 4 Sao và 5 Sao. Trang Phục 4 Sao có giá Đá Sáng Thế, trong khi Trang Phục 5 Sao thông thường có giá Đá Sáng Thế và đi kèm với Lồng Tiếng đặc biệt, động tác chờ và hiệu ứng hình ảnh mới.

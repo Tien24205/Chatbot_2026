@@ -29,7 +29,7 @@ eff_att2: Tinh Thông Nguyên Tố
 
 - Tổng Quan: Trí Tuệ Dung Luyện là một vũ khí Trọng Kiếm 4 sao có thể nhận được thông qua sự kiện Chuyến Nghỉ Dưỡng Ngày Hè.
 
-- Tinh Luyện: Tinh Luyện Trí Tuệ Dung Luyện cần có nguyên liệu đặc biệt thay vì bản sao của chính nó, có thể nhận được thông qua sự kiện Chuyến Nghỉ Dưỡng Ngày Hè.
+- Tinh Luyện: Tinh Luyện Trí Tuệ Dung Luyện cần có nguyên liệu đặc biệt Tủy Tinh Thể Của Lữ Khách thay vì bản sao của chính nó, có thể nhận được thông qua sự kiện Chuyến Nghỉ Dưỡng Ngày Hè.
 
 ## Mô Tả
 

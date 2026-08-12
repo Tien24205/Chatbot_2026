@@ -23,7 +23,7 @@ Khi bị giam ở Aaru, Thoth đã mượn cơ thể của Ashru để nói chuy
 
 Ashru: Meo...
 (Nếu Lauma có trong đội)
-( có lẽ sẽ hiểu được Ashru đang nói gì...)
+(Lauma có lẽ sẽ hiểu được Ashru đang nói gì...)
 :Ashru: (Meo... Lại tới đây tìm người giúp đỡ hả?)
 :Ashru: (Cứ viết chữ lên tờ giấy bên cạnh là được...)
 :Ashru: (Tôi không thể giúp được rồi. Vì móng vuốt của tôi rất sắc... Sẽ làm rách giấy mất...)
@@ -52,4 +52,4 @@ Ashru: Meo? Meo!
 Ashru: (Loài người... ngốc nghếch... bận rộn tới lui...)
 Ashru: (Hmm... Muốn chải lông...)
 
-- Ashru hay vốn là tên gọi của một hồ nước thiêng hình lưỡi liềm bao quanh đền thờ của các vị nữ thần mặt trời; trong ngữ cảnh này, tên gọi đó ám chỉ vị thần.
+- Ashru hay Isheru vốn là tên gọi của một hồ nước thiêng hình lưỡi liềm bao quanh đền thờ của các vị nữ thần mặt trời; trong ngữ cảnh này, tên gọi đó ám chỉ vị thần Mut.

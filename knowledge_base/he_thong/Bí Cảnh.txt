@@ -15,7 +15,7 @@ Một số bí cảnh cho người chơi Thành Tựu và/hoặc nhận một s�
 
 Bí cảnh vĩnh viễn là những địa danh trên Teyvat. Chúng có một cổng vào bí cảnh được đánh dấu rõ ràng và có thể được sử dụng như Điểm dịch chuyển khi được mở khóa.
 
-Trên bản đồ, bí cảnh được đánh dấu như sau: cho La Hoàn Thâm Cảnh, cho Bí Cảnh Khiêu Chiến và cho Bí Cảnh Một Lần và Vùng Đất Thảo Phạt.
+Trên bản đồ, bí cảnh được đánh dấu như sau: Spiral Abyss cho La Hoàn Thâm Cảnh, Challenge Domains cho Bí Cảnh Khiêu Chiến và Domains cho Bí Cảnh Một Lần và Vùng Đất Thảo Phạt.
 
 ## Bí Cảnh Khiêu Chiến
 

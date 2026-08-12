@@ -6,16 +6,16 @@ type: Hệ Thống Trò Chơi
 
 - Tổng Quan: Kinh Nghiệm (KN hay EXP) có thể đề cập nhiều loại tiến trình trong Genshin Impact.
 
-- Tổng Quan: Tăng trưởng Thế giới và Nhân vật là trung tâm của hệ thống tiến trình. - tăng Hạng Mạo Hiểm. - tăng Cấp của mỗi Nhân Vật.
+- Tổng Quan: Tăng trưởng Thế giới và Nhân vật là trung tâm của hệ thống tiến trình. - EXP Mạo Hiểm tăng Hạng Mạo Hiểm. - EXP Nhân Vật tăng Cấp của mỗi Nhân Vật.
 
 - Vật Phẩm: Vũ Khí và Thánh Di Vật cũng có thể được nâng cấp bằng EXP Vũ Khí và EXP Thánh Di Vật tương ứng. Cả 2 loại EXP này đều không có biểu tượng tượng trưng trong trò chơi.
 
-## Danh Vọng
+- Danh Vọng: Mỗi quốc gia đều có EXP Danh Vọng của riêng: - EXP Danh Vọng Mondstadt - EXP Danh Vọng Liyue - EXP Danh Vọng Inazuma
 
-Mỗi quốc gia đều có EXP Danh Vọng của riêng:
-- - - ==Các kiểu loại EXP khác==
-- sử dụng để lên cấp trong Nhật Ký Hành Trình.
-- tăng Cấp Yêu Thích của mỗi nhân vật trừ Nhà Lữ Hành ra. Đi cùng với tăng cấp Yêu Thích, những Câu Chuyện Nhân Vật mới cũng sẽ được hé lộ.
-- dùng để tăng Cấp Tín Nhiệm trong Ấm Trần Ca hay hệ thống Gia Viên.
+## Các kiểu loại EXP khác
+
+- EXP Nhật Ký Hành Trình sử dụng để lên cấp trong Nhật Ký Hành Trình.
+- EXP Yêu Thích tăng Cấp Yêu Thích của mỗi nhân vật trừ Nhà Lữ Hành ra. Đi cùng với tăng cấp Yêu Thích, những Câu Chuyện Nhân Vật mới cũng sẽ được hé lộ.
+- Độ Tín Nhiệm dùng để tăng Cấp Tín Nhiệm trong Ấm Trần Ca hay hệ thống Gia Viên.
 
 - Sự Kiện: Một số sự kiện có Kinh Nghiệm riêng đi cùng với nó.

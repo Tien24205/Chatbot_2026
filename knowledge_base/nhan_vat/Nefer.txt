@@ -38,6 +38,6 @@ voiceKR: Won Esther (ko|원에스더)
 
 ## Tổng Quan
 
-Nefer là một nhân vật hệ chơi được trong Genshin Impact.
+Nefer là một nhân vật hệ Thảo chơi được trong Genshin Impact.
 
 Xuất thân từ Sumeru, cô là chủ của Hội Đồng Bí Mật và là một thành viên của Thương Hội Voynich. Nefer là một người cực kỳ thông thái và có khả năng tính toán đến mức mọi người suy đoán rằng cô có thể nhìn thấy được tương lai.

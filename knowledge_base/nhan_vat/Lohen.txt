@@ -29,6 +29,6 @@ voiceKR: Lee Sang-ho (ko|이상호)
 
 ## Tổng Quan
 
-Lohen là một nhân vật hệ chơi được trong Genshin Impact.
+Lohen là một nhân vật hệ Băng chơi được trong Genshin Impact.
 
 Cậu là Phó Đội Trưởng Tiểu Đội 5 của Đội Kỵ Sĩ Tây Phong. Dù không phải là một kẻ không biết điểm dừng của bản thân, Lohen yêu thích và sống vì những trận chiến, cậu luôn trong trạng thái sẵn sàng đối đầu với những đối thủ mạnh mẽ để thử thách kỹ năng chiến đấu của mình.

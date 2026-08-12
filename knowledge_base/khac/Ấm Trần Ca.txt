@@ -56,7 +56,7 @@ Khối Lượng sử dụng hệ thống cảnh báo 3 màu, với màu xanh lá
 
 - Động Tiên Bảo Giám: Động Tiên Bảo Giám bao gồm các nhiệm vụ cung cấp Bản Vẽ Đồ Trang Trí và Đồ Trang Trí. Nó hoạt động tương tự như Bằng Chứng Mạo Hiểm.
 
-- Cấp Tín Nhiệm: Cấp Tín Nhiệm tăng bằng cách nhận từ mỗi lần đầu chế tạo Đồ Trang Trí.
+- Cấp Tín Nhiệm: Cấp Tín Nhiệm tăng bằng cách nhận Độ Tín Nhiệm từ mỗi lần đầu chế tạo Đồ Trang Trí.
 
 - Bình Tài Động Tiên: Đặt nhiều loại đồ trang trí có thể giúp tăng Tiên Lực.
 

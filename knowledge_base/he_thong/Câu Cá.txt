@@ -22,7 +22,9 @@ Bản Đồ gồm Ghim có thể đánh dấu Điểm Câu Cá.
 
 ## Khác
 
-- Độ khó đánh bắt dựa trên một số tham số, bao gồm tốc độ tăng tiến độ, kích thước của Vùng căng lý tưởng và chuyển động của Vùng căng lý tưởng. Các yếu tố khác bao gồm thời gian cá cắn câu (độ khó cao hơn = thời gian dài hơn) và thời gian người chơi phải bắt đầu quay để con cá cắn câu (độ khó cao hơn = thời gian ngắn hơn).
+- Máy Ổn Định Dây Câu
+
+Độ khó đánh bắt dựa trên một số tham số, bao gồm tốc độ tăng tiến độ, kích thước của Vùng căng lý tưởng và chuyển động của Vùng căng lý tưởng. Các yếu tố khác bao gồm thời gian cá cắn câu (độ khó cao hơn = thời gian dài hơn) và thời gian người chơi phải bắt đầu quay để con cá cắn câu (độ khó cao hơn = thời gian ngắn hơn).
 
 ## Cá Cảnh
 

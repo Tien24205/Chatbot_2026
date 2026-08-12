@@ -8,4 +8,4 @@ subregion: Biển Cát Đỏ
 area: Biển Cát Trụ Cột
 subarea: Lăng Mộ Vua Deshret
 
-- Từ "shut" (tiếng Anh) trong tên gọi bắt nguồn từ từ tiếng Ai Cập có nghĩa là "bóng". Từ này cũng có thể được hiểu theo nghĩa bóng là sự phản chiếu hoặc ám chỉ (bóng) của một người.
+- Từ "shut" (tiếng Anh) trong tên gọi bắt nguồn từ từ tiếng Ai Cập có nghĩa là "bóng". Từ này cũng có thể được hiểu theo nghĩa bóng là sự phản chiếu hoặc ám chỉ shut (bóng) của một người.

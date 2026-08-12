@@ -24,7 +24,7 @@ series: Mẫu
 
 - Tổng Quan: Mẫu Cổ Hoa là một Trọng Kiếm rèn 4 sao.
 
-- Đầu tiên Vụn Vỡ sẽ áp dụng phạm vi tấn công, sau đó là sát thương. - Vụn Vỡ gây, do đó bị ảnh hưởng bởi Kháng Vật Lý và Buff Sát Thương Vật Lý.
+- Đầu tiên Vụn Vỡ sẽ áp dụng phạm vi tấn công, sau đó là sát thương. - Vụn Vỡ gây sát thương vật lý, do đó bị ảnh hưởng bởi Kháng Vật Lý và Buff Sát Thương Vật Lý.
 
 ## Câu Chuyện
 

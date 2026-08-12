@@ -27,7 +27,7 @@ voiceKR: w|ko:우정신|Woo Jeong-sin (ko|우정신)
 
 ## Tổng Quan
 
-Astrologist Mona Megistus là một nhân vật hệ mà người chơi có thể điều khiển trong Genshin Impact.
+Astrologist Mona Megistus là một nhân vật hệ Thủy mà người chơi có thể điều khiển trong Genshin Impact.
 
 Cô là một thuật sĩ chiêm tinh với tài năng và lòng kiêu hãnh cao, hiện đang cư trú tại Mondstadt để tránh làm sư phụ giận dữ sau khi vô tình đọc được nhật ký thời thiếu nữ của bà.
 

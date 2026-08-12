@@ -27,7 +27,7 @@ voiceKR: Lee Jung-min (ko|이정민)
 
 ## Tổng Quan
 
-Kaveh là nhân vật hệ chơi được trong Genshin Impact.
+Kaveh là nhân vật hệ Thảo chơi được trong Genshin Impact.
 
 Kaveh là người thuộc học phái Kshahrewar của Giáo Viện Sumeru và đã tốt nghiệp, tiếng tăm về tài năng của anh lan khắp Giáo Viện. Anh cũng là người đứng đằng sau sự lộng lẫy của Cung Điện Alcazarzaray, nhưng vì dự án này mà anh nợ nần chồng chất và bị phá sản. Hiện tại anh buộc phải ở chung nhà với Alhaitham, người mà anh thấy khó ưa.
 

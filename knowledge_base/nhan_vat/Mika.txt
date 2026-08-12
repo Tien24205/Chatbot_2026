@@ -29,7 +29,7 @@ voiceKR: w|ko:윤은서|Yoon Eun-seo (ko|윤은서)
 
 ## Tổng Quan
 
-Mika Schmidt là một nhân vật hệ mà người chơi có thể điều khiển trong Genshin Impact.
+Mika Schmidt là một nhân vật hệ Băng mà người chơi có thể điều khiển trong Genshin Impact.
 
 Cậu là em trai của Huffman và là nhân viên trắc họa thuộc Tiểu Đội Du Kích của Đội Kỵ Sĩ Tây Phong, được dẫn đầu bởi Eula. Mika luôn hoàn thành nhiệm vụ được giao một cách cẩn thận và đầy hiệu quả để có thể thức hiện ước mơ trở thành một chuyên gia đo vẽ bản đồ của mình. Tuy cậu thường rất ngại ngùng khi trò chuyện với người khác, Mika cũng dần mở lòng với những đồng nghiệp xung quanh bởi bản thân cậu rất coi trọng tinh thần đồng đội và mong muốn được học hỏi nhiều hơn từ họ.
 

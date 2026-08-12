@@ -25,7 +25,7 @@ voiceKR: Bang Siu (ko|방시우)
 
 ## Tổng Quan
 
-Collei là một nhân vật hệ chơi được trong Genshin Impact.
+Collei là một nhân vật hệ Thảo chơi được trong Genshin Impact.
 
 Từng là một nạn nhân mắc Eleazar và phải chịu đựng các cuộc thí nghiệm trên cơ thể con người của Fatui, Collei sau đó đã lang thang khắp nơi cho đến khi gặp được Amber ở Mondstadt. Từ đó, cuộc đời Collei bước sang trang mới và hiện cô đang làm Kiểm Lâm tại Rừng Avidya.
 

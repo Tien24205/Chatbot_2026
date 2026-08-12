@@ -4,7 +4,7 @@
 
 type: Genshin Impact
 
-Chương Trình Đặc Biệt (còn viết tắt là CTĐB hay ) là các chương trình phát sóng thông báo nội dung của Phiên Bản sắp tới của Genshin Impact. Các chương trình này có thể xem dưới dạng:
+Chương Trình Đặc Biệt (còn viết tắt là CTĐB hay SP) là các chương trình phát sóng thông báo nội dung của Phiên Bản sắp tới của Genshin Impact. Các chương trình này có thể xem dưới dạng:
 - Công chiếu trên YouTube: được tải lên kênh YouTube chính thức của Genshin Impact vào một ngày định sẵn
 - Trực Tiếp trên Twitch: Kênh Twitch Chính Thức
 - Trực Tiếp trên Bilibili: được tải lên kênh Genshin Impact chính thức trên Bilibili

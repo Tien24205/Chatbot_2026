@@ -31,7 +31,7 @@ voiceKR: w|ko:송하림|Song Ha-rim (ko|송하림)
 
 ## Tổng Quan
 
-Bennett là một nhân vật hệ chơi được trong Genshin Impact.
+Bennett là một nhân vật hệ Hỏa chơi được trong Genshin Impact.
 
 Là một đứa trẻ mồ côi được một nhà thám hiểm lớn tuổi phát hiện khi còn nhỏ, Bennett được nuôi dưỡng trong Hiệp Hội Nhà Mạo Hiểm của Mondstadt. Cậu là thành viên duy nhất và cũng là đội trưởng của "Đoàn Mạo Hiểm Benny", sau khi các thành viên của đoàn lần lượt xin rời đi do ảnh hưởng từ vận đen của cậu.
 

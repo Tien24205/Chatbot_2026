@@ -18,7 +18,7 @@ Trước Phiên Bản 3.6, cấp độ hiến tế tối đa lần lượt bị 
 
 ## Phần Thưởng
 
-Mỗi cấp hiến tế yêu cầu 35. Cần tổng 1750 Ấn Thảo để đạt cấp hiến tế tối đa. Khi đạt cấp tối đa sẽ nhận được.
+Mỗi cấp hiến tế yêu cầu 35 Ấn Thảo. Cần tổng 1750 Ấn Thảo để đạt cấp hiến tế tối đa. Khi đạt cấp tối đa sẽ nhận được.
 
 Các cấp trừ cấp 40 và 50 sẽ thưởng:
 

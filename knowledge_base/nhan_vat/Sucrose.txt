@@ -24,7 +24,7 @@ voiceKR: w|ko:김하영 (성우)|Kim Ha-yeong (ko|김하영)
 
 ## Tổng Quan
 
-Sucrose là một nhân vật hệ mà người chơi có thể điều khiển trong Genshin Impact.
+Sucrose là một nhân vật hệ Phong mà người chơi có thể điều khiển trong Genshin Impact.
 
 Cô là giả kim thuật sĩ, chuyên về giả kim thuật sinh học. Cô cũng là trợ lý của Albedo, giả kim thuật sĩ trưởng của Đội Kỵ Sĩ Tây Phong.
 

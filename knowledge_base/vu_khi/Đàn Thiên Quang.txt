@@ -22,7 +22,7 @@ eff_att1: Tinh Thông Nguyên Tố
 
 - Tổng Quan: Đàn Thiên Quang là một Pháp Khí 4 sao nhận từ sự kiện Đại Chiến Clink Clank.
 
-- Tinh Luyện: Tinh luyện Đàn Thiên Quang cần thay vì vũ khí cùng tên. Có thể nhận 4 Dây Đàn Vàng thông qua sự kiện Đại Chiến Clink Clank.
+- Tinh Luyện: Tinh luyện Đàn Thiên Quang cần Dây Đàn Vàng thay vì vũ khí cùng tên. Có thể nhận 4 Dây Đàn Vàng thông qua sự kiện Đại Chiến Clink Clank.
 
 ## Câu Chuyện
 

@@ -28,7 +28,7 @@ voiceKR: w|ko:박고운|Park Go-woon (ko|박고운) Oz: w|ko:이현 (성우)|Lee
 
 ## Tổng Quan
 
-Fischl von Luftschloss Narfidort là một nhân vật hệ mà người chơi có thể điều khiển trong Genshin Impact.
+Fischl von Luftschloss Narfidort là một nhân vật hệ Lôi mà người chơi có thể điều khiển trong Genshin Impact.
 
 Fischl là điều tra viên của Hiệp Hội Nhà Mạo Hiểm ở Mondstadt, đồng hành cùng là một con quạ đen Oz. Fischl tự nhận mình đến từ một thế giới khác Teyvat. Cô ấy là một nhà mạo hiểm táo bạo với những lý thuyết có vẻ kỳ lạ nhưng hóa ra lại là sự thật.
 

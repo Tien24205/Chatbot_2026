@@ -18,7 +18,7 @@ Trước Phiên Bản 4.6, cấp tối đa bị giới hạn ở 20, 30 và 40 l
 
 ## Phần Thưởng
 
-Mỗi cấp hiến tế yêu cầu 30. Cần tổng cộng 1,500 Ấn Hỏa để đạt cấp hiến tế tối đa. Đạt cấp tối đa sẽ nhận được.
+Mỗi cấp hiến tế yêu cầu 30 Ấn Thủy. Cần tổng cộng 1,500 Ấn Hỏa để đạt cấp hiến tế tối đa. Đạt cấp tối đa sẽ nhận được.
 
 Các cấp trừ cấp 40 và 50 sẽ thưởng:
 

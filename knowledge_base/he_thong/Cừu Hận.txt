@@ -5,7 +5,7 @@
 type: Hệ Thống Trò Chơi
 type2: Chiến Đấu
 
-Cừu Hận, hay aggro, là của kẻ địch. Cừu Hận trong Genshin Impact là một cơ chế phực tạp được cấu trúc nên từ hai phần: hệ thống Phát Hiện nhằm báo động Kẻ Địch và khiến Sinh Vật Hoang Dã trở nên bị kinh động, và hệ thống Chú Ý nhằm xác định mục tiêu chính khi đang chiến đấu.
+Cừu Hận, hay aggro, là cơ chế chọn mục tiêu của kẻ địch. Cừu Hận trong Genshin Impact là một cơ chế phực tạp được cấu trúc nên từ hai phần: hệ thống Phát Hiện nhằm báo động Kẻ Địch và khiến Sinh Vật Hoang Dã trở nên bị kinh động, và hệ thống Chú Ý nhằm xác định mục tiêu chính khi đang chiến đấu.
 
 Khiêu Khích là hiệu ứng đặc biệt của một số chiêu thức của nhân vật có khả năng thu hút chú ý của kẻ đich và làm chúng thay đổi mục tiêu. Kẻ địch cấp Thủ Lĩnh trở nên miễn nhiễm với Khiêu Khích.
 

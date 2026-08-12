@@ -20,15 +20,15 @@ Ta biết được rằng có thể Vision bắt đầu xuất hiện cùng lúc
 ## Người Sở Hữu Hiện Tại
 
 Nữ Hoàng Băng Giá đang cố tìm cách lấy được các Gnosis, vẫn chưa rõ lý do người làm vậy. Sau, hiện có sáu Gnosis đang nằm trong tay Fatui:
-- Gnosis do Nữ Hoàng Băng Giá sở hữu.
-- Gnosis do Signora cưỡng đoạt từ Barbatos.
-- Gnosis do Nham Vương Đế Quân trao cho Signora thông qua khế ước của ngài và Nữ Hoàng Băng Giá.
-- Gnosis do Tiểu Vương Kusanali trao cho Dottore với điều kiện Dottore phải loại bỏ hoàn toàn các phân thân của hắn, hoặc không cô sẽ phá hủy chiếc Gnosis có thể đánh thức Thiên Lý.
+- Gnosis Băng do Nữ Hoàng Băng Giá sở hữu.
+- Gnosis Phong do Signora cưỡng đoạt từ Barbatos.
+- Gnosis Nham do Nham Vương Đế Quân trao cho Signora thông qua khế ước của ngài và Nữ Hoàng Băng Giá.
+- Gnosis Lôi do Tiểu Vương Kusanali trao cho Dottore với điều kiện Dottore phải loại bỏ hoàn toàn các phân thân của hắn, hoặc không cô sẽ phá hủy chiếc Gnosis có thể đánh thức Thiên Lý.
 #* Tiểu Vương Kusanali lấy được Gnosis sau khi đánh bại Scaramouche. Trước đây Yae Miko được Ei tin tưởng giao cho giữ Gnosis vì người không còn cần đến nó nữa. Yae Miko đã trao nó cho Scaramouche để đổi lấy mạng sống của Nhà Lữ Hành.
-- Gnosis do Tiểu Vương Kusanali trao cho Dottore nhằm lấy được thông tin về lời đồn "bầu trời sao của Teyvat là giả"
-- Gnosis do Neuvillette trao cho Arlecchino như một "món quà ngoại giao" dành cho cô nhờ sự giúp đỡ của cô cùng Tartaglia trong việc ngăn chặn lời tiên tri.
+- Gnosis Thảo do Tiểu Vương Kusanali trao cho Dottore nhằm lấy được thông tin về lời đồn "bầu trời sao của Teyvat là giả"
+- Gnosis Thủy do Neuvillette trao cho Arlecchino như một "món quà ngoại giao" dành cho cô nhờ sự giúp đỡ của cô cùng Tartaglia trong việc ngăn chặn lời tiên tri.
 #* Neuvillette nhận được Gnosis sau khi Focalors tự hành quyết bản thân bằng Cỗ Máy Chỉ Thị Phán Quyết.
-- Gnosis hiện đang do Haborym nắm giữ.
+- Gnosis Hỏa hiện đang do Haborym nắm giữ.
 
 ## Khả Năng
 
@@ -52,6 +52,6 @@ Ei không thể tạo ra cơ thể vật lý để chứa Gnosis, đồng thời
 
 ## Từ Nguyên
 
-- Trong, là thuật ngữ dùng để chỉ trí tuệ, tri thức hay sái nhìn sâu sắc về bản chất của thần. Thông qua Gnosis, một người có thể vượt qua các cõi vật chất do bảy vị chấp chính khống chế và vào cõi siêu thiên của.
+- Trong Thuyết ngộ đạo, gnosis là thuật ngữ dùng để chỉ trí tuệ, tri thức hay sái nhìn sâu sắc về bản chất của thần. Thông qua Gnosis, một người có thể vượt qua các cõi vật chất do bảy vị chấp chính khống chế và vào cõi siêu thiên của Ogdoad.
 - Thuật ngữ tiếng trung của Gnosis, tương đương với thuật ngữ. Cả hai đều được gọi là, trong bản bản địa hóa tiếng Việt, chúng được gọi là "vật chứa đựng ma thuật/trang bị ma thuật".
 - Trong Chương Teyvat - Vở Kịch Đêm Đông, sau khi Capitano hỏi về Scaramouche và Gnosis của Inazuma, Dottore đã trả lời rằng "'Kiến Thức Thần Thánh' là loại kiến thức mà lý trí không thể hiểu được". Bản gốc tiếng Trung của "Kiến Thức Thần Thánh" là, ở đây là thuật ngữ tiếng Trung của gnosis trong thuyết ngộ đạo.-->

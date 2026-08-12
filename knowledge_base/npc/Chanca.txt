@@ -42,7 +42,7 @@ Có đề xuất gì không?
 :Chanca: Tuy nhiên, món này khá đơn giản, hầu như ai ở Natlan cũng biết làm.
 :Chanca: Nào, xòe tay ra.
 :Chanca: Haha, tưởng tôi sẽ đưa cho thành phẩm ư? Không, tôi sẽ tự tay hướng dẫn!
-::;(Nhận )
+::;(Nhận Recipe)
 Dạo này thế nào rồi?
 :Chanca: Cảm ơn đã quan tâm, mọi thứ đều ổn cả.
 :Chanca: Sau cuộc chiến, có nhiều đồng đội cũ đã đến chỗ tôi ăn tối. Tuy ai cũng bị thương, nhưng đều tỏ ra rất vui vẻ.
@@ -51,4 +51,4 @@ Dạo này thế nào rồi?
 Tạm biệt.
 :Chanca: Lần sau lại đến nhé!
 
-- là bộ tộc sinh sống ở.
+- Chanca là bộ tộc người Quechua sinh sống ở Peru.

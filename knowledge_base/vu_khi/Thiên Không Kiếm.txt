@@ -33,7 +33,7 @@ eff_att5: Hiệu Quả Kích Hoạt Khi Trọng Kích Đánh Trúng
 
 - Hiệu quả Răng Nanh Xuyên Qua Trời Cao khiến xung quanh nhân vật cầm vũ khí có một quầng sáng màu xanh.
 - Thời gian buff 12s kéo dài ngay cả khi nhân vật cầm vũ khí không ở trên sân.
-- Đòn đánh tạo nên từ vũ khí được hưởng lợi từ chỉ số và có thể gây bạo kích.
+- Đòn đánh Sát Thương Vật Lý tạo nên từ vũ khí được hưởng lợi từ chỉ số Tăng Sát Thương Vật Lý và có thể gây bạo kích.
 - Hiệu quả nội tại không áp dụng cho các thành viên khác trong đội.
 
 ## Câu Chuyện

@@ -6,7 +6,7 @@ type: Ngôn Ngữ
 
 Chữ Viết Liyue (tên không chính thức) nhắc đến hệ thống chữ viết của Liyue.
 
-Chữ viết được lấy cảm hứng từ chữ Hán ngoài đời thực, đặc biệt. Chữ viết như vậy phổ biến trong Cảng Liyue xung quanh các cửa hàng và doanh nghiệp khác — có mức độ lặp lại rất cao của các biểu tượng này trên các biển hiệu cửa hàng. Các ví dụ khác về chữ viết này có thể được nhìn thấy trên Bức Tường Tình Báo Quần Ngọc Các trong đoạn cắt cảnh hoạt hình trong Nhiệm Vụ Ma Thần "Đồng Hành" và trên các bảng thông báo xung quanh Liyue.
+Chữ viết được lấy cảm hứng từ chữ Hán ngoài đời thực, đặc biệt vi:triện thư. Chữ viết như vậy phổ biến trong Cảng Liyue xung quanh các cửa hàng và doanh nghiệp khác — có mức độ lặp lại rất cao của các biểu tượng này trên các biển hiệu cửa hàng. Các ví dụ khác về chữ viết này có thể được nhìn thấy trên Bức Tường Tình Báo Quần Ngọc Các trong đoạn cắt cảnh hoạt hình trong Nhiệm Vụ Ma Thần "Đồng Hành" và trên các bảng thông báo xung quanh Liyue.
 
 ## Xuất Hiện
 
@@ -18,7 +18,7 @@ Một dạng cách điệu (hoặc cổ xưa) của chữ Liyue xuất hiện tr
 
 Có một vài trường hợp các chữ trong chữ viết này đã được giải mã và xác định là dựa trên chữ Hán hiện tại. Trong hầu hết các trường hợp, các chữ tương ứng chặt chẽ với chữ triện, một dạng cổ của hệ thống chữ viết Trung Quốc.
 
-Một vài chữ xuất hiện ở trung tâm của ấn ở lối vào Rễ Cây Phục Long. Chúng được sử dụng để chỉ ra yếu tố nào Azhdaha sẽ là phản ứng và được dựa trên chữ triện của các Nguyên Tố: (), (), (), và (). Lưu ý rằng chữ cho Lôi đã được đơn giản hóa từ dạng chữ triện của nó () bằng cách thay bằng ký hiệu Lôi.
+Một vài chữ xuất hiện ở trung tâm của ấn ở lối vào Rễ Cây Phục Long. Chúng được sử dụng để chỉ ra yếu tố nào Azhdaha sẽ là phản ứng và được dựa trên chữ triện của các Nguyên Tố: Lôi (), Thủy (), Băng (), và Hỏa (). Lưu ý rằng chữ cho Lôi đã được đơn giản hóa từ dạng chữ triện của nó () bằng cách thay bằng ký hiệu Lôi Lôi.
 
 Bốn chữ cũng xuất hiện khi Trọng Kích của Yanfei để lại dấu trên mặt đất. Những chữ này đã được giải thích là dựa trên ký tự Trung Quốc cho và (phải sang trái, trên xuống dưới). Chữ được xác định là và trên thực tế, nó giống hệt với một dạng triện thư của chữ, trong khi các chữ khác dường như được cách điệu hóa cao.
 

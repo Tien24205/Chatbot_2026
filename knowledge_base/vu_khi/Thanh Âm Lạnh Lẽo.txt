@@ -22,7 +22,7 @@ eff_scale1: Giới Hạn HP
 
 - Tổng Quan: Thanh Âm Lạnh Lẽo là vũ khí Cung 4 sao có thể nhận được thông qua sự kiện Điệu Van Xoay Vòng.
 
-- Tinh Luyện: Để tinh luyện Thanh Âm Lạnh Lẽo cần có nguyên liệu đặc biệt thay vì bản sao của chính nó, có thể nhận được thông qua sự kiện Điệu Van Xoay Vòng.
+- Tinh Luyện: Để tinh luyện Thanh Âm Lạnh Lẽo cần có nguyên liệu đặc biệt Bộ Hiệu Chỉnh Cung Tên thay vì bản sao của chính nó, có thể nhận được thông qua sự kiện Điệu Van Xoay Vòng.
 
 ## Câu Chuyện
 

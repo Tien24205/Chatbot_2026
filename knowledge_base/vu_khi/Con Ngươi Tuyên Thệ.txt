@@ -23,7 +23,7 @@ eff_att1: Hiệu Quả Nạp Nguyên Tố
 
 ## Tinh Luyện
 
-Tinh luyện Con Ngươi Tuyên Thệ yêu cầu một vật phẩm đặc biệt có tên thay vì bản sao của món vũ khí. Vật phẩm đó có thể nhận được từ sự kiện Nghi Lễ Cổng Tam Giới khi nâng cấp Hộp Bokuso đến Cấp 5, 9, 10 và 14.
+Tinh luyện Con Ngươi Tuyên Thệ yêu cầu một vật phẩm đặc biệt có tên Dầu Cá Thị Lực thay vì bản sao của món vũ khí. Vật phẩm đó có thể nhận được từ sự kiện Nghi Lễ Cổng Tam Giới khi nâng cấp Hộp Bokuso đến Cấp 5, 9, 10 và 14.
 
 ## Câu Chuyện
 

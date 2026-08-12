@@ -26,7 +26,7 @@ voiceKR: w|ko:김연우 (성우)|Kim Yeon-woo (ko|김연우)
 
 ## Tổng Quan
 
-Amber là một nhân vật hệ mà người chơi có thể điều khiển trong Genshin Impact.
+Amber là một nhân vật hệ Hỏa mà người chơi có thể điều khiển trong Genshin Impact.
 
 Cô là Kỵ Sĩ Trinh Thám cuối cùng của Đội Kỵ Sĩ Tây Phong. Cô luôn sẵn sàng giúp đỡ bất cứ người dân nào ở Mondstadt từ những việc đơn giản nhất cho đến những nhiệm vụ khó khăn.
 

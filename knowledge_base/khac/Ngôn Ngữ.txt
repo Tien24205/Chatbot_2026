@@ -4,7 +4,7 @@
 
 Có nhiều ngôn ngữ và chữ viết khác nhau ở Teyvat, phần lớn chúng đều dựa vào những ngôn ngữ thật.
 
-Một số biển hiệu ở Mondstadt được viết dưới dạng chữ viết không phải là Chữ Viết Teyvat. Những biển hiệu này được viết theo với một vài phần được lược bỏ và toàn bộ chữ viết được lật ngang. Cũng có một số biến thể giữa những chữ cái giống nhau.
+Một số biển hiệu ở Mondstadt được viết dưới dạng chữ viết không phải là Chữ Viết Teyvat. Những biển hiệu này được viết theo bảng chữ cái Latin với một vài phần được lược bỏ và toàn bộ chữ viết được lật ngang. Cũng có một số biến thể giữa những chữ cái giống nhau.
 
 Các biển hiệu dùng chữ viết này:
 - Biểu tượng của Hiệp Hội Nhà Mạo Hiểm nhánh Mondstadt; có vẻ là "" ("")
@@ -13,7 +13,7 @@ Các biển hiệu dùng chữ viết này:
 
 ## Ngôn Ngữ Dựa Trên Enochian
 
-Chữ viết cho ngôn ngữ này xuất hiện trong khi Pháp Sư Vực Sâu đang niệm chú để tái tạo khiên cũng như trên đầu khi thực hiện các phép thuật ngoài chiến đấu, cho dù ở một mình hay cùng với những hilichurl khác chẳng hạn như trong ủy thác Sự Bành Trướng Của Tà Ác. Đây có thể là ngôn ngữ đã bị lãng quên từ lâu được đề cập trong Bằng Chứng Mạo Hiểm như thứ mang lại sức mạnh ma thuật cho các Pháp Sư Vực Sâu. Chữ viết được dựa trên bảng chữ cái, nhưng các nỗ lực giải mã nó chỉ mang lại văn bản khó hiểu, vì các chuỗi chữ cái dường như được tạo ngẫu nhiên.
+Chữ viết cho ngôn ngữ này xuất hiện trong khi Pháp Sư Vực Sâu đang niệm chú để tái tạo khiên cũng như trên đầu khi thực hiện các phép thuật ngoài chiến đấu, cho dù ở một mình hay cùng với những hilichurl khác chẳng hạn như trong ủy thác Sự Bành Trướng Của Tà Ác. Đây có thể là ngôn ngữ đã bị lãng quên từ lâu được đề cập trong Bằng Chứng Mạo Hiểm như thứ mang lại sức mạnh ma thuật cho các Pháp Sư Vực Sâu. Chữ viết được dựa trên bảng chữ cái Enochian, nhưng các nỗ lực giải mã nó chỉ mang lại văn bản khó hiểu, vì các chuỗi chữ cái dường như được tạo ngẫu nhiên.
 
 Chữ viết cũng xuất hiện trong các chữ rune bảo vệ màu vàng xung quanh các điểm yếu của Cơ Quan Tự Động, trong đó các ký tự được nhân đôi cho B, L và G quanh lõi. Thủ Vệ Di Tích được biết là đã được làm bởi người dân của Khaenri'ah, nhiều cái trong số chúng biến thành "quái vật của Giáo Đoàn Vực Sâu," vì vậy chữ viết này cũng có thể được sử dụng ở Khaenri'ah.
 
@@ -27,7 +27,7 @@ Rune tương tự như cổ ngữ của Elder Futhark có thể được nhìn t
 
 ## Chữ Viết Ishine
 
- của Chữ Viết Ishine ]]Chữ Viết Ishine chỉ được biết đến bởi các gia đình linh mục trong nền văn minh từng sinh sống trên Đảo Tsurumi. Ngôn ngữ của chữ viết được sử dụng để gọi tên người, địa điểm và những thứ khác trên đảo. Ngôn ngữ này có thể dựa trên ngoài đời. Ví dụ, Kama có nghĩa là "một tảng đá rất lớn", tương ứng với từ Ainu, có nghĩa là "đá phẳng." Tuy nhiên, các chữ cái của Chữ Viết Ishine không có bất kỳ điểm tương đồng rõ ràng nào với chữ viết của Ainu.
+ của Chữ Viết Ishine ]]Chữ Viết Ishine chỉ được biết đến bởi các gia đình linh mục trong nền văn minh từng sinh sống trên Đảo Tsurumi. Ngôn ngữ của chữ viết được sử dụng để gọi tên người, địa điểm và những thứ khác trên đảo. Ngôn ngữ này có thể dựa trên vi:Tiếng Ainu ngoài đời. Ví dụ, Kama có nghĩa là "một tảng đá rất lớn", tương ứng với từ Ainu, có nghĩa là "đá phẳng." Tuy nhiên, các chữ cái của Chữ Viết Ishine không có bất kỳ điểm tương đồng rõ ràng nào với chữ viết của Ainu.
 
 ## Tiếng Tanuki
 
@@ -35,7 +35,7 @@ Dựa theo Ioroi, Tanuki có thể hiểu lời nói của con người một c�
 
 ## Quần Ngọc Các
 
-Nếu bạn giải mã dãy số trong Sổ ghi chép kỳ lạ, bạn sẽ nhận được "Người Fatui ở Hoàng Kim Ốc làm loạn". Dãy số có thể giải bằng cách tham khảo cuốn sách Liyue Phong Thổ Chí - Đón Thần tìm thấy ở trên bàn của Ningguang. Các số là một đã được chỉnh sửa, được viết ở định dạng [câu]:[từ]:[chữ]|[chữ]. Các ký tự từ các mã này sẽ tạo ra thông điệp.
+Nếu bạn giải mã dãy số trong Sổ ghi chép kỳ lạ, bạn sẽ nhận được "Người Fatui ở Hoàng Kim Ốc làm loạn". Dãy số có thể giải bằng cách tham khảo cuốn sách Liyue Phong Thổ Chí - Đón Thần tìm thấy ở trên bàn của Ningguang. Các số là một vi:Mật mã sách đã được chỉnh sửa, được viết ở định dạng [câu]:[từ]:[chữ]|[chữ]. Các ký tự từ các mã này sẽ tạo ra thông điệp.
 
 ## Thông Điệp Ẩn ở Long Tích Tuyết Sơn
 

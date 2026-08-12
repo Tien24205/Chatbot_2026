@@ -28,7 +28,7 @@ voiceKR: Seo Joung-ik (ko|서정익)
 
 ## Tổng Quan
 
-Ororon là một nhân vật hệ chơi được trong Genshin Impact.
+Ororon là một nhân vật hệ Lôi chơi được trong Genshin Impact.
 
 Được sinh ra với linh hồn bị "khiếm khuyết", Ororon là một người kì lạ đến từ Chủ Nhân Gió Đêm, anh đang sở hữu Tên Cổ. Ororon sống một cuộc đời bình dị bên ngoài khu đất của bộ tộc, dành thời gian trồng trọt và nuôi Bọ Phlogiston.
 

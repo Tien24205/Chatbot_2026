@@ -32,9 +32,9 @@ Vẫn có thể Nấu nướng thủ công khi điểm thành thạo đạt mứ
 
 Thành Chính ở tất cả các Quốc Gia đều sẽ có ít nhất một dụng cụ nấu nướng (bếp/lửa trại)(tên không chính thức).
 
-Lửa trại có nồi nấu thường được tìm thấy ở các vùng bên các thành phố, cho phép người chơi thực hiện nấu nướng trong khi khám phá. Lửa trại và bếp lò bị dập tắt phải được đốt lửa bằng nguyên tố để nấu ăn. Các nguyên tố,,,, có thể dập tắt lửa trại và bếp lò, ngăn chặn việc nấu ăn.
+Lửa trại có nồi nấu thường được tìm thấy ở các vùng bên các thành phố, cho phép người chơi thực hiện nấu nướng trong khi khám phá. Lửa trại và bếp lò bị dập tắt phải được đốt lửa bằng nguyên tố để nấu ăn. Các nguyên tố Phong, Băng, Lôi, Nham, Thủy có thể dập tắt lửa trại và bếp lò, ngăn chặn việc nấu ăn.
 
-Người chơi cũng có thể nấu nướng nhờ dụng cụ nấu ăn tiêu hao, có thể nhận được nhờ Rèn.
+Người chơi cũng có thể nấu nướng nhờ dụng cụ nấu ăn tiêu hao Nhà Ẩm Thực Tìm Tiên, có thể nhận được nhờ Rèn.
 
 ## Món Ăn Đặc Biệt
 

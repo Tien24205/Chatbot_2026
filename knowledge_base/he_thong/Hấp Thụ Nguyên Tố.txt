@@ -4,7 +4,7 @@
 
 type: Chiến Đấu
 
-Hấp Thụ Nguyên Tố là cơ chế được tìm thấy ở một số kỹ năng cho phép có khả năng hấp thụ một trong các nguyên tố,,, hoặc khi tiếp xúc lần đầu và trở nên cộng hưởng với nguyên tố đó, gây sát thương loại đó kèm theo hoặc cung cấp hiệu ứng bổ sung dựa trên nguyên tố được hấp thụ.
+Hấp Thụ Nguyên Tố là cơ chế được tìm thấy ở một số kỹ năng Phong cho phép có khả năng hấp thụ một trong các nguyên tố Hỏa, Thủy, Lôi, hoặc Băng khi tiếp xúc lần đầu và trở nên cộng hưởng với nguyên tố đó, gây sát thương loại đó kèm theo ST Nguyên Tố Phong hoặc cung cấp hiệu ứng bổ sung dựa trên nguyên tố được hấp thụ.
 
 Nhìn chung, chỉ có thể hấp thụ một loại nguyên tố cho mỗi lần sử dụng. Nếu có nhiều nguyên tố thì sẽ có độ ưu tiên cho nguyên tố hấp thụ. Một số kỹ năng có thể hấp thụ nhiều hơn một nguyên tố.
 
@@ -23,10 +23,10 @@ Nguyên tố được hấp thụ có thể tạo ra ấn hoặc kích hoạt ph
 Trong trường hợp có thể hấp thụ nhiều nguyên tố, Hấp Thụ Nguyên Tố sẽ hoạt động dựa theo thứ tự ưu tiên.
 
 Với Lynette và Nhà Lữ Hành (Phong), thứ tự ưu tiên là:
-- > > >
+- Băng > Hỏa > Thủy > Lôi
 
 Với nhân vật hệ Phong khác, thứ tự ưu tiên là:
-- > > >
+- Hỏa > Thủy > Lôi > Băng
 
 ## Kiểm Tra Ấn
 

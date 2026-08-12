@@ -42,7 +42,7 @@ Nhiệt tình quá nhỉ.
 ::Tarno: Không ngờ từ chối dứt khoát như vậy. Chẳng lẽ là một thợ săn kho báu giàu kinh nghiệm ở đây sao? Vậy lẽ ra tôi phải có ấn tượng mới phải chứ nhỉ...
 ::Tarno:...Ôi, xin thứ lỗi cho tôi có mắt không tròng.
 ()
-(Hình như có điều gì đó muốn nói...)
+(Hình như Nefer có điều gì đó muốn nói...)
 :Nefer: Có báu vật gì đặc biệt không?
 :Tarno: Ôi, cô chủ Nefer. Thật không ngờ cô lại đến đây đấy, có việc gì cần tôi giúp sao?
 :Nefer: Haha, gió đã dừng lại rồi, nên ra ngoài đi dạo chút thôi ấy mà. Thời tiết đẹp như vậy, các vị ở thương hội thỉnh thoảng thưgiãn một chút cũng tốt mà?
@@ -50,7 +50,7 @@ Nhiệt tình quá nhỉ.
 :Nefer: Các vị ở thương hội đúng là rất vất vả. Vậy đợi khi nào lô vải gấm đó về, thì gửi cho tôi một phần với nhé.
 :Tarno: Tất nhiên rồi, cảm ơn cô chủ Nefer. Cô đi dạo vui vẻ nhé.
 ()
-(Hình như có điều gì đó muốn nói...)
+(Hình như Jahoda có điều gì đó muốn nói...)
 :Jahoda: Có báu vật gì đặc biệt không?
 :Tarno: Chào Jahoda. Đã lâu không gặp kể từ khi cô rời khỏi rồi đây...
 :Jahoda: Thôi đủ rồi, đừng nói nhảm nữa, Tarno. Gió mấy ngày nay thổi lắm, sếp Nef bảo tôi đến đây chuẩn bị chống gió.

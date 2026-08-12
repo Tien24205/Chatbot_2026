@@ -2,11 +2,19 @@
 
 ## Thông Tin Cơ Bản
 
-type: Sắp Ra Mắt
+type: Chơi Được
+quality: 4
+weapon: Vũ Khí Cán Dài
 element: Lôi
 name: Alyosha
+birthday: 09 tháng 02
 constellation: Tấn Tiệp Khuyển
 region: Snezhnaya
+affiliation: Snezhnaya
+dish: "Không Trượt Phát Nào"
+namecard: Ngồi Xuống
+obtain: - Cầu Nguyện - Cuộc Đi Săn Bắt Đầu!
+releaseDate: 2026-08-12 11:00:00 GMT+8
 title: Chiến Khuyển Thần Tốc
 title2: Thợ Săn Mùa Đông
 voiceEN: [[imdb:nm8517409
@@ -15,4 +23,6 @@ voiceCN: Wang Fuping (zh|王辅平)
 voiceJP: w|Gen Satō|Sato Gen (ja|佐藤 元)
 voiceKR: Kim Hye-sung (ko|김혜성)YouTube: 원신
 
-- Tổng Quan: Alyosha là một nhân vật hệ sắp ra mắt trong Genshin Impact. Cậu xuất hiện lần đầu tiên trong Video Ngắn Giới Thiệu Snezhnaya - Vùng Đất Băng Giá Gió Tuyết Che Phủ.
+- Tổng Quan: là một nhân vật hệ Lôi chơi được trong Genshin Impact. Cậu xuất hiện lần đầu tiên trong Video Ngắn Giới Thiệu Snezhnaya - Vùng Đất Băng Giá Gió Tuyết Che Phủ.
+
+- Thông qua.

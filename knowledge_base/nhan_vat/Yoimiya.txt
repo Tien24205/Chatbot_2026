@@ -30,6 +30,6 @@ mother: Không Tên
 
 ## Tổng Quan
 
- là một nhân vật chơi được hệ trong Genshin Impact.
+ là một nhân vật chơi được hệ Hỏa trong Genshin Impact.
 
 Cô là chủ hiện tại của Tiệm Pháo Hoa Naganohara; với những màn pháo hoa rực rỡ sắc màu cùng tính cách cởi mở của mình, Yoimiya được mọi người trên Đảo Narukami vô cùng quý mến. Cô còn được mọi người mệnh danh là "Nữ Hoàng Lễ Hội Hè", vì họ cho rằng mùa hè sẽ không được trọn vẹn nếu không có cô.

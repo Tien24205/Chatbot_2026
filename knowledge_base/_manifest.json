@@ -138,9 +138,9 @@
         "zh:愛諾",
         "Độ Yêu Thích"
       ],
-      "prose_chars": 402,
+      "prose_chars": 423,
       "file": "Aino.txt",
-      "chars": 1256
+      "chars": 1277
     },
     {
       "title": "Akuoumaru",
@@ -283,9 +283,9 @@
         "Đôi Cánh Dạ Yến",
         "Đảo Táo Vàng"
       ],
-      "prose_chars": 1283,
+      "prose_chars": 1291,
       "file": "Alice.txt",
-      "chars": 2015
+      "chars": 2023
     },
     {
       "title": "Aloha",
@@ -298,9 +298,9 @@
         "NPC",
         "en:Aloha"
       ],
-      "prose_chars": 317,
+      "prose_chars": 330,
       "file": "Aloha.txt",
-      "chars": 473
+      "chars": 486
     },
     {
       "title": "Aloy",
@@ -330,9 +330,9 @@
         "w:c:Horizon:Aloy",
         "zh:亞蘿伊"
       ],
-      "prose_chars": 453,
+      "prose_chars": 469,
       "file": "Aloy.txt",
-      "chars": 1017
+      "chars": 1033
     },
     {
       "title": "Alyasa",
@@ -351,8 +351,8 @@
       "title": "Alyosha",
       "url": "https://genshin-impact.fandom.com/vi/wiki/Alyosha",
       "infobox": "Character Infobox",
-      "infobox_type": "Sắp Ra Mắt",
-      "fields": 12,
+      "infobox_type": "Chơi Được",
+      "fields": 20,
       "links": [
         "Genshin Impact",
         "en:Alyosha",
@@ -364,9 +364,9 @@
         "th:Alyosha",
         "tr:Alyosha"
       ],
-      "prose_chars": 162,
+      "prose_chars": 170,
       "file": "Alyosha.txt",
-      "chars": 626
+      "chars": 846
     },
     {
       "title": "Amadhiah",
@@ -415,9 +415,9 @@
         "zh:安柏",
         "Đội Kỵ Sĩ Tây Phong"
       ],
-      "prose_chars": 373,
+      "prose_chars": 377,
       "file": "Amber.txt",
-      "chars": 1106
+      "chars": 1110
     },
     {
       "title": "Anchieta",
@@ -434,7 +434,7 @@
         "es:Anchieta",
         "ja:アンシエタ"
       ],
-      "prose_chars": 1791,
+      "prose_chars": 1839,
       "file": "Anchieta.txt",
       "chars": 1721
     },
@@ -460,9 +460,9 @@
         "pt-br:Andersdotter",
         "tr:Andersdotter"
       ],
-      "prose_chars": 2201,
+      "prose_chars": 2228,
       "file": "Andersdotter.txt",
-      "chars": 2407
+      "chars": 2434
     },
     {
       "title": "Andrius",
@@ -507,9 +507,9 @@
         "Đền Sói Bắc Phong",
         "Đội Kỵ Sĩ Tây Phong"
       ],
-      "prose_chars": 6480,
+      "prose_chars": 6503,
       "file": "Andrius.txt",
-      "chars": 7121
+      "chars": 7144
     },
     {
       "title": "Angoulvant",
@@ -614,9 +614,9 @@
         "Đền Narukami (Phân Khu)",
         "Ấn Lôi"
       ],
-      "prose_chars": 741,
+      "prose_chars": 748,
       "file": "Anh Đào Thần Bảo Vệ.txt",
-      "chars": 890
+      "chars": 897
     },
     {
       "title": "Anthon",
@@ -632,9 +632,9 @@
         "de:Anthon",
         "en:Anthon"
       ],
-      "prose_chars": 646,
+      "prose_chars": 663,
       "file": "Anthon.txt",
-      "chars": 881
+      "chars": 898
     },
     {
       "title": "Aoi",
@@ -657,9 +657,9 @@
         "ja:葵",
         "pt-br:Aoi"
       ],
-      "prose_chars": 2444,
+      "prose_chars": 2489,
       "file": "Aoi.txt",
-      "chars": 2717
+      "chars": 2763
     },
     {
       "title": "Arataki Itto",
@@ -767,9 +767,9 @@
         "uk:Арлекіно",
         "zh:阿蕾奇諾"
       ],
-      "prose_chars": 347,
+      "prose_chars": 351,
       "file": "Arlecchino.txt",
-      "chars": 1620
+      "chars": 1624
     },
     {
       "title": "Arnim",
@@ -806,9 +806,9 @@
         "en:Aroni",
         "es:Aroni"
       ],
-      "prose_chars": 1124,
+      "prose_chars": 1147,
       "file": "Aroni.txt",
-      "chars": 1449
+      "chars": 1472
     },
     {
       "title": "Arouet",
@@ -831,9 +831,9 @@
         "pt-br:Arouet",
         "Đại Sảnh Fontaine - Phố Vasari"
       ],
-      "prose_chars": 1818,
+      "prose_chars": 1841,
       "file": "Arouet.txt",
-      "chars": 2040
+      "chars": 2054
     },
     {
       "title": "Ashera",
@@ -867,9 +867,9 @@
         "Đích Đến Của Con Thuyền Ý Thức",
         "Đại Vương Rukkhadevata"
       ],
-      "prose_chars": 3281,
+      "prose_chars": 3310,
       "file": "Ashk.txt",
-      "chars": 3460
+      "chars": 3480
     },
     {
       "title": "Ashru",
@@ -887,9 +887,9 @@
         "en:Ashru",
         "es:Ashru"
       ],
-      "prose_chars": 1537,
+      "prose_chars": 1553,
       "file": "Ashru.txt",
-      "chars": 1831
+      "chars": 1847
     },
     {
       "title": "Asmoday",
@@ -924,7 +924,7 @@
         "w:c:honkaiimpact3:Kiana Kaslana",
         "zh:阿斯莫代"
       ],
-      "prose_chars": 1643,
+      "prose_chars": 1662,
       "file": "Asmoday.txt",
       "chars": 1608
     },
@@ -948,9 +948,9 @@
         "ja:アトクパンの大地",
         "pt-br:Atocpan"
       ],
-      "prose_chars": 1129,
+      "prose_chars": 1137,
       "file": "Atocpan.txt",
-      "chars": 1286
+      "chars": 1295
     },
     {
       "title": "Ayizu",
@@ -1073,9 +1073,9 @@
         "uk:Барбара",
         "zh:芭芭拉"
       ],
-      "prose_chars": 658,
+      "prose_chars": 663,
       "file": "Barbara.txt",
-      "chars": 1453
+      "chars": 1458
     },
     {
       "title": "Barbatos",
@@ -1159,9 +1159,9 @@
         "th:Barbeloth",
         "tr:Barbeloth"
       ],
-      "prose_chars": 2276,
+      "prose_chars": 2297,
       "file": "Barbeloth.txt",
-      "chars": 2482
+      "chars": 2503
     },
     {
       "title": "Bashar",
@@ -1249,9 +1249,9 @@
         "zh:北斗",
         "Âm Vang Dạ Tấu"
       ],
-      "prose_chars": 796,
+      "prose_chars": 800,
       "file": "Beidou.txt",
-      "chars": 1466
+      "chars": 1470
     },
     {
       "title": "Bennett",
@@ -1284,9 +1284,9 @@
         "zh:班尼特",
         "Đoàn Mạo Hiểm Benny"
       ],
-      "prose_chars": 599,
+      "prose_chars": 603,
       "file": "Bennett.txt",
-      "chars": 1336
+      "chars": 1340
     },
     {
       "title": "Bi Ca Lumidouce",
@@ -1441,9 +1441,9 @@
         "en:Moontide Sea (Subarea)",
         "Đường Trung Chuyển Cao Tốc"
       ],
-      "prose_chars": 346,
+      "prose_chars": 356,
       "file": "Biển Trăng Dạt Dào (Phân Khu).txt",
-      "chars": 534
+      "chars": 544
     },
     {
       "title": "Biển Vỡ Vụn",
@@ -1525,9 +1525,9 @@
         "Đầu Dò Sét",
         "Đồ Trang Trí"
       ],
-      "prose_chars": 5941,
+      "prose_chars": 6005,
       "file": "Biểu Tượng Ở Teyvat.txt",
-      "chars": 5904
+      "chars": 5968
     },
     {
       "title": "Boss",
@@ -1566,9 +1566,9 @@
         "Điểm Dịch Chuyển",
         "Ấm Trần Ca"
       ],
-      "prose_chars": 2143,
+      "prose_chars": 2370,
       "file": "Boss.txt",
-      "chars": 2228
+      "chars": 2455
     },
     {
       "title": "Boss Tuần",
@@ -1608,9 +1608,9 @@
         "tr:Haftalık boss",
         "uk:Щотижневі боси"
       ],
-      "prose_chars": 1681,
+      "prose_chars": 1764,
       "file": "Boss Tuần.txt",
-      "chars": 1779
+      "chars": 1862
     },
     {
       "title": "Bresson",
@@ -1624,7 +1624,7 @@
         "en:Bresson",
         "pt-br:Bresson"
       ],
-      "prose_chars": 1555,
+      "prose_chars": 1577,
       "file": "Bresson.txt",
       "chars": 1558
     },
@@ -1737,7 +1737,7 @@
         "imdb:nm9674561",
         "ja:燼中歌"
       ],
-      "prose_chars": 1463,
+      "prose_chars": 1477,
       "file": "Bài Ca Trong Tàn Tro.txt",
       "chars": 1390
     },
@@ -1834,9 +1834,9 @@
         "pt-br:Bolo para o Viajante",
         "ru:Тортик для тебя"
       ],
-      "prose_chars": 569,
+      "prose_chars": 580,
       "file": "Bánh Kem Tặng Cho Nhà Lữ Hành.txt",
-      "chars": 774
+      "chars": 785
     },
     {
       "title": "Bình Bạc Tông Thất",
@@ -2075,9 +2075,27 @@
         "zh:秘境",
         "Điểm dịch chuyển"
       ],
-      "prose_chars": 5043,
+      "prose_chars": 5082,
       "file": "Bí Cảnh.txt",
-      "chars": 5135
+      "chars": 5174
+    },
+    {
+      "title": "Bí Quyết Biểu Diễn",
+      "url": "https://genshin-impact.fandom.com/vi/wiki/Bí_Quyết_Biểu_Diễn",
+      "infobox": "Terminology Infobox",
+      "infobox_type": "Hệ Thống Trò Chơi",
+      "fields": 2,
+      "links": [
+        "Chụp Ảnh",
+        "Huy Chương Đồ Chơi",
+        "Nhà Hát Giả Tưởng",
+        "Sói Nhỏ",
+        "en:Thespian Trick",
+        "ja:パフォーマンスのコツ"
+      ],
+      "prose_chars": 305,
+      "file": "Bí Quyết Biểu Diễn.txt",
+      "chars": 396
     },
     {
       "title": "Bóng Hoa Gió",
@@ -2120,15 +2138,16 @@
         "Slime Thủy Lớn",
         "Sự Dịch Chuyển",
         "Sự Kiện",
+        "Thủy",
         "Tạo Vật Nguyên Tố Nham",
         "en:Bubble",
         "ja:水の泡",
         "Địa Mạch Bất Thường",
         "Ước Nguyện Nước Trong"
       ],
-      "prose_chars": 1765,
+      "prose_chars": 1791,
       "file": "Bóng Nước.txt",
-      "chars": 1545
+      "chars": 1571
     },
     {
       "title": "Bóng Reo Hò",
@@ -2349,23 +2368,23 @@
         "zh:冰",
         "Đóng Băng"
       ],
-      "prose_chars": 2930,
+      "prose_chars": 3105,
       "file": "Băng.txt",
-      "chars": 3309
+      "chars": 3484
     },
     {
       "title": "Bạch Hồ Đông Vũ",
       "url": "https://genshin-impact.fandom.com/vi/wiki/Bạch_Hồ_Đông_Vũ",
       "infobox": "Weapon Infobox",
       "infobox_type": "Kiếm Đơn",
-      "fields": 16,
+      "fields": 17,
       "links": [
         "Kiếm Đơn",
         "en:Whitelake Frostfeather"
       ],
       "prose_chars": 38,
       "file": "Bạch Hồ Đông Vũ.txt",
-      "chars": 1108
+      "chars": 1118
     },
     {
       "title": "Bạch Sa Hoàng",
@@ -2430,9 +2449,9 @@
         "rèn",
         "uk:Схема"
       ],
-      "prose_chars": 418,
+      "prose_chars": 780,
       "file": "Bản Vẽ Rèn.txt",
-      "chars": 580
+      "chars": 943
     },
     {
       "title": "Bản Đồ",
@@ -2761,9 +2780,9 @@
         "th:ภาพสะท้อนแห่งสวรรค์",
         "tr:Sahte gökyüzü"
       ],
-      "prose_chars": 2056,
+      "prose_chars": 2061,
       "file": "Bầu Trời Giả.txt",
-      "chars": 2199
+      "chars": 2204
     },
     {
       "title": "Bằng Chứng Mạo Hiểm",
@@ -2922,9 +2941,9 @@
         "ja:クールタイム",
         "Địa Mạch Bất Thường"
       ],
-      "prose_chars": 5212,
+      "prose_chars": 5224,
       "file": "CD.txt",
-      "chars": 5490
+      "chars": 5502
     },
     {
       "title": "CD Ngầm",
@@ -3014,9 +3033,9 @@
         "cầu nguyện",
         "en:Ode"
       ],
-      "prose_chars": 3632,
+      "prose_chars": 3673,
       "file": "Ca Tụng (Thiên Tinh Kỳ Vực).txt",
-      "chars": 3814
+      "chars": 3855
     },
     {
       "title": "Cacucu",
@@ -3039,7 +3058,7 @@
         "ja:カクーク",
         "pt-br:Cacucu"
       ],
-      "prose_chars": 1506,
+      "prose_chars": 1532,
       "file": "Cacucu.txt",
       "chars": 1763
     },
@@ -3097,9 +3116,9 @@
         "uk:Кандаке",
         "zh:坎蒂絲"
       ],
-      "prose_chars": 478,
+      "prose_chars": 483,
       "file": "Candace.txt",
-      "chars": 1086
+      "chars": 1091
     },
     {
       "title": "Capitano",
@@ -3122,9 +3141,9 @@
         "tr:Capitano",
         "zh:卡皮塔諾"
       ],
-      "prose_chars": 394,
+      "prose_chars": 425,
       "file": "Capitano.txt",
-      "chars": 877
+      "chars": 908
     },
     {
       "title": "Carole",
@@ -3187,9 +3206,9 @@
         "ja:チアンカ",
         "món ăn"
       ],
-      "prose_chars": 2191,
+      "prose_chars": 2223,
       "file": "Chanca.txt",
-      "chars": 2554
+      "chars": 2586
     },
     {
       "title": "Chandra",
@@ -3282,9 +3301,9 @@
         "uk:Часка",
         "zh:恰斯卡"
       ],
-      "prose_chars": 342,
+      "prose_chars": 348,
       "file": "Chasca.txt",
-      "chars": 1323
+      "chars": 1329
     },
     {
       "title": "Chemin Oublie",
@@ -3297,9 +3316,9 @@
         "Tiên Linh",
         "ja:忘れられし道"
       ],
-      "prose_chars": 276,
+      "prose_chars": 289,
       "file": "Chemin Oublie.txt",
-      "chars": 432
+      "chars": 447
     },
     {
       "title": "Chevreuse",
@@ -3341,9 +3360,9 @@
         "en:Chichen Uctokah",
         "rồng"
       ],
-      "prose_chars": 687,
+      "prose_chars": 730,
       "file": "Chichen Uctokah.txt",
-      "chars": 822
+      "chars": 865
     },
     {
       "title": "Chim Hơi Nước",
@@ -3661,7 +3680,7 @@
         "en:Chuychu",
         "es:Chuychú"
       ],
-      "prose_chars": 521,
+      "prose_chars": 536,
       "file": "Chuychu.txt",
       "chars": 804
     },
@@ -3877,9 +3896,9 @@
         "tr:Yaşam Yıldızı",
         "uk:Зірка долі"
       ],
-      "prose_chars": 1730,
+      "prose_chars": 1762,
       "file": "Chòm Sao.txt",
-      "chars": 1986
+      "chars": 2018
     },
     {
       "title": "Chương Nhạc Lang Thang",
@@ -3927,9 +3946,9 @@
         "ja:予告番組",
         "pt-br:Programa Especial"
       ],
-      "prose_chars": 1039,
+      "prose_chars": 1041,
       "file": "Chương Trình Đặc Biệt.txt",
-      "chars": 572
+      "chars": 574
     },
     {
       "title": "Chấp Niệm Phá Băng Mà Tiến Bước",
@@ -4079,9 +4098,9 @@
         "en:Deshret Script",
         "Đá Thánh Chương"
       ],
-      "prose_chars": 312,
+      "prose_chars": 344,
       "file": "Chữ Viết Deshret.txt",
-      "chars": 367
+      "chars": 399
     },
     {
       "title": "Chữ Viết Inazuma",
@@ -4095,9 +4114,9 @@
         "en:Inazuman Script",
         "ja:稲妻文字"
       ],
-      "prose_chars": 1602,
+      "prose_chars": 1638,
       "file": "Chữ Viết Inazuma.txt",
-      "chars": 1669
+      "chars": 1705
     },
     {
       "title": "Chữ Viết Liyue",
@@ -4122,9 +4141,9 @@
         "ja:璃月文字",
         "Đồng Hành"
       ],
-      "prose_chars": 1877,
+      "prose_chars": 1912,
       "file": "Chữ Viết Liyue.txt",
-      "chars": 1975
+      "chars": 2010
     },
     {
       "title": "Chữ Viết Sumeru",
@@ -4142,9 +4161,9 @@
         "en:Sumeru Script",
         "ja:スメール文字"
       ],
-      "prose_chars": 1221,
+      "prose_chars": 1235,
       "file": "Chữ Viết Sumeru.txt",
-      "chars": 343
+      "chars": 357
     },
     {
       "title": "Chữ Viết Teyvat",
@@ -4163,9 +4182,9 @@
         "ja:テイワット文字",
         "th:อักษร Teyvat"
       ],
-      "prose_chars": 1214,
+      "prose_chars": 1222,
       "file": "Chữ Viết Teyvat.txt",
-      "chars": 1280
+      "chars": 1288
     },
     {
       "title": "Citlali",
@@ -4190,9 +4209,9 @@
         "uk:Сітлалі",
         "zh:茜特菈莉"
       ],
-      "prose_chars": 364,
+      "prose_chars": 369,
       "file": "Citlali.txt",
-      "chars": 994
+      "chars": 999
     },
     {
       "title": "Clementine",
@@ -4235,9 +4254,9 @@
         "w:c:honkai-star-rail:Misha",
         "w:c:honkai-star-rail:Yukong"
       ],
-      "prose_chars": 866,
+      "prose_chars": 926,
       "file": "Clervie.txt",
-      "chars": 1084
+      "chars": 1108
     },
     {
       "title": "Clodomir",
@@ -4275,9 +4294,9 @@
         "zh:克洛琳德",
         "Đấu Sĩ Đại Diện"
       ],
-      "prose_chars": 158,
+      "prose_chars": 162,
       "file": "Clorinde.txt",
-      "chars": 873
+      "chars": 877
     },
     {
       "title": "Collei",
@@ -4315,9 +4334,9 @@
         "uk:Коллей",
         "zh:柯萊"
       ],
-      "prose_chars": 658,
+      "prose_chars": 663,
       "file": "Collei.txt",
-      "chars": 1210
+      "chars": 1215
     },
     {
       "title": "Columbina",
@@ -4341,9 +4360,9 @@
         "tr:Columbina",
         "zh:哥倫比婭"
       ],
-      "prose_chars": 674,
+      "prose_chars": 679,
       "file": "Columbina.txt",
-      "chars": 1779
+      "chars": 1784
     },
     {
       "title": "Con Của Tiếng Vang",
@@ -4371,9 +4390,9 @@
         "ru:Дети Эха",
         "th:เผ่า \"บุตรแห่งเสียงสะท้อน\""
       ],
-      "prose_chars": 1387,
+      "prose_chars": 1432,
       "file": "Con Của Tiếng Vang.txt",
-      "chars": 1381
+      "chars": 1412
     },
     {
       "title": "Con Lắc Ngưng Tại Sa Ngã",
@@ -4421,9 +4440,9 @@
         "tr:Yeminli Göz",
         "Đảo Thiên Không"
       ],
-      "prose_chars": 1881,
+      "prose_chars": 1896,
       "file": "Con Ngươi Tuyên Thệ.txt",
-      "chars": 2433
+      "chars": 2448
     },
     {
       "title": "Con Thoi Chu Sa",
@@ -4514,9 +4533,9 @@
         "es:Cosanzeana",
         "pt-br:Cosanzeana"
       ],
-      "prose_chars": 1518,
+      "prose_chars": 1536,
       "file": "Cosanzeana.txt",
-      "chars": 1741
+      "chars": 1759
     },
     {
       "title": "Costentin",
@@ -4530,9 +4549,9 @@
         "en:Costentin",
         "pt-br:Costentin"
       ],
-      "prose_chars": 418,
+      "prose_chars": 445,
       "file": "Costentin.txt",
-      "chars": 519
+      "chars": 546
     },
     {
       "title": "Crucabena",
@@ -4562,9 +4581,9 @@
         "pl:Crucabena",
         "tr:Crucabena"
       ],
-      "prose_chars": 3433,
+      "prose_chars": 3468,
       "file": "Crucabena.txt",
-      "chars": 4063
+      "chars": 4098
     },
     {
       "title": "Cung",
@@ -4820,9 +4839,9 @@
         "tr:Pas",
         "zh:弓藏"
       ],
-      "prose_chars": 1698,
+      "prose_chars": 1755,
       "file": "Cung Rỉ Sét.txt",
-      "chars": 2038
+      "chars": 2095
     },
     {
       "title": "Cung Săn Bắn",
@@ -5102,9 +5121,9 @@
         "ja:知恵の殿堂",
         "pt-br:Casa de Daena"
       ],
-      "prose_chars": 200,
+      "prose_chars": 263,
       "file": "Cung Điện Daena.txt",
-      "chars": 385
+      "chars": 471
     },
     {
       "title": "Cung Đàn Cổ Xưa",
@@ -5359,9 +5378,9 @@
         "Đài Ghép",
         "Đền Narukami (Khu Vực Phụ)"
       ],
-      "prose_chars": 1610,
+      "prose_chars": 1661,
       "file": "Câu Chuyện Lữ Hành.txt",
-      "chars": 1654
+      "chars": 1705
     },
     {
       "title": "Câu Cá",
@@ -5399,9 +5418,9 @@
         "Điểm Câu Cá",
         "Ấm Trần Ca"
       ],
-      "prose_chars": 4344,
+      "prose_chars": 4363,
       "file": "Câu Cá.txt",
-      "chars": 4568
+      "chars": 4589
     },
     {
       "title": "Cây Thế Giới",
@@ -5470,7 +5489,7 @@
         "Địa Mạch Sinh Thành",
         "Ốc Đảo Pairidaeza"
       ],
-      "prose_chars": 7036,
+      "prose_chars": 7045,
       "file": "Cây Thế Giới.txt",
       "chars": 6447
     },
@@ -5598,9 +5617,9 @@
         "pt-br:Povo das Termas",
         "th:เผ่า \"เหล่าวารี\""
       ],
-      "prose_chars": 1652,
+      "prose_chars": 1714,
       "file": "Cư Dân Suối Nước.txt",
-      "chars": 1757
+      "chars": 1809
     },
     {
       "title": "Cường Hóa Chất Xúc Tác Lưu Minh Thạch",
@@ -5621,9 +5640,9 @@
         "ru:Улучшение Адъюванта светоносного камня",
         "Đạo Cụ"
       ],
-      "prose_chars": 1461,
+      "prose_chars": 1496,
       "file": "Cường Hóa Chất Xúc Tác Lưu Minh Thạch.txt",
-      "chars": 1701
+      "chars": 1736
     },
     {
       "title": "Cảng Anticus",
@@ -5734,9 +5753,9 @@
         "zh:璃月港",
         "Ỷ Nham Điện"
       ],
-      "prose_chars": 1548,
+      "prose_chars": 1552,
       "file": "Cảng Liyue.txt",
-      "chars": 1456
+      "chars": 1467
     },
     {
       "title": "Cảng Lumidouce",
@@ -5797,9 +5816,9 @@
         "th:ท่าเรือ Ormos",
         "zh:奧摩斯港"
       ],
-      "prose_chars": 2119,
+      "prose_chars": 2157,
       "file": "Cảng Ormos.txt",
-      "chars": 2088
+      "chars": 2126
     },
     {
       "title": "Cấp Yêu Thích",
@@ -5866,9 +5885,9 @@
         "Định Chuẩn Thần Đúc",
         "Đổi Bụi Ánh Sáng"
       ],
-      "prose_chars": 6000,
+      "prose_chars": 6013,
       "file": "Cầu Nguyện.txt",
-      "chars": 5684
+      "chars": 5697
     },
     {
       "title": "Cầu Nguyện Nhân Vật",
@@ -6143,9 +6162,9 @@
         "Ẩn Mình",
         "Ẩn Nấp"
       ],
-      "prose_chars": 16343,
+      "prose_chars": 16364,
       "file": "Cừu Hận.txt",
-      "chars": 15846
+      "chars": 15867
     },
     {
       "title": "Cửa Hàng",
@@ -6241,9 +6260,9 @@
         "zh:塔利雅",
         "Đội Kỵ Sĩ Tây Phong"
       ],
-      "prose_chars": 282,
+      "prose_chars": 287,
       "file": "Dahlia.txt",
-      "chars": 905
+      "chars": 910
     },
     {
       "title": "Dainichi Mikoshi",
@@ -6264,9 +6283,9 @@
         "pt-br:Dainichi Mikoshi",
         "zh:大日御輿"
       ],
-      "prose_chars": 1149,
+      "prose_chars": 1182,
       "file": "Dainichi Mikoshi.txt",
-      "chars": 1289
+      "chars": 1322
     },
     {
       "title": "Dainsleif",
@@ -6528,9 +6547,9 @@
         "Yelena",
         "en:Delusion"
       ],
-      "prose_chars": 14935,
+      "prose_chars": 14968,
       "file": "Delusion.txt",
-      "chars": 14814
+      "chars": 14847
     },
     {
       "title": "Dhabit",
@@ -6662,9 +6681,9 @@
         "zh:迪盧克",
         "Đội Kỵ Sĩ Tây Phong"
       ],
-      "prose_chars": 499,
+      "prose_chars": 503,
       "file": "Diluc.txt",
-      "chars": 1239
+      "chars": 1243
     },
     {
       "title": "Dinh Thự Tửu Trang Dawn",
@@ -6723,9 +6742,9 @@
         "zh:迪奧娜",
         "Đĩa Dẫn Năng Lượng - Tóm Lược"
       ],
-      "prose_chars": 466,
+      "prose_chars": 471,
       "file": "Diona.txt",
-      "chars": 1239
+      "chars": 1244
     },
     {
       "title": "Diện Mạo Sấm Sét",
@@ -6766,9 +6785,9 @@
         "th:Dodoco",
         "Đại Ma Vương Dodo"
       ],
-      "prose_chars": 769,
+      "prose_chars": 910,
       "file": "Dodoco.txt",
-      "chars": 870
+      "chars": 1020
     },
     {
       "title": "Domus Aurea",
@@ -6781,7 +6800,7 @@
         "fr:Domus aurea",
         "ja:ドムス・アウレア"
       ],
-      "prose_chars": 79,
+      "prose_chars": 84,
       "file": "Domus Aurea.txt",
       "chars": 220
     },
@@ -6814,9 +6833,9 @@
         "zh:多莉",
         "Đại Hội Đấu Nấm Siêu Cấp"
       ],
-      "prose_chars": 468,
+      "prose_chars": 472,
       "file": "Dori.txt",
-      "chars": 1144
+      "chars": 1148
     },
     {
       "title": "Dottore",
@@ -6886,9 +6905,9 @@
         "Rerir",
         "Rừng Apam"
       ],
-      "prose_chars": 19069,
+      "prose_chars": 19080,
       "file": "Dottore.txt",
-      "chars": 20272
+      "chars": 20283
     },
     {
       "title": "Dulphy",
@@ -6977,9 +6996,9 @@
         "uk:Дурін",
         "zh:杜林"
       ],
-      "prose_chars": 386,
+      "prose_chars": 390,
       "file": "Durin.txt",
-      "chars": 1407
+      "chars": 1411
     },
     {
       "title": "Durin (NPC)",
@@ -7039,9 +7058,9 @@
         "Đội Kỵ Sĩ Tây Phong",
         "Ảo Ảnh Giữa Bão Tuyết"
       ],
-      "prose_chars": 6231,
+      "prose_chars": 6303,
       "file": "Durin (NPC).txt",
-      "chars": 6381
+      "chars": 6453
     },
     {
       "title": "Durov",
@@ -7080,9 +7099,9 @@
         "pt-br:Cordas da Chuva da Serpente Arco-Íris",
         "tr:Gökkuşağı Yılanının Yağmur Yayı"
       ],
-      "prose_chars": 4147,
+      "prose_chars": 4163,
       "file": "Dây Mưa Của Cầu Vồng.txt",
-      "chars": 4733
+      "chars": 4749
     },
     {
       "title": "Dòng Chảy Chúc Phúc",
@@ -7149,9 +7168,9 @@
         "th:Ley Line Overflow",
         "Địa Mạch Sinh Thành"
       ],
-      "prose_chars": 1076,
+      "prose_chars": 1114,
       "file": "Dòng Chảy Địa Mạch.txt",
-      "chars": 1103
+      "chars": 1141
     },
     {
       "title": "Dòng Dõi Vườn Treo",
@@ -7194,9 +7213,9 @@
         "th:เผ่า \"พงศ์พิดานพฤกษา\"",
         "Địa Mạch"
       ],
-      "prose_chars": 2655,
+      "prose_chars": 2684,
       "file": "Dòng Dõi Vườn Treo.txt",
-      "chars": 2762
+      "chars": 2782
     },
     {
       "title": "Dòng Thời Gian",
@@ -7517,9 +7536,9 @@
         "uk:Емілі",
         "zh:艾梅莉埃"
       ],
-      "prose_chars": 547,
+      "prose_chars": 552,
       "file": "Emilie.txt",
-      "chars": 1278
+      "chars": 1283
     },
     {
       "title": "Enkanomiya",
@@ -7589,9 +7608,9 @@
         "zh:淵下宮",
         "Đài Nhật Dạ"
       ],
-      "prose_chars": 8745,
+      "prose_chars": 8778,
       "file": "Enkanomiya.txt",
-      "chars": 8690
+      "chars": 8706
     },
     {
       "title": "Escoffier",
@@ -7615,9 +7634,9 @@
         "uk:Ескоф'є",
         "zh:愛可菲"
       ],
-      "prose_chars": 328,
+      "prose_chars": 333,
       "file": "Escoffier.txt",
-      "chars": 1167
+      "chars": 1172
     },
     {
       "title": "Eugenie",
@@ -7635,9 +7654,9 @@
         "tr:Eugenie",
         "Đại Sảnh Fontaine - Phố Vasari"
       ],
-      "prose_chars": 1019,
+      "prose_chars": 1029,
       "file": "Eugenie.txt",
-      "chars": 1364
+      "chars": 1374
     },
     {
       "title": "Eula",
@@ -7712,9 +7731,9 @@
         "uk:Фарузан",
         "zh:琺露珊"
       ],
-      "prose_chars": 222,
+      "prose_chars": 228,
       "file": "Faruzan.txt",
-      "chars": 803
+      "chars": 809
     },
     {
       "title": "Fengtai",
@@ -7781,9 +7800,9 @@
         "uk:Фішль",
         "zh:菲謝爾"
       ],
-      "prose_chars": 660,
+      "prose_chars": 664,
       "file": "Fischl.txt",
-      "chars": 1576
+      "chars": 1580
     },
     {
       "title": "Flins",
@@ -7810,9 +7829,9 @@
         "uk:Флінс",
         "zh:菲林斯"
       ],
-      "prose_chars": 348,
+      "prose_chars": 352,
       "file": "Flins.txt",
-      "chars": 1118
+      "chars": 1122
     },
     {
       "title": "Flora",
@@ -7845,9 +7864,9 @@
         "tr:Flora",
         "zh:芙蘿拉"
       ],
-      "prose_chars": 5670,
+      "prose_chars": 5732,
       "file": "Flora.txt",
-      "chars": 5580
+      "chars": 5628
     },
     {
       "title": "Focalors",
@@ -7881,7 +7900,7 @@
         "tr:Focalors",
         "zh:芙卡洛斯"
       ],
-      "prose_chars": 2421,
+      "prose_chars": 2428,
       "file": "Focalors.txt",
       "chars": 2253
     },
@@ -7953,9 +7972,9 @@
         "Điểm Dịch Chuyển",
         "Đại Hội Đấu Nấm Siêu Cấp/Câu Chuyện"
       ],
-      "prose_chars": 4531,
+      "prose_chars": 4607,
       "file": "Fontaine.txt",
-      "chars": 3909
+      "chars": 3968
     },
     {
       "title": "Freminet",
@@ -8123,9 +8142,9 @@
         "uk:Ґанью",
         "zh:甘雨"
       ],
-      "prose_chars": 235,
+      "prose_chars": 240,
       "file": "Ganyu.txt",
-      "chars": 969
+      "chars": 974
     },
     {
       "title": "Gekiga",
@@ -8212,9 +8231,9 @@
         "pt-br:Genshin Impact",
         "ru:Genshin Impact"
       ],
-      "prose_chars": 9551,
+      "prose_chars": 9689,
       "file": "Genshin Impact.txt",
-      "chars": 9482
+      "chars": 9620
     },
     {
       "title": "Georg",
@@ -8283,9 +8302,9 @@
         "Đài Giả Kim",
         "Đạo Cụ Nhỏ"
       ],
-      "prose_chars": 3216,
+      "prose_chars": 3229,
       "file": "Ghép.txt",
-      "chars": 3402
+      "chars": 3415
     },
     {
       "title": "Gia Công",
@@ -8529,7 +8548,7 @@
         "zh:喜多院十文字",
         "Đảo Yashiori"
       ],
-      "prose_chars": 1300,
+      "prose_chars": 1329,
       "file": "Giáo Thập Tự Kitain.txt",
       "chars": 1888
     },
@@ -8633,7 +8652,7 @@
         "Nhà Trọ Wikala",
         "Nizam"
       ],
-      "prose_chars": 23140,
+      "prose_chars": 23332,
       "file": "Giáo Viện Sumeru.txt",
       "chars": 19968
     },
@@ -8802,9 +8821,9 @@
         "pt-br:Gnosis",
         "ru:Сердце Бога"
       ],
-      "prose_chars": 8895,
+      "prose_chars": 9025,
       "file": "Gnosis.txt",
-      "chars": 6652
+      "chars": 6715
     },
     {
       "title": "Goli",
@@ -9020,9 +9039,9 @@
         "uk:Раціональне переконання",
         "zh:以理服人"
       ],
-      "prose_chars": 683,
+      "prose_chars": 691,
       "file": "Gậy Thu Phục.txt",
-      "chars": 1338
+      "chars": 1346
     },
     {
       "title": "Gậy Đàm Phán",
@@ -9046,7 +9065,7 @@
         "tr:Konuşma Çubuğu",
         "zh:聊聊棒"
       ],
-      "prose_chars": 3939,
+      "prose_chars": 3948,
       "file": "Gậy Đàm Phán.txt",
       "chars": 4586
     },
@@ -9086,9 +9105,9 @@
         "ja:体力",
         "th:พลังชีวิต"
       ],
-      "prose_chars": 1335,
+      "prose_chars": 1348,
       "file": "HP.txt",
-      "chars": 1423
+      "chars": 1436
     },
     {
       "title": "Hajime",
@@ -9138,7 +9157,7 @@
         "pt-br:Hamawi",
         "Đích Đến Của Con Thuyền Ý Thức"
       ],
-      "prose_chars": 2097,
+      "prose_chars": 2139,
       "file": "Hamawi.txt",
       "chars": 2114
     },
@@ -9184,9 +9203,9 @@
         "tr:Haran Geppaku Futsu",
         "zh:波亂月白經津"
       ],
-      "prose_chars": 4837,
+      "prose_chars": 4851,
       "file": "Haran Geppaku Futsu.txt",
-      "chars": 5918
+      "chars": 5932
     },
     {
       "title": "Harris",
@@ -9301,7 +9320,7 @@
         "uk:Гілічурли",
         "zh:丘丘人部落"
       ],
-      "prose_chars": 9442,
+      "prose_chars": 9448,
       "file": "Hilichurl.txt",
       "chars": 6857
     },
@@ -9959,9 +9978,9 @@
         "th:Hopkins the Marvelous",
         "Đội Kỵ Sĩ Tây Phong"
       ],
-      "prose_chars": 3622,
+      "prose_chars": 3633,
       "file": "Hopkins Thần Kỳ.txt",
-      "chars": 3651
+      "chars": 3662
     },
     {
       "title": "Horrer",
@@ -10290,9 +10309,9 @@
         "pt-br:Hiperbórea",
         "Đoạn Kết Hành Lang Sâu"
       ],
-      "prose_chars": 895,
+      "prose_chars": 956,
       "file": "Hyperborea.txt",
-      "chars": 974
+      "chars": 1035
     },
     {
       "title": "Hàn Phong Thiết Khí",
@@ -10415,9 +10434,9 @@
       "links": [
         "ja:アアルの影"
       ],
-      "prose_chars": 182,
+      "prose_chars": 187,
       "file": "Hình Bóng Của Aaru.txt",
-      "chars": 343
+      "chars": 348
     },
     {
       "title": "Hình Chiếu Vua Cát",
@@ -10519,7 +10538,7 @@
         "tr:Ezeli Yeşim Kanatlı Mızrak",
         "zh:和璞鳶"
       ],
-      "prose_chars": 2267,
+      "prose_chars": 2275,
       "file": "Hòa Phác Diên.txt",
       "chars": 2443
     },
@@ -10592,9 +10611,9 @@
         "zh:冒險等階",
         "Địa Mạch Sinh Thành"
       ],
-      "prose_chars": 3175,
+      "prose_chars": 3177,
       "file": "Hạng Mạo Hiểm.txt",
-      "chars": 3397
+      "chars": 3399
     },
     {
       "title": "Hạnh Nhân (NPC)",
@@ -10699,9 +10718,9 @@
         "pt-br:Absorção Elemental",
         "th:การเปลี่ยนแปลงธาตุ"
       ],
-      "prose_chars": 2409,
+      "prose_chars": 2488,
       "file": "Hấp Thụ Nguyên Tố.txt",
-      "chars": 2570
+      "chars": 2649
     },
     {
       "title": "Hậu Duệ Mặt Trời",
@@ -10761,7 +10780,7 @@
         "uk:Чорна китиця",
         "zh:黑纓槍"
       ],
-      "prose_chars": 867,
+      "prose_chars": 874,
       "file": "Hắc Anh Thương.txt",
       "chars": 1198
     },
@@ -11046,9 +11065,9 @@
         "uk:Піро",
         "zh:火"
       ],
-      "prose_chars": 1647,
+      "prose_chars": 1784,
       "file": "Hỏa.txt",
-      "chars": 1938
+      "chars": 2075
     },
     {
       "title": "Hỏa Thần",
@@ -11079,7 +11098,7 @@
         "thần",
         "tr:Ateş Hükümdarı"
       ],
-      "prose_chars": 1216,
+      "prose_chars": 1223,
       "file": "Hỏa Thần.txt",
       "chars": 1143
     },
@@ -11322,9 +11341,9 @@
         "pl:Klan Kwiatopióra",
         "pt-br:Clã das Plumas de Flores"
       ],
-      "prose_chars": 430,
+      "prose_chars": 457,
       "file": "Hội Hoa Vũ.txt",
-      "chars": 551
+      "chars": 578
     },
     {
       "title": "Hội Narzissenkreuz",
@@ -11340,7 +11359,7 @@
         "ja:水仙十字結社 (特定の地点)",
         "Đáp Án Chờ Tiết Lộ"
       ],
-      "prose_chars": 1199,
+      "prose_chars": 1220,
       "file": "Hội Narzissenkreuz.txt",
       "chars": 1292
     },
@@ -11393,9 +11412,9 @@
         "fr:Curatorium des secrets (Point d'intérêt)",
         "Đội Tuần Tra Đặc Biệt"
       ],
-      "prose_chars": 14635,
+      "prose_chars": 14677,
       "file": "Hội Đồng Bí Mật (Địa Điểm Đáng Chú Ý).txt",
-      "chars": 15373
+      "chars": 15415
     },
     {
       "title": "Hộp Lôi Vân",
@@ -11513,9 +11532,9 @@
         "uk:Іянсан",
         "zh:伊安珊"
       ],
-      "prose_chars": 234,
+      "prose_chars": 238,
       "file": "Iansan.txt",
-      "chars": 913
+      "chars": 917
     },
     {
       "title": "Ifa",
@@ -11545,9 +11564,9 @@
         "uk:Іфа",
         "zh:伊法"
       ],
-      "prose_chars": 854,
+      "prose_chars": 860,
       "file": "Ifa.txt",
-      "chars": 1793
+      "chars": 1799
     },
     {
       "title": "Illuga",
@@ -11570,9 +11589,9 @@
         "tr:Illuga",
         "zh:葉洛亞"
       ],
-      "prose_chars": 390,
+      "prose_chars": 395,
       "file": "Illuga.txt",
-      "chars": 1356
+      "chars": 1361
     },
     {
       "title": "Ilyas",
@@ -11608,9 +11627,9 @@
         "ja:イミシュ",
         "pt-br:Imix"
       ],
-      "prose_chars": 1379,
+      "prose_chars": 1405,
       "file": "Imix.txt",
-      "chars": 1636
+      "chars": 1662
     },
     {
       "title": "Inazuma",
@@ -11667,9 +11686,9 @@
         "zh:伊涅芙",
         "Độ Yêu Thích"
       ],
-      "prose_chars": 426,
+      "prose_chars": 446,
       "file": "Ineffa.txt",
-      "chars": 1536
+      "chars": 1556
     },
     {
       "title": "Istaroth",
@@ -11739,9 +11758,9 @@
         "đại chiến báo thù",
         "Ấn Ánh sáng"
       ],
-      "prose_chars": 8292,
+      "prose_chars": 8342,
       "file": "Istaroth.txt",
-      "chars": 9026
+      "chars": 9076
     },
     {
       "title": "Izebel",
@@ -11820,9 +11839,9 @@
         "uk:Ягода",
         "zh:雅珂達"
       ],
-      "prose_chars": 345,
+      "prose_chars": 351,
       "file": "Jahoda.txt",
-      "chars": 1116
+      "chars": 1122
     },
     {
       "title": "Janaki",
@@ -11869,9 +11888,9 @@
         "zh:琴",
         "Đội Kỵ Sĩ Tây Phong"
       ],
-      "prose_chars": 532,
+      "prose_chars": 538,
       "file": "Jean.txt",
-      "chars": 1338
+      "chars": 1344
     },
     {
       "title": "Jehnam",
@@ -11968,9 +11987,9 @@
         "pt-br:Jut",
         "Đại Khu Bazaar"
       ],
-      "prose_chars": 1376,
+      "prose_chars": 1385,
       "file": "Jut.txt",
-      "chars": 1647
+      "chars": 1656
     },
     {
       "title": "Kachina",
@@ -11995,9 +12014,9 @@
         "uk:Качіна",
         "zh:卡齊娜"
       ],
-      "prose_chars": 240,
+      "prose_chars": 245,
       "file": "Kachina.txt",
-      "chars": 939
+      "chars": 944
     },
     {
       "title": "Kaedehara Kageharu",
@@ -12040,9 +12059,9 @@
         "zh:楓原萬葉",
         "Đội Thuyền Nam Thập Tự"
       ],
-      "prose_chars": 294,
+      "prose_chars": 300,
       "file": "Kaedehara Kazuha.txt",
-      "chars": 1281
+      "chars": 1287
     },
     {
       "title": "Kaeya",
@@ -12070,9 +12089,9 @@
         "zh:凱亞",
         "Đội Kỵ Sĩ Tây Phong"
       ],
-      "prose_chars": 378,
+      "prose_chars": 383,
       "file": "Kaeya.txt",
-      "chars": 1221
+      "chars": 1226
     },
     {
       "title": "Kagotsurube Isshin",
@@ -12135,9 +12154,9 @@
         "uk:Камісато Аяка",
         "zh:神里綾華"
       ],
-      "prose_chars": 299,
+      "prose_chars": 304,
       "file": "Kamisato Ayaka.txt",
-      "chars": 1052
+      "chars": 1057
     },
     {
       "title": "Kamisato Ayato",
@@ -12165,9 +12184,9 @@
         "uk:Камісато Аято",
         "zh:神里綾人"
       ],
-      "prose_chars": 316,
+      "prose_chars": 321,
       "file": "Kamisato Ayato.txt",
-      "chars": 1214
+      "chars": 1219
     },
     {
       "title": "Karwan",
@@ -12280,9 +12299,9 @@
         "ja:カーリャ",
         "thực phẩm"
       ],
-      "prose_chars": 2700,
+      "prose_chars": 2764,
       "file": "Katya.txt",
-      "chars": 2865
+      "chars": 2892
     },
     {
       "title": "Kaveh",
@@ -12313,9 +12332,9 @@
         "uk:Каве",
         "zh:卡維"
       ],
-      "prose_chars": 525,
+      "prose_chars": 530,
       "file": "Kaveh.txt",
-      "chars": 1122
+      "chars": 1127
     },
     {
       "title": "Keqing",
@@ -12343,9 +12362,9 @@
         "uk:Кецін",
         "zh:刻晴"
       ],
-      "prose_chars": 512,
+      "prose_chars": 516,
       "file": "Keqing.txt",
-      "chars": 1096
+      "chars": 1100
     },
     {
       "title": "Khaenri'ah",
@@ -12415,9 +12434,9 @@
         "pl:Khaenri'ah",
         "pt-br:Khaenri'ah"
       ],
-      "prose_chars": 10666,
+      "prose_chars": 11002,
       "file": "Khaenri'ah.txt",
-      "chars": 9448
+      "chars": 9784
     },
     {
       "title": "Khiêu Chiến Hạn Giờ",
@@ -12578,9 +12597,9 @@
         "zh:莫爾泰區",
         "Ống Hòa Âm"
       ],
-      "prose_chars": 1298,
+      "prose_chars": 1351,
       "file": "Khu Morte.txt",
-      "chars": 1370
+      "chars": 1427
     },
     {
       "title": "Khu Rừng Erinnyes",
@@ -12606,9 +12625,9 @@
         "zh:伊黎耶林區",
         "Ống Hòa Âm"
       ],
-      "prose_chars": 1262,
+      "prose_chars": 1346,
       "file": "Khu Rừng Erinnyes.txt",
-      "chars": 1342
+      "chars": 1431
     },
     {
       "title": "Khu Vực",
@@ -12683,9 +12702,9 @@
         "ru:Рассеивание",
         "th:กระจาย"
       ],
-      "prose_chars": 2060,
+      "prose_chars": 2078,
       "file": "Khuếch Tán.txt",
-      "chars": 2156
+      "chars": 2174
     },
     {
       "title": "Khám Phá Kỳ Vực",
@@ -12788,7 +12807,7 @@
         "tr:Tozlu Hatıra",
         "zh:塵世之鎖"
       ],
-      "prose_chars": 1845,
+      "prose_chars": 1857,
       "file": "Khóa Trần Thế.txt",
       "chars": 2407
     },
@@ -12851,9 +12870,9 @@
         "tr:Yeni Ayın Lütfu",
         "Đá Sáng Thế"
       ],
-      "prose_chars": 835,
+      "prose_chars": 870,
       "file": "Không Nguyệt Chúc Phúc.txt",
-      "chars": 721
+      "chars": 756
     },
     {
       "title": "Khúc Ca Chúng Sinh",
@@ -12970,7 +12989,7 @@
         "ru:Песнь необъятной лазури",
         "tr:Sonsuz Mavinin Şarkısı"
       ],
-      "prose_chars": 1329,
+      "prose_chars": 1345,
       "file": "Khúc Ca Xanh Bao La.txt",
       "chars": 2017
     },
@@ -13224,9 +13243,9 @@
         "tiến trình",
         "Ấm Trần Ca"
       ],
-      "prose_chars": 746,
+      "prose_chars": 859,
       "file": "Kinh Nghiệm.txt",
-      "chars": 885
+      "chars": 1027
     },
     {
       "title": "Kinich",
@@ -13252,9 +13271,9 @@
         "uk:Кініч",
         "zh:基尼奇"
       ],
-      "prose_chars": 380,
+      "prose_chars": 385,
       "file": "Kinich.txt",
-      "chars": 1183
+      "chars": 1188
     },
     {
       "title": "Kirara",
@@ -13565,9 +13584,9 @@
         "uk:Омитий кров'ю дракона",
         "zh:沐浴龍血的劍"
       ],
-      "prose_chars": 1109,
+      "prose_chars": 1116,
       "file": "Kiếm Huyết Rồng.txt",
-      "chars": 1636
+      "chars": 1643
     },
     {
       "title": "Kiếm Huấn Luyện",
@@ -13972,7 +13991,7 @@
         "Snezhnaya",
         "en:Krsnik Noc"
       ],
-      "prose_chars": 366,
+      "prose_chars": 374,
       "file": "Krsnik Noc.txt",
       "chars": 139
     },
@@ -14737,9 +14756,9 @@
         "uk:Лань Янь",
         "zh:藍硯"
       ],
-      "prose_chars": 478,
+      "prose_chars": 484,
       "file": "Lan Yan.txt",
-      "chars": 1216
+      "chars": 1222
     },
     {
       "title": "Lao Xiên Cá",
@@ -14770,9 +14789,9 @@
         "uk:\"Вилов\"",
         "zh:「漁獲」"
       ],
-      "prose_chars": 1702,
+      "prose_chars": 1722,
       "file": "Lao Xiên Cá.txt",
-      "chars": 2381
+      "chars": 2401
     },
     {
       "title": "Lauma",
@@ -14796,9 +14815,9 @@
         "uk:Лаума",
         "zh:菈烏瑪"
       ],
-      "prose_chars": 410,
+      "prose_chars": 415,
       "file": "Lauma.txt",
-      "chars": 1128
+      "chars": 1133
     },
     {
       "title": "Layla",
@@ -14915,9 +14934,9 @@
         "zh:莉奈婭",
         "Đạo Cụ"
       ],
-      "prose_chars": 395,
+      "prose_chars": 469,
       "file": "Linnea.txt",
-      "chars": 1526
+      "chars": 1600
     },
     {
       "title": "Lisa",
@@ -14947,9 +14966,9 @@
         "Điện Hỏa Hoa Trong Trang Sách",
         "Đội Kỵ Sĩ Tây Phong"
       ],
-      "prose_chars": 466,
+      "prose_chars": 470,
       "file": "Lisa.txt",
-      "chars": 1101
+      "chars": 1105
     },
     {
       "title": "Liyue",
@@ -14981,9 +15000,9 @@
         "uk:Ліюе",
         "zh:璃月"
       ],
-      "prose_chars": 3278,
+      "prose_chars": 3352,
       "file": "Liyue.txt",
-      "chars": 3114
+      "chars": 3164
     },
     {
       "title": "Lliuyaq",
@@ -15018,9 +15037,9 @@
         "zh:洛恩",
         "Đội Kỵ Sĩ Tây Phong"
       ],
-      "prose_chars": 327,
+      "prose_chars": 332,
       "file": "Lohen.txt",
-      "chars": 1144
+      "chars": 1149
     },
     {
       "title": "Lori",
@@ -15150,9 +15169,9 @@
         "tr:Eonotem Kadehi",
         "zh:空之杯"
       ],
-      "prose_chars": 717,
+      "prose_chars": 740,
       "file": "Ly Không Gian.txt",
-      "chars": 775
+      "chars": 798
     },
     {
       "title": "Ly Kẻ Lưu Đày",
@@ -15950,7 +15969,7 @@
         "tr:Yargı Tüyü",
         "zh:裁斷的翎羽"
       ],
-      "prose_chars": 1522,
+      "prose_chars": 1530,
       "file": "Lông Vũ Phán Quyết.txt",
       "chars": 1236
     },
@@ -16406,9 +16425,9 @@
         "pt-br:Festival da Brisa Florescente",
         "Đỉnh Lời Thề"
       ],
-      "prose_chars": 3874,
+      "prose_chars": 3889,
       "file": "Lễ Hội Hoa Gió.txt",
-      "chars": 4030
+      "chars": 4045
     },
     {
       "title": "Lễ Hội Hè",
@@ -16469,9 +16488,9 @@
         "pt-br:Festival Sabzeruz",
         "Đại Vương Rukkhadevata"
       ],
-      "prose_chars": 3161,
+      "prose_chars": 3186,
       "file": "Lễ Hội Sabzeruz.txt",
-      "chars": 2592
+      "chars": 2601
     },
     {
       "title": "Lễ Hội Tết Hải Đăng",
@@ -16532,7 +16551,7 @@
         "Đàn Thiên Không",
         "Đại Nhân Lawrence"
       ],
-      "prose_chars": 2835,
+      "prose_chars": 2846,
       "file": "Lễ Đánh Cầu.txt",
       "chars": 2636
     },
@@ -16558,7 +16577,7 @@
         "pt-br:Decreto Sakoku",
         "Đảo Ritou"
       ],
-      "prose_chars": 1310,
+      "prose_chars": 1320,
       "file": "Lệnh Bế Quan Tỏa Cảng.txt",
       "chars": 1208
     },
@@ -16992,7 +17011,7 @@
         "NPC",
         "en:Manyoya"
       ],
-      "prose_chars": 278,
+      "prose_chars": 292,
       "file": "Manyoya.txt",
       "chars": 471
     },
@@ -17054,9 +17073,9 @@
         "uk:Мавуйка",
         "zh:瑪薇卡"
       ],
-      "prose_chars": 137,
+      "prose_chars": 141,
       "file": "Mavuika.txt",
-      "chars": 1174
+      "chars": 1178
     },
     {
       "title": "Melanta",
@@ -17165,9 +17184,9 @@
         "tr:MiHoYo",
         "zh:米哈遊"
       ],
-      "prose_chars": 2000,
+      "prose_chars": 2054,
       "file": "MiHoYo.txt",
-      "chars": 2104
+      "chars": 2158
     },
     {
       "title": "Mika",
@@ -17199,9 +17218,9 @@
         "zh:米卡",
         "Đội Kỵ Sĩ Tây Phong"
       ],
-      "prose_chars": 700,
+      "prose_chars": 705,
       "file": "Mika.txt",
-      "chars": 1518
+      "chars": 1523
     },
     {
       "title": "Minh Thệ Kim Tước",
@@ -17271,9 +17290,9 @@
         "uk:Мона",
         "zh:莫娜"
       ],
-      "prose_chars": 433,
+      "prose_chars": 438,
       "file": "Mona.txt",
-      "chars": 1063
+      "chars": 1068
     },
     {
       "title": "Mondstadt",
@@ -17315,9 +17334,9 @@
         "zh:蒙德",
         "Đồi Phong Tiêu"
       ],
-      "prose_chars": 2702,
+      "prose_chars": 2731,
       "file": "Mondstadt.txt",
-      "chars": 2120
+      "chars": 2149
     },
     {
       "title": "Mondstadt Thời Decarabian",
@@ -17353,9 +17372,9 @@
         "triquetra",
         "Điểm Dịch Chuyển"
       ],
-      "prose_chars": 3350,
+      "prose_chars": 3376,
       "file": "Mondstadt Thời Decarabian.txt",
-      "chars": 3605
+      "chars": 3631
     },
     {
       "title": "Morax",
@@ -17450,9 +17469,9 @@
         "uk:Муалані",
         "zh:瑪拉妮"
       ],
-      "prose_chars": 289,
+      "prose_chars": 294,
       "file": "Mualani.txt",
-      "chars": 902
+      "chars": 907
     },
     {
       "title": "Murata",
@@ -17478,9 +17497,9 @@
         "th:Murata",
         "w:c:honkaiimpact3:Murata Himeko"
       ],
-      "prose_chars": 2084,
+      "prose_chars": 2100,
       "file": "Murata.txt",
-      "chars": 2281
+      "chars": 2311
     },
     {
       "title": "Murtada Radkani",
@@ -18019,9 +18038,9 @@
         "tr:Prototip: Arkaik",
         "zh:試作古華"
       ],
-      "prose_chars": 1508,
+      "prose_chars": 1526,
       "file": "Mẫu Cổ Hoa.txt",
-      "chars": 1986
+      "chars": 2004
     },
     {
       "title": "Mẫu Kim Phách",
@@ -18073,7 +18092,7 @@
         "tr:Prototip: Yıldız Parıltısı",
         "zh:試作星鐮"
       ],
-      "prose_chars": 1529,
+      "prose_chars": 1532,
       "file": "Mẫu Tinh Liêm.txt",
       "chars": 2027
     },
@@ -18531,9 +18550,9 @@
         "pt-br:Naberius",
         "tr:Naberius"
       ],
-      "prose_chars": 1183,
+      "prose_chars": 1203,
       "file": "Naberius.txt",
-      "chars": 1634
+      "chars": 1654
     },
     {
       "title": "Nabil",
@@ -18708,7 +18727,7 @@
         "th:Nantuck",
         "Đàn Cá Ồ Ạt"
       ],
-      "prose_chars": 301,
+      "prose_chars": 321,
       "file": "Nantuck.txt",
       "chars": 324
     },
@@ -18753,7 +18772,7 @@
         "tr:Natlan",
         "zh:納塔"
       ],
-      "prose_chars": 1523,
+      "prose_chars": 1536,
       "file": "Natlan.txt",
       "chars": 739
     },
@@ -18804,9 +18823,9 @@
         "tr:Nefer",
         "zh:奈芙爾"
       ],
-      "prose_chars": 281,
+      "prose_chars": 286,
       "file": "Nefer.txt",
-      "chars": 1279
+      "chars": 1284
     },
     {
       "title": "Neuvillette",
@@ -18962,9 +18981,9 @@
         "ja:北風の王狼素材",
         "ru:Материалы Лупуса Бореалиса"
       ],
-      "prose_chars": 158,
+      "prose_chars": 175,
       "file": "Nguyên Liệu Andrius.txt",
-      "chars": 393
+      "chars": 410
     },
     {
       "title": "Nguyên Liệu Arlecchino",
@@ -18980,9 +18999,9 @@
         "en:The Knave Material",
         "ja:「召使」素材"
       ],
-      "prose_chars": 161,
+      "prose_chars": 178,
       "file": "Nguyên Liệu Arlecchino.txt",
-      "chars": 390
+      "chars": 407
     },
     {
       "title": "Nguyên Liệu Azhdaha",
@@ -18999,9 +19018,9 @@
         "ja:若陀龍王素材",
         "ru:Материалы Аждахи"
       ],
-      "prose_chars": 158,
+      "prose_chars": 175,
       "file": "Nguyên Liệu Azhdaha.txt",
-      "chars": 384
+      "chars": 401
     },
     {
       "title": "Nguyên Liệu Bồi Dưỡng Nhân Vật",
@@ -19073,9 +19092,9 @@
         "ja:「公子」素材",
         "ru:Материалы Чайльда"
       ],
-      "prose_chars": 157,
+      "prose_chars": 174,
       "file": "Nguyên Liệu Childe.txt",
-      "chars": 384
+      "chars": 401
     },
     {
       "title": "Nguyên Liệu Chúa Tể Lửa Nguồn Ăn Mòn",
@@ -19090,9 +19109,9 @@
         "Thiên Phú",
         "en:Lord of Eroded Primal Fire Material"
       ],
-      "prose_chars": 175,
+      "prose_chars": 192,
       "file": "Nguyên Liệu Chúa Tể Lửa Nguồn Ăn Mòn.txt",
-      "chars": 426
+      "chars": 443
     },
     {
       "title": "Nguyên Liệu Dvalin",
@@ -19110,9 +19129,9 @@
         "ru:Материалы Двалина",
         "uk:Матеріали з Буревія"
       ],
-      "prose_chars": 157,
+      "prose_chars": 174,
       "file": "Nguyên Liệu Dvalin.txt",
-      "chars": 392
+      "chars": 409
     },
     {
       "title": "Nguyên Liệu Kẻ Thủ Hộ Của Ốc Đảo Apep",
@@ -19129,9 +19148,9 @@
         "ja:アペプのオアシス守護者素材",
         "ru:Материалы стража оазиса Апеп"
       ],
-      "prose_chars": 176,
+      "prose_chars": 193,
       "file": "Nguyên Liệu Kẻ Thủ Hộ Của Ốc Đảo Apep.txt",
-      "chars": 420
+      "chars": 437
     },
     {
       "title": "Nguyên Liệu Thiên Phú Nhân Vật",
@@ -19167,9 +19186,9 @@
         "uk:Матеріали для підвищення рівня таланту",
         "zh:天賦培養素材"
       ],
-      "prose_chars": 1845,
+      "prose_chars": 1933,
       "file": "Nguyên Liệu Thiên Phú Nhân Vật.txt",
-      "chars": 2097
+      "chars": 2185
     },
     {
       "title": "Nguyên Liệu Đột Phá Nhân Vật",
@@ -19392,9 +19411,9 @@
         "Đảo Tsurumi",
         "Đội Kỵ Sĩ Tây Phong"
       ],
-      "prose_chars": 6962,
+      "prose_chars": 7019,
       "file": "Ngôn Ngữ.txt",
-      "chars": 6850
+      "chars": 6907
     },
     {
       "title": "Người Mẫu Kỳ Vực",
@@ -19755,9 +19774,9 @@
         "Thủy",
         "Tuyết Rơi Bất Chợt"
       ],
-      "prose_chars": 6005,
+      "prose_chars": 6125,
       "file": "Nhân Vật.txt",
-      "chars": 5743
+      "chars": 5863
     },
     {
       "title": "Nhân Vật Ngã Xuống",
@@ -19919,9 +19938,9 @@
         "uk:Дорожні нотатки",
         "Địa Mạch Sinh Thành"
       ],
-      "prose_chars": 2282,
+      "prose_chars": 2294,
       "file": "Nhật Ký Hành Trình.txt",
-      "chars": 2457
+      "chars": 2469
     },
     {
       "title": "Nhật Ký Học Sinh",
@@ -20028,9 +20047,9 @@
         "tr:Nicole",
         "zh:尼可"
       ],
-      "prose_chars": 148,
+      "prose_chars": 152,
       "file": "Nicole.txt",
-      "chars": 1001
+      "chars": 1005
     },
     {
       "title": "Nikita",
@@ -20089,7 +20108,7 @@
         "NPC",
         "en:Ninan"
       ],
-      "prose_chars": 1067,
+      "prose_chars": 1121,
       "file": "Ninan.txt",
       "chars": 1142
     },
@@ -20214,9 +20233,9 @@
         "Đảo Hiisi",
         "Đội Kỵ Sĩ Tây Phong"
       ],
-      "prose_chars": 4874,
+      "prose_chars": 4963,
       "file": "Nod-Krai.txt",
-      "chars": 4490
+      "chars": 4579
     },
     {
       "title": "Noelle",
@@ -20245,9 +20264,9 @@
         "zh:諾艾爾",
         "Đội Kỵ Sĩ Tây Phong"
       ],
-      "prose_chars": 837,
+      "prose_chars": 842,
       "file": "Noelle.txt",
-      "chars": 1503
+      "chars": 1508
     },
     {
       "title": "Noy",
@@ -20602,9 +20621,9 @@
         "khu vực",
         "ru:Место встречи"
       ],
-      "prose_chars": 761,
+      "prose_chars": 795,
       "file": "Nơi Tụ Họp.txt",
-      "chars": 890
+      "chars": 924
     },
     {
       "title": "Nước Mắt Của Kẻ Lang Bạt",
@@ -20651,9 +20670,9 @@
         "uk:Готування",
         "zh:烹飪"
       ],
-      "prose_chars": 2355,
+      "prose_chars": 2401,
       "file": "Nấu Nướng.txt",
-      "chars": 2562
+      "chars": 2608
     },
     {
       "title": "Nỏ Kéo",
@@ -20764,9 +20783,9 @@
         "th:Tsaritsa",
         "tr:Çariçe"
       ],
-      "prose_chars": 1614,
+      "prose_chars": 1627,
       "file": "Nữ Hoàng Băng Giá.txt",
-      "chars": 1648
+      "chars": 1661
     },
     {
       "title": "Obata",
@@ -20815,10 +20834,13 @@
       "title": "Odette",
       "url": "https://genshin-impact.fandom.com/vi/wiki/Odette",
       "infobox": "Character Infobox",
-      "infobox_type": "Sắp Ra Mắt",
-      "fields": 13,
+      "infobox_type": "Chơi Được",
+      "fields": 23,
       "links": [
+        "Fatui",
         "Genshin Impact",
+        "Quan Chấp Hành",
+        "Signora",
         "en:Odette",
         "es:Odette",
         "fr:Odette",
@@ -20826,11 +20848,12 @@
         "pt-br:Odette",
         "ru:Одетта",
         "th:Odette",
-        "tr:Odette"
+        "tr:Odette",
+        "Đoàn Kịch Korolevskiy"
       ],
-      "prose_chars": 126,
+      "prose_chars": 370,
       "file": "Odette.txt",
-      "chars": 547
+      "chars": 1121
     },
     {
       "title": "Oogura",
@@ -20867,7 +20890,7 @@
         "ja:オロラク",
         "ru:Оролук"
       ],
-      "prose_chars": 1458,
+      "prose_chars": 1503,
       "file": "Oroluk.txt",
       "chars": 1663
     },
@@ -20899,9 +20922,9 @@
         "uk:Олорун",
         "zh:歐洛倫"
       ],
-      "prose_chars": 496,
+      "prose_chars": 500,
       "file": "Ororon.txt",
-      "chars": 1212
+      "chars": 1216
     },
     {
       "title": "Oudinot",
@@ -20942,7 +20965,7 @@
         "ru:Оз",
         "Ảo Ảnh Bóng Đêm"
       ],
-      "prose_chars": 2669,
+      "prose_chars": 2677,
       "file": "Oz.txt",
       "chars": 2068
     },
@@ -20976,9 +20999,9 @@
         "tr:Pahsiv",
         "Đại Sảnh Fontaine"
       ],
-      "prose_chars": 3475,
+      "prose_chars": 3492,
       "file": "Pahsiv.txt",
-      "chars": 3267
+      "chars": 3284
     },
     {
       "title": "Paimon",
@@ -21048,9 +21071,9 @@
         "Sự Kiện Đồng Hành",
         "Teyvat"
       ],
-      "prose_chars": 11488,
+      "prose_chars": 11514,
       "file": "Paimon.txt",
-      "chars": 4380
+      "chars": 4390
     },
     {
       "title": "Pantalone",
@@ -21115,9 +21138,9 @@
         "thần",
         "tr:Pantalone"
       ],
-      "prose_chars": 8218,
+      "prose_chars": 8259,
       "file": "Pantalone.txt",
-      "chars": 7717
+      "chars": 7743
     },
     {
       "title": "Pauleau",
@@ -21196,9 +21219,9 @@
         "Ánh Đèn Ngư Long",
         "Đảo Táo Vàng"
       ],
-      "prose_chars": 3334,
+      "prose_chars": 3377,
       "file": "Phiên Bản.txt",
-      "chars": 1992
+      "chars": 2031
     },
     {
       "title": "Phong",
@@ -21242,9 +21265,9 @@
         "uk:Анемо",
         "zh:風"
       ],
-      "prose_chars": 2005,
+      "prose_chars": 2081,
       "file": "Phong.txt",
-      "chars": 1742
+      "chars": 1812
     },
     {
       "title": "Phong Ưng Kiếm",
@@ -21412,9 +21435,9 @@
         "ja:祀瓏の祝福",
         "ru:Милость Заветного нефрита"
       ],
-      "prose_chars": 759,
+      "prose_chars": 779,
       "file": "Phước Lành Của Ngọc Tế Lễ.txt",
-      "chars": 957
+      "chars": 977
     },
     {
       "title": "Phản Hồi Của Đài Phun Nước Lucine",
@@ -21435,9 +21458,9 @@
         "Đại Sảnh Fontaine",
         "Ấn Thủy"
       ],
-      "prose_chars": 768,
+      "prose_chars": 776,
       "file": "Phản Hồi Của Đài Phun Nước Lucine.txt",
-      "chars": 986
+      "chars": 994
     },
     {
       "title": "Phản Ứng Nguyên Tố",
@@ -21481,9 +21504,9 @@
         "uk:Стихійні реакції",
         "Điện Cảm"
       ],
-      "prose_chars": 3960,
+      "prose_chars": 3980,
       "file": "Phản Ứng Nguyên Tố.txt",
-      "chars": 4195
+      "chars": 4215
     },
     {
       "title": "Phần Thưởng Đoàn Kịch Hoàng Kim",
@@ -21575,9 +21598,9 @@
         "Đồ Trang Trí 3 Sao",
         "Đồ Trang Trí 4 Sao"
       ],
-      "prose_chars": 2811,
+      "prose_chars": 2848,
       "file": "Phẩm Chất.txt",
-      "chars": 2992
+      "chars": 3030
     },
     {
       "title": "Piah",
@@ -21642,9 +21665,9 @@
         "tr:Pierro",
         "Đảo Yashiori"
       ],
-      "prose_chars": 4293,
+      "prose_chars": 4317,
       "file": "Pierro.txt",
-      "chars": 4614
+      "chars": 4638
     },
     {
       "title": "Prune",
@@ -21669,9 +21692,9 @@
         "tr:Prune",
         "zh:布倫妮"
       ],
-      "prose_chars": 373,
+      "prose_chars": 379,
       "file": "Prune.txt",
-      "chars": 1146
+      "chars": 1152
     },
     {
       "title": "Pulcinella",
@@ -21759,9 +21782,9 @@
         "uk:Ціці",
         "zh:七七"
       ],
-      "prose_chars": 375,
+      "prose_chars": 380,
       "file": "Qiqi.txt",
-      "chars": 944
+      "chars": 949
     },
     {
       "title": "Quyền Trượng Cát Đỏ",
@@ -21997,9 +22020,9 @@
         "uk:Райден Шьоґун",
         "zh:雷電將軍 (可控角色)"
       ],
-      "prose_chars": 259,
+      "prose_chars": 263,
       "file": "Raiden Shogun.txt",
-      "chars": 915
+      "chars": 922
     },
     {
       "title": "Raju",
@@ -22070,9 +22093,9 @@
         "zh:雷澤",
         "Đội Kỵ Sĩ Tây Phong"
       ],
-      "prose_chars": 572,
+      "prose_chars": 576,
       "file": "Razor.txt",
-      "chars": 1171
+      "chars": 1175
     },
     {
       "title": "Rerir",
@@ -22092,9 +22115,9 @@
         "uk:Рерір",
         "wiktionary:Rächer"
       ],
-      "prose_chars": 1485,
+      "prose_chars": 1504,
       "file": "Rerir.txt",
-      "chars": 1491
+      "chars": 1504
     },
     {
       "title": "Rezakhani",
@@ -22136,9 +22159,9 @@
         "tr:Ronova",
         "zh:若娜瓦"
       ],
-      "prose_chars": 1377,
+      "prose_chars": 1395,
       "file": "Ronova.txt",
-      "chars": 1596
+      "chars": 1614
     },
     {
       "title": "Rosaria",
@@ -22168,9 +22191,9 @@
         "uk:Розарія",
         "zh:羅莎莉亞"
       ],
-      "prose_chars": 267,
+      "prose_chars": 272,
       "file": "Rosaria.txt",
-      "chars": 779
+      "chars": 784
     },
     {
       "title": "Rèn",
@@ -22228,9 +22251,9 @@
         "tr:Yıkıcı Arzu",
         "zh:腐殖之劍"
       ],
-      "prose_chars": 953,
+      "prose_chars": 972,
       "file": "Răng Nanh Rỉ Sét.txt",
-      "chars": 1687
+      "chars": 1706
     },
     {
       "title": "Rượu Lễ Ngưng Tại Chúc Mừng",
@@ -22302,9 +22325,9 @@
         "es:Sakkuk",
         "Đuôi Phỉ Thúy Phai Màu"
       ],
-      "prose_chars": 3209,
+      "prose_chars": 3225,
       "file": "Sakkuk.txt",
-      "chars": 3342
+      "chars": 3358
     },
     {
       "title": "Sandrone",
@@ -22333,9 +22356,9 @@
         "tr:Sandrone",
         "zh:桑多涅 (NPC)"
       ],
-      "prose_chars": 834,
+      "prose_chars": 868,
       "file": "Sandrone.txt",
-      "chars": 2036
+      "chars": 2070
     },
     {
       "title": "Sangonomiya Kokomi",
@@ -22399,9 +22422,9 @@
         "en:Sanhaj",
         "tai ương thời cổ đại"
       ],
-      "prose_chars": 2646,
+      "prose_chars": 2668,
       "file": "Sanhaj.txt",
-      "chars": 2938
+      "chars": 2960
     },
     {
       "title": "Sao Đêm Rong Ruổi",
@@ -22498,7 +22521,7 @@
         "tr:Avare/Hikaye",
         "zh:国崩"
       ],
-      "prose_chars": 8879,
+      "prose_chars": 8998,
       "file": "Scaramouche.txt",
       "chars": 5837
     },
@@ -22571,9 +22594,9 @@
         "es:Sedènne",
         "Đại Sảnh Fontaine: Palais Mermonia"
       ],
-      "prose_chars": 342,
+      "prose_chars": 357,
       "file": "Sedene.txt",
-      "chars": 682
+      "chars": 697
     },
     {
       "title": "Sekkura",
@@ -22622,9 +22645,9 @@
         "uk:Сетос",
         "zh:賽索斯"
       ],
-      "prose_chars": 284,
+      "prose_chars": 288,
       "file": "Sethos.txt",
-      "chars": 879
+      "chars": 883
     },
     {
       "title": "Seutervoinen",
@@ -22736,9 +22759,9 @@
         "Vua Deshret",
         "en:Shirin of Gurabad"
       ],
-      "prose_chars": 4511,
+      "prose_chars": 4553,
       "file": "Shirin Của Gurabad.txt",
-      "chars": 4921
+      "chars": 4963
     },
     {
       "title": "Shogun",
@@ -22783,9 +22806,9 @@
         "uk:Сіґвін",
         "zh:希格雯"
       ],
-      "prose_chars": 423,
+      "prose_chars": 428,
       "file": "Sigewinne.txt",
-      "chars": 1241
+      "chars": 1246
     },
     {
       "title": "Signora",
@@ -22849,9 +22872,9 @@
         "fr:Sigurd",
         "Đồng Hoang Xương Rêu"
       ],
-      "prose_chars": 2948,
+      "prose_chars": 3000,
       "file": "Sigurd.txt",
-      "chars": 3178
+      "chars": 3230
     },
     {
       "title": "Simin",
@@ -22930,9 +22953,9 @@
         "zh:生日",
         "Ấm Trần Ca"
       ],
-      "prose_chars": 5958,
+      "prose_chars": 6641,
       "file": "Sinh Nhật.txt",
-      "chars": 5897
+      "chars": 6580
     },
     {
       "title": "Siraj",
@@ -22973,9 +22996,9 @@
         "uk:Скірк",
         "zh:絲柯克"
       ],
-      "prose_chars": 214,
+      "prose_chars": 219,
       "file": "Skirk.txt",
-      "chars": 788
+      "chars": 793
     },
     {
       "title": "Snezhnaya",
@@ -23018,9 +23041,9 @@
         "zh:至冬",
         "Đất Nước Của Tuyết Không Được Thần Thương Yêu"
       ],
-      "prose_chars": 4338,
+      "prose_chars": 4388,
       "file": "Snezhnaya.txt",
-      "chars": 3771
+      "chars": 3791
     },
     {
       "title": "Song Sinh Của Nhà Lữ Hành",
@@ -23118,9 +23141,9 @@
         "zh:砂糖",
         "Đội Kỵ Sĩ Tây Phong"
       ],
-      "prose_chars": 401,
+      "prose_chars": 407,
       "file": "Sucrose.txt",
-      "chars": 988
+      "chars": 994
     },
     {
       "title": "Sumeru",
@@ -23190,9 +23213,9 @@
         "Linh Kiện Nuốt Ánh Sáng",
         "Linh Kiện Tàng Hình"
       ],
-      "prose_chars": 17231,
+      "prose_chars": 17554,
       "file": "Sumeru.txt",
-      "chars": 17445
+      "chars": 17768
     },
     {
       "title": "Sumire",
@@ -23232,9 +23255,9 @@
         "th:Surtalogi",
         "uk:Сурталогі"
       ],
-      "prose_chars": 695,
+      "prose_chars": 701,
       "file": "Surtalogi.txt",
-      "chars": 927
+      "chars": 933
     },
     {
       "title": "Sáo Ezpitzal",
@@ -23324,9 +23347,9 @@
         "Địa Mạch Bất Thường",
         "Địa Ngục Nóng Chảy"
       ],
-      "prose_chars": 14805,
+      "prose_chars": 14988,
       "file": "Sát Thương.txt",
-      "chars": 15533
+      "chars": 15716
     },
     {
       "title": "Sát Thương Bạo Kích",
@@ -23508,9 +23531,9 @@
         "ru:Пепельный рог",
         "tr:Kül Oymalı İçki Boynuzu"
       ],
-      "prose_chars": 2898,
+      "prose_chars": 2919,
       "file": "Sừng Rượu Vân Xanh.txt",
-      "chars": 3514
+      "chars": 3535
     },
     {
       "title": "Sự Báo Đáp Của Cổ Thụ",
@@ -23537,9 +23560,9 @@
         "uk:Подяка Дерева жимолості",
         "Ước Nguyện Đỏ Thẫm"
       ],
-      "prose_chars": 1509,
+      "prose_chars": 1524,
       "file": "Sự Báo Đáp Của Cổ Thụ.txt",
-      "chars": 1782
+      "chars": 1797
     },
     {
       "title": "Sự Dằn Vặt Của Người Vượt Lửa",
@@ -23739,9 +23762,9 @@
         "ru:Благосклонность Ванараны",
         "Ấn Thảo"
       ],
-      "prose_chars": 780,
+      "prose_chars": 788,
       "file": "Sự Ủng Hộ Của Vanarana.txt",
-      "chars": 981
+      "chars": 989
     },
     {
       "title": "Tai Họa Của Sét",
@@ -23790,9 +23813,9 @@
         "ru:Бедствие Эшу",
         "tr:Eshu'nun Felaketi"
       ],
-      "prose_chars": 2945,
+      "prose_chars": 2982,
       "file": "Tai Họa Eshu.txt",
-      "chars": 3587
+      "chars": 3624
     },
     {
       "title": "Tai Họa Và Hối Hận",
@@ -23882,9 +23905,9 @@
         "ru:Тамаюратэй но оханаси",
         "tr:Tamayuratei no Ohanashi"
       ],
-      "prose_chars": 3009,
+      "prose_chars": 3022,
       "file": "Tamayuratei no Ohanashi.txt",
-      "chars": 3373
+      "chars": 3386
     },
     {
       "title": "Tarno",
@@ -23906,9 +23929,9 @@
         "en:Tarno",
         "Ấn Nguyệt"
       ],
-      "prose_chars": 3486,
+      "prose_chars": 3499,
       "file": "Tarno.txt",
-      "chars": 3793
+      "chars": 3806
     },
     {
       "title": "Tartaglia",
@@ -23962,7 +23985,7 @@
         "pt-br:Teucer",
         "ru:Тевкр"
       ],
-      "prose_chars": 1765,
+      "prose_chars": 1777,
       "file": "Teucer.txt",
       "chars": 1815
     },
@@ -23982,9 +24005,9 @@
         "tr:Sessizliğin Yankısı",
         "Điệu Van Xoay Vòng"
       ],
-      "prose_chars": 3120,
+      "prose_chars": 3143,
       "file": "Thanh Âm Lạnh Lẽo.txt",
-      "chars": 3683
+      "chars": 3706
     },
     {
       "title": "Thiên Dương Rực Lửa",
@@ -24065,9 +24088,9 @@
         "tr:Göklerin Kılıcı",
         "zh:天空之刃"
       ],
-      "prose_chars": 2029,
+      "prose_chars": 2070,
       "file": "Thiên Không Kiếm.txt",
-      "chars": 2986
+      "chars": 3027
     },
     {
       "title": "Thiên Lý",
@@ -24137,9 +24160,9 @@
         "Venti",
         "Vision"
       ],
-      "prose_chars": 16708,
+      "prose_chars": 16757,
       "file": "Thiên Lý.txt",
-      "chars": 15950
+      "chars": 15999
     },
     {
       "title": "Thiên Nham Cổ Kiếm",
@@ -24259,9 +24282,9 @@
         "zh:千星奇遇",
         "Động Tác Tương Tác"
       ],
-      "prose_chars": 3324,
+      "prose_chars": 3465,
       "file": "Thiên Tinh Kỳ Vực.txt",
-      "chars": 3198
+      "chars": 3339
     },
     {
       "title": "Thiên Âm Nhã Tập",
@@ -24346,9 +24369,9 @@
         "en:Tholindis",
         "es:Tholindis"
       ],
-      "prose_chars": 5511,
+      "prose_chars": 5556,
       "file": "Tholindis.txt",
-      "chars": 5978
+      "chars": 6023
     },
     {
       "title": "Thoma",
@@ -24415,9 +24438,9 @@
         "Điệp Dẫn Lai Sinh",
         "Điệu Nhảy Niwabi Cháy Bỏng"
       ],
-      "prose_chars": 11459,
+      "prose_chars": 11870,
       "file": "Thuyết Định Lượng Nguyên Tố.txt",
-      "chars": 11953
+      "chars": 12408
     },
     {
       "title": "Thuẫn Kích",
@@ -24539,9 +24562,27 @@
         "Cỗ Máy Varuna",
         "Cột Đá Phong Ấn"
       ],
-      "prose_chars": 34741,
+      "prose_chars": 35462,
       "file": "Thám Hiểm.txt",
-      "chars": 35325
+      "chars": 36046
+    },
+    {
+      "title": "Thánh Bài Ánh Trăng",
+      "url": "https://genshin-impact.fandom.com/vi/wiki/Thánh_Bài_Ánh_Trăng",
+      "infobox": "Terminology Infobox",
+      "infobox_type": "Hệ Thống Trò Chơi",
+      "fields": 2,
+      "links": [
+        "Chế Độ Nhiều Người Chơi",
+        "Nhà Hát Giả Tưởng",
+        "en:Lunar Arcanum",
+        "es:Arcano lunar",
+        "fr:Arcanum lunaire",
+        "th:ไพ่จันทราเร้นลับ"
+      ],
+      "prose_chars": 301,
+      "file": "Thánh Bài Ánh Trăng.txt",
+      "chars": 391
     },
     {
       "title": "Thánh Di Vật",
@@ -24587,9 +24628,9 @@
         "zh:聖遺物",
         "Điều Tra"
       ],
-      "prose_chars": 6460,
+      "prose_chars": 6723,
       "file": "Thánh Di Vật.txt",
-      "chars": 6678
+      "chars": 6893
     },
     {
       "title": "Thông Báo",
@@ -24609,9 +24650,9 @@
         "ja:お知らせ",
         "ru:Объявления"
       ],
-      "prose_chars": 2109,
+      "prose_chars": 2537,
       "file": "Thông Báo.txt",
-      "chars": 2301
+      "chars": 2744
     },
     {
       "title": "Thù Lao Của Chính Nghĩa",
@@ -24751,7 +24792,7 @@
         "uk:Біла китиця",
         "zh:白纓槍"
       ],
-      "prose_chars": 1023,
+      "prose_chars": 1030,
       "file": "Thương Bạch Anh.txt",
       "chars": 1260
     },
@@ -24798,7 +24839,7 @@
         "uk:Спис Чорної скелі",
         "zh:黑岩刺槍"
       ],
-      "prose_chars": 2344,
+      "prose_chars": 2349,
       "file": "Thương Hắc Nham.txt",
       "chars": 2775
     },
@@ -25048,9 +25089,9 @@
         "uk:Дендро",
         "zh:草"
       ],
-      "prose_chars": 898,
+      "prose_chars": 943,
       "file": "Thảo.txt",
-      "chars": 1070
+      "chars": 1116
     },
     {
       "title": "Thất Thánh Triệu Hồi",
@@ -25378,9 +25419,9 @@
         "uk:Постійність німфи",
         "zh:水仙的時時刻刻"
       ],
-      "prose_chars": 2128,
+      "prose_chars": 2151,
       "file": "Thời Khắc Của Thủy Tiên.txt",
-      "chars": 2275
+      "chars": 2298
     },
     {
       "title": "Thời Khắc Của Đạt Thành",
@@ -25645,9 +25686,9 @@
         "uk:Гідро",
         "zh:水"
       ],
-      "prose_chars": 273,
+      "prose_chars": 277,
       "file": "Thủy.txt",
-      "chars": 469
+      "chars": 455
     },
     {
       "title": "Thực Phẩm",
@@ -25685,7 +25726,7 @@
         "uk:Їжа",
         "zh:食物"
       ],
-      "prose_chars": 3618,
+      "prose_chars": 3733,
       "file": "Thực Phẩm.txt",
       "chars": 3344
     },
@@ -25722,9 +25763,9 @@
         "zh:提納里",
         "Đội Kiểm Lâm"
       ],
-      "prose_chars": 503,
+      "prose_chars": 508,
       "file": "Tighnari.txt",
-      "chars": 1307
+      "chars": 1312
     },
     {
       "title": "Tinh Hoa Sinh Linh",
@@ -26056,9 +26097,9 @@
         "de:Tonia",
         "en:Tonia"
       ],
-      "prose_chars": 1007,
+      "prose_chars": 1024,
       "file": "Tonia.txt",
-      "chars": 902
+      "chars": 919
     },
     {
       "title": "Toukabou Shigure",
@@ -26087,7 +26128,7 @@
         "youkai",
         "zh:東花坊時雨"
       ],
-      "prose_chars": 3862,
+      "prose_chars": 3876,
       "file": "Toukabou Shigure.txt",
       "chars": 4465
     },
@@ -26114,9 +26155,9 @@
         "uk:Вбрання",
         "đội"
       ],
-      "prose_chars": 1192,
+      "prose_chars": 1216,
       "file": "Trang Phục.txt",
-      "chars": 1326
+      "chars": 1350
     },
     {
       "title": "Triệu Thiết Ngưu",
@@ -26165,9 +26206,9 @@
         "zh:忍冬之果",
         "Đinh Thiên Hàn"
       ],
-      "prose_chars": 2023,
+      "prose_chars": 2059,
       "file": "Trái Chịu Lạnh.txt",
-      "chars": 2771
+      "chars": 2807
     },
     {
       "title": "Trái Tim Bình Lôi",
@@ -26382,9 +26423,9 @@
         "ru:Выкованное пламенем озарение",
         "tr:Ateşte Dövülen Bilgelik"
       ],
-      "prose_chars": 2812,
+      "prose_chars": 2838,
       "file": "Trí Tuệ Dung Luyện.txt",
-      "chars": 3786
+      "chars": 3812
     },
     {
       "title": "Trí Tuệ Người Vượt Lửa",
@@ -26542,7 +26583,7 @@
         "tr:Homa'nın Asası",
         "zh:護摩之杖"
       ],
-      "prose_chars": 2274,
+      "prose_chars": 2289,
       "file": "Trượng Hộ Ma.txt",
       "chars": 2235
     },
@@ -26694,9 +26735,9 @@
         "Đoàn Hát Lang Thang Đại Lục",
         "Đoàn Hát Lang Thang Đại Lục (Phe Phái)"
       ],
-      "prose_chars": 2165,
+      "prose_chars": 2172,
       "file": "Tuyệt Huyền.txt",
-      "chars": 2468
+      "chars": 2475
     },
     {
       "title": "Tài Khoản",
@@ -27099,9 +27140,9 @@
         "uk:Атака",
         "Đột Phá"
       ],
-      "prose_chars": 1415,
+      "prose_chars": 1419,
       "file": "Tấn Công.txt",
-      "chars": 1588
+      "chars": 1592
     },
     {
       "title": "Tốc Độ Tấn Công",
@@ -27258,9 +27299,9 @@
         "uk:Вареса",
         "zh:瓦雷莎"
       ],
-      "prose_chars": 434,
+      "prose_chars": 438,
       "file": "Varesa.txt",
-      "chars": 1196
+      "chars": 1200
     },
     {
       "title": "Varka",
@@ -27283,9 +27324,9 @@
         "tr:Varka",
         "zh:法爾伽"
       ],
-      "prose_chars": 56,
+      "prose_chars": 62,
       "file": "Varka.txt",
-      "chars": 693
+      "chars": 699
     },
     {
       "title": "Vedrfolnir",
@@ -27301,9 +27342,9 @@
         "en:Vedrfolnir",
         "es:Vedrfolnir"
       ],
-      "prose_chars": 1146,
+      "prose_chars": 1176,
       "file": "Vedrfolnir.txt",
-      "chars": 461
+      "chars": 472
     },
     {
       "title": "Venti",
@@ -27331,9 +27372,9 @@
         "uk:Венті",
         "zh:溫迪"
       ],
-      "prose_chars": 231,
+      "prose_chars": 237,
       "file": "Venti.txt",
-      "chars": 830
+      "chars": 836
     },
     {
       "title": "Verr Goldet",
@@ -27445,9 +27486,9 @@
         "tr:Denizlerin Efendisi",
         "zh:銜珠海皇"
       ],
-      "prose_chars": 1370,
+      "prose_chars": 1383,
       "file": "Vua Biển Hàng Hiệu.txt",
-      "chars": 2195
+      "chars": 2208
     },
     {
       "title": "Vây Cá Chẻ Sóng",
@@ -27537,7 +27578,7 @@
         "tr:Hakushin Yüzüğü",
         "uk:Кільце Хакушін"
       ],
-      "prose_chars": 4146,
+      "prose_chars": 4166,
       "file": "Vòng Bạch Thần.txt",
       "chars": 4676
     },
@@ -27703,7 +27744,7 @@
         "Sự Kiện Cầu Nguyện",
         "Sự kiện phiên bản"
       ],
-      "prose_chars": 5744,
+      "prose_chars": 5873,
       "file": "Vũ Khí.txt",
       "chars": 5413
     },
@@ -28118,9 +28159,9 @@
         "uk:Фізична",
         "Địa Mạch Bất Thường"
       ],
-      "prose_chars": 968,
+      "prose_chars": 1160,
       "file": "Vật Lý.txt",
-      "chars": 1102
+      "chars": 1294
     },
     {
       "title": "Vật Đựng Của Thợ Săn",
@@ -28325,9 +28366,9 @@
         "en:Xana",
         "es:Xana"
       ],
-      "prose_chars": 1236,
+      "prose_chars": 1241,
       "file": "Xana.txt",
-      "chars": 1411
+      "chars": 1416
     },
     {
       "title": "Xbalanque",
@@ -28352,9 +28393,9 @@
         "tr:Xbalanque",
         "zh:希巴拉克"
       ],
-      "prose_chars": 627,
+      "prose_chars": 655,
       "file": "Xbalanque.txt",
-      "chars": 986
+      "chars": 1014
     },
     {
       "title": "Xiangling",
@@ -28409,9 +28450,9 @@
         "uk:Сянь Юнь",
         "zh:閒雲"
       ],
-      "prose_chars": 310,
+      "prose_chars": 316,
       "file": "Xianyun.txt",
-      "chars": 955
+      "chars": 961
     },
     {
       "title": "Xiao",
@@ -28439,9 +28480,9 @@
         "uk:Сяо",
         "zh:魈"
       ],
-      "prose_chars": 390,
+      "prose_chars": 396,
       "file": "Xiao.txt",
-      "chars": 1011
+      "chars": 1017
     },
     {
       "title": "Xilonen",
@@ -28466,9 +28507,9 @@
         "uk:Шилонен",
         "zh:希諾寧"
       ],
-      "prose_chars": 295,
+      "prose_chars": 300,
       "file": "Xilonen.txt",
-      "chars": 1070
+      "chars": 1075
     },
     {
       "title": "Xingqiu",
@@ -28596,9 +28637,9 @@
         "Cầu Nguyện",
         "en:User:Ginslon/Markov Chain"
       ],
-      "prose_chars": 1740,
+      "prose_chars": 1683,
       "file": "Xích Markov.txt",
-      "chars": 1847
+      "chars": 1788
     },
     {
       "title": "Xích Vũ Tinh Tựu",
@@ -28727,9 +28768,9 @@
         "zh:八重神子",
         "Đền Narukami (Phân Khu)"
       ],
-      "prose_chars": 251,
+      "prose_chars": 255,
       "file": "Yae Miko.txt",
-      "chars": 959
+      "chars": 963
     },
     {
       "title": "Yanfei",
@@ -28842,7 +28883,7 @@
         "en:Yohualtecuhtin, Lord of the Night",
         "es:Señora de la Noche"
       ],
-      "prose_chars": 697,
+      "prose_chars": 716,
       "file": "Yohualtecuhtin.txt",
       "chars": 635
     },
@@ -28872,9 +28913,9 @@
         "zh:宵宮",
         "Đảo Narukami"
       ],
-      "prose_chars": 346,
+      "prose_chars": 350,
       "file": "Yoimiya.txt",
-      "chars": 1078
+      "chars": 1082
     },
     {
       "title": "Yumemizuki Mizuki",
@@ -28905,9 +28946,9 @@
         "yumekui-baku",
         "zh:夢見月瑞希"
       ],
-      "prose_chars": 530,
+      "prose_chars": 536,
       "file": "Yumemizuki Mizuki.txt",
-      "chars": 1341
+      "chars": 1347
     },
     {
       "title": "Yun Jin",
@@ -29015,9 +29056,9 @@
         "tr:Zibai",
         "zh:茲白"
       ],
-      "prose_chars": 244,
+      "prose_chars": 249,
       "file": "Zibai.txt",
-      "chars": 1214
+      "chars": 1219
     },
     {
       "title": "Áng Thơ Của Linh Lộ",
@@ -29433,7 +29474,7 @@
         "tr:Hapseden Yıldırım",
         "zh:薙草之稻光"
       ],
-      "prose_chars": 2640,
+      "prose_chars": 2731,
       "file": "Đoạn Thảo Trường Đao.txt",
       "chars": 2515
     },
@@ -29472,9 +29513,9 @@
         "uk:Аменома Каґеучі",
         "zh:天目影打刀"
       ],
-      "prose_chars": 3460,
+      "prose_chars": 3503,
       "file": "Đoản Đao Amenoma.txt",
-      "chars": 3719
+      "chars": 3762
     },
     {
       "title": "Đuôi Phỉ Thúy Phai Màu",
@@ -29510,9 +29551,9 @@
         "tr:Uhrevi Işığın Lavtası",
         "Đại Chiến Clink Clank"
       ],
-      "prose_chars": 2088,
+      "prose_chars": 2101,
       "file": "Đàn Thiên Quang.txt",
-      "chars": 2670
+      "chars": 2683
     },
     {
       "title": "Đèn Của Kẻ Lạc Lối",
@@ -29871,9 +29912,9 @@
         "Đền Pax",
         "Ấn Hỏa"
       ],
-      "prose_chars": 685,
+      "prose_chars": 692,
       "file": "Đền Đáp Của Lửa Tona.txt",
-      "chars": 886
+      "chars": 893
     },
     {
       "title": "Địa Mạch Sinh Thành",
@@ -29982,7 +30023,7 @@
         "tr:Çöl Alimleriyle Sohbet",
         "zh:沙中偉賢的對答"
       ],
-      "prose_chars": 2675,
+      "prose_chars": 2684,
       "file": "Đối Thoại Của Hiền Giả Sa Mạc.txt",
       "chars": 3104
     },
@@ -30423,9 +30464,9 @@
         "Đạo Cụ Nhỏ",
         "Đồ Trang Trí"
       ],
-      "prose_chars": 5274,
+      "prose_chars": 5287,
       "file": "Ấm Trần Ca.txt",
-      "chars": 5907
+      "chars": 5920
     },
     {
       "title": "Ống Đồng Fleuve Cendre",

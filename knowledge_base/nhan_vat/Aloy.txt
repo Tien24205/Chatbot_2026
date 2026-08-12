@@ -21,7 +21,7 @@ voiceCN: Mufei (zh|沐霏)
 voiceJP: w|Ayahi Takagaki|Takagaki Ayahi (ja|高垣 彩陽)
 voiceKR: w|Jo Hyeon-jeong|Jo Hyeon-jeong (ko|조현정)
 
-- Tổng Quan: Aloy là một nhân vật hệ Băng chơi được trong Genshin Impact. Cô là nữ chính trong ' và được giới thiệu là nhân vật hợp tác và cross-over giữa Guerrilla Games và miHoYo.
+- Tổng Quan: Aloy là một nhân vật hệ Băng chơi được trong Genshin Impact. Cô là nữ chính trong Horizon Zero Dawn và được giới thiệu là nhân vật hợp tác và cross-over giữa Guerrilla Games và miHoYo.
 
 ## Có Mặt Trong
 

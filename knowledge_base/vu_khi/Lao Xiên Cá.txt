@@ -30,7 +30,7 @@ eff_att2: Tỷ Lệ Bạo Kích
 
 - Công Thức: Lao Xiên Cá cùng nguyên liệu tinh luyện Hộp Rượu Ako Domeki có thể được đổi từ Hội Câu Cá Inazuma.
 
-- Tinh Luyện: Để Tinh Luyện Lao Xiên Cá cần có nguyên liệu đặc biệt thay vì bản sao của chính nó, có thể kiếm được thông qua sự kiện Hội Câu Cá Inazuma.
+- Tinh Luyện: Để Tinh Luyện Lao Xiên Cá cần có nguyên liệu đặc biệt Hộp Rượu Ako Domeki thay vì bản sao của chính nó, có thể kiếm được thông qua sự kiện Hội Câu Cá Inazuma.
 
 ## Câu Chuyện
 

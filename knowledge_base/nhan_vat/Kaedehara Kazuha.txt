@@ -38,6 +38,6 @@ voiceKR: w|ko:김신우 (성우)|Kim Shin-woo (ko|김신우)
 
 ## Tổng Quan
 
- là nhân vật hệ chơi được trong Genshin Impact.
+ là nhân vật hệ Phong chơi được trong Genshin Impact.
 
 Cậu là một samurai lang thang thuộc Gia Tộc Kaedehara đã suy tàn, hiện nay là thành viên tạm thời của Đội Thuyền Nam Thập Tự. Kazuha có khả năng lắng nghe âm thanh của thiên nhiên. Cho dù cuộc đời nhiều thăng trầm, Kazuha vẫn giữ tâm thế ung dung.

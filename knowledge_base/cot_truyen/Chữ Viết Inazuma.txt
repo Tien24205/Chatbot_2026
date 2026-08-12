@@ -6,7 +6,7 @@ type: Ngôn Ngữ
 
 Chữ Viết Inazuma (tên chưa chính thức) nhắc đến hệ thống chữ viết của Inazuma.
 
-Chữ viết này được dựa trên bảng chữ cái Teyvat và có thể được lấy cảm hứng từ trong. Nó có thể được viết theo chiều dọc từ trên xuống dưới, từ phải sang trái, giống như các chữ viết truyền thống của Đông Á, hoặc nó có thể được viết theo chiều ngang. Các nét chữ được sử dụng trong chữ viết Inazuma tương ứng với các chữ cái của bảng chứ cái Latinh thay cho ' tiếng Nhật. Các văn bản được viết trong chữ viết này được dựa trên tiếng Nhật.
+Chữ viết này được dựa trên bảng chữ cái Teyvat và có thể được lấy cảm hứng từ vi:hiragana trong vi:tiếng Nhật. Nó có thể được viết theo chiều dọc từ trên xuống dưới, từ phải sang trái, giống như các chữ viết truyền thống của Đông Á, hoặc nó có thể được viết theo chiều ngang. Các nét chữ được sử dụng trong chữ viết Inazuma tương ứng với các chữ cái của bảng chứ cái Latinh thay cho kana tiếng Nhật. Các văn bản được viết trong chữ viết này được dựa trên Rōmaji tiếng Nhật.
 
 ## Giải Mã
 

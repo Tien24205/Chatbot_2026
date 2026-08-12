@@ -21,7 +21,7 @@ Thư Rải Rác: (Hình như là lá thư được gửi đến Hội Đồng B�
 : (Chỉ người trong Hội Đồng Bí Mật mới có thể đọc lá thư này...)
 :: (Tốt nhất không nên tự ý xem những bức thư này thì hơn...)
 (Nếu Nefer đang trong đội)
-: (Có thư cần xử lý...)
+: (Có thư cần Nefer xử lý...)
 :Nefer:...Xem ra lại có việc phải xử lý rồi.
 : (Lật xem.)
 ;(Bộ hội thoại ngẫu nhiên)
@@ -46,7 +46,7 @@ Thư Rải Rác: (Hình như là lá thư được gửi đến Hội Đồng B�
 ::Nefer: Nhưng lần này Jahoda lén ra ngoài, ít ra là không gây ra động tĩnh gì lớn, coi như cũng có tiến bộ.
 ::Nefer: Ừm, ủy thác trong thư này, vừa hay giao cho Jahoda làm vậy.
 (Nếu Jahoda đang trong đội)
-(Có thư cần xử lý...)
+(Có thư cần Jahoda xử lý...)
 :Jahoda: Lại nhận được thư à? Haiz, đừng bảo tôi đi bắt mèo nữa nhé...
 : (Lật xem.)
 ;(Bộ hội thoại ngẫu nhiên)
@@ -78,23 +78,23 @@ Rương: (Chiếc rương đựng một phần tài sản của Hội Đồng B�
 : (Hình như không mở được...)
 :: (Có lẽ, chỉ có nhân viên Hội Đồng Bí Mật mới mở được...)
 (Nếu Nefer đang trong đội)
-(Có lẽ muốn xem tình trạng của chiếc rương...)
+(Có lẽ Nefer muốn xem tình trạng của chiếc rương...)
 ;(Lần 1)
 ::Nefer: Thu nhập gần đây cũng được, có vẻ như đã đủ thêm bữa ăn cho Ashru rồi.
 ::
-::;(Nhận )
+::;(Nhận Mora)
 ;(Lần 2)
 ::Nefer: Hmm... Lấy ra một phần để thanh toán vậy.
 ::
-::;(Nhận )
+::;(Nhận Mora)
 ;(Lần 3)
 ::Nefer: Cũng tạm rồi, thanh toán xong thì chỉ còn lại chút ít. Haiz... Nếu được thêm vài vị khách Liyue thì tốt biết mấy...
 ::
-::;(Nhận )
+::;(Nhận Mora)
 ;(Những lần sau)
 ::Nefer: Hah, cũng tạm rồi, cứ để cái rương ở yên đây vậy.
 (Nếu Jahoda đang trong đội)
-(Có lẽ muốn xem tình trạng của chiếc rương...)
+(Có lẽ Jahoda muốn xem tình trạng của chiếc rương...)
 :Jahoda: Hihi... Để xem dạo này kiếm được bao nhiêu tiền nào.
 :Jahoda: Lần trước sếp nói sẽ thưởng thêm cho mình, hay là bây giờ mình...
 :Jahoda: Sao trong này không có tiền vậy? Chỉ có mỗi một tờ giấy...
@@ -110,7 +110,7 @@ Rương: (Chiếc rương đựng một phần tài sản của Hội Đồng B�
 :Jahoda: Dạ vâng!
 :Nefer: Rồi đi đi.
 :Jahoda: Tuân lệnh!
-:;(Nhận )
+:;(Nhận Mora)
 (Nếu người chơi đã nhận tất cả tài sản)
 (Đợi một thời gian rồi quay lại xem thử vậy...)
 

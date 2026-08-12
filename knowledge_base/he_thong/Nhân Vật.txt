@@ -8,11 +8,11 @@ type: Hệ Thống Trò Chơi
 
 ## Cách Nhận
 
-Có thể nhận được nhân vật bằng cách sử dụng hoặc. Những Đạo Cụ Cầu Nguyện này có thể nhận bằng cách:
+Có thể nhận được nhân vật bằng cách sử dụng Mối Duyên Vương Vấn hoặc Mối Duyên Tương Ngộ. Những Đạo Cụ Cầu Nguyện này có thể nhận bằng cách:
 - Mua bằng Nguyên Thạch
 - Nhận từ Sự Kiện và Nhiệm Vụ
-- Đổi bằng trong cửa hàng Đổi Bụi Ánh Sáng.
-- Đổi hằng tháng bằng trong cửa hàng Đổi Bụi Ánh Sáng.
+- Đổi bằng Tinh Huy Vô Chủ trong cửa hàng Đổi Bụi Ánh Sáng.
+- Đổi hằng tháng bằng Tinh Trần Vô Chủ trong cửa hàng Đổi Bụi Ánh Sáng.
 
 Các cách khác để sở hữu nhân vật bao gồm:
 - Tạo tài khoản và đăng nhập
@@ -22,7 +22,7 @@ Các cách khác để sở hữu nhân vật bao gồm:
 - Cầu Nguyện đề xuất cho người mới
 - là nhân vật bảo đảm nhận được khi cầu nguyện 10 lần lần đầu tiên.
 - Đổi Bụi Ánh Sáng
-- Mỗi tháng sẽ có 2 nhân vật 4 sao có thể nhận được từ cửa hàng Đổi Bụi Ánh Sáng, mỗi nhân vật cần.
+- Mỗi tháng sẽ có 2 nhân vật 4 sao có thể nhận được từ cửa hàng Đổi Bụi Ánh Sáng, mỗi nhân vật cần Tinh Huy Vô Chủ.
 - Sự Kiện Chủ Đề
 - Sự Kiện Vĩnh Viễn
 -: Nhận sau khi hoàn thành thông qua giao diện sự kiện Thánh Ca Cầu Nguyện.
@@ -47,7 +47,7 @@ Nhân vật có thể đột phá tới giai đoạn đột phá tiếp theo khi
 
 Khi đột phá xong lần đầu tiên và lần thứ tư, nhân vật sẽ mở khóa nội tại thiên phú chiến đấu thứ nhất và thứ hai. Thiên phú cố định thứ ba (có sẵn đối với mỗi nhân vật, trừ Nhà Lữ Hành) đã được mở khóa sẵn mà không cần đột phá.
 
-Từ lần đột phá thứ hai trở đi, mỗi nhân vật sẽ được tăng một chỉ số nhất định trong thuộc tính (VD: Nhà Lữ Hành được tăng Tấn Công sau mỗi lần đột phá) hoặc một thuộc tính đặc biệt (VD: Ningguang nhận được, Lisa nhận thêm Tinh Thông Nguyên Tố). Cơ chế này được áp dụng cho lần đột phá thứ ba, năm và sáu.
+Từ lần đột phá thứ hai trở đi, mỗi nhân vật sẽ được tăng một chỉ số nhất định trong thuộc tính (VD: Nhà Lữ Hành được tăng Tấn Công sau mỗi lần đột phá) hoặc một thuộc tính đặc biệt (VD: Ningguang nhận được Tăng Sát Thương Nguyên Tố Nham, Lisa nhận thêm Tinh Thông Nguyên Tố). Cơ chế này được áp dụng cho lần đột phá thứ ba, năm và sáu.
 
 Đột phá lần thứ nhất, thứ ba và thứ năm sẽ thưởng người chơi 1 Mối Duyên Tương Ngộ.
 

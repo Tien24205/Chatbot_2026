@@ -119,14 +119,46 @@ INLINE_TEMPLATES = {
 }
 
 
+# Template CÓ THAM SỐ mang chữ hiển thị — vị trí chữ tuỳ template, tra từ
+# wikitext thật (trang Thánh Di Vật, Thuyết Định Lượng Nguyên Tố):
+#   {{Item|Hoa Sự Sống|30|type=Biểu Tượng}}  -> chữ ở tham số ĐẦU
+#   {{Color|dendro|Sinh Trưởng}}             -> chữ ở tham số CUỐI
+#   {{Color|Đóng Băng}}                      -> một tham số thì đầu = cuối
+# Bản đầu chỉ biết template không tham số nên "Có 5 loại...: {{Item|...}}, ..."
+# thành "Có 5 loại...:,,,, và." — mất sạch 5 tên vị trí Thánh Di Vật, và bốn
+# tiêu đề mục Đóng Băng/Sinh Trưởng/Điện Cảm/Thiêu Đốt bị lưới an toàn gộp mất.
+_ARG_TEMPLATES = {"item": "first", "tt": "first", "color": "last", "w": "last"}
+
+
+def _split_args(body: str) -> list[str]:
+    """Tách '|' ở tầng ngoài cùng — không tách bên trong template lồng nhau."""
+    parts: list[str] = []
+    depth, cur = 0, []
+    for ch in body:
+        if ch == "{":
+            depth += 1
+        elif ch == "}":
+            depth -= 1
+        if ch == "|" and depth == 0:
+            parts.append("".join(cur))
+            cur = []
+        else:
+            cur.append(ch)
+    parts.append("".join(cur))
+    return parts
+
+
 def _template_text(tpl: str) -> str:
     """Chữ thay thế cho một template, hoặc '' nếu template đáng xoá thật."""
-    body = tpl[2:-2]
-    name, _, rest = body.partition("|")
-    key = name.strip().lower()
+    parts = _split_args(tpl[2:-2])
+    key = parts[0].strip().lower()
+    # Tham số ĐỊNH DANH: chỉ lấy tham số vị trí, bỏ dạng "type=Biểu Tượng".
+    pos = [a.strip() for a in parts[1:] if "=" not in a]
     # Dạng bọc {{NT|Hỏa}} / {{Nguyên Tố|Cryo}}: tên thật nằm ở tham số đầu.
-    if key in {"nt", "nguyên tố", "element"} and rest:
-        key = rest.split("|", 1)[0].strip().lower()
+    if key in {"nt", "nguyên tố", "element"} and pos:
+        key = pos[0].lower()
+    if key in _ARG_TEMPLATES and pos:
+        return pos[0] if _ARG_TEMPLATES[key] == "first" else pos[-1]
     return INLINE_TEMPLATES.get(key, "")
 
 

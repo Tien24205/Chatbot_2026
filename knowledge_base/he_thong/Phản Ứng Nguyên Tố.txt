@@ -48,5 +48,5 @@ Phản ứng phụ bao gồm Lan Tràn và Tăng Trưởng.
 ## Cộng Hưởng Nguyên Tố
 
 Một số cộng hưởng có hiệu quả đặc biệt khi kích hoạt Phản Ứng Nguyên Tố.
-- Lôi Mạnh Mẽ: Khi kích hoạt phản ứng Siêu Dẫn, Quá Tải, Điện Cảm, Sinh Trưởng, Tăng Cường, Nở Rộ sẽ có 100% tỉ lệ rơi 1 Nguyên Tố Hạt Nhân, CD 5s.
-- Thảo Sinh Sôi: Sau khi kích hoạt phản ứng Thiêu Đốt, Sinh Trưởng, Sum Suê, tất cả nhân vật trong đội gần đó tăng 30 Tinh Thông Nguyên Tố, duy trì 6s. Sau khi kích hoạt phản ứng Tăng Cường, Lan Tràn, Nở Rộ, Bung Tỏa, tất cả nhân vật trong đội gần đó tăng 20 Tinh Thông Nguyên Tố, duy trì 6s.
+- LôiLôi Lôi Mạnh Mẽ: Khi kích hoạt phản ứng Siêu Dẫn, Quá Tải, Điện Cảm, Sinh Trưởng, Tăng Cường, Nở Rộ sẽ có 100% tỉ lệ rơi 1 Nguyên Tố Hạt Nhân Lôi, CD 5s.
+- ThảoThảo Thảo Sinh Sôi: Sau khi kích hoạt phản ứng Thiêu Đốt, Sinh Trưởng, Sum Suê, tất cả nhân vật trong đội gần đó tăng 30 Tinh Thông Nguyên Tố, duy trì 6s. Sau khi kích hoạt phản ứng Tăng Cường, Lan Tràn, Nở Rộ, Bung Tỏa, tất cả nhân vật trong đội gần đó tăng 20 Tinh Thông Nguyên Tố, duy trì 6s.

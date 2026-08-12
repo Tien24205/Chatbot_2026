@@ -58,37 +58,37 @@ Lưu ý, nếu thiết đặt ngày sinh nhật trong trò chơi khi sinh nhật
 - Thư Sinh Nhật của Paimon và Raiden Shogun không bao gồm món ăn đặc biệt, vì hai người không phải là nhân vật chơi được và không thể nấu ăn.
 - Xiangling và Ningguang là hai nhân vật duy nhất gọi tên trực tiếp món ăn đặc biệt của mình trong thư sinh nhật của họ. Các nhân vật khác chỉ đề cập đến món ăn mà không gọi tên hoặc đề cập đến việc đã nấu món gì đó, đề cập đến việc đi ăn cùng nhau, hoặc đề cập đến một món ăn khác trong thư để thay thế hoặc hoàn toàn không đề cập đến món ăn.
 - Các nhân vật gửi cho người chơi nhiều hơn một món ăn đặc biệt:
-- Beidou, năm 2021:
-- Noelle, năm 2021:
-- Ningguang, năm 2021:
+- Beidou, năm 2021: Thịt Xào Ớt
+- Noelle, năm 2021: Bánh Quế Mây Dày
+- Ningguang, năm 2021: Thịt Mora Càn Khôn
 - Các nhân vật gửi cho người chơi món ăn khác ngoài món ăn đặc biệt của họ:
-- Noelle, năm 2021:
-- Xiangling, năm 2021:
-- Thoma, năm 2022: và
-- Yun Jin, năm 2022:
-- Raiden Shogun, năm 2022: và
-- Ningguang, năm 2022: và
-- Kaeya, năm 2022:
-- Kẻ Lang Thang, năm 2023: và
-- Thoma, năm 2023: và
-- Yaoyao, năm 2023: và
-- Noelle, năm 2023: và
-- Lisa, năm 2023:
-- Yoimiya, năm 2023:
-- Raiden Shogun, năm 2023:, và
-- Kuki Shinobu, năm 2023: và
-- Mika, năm 2023: và
-- Albedo, năm 2023:
-- Kaeya, năm 2023: và
-- Layla, năm 2023:
-- Tighnari, năm 2023: và
+- Noelle, năm 2021: Gỏi Mãn Nguyện
+- Xiangling, năm 2021: Bánh Ngô Thịt Cay
+- Thoma, năm 2022: Cua Phủ Bơ Ngon và Mì Xào Thập Cẩm Ngon
+- Yun Jin, năm 2022: Cá Hổ Nướng
+- Raiden Shogun, năm 2022: Dango Ba Màu và Bánh Anh Đào
+- Ningguang, năm 2022: Tiên Nhảy Tường Ngon và Gà Nấu Đậu Ngon
+- Kaeya, năm 2022: Thạch Bạc Hà
+- Kẻ Lang Thang, năm 2023: Ajilenakh Ngào Đường Ngon và Baklava Ngon
+- Thoma, năm 2023: Sashimi Ngon và Rau Củ Hầm Kem
+- Yaoyao, năm 2023: Cá Tươi Hầm Củ Cải và Củ Cải Viên Chiên
+- Noelle, năm 2023: Cuốn Shawarma và Panipuri
+- Lisa, năm 2023: Sữa Trứng Tường Vi Ngon
+- Yoimiya, năm 2023: Bánh Anh Đào Ngon
+- Raiden Shogun, năm 2023: Dango Ba Màu, Onigiri và Mochi Mâm Xôi
+- Kuki Shinobu, năm 2023: Onigiri Ngon và Sandwich Katsu Ngon
+- Mika, năm 2023: Pile 'Em Up Ngon và Gà Xông Khói Phía Bắc Ngon
+- Albedo, năm 2023: Hương Vị Lễ Hội Ngon
+- Kaeya, năm 2023: Bánh Mặt Trăng vàHương Vị Lễ Hội Ngon
+- Layla, năm 2023: Baklava
+- Tighnari, năm 2023: Bánh Túi Ngon và Thịt Hầm Sốt Rau Củ Ngon
 - Các nhân vật gửi cho người chơi món ăn không thể nấu được:
-- Kaeya, năm 2020:
-- Diluc, năm 2021:
-- Albedo, năm 2021:
-- Yun Jin, năm 2022:
-- Lisa, năm 2022:
-- Raiden Shogun, năm 2022:
+- Kaeya, năm 2020: Nước Táo Lên Men
+- Diluc, năm 2021: Nước Táo Lên Men
+- Albedo, năm 2021: Nước Dâu Bạc Hà
+- Yun Jin, năm 2022: Chén Trà Lớn
+- Lisa, năm 2022: Nước Ép Quả Móc Câu
+- Raiden Shogun, năm 2022: Sữa Dango
 - Nếu người chơi sở hữu 20 Hạt Giống Thanh Tâm trong Hộp Hạt Giống khi nhận thư sinh nhật của Ganyu năm 2021, họ sẽ không thể nhận thư vì giới hạn hạt giống đã đạt tối đa. Vì không thể xóa hạt giống đi, người chơi buộc phải trồng 1 Thanh Tâm trong Ấm Trần Ca để có thể nhận thư.
 
 ## Lồng Tiếng

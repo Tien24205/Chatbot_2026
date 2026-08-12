@@ -21,7 +21,7 @@ Trong trường hợp của Aloy, Chòm Sao vẫn tồn tại trong phần Cung 
 
 ## Sử Dụng
 
-Vì một nhân vật có 6 tầng Cung Mệnh, nên Chòm Sao chỉ có thể nhận được tổng cộng 6 lần cho mỗi nhân vật, nghĩa là có thể nhận được một nhân vật 7 lần. Việc nhận thêm các bản sao của một nhân vật thông qua Cầu Nguyện sẽ làm tăng số lượng nhận được từ 2 lên 5 đối với nhân vật 4 sao và từ 10 lên 25 đối với nhân vật 5 sao, cùng với một.
+Vì một nhân vật có 6 tầng Cung Mệnh, nên Chòm Sao chỉ có thể nhận được tổng cộng 6 lần cho mỗi nhân vật, nghĩa là có thể nhận được một nhân vật 7 lần. Việc nhận thêm các bản sao của một nhân vật thông qua Cầu Nguyện sẽ làm tăng số lượng Tinh Huy Vô Chủ nhận được từ 2 lên 5 đối với nhân vật 4 sao và từ 10 lên 25 đối với nhân vật 5 sao, cùng với một Chòm Sao Vô Chủ.
 
 Mỗi nhân vật đều có phiên bản Chòm Sao của riêng họ. Mặc dù có chung biểu tượng, nhưng các Chòm Sao có cùng độ hiếm không thể được dùng thay thế cho nhau (ví dụ: Chòm Sao của Diluc không thể dùng để mở khóa tầng Cung Mệnh của Klee và ngược lại), cũng như không tồn tại phiên bản Chòm Sao nào có thể áp dụng cho mọi nhân vật.
 

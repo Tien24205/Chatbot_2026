@@ -30,7 +30,7 @@ voiceKR: Jung Ui-taek (ko|정의택)
 
 ## Tổng Quan
 
-Tighnari là một nhân vật hệ chơi được trong Genshin Impact.
+Tighnari là một nhân vật hệ Thảo chơi được trong Genshin Impact.
 
 Tighnari là một Đội Trưởng nghiêm khắc của Đội Kiểm Lâm và là thầy giáo của Collei. Dù bản thân sở hữu tài năng và trí tuệ, Tighnari lại muốn sống ẩn dật ở Rừng Avidya hơn là nơi Giáo Viện nguy nga.
 

@@ -27,6 +27,10 @@ voiceCN: Juhuahua (zh|菊花花)
 voiceJP: w|Miyuki Sawashiro|Sawashiro Miyuki (ja|沢城 みゆき)
 voiceKR: w|ko:박지윤_(성우)|Park Ji-yoon (ko|박지윤)
 
-- Tổng Quan: là nhân vật chơi được hệ trong Genshin Impact. Raiden Shogun gồm hai thực thể trong cùng một cơ thể: Ei, Lôi Thần hiện tại của Inazuma, và Shogun, con rối do Ei tạo ra để thay cô cai trị Inazuma.
+## Tổng Quan
+
+ là nhân vật chơi được hệ Lôi trong Genshin Impact.
+
+Raiden Shogun gồm hai thực thể trong cùng một cơ thể: Ei, Lôi Thần hiện tại của Inazuma, và Shogun, con rối do Ei tạo ra để thay cô cai trị Inazuma.
 
 - Raiden Shogun không thể nấu ăn, cũng không có món ăn đặc biệt.

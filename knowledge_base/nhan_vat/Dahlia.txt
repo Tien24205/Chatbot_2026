@@ -25,6 +25,6 @@ voiceKR: Seok Seung-hoon (ko|석승훈)
 
 ## Tổng Quan
 
-Dahlia là một nhân vật hệ chơi được trong Genshin Impact.
+Dahlia là một nhân vật hệ Thủy chơi được trong Genshin Impact.
 
 Dahlia là một trợ tế thuộc Đội Kỵ Sĩ Tây Phong. Cậu là người truyền đạo của Phong Thần Barbatos, giúp Barbatos để ý những vụ án nghiêm trọng ảnh hưởng cuộc sống dân chúng và truyền đạt ý muốn của ngài tới người dân Mondstadt.

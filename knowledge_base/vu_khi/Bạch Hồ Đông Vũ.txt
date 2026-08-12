@@ -3,6 +3,7 @@
 ## Thông Tin Cơ Bản
 
 title: Bạch Hồ Đông Vũ
+id: 11520
 type: Kiếm Đơn
 quality: 5
 obtain: Cầu Nguyện Vũ Khí

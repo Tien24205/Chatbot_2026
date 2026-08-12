@@ -14,7 +14,7 @@ Patch đầu tiên của mỗi phiên bản thường có tên X.Y.0 (tiếp t�
 
 ## Bảo Trì
 
-Tất cả các lần bảo trì thường sẽ mất 5 tiếng, ngoại trừ bảo trì phiên bản 1.0.1 mất 4 tiếng. Các lần bảo trì sẽ bắt đầu từ 05:00 - GMT+7 (hay 06:00 - GMT+8). Thời gian bảo trì được xác định theo kế hoạch, qua đó mỗi giờ bảo trì sẽ được đền bù (ví dụ, theo kế hoạch một phiên bản sẽ bảo trì mất 5 tiếng, nhưng thực tế chỉ mất 4 tiếng; khi đền bù sẽ dựa vào thời gian bảo trì theo kế hoạch là 5 tiếng, vậy nên số lượng nguyên thạch đền bù bảo trì là. Có những lần cập nhật phiên bản sẽ sửa lỗi game, khi đó sẽ có thêm đền bù sửa lỗi.
+Tất cả các lần bảo trì thường sẽ mất 5 tiếng, ngoại trừ bảo trì phiên bản 1.0.1 mất 4 tiếng. Các lần bảo trì sẽ bắt đầu từ 05:00 - GMT+7 (hay 06:00 - GMT+8). Thời gian bảo trì được xác định theo kế hoạch, qua đó mỗi giờ bảo trì sẽ được đền bù Nguyên Thạch (ví dụ, theo kế hoạch một phiên bản sẽ bảo trì mất 5 tiếng, nhưng thực tế chỉ mất 4 tiếng; khi đền bù sẽ dựa vào thời gian bảo trì theo kế hoạch là 5 tiếng, vậy nên số lượng nguyên thạch đền bù bảo trì là Nguyên Thạch. Có những lần cập nhật phiên bản sẽ sửa lỗi game, khi đó sẽ có thêm Nguyên Thạch đền bù sửa lỗi.
 
 Một tiếng trước khi bảo trì, sẽ có các bảng thông báo kèm thời gian đếm ngược. Bảng thông báo hiện vào lúc 60, 50, 40, 30, 20, 15, 10, 5, 4, 3, 2 và 1 phút trước giờ bảo trì theo kế hoạch. Trong tiếng Anh, bảng thông báo được ghi như sau:
 - Dear Travelers, Genshin Impact servers will be down for maintenance in about {X}m. Please plan your game time and progress accordingly. For more details, see the in-game notice.

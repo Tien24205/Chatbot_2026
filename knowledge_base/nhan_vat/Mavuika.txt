@@ -29,4 +29,4 @@ voiceCN: Li Ye (zh|李晔)
 voiceJP: w|Mikako Komatsu|Komatsu Mikako (ja|小松未可子)
 voiceKR: w|ko:김나율|Kim Na-yul (ko|김나율)
 
-- Tổng Quan: Mavuika là một nhân vật hệ chơi được trong Genshin Impact. Sở hữu Tên Cổ và tên ma thần Haborym, cô hiện đang là Hỏa Thần cai quản Natlan.
+- Tổng Quan: Mavuika là một nhân vật hệ Hỏa chơi được trong Genshin Impact. Sở hữu Tên Cổ và tên ma thần Haborym, cô hiện đang là Hỏa Thần cai quản Natlan.

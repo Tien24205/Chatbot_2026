@@ -23,7 +23,7 @@ eff_scale1: Giới Hạn HP
 
 - Tổng Quan: Sừng Rượu Vân Xanh là một Pháp Khí 4 sao có thể nhận được từ sự kiện Dấu Vết Nghệ Thuật.
 
-- Tinh Luyện: Tinh luyện Sừng Rượu Vân Xanh yêu cầu một vật phẩm đặc biệt có tên thay vì bản sao của món vũ khí. Vật phẩm đó có thể nhận được từ sự kiện Dấu Vết Nghệ Thuật.
+- Tinh Luyện: Tinh luyện Sừng Rượu Vân Xanh yêu cầu một vật phẩm đặc biệt có tên "Sắc Biển Tĩnh Lặng" thay vì bản sao của món vũ khí. Vật phẩm đó có thể nhận được từ sự kiện Dấu Vết Nghệ Thuật.
 
 ## Câu Chuyện
 

@@ -28,15 +28,9 @@ region: Inazuma
 - Ảo Ảnh Tội Lỗi: vật thể có thể nhìn thấy bằng mắt thường trong Enkanomiya. Chuyển đổi giữa Đêm Trắng và Đêm Đen sẽ khiến cơ quan ẩn giấu đằng sau xuất hiện hoặc biến mất. Các cơ quan bị ẩn thường là các cơ quan khác, ví dụ như Ký Tự Tế Đàn.
 - Cơ Quan Ba Góc: đánh vào cơ quan này để kích hoạt nó. Nếu đã bị vỡ, chuyển về Đêm Trắng để sửa lại.
 
-## Thủ Lĩnh
+- ===Đặc Sản Khu Vực=== - Trân Châu San Hô - Hải Linh Chi
 
-- ===Đặc Sản Khu Vực===
-- - ==NPC==
-Linh Hồn Tokoyo
-
-Linh Hồn Tokoyo (hay còn được gọi là "Ảo Ảnh Tội Lỗi") là các NPC quang phổ xuất hiện trên Enkanomiya trong Đêm Đen.
-NPC Độc Quyền Nhiệm Vụ
-- Enjou
+- NPC: Linh Hồn Tokoyo Linh Hồn Tokoyo (hay còn được gọi là "Ảo Ảnh Tội Lỗi") là các NPC quang phổ xuất hiện trên Enkanomiya trong Đêm Đen. NPC Độc Quyền Nhiệm Vụ - Enjou
 
 ## Lịch Sử
 

@@ -32,6 +32,6 @@ voiceKR: Kim Ji-yul (ko|김지율) (Người)
 
 ## Tổng Quan
 
-Durin là một nhân vật hệ chơi được trong Genshin Impact.
+Durin là một nhân vật hệ Hỏa chơi được trong Genshin Impact.
 
 Một chú rồng đến từ thế giới Simulanka, được ma nữ Andersdotter thuộc Hội Ma Nữ tạo ra dựa trên Durin nguyên bản. Nhờ vào Thuật Đất Đen, Albedo đã khiến cho cậu trở thành một con người nhân tạo bằng cách truyền năng lượng từ trái tim của Durin nguyên bản sang cậu, hiện cậu đang sử dụng cơ thể này để hòa nhập vào xã hội Mondstadt

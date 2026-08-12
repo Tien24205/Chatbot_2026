@@ -53,7 +53,7 @@ Những nhân vật khác có liên quan đến Vương quốc Khaenri'ah bao g�
 
 ## Từ Nguyên
 
-- Khemia (tên của Thuật Đất Đen trong tiếng Anh) về mặt ngữ âm tương tự như một số nguồn gốc từ nguyên của các thuật ngữ hiện đại và. Nguồn gốc của các thuật ngữ này không chắc chắn và có nhiều nguồn gốc khác nhau.
+- Khemia (tên của Thuật Đất Đen trong tiếng Anh) về mặt ngữ âm tương tự như một số nguồn gốc từ nguyên của các thuật ngữ hiện đại vi:Giả kim thuật và vi:Hóa học. Nguồn gốc của các thuật ngữ này không chắc chắn và có nhiều nguồn gốc khác nhau.
 - Một nguồn gốc có thể có là từ tiếng Ả Rập, "hóa học". Bắt nguồn từ thuật ngữ Copt, "Ai Cập". Thuật ngữ Copt này về cơ bản bắt nguồn từ từ Ai Cập cổ đại, dùng để chỉ cả đất nước Ai Cập và màu đen.
 - Những nguồn gốc khác có thể xuất phát từ tiếng Hy Lạp cổ đại có nghĩa là "đổ" hoặc "pha loãng", hoặc thuật ngữ luyện kim Hy Lạp cổ đại ban đầu có nghĩa là "đổ chung", "đúc chung", "hàn" hoặc "hợp kim".
 - Trong tiếng Ả Rập, "giả kim thuật" được dịch là.
@@ -61,18 +61,18 @@ Những nhân vật khác có liên quan đến Vương quốc Khaenri'ah bao g�
 
 ## Tham Khảo Văn Hóa
 
-- Nhiều yếu tố của Khaenri'ah rất có thể được lấy cảm hứng từ, đặc biệt là bài hát.
+- Nhiều yếu tố của Khaenri'ah rất có thể được lấy cảm hứng từ truyền thuyết của người Đức, đặc biệt là bài hát vi:Nibelungenlied.
 - Hầu hết các nhân vật liên quan đến Khaenri'ah đều được đặt tên theo thần thoại và văn học Đức/Bắc Âu:
-- Dainsleif — tên của một thanh kiếm huyền thoại.
-- Alberich (Gia tộc của Kaeya) — tên của một vị, cũng xuất hiện trong vở opera ' của Richard Wagner.
-- Durin và Dvalin — tên của.
-- Surtalogi — tên của thanh kiếm sáng hoặc ngọn lửa mà Hỏa Jotunn sử dụng trong thần thoại Bắc Âu.
-- Hroptatyr — một trong những tên của, có nghĩa là "Nhà Hiền Triết".
-- Rhinedottir — trong ' dựa trên thần thoại Đức.
-- Rerir — một đã giết cha mình và là tổ tiên của gia tộc Völsung.
-- Vedrfolnir — một đậu giữa hai mắt của một con đại bàng vô danh trên đỉnh cây thế giới Yggdrasil.
-- Từ tương đương của Irmin trong tiếng Bắc Âu thời Viking là Jörmunr, được sử dụng trong như một biệt danh dành cho vị thần Bắc Âu Odin.
-- Thrain — một người đẩy xe ngựa trong truyền thuyết Bắc Âu.
+- Dainsleif — tên của một thanh kiếm huyền thoại Dáinsleif.
+- Alberich (Gia tộc của Kaeya) — tên của một vị Vua Người Lùn, cũng xuất hiện trong vở opera vi:Der Ring des Nibelungen của Richard Wagner.
+- Durin và Dvalin — tên của hai thợ rèn người lùn.
+- Surtalogi — tên của thanh kiếm sáng hoặc ngọn lửa mà Hỏa Jotunn Surtr sử dụng trong thần thoại Bắc Âu.
+- Hroptatyr — một trong những tên của Odin, có nghĩa là "Nhà Hiền Triết".
+- Rhinedottir — các nhân vật trong vi:Der Ring des Nibelungen dựa trên thần thoại Đức.
+- Rerir — một vị vua quyền lực trong thần thoại Đức đã giết cha mình và là tổ tiên của gia tộc Völsung.
+- Vedrfolnir — một con diều hâu trong thần thoại Bắc Âu đậu giữa hai mắt của một con đại bàng vô danh trên đỉnh cây thế giới Yggdrasil.
+- Từ tương đương của Irmin trong tiếng Bắc Âu thời Viking là Jörmunr, được sử dụng trong Thơ Edda như một biệt danh dành cho vị thần Bắc Âu Odin.
+- Thrain — một người đẩy xe ngựa trong truyền thuyết Bắc Âu Hrómundar saga Gripssonar.
 - Chiến Tranh Ma Thần và sự kiện Tai ương thời cổ đại đã gây ra thảm họa cho cả lục địa, và các Sứ Đồ Vực Sâu vẫn hay rao giảng về sự hủy diệt và tận thế. Khái niệm này tương tự như sự kiện trong thần thoại Bắc Âu được gọi là hoặc trong bài hát Nibelungen. Tựa đề của Dainsleif, "Kiếm Sĩ Hoàng Hôn", cũng có cách diễn đạt tương tự.
-- Khẩu hiệu của Khaenri'ah, "Vùng đất này [...] phải dùng máu và sắt để chiến đấu,"có thể ám chỉ đến, một cụm từ nổi tiếng được sử dụng trong Bài phát biểu của Thủ Tướng nước Phổ vào năm 1862.
+- Khẩu hiệu của Khaenri'ah, "Vùng đất này [...] phải dùng máu và sắt để chiến đấu,"có thể ám chỉ đến, một cụm từ nổi tiếng được sử dụng trong Bài phát biểu Máu và Sắt của Thủ Tướng nước Phổ vi:Otto von Bismarck vào năm 1862.
 - Trong khi bản tiếng Anh sử dụng cách diễn đạt "bằng Thép và Máu", bản tiếng Trung sử dụng hoàn toàn khớp với cách diễn đạt trong bài phát biểu lịch sử.

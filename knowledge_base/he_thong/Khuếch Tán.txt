@@ -8,7 +8,7 @@ Sát thương từ phản ứng Khuếch Tán không được coi là sát thư�
 
 ## Tổng Quan
 
-Phản ứng Khuếch Tán sẽ gán ấn nguyên tố (không phải Nguyên Tố Phong) lên toàn bộ mục tiêu trong phạm vi trừ mục tiêu bị kích hoạt Khuếch Tán lên. Khuếch Tán Nguyên Tố, và cũng sẽ gây ST phạm vi nguyên tố tương ứng, tuy nhiên Khuếch Tán Nguyên Tố sẽ chỉ áp dụng trạng thái Ẩm Ướt và gây sát thương nguyên tố tương ứng lên mục tiêu bị kích hoạt Khuếch Tán lên.
+Phản ứng Khuếch Tán sẽ gán ấn nguyên tố (không phải Nguyên Tố Phong) lên toàn bộ mục tiêu trong phạm vi trừ mục tiêu bị kích hoạt Khuếch Tán lên. Khuếch Tán Nguyên Tố Hỏa, Lôi và Băng cũng sẽ gây ST phạm vi nguyên tố tương ứng, tuy nhiên Khuếch Tán Nguyên Tố Thủy sẽ chỉ áp dụng trạng thái Ẩm Ướt và gây sát thương nguyên tố tương ứng lên mục tiêu bị kích hoạt Khuếch Tán lên.
 
 Khi kích hoạt phản ứng Khuếch Tán, vùng nguyên tố khuếch tán có thể gây ra các phản ứng thứ cấp. Sát thương từ các phản ứng thứ cấp này sẽ dựa trên Tinh Thông Nguyên Tố và cấp của nhân vật nguyên tố Phong. Từ đó các nhân vật nguyên tố Phong có thể gián tiếp gây ra hầu hết các phản ứng. Ví dụ:
 - Mục tiêu 1 mang ấn Hỏa.

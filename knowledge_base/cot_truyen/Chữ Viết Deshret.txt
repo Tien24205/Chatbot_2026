@@ -6,6 +6,6 @@ type: Ngôn Ngữ
 
 Chữ Viết Deshret nhắc đến hệ thống chữ viết được tìm thấy trong tàn tich ở Biển Cát Đỏ.
 
-Chữ viết này dường như được dựa trên bảng chữ cái Teyvat và được lấy cảm hứng từ. Ngôn ngữ này thường được sử dụng để viết các từ và câu.
+Chữ viết này dường như được dựa trên bảng chữ cái Teyvat và được lấy cảm hứng từ vi:Chữ tượng hình Ai Cập. Ngôn ngữ này thường được sử dụng để viết các từ và câu Ai Cập.
 
 Đá Thánh Chương và Bia Đá Xói Mòn được đánh dấu với các chữ cái lấy từ Chữ Viết Deshret.

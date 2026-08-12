@@ -9,7 +9,7 @@ group2: Sự Kiện Trở Lại
 
 Nhật Ký Hành Trình là một Sự Kiện mở khoá ở Hạng Mạo Hiểm 20. Một khi mở khóa, người chơi có thể hoàn thành các nhiệm vụ hằng ngày, hằng tuần và các kỳ Nhật Ký khác nhau để đạt được Kinh Nghiệm Nhật Ký Hành Trình.
 
-Mỗi 50 cấp của Nhật Ký Hành Trình yêu cầu 1000 Kinh Nghiệm. Khi đạt đến mỗi cấp, người chơi sẽ mở khóa phần thưởng tùy thuộc vào loại Nhật Ký Hành Trình (Nhật Ký Hành Trình Trái Đất hoặc Nhật Ký Hành Trình Trân Châu). có thể được sử dụng để tăng cấp độ. Trò chơi sẽ tự động đặt số lượng cần thiết để đạt được cấp độ tiếp theo kết thúc bằng 0 hoặc 50, nhưng số lượng có thể được chỉnh theo ý muốn.
+Mỗi 50 cấp của Nhật Ký Hành Trình yêu cầu 1000 Kinh Nghiệm. Khi đạt đến mỗi cấp, người chơi sẽ mở khóa phần thưởng tùy thuộc vào loại Nhật Ký Hành Trình (Nhật Ký Hành Trình Trái Đất hoặc Nhật Ký Hành Trình Trân Châu).Nguyên Thạch có thể được sử dụng để tăng cấp độ. Trò chơi sẽ tự động đặt số lượng cần thiết để đạt được cấp độ tiếp theo kết thúc bằng 0 hoặc 50, nhưng số lượng có thể được chỉnh theo ý muốn.
 
 Mua gói Nhật Ký Hành Trình Trân Châu hoặc Bài Ca Trân Châu cho phép bạn nhận phần thưởng từ tất cả các cấp đã mở khóa trước đó trong kỳ Nhật Ký hiện tại. Các gói này phải được mua lại sau mỗi kỳ Nhật Ký.
 

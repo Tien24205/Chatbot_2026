@@ -10,7 +10,7 @@ region: Natlan
 
 ## Tổng Quan
 
-Hiện tại không biết bộ tộc này được thành lập khi nào. Theo Ranjit, Con Của Tiếng Vang là những người thợ mỏ, thợ khai quật và giám định đá quý tài giỏi sống trong các mỏ ở phía đông Natlan. Tepetlisaur giúp họ bằng cách khai thác và tìm ra những quặng tốt nhất, và khi Con Của Tiếng Vang tìm thấy một loại đá quý rất đặc biệt, họ trang trí vũ khí và đồ trang sức của mình bằng loại đá quý đó. Họ cũng thích. Bộ tộc này coi "đá" là một trong những biểu tượng của họ.
+Hiện tại không biết bộ tộc này được thành lập khi nào. Theo Ranjit, Con Của Tiếng Vang là những người thợ mỏ, thợ khai quật và giám định đá quý tài giỏi sống trong các mỏ ở phía đông Natlan. Tepetlisaur giúp họ bằng cách khai thác và tìm ra những quặng tốt nhất, và khi Con Của Tiếng Vang tìm thấy một loại đá quý rất đặc biệt, họ trang trí vũ khí và đồ trang sức của mình bằng loại đá quý đó. Họ cũng thích Breakdance. Bộ tộc này coi "đá" là một trong những biểu tượng của họ.
 
 - Ixquieh (Thủ lĩnh đương thời) - Sakkuk (Thủ lĩnh đương thời) - Sundjatta (Thủ lĩnh đương thời) - Traore
 
@@ -19,5 +19,5 @@ Hiện tại không biết bộ tộc này được thành lập khi nào. Theo 
 ## Từ Nguyên
 
 - Nanatzcayan trong Nahuatl nghĩa là "nơi mà nó va chạm."
-- Giống như các bộ tộc đã biết khác, Nanatzcayan có thể có nguồn gốc từ Ilhuicatl-Nanatzcayan, thiên đường của những cơn bão từ trong thần thoại Aztec.
+- Giống như các bộ tộc đã biết khác, Nanatzcayan có thể có nguồn gốc từ Ilhuicatl-Nanatzcayan, thiên đường của những cơn bão từ Mười Ba Thiên Đường trong thần thoại Aztec.
 - Trong tên gọi của thiên đường Aztec (còn được gọi là Ilhuicatl-Itzapan-Nanatzcayan "bầu trời nơi những viên đá obsidian va chạm trong nước"), "tiếng va chạm" ám chỉ đến tiếng ồn trước cơn mưa đá.

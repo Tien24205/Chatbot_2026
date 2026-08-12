@@ -30,6 +30,6 @@ voiceKR: Oh Ro-ah (ko|오로아)
 
 ## Tổng Quan
 
-Jahoda là một nhân vật hệ chơi được trong Genshin Impact.
+Jahoda là một nhân vật hệ Phong chơi được trong Genshin Impact.
 
 Một nhân viên của Hội Đồng Bí Mật và tự xưng là một thợ săn tiền thưởng huyền thoại. Jahoda từng là một thành viên của Bang Móc Biển, cô được Nefer thu nhận để trở thành thành viên tiền tuyến duy nhất, nhằm che đậy các hoạt động và nguồn tin của Nefer dưới Mạng Lưới Tình Báo Bắc Đại Lục.

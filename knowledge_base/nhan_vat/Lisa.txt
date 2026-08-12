@@ -27,7 +27,7 @@ voiceKR: w|ko:박고운|Park Go-woon (ko|박고운)
 
 ## Tổng Quan
 
-Lisa Minci là một nhân vật hệ mà người chơi có thể điều khiển trong Genshin Impact.
+Lisa Minci là một nhân vật hệ Lôi mà người chơi có thể điều khiển trong Genshin Impact.
 
 Cô là Ma Đạo Sư mạnh mẽ và được công nhận là thiên tài xuất sắc trong 200 năm của Giáo Viện Sumeru, Lisa trở về Mondstadt trở thành Thủ Thư khiêm tốn của Đội Kỵ Sĩ Tây Phong.
 

@@ -136,7 +136,7 @@ Tinh Thông Nguyên Tố sẽ tăng sát thương phản ứng chuyển hóa the
 
 TTNT và % Bội Số TTNT chịu sự bão hòa chỉ số (hay quy luật hiệu suất giảm dần). Ở TTNT rất thấp (gần với 0), 100 TTNT sẽ tăng khoảng 75% vào % Bội Số TTNT. Tuy vậy, ở mức TTNT rất cao (gần 1000), 100 TTNT chỉ cho khoảng 35%.
 
-Phản ứng chuyển hóa có thể cấp nguyên tố trên diện rộng để tạo phản ứng khuếch đại. Cho đến hiện tại, Khuếch Tán là phản ứng duy nhất có khả năng làm điều đó. Ví dụ, khi được cấp lên một mục tiêu bị ảnh hưởng bởi nguyên tố, Khuếch Tán Hỏa sẽ diễn ra và nó có thể đánh vào một mục tiêu bị ảnh hưởng bởi nguyên tố ở gần đó. Sau đó, phản ứng khuếch đại sẽ thêm một bội số mới ("Bội Số Khuếch Đại") lên sát thương gây ra lên mục tiêu bị ảnh hưởng bởi nguyên tố Thủy, và cách tính toán sẽ được trình bày ở phần sau.
+Phản ứng chuyển hóa có thể cấp nguyên tố trên diện rộng để tạo phản ứng khuếch đại. Cho đến hiện tại, Khuếch Tán là phản ứng duy nhất có khả năng làm điều đó. Ví dụ, khi Phong được cấp lên một mục tiêu bị ảnh hưởng bởi nguyên tố Hỏa, Khuếch Tán Hỏa sẽ diễn ra và nó có thể đánh vào một mục tiêu bị ảnh hưởng bởi nguyên tố Thủy ở gần đó. Sau đó, phản ứng khuếch đại sẽ thêm một bội số mới ("Bội Số Khuếch Đại") lên sát thương gây ra lên mục tiêu bị ảnh hưởng bởi nguyên tố Thủy, và cách tính toán sẽ được trình bày ở phần sau.
 
 Phản ứng chuyển hóa sẽ bỏ qua phòng ngự của mục tiêu, nhưng kháng sát thương vẫn có hiệu lực. Sát thương mà mục tiêu nhận vào sẽ được tính như sau:
 \text{Sát Thương Nhận Vào}_\text{Chuyển Hóa} = \text{Sát Thương}_\text{Chuyển Hóa} \times \text{Bội Số Kháng Sát Thương}
@@ -223,14 +223,14 @@ Snapshot là khả năng của một số đòn tấn công gây sát thương t
 ## Ví Dụ Về Công Thức
 
 Tình huống ví dụ như sau:
-- ở Cấp 70 với các chỉ số sau: Tấn Công là 1500, Tinh Thông Nguyên Tố là 150, Sát Thương Bạo Kích là 80% và là 40%.
-- cấp lên một Fatui - Người Xử Lý Nợ Hỏa Cấp 75.
-- với bộ 4 Bóng Hình Màu Xanh lên kẻ địch, khiến kháng nguyên tố Thủy của Fatui - Người Xử Lý Nợ Hỏa giảm đi 40% (hay 0,4).
+- ở Cấp 70 với các chỉ số sau: Tấn Công là 1500, Tinh Thông Nguyên Tố là 150, Sát Thương Bạo Kích là 80% và Tăng Sát Thương Nguyên Tố Thủy là 40%.
+- cấp Ẩm Ướt lên một Fatui - Người Xử Lý Nợ Hỏa Cấp 75.
+- với bộ 4 Bóng Hình Màu Xanh Khuếch Tán lên kẻ địch, khiến kháng nguyên tố Thủy của Fatui - Người Xử Lý Nợ Hỏa giảm đi 40% (hay 0,4).
 
-#Trạng thái biến mất.
-- với Cung Mệnh 2, Mảnh Đạn Vỡ Vụn, gây, khiến Fatui - Người Xử Lý Nợ Hỏa bị ảnh hưởng nguyên tố và Phòng Ngự bị giảm đi 23%.
+#Trạng thái Ẩm Ướt biến mất.
+- với Cung Mệnh 2, Mảnh Đạn Vỡ Vụn, gây Sát thương Nguyên Tố Hỏa, khiến Fatui - Người Xử Lý Nợ Hỏa bị ảnh hưởng nguyên tố Hỏa và Phòng Ngự bị giảm đi 23%.
 - thi triển Quỹ Đạo Tinh Mệnh cấp 6, tạo phản ứng Bốc Hơi không có sát thương và xóa bỏ ấn Hỏa.
-- gây lên Fatui - Người Xử Lý Nợ Hỏa, phá hủy Bóng Nước được nhận thêm 52% Tăng Sát Thương và gây Bạo Kích và Bốc Hơi.
+- gây Sát thương Nguyên Tố Hỏa lên Fatui - Người Xử Lý Nợ Hỏa, phá hủy Bóng Nước được nhận thêm 52% Tăng Sát Thương và gây Sát thương Nguyên Tố Thủy Bạo Kích và Bốc Hơi.
 
 Chúng ta tính toán lượng sát thương mà Mona gây ra ở bước cuối như sau:
 \begin{align} \text{Bội Số Phòng Ngự}_\text{Fatui - Người Xử Lý Nợ Hỏa} & {} = \frac{70+100}{[1-0,23_\text{Klee}](75+100)+70+100} \\ & = 0,55783 \end{align}
@@ -239,4 +239,4 @@ Chúng ta tính toán lượng sát thương mà Mona gây ra ở bước cuối
 \begin{align} \text{Bội Số TTNT}_\text{Khuếch Đại} & {} = 2,78 \times \frac{150}{150 + 1400} \\ & = 0,26903 \end{align}
 \begin{align} \text{do đó } \text{Bội Số Khuếch Đại} & {} = [2]_\text{Bốc Hơi} \times [1+0,26903_\text{Bội Số TTNT}] \\ & = 2,53806 \end{align}
 \begin{align} \text{Sát Thương}_\text{Bạo Kích} & {} = 1500 \times [6,19]_\text{Tinh Mệnh} \\ &\quad \times [1+0,4_\text{Tăng ST Nguyên Tố Thủy}+0,52_\text{Tinh Mệnh}]_\text{Tăng Sát Thương} \\ &\quad \times 0,55783_\text{Bội Số Phòng Ngự} \times 1,15_\text{Bội Số Kháng Sát Thương} \\ &\quad \times 2,53806_\text{Bội Số Khuếch Đại} \\ &\quad \times [1+0,8]_\text{Bạo Kích} \\ & = 52246,50 \end{align}
-Do Đó, Quỹ Đạo Tinh Mệnh sẽ gây.
+Do Đó, Quỹ Đạo Tinh Mệnh sẽ gây 52247 sát thương Nguyên Tố Thủy.

@@ -35,7 +35,7 @@ voiceKR: w|ko:정주원|Jeong Joo-won (ko|정주원)
 
 ## Tổng Quan
 
-Kaeya Alberich là một nhân vật hệ mà người chơi có thể điều khiển trong Genshin Impact.
+Kaeya Alberich là một nhân vật hệ Băng mà người chơi có thể điều khiển trong Genshin Impact.
 
 Kaeya là Đội Trưởng Kỵ Binh của Đội Kỵ Sĩ Tây Phong. Anh được người dân của Mondstadt quý trọng dù mang tính cách lập dị và ẩn giấu nhiều bí mật.
 

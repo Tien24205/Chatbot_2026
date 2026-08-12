@@ -57,22 +57,22 @@ Arlecchino có một Vision Hỏa gắn trên lưng phía dưới đuôi tóc, C
 ## Fatui
 
 - 11 Quan Chấp Hành của Fatui
-- Tartaglia ()
-- Signora ()
-- Arlecchino ()
+- Tartaglia (Lôi)
+- Signora (Băng)
+- Arlecchino (Hỏa)
 - Fatui - Thuật Sĩ Cicin
-- Thuật Sĩ Cicin Lôi ()
+- Thuật Sĩ Cicin Lôi (Lôi)
 - Lyudochka Snezhevna (trước đây)
 - Katarina Snezhevna
-- Thuật Sĩ Cicin Băng ()
+- Thuật Sĩ Cicin Băng (Băng)
 - Tae
 - Fatui - Người Xử Lý Nợ
-- Người Xử Lý Nợ Hỏa ()
+- Người Xử Lý Nợ Hỏa (Hỏa)
 - Fatui - Thiếu Nữ
-- Thiếu Nữ Kính ()
+- Thiếu Nữ Kính (Thủy)
 - Fatui - Đặc Vụ
-- Đặc Vụ Băng ()
-- Đặc Vụ Gió ()
+- Đặc Vụ Băng (Băng)
+- Đặc Vụ Gió (Phong)
 
 - Crepus (đã chết) - Diluc (trước đây) - Kirya - Yelena (đã chết) - Quân Kháng Chiến Watatsumi (trước đây) - Teppei (đã chết)
 

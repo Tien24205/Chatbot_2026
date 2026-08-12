@@ -5,8 +5,8 @@
 type: Loại Vật Phẩm
 
 Nguyên Liệu Bồi Dưỡng Thiên Phú (hay còn được gọi là Nguyên Liệu Thiên Phú Nhân Vật hay Nguyên Liệu Tăng Cấp Nhân Vật) lầ Nguyên Liệu được sử dụng cùng với Nguyên Liệu Đột Phá Thường để tăng cấp thiên phú của Nhân Vật. Những nguyên liệu có độ hiếm cao hơn cũng có thể có được thông qua Ghép bằng cách kết hợp các vật liệu cùng loại có độ hiếm thấp hơn. Lấy ví dụ:
-- có thể kết hợp để tạo.
-- có thể kết hợp để tạo.
+- Bài Giảng Của "Tự Do" có thể kết hợp để tạo Hướng Dẫn Của "Tự Do".
+- Hướng Dẫn Của "Tự Do" có thể kết hợp để tạo Triết Học Của "Tự Do".
 
 Vì vài Nguyên Liệu Nâng Cấp Thiên Phú trông giống sách (hoặc cuộn), chúng thường được gọi là "sách thiên phú".
 

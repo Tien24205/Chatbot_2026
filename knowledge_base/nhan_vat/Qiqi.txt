@@ -23,6 +23,6 @@ voiceCN: Yanning (宴宁)
 voiceJP: w|Yukari Tamura|Yukari Tamura (田村ゆかり)
 voiceKR: w|ko:이슬 (성우)|Lee Seul (이슬)
 
-- Tổng Quan: là một nhân vật chơi được hệ trong Genshin Impact. Sau khi được tiên nhân hồi sinh thành cương thi, cô ấy nhận được sự chăm sóc của Baizhu và làm việc tại Hiệu thuốc Bubu ở Cảng Liyue.
+- Tổng Quan: là một nhân vật chơi được hệ Băng trong Genshin Impact. Sau khi được tiên nhân hồi sinh thành cương thi, cô ấy nhận được sự chăm sóc của Baizhu và làm việc tại Hiệu thuốc Bubu ở Cảng Liyue.
 
 - Cầu nguyện thường Du Hành Thế Gian (không giới hạn thời gian) - Cầu nguyện cho Nhà Lữ Hành mới (không giới hạn thời gian cho đến khi đủ 20 lần cầu nguyện) - Tất cả Sự Kiện Cầu Nguyện Nhân Vật
