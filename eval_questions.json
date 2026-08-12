@@ -277,6 +277,12 @@
       "q": "Có bao nhiêu NPC?",
       "type": "suy_luan",
       "expect_contains": ["154"]
+    },
+    {
+      "q": "Liệt kê các nhân vật chơi được",
+      "type": "suy_luan",
+      "_ghi_chu": "Đường liệt kê tất định: danh sách đầy đủ chỉ tồn tại dưới dạng tập hợp trang, không trang nào viết sẵn — model từng từ chối thật thà. Kỳ vọng chứa 2 tên ở hai đầu bảng chữ cái.",
+      "expect_contains": ["Nahida", "Yun Jin"]
     }
   ],
   "_ghi_chu_graph": [

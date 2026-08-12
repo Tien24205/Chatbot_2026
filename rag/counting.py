@@ -25,9 +25,18 @@ import psycopg
 from . import graph
 
 # "Có tổng cộng bao nhiêu Kiếm Đơn trong game?" -> "kiếm đơn"
+_TAIL = r"\s*(?:trong\s+(?:kho|tài liệu|game|trò chơi|genshin)\b[^?]*)?[?.!…\s]*$"
 _COUNT_Q = re.compile(
-    r"bao nhiêu\s+(?:loại\s+|trang\s+)?(.+?)\s*"
-    r"(?:trong\s+(?:kho|tài liệu|game|trò chơi|genshin)\b[^?]*)?[?.!…\s]*$",
+    r"bao nhiêu\s+(?:loại\s+|trang\s+)?(.+?)" + _TAIL,
+    re.IGNORECASE,
+)
+# "Liệt kê các nhân vật chơi được" / "có những Trọng Kiếm nào?" -> liệt kê ĐỦ.
+# Cùng gốc với đếm: danh sách đầy đủ chỉ tồn tại dưới dạng TẬP HỢP TRANG, không
+# trang nào viết sẵn — đo được: "liệt kê các nhân vật chơi được" bị model từ
+# chối thật thà dù kho có đủ 120 trang, vì ngữ cảnh không thể chứa danh sách.
+_LIST_Q = re.compile(
+    r"(?:liệt kê|kể tên|danh sách)\s+(?:các\s+|những\s+|tất cả\s+)?(.+?)" + _TAIL
+    + r"|có những\s+(.+?)\s+nào\b",
     re.IGNORECASE,
 )
 
@@ -58,7 +67,8 @@ def _kinds_for(phrase: str) -> list[str]:
 
 def try_count(conn: psycopg.Connection, question: str) -> str | None:
     """
-    Câu trả lời đếm tất định, hoặc None nếu câu hỏi không thuộc dạng đếm-theo-loại.
+    Câu trả lời đếm HOẶC liệt kê tất định; None nếu câu hỏi không thuộc dạng
+    đếm/liệt-kê-theo-loại (rơi về pipeline thường).
 
     Chỉ đếm thực thể CẤP TRANG (definition = ''): mỗi trang wiki một thực thể,
     kind từ infobox. Thực thể con trong trang (mục `- Tên: định nghĩa`) không
@@ -66,10 +76,14 @@ def try_count(conn: psycopg.Connection, question: str) -> str | None:
     """
     if not graph.is_built(conn):
         return None
-    m = _COUNT_Q.search(question)
-    if not m:
+    mode, phrase = "", ""
+    if m := _COUNT_Q.search(question):
+        mode, phrase = "count", m.group(1)
+    elif m := _LIST_Q.search(question):
+        mode, phrase = "list", m.group(1) or m.group(2)
+    if not phrase:
         return None
-    kinds = _kinds_for(m.group(1))
+    kinds = _kinds_for(phrase)
     if not kinds:
         return None
 
@@ -89,13 +103,22 @@ def try_count(conn: psycopg.Connection, question: str) -> str | None:
         by_kind.setdefault(kind, []).append(name)
 
     total = len(rows)
-    parts = [f"Trong kho tài liệu hiện có **{total} trang** loại {m.group(1).strip()}."]
-    if len(by_kind) > 1:
-        parts.append(
-            "Chia theo loại: " + " · ".join(f"{k} {len(v)}" for k, v in sorted(by_kind.items()))
-        )
-    sample = [n for names in by_kind.values() for n in names][:8]
-    parts.append(f"Ví dụ: {', '.join(sample)}{'…' if total > len(sample) else '.'}")
+    phrase = phrase.strip()
+    parts = [f"Trong kho tài liệu hiện có **{total} trang** loại {phrase}."]
+    if mode == "list":
+        # Liệt kê ĐỦ, không cắt mẫu: đây chính là điều người hỏi cần, và danh
+        # sách dài nhất (vũ khí, 227 tên) vẫn chỉ vài KB chữ.
+        for kind, names in sorted(by_kind.items()):
+            head = f"**{kind} ({len(names)})**: " if len(by_kind) > 1 else ""
+            parts.append(head + ", ".join(names) + ".")
+    else:
+        if len(by_kind) > 1:
+            parts.append(
+                "Chia theo loại: "
+                + " · ".join(f"{k} {len(v)}" for k, v in sorted(by_kind.items()))
+            )
+        sample = [n for names in by_kind.values() for n in names][:8]
+        parts.append(f"Ví dụ: {', '.join(sample)}{'…' if total > len(sample) else '.'}")
     parts.append(
         "_Đếm tất định từ đồ thị tri thức (mỗi trang wiki một thực thể, loại lấy từ "
         "infobox) — không qua LLM. Con số phản ánh kho tài liệu đã cào, không nhất "
