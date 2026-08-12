@@ -37,7 +37,13 @@ MAX_HISTORY_TURNS = 6
 # vớt được vài mục. Đo được: hỏi "có bao nhiêu phản ứng nguyên tố?", mục "Phản
 # Ứng Chuyển Hóa" (chứa 9/13 cái tên) xếp hạng 15 — không bao giờ vào top-6.
 # Gặp dạng câu này thì nạp thêm TRỌN TRANG của hit hạng 1 vào ngữ cảnh.
-_AGGREGATE_MARKERS = ("bao nhiêu", "tổng cộng", "tất cả", "liệt kê", "gồm những", "có những")
+# "các loại X" bổ sung sau khi đo: câu "các loại phản ứng nguyên tố" không khớp
+# marker nào nên không nạp trọn trang, top-6 bị trang Hỏa chiếm hạng 1 và câu
+# trả lời chỉ có phản ứng của riêng Hỏa (đúng phạm vi nhưng thiếu bức tranh đủ).
+_AGGREGATE_MARKERS = (
+    "bao nhiêu", "tổng cộng", "tất cả", "liệt kê", "gồm những", "có những",
+    "các loại", "những loại", "mấy loại", "loại nào",
+)
 # Trần mở rộng: trang wiki hiện tại trung bình ~2,5 chunk nhưng trang hệ thống
 # lớn có thể 16 chunk (Thuyết Định Lượng Nguyên Tố). 12 chunk ~ 14k ký tự, đủ
 # trọn mọi trang trừ vài trang ngoại cỡ, mà không làm prompt phình gấp ba.
