@@ -202,6 +202,83 @@
       "expect_contains": ["227"]
     }
   ],
+  "_ghi_chu_stress": [
+    "Bộ CÂU KHÓ — soạn sau khi bộ 25 câu chính đạt 25/25 (thước bão hoà thì không",
+    "còn chỉ ra điểm yếu nữa). Chủ đích mỗi câu:",
+    "  1-2: đa bước / tra chi tiết trong infobox;",
+    "  3: dữ kiện chỉ tồn tại ở trang khác (Nham không có trang riêng trong kho);",
+    "  4: chi tiết sâu trong trang dài nhất kho;",
+    "  5: so sánh BA bên (đồ thị chỉ được thiết kế cho hai);",
+    "  6: tiếng lóng (pity/banner) + con số cụ thể;",
+    "  7-9: bẫy từ chối — cùng miền Genshin/HoYoverse nhưng kho không có đáp án;",
+    "  10: đường đếm tất định với bí danh nhóm NPC.",
+    "Mọi expect đối chiếu tay với file nguồn 2026-08-12; con số đếm gắn bản chụp KB.",
+    "Câu HỎNG ở đây là THÔNG TIN chứ không phải lỗi phải sửa ngay — đó là mục đích.",
+    "",
+    "KẾT QUẢ LẦN ĐẦU: 8/10, tìm ra đúng hai điểm yếu:",
+    "  - câu 5 (so sánh BA bên): Liyue.txt vắng khỏi ngữ cảnh vì mở rộng ưu tiên",
+    "    chunk nhắc-nhiều-bên; model từ chối ĐÚNG quy tắc 5. Đã sửa: mỗi thực thể",
+    "    được nhắc phải có mặt (expand_with_entities bước 1) -> 9/10, bộ chính",
+    "    25/25 giữ nguyên.",
+    "  - câu 4 (Ấn Ngầm): 0.791 < τ=0.82 — thuật ngữ sâu hiếm gặp điểm thấp, lớp 2",
+    "    chặn đúng thiết kế. GIỮ làm giới hạn đã biết: hạ ngưỡng vì một câu là đổi",
+    "    an toàn toàn cục lấy một ca hiếm."
+  ],
+  "questions_stress": [
+    {
+      "q": "Thần của quốc gia đầu tiên mà Nhà Lữ Hành đặt chân đến là ai?",
+      "type": "suy_luan",
+      "expect_contains": ["Barbatos"],
+      "expect_any_source": ["Mondstadt.txt"]
+    },
+    {
+      "q": "Kiếm Sắt Đen có chỉ số tấn công cơ bản bao nhiêu?",
+      "type": "suy_luan",
+      "expect_contains": ["39"],
+      "expect_any_source": ["Kiếm Sắt Đen.txt"]
+    },
+    {
+      "q": "Hỏa có phản ứng với Nham không?",
+      "type": "suy_luan",
+      "expect_contains": ["Kết Tinh"],
+      "expect_any_source": ["Hỏa.txt"]
+    },
+    {
+      "q": "Ấn Ngầm được tạo ra khi nào?",
+      "type": "suy_luan",
+      "expect_contains": ["tiêu hao"],
+      "expect_any_source": ["Thuyết Định Lượng Nguyên Tố.txt"]
+    },
+    {
+      "q": "Mondstadt, Liyue và Inazuma khác nhau thế nào?",
+      "type": "suy_luan",
+      "expect_contains": ["Mondstadt", "Liyue", "Inazuma"],
+      "expect_any_source": ["Mondstadt.txt", "Liyue.txt", "Inazuma.txt"]
+    },
+    {
+      "q": "Pity của banner vũ khí là bao nhiêu lần?",
+      "type": "suy_luan",
+      "expect_contains": ["80"],
+      "expect_any_source": ["Cầu Nguyện Vũ Khí.txt"]
+    },
+    {
+      "q": "Farm nguyên thạch ở đâu nhanh nhất?",
+      "type": "out_of_scope"
+    },
+    {
+      "q": "Honkai Star Rail có bao nhiêu nhân vật?",
+      "type": "out_of_scope"
+    },
+    {
+      "q": "Nhân vật nào gây sát thương cao nhất trong meta hiện tại?",
+      "type": "out_of_scope"
+    },
+    {
+      "q": "Có bao nhiêu NPC?",
+      "type": "suy_luan",
+      "expect_contains": ["154"]
+    }
+  ],
   "_ghi_chu_graph": [
     "Nhóm riêng cho tầng đồ thị: câu cần ĐỐI CHIẾU nhiều đối tượng cùng vai trò.",
     "Sau khi thu hẹp về một game, cạnh `tương_tự` không còn nối chéo game nữa mà nối",

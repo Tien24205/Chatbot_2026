@@ -100,6 +100,7 @@ def main() -> None:
     ap.add_argument("--all", action="store_true", help="chạy toàn bộ bộ câu hỏi")
     ap.add_argument("--graph", action="store_true", help="chỉ chạy nhóm câu so sánh")
     ap.add_argument("--reasoning", action="store_true", help="chỉ chạy nhóm câu suy luận")
+    ap.add_argument("--stress", action="store_true", help="chỉ chạy nhóm câu khó (tìm điểm yếu)")
     args = ap.parse_args()
 
     data = json.loads(QUESTIONS_FILE.read_text(encoding="utf-8"))
@@ -107,9 +108,12 @@ def main() -> None:
         pool = data["questions_graph"]
     elif args.reasoning:
         pool = data["questions_reasoning"]
+    elif args.stress:
+        pool = data["questions_stress"]
     else:
         pool = data["questions"]
-    questions = pool if (args.all or args.graph or args.reasoning) else pick(pool, args.limit)
+    only_group = args.graph or args.reasoning or args.stress
+    questions = pool if (args.all or only_group) else pick(pool, args.limit)
 
     print("=" * 74)
     print("MILESTONE 6 — ĐÁNH GIÁ CÂU TRẢ LỜI")

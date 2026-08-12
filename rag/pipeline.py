@@ -279,15 +279,44 @@ def expand_with_entities(
         return []
 
     have = {h.id for h in hits}
+    out: list[SearchHit] = []
+
+    # 1) Mỗi thực thể được nhắc phải CÓ MẶT: nếu trang mang tên nó chưa góp chunk
+    #    nào vào ngữ cảnh thì thêm chunk tốt nhất của trang đó. Đo được vì sao
+    #    cần: hỏi "Mondstadt, Liyue và Inazuma khác nhau thế nào?" — vector +
+    #    chunks_mentioning ưu tiên chunk nhắc NHIỀU bên (trang Khí Hậu, trang
+    #    Genshin Impact), Liyue.txt vắng mặt và model từ chối đúng quy tắc 5
+    #    ("thiếu hẳn một bên"). Trang tên có ngoặc ("Durin (NPC).txt") nằm ngoài
+    #    khuôn tên-file-bằng-tên-thực-thể — chấp nhận, ca đó hiếm hơn hẳn.
+    have_sources = {h.source_name for h in hits}
+    for s in seeds[:4]:
+        fname = f"{s}.txt"
+        if fname in have_sources:
+            continue
+        ids = [
+            r[0]
+            for r in conn.execute(
+                "SELECT id FROM chunks WHERE source_name = %s", (fname,)
+            ).fetchall()
+            if r[0] not in have
+        ]
+        best = sorted(hits_for_ids(conn, query_vector, ids), key=lambda h: -h.similarity)[:1]
+        out += best
+        have.update(h.id for h in best)
+        have_sources.add(fname)
+
+    # 2) Chunk NHẮC TỚI thực thể, chấm điểm lại bằng similarity thật với câu hỏi
+    #    (chunks_mentioning với một thực thể trả về theo thứ tự id — lấy bừa là
+    #    rước nhiễu, "Quá Tải" xuất hiện trong cả tá nội tại vũ khí).
     candidates = [
         c["id"]
         for c in graph.chunks_mentioning(conn, seeds, limit=20)
         if c["id"] not in have
     ]
-    if not candidates:
-        return []
-    scored = hits_for_ids(conn, query_vector, candidates)
-    return sorted(scored, key=lambda h: -h.similarity)[:limit]
+    if candidates:
+        scored = hits_for_ids(conn, query_vector, candidates)
+        out += sorted(scored, key=lambda h: -h.similarity)[:limit]
+    return out
 
 
 def expand_with_graph(
