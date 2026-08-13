@@ -22,6 +22,7 @@ và đo được.
 Chi tiết kỹ thuật: [docs/CHONG_HALLUCINATION_VA_GRAPH.md](docs/CHONG_HALLUCINATION_VA_GRAPH.md)
 Nhật ký thiết kế và các bẫy đã vấp: [docs/chatbot_rag_plan.md](docs/chatbot_rag_plan.md)
 Kiến thức cần học để hiểu và làm dự án: [docs/KIEN_THUC_CAN_HOC.md](docs/KIEN_THUC_CAN_HOC.md)
+Hỏi–đáp tổng hợp về dự án: [docs/HOI_DAP_DU_AN.md](docs/HOI_DAP_DU_AN.md)
 
 ---
 
