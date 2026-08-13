@@ -21,6 +21,7 @@ và đo được.
 
 Chi tiết kỹ thuật: [docs/CHONG_HALLUCINATION_VA_GRAPH.md](docs/CHONG_HALLUCINATION_VA_GRAPH.md)
 Nhật ký thiết kế và các bẫy đã vấp: [docs/chatbot_rag_plan.md](docs/chatbot_rag_plan.md)
+Kiến thức cần học để hiểu và làm dự án: [docs/KIEN_THUC_CAN_HOC.md](docs/KIEN_THUC_CAN_HOC.md)
 
 ---
 
@@ -272,7 +273,7 @@ knowledge_base/     1.123 tài liệu wiki Genshin → 2.848 chunk
 ├── npc/            204      ├── he_thong/    183      └── nguyen_to/    7
 └── _manifest.json  URL gốc + liên kết wiki của từng trang (ghi nguồn CC BY-SA)
 
-docs/               chatbot_rag_plan.md, CHONG_HALLUCINATION_VA_GRAPH.md
+docs/               chatbot_rag_plan.md, CHONG_HALLUCINATION_VA_GRAPH.md, KIEN_THUC_CAN_HOC.md
 init.sql            Schema pgvector — số chiều phải khớp EMBED_DIMENSION
 pyproject.toml      Chỉ chứa cấu hình ruff, dự án không đóng gói
 ```
