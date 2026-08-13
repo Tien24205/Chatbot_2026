@@ -1,23 +1,42 @@
 # Chatbot RAG với PostgreSQL + pgvector
 
+Chatbot hỏi đáp tiếng Việt trên knowledge base riêng, xây từ đầu bằng Python
+thuần — **không dùng LangChain hay LlamaIndex** — để mỗi tầng đều nhìn thấy được
+và đo được.
+
 > **Nguồn dữ liệu.** Knowledge base được cào từ
 > [Wiki Genshin Impact tiếng Việt](https://genshin-impact.fandom.com/vi) bằng
 > `09_fetch_fandom.py`, qua MediaWiki API. Nội dung gốc thuộc giấy phép
 > **CC BY-SA**; bản phái sinh trong `knowledge_base/` giữ nguyên giấy phép đó.
 > URL từng trang được ghi trong `knowledge_base/_manifest.json`.
 
-Chatbot hỏi đáp tiếng Việt trên knowledge base riêng, xây từ đầu bằng Python
-thuần — **không dùng LangChain hay LlamaIndex** — để mỗi tầng đều nhìn thấy được
-và đo được.
+---
 
-Điểm khác biệt so với một RAG demo thông thường:
+## Tổng quan
 
-- **Năm lớp chống hallucination**, mỗi lớp chặn một loại lỗi khác nhau, ba trong
-  số đó chạy tất định và không tốn lệnh gọi API.
+Bài toán: cho một kho tài liệu tiếng Việt, dựng chatbot trả lời **chỉ dựa trên
+kho đó** — không bịa, không mượn kiến thức nền của LLM, và nói rõ "không biết"
+khi kho không có câu trả lời.
+
+Bản chạy hiện tại:
+
+| | |
+|---|---|
+| Knowledge base | 1.123 file `.txt` wiki Genshin → **2.848 chunk** |
+| Embedding | `intfloat/multilingual-e5-base`, 768 chiều, **chạy trên máy** — không hạn mức, không cần key |
+| Kho vector | PostgreSQL 16 + pgvector, chỉ mục HNSW, khoảng cách cosine |
+| Đồ thị tri thức | **2.600 thực thể · 24.079 cạnh**, dựng offline bằng regex |
+| Sinh câu trả lời | Gemini `gemini-flash-lite-latest`, nhiệt độ 0 |
+| Giao diện | Streamlit · CLI · REST API (FastAPI) — cùng một pipeline |
+
+Ba điểm khác một RAG demo thông thường:
+
+- **Năm lớp chống hallucination**, mỗi lớp chặn một loại lỗi khác nhau; ba trong
+  số đó chạy tất định và **không tốn lệnh gọi API**.
 - **Tầng đồ thị tri thức (GraphRAG)** đặt cạnh tầng vector, xử lý được câu hỏi so
-  sánh chéo tài liệu mà similarity search về bản chất không làm được.
-- **Mọi hằng số đều đo mà ra**, không chép từ tutorial — kèm số liệu và lý do
-  trong tài liệu.
+  sánh chéo tài liệu và câu đếm — thứ similarity search về bản chất không làm được.
+- **Mọi hằng số đều đo mà ra**, không chép từ tutorial — ngưỡng τ, kích thước
+  chunk, TOP_K đều có số liệu và lý do kèm theo.
 
 Chi tiết kỹ thuật: [docs/CHONG_HALLUCINATION_VA_GRAPH.md](docs/CHONG_HALLUCINATION_VA_GRAPH.md)
 Nhật ký thiết kế và các bẫy đã vấp: [docs/chatbot_rag_plan.md](docs/chatbot_rag_plan.md)
@@ -57,6 +76,19 @@ Câu hỏi ──→ (viết lại nếu là câu nối tiếp) ──→ Simila
               Câu trả lời + trích nguồn + kết quả kiểm chứng
 ```
 
+### Hai giai đoạn
+
+**Nạp dữ liệu (offline, chạy một lần).** Cào wiki qua MediaWiki API → dọn
+wikitext về markdown (`# Tên`, `## Mục`, `- Tên: định nghĩa`) → chunk theo tiêu
+đề `##` trước rồi mới theo kích thước → embed trên máy → ghi vào pgvector. Song
+song đó, cùng bộ tài liệu được quét bằng regex để dựng đồ thị thực thể — bước
+này **không tốn API**.
+
+**Trả lời (online, mỗi câu hỏi).** Truy hồi TOP_K = 6 đoạn gần nhất → so ngưỡng
+τ = 0.82 → mở rộng theo đồ thị nếu là câu so sánh/đếm → ghép ngữ cảnh có đánh số
+`[1][2]` → gọi Gemini → kiểm chứng tất định → leo thang sang kiểm chứng bằng LLM
+chỉ khi có cờ.
+
 ## Năm lớp chống hallucination
 
 | # | Lớp | Chặn loại lỗi | Chi phí |
@@ -70,10 +102,25 @@ Câu hỏi ──→ (viết lại nếu là câu nối tiếp) ──→ Simila
 Lớp 5 mặc định chỉ chạy khi lớp 3-4 đã thấy dấu hiệu khả nghi: thứ regex bắt được
 thì rẻ, thứ nó không bắt được mới đáng tiêu hạn mức API.
 
+## Tầng đồ thị tri thức
+
+Similarity search trả về các đoạn *giống câu hỏi*, nên câu "so sánh A với B" hay
+"có bao nhiêu X" nằm ngoài tầm với của nó về mặt nguyên lý. Đồ thị lấp đúng chỗ đó:
+
+- **Mở rộng theo thực thể** — biết chunk nào nhắc tới thực thể trong câu hỏi,
+  chấm điểm lại bằng similarity thật rồi bổ sung tối đa 2 đoạn ngoài top-k.
+- **Câu so sánh** — kéo về đoạn của *cả hai* thực thể cùng quan hệ giữa chúng,
+  thay vì để top-k nghiêng hẳn về một bên.
+- **Đếm tất định** (`rag/counting.py`) — "có bao nhiêu Kiếm Đơn?" khớp đúng loại
+  trong đồ thị thì đếm bằng SQL: **2 ms, 0 lệnh gọi API, không thể bịa**.
+
+Dựng đồ thị là thao tác offline bằng regex trên khuôn `- Tên: định nghĩa` sẵn có
+của knowledge base, nên chi phí bằng 0 — xem [Giới hạn đã biết](#giới-hạn-đã-biết).
+
 ## Kết quả đo được
 
 Đo trên knowledge base wiki Genshin (1.125 tài liệu / 2.859 chunk, refetch
-2026-08-12 sau khi sửa bộ dọc template), embedding `intfloat/multilingual-e5-base`
+2026-08-12 sau khi sửa bộ dọn template), embedding `intfloat/multilingual-e5-base`
 chạy trên máy, bộ 25 câu hỏi:
 
 | | recall@1 | recall@3 | recall@5 |
@@ -95,8 +142,8 @@ lời", và không model embedding nào sửa được điều đó.
 `03_eval_retrieval.py` đề xuất τ = 0.89 để đạt 0 câu bịa — nhưng nó **chỉ nhìn
 ngưỡng**, coi như không có lớp nào khác, và trả giá bằng độ chính xác toàn cục
 rơi xuống 36% vì từ chối oan hàng loạt. Dự án này có năm lớp, nên chọn
-**τ = 0.82** và để bốn lớp còn lại làm việc của chúng. Đúng nguyên tắc đã ghi
-bên dưới: ngưỡng là hàm của số lớp phòng thủ.
+**τ = 0.82** và để bốn lớp còn lại làm việc của chúng. Đúng nguyên tắc: ngưỡng là
+hàm của số lớp phòng thủ, không phải hằng số của model.
 
 **Đo đầu-cuối bằng `08_eval_answers.py` (25 câu) chứng minh lựa chọn đó:**
 
@@ -109,6 +156,7 @@ bên dưới: ngưỡng là hàm của số lớp phòng thủ.
 
 Con số 25 có được sau khi chẩn đoán từng câu bỏ sót (mốc sau refetch: 21/25)
 và vá đúng bốn thứ đo được:
+
 - **Mở rộng theo thực thể** (`expand_with_entities`): bullet định nghĩa "Quá
   Tải: Gây... vụ nổ" nằm trong trang Hỏa, ngoài top-k của câu hỏi về Quá Tải —
   đồ thị biết chunk nào nhắc tới thực thể trong câu hỏi, chấm điểm lại bằng
@@ -145,17 +193,13 @@ Hai đường mở, đo bằng nhóm `suy_luan` (7 câu, `08_eval_answers.py --r
   `"Suy ra từ [1][2]: 9 + 2 + 2 = 13 loại"`. Lớp 4 miễn kiểm số cho câu này,
   đổi lại nó **bắt buộc** bị lớp 5 kiểm phép tính. Kèm mở rộng trọn trang:
   câu đếm/tổng hợp tự nạp thêm toàn bộ trang liên quan vào ngữ cảnh.
-- **Đếm tất định** (`rag/counting.py`) — "có bao nhiêu Kiếm Đơn?" khớp đúng
-  loại trong đồ thị thì đếm bằng SQL: **2 ms, 0 lệnh gọi API, không thể bịa**.
-  Chỉ whitelist loại danh-mục (một trang = một cá thể); loại khái niệm rơi về
-  đường suy luận có đánh dấu.
+- **Đếm tất định** (`rag/counting.py`) — chỉ whitelist loại danh-mục (một trang
+  = một cá thể); loại khái niệm rơi về đường suy luận có đánh dấu.
 
 Kết quả: **6/7 đạt, 0 cờ oan, 0 câu ngoài phạm vi bị trả lời**. Câu duy nhất
 chưa đạt ("có tổng cộng bao nhiêu phản ứng nguyên tố?") là từ chối **đúng
 luật**: trang nguồn liệt kê ba nhóm phản ứng nhưng không hề nói đó là tất cả —
 giữ lại làm thước đo tính thận trọng.
-
----
 
 <details>
 <summary>Số liệu cũ — knowledge base 4 tài liệu game viết tay, Gemini embedding</summary>
@@ -174,9 +218,6 @@ Latency trung vị: truy hồi 413 ms · sinh câu trả lời 1269 ms · **tổ
 
 Truy hồi (25 chunk): **recall@1 = 100%** cả về đúng file lẫn đúng mục.
 
-**Phát hiện đáng nói nhất: ngưỡng similarity là hàm của số lớp phòng thủ, không
-phải hằng số của model.**
-
 | | τ = 0.66 | τ = 0.60 |
 |---|---|---|
 | Câu trả lời được nhưng bị từ chối oan | **2** | **0** |
@@ -191,6 +232,8 @@ năm lớp phía sau thì hạ được ngưỡng mà không mất an toàn.
 > vẫn đạt 0.513.
 
 </details>
+
+---
 
 ## Cài đặt
 
@@ -240,6 +283,14 @@ Hai giao diện khác cho cùng một pipeline:
 `streamlit_app.py` gọi thẳng `rag.pipeline`, không cần uvicorn chạy kèm. `api.py`
 chỉ còn là REST API (tài liệu tự sinh ở `/docs`), không phục vụ giao diện nữa.
 
+Tải lại knowledge base từ wiki (không tốn hạn mức API, xuất ra thư mục riêng để
+soi trước khi chép vào `knowledge_base/`):
+
+```powershell
+.venv\Scripts\python.exe 09_fetch_fandom.py --list-categories
+.venv\Scripts\python.exe 09_fetch_fandom.py --stage1 --stage2 --stage3
+```
+
 ## Cấu trúc
 
 Thư mục gốc chỉ chứa **script đánh số theo bước** (chạy trực tiếp) và cấu hình.
@@ -258,9 +309,11 @@ rag/                Thư viện — không script nào ở đây chạy trực t
 ├── local_embed.py  multilingual-e5-base — không hạn mức, không cần key
 ├── store.py        pgvector: lưu, tìm, kiểm tra khớp số chiều
 ├── graph.py        Đồ thị tri thức: trích thực thể, cạnh, đi đa bước
+├── counting.py     Đếm tất định bằng SQL cho câu "có bao nhiêu X"
 ├── prompt.py       System prompt (8 quy tắc) + ghép ngữ cảnh + trích dẫn
 ├── verify.py       Lớp 3-4: kiểm chứng tất định, không gọi API
 ├── retry.py        Thử lại khi 429, đọc đúng thời gian chờ Google đề nghị
+├── chatlog.py      Ghi lại hội thoại để soi lại sau
 ├── pipeline.py     Ghép toàn tuyến: truy hồi → ngưỡng → LLM → kiểm chứng
 │
 │   Dùng chung, gom về đây để không còn bản chép:
@@ -274,7 +327,7 @@ knowledge_base/     1.123 tài liệu wiki Genshin → 2.848 chunk
 ├── npc/            204      ├── he_thong/    183      └── nguyen_to/    7
 └── _manifest.json  URL gốc + liên kết wiki của từng trang (ghi nguồn CC BY-SA)
 
-docs/               chatbot_rag_plan.md, CHONG_HALLUCINATION_VA_GRAPH.md, KIEN_THUC_CAN_HOC.md
+docs/               Tài liệu thiết kế, kiến thức nền, hỏi–đáp dự án
 init.sql            Schema pgvector — số chiều phải khớp EMBED_DIMENSION
 pyproject.toml      Chỉ chứa cấu hình ruff, dự án không đóng gói
 ```
@@ -308,6 +361,7 @@ chatbot trả lời mọi thứ, kể cả câu hỏi về phở.
 
 - Trích thực thể dựa vào khuôn viết `- Tên: định nghĩa` của knowledge base. Với
   văn xuôi tự do sẽ cần LLM trích thực thể, và chi phí dựng đồ thị không còn bằng 0.
+- Bộ dọn wikitext bỏ toàn bộ bảng `{|...|}`, nên có thể mất nội dung nằm trong bảng.
 - Viết lại câu hỏi nối tiếp có thể nối đại từ sai khi hội thoại dài.
 - Lịch sử hội thoại lưu trong RAM, mất khi restart. Chạy thật cần Redis hoặc bảng
   trong Postgres.
