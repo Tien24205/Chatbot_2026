@@ -1,0 +1,18 @@
+# Trọng Kiếm
+
+## Tổng Quan
+
+type: Loại Vũ Khí
+type2: Hệ Thống Trò Chơi
+
+Trọng Kiếm là một trong năm loại Vũ Khí mà Nhân Vật có thể sử dụng trong Genshin Impact.
+
+Trọng Kiếm hạn chế được sử dụng vì tốc độ tấn công chậm hơn các vũ khí cận chiến khác như Kiếm Đơn và Vũ Khí Cán Dài, nhưng đem lại những đòn tấn công gây sát thương lớn hơn. Trọng Kiếm gây thêm sát thương khi phá vỡ các vật thể Nham. Chúng cũng hiệu quả nhất trong việc khai thác các quặng và các bức tường đá ẩn khu vực bí mật.
+
+- Tấn Công Thường: Tấn Công Thường bao gồm 4-5 đòn tấn công cận chiến chậm, nhưng mạnh và diện rộng hơn.
+
+## Trọng Kích
+
+Tạo một cơn lốc nhỏ trước khi thực hiện một chuỗi tấn công liên tục làm tiêu hao thể lực. Đòn tấn công này sẽ kết thúc bằng một nhát chém mạnh khi nhân vật hết thể lực, thời gian chuỗi tấn công đến giới hạn, hoặc khi người chơi ngừng giữ nút tấn công.
+
+- Thánh Di Vật: Các Bộ Thánh Di Vật sau có liên quan đến cung.

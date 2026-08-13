@@ -1,0 +1,26 @@
+# Bóng Nước
+
+## Tổng Quan
+
+type: Chiến Đấu
+type2: Khám Phá
+
+Bóng Nước là những vật có thể sinh ra từ Địa Mạch Bất Thường, Hào Quang,hoặc từ đòn tấn công từ một số kẻ thù nhất định (Pháp Sư Vực Sâu Thủy, Slime Thủy Lớn).
+
+Pháp Sư Vực Sâu Thủy sẽ sử dụng đòn tấn công giải phóng bóng nước dẫn đường gây Sát Thương Nguyên Tố Thủy khi chạm và sẽ bẫy người chơi bên trong, gây ra bất động giống như Quỹ Đạo Tinh Mệnh của Mona.Những bóng nước này cũng có thể bẫy những kẻ thù khác.
+
+## Bị Bẫy
+
+Nếu người chơi bị bẫy trong bóng nước,một nút màu đỏ sẽ xuất hiện ở bên phải màn hình.Người chơi có thể nhấn liên tục vào nút này (điện thoại) hoặc phím cách (PC) để thoát.
+
+Khi bị bẫy,người chơi sẽ không thể sử dụng các kỹ năng nguyên tố,cũng sẽ không thể chuyển nhân vật khác.Điều này được chỉ ra bằng biểu tượng bị xám trên màn hình.
+
+## Phá Vỡ Và Tránh Bóng Nước
+
+Chống lại đòn tấn công này rất đơn giản vì bản thân bóng nước bay rất dễ vỡ khi tiếp xúc với các vật thể khác người chơi.Sử dụng các đòn tấn công Phạm Vi hoặc đòn tấn công tầm xa có thể khiến nó vỡ ra từ xa hoặc người chơi có thể dụ bóng nước vào mục tiêu khác (kẻ địch hoặc vật thể).
+
+Các cách khác để tránh bóng nước bao gồm:
+- Chạy cho đến khi bóng nước dẫn đường tự vỡ do thời gian tồn tại của nó.
+- Phá vỡ bóng nước bằng cách sử dụng cung hoặc kỹ năng tầm trung.
+- Chặn bóng nước bằng cách sử dụng một vật thể vững chắc bên cạnh người chơi, chẳng hạn như Tạo Vật Nguyên Tố Nham hoặc Bá Tước Thỏ của Amber.
+- Dụ bóng nước va chạm với bóng nước khác để làm cho cả hai vỡ cùng lúc hoặc để nó va chạm vào kẻ địch.

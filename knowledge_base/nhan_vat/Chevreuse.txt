@@ -1,0 +1,26 @@
+# Chevreuse
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+element: Hỏa
+quality: 4
+weapon: Vũ Khí Cán Dài
+arkhe: Ousia
+name: Chevreuse
+birthday: 10 tháng 01
+constellation: Kiếm Súng
+region: Fontaine
+affiliation: Đội Tuần Tra Đặc Biệt
+dish: Tội Ác - Loại Không Nhất Thiết Xử Lý
+namecard: Mẫu II
+obtain: Cầu Nguyện Nhân Vật
+releaseDate: 2024-01-09 18:00:00 GMT+8
+father: Donatello
+mother: Mẹ của Chevreuse
+title: Người Thực Thi Công Lý
+title2: Đội Trưởng Đội Tuần Tra Đặc Biệt
+voiceEN: Erica Lindbeck
+voiceCN: Pan Danni (zh|潘丹妮 )
+voiceJP: w|Shino Shimoji|Shimoji Shino (ja|下地紫野)
+voiceKR: Chae Min-ji (ko|채민지)

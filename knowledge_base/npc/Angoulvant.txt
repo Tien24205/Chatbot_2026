@@ -1,0 +1,14 @@
+# Angoulvant
+
+## Tiểu Sử
+
+type: NPC Sự Kiện
+region: Fontaine
+location: Fontaine
+voiceEN: [[imdb:nm10853569
+
+- Tổng Quan: Angoulvant NPC chỉ xuất hiện trong sự kiện Điệu Van Xoay Vòng.
+
+Angoulvant là chủ mưu của một vụ án buôn lậu xuyên quốc gia, vật buôn lậu là một vũ khí cổ xưa từ Natlan. Kế hoạch của hắn đổ bể sau khi địa điểm giao nhận bí mật đã định cho người mua của hắn, Argenteau, đột nhiên biến thành Phim Trường Vui Vẻ Chevalmarin chỉ sau một đêm. Trong quá trình xây dựng, Lepine-Pauline đã tìm thấy vũ khí bị giấu kín và giao nó cho Palais Mermonia. Sau khi Argenteau bị bắt, anh ta đồng ý hợp tác với Wriothesley để dụ Angoulvant ra để đổi lấy việc giảm án. Kế hoạch đã thành công, và khi Angoulvant cố gắng trốn thoát, Kinich bắt được hắn. Anh đã cho phép Ajaw đánh Angoulvant trước khi Đội Tuần Tra Đặc Biệt đến để bắt giữ hắn. Mặc dù ăn mặc như người Natlan, Kinich vẫn không tin hắn ta vì hắn không nhận ra các anh hùng của Natlan, và Kinich dọa kiện. Hơn nữa, kết quả kiểm tra lý lịch của Wriothesley cho thấy hắn thực chất là một người Fontaine và là một con bạc đang nợ nần chồng chất.
+
+- Ngoại Hình: Angoulvant mặc trang phục nam thường thấy của Con Của Tiếng Vang, nhằm để ngụy trang.

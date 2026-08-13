@@ -19,6 +19,14 @@ pgvector>=0.5,<0.6
 fastapi>=0.141,<1
 uvicorn[standard]>=0.52,<1
 
+# === Embedding chạy trên máy (EMBED_BACKEND=local) ===
+# Cần khi knowledge base lớn: hạn mức free tier của Gemini là 1.000 request/ngày
+# tính theo TÀI KHOẢN Google, và mỗi câu hỏi của người dùng cũng tốn một request.
+# Cài torch bản CPU (~120 MB) thay vì bản CUDA (~2,5 GB):
+#   pip install torch --index-url https://download.pytorch.org/whl/cpu
+sentence-transformers>=3.0,<6
+torch>=2.0,<3
+
 # === Bước 8: giao diện chat (streamlit_app.py) ===
 # Gọi thẳng rag.pipeline, không cần uvicorn chạy kèm.
 streamlit>=1.61,<2

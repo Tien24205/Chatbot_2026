@@ -1,0 +1,29 @@
+# Bảng Cáo Thị Tìm Người
+
+## Thông Tin Cơ Bản
+
+type: Bảng Thông Báo
+region: Inazuma
+area: Đảo Narukami
+subarea: Làng Konda
+
+- Tổng Quan: Bảng Cáo Thị Tìm Người là bảng thông báo ở xung quanh Làng Konda, trên Đảo Narukami. Đến khi hoàn thành Kho báu nông dân, bảng thông báo sẽ không thể tương tác.
+
+## Vị Trí
+
+- Gần cây cầu phía Nam Làng Konda.
+- Dọc theo con đường đi qua Lãnh Địa Bạch Hồ, gần Kết Giới Lôi.
+- Tại ngã tư phía Bắc Điểm Dịch Chuyển của Lãnh Địa Bạch Hồ.
+- Nếu Kho báu nông dân chưa hoàn thành, Saimon Katsumi sẽ ở vị trí bảng và tự giới thiệu bản thân khi đến gần lần đầu.
+- Dọc theo con đường bờ biển từ Lãnh Địa Bạch Hồ đến Rừng Chinju, trên bãi biển phía Bắc của vùng nước nông.
+- Tại ngã tư phía Tây Nam đền bỏ hoang ở Núi Yougou, gần Shinozuka.
+
+## Nội Dung
+
+Con trai Saimon Jirou đã nhập ngũ hơn một năm, thỉnh thoảng vẫn gửi thư về nhà, kể hết những chuyện vui buồn trong quân. Mặc dù không có công lao gì để kể, cũng không có gì to tát để nói, nhưng cũng có thể an ủi người già ở nhà.
+
+Nay chiến sự vẫn còn, con trai chưa lập được công mà đột ngột mất liên lạc. Lâu rồi không thấy hồi âm thư nhà, khiến cha già thấp thỏm không yên, trái tim tan nát.
+
+Bất kể ai đọc được lời này, xin hãy giúp lão tìm con trai. Biết được tung tích của nó, thì dù còn sống hay may mắn được hi sinh vì đất nước, xin hãy cho biết, để người làm cha này được yên lòng.
+
+Nếu muốn trao đổi, Saimon Katsumi xin bày tỏ lòng biết ơn.

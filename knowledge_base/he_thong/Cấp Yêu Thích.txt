@@ -1,0 +1,30 @@
+# Cấp Yêu Thích
+
+## Tổng Quan
+
+type: Tiến Trình
+type2: Hệ Thống Trò Chơi
+
+ Cấp Yêu Thích của Nhân Vật là một thanh tiến trình thể hiện mối quan hệ của họ với Nhà Lữ Hành. Thanh này có thể tăng lên bằng cách nhận EXP Yêu Thích. Tất cả các Nhân vật trong Đội đều tăng một mức như nhau, việc thêm hoặc bớt Nhân vật vào Đội không làm cho các Nhân vật khác nhận được nhiều hoặc ít EXP hơn.
+
+Cấp Yêu Thích dùng để mở khóa Câu Chuyện Nhân Vật, Lồng Tiếng và Danh Thiếp của các nhân vật.
+
+## Cấp Yêu Thích
+
+- Mức độ thiện cảm ban đầu. "Thông Tin Nhân Vật" và một số "Lồng Tiếng" cơ bản đã mở.
+- Mở khóa Câu Chuyện Nhân Vật 1 (trong mục Hồ Sơ) và biểu cảm thứ hai khi Chụp Ảnh. Đồng thời, dòng lồng tiếng "Muốn Tìm Hiểu (Nhân Vật) - Điều thứ 1" sẽ mở nếu chưa có trước đó
+- Mở khóa Câu Chuyện Nhân Vật 2 và dòng lồng tiếng "Muốn Tìm Hiểu (Nhân Vật) - Điều thứ 2".
+- Mở khóa Câu Chuyện Nhân Vật 3, biểu cảm thứ ba khi Chụp Ảnh, và tùy chọn đối thoại mới khi mời nhân vật vào Ấm Trần Ca. Nhiều dòng lồng tiếng khác cũng được mở, bao gồm các nhận xét về nhân vật khác và câu chuyện về món đồ vật đặc biệt của họ.
+- Khai mở Câu Chuyện Nhân Vật 4 và dòng lồng tiếng "Muốn Tìm Hiểu (Nhân Vật) - Điều thứ 4".
+- Mở khóa toàn bộ Câu Chuyện Nhân Vật còn lại (Câu Chuyện Nhân Vật 5, về Vision, và câu chuyện về món đồ vật nếu có) cùng toàn bộ các dòng lồng tiếng gắn liền với Cấp Yêu Thích.
+- Mở khóa thêm tùy chọn nói chuyện mới khi nhân vật ở trong Ấm Trần Ca.
+- Mở khóa thử thách "Vết Tích Tưởng Tượng" (nếu có).
+- Không có gì mới
+- Nhận được Danh Thiếp đặc biệt của nhân vật và tính vào tiến độ thành tựu Những chuyện bạn không biết.
+Cần lưu ý rằng, một vài câu chuyện và dòng lồng tiếng đặc biệt sẽ yêu cầu những điều kiện mở khóa bổ sung, chẳng hạn như phải hoàn thành các nhiệm vụ chỉ định. Ngoài ra, một số dòng lồng tiếng nhất định sẽ không thể mở khóa thông qua việc tăng Cấp Yêu Thích, điển hình như các câu thoại liên quan đến đột phá nhân vật.
+
+## Tăng Cấp Yêu Thích
+
+Có thể nhận EXP Yêu Thích thông qua các phương thức sau:
+
+Lưu ý: Lượng EXP nhận được từ một số cách trên sẽ phụ thuộc vào Hạng Mạo Hiểm của bạn. Đặc biệt, lượng EXP này sẽ được nhân đôi khi tham gia Chế Độ Nhiều Người Chơi. Ngoài ra chỉ những nhân vật trong đội hiện tại mới có thể nhận được EXP Yêu Thích, không áp dụng cho Nhà Lữ Hành hoặc bất kỳ nhân vật nào đã đạt đến Cấp Yêu Thích 10.

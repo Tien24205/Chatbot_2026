@@ -1,0 +1,17 @@
+# Bashar
+
+## Thông Tin Cơ Bản
+
+type: NPC Nhiệm Vụ
+region: Sumeru
+location: Sumeru
+affiliation: Eremite
+title: Thành Viên "Dakan Al-Ahmar"
+voiceEN: [[imdb:nm10983602
+Danny Kramer]]<ref name: "Danny Kramer">Twitter: Thông Báo Từ Diễn Viên Lồng Tiếng Anh (Lưu Trữ)
+
+- Tổng Quan: Bashar là một NPC độc quyền nhiệm vụ, xuất hiện trong.
+
+- Tiểu Sử: (Sẽ được bổ sung.)
+
+- Ngoại Hình: (Sẽ được bổ sung.)

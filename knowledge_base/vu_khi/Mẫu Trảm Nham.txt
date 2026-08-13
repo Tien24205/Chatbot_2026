@@ -1,0 +1,50 @@
+# Mẫu Trảm Nham
+
+## Thông Tin Cơ Bản
+
+id: 11406
+type: Kiếm Đơn
+series: Mẫu
+releaseDate: 2020-09-28
+quality: 4
+base_atk: 44
+2nd_stat_type: Tăng ST Vật Lý
+2nd_stat: 7,5%
+obtain: Rèn
+obtain2: Thưởng Hạng Mạo Hiểm 10
+passive: Đá Vụn
+effect: Khi tấn công thường hoặc trọng kích đánh trúng địch, tấn công và phòng ngự tăng (var1)%, kéo dài 6s, tối đa cộng dồn 4 lần. Mỗi 0,3s mới thi triển 1 lần.
+eff_rank1_var1: 4
+eff_rank2_var1: 5
+eff_rank3_var1: 6
+eff_rank4_var1: 7
+eff_rank5_var1: 8
+eff_att1: Tấn Công
+eff_att2: Phòng Ngự
+eff_att3: Được Kích Hoạt Bằng Tấn Công Thường
+
+- Tổng Quan: Mẫu Trảm Nham là một thanh kiếm đơn của Liyue.
+
+## Câu Chuyện
+
+Thanh kiếm cổ tạo ra ở xưởng chế tạo vũ khí Liyue. Số lô không xác định, thời gian hoàn thành của nó cũng không được ghi chép trong sách cổ.
+
+Thân thanh kiếm cổ được khắc vân mây trôi, khi vung lên phát ra ánh sáng vàng ẩn trong kiếm.
+
+Tương truyền, bởi gặp phải nút thắt trong kỹ thuật, các công nhân bắt buộc phải nghiên cứu ý tưởng chế tạo mới.
+
+Đại chưởng quỹ Yun Hui của đại tộc rèn Yun và nghệ nhân Han Wu cùng thỏa thuận, tập hợp sự khéo léo của hàng vạn nghệ nhân, tạo ra một bộ "bản vẽ mẫu".
+
+Dựa theo tranh tư liệu làm ra một thanh kiếm đơn, kiếm vừa mới thành hình đã ngân vang không dứt.
+
+Khi ở Thiên Hoành Sơn thử kiếm, Han Wu vô tình làm rơi xuống mặt đất.
+
+Kiếm khí theo đó thoát ra, giống cơn bão cuồn cuộn phá vỡ tảng đá thành một vết nứt dài hơn nửa thước.
+
+Han Wu thầm cho rằng đó là ý trời và đặt tên cho thanh kiếm là "Trảm Nham".
+
+Một kiếm rung động núi sông, vạn phong giấu trong lưỡi kiếm.
+
+Chém đá như chém nước, là nguồn gốc đao kiếm của Liyue ngày sau.
+
+- Rèn - Phần thưởng khi đạt Hạng Mạo Hiểm 10 của Hiệp Hội Nhà Mạo Hiểm

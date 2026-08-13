@@ -1,0 +1,39 @@
+# Hấp Thụ Nguyên Tố
+
+## Tổng Quan
+
+type: Chiến Đấu
+
+Hấp Thụ Nguyên Tố là cơ chế được tìm thấy ở một số kỹ năng Phong cho phép có khả năng hấp thụ một trong các nguyên tố Hỏa, Thủy, Lôi, hoặc Băng khi tiếp xúc lần đầu và trở nên cộng hưởng với nguyên tố đó, gây sát thương loại đó kèm theo ST Nguyên Tố Phong hoặc cung cấp hiệu ứng bổ sung dựa trên nguyên tố được hấp thụ.
+
+Nhìn chung, chỉ có thể hấp thụ một loại nguyên tố cho mỗi lần sử dụng. Nếu có nhiều nguyên tố thì sẽ có độ ưu tiên cho nguyên tố hấp thụ. Một số kỹ năng có thể hấp thụ nhiều hơn một nguyên tố.
+
+Không nên nhầm lẫn sát thương nguyên tố cộng thêm do kỹ năng đã hấp thụ một loại nguyên tố với sát thương Khuếch Tán. Sát thương Khuếch Tán là sát thương cố định chỉ dựa trên cấp nhân vật và Tinh Thông Nguyên Tố, trong khi sát thương nguyên tố cộng thêm từ hấp thụ nguyên tố là sát thương thường và ảnh hưởng bởi các chỉ số thường tác động đến Sát Thương, gồmTấn Công, Tỷ Lệ và Sát Thương Bạo Kích, Tăng ST.
+
+## Nguồn Nguyên Tố
+
+Tất cả nhân vật, kẻ thù hoặc vật thể bị ảnh hưởng bởi trạng thái nguyên tố có thể đóng vai trò là Hấp Thụ Nguyên Tố. Điều này cũng gồm trạng thái nguyên tố tự cấp. Trong Chế Độ Nhiều Người Chơi, nguyên tố mà đồng đội bị ảnh hưởng cũng có thể hấp thụ.
+
+Hầu hết kỹ năng nguyên tố của nhân vật không đóng vai trò là hấp thụ nguyên tố, ngoại trừ Guoba Xuất Kích khi bản thân Guoba cộng hưởng với Hỏa khi nó phun lửa.
+
+Nguyên tố được hấp thụ có thể tạo ra ấn hoặc kích hoạt phản ứng. Số lần áp dụng nguyên tố hấp thụ sẽ phụ thuộc vào CD Ngầm của Thiên Phú tương ứng.
+
+## Ưu Tiên Hấp Thụ
+
+Trong trường hợp có thể hấp thụ nhiều nguyên tố, Hấp Thụ Nguyên Tố sẽ hoạt động dựa theo thứ tự ưu tiên.
+
+Với Lynette và Nhà Lữ Hành (Phong), thứ tự ưu tiên là:
+- Băng > Hỏa > Thủy > Lôi
+
+Với nhân vật hệ Phong khác, thứ tự ưu tiên là:
+- Hỏa > Thủy > Lôi > Băng
+
+## Kiểm Tra Ấn
+
+Khi Hấp Thụ Nguyên Tố diễn ra, tất cả mục tiêu trong phạm vi của nó, bao gồm cả đồng minh, sẽ bị dính đòn phi sát thương. Đòn phi sát thương này được game sử dụng để xác định nguyên tố nào hiện có để hấp thụ và thường được gọi là Kiểm Tra Ấn. Kiểm Tra Ấn có thể kích hoạt hiệu ứng trên một số đòn nhất định, chẳng hạn như hiệu ứng Cung Mệnh Tầng 4 của Beidou và Cung Mệnh Tầng 1 của Thoma.
+
+Phạm vi của Kiểm Tra Ấn thường độc lập với phạm vi khác của kỹ năng. Ví dụ, phạm vi của Kiểm Tra Ấn dành cho Kỹ Năng Nộ của Sucrose nhỏ hơn so với phạm vi sát thương gây ra và mục tiêu phải ở gần trung tâm của Phong Linh Cỡ Lớn để Hấp Thụ Nguyên Tố diễn ra.
+
+- Thiên Phú: Các Thiên Phú sau có khả năng hấp thụ các yếu tố.
+
+- Cung Mệnh: Các Cung Mệnh sau mang lại giúp tăng khả năng hấp thụ nguyên tố.

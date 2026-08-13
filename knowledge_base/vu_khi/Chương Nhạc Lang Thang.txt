@@ -1,0 +1,68 @@
+# Chương Nhạc Lang Thang
+
+## Thông Tin Cơ Bản
+
+id: 14402
+type: Pháp Khí
+releaseDate: 2020-09-28
+quality: 4
+base_atk: 42
+2nd_stat_type: ST Bạo Kích
+2nd_stat: 12%
+obtain: Cầu Nguyện
+series: Đoàn Hát Lang Thang
+passive: Nhạc Mở Màn
+effect: Khi nhân vật ra trận, ngẫu nhiên nhận 1 ca khúc, kéo dài 10s. Mỗi 30s mới thi triển 1 lần. Nhạc dạo: Tấn công tăng (var1)%. Điệp khúc: Toàn bộ sát thương nguyên tố tăng (var2)%. Khúc nhạc ngắn: Tinh thông nguyên tố tăng (var3).
+eff_rank1_var1: 60
+eff_rank2_var1: 75
+eff_rank3_var1: 90
+eff_rank4_var1: 105
+eff_rank5_var1: 120
+eff_rank1_var2: 48
+eff_rank2_var2: 60
+eff_rank3_var2: 72
+eff_rank4_var2: 84
+eff_rank5_var2: 96
+eff_rank1_var3: 240
+eff_rank2_var3: 300
+eff_rank3_var3: 360
+eff_rank4_var3: 420
+eff_rank5_var3: 480
+eff_att1: Tấn Công
+eff_att2: Tăng ST Nguyên Tố
+eff_att3: Tinh Thông Nguyên Tố
+
+- Tổng Quan: Chương Nhạc Lang Thang là một pháp khí 4 Sao.
+
+## Ghi Chú
+
+- Khi nhân vật trang bị món vũ khí này ra trận, sẽ ngẫu nhiên nhận được hiệu quả của 1 trong 3 ca khúc: Nhạc dạo, Điệp khúc hoặc Khúc nhạc ngắn. Mỗi ca khúc được biểu thị bằng một nốt nhạc xuất hiện trên đầu nhân vật.
+:
+- Hiệu quả của nội tại chỉ được áp dụng khi nhân vật trang bị vũ khí ra trận.
+- Nếu nhân vật trang bị lên trận, rời trận rồi lại lên trận trong thời gian 10s của một ca khúc, hiệu quả sẽ chỉ kéo dài trong vòng 10s sau khi nhân vật lần đầu lên trận.
+
+## Câu Chuyện
+
+Cuốn sổ ghi chép lại những bản nhạc và ký sự du kí của các thành viên đoàn nhạc, được mọi người dùng chung.
+
+Truy ngược dòng lịch sử về gánh hát rong đó có thể biết rằng, họ giải nghệ trước lúc Mondstadt được xây dựng lại.
+
+Cuốn sổ được lưu truyền giữa các thành viên, ghi lại các thế giới khác nhau.
+
+Từ việc ghi lại quá trình lưu diễn, sự yêu thích của khán giả, nó đã tích giữ được sức mạnh vô cùng to lớn.
+
+Gánh hát rong được thành lập từ hồi quý tộc cũ,
+
+Từng được mọi người hy vọng hoặc nơm nớp sợ hãi gọi là đoàn nhạc kiếm.
+
+Vào thời điểm đó ở Mondstadt, ngay cả thơ cũng không được tự do.
+
+Họ đã dùng kiếm như sáo và cung tên như đàn hạc, mang đến tiếng hát phản kháng.
+
+Cuối cùng, cố gắng đánh vào thành phố, thảo phạt tầng lớp quý tộc cũ chuyên chế.
+
+Đoàn nhạc kiếm không còn nữa, sự kháng cự của họ đã bị lãng quên.
+
+Nhưng ý chí chiến đấu như huyết mạch, sẽ tiếp tục truyền mãi.
+
+- Cầu nguyện thường Du Hành Thế Gian (Không giới hạn thời gian) - Tất cả các sự kiện Cầu Nguyện Nhân Vật và Cầu Nguyện Vũ Khí

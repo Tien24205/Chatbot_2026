@@ -1,0 +1,24 @@
+# Baizhu
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+quality: 5
+weapon: Pháp Khí
+element: Thảo
+name: Baizhu
+birthday: 25 tháng 04
+constellation: Huyền Hồ
+region: Liyue
+affiliation: Nhà Thuốc Bubu
+dish: Chè Thanh Nhiệt Hạ Hỏa
+namecard: Khư Phong
+obtain: Cầu Nguyện Nhân Vật
+event_name: Tâm Sáng Tựa Ngọc
+releaseDate: 2023-05-02 18:00:00
+title: Sinh Tử Giao Hòa
+title2: Chủ Nhân Nhà Thuốc Bubu
+voiceEN: [[imdb:nm2257743
+voiceCN: Qin Qiege (zh|秦且歌) Changsheng: Wang Xiaotong (zh|王晓彤)
+voiceJP: w|Kōji Yusa|Yusa Koji (ja|遊佐 浩二) Changsheng: w|ja:庄子裕衣|Shoji Yui (ja|庄子裕衣)
+voiceKR: w|ko:이호산|Lee Hosan (ko|이호산) Changsheng: Jang Mi (ko|장미)

@@ -1,0 +1,36 @@
+# Raiden Shogun
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+element: Lôi
+weapon: Vũ Khí Cán Dài
+quality: 5
+name: Raiden Shogun
+realname: Raiden Ei
+birthday: 26 tháng 06
+constellation: Thiên Hạ Nhân
+affiliation: Thành Inazuma
+affiliation2: Inazuma Shogunate
+affiliation3: Bảy Vị Thần
+group: Thần
+dish: Không
+namecard: Thức Tỉnh
+region: Inazuma
+obtain: Cầu Nguyện Nhân Vật
+event_name: Cô Độc Giữa Nhân Gian
+releaseDate: 2021-09-01
+title: Nhất Tâm Tịnh Thổ
+title2: Chủ Nhân Vĩnh Hằng Tịnh Thổ
+voiceEN: [[imdb:nm3304361
+voiceCN: Juhuahua (zh|菊花花)
+voiceJP: w|Miyuki Sawashiro|Sawashiro Miyuki (ja|沢城 みゆき)
+voiceKR: w|ko:박지윤_(성우)|Park Ji-yoon (ko|박지윤)
+
+## Tổng Quan
+
+ là nhân vật chơi được hệ Lôi trong Genshin Impact.
+
+Raiden Shogun gồm hai thực thể trong cùng một cơ thể: Ei, Lôi Thần hiện tại của Inazuma, và Shogun, con rối do Ei tạo ra để thay cô cai trị Inazuma.
+
+- Raiden Shogun không thể nấu ăn, cũng không có món ăn đặc biệt.

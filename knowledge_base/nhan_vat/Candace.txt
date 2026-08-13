@@ -1,0 +1,36 @@
+# Candace
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+quality: 4
+weapon: Vũ Khí Cán Dài
+element: Thủy
+name: Candace
+birthday: 03 tháng 05
+constellation: Tiễn Thuẫn
+region: Sumeru
+affiliation: Làng Aaru
+dish: Chăm Sóc Tận Tình
+namecard: Vạc Trời
+obtain: Cầu Nguyện
+releaseDate: 2022-09-28
+title: Thề Nguyện Ánh Kim
+title2: Thủ Hộ Làng Aaru
+voiceEN: [[imdb:nm5338039
+Heather Gonzalez]]<ref name: "Candace EN & JP">Trang Web Chính Thức: Trang Nhân Vật Của Candace
+voiceCN: Zhang Qi (zh|张琦)
+voiceJP: w|Ryoka Yuzuki|Yuzuki Ryoka (ja|柚木涼香)
+voiceKR: w|ko:전영수|Jun Young-soo (ko|전영수)
+
+## Tổng Quan
+
+Candace là một nhân vật chơi được hệ Thủy trong Genshin Impact.
+
+Hậu duệ của Al-Ahmar và là người thủ hộ Làng Aaru, Candace mang thiện ý tuyệt đối với những du khách tới thăm, nhưng sẽ không khoan nhượng trước những kẻ làm điều phi pháp tại ngôi làng nơi cô bảo vệ.
+
+## Có Mặt Trong
+
+- Cầu nguyện thường Du Hành Thế Gian (Vĩnh Viễn) từ Phiên Bản 3.2
+- Tất cả sự kiện Cầu Nguyện Nhân Vật và Cầu Nguyện Vũ Khí từ Phiên Bản 3.2
+- Sự Kiện Khúc Hoan Ca Của Hoa Và Kẹo Màu (23 tháng 10, 2024 - 07 tháng 11, 2024)

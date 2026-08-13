@@ -1,0 +1,28 @@
+# Aloy
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+quality: 5
+weapon: Cung
+element: Băng
+elementNote: Vision
+name: Aloy
+birthday: 04 tháng 04
+constellation: Nora
+affiliation: Thợ Săn Dị Giới
+dish: Gel No Bụng
+obtain: Hạng Mạo Hiểm đạt 20 (trong phiên bản 2.1 chỉ đối với người dùng PlayStation, trong phiên bản 2.2 cho mọi thiết bị khác)
+releaseDate: 2021-09-01
+title: Vị Cứu Tinh Dị Giới
+title2: Thợ Săn Vùng Nora
+voiceEN: [[imdb:nm7374420
+voiceCN: Mufei (zh|沐霏)
+voiceJP: w|Ayahi Takagaki|Takagaki Ayahi (ja|高垣 彩陽)
+voiceKR: w|Jo Hyeon-jeong|Jo Hyeon-jeong (ko|조현정)
+
+- Tổng Quan: Aloy là một nhân vật hệ Băng chơi được trong Genshin Impact. Cô là nữ chính trong Horizon Zero Dawn và được giới thiệu là nhân vật hợp tác và cross-over giữa Guerrilla Games và miHoYo.
+
+## Có Mặt Trong
+
+Tất cả Nhà Lữ Hành đạt đến Hạng Mạo Hiểm 20 hoặc hơn có thể nhận Aloy miễn phí trực tiếp thông qua thư trong game.Người dùng PlayStation có thể nhận Aloy sớm hơn giữa phiên bản 2.1 ~ 2.2, trong khi tất cả nền tảng khác đủ điều kiện nhận vào phiên bản 2.2.

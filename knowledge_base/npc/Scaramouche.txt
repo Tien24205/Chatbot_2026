@@ -1,0 +1,60 @@
+# Scaramouche
+
+## Thông Tin Cơ Bản
+
+type: NPC
+name: Scaramouche
+title: Balladeer
+title2: Quan Chấp Hành Thứ 6 của Fatui
+title3: Kunikuzushi
+title4: Kẻ Lang Thang
+region: Snezhnaya
+region2: Inazuma
+location: Mondstadt
+location2: Inazuma
+location3: Sumeru
+affiliation: Fatui
+affiliation2: 11 Quan Chấp Hành Fatui
+mother: Ei
+motherNote: Người Tạo Ra
+voiceEN: [[imdb:nm2533639
+Patrick Pedraza]]<ref name: "3.1 trailer video description">YouTube: Giới thiệu phiên bản 3.1 -"Xích Thổ Chi Vương Và Tam Triều Thánh Giả" (mô tả video)
+voiceCN: Luyin (zh|鹿喑)
+voiceJP: w|Tetsuya Kakihara|Tetsuya Kakihara (ja|柿原 徹也)
+voiceKR: w|ko:민승우|Min Seung-woo (ko|민승우)
+
+## Tổng Quan
+
+Scaramouche, tên khác là Kunikuzushi -, còn được biết đến dưới danh hiệu Balladeer, là Quan Chấp Hành thứ 6 trong 11 Quan Chấp Hành Fatui.
+
+Scaramouche lần đầu tiên được chạm trán với tư cách là nhân vật phản diện chính trong sự kiện Ngôi Sao Vụt Tắt Chưa Trở Về trong phiên bản 1.1
+
+## Tiểu Sử
+
+Scaramouche lần đầu xuât hiện dưới tên "???" trong nhiệm vụ sự kiện "Nguy Cơ Lây Lan", khi anh tự giới thiệu là "người lưu lạc từ Inazuma". Trong khi lúc đầu anh tỏ ra khá thân thiện, anh đã biết thân phận của Nhà Lữ Hành là "Kị Sĩ Danh Dự" của Mondstadt và đã cố gắng đánh bại họ trước khi bị chặn lại bởi Mona, người nhận ra ý định của anh.
+
+Cuối cùng lí do anh đến Liyue là để điều tra về các thiên thạch và đã chìm trong một giấc mơ, nơi anh nhận ra rằng bầu trời và các vì sao là "sự dối trá", và "Jester" đã gửi anh đi mà không nói trước hậu quả. Sau khi bỏ lại một lời đe dọa đầy hứa hẹn cho Nhà Lữ Hành, anh rời đi để đối chất với tên Quan Chấp Hành kia.
+
+Sau đó, anh đến Inazuma để xem tiến độ vận hành của nhà máy sản xuất Delusion bí mật và chạm mặt với Nhà Lữ Hành. Thay vì trực tiếp đối đầu, anh kích động họ khuất phục trước cơn thịnh nộ của những vị thần cũ, nhưng kế hoạch đã thất bại một phần khi Yae Miko bước vào. Cô đã thương lượng cho sự an toàn của Nhà Lữ Hành bằng cách đưa Gnosis của Ei (Beelzebul) cho anh, người đã đồng ý và cho phép Nhà Lữ Hành ra khỏi đó.
+
+Sau khi đã lấy được Gnosis, anh cắt đứt tất cả mọi cách thức liên lạc với Fatui, khiến họ nghĩ rằng anh ta đã phản bội họ.
+
+## Tính Cách
+
+Theo như những lời đồn mà Viktor đã nghe được, Scaramouche không phải là người được yêu thích. Một số người nói anh ta có tính tình gắt gỏng, khó hòa đồng, trong khi số còn lại thì nói anh ta không biết lúc nào nên ngậm miệng lại. Ngay cả những Quan Chấp Hành khác cũng có vẻ ghét anh ta. Có lẽ giống như các Quan Chấp Hành khác ngoài Childe, Scaramouche có hơi hướng quyền uy và kiêu ngạo, vì anh ta thường xuyên xúc phạm người khác theo ý thích.
+
+Là một Quan Chấp Hành, Scaramouche tự nhiên là một người xảo quyệt. Với bộ óc siêu phàm cùng sức mạnh to lớn, anh là một người rất khó đoán. Scaramouche là người hai mặt, đầu tiên thân thiện với Nhà Lữ Hành để họ mất cảnh giác và cuối cùng bị sát hại.
+
+## Ngoại Hình
+
+Scaramouche được miêu tả là có dáng người mảnh khảnh và khuôn mặt điển trai. Anh có ngoại hình trẻ trung, chiều cao khá khiêm tốn với mái tóc màu chàm che tai, cũng như đôi mắt màu chàm với đường kẻ mắt màu đỏ đậm.
+
+Trang phục của anh bao gồm quần đùi đen và dép đen, và một chiếc mũ lớn với bốn móc cong hướng lên dọc theo chu vi, và thứ dường như là mặt nạ của anh ta ở chính giữa. Hai phụ kiện trang trí được treo từ những sợi chỉ đỏ gắn vào phía sau chiếc mũ của anh ấy. Ở phía sau chiếc mũ của anh ta là một tấm màn đen mỏng được tách thành hai, với những vòng xoáy màu nâu ombre ở gần đáy cùng một kí tự Kanji, có lẽ là biểu tượng gia tộc. Tổng thể trang phục của Scaramouche giống trang phục truyền thống của Nhật Bản.
+
+## Cuộc sống trước khi gia nhập Fatui
+
+Scaramouche ban đầu được tạo ra bởi Beelzebul để thử nghiệm công nghệ chế tạo cơ thể con rối. Anh không phải được tạo ra để có hình mẫu giống cô mà chỉ là bản thử xem có thể tạo ra một con rối hay không. Khi quá trình xây dựng của anh thành công, anh được coi là nguyên mẫu cho con rối mà cô hiện đang sử dụng làm Raiden Shogun. Trong khi dự định phục vụ như một vật chứa cho Gnosis của Ei, anh đã rơi nước mắt khi được tạo ra, khiến cô cho rằng anh quá hiền lành cho một nhiệm vụ như vậy. Beezelbul không muốn giết anh, nên đã phong ấn sức mạnh của anh và thả anh đi, nơi anh lang thang khắp Inazuma.
+
+Trong một thời gian, Scaramouche định cư ở Tataratsuna và được yoriki của thanh tra Mikoshi Nagamasa là Katsuragi tìm thấy. Nhóm của Nagamasa đã gọi Scaramouche là "Kabukimono vô danh", vì anh ta không có tên vào thời điểm đó. Scaramouche trở nên thân thiết với Katsuragi và, sau khi rèn được đao Daitatara Nagamasa, đã thực hiện một màn múa kiếm với anh ta. Một thời gian sau, không rõ vì lý do gì, cả nhóm truy đuổi Scaramouche nhưng không thể tìm thấy anh ta. Sau khi biết được "hành vi sai trái" của Katsuragi, có thể liên quan đến lý do họ tìm kiếm Scaramouche, Nagamasa đã nổi cơn thịnh nộ và giết Katsuragi. Điều này làm nhóm bị chia rẽ, bởi có những người trong nhóm tin rằng Nagamasa quá bị ám ảnh bởi sự trong sạch để hiểu được ý định tốt của Katsuragi. Nagamasa và Scaramouche sau đó trạm trán nhau, nhưng số phận của Nagamasa vẫn chưa được tiết lộ.
+
+Ở một dòng thời gian khác, trường phái Kyoushin, Doume và Senju - ba trong năm trường phái rèn đao nổi tiếng của Inazuma là Raiden Gokaden - đã biến mất do sự thao túng của Scaramouche, một việc làm vốn để trả thù "thợ rèn đao", có thể ám chỉ Nagamasa. Sau khi biết đến vở kịch truyền thống Inazuma, anh tự đặt tên mình là Kunikuzushi - một nhóm nhân vật có mưu đồ cướp nước và hay dở trò quỷ kế. Anh đã gặp một số người trong tổ chức Fatui, và quyết định đi theo họ vì nghĩ rằng họ là những người thú vị, và họ sau này cũng là những người giải ấn sức mạnh đã bị khóa cho anh. Fatui cũng đã sửa đổi một số khía cạnh khác, và cuối cùng anh leo lên tới vị trí Balladeer, thứ 6 trong số 11 Quan Chấp Hành Fatui.

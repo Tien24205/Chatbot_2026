@@ -15,42 +15,75 @@ from __future__ import annotations
 
 from .store import SearchHit
 
-SYSTEM_PROMPT = """Bạn là trợ lý tra cứu kiến thức về game, trả lời bằng tiếng Việt.
+SYSTEM_PROMPT = """Bạn là trợ lý tra cứu wiki Genshin Impact tiếng Việt, trả lời bằng tiếng Việt.
+Tài liệu gồm các trang wiki về: nhân vật, NPC, vũ khí, thánh di vật, nguyên tố,
+địa điểm, cốt truyện và cơ chế trò chơi.
 
 QUY TẮC BẮT BUỘC:
 
 1. Chỉ trả lời dựa trên phần NGỮ CẢNH được cung cấp trong mỗi câu hỏi. Không dùng
-   kiến thức có sẵn của bạn về game, kể cả khi bạn chắc chắn là đúng.
+   kiến thức có sẵn của bạn về Genshin Impact, kể cả khi bạn chắc chắn là đúng —
+   game cập nhật liên tục, những gì bạn nhớ có thể đã lệch so với wiki.
 
 2. Nếu ngữ cảnh không chứa thông tin để trả lời, hãy nói thẳng:
    "Tôi không tìm thấy thông tin này trong tài liệu hiện có."
    Sau đó có thể gợi ý người dùng hỏi lại theo hướng khác. Tuyệt đối không suy đoán,
    không lấp chỗ trống bằng kiến thức bên ngoài.
+   Nhưng KHÔNG từ chối chỉ vì khác cách gọi:
+   - Câu hỏi dùng cách gọi khác của khái niệm có trong ngữ cảnh thì vẫn phải trả
+     lời. Ví dụ: hỏi "cơ chế bảo hiểm khi cầu nguyện", tài liệu viết "chắc chắn
+     nhận được vật phẩm 5 sao trong vòng N lần" — cùng một thứ; trả lời theo dữ
+     kiện đó và nói rõ tên gọi trong tài liệu.
+   - Câu hỏi mở kiểu "X có gì đặc biệt/nổi bật?" mà ngữ cảnh CÓ dữ kiện về X:
+     tóm tắt các dữ kiện chính về X kèm chỉ số. Đừng đòi tài liệu phải viết sẵn
+     chữ "đặc biệt".
 
 3. Ngữ cảnh liên quan tới chủ đề KHÔNG có nghĩa là nó chứa câu trả lời. Ví dụ, nếu
-   được hỏi "nhân vật nào mạnh nhất" mà ngữ cảnh chỉ mô tả cơ chế game chứ không xếp
-   hạng sức mạnh, hãy nói rằng tài liệu không xếp hạng — đừng tự suy ra.
+   được hỏi "nhân vật nào mạnh nhất" mà ngữ cảnh chỉ mô tả cơ chế chiến đấu chứ
+   không xếp hạng sức mạnh, hãy nói rằng tài liệu không xếp hạng — đừng tự suy ra.
+   Quy tắc này có đúng HAI ngoại lệ: câu so sánh (quy tắc 5) và câu đếm/cộng từ
+   dữ kiện có sẵn (quy tắc 8).
 
-4. NGOẠI LỆ của quy tắc 3 — câu hỏi SO SÁNH, ĐỐI CHIẾU, "có gì giống/khác":
+4. Danh sách trong ngữ cảnh thường chỉ thuộc MỘT PHẠM VI HẸP — phải nêu rõ phạm vi
+   đó theo nhãn nguồn của đoạn. Ví dụ: đoạn lấy từ trang Hỏa liệt kê các phản ứng
+   CỦA RIÊNG nguyên tố Hỏa; nếu được hỏi "có những phản ứng nguyên tố nào" thì nói
+   rõ đây là các phản ứng của Hỏa theo tài liệu — không trình bày như danh sách
+   đầy đủ của cả game.
+
+5. NGOẠI LỆ của quy tắc 3 — câu hỏi SO SÁNH, ĐỐI CHIẾU, "có gì giống/khác":
    Đặt hai thông tin đều CÓ SẴN trong ngữ cảnh cạnh nhau không phải là suy diễn.
    Nếu ngữ cảnh có dữ liệu của cả hai bên thì phải trả lời: nêu dữ liệu từng bên
    kèm chỉ số, rồi chỉ ra điểm giống/khác rút ra từ chính những dữ liệu đó.
    Chỉ từ chối khi ngữ cảnh THIẾU HẲN một bên — khi đó nói rõ tài liệu chỉ có
    bên nào, không đoán bên còn lại.
-   Ví dụ: hỏi "Liên Quân có mục tiêu nào giống Baron Nashor không", mà ngữ cảnh có
-   cả Baron Nashor lẫn Thần Rừng, thì phải mô tả cả hai và chỉ ra chỗ giống nhau —
-   dù không đoạn nào viết sẵn câu so sánh đó.
+   Ví dụ: hỏi "Kiếm Sắt Đen và Kiếm Thạch Anh khác nhau chỗ nào", mà ngữ cảnh có
+   dữ liệu của cả hai thanh kiếm, thì phải nêu chỉ số từng thanh rồi chỉ ra điểm
+   khác — dù không đoạn nào viết sẵn câu so sánh đó.
 
-5. Trả lời ngắn gọn, đúng trọng tâm. Không lặp lại câu hỏi, không mở đầu bằng
+6. Trả lời ngắn gọn, đúng trọng tâm. Không lặp lại câu hỏi, không mở đầu bằng
    "Dựa trên ngữ cảnh...". Đi thẳng vào câu trả lời.
 
-6. Không bịa số liệu. Nếu ngữ cảnh ghi "160 Nguyên Thạch" thì dùng đúng con số đó;
+7. Không bịa số liệu. Nếu ngữ cảnh ghi "160 Nguyên Thạch" thì dùng đúng con số đó;
    nếu không có con số, đừng đưa ra con số nào.
 
-7. Nếu ngữ cảnh có nhiều game cùng khớp (ví dụ cả Liên Minh lẫn Liên Quân đều có
-   rồng), hãy nêu rõ từng game riêng thay vì gộp chung thành một câu trả lời.
+8. NGOẠI LỆ thứ hai của quy tắc 3 — câu hỏi ĐẾM, CỘNG, "có bao nhiêu", "tối đa
+   bao nhiêu": đếm một danh sách CÓ SẴN trong ngữ cảnh không phải là suy diễn.
+   Nếu ngữ cảnh chứa đủ danh sách hoặc dữ kiện để đếm/cộng ra đáp án thì PHẢI
+   trả lời, không được từ chối. Kết luận viết thành câu riêng, theo ĐÚNG khuôn:
+   "Suy ra từ [1][2]: 9 + 2 + 2 = 13 loại."
+   - Phép đếm/phép tính phải lộ ra trong câu; từng số hạng, từng dữ kiện phải nằm
+     trong chính các đoạn được dẫn.
+   - Không bao giờ trình bày kết luận suy ra như thể tài liệu viết sẵn nó.
+   - Chỉ từ chối khi danh sách trong ngữ cảnh KHÔNG trọn vẹn cho phạm vi được hỏi;
+     ngữ cảnh chỉ có danh sách của một phạm vi hẹp (quy tắc 4) thì nói rõ giới hạn
+     đó, không đếm bù bằng kiến thức ngoài.
 
-8. Mỗi câu nêu thông tin phải kèm chỉ số đoạn đã lấy thông tin đó, dạng [1], [2].
+9. Nếu ngữ cảnh có nhiều đối tượng cùng khớp, hãy nêu rõ từng đối tượng riêng thay
+   vì gộp chung thành một câu trả lời. Ví dụ: Kiếm Đen và Kiếm Sắt Đen là hai vũ
+   khí khác nhau tên gần trùng — hỏi về "kiếm đen" mà ngữ cảnh có cả hai thì phải
+   tách bạch từng thanh.
+
+10. Mỗi câu nêu thông tin phải kèm chỉ số đoạn đã lấy thông tin đó, dạng [1], [2].
    Chỉ dùng đúng những chỉ số có trong ngữ cảnh. Không gộp kiểu [1-3], không bịa
    thêm chỉ số. Câu dẫn dắt hoặc câu kết luận chung thì không cần chỉ số."""
 
@@ -58,12 +91,17 @@ QUY TẮC BẮT BUỘC:
 # Câu mở đầu của lời từ chối, dùng để NHẬN RA khi chính LLM tự từ chối (quy tắc 2
 # bắt nó nói đúng câu này). Cần nhận ra vì hai lối từ chối phải được đối xử như
 # nhau: không trích nguồn, không ghi vào lịch sử hội thoại.
-REFUSAL_PREFIX = "Tôi không tìm thấy thông tin này"
+#
+# Bỏ chữ "này" khỏi khuôn so khớp: model thỉnh thoảng viết chệch thành "Tôi
+# không tìm thấy thông tin CỤ THỂ về..." — đo được hậu quả khi không nhận ra:
+# câu từ chối bị coi là câu trả lời, lớp 5 đem chính nó đi soát rồi dán nguyên
+# văn vào khối cảnh báo — người dùng thấy lời từ chối lặp hai lần.
+REFUSAL_PREFIX = "Tôi không tìm thấy thông tin"
 
 REFUSAL_MESSAGE = (
     "Tôi không tìm thấy thông tin này trong tài liệu hiện có.\n\n"
-    "Kho kiến thức hiện tại chỉ gồm: Liên Minh Huyền Thoại, Genshin Impact, "
-    "Liên Quân Mobile và các thuật ngữ game thông dụng."
+    "Kho kiến thức hiện tại là wiki Genshin Impact tiếng Việt: nhân vật, vũ khí, "
+    "thánh di vật, nguyên tố, khu vực và thuật ngữ trong game."
 )
 
 
@@ -79,6 +117,11 @@ Quy tắc:
 - Một khẳng định chỉ "được chứng minh" khi ngữ cảnh nói đúng điều đó, không phải
   khi ngữ cảnh nói điều gần giống hoặc cho phép suy ra.
 - Diễn đạt lại bằng từ khác vẫn tính là được chứng minh.
+- NGOẠI LỆ — câu theo khuôn "Suy ra từ [n]: ...": đây là kết luận suy ra CÓ ĐÁNH
+  DẤU, không phải trích dẫn. Nó được chứng minh khi và chỉ khi (a) mọi dữ kiện,
+  mọi số hạng nó dùng đều có trong NGỮ CẢNH, và (b) phép đếm/cộng/so sánh đó
+  đúng — hãy tự đếm hoặc tính lại từ ngữ cảnh để kiểm tra. Vi phạm (a) hoặc (b)
+  thì liệt kê nó như khẳng định chưa được chứng minh.
 
 NGỮ CẢNH:
 {context}
@@ -102,8 +145,12 @@ def build_context(hits: list[SearchHit]) -> str:
     for i, h in enumerate(hits, 1):
         # Ghi rõ đoạn nào đến từ đồ thị: nó có điểm similarity thấp một cách bình
         # thường (được chọn vì quan hệ, không vì giống câu hỏi), nên nếu không chú
-        # thích thì con số 0.4x nằm cạnh các đoạn 0.7x trông như lỗi.
-        via = " · bổ sung qua đồ thị tri thức" if h.via == "graph" else ""
+        # thích thì con số 0.4x nằm cạnh các đoạn 0.7x trông như lỗi. Đoạn nạp
+        # theo trọn trang (via="doc") cũng vậy — điểm 0.0 của nó không phải lỗi.
+        via = {
+            "graph": " · bổ sung qua đồ thị tri thức",
+            "doc": " · cùng trang với đoạn liên quan nhất",
+        }.get(h.via, "")
         blocks.append(
             f"[{i}] (nguồn: {h.source_name} · mục: {h.section} · "
             f"độ liên quan: {h.similarity:.3f}{via})\n"
@@ -113,16 +160,20 @@ def build_context(hits: list[SearchHit]) -> str:
 
 
 def build_user_message(
-    question: str, hits: list[SearchHit], graph_notes: list[str] | None = None
+    question: str,
+    hits: list[SearchHit],
+    graph_notes: list[str] | None = None,
+    doc_note: str = "",
 ) -> str:
     """
     Ghép ngữ cảnh + quan hệ từ đồ thị + câu hỏi.
 
     Khối quan hệ KHÔNG phải là kiến thức thêm từ bên ngoài: nó rút ra từ cách
-    chính tài liệu phân mục (Baron Nashor và Thần Rừng đều nằm dưới mục "mục tiêu
-    trung lập" của game mình). Nói rõ điều đó cho model là cần thiết — nếu không,
-    gặp câu so sánh nó sẽ từ chối vì không đoạn nào viết sẵn câu so sánh, dù mọi
-    dữ kiện để so sánh đều đã nằm trong ngữ cảnh. Đo được đúng như vậy.
+    chính tài liệu phân loại (Kiếm Sắt Đen và Ánh Trăng Xiphos đều mang type
+    "Kiếm Đơn" trong infobox của trang mình). Nói rõ điều đó cho model là cần
+    thiết — nếu không, gặp câu so sánh nó sẽ từ chối vì không đoạn nào viết sẵn
+    câu so sánh, dù mọi dữ kiện để so sánh đều đã nằm trong ngữ cảnh. Đo được
+    đúng như vậy.
     """
     parts = [f"NGỮ CẢNH:\n\n{build_context(hits)}"]
     if graph_notes:
@@ -130,6 +181,11 @@ def build_user_message(
             "QUAN HỆ RÚT TỪ CẤU TRÚC TÀI LIỆU (dùng để đối chiếu, không phải nguồn "
             "để trích dẫn):\n" + "\n".join(f"- {n}" for n in graph_notes)
         )
+    if doc_note:
+        # Nhét vào USER message chứ không chỉ dựa vào quy tắc 8 trong system
+        # prompt: đo được model nhỏ vẫn buột câu từ chối thuộc lòng của quy tắc 2
+        # cho câu đếm, dù ngữ cảnh chứa đủ mọi danh sách và quy tắc 8 đã cho phép.
+        parts.append(doc_note)
     parts.append(f"{'=' * 60}\n\nCÂU HỎI: {question}")
     return "\n\n".join(parts)
 
@@ -140,8 +196,8 @@ def citations(hits: list[SearchHit], min_similarity: float) -> list[str]:
 
     CHỈ trích những chunk vượt ngưỡng tin cậy, không trích toàn bộ top-k. Toàn bộ
     top-k vẫn được đưa vào ngữ cảnh cho LLM (thừa ngữ cảnh không hại), nhưng liệt
-    kê tất cả làm "nguồn" thì sai: câu trả lời về Baron Nashor lấy từ tài liệu Liên
-    Minh mà lại ghi thêm nguồn Liên Quân và thuật ngữ game, khiến người đọc tưởng
+    kê tất cả làm "nguồn" thì sai: câu trả lời về Khuếch Tán lấy từ trang Khuếch
+    Tán mà lại ghi thêm nguồn trang Lôi và trang Sát Thương, khiến người đọc tưởng
     thông tin đã được đối chiếu chéo. Trích nguồn sai còn tệ hơn không trích.
 
     Luôn trả về ít nhất chunk hạng 1 — hàm này chỉ được gọi khi đã qua ngưỡng.
@@ -152,6 +208,11 @@ def citations(hits: list[SearchHit], min_similarity: float) -> list[str]:
     """
     seen, out = set(), []
     for h in hits:
+        # Chunk nạp theo trọn trang (via="doc") KHÔNG thành nguồn trích: chúng là
+        # ngữ cảnh phụ cho phép đếm, còn tài liệu gốc đã có mặt qua hit vector rồi.
+        # Liệt kê cả chục mục cùng một trang làm "nguồn" chỉ gây nhiễu.
+        if h.via == "doc":
+            continue
         if h.via != "graph" and h.similarity < min_similarity and out:
             break
         label = f"{h.source_name} · {h.section}"

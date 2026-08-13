@@ -1,0 +1,8 @@
+# Krsnik Noc
+
+## Thông Tin Cơ Bản
+
+type: Lễ Hội
+type2: Văn Hóa Snezhnaya
+
+- Tổng Quan: Krsnik Noc là một lễ hội có nguồn gốc từ Snezhnaya.

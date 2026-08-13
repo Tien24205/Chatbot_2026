@@ -1,0 +1,14 @@
+# Chuyển Hóa
+
+## Thông Tin Cơ Bản
+
+type: Phương Thức Chế Tạo
+type2: Hệ Thống Trò Chơi
+
+- Tổng Quan: Chuyển Hóa là một Phương Thức Chế Tạo có sẵn tại Đài Ghép để thực hiện Giả Kim. Phương thức này cho phép người chơi chuyển hóa từ nguyên liệu này sang một nguyên liệu khác.
+
+- Nguyên Liệu Đột Phá Nhân Vật: Nguyên Liệu Đột Phá Nhân Vật có thể được chuyển hóa sang một loại cùng độ hiếm bằng cách sử dụng Bụi Biến Đổi. Số lượng cần sử dụng tùy thuộc vào phẩm chất của nguyên liệu đó.
+
+## Chuyển Hóa Dị Mộng
+
+Dung Môi Ảo Mộng có thể được sử dụng để chuyển hóa nguyên liệu rơi ra từ Boss Tuần cho nguyên liệu thiên phú. Phương thức này chỉ có thể chuyển hóa các nguyên liệu rơi ra từ cùng một boss. Người chơi cần tiêu hao một Dung Môi Ảo Mộng với mỗi nguyên liệu muốn chuyển hóa. Khi ở Đài Ghép, các công thức chuyển hóa dùng Dung Môi Ảo Mộng được liệt kê dưới giao diện "Chuyển Hóa Dị Mộng".

@@ -1,0 +1,42 @@
+# Arlecchino
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+element: Hỏa
+weapon: Vũ Khí Cán Dài
+quality: 5
+name: Arlecchino
+realname: Peruere
+birthday: 22 tháng 08
+constellation: Tịnh Luyện Hỏa
+region: Snezhnaya
+region2: Khaenri'ah
+regionNote2: trong cốt truyện
+region3: Fontaine
+regionNote3: trong cốt truyện
+affiliation: Fatui
+affiliation2: Căn Nhà Hơi Ấm
+affiliation3: 11 Quan Chấp Hành Của Fatui
+affiliation4: Triều Đại Xích Nguyệt
+dish: Vết Tích Của Lửa Ấm
+namecard: Sắc Lệnh
+obtain: Cầu Nguyện Nhân Vật
+event_name: Tàn Ảnh Bên Lò
+releaseDate: 24-04-24
+ancestry: Triều Đại Xích Nguyệt
+adoptive: Relative Type|Cha mẹ|Crucabena| Song Burning in the EmbersRelative Type|Con cái|Lyney| Child Who Doesn't Exist|ref=Quest|Đứa Trẻ Không Tồn TạiRelative Type|Con cái|Lynette| Child Who Doesn't ExistRelative Type|Con cái|Freminet| Child Who Doesn't ExistRelative Type|Con cái|Các thành viên khác của Căn Nhà Hơi Ấm| Child Who Doesn't ExistRelative Type|Chị/em|Clervie| Song Burning in the Embers
+title: Vầng Trăng Tai Họa
+title2: Người đứng đầu Căn Nhà Hơi Ấm
+title3: The Knave
+title4: Thứ 4 trong 11 Quan Chấp Hành của Fatui
+voiceEN: w|Erin Yvette
+voiceCN: Huang Ying (zh|黄莺)
+voiceJP: w|Nanako Mori|Mori Nanako (ja|森なな子)
+voiceKR: w|ko:이명희 (성우)|Lee Myung-hi (ko|이명희)
+
+## Tổng Quan
+
+Arlecchino, còn được biết đến với mật danh "The Knave", là một nhân vật hệ Hỏa chơi được trong Genshin Impact.
+
+Cô đứng thứ 4 trong 11 Quan Chấp Hành của Fatui và là người đứng đầu hiện tại của Căn Nhà Hơi Ấm. Những thành viên trong nhà, những đứa trẻ mồ côi được thu nhận về, gọi cô là "Cha", còn cô gọi những thành viên ấy là "những đứa con" của mình.

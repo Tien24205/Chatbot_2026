@@ -1,0 +1,21 @@
+# Nguyên Liệu Đột Phá Vũ Khí
+
+## Tổng Quan
+
+type: Loại Vật Phẩm
+
+Nguyên Liệu Đột Phá Vũ Khí là vật phẩm dùng để đột phá vũ khí đạt cấp nhất định. Có thể phân loại các loại vật phẩm theo quốc gia, thứ ngày nhận được qua Bí Cảnh Luyện Võ, qua cấp độ và qua hình dạng. Nguyên liệu có cấp độ cao hơn có thể ghép bằng cách ghép vật phẩm cùng loại có cấp đô thấp hơn.
+
+- Mondstadt: Có thể nhận những vật phẩm này qua Bí Cảnh Luyện Võ Vườn Hoa Cecilia ở Mondstadt.
+
+- Liyue: Có thể nhận những vật phẩm này qua Bí Cảnh Luyện Võ Chấn Lôi Liên Sơn Mật Cung ở Liyue.
+
+- Inazuma: Có thể nhận những vật phẩm này qua Bí Cảnh Luyện Võ Sân Vườn Sunagare ở Inazuma.
+
+- Sumeru: Có thể nhận những vật phẩm này qua Bí Cảnh Luyện Võ Tháp Hữu Đỉnh ở Sumeru.
+
+- Fontaine: Có thể nhận những vật phẩm này qua Bí Cảnh Luyện Võ Dư Âm Thủy Triều ở Fontaine.
+
+- Thiên Phú Hỗ Trợ: Một số nhân vật có Nội Tại Cố Định giúp tăng Nguyên Liệu Đột Phá Vũ Khí khi ghép.
+
+- Tổng Nguyên Liệu Cần: List of total Nguyên liệu required to fully ascend a weapon. Example Vũ khí and their Nguyên liệu are listed, but the amounts are the same for Vũ khí of the same quality.

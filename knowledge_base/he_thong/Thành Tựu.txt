@@ -1,0 +1,13 @@
+# Thành Tựu
+
+## Tổng Quan
+
+type: Hệ Thống Trò Chơi
+group: Phát Triển
+group2: Giao Diện
+
+Thành Tựu là các mục tiêu trò chơi sẽ thưởng cho người chơi Nguyên Thạch sau khi hoàn thành. Hoàn thành tất cả các Thành Tựu trong một mục sẽ thưởng cho người chơi Danh Thiếp có thể được sử dụng trên hồ sơ trong trò chơi (một số mục như Thế Giới Muôn Màu và Ký Ức Về Trái Tim liên tục thêm thành tích và không có tiến độ phần trăm hoàn thành).
+
+Số lượng Thành Tựu nối tiếp nhau được biểu thị bằng số sao trên biểu tượng, ví dụ: nếu có 3 sao trong biểu tượng, nó cho biết rằng có 3 Thành Tựu nối tiếp nhau.
+
+Hoàn thành tất cả Thành Tựu sẽ được thưởng tổng cộng Nguyên Thạch.

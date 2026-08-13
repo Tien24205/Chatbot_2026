@@ -1,0 +1,44 @@
+# Kaeya
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+quality: 4
+weapon: Kiếm Đơn
+element: Băng
+name: Kaeya
+realname: Kaeya Alberich
+birthday: 30 tháng 11
+constellation: Khổng Tước Vũ
+region: Mondstadt
+region2: Khaenri'ah
+affiliation: Đội Kỵ Sĩ Tây Phong
+affiliation2: Khaenri'ah
+affiliation3: Nhà Alberich
+dish: Xiên Rau Củ Nướng
+namecard1: Kaeya - Khổng Tước
+obtain: - Hoàn thành Luyện Tập Hiện Trường Của Kỵ Sĩ - Du Hành Thế Gian (Cầu Nguyện) - Đổi Bụi Ánh Sáng
+releaseDate: 2020-09-28
+title: Hàn Phong Kiếm Sĩ
+title2: Đội Trưởng Kỵ Binh
+ancestry: Nhà Alberich
+father: Không tên
+fatherNote: cha ruột
+father2: Crepus
+fatherNote2: cha nuôi
+sibling: Diluc
+siblingNote: anh nuôi
+voiceEN: w|Josey Montana McCoy
+voiceCN: Sun Ye (zh|孙晔)
+voiceJP: w|Kohsuke Toriumi|Toriumi Kousuke (ja|鳥海 浩輔)
+voiceKR: w|ko:정주원|Jeong Joo-won (ko|정주원)
+
+## Tổng Quan
+
+Kaeya Alberich là một nhân vật hệ Băng mà người chơi có thể điều khiển trong Genshin Impact.
+
+Kaeya là Đội Trưởng Kỵ Binh của Đội Kỵ Sĩ Tây Phong. Anh được người dân của Mondstadt quý trọng dù mang tính cách lập dị và ẩn giấu nhiều bí mật.
+
+Người chơi sẽ nhận được Keaya sau khi hoàn thành.
+
+- Thưởng nhiệm vụ Luyện Tập Hiện Trường Của Kỵ Sĩ - Cầu Nguyện Thường Du Hành Thế Gian (Vĩnh viễn)

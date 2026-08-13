@@ -1,0 +1,62 @@
+# Mũi Khoan Thăm Dò
+
+## Thông Tin Cơ Bản
+
+type: Vũ Khí Cán Dài
+quality: 4
+base_atk: 44
+2nd_stat_type: Tấn Công
+2nd_stat: 6%
+series: Dụng Cụ Khoan Cắt
+releaseDate: 2023-10-17
+obtain: Cầu Nguyện Vũ Khí
+passive: Khúc Ca Thợ Đẽo Đá
+effect: Khi trị liệu hoặc nhận trị liệu sẽ nhận một Ký Hiệu Đoàn Kết, duy trì 30s, tối đa có được 3 Ký Hiệu. Khi thi triển Kỹ Năng Nguyên Tố hoặc Kỹ Năng Nộ sẽ tiêu hao tất cả Ký Hiệu để sản sinh hiệu quả Chống Đối trong 10s：Mỗi Ký Hiệu tiêu hao sẽ tăng (var1)% tấn công và (var2)% buff [[Tăng Sát Thương Nguyên Tố
+eff_rank1_var1: 3
+eff_rank2_var1: 4
+eff_rank3_var1: 5
+eff_rank4_var1: 6
+eff_rank5_var1: 7
+eff_rank1_var2: 7
+eff_rank2_var2: 8,5
+eff_rank3_var2: 10
+eff_rank4_var2: 11,5
+eff_rank5_var2: 13
+eff_att1: Tấn Công
+eff_att2: Tăng Sát Thương Nguyên Tố
+
+## Mô Tả
+
+Công cụ tiện lợi có thể nhẹ nhàng khoan vào đất đá,
+
+Có công dụng khá rộng rãi trong các công việc như thăm dò khám phá.
+
+Người thợ đá và công nhân xây dựng cũng sẽ tận dụng đặc tính của nó,
+
+Để cắt nguyên liệu đá, bước đầu tạo nên kết cấu ngoại hình tổng thể.
+
+Nó giống như máy cưa trong quá khứ từng phổ biến ở nhà xưởng, bến tàu,
+
+Nguồn động lực của nó là loại nhiên liệu truyền thống hiệu quả thấp,
+
+Lúc này Phản Ứng Hủy Diệt Pneumousia có thể khống chế vẫn chưa được khám phá ra,
+
+Robot Dây Cót thời đó vì hạn chế bởi chuyển động học và động lực,
+
+Phần lớn vẫn dừng lại ở mức độ như vật phẩm quý giá và vật phẩm theo sở thích,
+
+Các loại công việc lao động đều phải do nhân lực hoàn thành.
+
+Phần cán là nơi chứa nhiên liệu, do đó không thể sử dụng quá thô bạo.
+
+Nhưng trong quá khứ cũng từng có miêu tả và ghi chép về việc dùng nó trong chiến đấu.
+
+Khả năng đâm xuyên và cắt đứt của loại mũi khoan cán dài này là không gì có thể so sánh được.
+
+Nếu như nó đã có thể chìm sâu vào trong đá như một con dao nóng đâm vào trong thỏi bơ,
+
+Vậy thì việc đối phó với những thứ không cứng bằng đá thì càng khỏi phải bàn.
+
+Sau đó nó cũng đã dần thoái lui khỏi sân khấu lịch sử của Fontaine theo đà phát triển của mọi thứ.
+
+Cũng giống như những công cụ khác, việc sở hữu nó khi chưa được cho phép là điều bị cấm trong mệnh lệnh hành chính.

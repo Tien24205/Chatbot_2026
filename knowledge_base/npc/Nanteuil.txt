@@ -1,0 +1,11 @@
+# Nanteuil
+
+## Thông Tin Cơ Bản
+
+type: NPC Nhiệm Vụ
+region: Fontaine
+location: Fontaine
+affiliation: Căn Nhà Hơi Ấm
+affiliationNote: trước kia
+
+- Tổng Quan: Nanteuil là một NPC độc quyền nhiệm vụ trong.

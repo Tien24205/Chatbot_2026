@@ -1,0 +1,12 @@
+# Bayt Al-Hayah
+
+## Thông Tin Cơ Bản
+
+type: Địa Điểm Đáng Chú Ý
+map_level: Di Tích Núi Damavand - Tầng Dưới
+subarea: Núi Damavand
+area: Sa Mạc Hadramaveth
+subregion: Biển Cát Đỏ
+region: Sumeru
+
+- có nghĩa là "Ngôi nhà của Sự sống".

@@ -1,0 +1,11 @@
+# Badr
+
+## Thông Tin Cơ Bản
+
+type: NPC Nhiệm Vụ
+region: Sumeru
+location: Sumeru
+affiliation: Giáo Viện Sumeru
+title: Nhà Nghiên Cứu
+
+- Tổng Quan: Badr là một NPC độc quyền nhiệm vụ xuất hiện trong.

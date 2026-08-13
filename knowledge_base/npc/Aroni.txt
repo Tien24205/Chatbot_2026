@@ -1,0 +1,28 @@
+# Aroni
+
+## Thông Tin Cơ Bản
+
+type: NPC Nhiệm Vụ
+region: Natlan
+voiceEN: Zelda Khan Black
+affiliation: Chủ Nhân Gió Đêm
+affiliationLabel: Mictlan
+affiliation2: Đoàn mạo hiểm "Thanh Gươm Tecpatl"
+spouse: Macani
+spouseNote: đã chết
+child: Bennett
+deceased: Quá Khứ
+
+- Tổng Quan: Aroni là một nhân vật lịch sử xuất hiện trong.
+
+## Tiểu Sử
+
+Aroni đến từ Chủ Nhân Gió Đêm. Cô là mẹ của Bennett và vợ của Macani. Một ngày nào đó trong quá khứ, quê nhà của họ bị Vực Sâu tấn công, cả hai đều đã bị giết bởi quái vật Vực Sâu trong khi Aroni đang bảo vệ Bennett trong vòng tay của cô. Nhiều năm sau, cô và Macani gặp lại Bennett trong hình dạng Asha tại Khu Nghỉ Dưỡng Nhàn Nhã và cho rằng họ trở lại hình dạng con người sau khi đã thoát khỏi tàn dư của Vùng Biển Lặng. Hai người dành chút thời gian ít ỏi của mình cho Bennett dưới dạng linh hồn rồi vĩnh biệt cậu.
+
+## Ngoại Hình
+
+Aroni là một người phụ nữ trưởng thành với da trắng và mắt tím. Cô có mái tóc màu lilac búi sau đầu cùng băng đô tím và bên tóc là phụ kiện hình lông chim. Cô mặc bộ đồ thường thấy dành cho phụ nữ của Chủ Nhân Gió Đêm. Trong dạng Asha, cô có màu hồng, choàng một chiếc khăn và băng đô màu tím giống như khi cô còn sống.
+
+## Từ Nguyên
+
+- Osanyin hay Aroni là thần dược mạnh mẽ nhất trong văn hóa Yoruba, thống trị tất cả những người liên quan tới cây cối và ma thuật. Mang hình dạng một mắt, một tay và một chân, ngài chính là Orisha của thảo dược, cây cối, ma thuật, nước thuốc, bùa chú và hồi phục.

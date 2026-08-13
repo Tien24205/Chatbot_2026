@@ -1,0 +1,74 @@
+# Kẻ Đổ Bộ
+
+## Tổng Quan
+
+type: Cốt Truyện
+region: Teyvat
+
+"Kẻ Đổ Bộ" là thuật ngữ được sử dụng bởi rất nhiều nhân vật trong Genshin Impact, ví dụ như Fatui dùng để chỉ người đến từ thế giới bên ngoài Teyvat. Các tài liệu lịch sử cho thấy rằng tên gọi "Kẻ Đổ Bộ" chỉ được sử dụng với những người có khả năng thay đổi "luật lệ" của Teyvat chứ không phải thuật ngữ chung dùng để chỉ sinh vật bên ngoài Teyvat.
+
+Nhà Lữ Hành còn được biết đến là Kẻ Đổ Bộ thứ tư, và Kukulkan đã chỉ ra rằng Thiên Lý cũng là một Kẻ Đổ Bộ khác, còn Tiểu Vương Kusanali suy đoán rằng Thiên Lý chính là Kẻ Đổ Bộ đầu tiên.
+
+## Tổng Quan
+
+Nguồn gốc của tên gọi "Kẻ Đổ Bộ" không rõ ràng, nhưng có thể tên gọi này bắt nguồn từ cách nói của người dân Khaenri'ah bởi nó từng được 11 Quan Chấp Hành của Fatui (đồng sáng lập bởi Pierro, cựu pháp sư hoàng gia của Khaenri'ah) sử dụng, cùng với Rene đã nhắc đến trong các nghiên cứu của anh về nhiều lĩnh vực, trong đó có Khaenri'ah. Có rất ít người Teyvat biết đến tên gọi này cũng như việc tên gọi này bao gồm những ai; ví dụ: Nahida - một Quan Chấp Chính Trần Thế có kết nối trực tiếp với Cây Thế Giới - chỉ mới lần đầu biết về tên gọi này thông qua Dottore nhờ trao đổi thông tin với hắn bằng Gnosis Thảo.
+
+Bởi Kẻ Đổ Bộ đến từ bên ngoài Teyvat nên họ không chịu sự ràng buộc của luật lệ Teyvat và cũng không bị ảnh hưởng trong các hoàn cảnh tác động lên sinh vật của thế giới này. Ngoài ra, Cây Thế Giới chỉ ghi lại thông tin về Teyvat nên thông tin và ký ức của họ sẽ không được ghi lại. Cũng nhờ vậy, ký ức của họ cũng sẽ không bị thay đổi sau khi Cây Thế Giới can thiệp cho dù thông thường sự điều chỉnh của Cây Thế Giới không chỉ tác động lên ký ức của nhân loại mà còn lên cả các vật thể vô tri như sách, tài liệu, thậm chí cả các mô tả trong trò chơi như Câu Chuyện Nhân Vật. Ví dụ Nhà Lữ Hành vẫn nhớ được Đại Vương Rukkhadevata sau khi hết mọi dấu vết về người đã bị xóa bỏ khỏi Cây Thế Giới cũng như khỏi lịch sử và ký ức. Họ cũng nhớ về Scaramouche sau khi hắn tự xóa bỏ tên của mình khỏi Cây Thế Giới khiến cả Nahida và Paimon đều quên đi hắn.
+
+Nghiên cứu của Rene cùng với Hội Narzissenkreuz - phần lớn bắt nguồn từ người Khaenri'ah, người Remuria và Sumeru - đã dẫn đến kết luận rằng Kẻ Đổ Bộ có "ý chí sánh ngang với cả thế giới" và không phải ai đến từ bên ngoài Teyvat cũng được coi là Kẻ Đổ Bộ. Tương tự, Perinheri - được cho là người Khaenri'ah - cũng đã tuyên bố rằng Khaenri'ah đang chờ đợi "sự xuất hiện của tồn tại có thể sánh ngang thần" từ những kẻ "đến từ bên ngoài thế giới này", nhưng người như vậy chưa từng xuất hiện trong thời của Perinheri.
+
+Sau khi tiết lộ rằng di cốt của Kẻ Đổ Bộ Thứ Ba đã được dùng để làm ra Gnosis giúp khuếch đại sức mạnh nguyên tố, Paimon và Nhà Lữ Hành đã suy đoán rằng giữa các Kẻ Đổ Bộ có thể có chung đặc điểm rằng họ có sức mạnh nguyên tố tự nhiên mà không cần được ban tặng. Còn lại, có thể Thiên Lý đã lấy quyền năng nguyên tố của Thất Vương cho riêng mình.
+
+Sau khi biết được về Kẻ Đổ Bộ, người Fontaine Rene đã khao khát trở thành một Kẻ Đổ Bộ để có đủ sức mạnh cứu Fontaine khỏi lời tiên tri sắp xảy đến. Tuy nhiên anh đã thất bại hai lần, nhưng nhờ có sự ra tay của Nhà Lữ Hành nên lời tiên tri của Fontaine cuối cùng cũng đã được ngăn chặn. Dựa trên những thông tin đã biết hiện tại, không có bằng chứng nào cho thấy người sinh ra ở Teyvat có thể trở thành Kẻ Đổ Bộ.
+
+## Thiên Lý
+
+Kukulkan từng nhắc đến Thiên Lý như một Kẻ Đổ Bộ, và Nahida suy đoán rằng thực thể này rất có thể chính là Kẻ Đổ Bộ đầu tiên. Thực thể này cũng chính là Vị Đầu Tiên được nhắc đến trong Nhật Nguyệt Tiền Truyện, thực thể đầu tiên đến từ bên ngoài Teyvat đã thiết lập nên sự thống trị của mình trên thế giới này sau khi đánh bại Thất Vương.
+
+## Nibelung
+
+Nibelung từng là Long Vương thống trị Teyvat trước khi Thiên Lý giáng lâm. Ngài đã được Voyager cảnh báo rằng thế giới này đã được định sẵn sẽ đi đến diệt vong. Vì lẽ đó, Nibelung đã rời Teyvat, tiến vào Biển Sao, và tạo ra Ba Mặt Trăng để thay mình cai quản Teyvat Trong hành trình của Nibelung, ngài đã chạm trán Vực Sâu và được tiếp xúc Tri Thức Cấm Kỵ. Sau khi quay trở lại Teyvat, ngài tập hợp các long tộc để đối đầu với Thiên Lý, khai màn Trận Chiến Tang Hỏa, cuộc đại chiến đã đẩy thế giới Teyvat đến bờ vực tuyệt vong. Chính vì điều này, Nibelung được xem là Kẻ Đổ Bộ Thứ Hai, dù ngài đã tồn tại và thống trị Teyvat từ trước khi Thiên Lý xuất hiện. Tuy cuối cùng vẫn bị Thiên Lý hạ gục, ngài vẫn kịp gây ra sát thương chí mạng cho Thiên Lý, làm lung lay uy quyền của Thiên Lý và phá vỡ khả năng trấn áp trật tự nguyên thủy của thế giới
+
+## Saarelainen
+
+Saarelainen đã băng qua Đảo Hiisi bị lãng quên và vùng đất Pohjola u ám phủ đầy sương mù nhằm cầu hôn con gái của Pakkaisukko, một thiếu nữ sở hữu nhan sắc tuyệt trần. Pakkaisukko đồng ý gả con gái mình, với điều kiện Saarelainen phải mở cổng Pohjola cho hắn. Dù đã nhận ra âm mưu hiểm ác ấy, Saarelainen vẫn tự nguyện đi tiếp, bởi nếu từ chối, người phải gánh chịu sự trừng phạt sẽ là con gái của Pakkaisukko. Tuy nhiên, ngay sau khi đặt chân vào Pohjola, Saarelainen đã bị Thiên Lý chém ra thành bảy mảnh.
+
+## Nhà Lữ Hành
+
+Nhà Lữ Hành cùng với anh/em song sinh của mình nguyên là những người thống trị một hành tinh vô danh trong Biển Sao mênh mông. Thế nhưng, quê nhà của họ đã bị xóa sổ trong “một thảm họa hắc ám có thể nuốt trọn các vì sao”. Không còn nơi để quay về, cả hai cùng bắt đầu chu du qua các thế giới khác nhau trên một phi thuyền vũ trụ, trong hành trình đó họ đã chứng kiến được “sự khai sinh và diệt vong của các vì tinh tú”. Cuối cùng, họ đã đặt chân đến Teyvat, một sự kiện mà đã được chứng kiến bởi những học giả người Khaenri'ah của Viện Bí Ẩn, và con tàu của họ đâm xuống Bãi Cát Sao, để lại hai anh em chìm vào giấc ngủ sâu cho đến khi song sinh của Nhà Lữ Hành thức giấc trước. Thời gian cứ trôi đi cho đến sự kiện Tai Ương Thời Cổ Đại của năm trăm năm trước, Nhà Lữ Hành mới được anh/em của mình đánh thức để tìm cách thoát khỏi thế giới Teyvat này. Tuy nhiên, trong lúc rời đi họ đã bị Vị Thần Lạ Mặt chặn đường và chia cắt hai anh em. Khi tỉnh giấc sau sự kiện đó, Nhà Lữ Hành cùng Paimon chính thức tiến vào hành trình lang thang khắp cõi Teyvat.
+
+## Thực Thể Ngoại Lai Khác
+
+Có rất ít thông tin được biết về các thực thể ngoại lai ở Teyvat. Ngoài ra, bởi thông tin về Kẻ Đổ Bộ ban đầu được gộp chung lại với tất cả các thực thể ngoại lai nên những thông tin sau đây được suy ra từ những ví dụ đã biết về thực thể ngoại lai nhưng không phải Kẻ Đổ Bộ.
+
+Không giống như các Kẻ Đổ Bộ, kẻ ngoại lai "thông thường" không thể thay đổi số mệnh của Teyvat cũng như không thể vượt qua được các vị thần, cụ thể là Thiên Lý cũng như trật tự của Đảo Thiên Không thiết lập. Người Khaenri'ah có thể đã phát triển ra một phương pháp để phân biệt Kẻ Đổ Bộ với kẻ ngoại lai thông thường, tuy nhiên dựa vào trường hợp của song sinh của Nhà Lữ Hành, hẳn là có thể sai.
+
+## Song Sinh Của Nhà Lữ Hành
+
+Đáng chú ý rằng song sinh của Nhà Lữ Hành lại không được coi là Kẻ Đổ Bộ. 500 năm trước, họ được ca ngợi là người sẽ "mang đến sức mạnh và hy vọng cho Khaenri'ah" nhưng mọi thứ dần chuyển xấu và gây nên tai ương khiến cả vương quốc diệt vong. Hơn nữa, hành trình của họ đi khắp Teyvat sau khi Khaenri'ah diệt vong đã được Cây Thế Giới ghi lại khiến Nahida kết luận rằng họ là người Teyvat; Nhà Lữ Hành nghi ngờ rằng hoặc là ký ức của họ sai, hoặc "thế giới này" đã làm gì đó với song sinh của họ. Sau đó, Scaramouche tiết lộ rằng Khaenri'ah có thể là lý do tại sao các ghi chép về song sinh của Nhà Lữ Hành tồn tại ở Cây Thế Giới.
+
+## Seutervoinen
+
+Trước khi Thiên Lý giáng lâm, Seutervoinen là một nữ lưu giữ kí ức của các vì sao đang du hành trong vũ trụ đã bị Long Vương Nibelung dẫn lối đến Teyvat. Nàng từng cố thuyết phục ngài rời khỏi nơi này, cùng nàng du hành giữa các vì sao nhưng Nibelung đã từ chối. Về sau, khi Seutervoinen quay lại Teyvat, nàng phát hiện thế giới đã rơi vào sự thống trị của Thiên Lý, còn Nibelung thì bặt vô âm tín. Mang theo sự hiếu kỳ lẫn bất an, nàng nhập vào thân xác một thiếu niên phàm nhân và gieo mầm dị giáo trong vương quốc hoàng kim Hyperborea.
+
+Những lời của nàng đã thức tỉnh Koitar, vị thiên sứ đầu tiên. Hai người nên duyên vợ chồng, kết lời thề chống lại Thiên Lý dưới sự chúc phúc của Sương Nguyệt. Cuộc nổi dậy ấy diễn ra cùng thời với Trận Chiến Tang Hỏa, và khi Đinh Thiên Không rơi xuống đã khiến vương quốc Hyperborea bị hủy diệt cũng như chia cắt luôn đôi uyên ương. Như một hình phạt, Thiên Lý đã tước đoạt đi ký ức của họ. Kể từ đó, vận mệnh sau cùng của Seutervoinen và Koitar vẫn chìm trong màn sương vô định, không ai hay biết họ đã trôi dạt về đâu.
+
+## Các Sinh Mệnh Vực Sâu
+
+Các sinh mệnh Vực Sâu bao gồm Gosoythoth, Gốc Rễ Mô Phỏng U Ám với Lá Mô Phỏng U Ám, Bầy Sói Ma Vật, Durin, Elynas, và những Melusine, đều được xem là những tồn tại ngoại lai đối với Teyvat. Có ý kiến cho rằng chính Nibelung là người đầu tiên đưa những thực thể này đến Teyvat, và cũng có thể là Kẻ Đổ Bộ. Về sau, các sinh mệnh ấy được Rhinedottir trong "Năm Tội Nhân" của Khaenri'ah ban cho hình hài vật chất tại Teyvat. Không phải mọi sinh mệnh ngoại lai đều bị Vực Sâu ăn mòn hay có sự đối địch với thế giới Teyvat, nhưng những sinh mệnh có mối liên hệ với “hắc ám giữa các vì sao” thường mang trong mình mầm móng của vận mệnh hủy diệt do bản chất của Tam Giới. Dẫu vậy, việc cùng tồn tại trong hòa bình vẫn có thể xảy ra, như trong trường hợp của Elynas đã quyết định hợp tác hòa bình với Fontaine thông qua Melusines và các Nguyên Thể Khe Nứt.
+
+Có một điều đáng chú ý, một số thực thể có liên hệ với Vực Sâu như Tân Nhân Loại, Giáo Đoàn Vực Sâu, hay Hắc Xà lại không được xem là ngoại lai đối với Teyvat, bởi lẽ họ vốn dĩ là con người trước khi bị biến dạng theo hình mẫu của Tội Nhân Vedrfolnir.
+
+## Thôn Tinh Kình Ngư
+
+Được miêu tả là một “Lữ Khách đến từ bờ bên kia của Biển Sao”, Thôn Tinh Kình Ngư được Kỵ Sĩ Cực Ác phát hiện và thuần hóa, rồi mang trở về Teyvat như một chú thú cưng. Theo thời gian, nó trở thành tác nhân để hiện thực hóa lời tiên tri của Fontaine trong quá khứ. Việc nó đã hấp thụ một lượng lớn nước Biển Khởi Nguyên, nhưng rồi bị Nhà Lữ Hành và Neuvillette đánh bại đã khiến một trận đại hồng thủy đúng như lời tiên đoán giáng xuống cả Fontaine. Tuy nhiên, dưới sự can thiệp của Neuvillette thì viễn cảnh toàn bộ người dân Fontaine tan rã trong nước như lời tiên tri cuối cùng cũng không thành hiện thực.
+
+## Skirk
+
+Dù xuất thân của Skirk nằm bên ngoài biên giới của Teyvat, cô vẫn không được xem là một Kẻ Đổ Bộ, mà đúng hơn là một "Kẻ Vượt Biên". Khi Nhà Lữ Hành hỏi nguồn gốc của cô, Skirk chỉ coi mình là một lữ khách qua đường trong thế giới này, trong khi Nhà Lữ Hành, bản thân cũng là một Kẻ Đổ Bộ thực thụ và có khả năng tác động cũng như xoay chuyển vận mệnh của toàn Teyvat. Không chắc chắn một ngày nào đó liệu Skirk có trở thành Kẻ Đổ Bộ hay không, nếu cô chủ động can dự và làm thay đổi số phận của thế giới này. Tuy vậy, Alice đã từng cảnh báo với cô rằng cô nên hạn chế tối đa việc can thiệp vào quỹ đạo của Teyvat
+
+## Ngoại Lệ Khác
+
+Tuy Aloy đúng là người đến từ thế giới khác, video Collected Miscellany của cô cũng có nói cô là người ngoại lai đầu tiên Alice thấy "trong hàng thế kỷ" nhưng cô cũng chỉ là một nhân vật hợp tác nên không can thiệp vào cốt truyện của Genshin Impact. Như vậy, cô sẽ không được cho là một Kẻ Đổ Bộ.
+
+Nếu hiểu Nhật Nguyệt Tiền Truyện và những lời của Neuvillette nói theo nghĩa đen, thì con người cùng phần lớn sinh mệnh tồn tại trong Teyvat hiện tại trên thực tế cũng được coi là “dị giới”, những kẻ được mang tới từ bên ngoài hoặc được Thiên Lý tạo ra theo cách tương tự như việc Nibelung đem Vực Sâu vào thế giới này. Nhận định ấy được Kukulkan củng cố khi ngài nói rằng Thiên Lý đã “ném họ vào Teyvat, ban cho họ năng lực cải biến môi trường để thích nghi với chính mình.” Chính vì vậy, đa số sinh linh chỉ có thể chạm đến sức mạnh nguyên tố một cách vụng về, nếu không có Vision làm cầu nối thì gần như không thể kiểm soát chúng. Tuy nhiên, vẫn tồn tại những ngoại lệ vượt ra ngoài quy luật ấy như Long tộc cùng các loài họ hàng và sinh vật họ tạo ra, và những sinh mệnh từ Biển Khởi Nguyên như là Dị Chủng Biển Sâu, Egeria, Tinh Linh Nước Trong, người dân Fontaine, và người Remuria.

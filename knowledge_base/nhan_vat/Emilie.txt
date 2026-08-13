@@ -1,0 +1,34 @@
+# Emilie
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+quality: 5
+weapon: Vũ Khí Cán Dài
+element: Thảo
+arkhe: Pneuma
+name: Emilie
+birthday: 22 tháng 09
+constellation: Hương Phấn Bình
+region: Fontaine
+affiliation: Đại Sảnh Fontaine
+affiliation2: Sảnh Chấp Pháp
+affiliationNote2: hợp tác
+dish: Hương Vị Thơm Ngát
+namecard: Làn Hương Cuối
+obtain: Sự Kiện Cầu Nguyện
+event_name: Làn Hương Phảng Phất
+releaseDate: 2024-08-06
+title: Muôn Ngàn Hương Thơm
+title2: Nhà Điều Chế Nước Hoa Nổi Tiếng
+voiceEN: [[imdb:nm5710428
+Amber Aviles]]<ref name: "Emilie EN JP VA">Twitter: Công Bố Diễn Viên Lồng Tiếng Tiếng Anh & Tiếng Nhật
+voiceCN: Muzi Cheng (zh|木子橙)
+voiceJP: w|Yoko Hikasa|Hikasa Yoko (ja|日笠陽子)
+voiceKR: Kwon Da-ye (ko|권다예)
+
+## Tổng Quan
+
+Emilie là một nhân vật hệ Thảo chơi được, sở hữu Sức Mạnh Nền Tảng trong Genshin Impact.
+
+Cô là một nhà điều chế nước hoa nổi tiếng tại Fontaine. Theo lời của Calcagni, Emilie là người tự kinh doanh và sản phẩm của cô luôn được các cô gái thượng lưu ở Fontaine săn đón. Bên cạnh đó, cô còn âm thầm hợp tác với thám tử và cơ quan hành pháp với tư cách là "người dọn dẹp hiện trường". Công việc này giúp cô cung cấp những chi tiết mà hầu hết mọi người thường bỏ lỡ, nhưng cái giá phải trả là cô buộc phải làm quen với cái chết nhiều hơn mức mình mong muốn.

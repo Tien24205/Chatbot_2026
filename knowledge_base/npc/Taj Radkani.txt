@@ -1,0 +1,14 @@
+# Taj Radkani
+
+## Thông Tin Cơ Bản
+
+type: NPC Nhiệm Vụ
+deceased: Chết trong Trở Về Tĩnh Lặng
+region: Sumeru
+location: Sumeru
+affiliation: Giáo Viện Sumeru
+title: Matra
+child: Murtada Radkani
+voiceJP: w|ja:高橋研二|Takahashi Kenji (ja|高橋研二)
+
+- Tổng Quan: Taj Radkani là một NPC độc quyền nhiệm vụ xuất hiện trong.

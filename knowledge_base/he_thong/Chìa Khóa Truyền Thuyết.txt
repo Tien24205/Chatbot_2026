@@ -1,0 +1,12 @@
+# Chìa Khóa Truyền Thuyết
+
+## Tổng Quan
+
+type: Vật Phẩm
+
+Chìa Khóa Truyền Thuyết là vật phẩm mà người chơi có Hạng Mạo Hiểm 26 trở lên sử dụng để mở khóa Nhiệm Vụ Truyền Thuyết và Sự Kiện Đồng Hành.
+
+Mỗi Chìa Khóa Truyền Thuyết yêu cầu người chơi phải hoàn thành 8 Ủy Thác Mỗi Ngày và cần được nhận trong giao diện Nhiệm Vụ Truyền Thuyết khi đạt điều kiện. Cùng một lúc tối đa chỉ được sở hữu 3 chìa khóa, tuy nhiên làm đủ 8 Ủy Thác sau thời điểm này vẫn sẽ tính một Chìa Khóa Truyền Thuyết đang chờ nhận.
+- Các NV Truyền Thuyết nhận được trước khi đạt Hạng Mạo Hiểm 32 sẽ không yêu cầu chìa khóa.
+- NV Truyền Thuyết đạt điều kiện mở sau Hạng Mạo Hiểm 32 yêu cầu 1 chìa khóa để mở khóa.
+- Sự Kiện Đồng Hành yêu cầu 2 chìa khóa để mở khóa. Thực hiện lại Sự Kiện Đồng Hành đã mở khóa sẽ không yêu cầu chìa khóa.

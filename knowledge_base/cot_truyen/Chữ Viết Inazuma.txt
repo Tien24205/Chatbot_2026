@@ -1,0 +1,13 @@
+# Chữ Viết Inazuma
+
+## Tổng Quan
+
+type: Ngôn Ngữ
+
+Chữ Viết Inazuma (tên chưa chính thức) nhắc đến hệ thống chữ viết của Inazuma.
+
+Chữ viết này được dựa trên bảng chữ cái Teyvat và có thể được lấy cảm hứng từ vi:hiragana trong vi:tiếng Nhật. Nó có thể được viết theo chiều dọc từ trên xuống dưới, từ phải sang trái, giống như các chữ viết truyền thống của Đông Á, hoặc nó có thể được viết theo chiều ngang. Các nét chữ được sử dụng trong chữ viết Inazuma tương ứng với các chữ cái của bảng chứ cái Latinh thay cho kana tiếng Nhật. Các văn bản được viết trong chữ viết này được dựa trên Rōmaji tiếng Nhật.
+
+## Giải Mã
+
+Mặc dù bảng chữ cái Inazuma được sử dụng để biểu thị tiếng Nhật được Latinh hóa, nhưng trong hầu hết các trường hợp, một chữ cái Inazuma không tương ứng trực tiếp với một âm tiết Rōmaji. Thông thường, chỉ có chữ đầu tiên của mỗi âm tiết được biểu thị trong ngôn ngữ của Inazuma. Do đó, âm tiết bắt đầu bằng cùng một phụ âm thường được biểu thị giống nhau. Ví dụ, か, き, く, け, và こ (ka, ki, ku, ke, và ko) sẽ được viết dưới dạng ký hiệu ngôn ngữ của Inazuma cho "K" (よ⇁). Có một lượng lớn các biến thể trong chữ cái được biểu thị. Âm thanh đôi khi bị bỏ qua, nhờ vậy mà て (te) có thể được viết thay cho ký hiệu của "D". Nguyên âm dài và ん (n) đôi khi được bỏ qua. Các chữ cái trong tổ hợp phụ âm như sh, ch, và ts đôi lúc được viết cả hai. Các vấn đề phức tạp hơn nữa, trong các văn bản tương ứng với tiếng Nhật, một số ký hiệu ngôn ngữ Inazuma không được mong đợi trong tiếng Nhật Latinh hóa như "L," "V," hoặc "X" được biểu thị và nó đại diện cho nhiều âm khác nhau. Sự mơ hồ và các biến thể khiến việc giải mã các văn bản của Inazuma trở nên khó khăn, đặc biệt là khi không có ngữ cảnh.

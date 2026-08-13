@@ -1,0 +1,21 @@
+# Oogura
+
+## Thông Tin Cơ Bản
+
+type: NPC
+deceased: Quá Khứ
+region: Inazuma
+affiliation: Enkanomiya
+affiliation2: Linh Hồn Tokoyo
+
+- Tổng Quan: Oogura là NPC ở Enkanomiya, Inazuma. NPC này xuất hiện lần đầu trong Nhiệm Vụ Thế Giới "Antigonus". Sau khi hoàn thành nhiệm vụ, người chơi có thể nhìn thấy Oogura mọi lúc ở Enkanomiya.
+
+- Tiểu Sử: (To be added.)
+
+- Tính Cách: (To be added.)
+
+- Ngoại Hình: Như các Linh Hồn Tokoyo khác, Oogura là vật thể trong suốt mang hình người không xác định được nhân dạng.
+
+- Antigonus
+
+- Hội Thoại: Oogura:

@@ -1,0 +1,29 @@
+# Phản Hồi Của Đài Phun Nước Lucine
+
+## Tổng Quan
+
+type: Hệ Thống Trò Chơi
+group: Hệ Thống Hiến Tế
+region: Fontaine
+area: Đại Sảnh Fontaine
+subarea: Đài Phun Nước Lucine
+
+Phản Hồi Của Đài Phun Nước Lucine là Hệ Thống Hiến Tế có thể được nâng cấp bằng Ấn Thủy. Có thể hiến tế tại Đài Phun Nước Lucine thuộc Đại Sảnh Fontaine, Fontaine.
+
+Có thể mở khóa cơ chế Phản Hồi Của Đài Phun Nước Lucine khi đi đến gần Đài Phun Nước Lucine hoặc sau khi hoàn thành.
+
+Trước Phiên Bản 4.6, cấp tối đa bị giới hạn ở 20, 30 và 40 lần lượt trong các Phiên Bản 4.0, 4.1 và 4.2-4.5 mặc dù vẫn có thể thu thập thêm Ấn Thủy. Trò chơi sẽ ngăn người chơi hiến tế và hiển thị lỗi "Đã đạt giới hạn cấp tối đa cho phiên bản này."
+
+- Giáo Trình: Ấn Thủy Và Đài Phun Nước Lucine...
+
+## Phần Thưởng
+
+Mỗi cấp hiến tế yêu cầu 30 Ấn Thủy. Cần tổng cộng 1,500 Ấn Hỏa để đạt cấp hiến tế tối đa. Đạt cấp tối đa sẽ nhận được.
+
+Các cấp trừ cấp 40 và 50 sẽ thưởng:
+
+Cấp 40 sẽ thưởng:
+
+Cấp 50 sẽ thưởng:
+
+Mỗi cấp tương ứng sẽ thưởng:

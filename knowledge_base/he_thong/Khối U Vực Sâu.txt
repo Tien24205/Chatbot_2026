@@ -1,0 +1,9 @@
+# Khối U Vực Sâu
+
+## Tổng Quan
+
+type: Chiến Đấu
+type2: Hệ Thống Trò Chơi
+region: Natlan
+
+Khối U Vực Sâu là tạo vật được tạo ra bởi Gosoythoth trong cuộc tập kích của Vực Sâu ở Natlan trong. Chúng sinh ra các Cổng Vực Sâu liên tục triệu hồi kẻ địch loại Vực Sâu, thường bao gồm cả Lá Mô Phỏng U Ám. Các khối u thường miễn nhiễm sát thương. Tuy nhiên, phá hủy tất cả Cổng khối u sinh ra sẽ cho phép phá hủy khối u khi người chơi được Hỏa Thần hỗ trợ.

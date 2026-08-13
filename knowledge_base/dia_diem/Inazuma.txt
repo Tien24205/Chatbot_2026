@@ -1,0 +1,21 @@
+# Inazuma
+
+## Tổng Quan
+
+nickname: Vương Quốc Vĩnh Hằng
+map: Teyvat
+chapter: Chương 2
+element: Lôi
+archon: [[Ei
+controlling_entity: Inazuma Shogunate
+festival: Lễ Hội Irodori
+demonym: Inazuman
+adjectival: Inazuman
+
+Inazuma (/ˌinəˈz(j)uːmə/, /iˈnɑːzumə/) là một trong bảy quốc gia ở Teyvat. Đây là một khu vực quần đảo tôn thờ Lôi Thần Raiden Shogun, cũng là người đứng đầu và quản lý của Inazuma Shogunate. Inazuma nằm cách Cảng Liyue khoảng 4 km về phía đông nam và là nước láng giềng gần với Vùng Biển Đen.
+
+- Nhân Vật Chơi Được: }
+
+- Nhân Vật Có Liên Quan: }
+
+- Nhân Vật Sắp Ra Mắt: }

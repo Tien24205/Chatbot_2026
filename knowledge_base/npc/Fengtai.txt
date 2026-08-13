@@ -1,0 +1,25 @@
+# Fengtai
+
+## Hội thoại
+
+type: NPC Đại Thế Giới
+region: Liyue
+location: Liyue
+
+- Tổng Quan: là một NPC bán hàng có thể được tìm thấy ở Bến Tàu Di Lung, Trầm Ngọc Cốc, Liyue.
+
+Fengtai: Chào mừng đến với Bách Hóa Fengtai. Từ vật dụng hàng ngày đến đồ ngọc làm kỷ niệm, tại đây cần gì có nấy!
+Tôi muốn xem thử hàng hóa...
+:Fengtai: Không thành vấn đề, quý khách cứ thoải mái lựa chọn!
+Đồ ngọc?
+:Fengtai: Đúng vậy, tiệm chúng tôi cung cấp dịch vụ làm đồ ngọc. Nhưng mà cần phải đặt trước, thời gian gia công cũng còn phụ thuộc vào độ tinh tế của món đồ nữa.
+:Fengtai: Ngọc đẹp chọn người, có duyên mua được mới là phù hợp nhất với khách hàng.
+:Fengtai: Tạm thời không thể mua được thì cũng chưa chắc đã là chuyện xấu...
+: Tại sao rất ít khi thấy thợ ngọc vậy?
+::Fengtai: Từng có nhiều khách hàng đã hỏi câu này rồi. Khi còn trẻ tôi cũng từng có thắc mắc như thế.
+::Fengtai: Sư phụ Deyin của tôi nói rằng, khi điêu khắc ngọc thì trong lòng phải không có tạp niệm, không được phân tâm.
+::Fengtai: Nếu như thợ ngọc vừa lo quảng cáo vừa bán hàng, thì đầu óc sẽ bị nhiễm tạp niệm, khó mà làm ra được kiệt tác.
+::Fengtai: Vì thế, việc sản xuất và kinh doanh đồ ngọc ở Trầm Ngọc Cốc là hoàn toàn tách biệt. Chính là để cho các thợ ngọc có thể yên tâm mà điêu khắc.
+::Fengtai: Có lẽ khi đi ngang qua một căn nhà không có gì nổi bật, nhưng trong nhà lại có một thợ ngọc đang chậm rãi điêu khắc khối ngọc trong tay đó.
+Tạm biệt.
+:Fengtai: Tạm biệt quý khách, lần sau lại đến nhé!

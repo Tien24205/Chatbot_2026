@@ -1,0 +1,52 @@
+# Kiếm Huyết Rồng
+
+## Thông Tin Cơ Bản
+
+id: 12302
+type: Trọng Kiếm
+series: Diệt Trừ 3 Sao
+releaseDate: 2020-09-28
+quality: 3
+base_atk: 38
+2nd_stat_type: Tinh Thông Nguyên Tố
+2nd_stat: 41
+passive: Trừ Lôi Dập Hỏa
+effect: Sát thương tạo ra cho kẻ địch bị ảnh hưởng bởi nguyên tố Hỏa hoặc Lôi tăng (var1)%.
+eff_rank1_var1: 12
+eff_rank2_var1: 15
+eff_rank3_var1: 18
+eff_rank4_var1: 21
+eff_rank5_var1: 24
+obtain: Cầu Nguyện
+eff_att1: Tăng Sát Thương
+
+- Tổng Quan: Kiếm Huyết Rồng là vũ khí Trọng Kiếm 3 sao. Nó là một phần của chuỗi vũ khí Diệt Trừ 3 Sao.
+
+## Câu Chuyện
+
+Theo truyền thuyết, anh hùng lừng danh sau khi giết chết độc long,
+
+Đã tắm trong máu rồng, để đao thương không thể xuyên qua.
+
+Đúng là có điều kì diệu ấy: Thân thể được tắm rửa trong máu rồng,
+
+Chống được sự sắc bén của đao kiếm, làm cong thương nhọn,
+
+Tên nhọn bay trong gió, cũng phải bật ra trong tiếng cười của anh.
+
+Cuối cùng kẻ địch của anh nhận ra rằng:
+
+Anh đã đeo thanh đại kiếm yêu quý của mình trên vai khi tắm máu rồng,
+
+Vì vậy phần lưng mà cả thanh đại kiếm che chính là điểm yếu.
+
+## Có Mặt Trong
+
+- Cầu Nguyện Thường Du Hành Thế Gian (Vĩnh Viễn)
+- Cầu Nguyện Đề Xuất Cho Người Mới (Vĩnh Viễn cho đến khi tích lũy 20 lượt cầu nguyện)
+- Tất cả sự kiện Cầu Nguyện Nhân Vật, Cầu Nguyện Vũ Khí, và Sử Ký Cầu Nguyện
+
+## Ngoài Lề
+
+- Diluc được cho là sử dụng thanh kiếm này trong hình ảnh cầu nguyện.
+- Câu chuyện của vũ khí này dựa trên truyền thuyết về nhân vật thần thoại Bắc Âu và Đức Sigurd (Siegfried), người có cơ thể gần như bất khả xâm phạm sau khi tắm trong máu của rồng Fafnir, ngoại trừ một phần. Kẻ thù của anh ấy sau đó lợi dụng điều này để giết hại anh.

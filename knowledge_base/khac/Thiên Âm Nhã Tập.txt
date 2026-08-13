@@ -1,0 +1,38 @@
+# Thiên Âm Nhã Tập
+
+## Thông Tin Cơ Bản
+
+id: 220110
+type: Đạo Cụ Nhỏ
+invCategory: Đạo Cụ Nhỏ
+quality: 5
+description: Tuyển tập nhạc phổ do nhà thơ lang thang Sansa tặng, ghi chép lại âm nhạc khắp nơi và cả những trải nghiệm tâm đắc trong diễn tấu, độ chi tiết thậm chí có thể sánh ngang một cuốn bách khoa toàn thư về âm nhạc... Với tuyển tập nhạc phổ này, chắc hẳn sẽ có thể diễn tấu những giai điệu khiến người khác phải động lòng...
+source1: Thưởng từ Gửi Ngọn Gió Tự Do
+reusable: Có
+usage: Túi
+memento: Không
+
+## Tổng Quan
+
+Thiên Âm Nhã Tập là chế độ chơi Trò Chơi Nhịp Điệu vĩnh viễn được giới thiệu trong Phiên Bản 5.3.
+
+Người chơi có thể mở khóa nhiệm vụ Gửi Ngọn Gió Tự Do bằng cách đạt Hạng Mạo Hiểm 35 để nhận đạo cụ và truy cập vào giao diện diễn tấu.
+
+## Tổng Quan Diễn Tấu
+
+Hiển thị tiến độ diễn tấu của người chơi, giống với Hồ Sơ.
+- Danh Hiệu
+- Nhạc Sĩ Nhập Môn (Mặc định mở khóa)
+- Có Chút Danh Tiếng (Hoàn thành 5 nhạc phổ độ khó Huyền Thoại)
+- Ngôi Sao Mới Nổi (Hoàn thành 10 nhạc phổ độ khó Huyền Thoại)
+- Nghệ Sĩ Danh Giá (Hoàn thành 20 nhạc phổ độ khó Huyền Thoại)
+- Tiếng Vang Lừng Lẫy (Hoàn thành 30 nhạc phổ độ khó Huyền Thoại)
+- Bậc Thầy Thính Phòng (Hoàn thành 40 nhạc phổ độ khó Huyền Thoại)
+- Huyền Thoại Âm Luật (Hoàn thành 60 nhạc phổ độ khó Huyền Thoại)
+- Tổng Quan Diễn Tấu
+- Thường
+- Khó
+- Bậc Thầy
+- Huyền Thoại
+- Nhận nhạc phổ được đánh giá "Thiên Âm Sáo Trúc"
+- Hoàn thành nhạc phổ do người khác sáng tác

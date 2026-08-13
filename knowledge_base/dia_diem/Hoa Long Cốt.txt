@@ -1,0 +1,11 @@
+# Hoa Long Cốt
+
+## Thông Tin Cơ Bản
+
+type: Địa Điểm Đáng Chú Ý
+region: Inazuma
+map: Enkanomiya
+area: Enkanomiya
+subarea: Ruột Mãng Xà
+
+- Tổng Quan: Hoa Long Cốt là một bông hoa khổng lồ ở Ruột Mãng Xà. Trong Nhiệm Vụ Thế Giới Thực Liên Giả, Nhà Lữ Hành tưới nước cho bông hoa bằng cách sử dụng Nước Vong Xuyên để nhận Ngọc Long Cốt.

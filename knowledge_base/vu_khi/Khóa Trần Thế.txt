@@ -1,0 +1,69 @@
+# Khóa Trần Thế
+
+## Thông Tin Cơ Bản
+
+id: 14504
+type: Pháp Khí
+series: Liyue
+obtain: Cầu Nguyện Vũ Khí
+releaseDate: 2020-11-11
+quality: 5
+base_atk: 46
+2nd_stat_type: Tỷ Lệ Tấn Công
+2nd_stat: 10,8%
+passive: Hoàng Cực Chương Vàng
+effect: Hiệu quả khiên tăng (var1)%. Trong vòng 8s sau khi đánh trúng, tấn công tăng (var2)%. Cộng dồn 5 tầng, mỗi 0,3s chỉ được thi triển 1 lần. Ngoài ra, khi được khiên bảo vệ, hiệu quả tăng tấn công sẽ tăng 100%.
+eff_rank1_var1: 20
+eff_rank2_var1: 25
+eff_rank3_var1: 30
+eff_rank4_var1: 35
+eff_rank5_var1: 40
+eff_rank1_var2: 4
+eff_rank2_var2: 5
+eff_rank3_var2: 6
+eff_rank4_var2: 7
+eff_rank5_var2: 8
+eff_att1: Hiệu Quả Khiên
+eff_att2: Tấn Công
+
+- Tổng Quan: Khóa Trần Thế là một pháp khí của Liyue.
+
+## Câu Chuyện
+
+"Đây là tín vật của liên minh, cũng là sự thử thách của ta dành cho ngươi"
+
+"Tất cả trí tuệ của ta đều cất giữ trong ổ khóa bằng đá này"
+
+Anh nhớ lại lần đầu tiên gặp mặt, cô gái mặc áo dài tay dâng lên tín vật với dáng vẻ trang trọng mà vui vẻ.
+
+Đúng là ngu ngốc, rõ ràng là không có giao kèo chính thức, rõ ràng chỉ là tự ý hành động cùng nhau...
+
+Nhưng chỉ nhớ đến giây phút hai người gặp nhau lần đầu, trên thảo nguyên nở rộ bách hợp lưu ly,
+
+Cũng như lời cuối cùng mà cô ấy nói, giữa những đóa bách hợp lưu ly.
+
+"Những con người ấy, nhỏ bé và mong manh như hạt bụi"
+
+"Chính vì quá nhỏ bé, bởi vậy không biết khi nào sẽ bỏ mạng trong thiên tai hoạn nạn. Bởi vậy cứ luôn lo sợ"
+
+"Chính vì lo sợ, nên cứ luôn nỗ lực, mong muốn trở nên thông minh hơn. Ta hiểu điều đó"
+
+"Vì thế ta nghĩ, nếu sức mạnh của ta so với ngươi quá kém cỏi, thì cứ dùng kỹ thuật và trí tuệ"
+
+"Cùng lúc sở hữu sức mạnh của ngươi và trí óc của ta... thành phố này chắc chắn sẽ rất tuyệt phải không"
+
+Cuối cùng cô ấy lặng lẽ mỉm cười, rồi từ từ hóa thành hàng vạn hạt bụi li ti.
+
+"Xem ra vẫn không thể cùng ngươi đi tiếp. Chuyện về chiếc ổ khóa đó, hãy quên nó đi"
+
+"Đây là tín vật của liên minh, cũng là sự thử thách của ta dành cho ngươi"
+
+"Tất cả trí tuệ của ta đều cất giữ trong ổ khóa bằng đá này"
+
+"Nếu có thể mở nó ra..."
+
+Rất nhiều năm sau, anh ấy vẫn không thể mở ổ khóa ấy, cũng không biết được vế còn lại của câu nói đó.
+
+Theo thời gian, cánh đồng bách hợp lưu ly ấy cũng đã biến mất không dấu vết.
+
+- Cốt Truyện: Khóa Trần Thế được Guizhong rèn ở Liyue, sử dụng một phương thức thần bí chưa rõ. Cô tặng nó cho Morax, món tín vật mà (có lẽ) anh vẫn nắm giữ cho đến tận ngày nay.

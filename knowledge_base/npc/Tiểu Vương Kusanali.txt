@@ -1,0 +1,36 @@
+# Tiểu Vương Kusanali
+
+## Thông Tin Cơ Bản
+
+type: NPC
+element: Thảo
+region: Sumeru
+location: Sumeru
+affiliation: Bảy Vị Thần
+affiliation2: Giáo Viện Sumeru
+group: Thần
+title: Thần Trí Tuệ
+title2: Thảo Thần
+title3: Tiểu Vương
+title4: Trạm Cuối Akasha Đầu Tiên
+title5: Chủ Trí Tuệ Mahakusaladhamma
+title6: Thần Cây Cỏ
+title7: Thảo Vương
+voiceEN: Kimberley Anne Campbell
+voiceCN: w|zh:花玲|Hualing (zh|花玲)
+voiceJP: w|Yukari Tamura|Tamura Yukari (ja|田村ゆかり)
+voiceKR: w|ko:박시윤_(성우)|Park Shi-Yoon (ko|박시윤)
+
+## Tổng Quan
+
+Tiểu Vương Kusanali, còn được biết đến với cái tên Buer, trong Bảy Vị Thần cô là Thần Trí Tuệ và cũng là Thảo Thần hiện tại, là người cai quản Sumeru. Paimon và Nhà Lữ Hành gọi cô là Nahida, cái tên mà cô đã giới thiệu với họ trong trước khi họ biết thân phận thật của cô.
+
+Cô là "luân hồi" của vị Thảo Thần đời trước, Đại Vương Rukkhadevata, người đã tạo ra cô từ nhánh cây thuần khiết nhất của Cây Thế Giới.
+
+Trong Bảy Vị Thần thì cô chính là người trẻ tuổi nhất, cô đảm nhiệm chức vụ sau cái chết của Đại Vương Rukkhadevata trong tai ương 500 trước. Ngay sau khi cô chào đời, các hiền giả của Sumeru đã đưa cô đến Thánh Địa Surasthana, tại nơi đó cơ thể cô vẫn tồn tại nhưng cô không bao giờ tương tác với thế giới bên ngoài. Tuy nhiên, cô vẫn theo dõi Sumeru thông qua một thiết bị được kết nối với cô có tên là Thiết Bị Akasha.
+
+Sau khi tất cả ký ức về Đại Vương Rukkhadevata bị xóa khỏi Teyvat, Tiểu Vương Kusanali được tất cả mọi người, bao gồm cả bản thân cô, tin rằng cô chính là vị Thảo Thần đầu tiên, và cô đã mất tất cả ký ức cũng như là kiến thức liên quan đến tai ương, điều đó khiến cho các hiền giả giam cầm cô. Người duy nhất biết được sự thật chính là Nhà Lữ Hành. Tuy nhiên, trong tiềm thức của Tiểu Vương Kusanali, cô biết rằng đã có nhiều chuyện xảy ra hơn những gì cô có thể nhớ, thế nhưng cô không muốn điều tra gì về những vấn đề này. Nhà Lữ Hành tôn trọng quyết định của Đại Vương Rukkhadevata và giữ những kiến thức liên quan về Rukkhadevata cho riêng mình.
+
+## Giới Thiệu
+
+Mặc dù là Thần của Sumeru, Tiểu Vương Kusanali có rất ít quyền lực đối với các vấn đề của quốc gia. Do bị cô lập trong Thánh Địa Surasthana, không ai ở Sumeru ngoại trừ các hiền giả của Giáo Viện Sumeru nhìn thấy cô kể từ khi cô sinh ra cách đây 500 năm. Các hiền giả hiếm khi nói chuyện với Tiểu Vương Kusanali, và thay cô cai quản Sumeru.

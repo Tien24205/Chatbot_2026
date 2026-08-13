@@ -1,0 +1,8 @@
+# Ký Ức
+
+## Thông Tin Cơ Bản
+
+type: Nguyên Liệu Kích Hoạt Cung Mệnh
+type2: Loại Vật Phẩm
+
+- Tổng Quan: Ký Ức là những vật phẩm Nguyên Liệu Kích Hoạt Cung Mệnh dùng để kích hoạt Cung Mệnh cho từng nguyên tố khác nhau của Nhà Lữ Hành.

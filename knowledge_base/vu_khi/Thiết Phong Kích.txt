@@ -1,0 +1,53 @@
+# Thiết Phong Kích
+
+## Thông Tin Cơ Bản
+
+id: 11407
+type: Kiếm Đơn
+releaseDate: 2020-09-28
+quality: 4
+base_atk: 42
+2nd_stat_type: Tinh Thông Nguyên Tố
+2nd_stat: 36
+passive: Kích Năng Lượng
+effect: Trong 6s sau khi tạo thành color|Black|sát thương nguyên tố, sát thương nhân vật tạo ra tăng (var1)%, cộng dồn 2 lần. Mỗi 1s mới thi triển 1 lần.
+eff_rank1_var1: 6
+eff_rank2_var1: 7,5
+eff_rank3_var1: 9
+eff_rank4_var1: 10,5
+eff_rank5_var1: 12
+eff_att1: Tăng Sát Thương
+obtain: Rèn
+series: Năng Lượng
+
+- Tổng Quan: Thiết Phong Kích là một Kiếm Đơn 4 Sao có thể rèn được.
+
+- Buff sát thương sẽ tăng bất kỳ sát thương nào mà nhân vật gây ra, nhưng nó không được áp dụng cho các Phản Ứng Chuyển Hóa.
+
+## Câu Chuyện
+
+Khắp nơi trên thế giới đều tìm đến Liyue, đó là niềm vinh dự đối với thương cảng to lớn này.
+
+Kho báu từ khắp nới trên thế giới cũng theo dòng người đổ về cảng Liyue.
+
+Kiếm nhỏ không bén, đầu kiếm nhọn, tinh giản chức năng chém và tối ưu sức công phá khi đâm kiếm.
+
+Nắm vững yêu cầu kĩ thuật đặc thù.
+
+Thế nhưng gia công vô cùng tinh tế, cho dù không phải là chuyên gia nghiên cứu cũng thấy được nó là một thanh kiếm tốt.
+
+Đó là một vũ khí đến từ một nơi xa, từng được đeo bên lưng của chủ chiếc thuyền buồm.
+
+Thân kiếm nhỏ gọn, nho nhã, khác xa với phong cách thô bạo trên thuyền.
+
+Mỗi khi có người hiếu kỳ, thuyền trưởng đều cười nói trong tiếng gió.
+
+Có người nói đó là chiến lợi phẩm sau khi đánh bại hải tặc, có người lại nói đó là đồ ăn cắp.
+
+Khi màn đêm buông xuống cùng với cánh buồm, thuyền phó nhẹ nhàng lau chùi cho bội kiếm.
+
+Nhớ lại giấc mộng cũ của đất nước gió, nhớ lại thời khắc loạn lạc của tấm thân từng là hiệp khách,
+
+Nhớ lại thiếu nữ chốn thôn quê, chuyện tình lãng mạn không có kết thúc tốt đẹp, và những cuộc hẹn ước tương phùng.
+
+- Rèn

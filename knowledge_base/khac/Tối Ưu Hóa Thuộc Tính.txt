@@ -1,0 +1,41 @@
+# Tối Ưu Hóa Thuộc Tính
+
+## Tổng Quan
+
+Bài viết này được viết ra nhằm tìm kiếm các kết quả toán học liên quan đến việc tối ưu hóa tỷ lệ thuộc tính. Các dẫn xuất này sẽ giả định một vài điểm tương đồng với phép tính đa biến và phương pháp nhân tử Lagrange.
+
+Lưu ý rằng dưới đây chỉ là những kết quả dựa trên lý thuyết, tối ưu hóa trong trò chơi sẽ có thể khác.
+
+## Bạo Kích Dự Đoán
+
+Gọi r (với r\le 1) là xác suất Tỷ Lệ Bạo Kích và d (với d \ge 0) là ST Bạo Kích trong dạng số thập phân (như vậy 150% ST Bạo Kích sẽ là d=1,5).
+
+Giả sử sát thương không bạo kích là x. Lượng ST dự đoán là:
+(1-r)x + r(1+d)x = x(1 + rd)
+
+Mục tiêu ở đây là tối đa hóa hàm số này, cụ thể là tích f = rd.
+
+Nhìn chung, ở đây ta phải chọn Tỷ Lệ Bạo Kích r và ST Bạo Kích d có thể tối đa hóa tích số để tố đa hóa sát thương dự đoán. Hay nói cách khác, ceteris paribus (bao hàm tất cả các hằng số thuộc tính khác):
+
+Tối đa hóa tích số của Tỷ Lệ Bạo Kích và ST Bạo Kích.
+
+Lưu ý rằng trong thực nghiệm, nếu xét thêm cả các yếu tố khác, tính chất này có thể sẽ thay đổi. Ví dụ, với Cung Tây Phong, sẽ tối ưu hơn nếu có nhiều Tỷ Lệ Bạo Kích hơn để nhân vật sử dụng nhận được nhiều năng lượng nguyên tố hơn. Một số nhân vật như Sangonomiya Kokomi thậm chí không cần đến Tỷ Lệ Bạo Kích. Một số bộ thánh di vật và các hiệu ứng khác như Dũng Sĩ Trong Băng Giá và Cộng Hưởng Băng có thể cho thêm nhiều Tỷ Lệ Bạo Kích hơn, tức là sẽ tối ưu hơn trong việc tăng ST Bạo Kích. Trong thực nghiệm, việc tối ưu hóa sẽ luôn khác đi dựa trên cách sắp xếp đội hình.
+
+## Tỷ Số Bạo Kích
+
+Khi xét đến phân bổ giữa Sát Thương Bạo Kích và Tỷ Lệ Bạo Kích, sẽ tồn tại một tỷ số tối ưu đặc biệt. Chẳng hạn, tỷ lệ 2:1 giữa Sát Thương Bạo Kích và Tỷ Lệ Bạo Kích. Tỷ lệ 2:1 là tối ưu khi giả định phân bổ đặc biệt giữa Sát Thương Bạo Kích và Tỷ Lệ Bạo Kích.
+
+Trong Genshin Impact, thường cứ có 1 điểm Tỷ Lệ Bạo Kích là mất 2 điểm Sát Thương Bạo Kích, tính trên tổng Sát Thương và Tỷ Lệ sau khi trang bị vũ khí, thánh di vật,.... Có thể chứng minh bằng phương pháp nhân tử Lagrange, với công thức ràng buộc sau:
+g = r + \frac{d}{2} - c = 0
+với một hằng số c nào đó, nhắc lại, r là Tỷ Lệ Bạo Kích, d là Sát Thương Bạo Kích.
+
+Mục tiêu là tối ưu tích rd trong công thức ở trên. Ta có hệ phương trình:
+\partial_r (f - \lambda g) = d - \lambda = 0
+\partial_d (f - \lambda g) = r - \frac{\lambda}{2} = 0
+Giải hệ phương trình trên, ta có phương trình
+d = 2r
+suy ra tỉ số tối ưu cho Sát Thương Bạo Kích trên Tỷ Lệ Bạo Kích là 2 trên 1.
+
+## Phân Bổ Bạo Kích
+
+Một trong số giả định quan trọng của quy tắc phân bổ 2:1 là phân bổ chỉ số bạo kích. Lưu ý, giả định tỷ số bạo kích 2:1 không phải lúc nào cũng chính xác trong thực tế. Trong trường hợp này, chúng ta chuyển qua tối ưu tích giữa Sát Thương Bạo Kích và Tỷ Lệ Bạo Kích.

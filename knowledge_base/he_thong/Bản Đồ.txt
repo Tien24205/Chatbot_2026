@@ -1,0 +1,285 @@
+# Bản Đồ
+
+## Tổng Quan
+
+type: Hệ Thống Trò Chơi
+type2: Khám Phá
+group: Giao Diện
+
+Bản Đồ là Hệ Thống Trò Chơi biểu thị và diễn tả cho thế giới. Có thể truy cập bằng cách nhấn vào bản đồ thu nhỏ ở phía trên bên trái màn hình, mở từ Giao Diện Paimon > Bản Đồ, hoặc ấn trên PC. Điểm Dịch Chuyển, Thất Thiên Thần Tượng, và Bí Cảnh có thể dịch chuyển tức thời đến đó bằng cách chọn trên Bản đồ và nhấn "Dịch Chuyển".
+
+Nhấn nút chuyển đổi "Chỉ xem trước Bi Cảnh" ở phía dưới bên trái màn hình sẽ hiển thị Tên Bi Cảnh và danh mục của chúng. Bí Cảnh Nhiệm Vụ sẽ không hiển thị trên Bản Đồ. Nội Khu không hiển thị trên Bản đồ trừ khi chúng được đánh dấu đặc biệt.
+
+Phần lớn Phân Khu đều có tên trên Bản Đồ. Khu Vực hiện tại và Tiến Độ Thám Hiểm được hiển thị ở phía dưới cùng bên phải của Bản Đồ. Khi thu nhỏ hoàn toàn, Bí Cảnh và khu vực (với tỷ lệ phần trăm Tiến Độ Thám Hiểm) sẽ được hiển thị. Tỷ lệ phần trăm Tiến Độ Thám Hiểm chỉ hiển thị sau khi phần bản đồ được mở (Thất Thiên Thần Tượng hoặc Bản Đồ Điêu Khắc đã chạm).
+
+Các thông tin khác xuất hiện trên Menu Bản Đồ gồm Thông Báo, Tab, tiến trình La Hoàn Thâm Cảnh và số lượng Nhựa Nguyên Chất.
+
+## Tab
+
+Các tab có thể truy cập bằng cách nhấp vào biểu tượng ở phía dưới bên phải của giao diện Bản Đồ. Các tab có thể sử dụng để chuyển đổi các Bản Đồ và khu vực khác nhau của Bản Đồ Teyvat. Mỗi tab có thể xuất hiện biểu tượng nếu có bất kỳ Thông Báo Bản Đồ hoặc Mục Tiêu Nhiệm Vụ nào trong Bản Đồ hoặc Khu Vực đó.
+Danh sách Tab
+- Bản Đồ Teyvat
+- Mondstadt
+- Liyue
+- Inazuma
+- Sumeru
+- Fontaine
+- Bản Đồ Enkanomiya
+- Enkanomiya
+- Bản Đồ Vực Đá Sâu - Khu Mỏ Ngầm
+- Vực Đá Sâu - Khu Mỏ Ngầm
+- Bản Đồ Sự Kiện
+- Quần Đảo Táo Vàng (Trong Phiên Bản 1.6 và Phiên Bản 2.8)
+- Nghi Lễ Cổng Tam Giới (Trong Phiên Bản 2.5)
+- Ảo Cảnh Veluriyam (Trong Phiên Bản 3.8)
+- Simulanka (Trong Phiên Bản 4.8)
+- Ấm Trần Ca
+- Quán Rượu Đuôi Mèo (Khi ở trong Quán Rượu Đuôi Mèo)
+- Phòng Chuẩn Bị (Khi ở trong Nhà Hát Giả Tưởng)
+
+- Đánh Dấu: Đánh Dấu là điểm trên Bản Đồ tùy chỉnh mà người chơi có thể thêm vào. Có thể đặt tối đa 150 Đánh Dấu trên Bản Đồ. Tên và biểu tượng tùy chỉnh có thể được đặt cho mỗi Đánh Dấu.
+
+## Điểm Trên Bản Đồ
+
+Sau đây là danh sách các điểm xuất hiện trên Bản đồ:
+Teyvat
+Khi thu nhỏ hoàn toàn, chỉ hiển thị Thất Thiên Thần Tượng, Bí Cảnh, Ủy Thác và La Hoàn Thâm Cảnh.
+
+Khi phóng to ~30%, các điểm sau được hiển thị:
+- Điểm Dịch Chuyển
+- Điểm Dịch Chuyển Bỏ Túi
+- Điểm Dịch Chuyển Thuyền Gió
+- Thuyền Gió
+- Vị trí Hệ Thông Hiến Tế (Cây Chịu Lạnh, Tế Lễ Thần Anh Đào, Cây Mơ Mộng Ashvattha, Ốc Đảo Vourukasha - Hồ Amrita, Đài Phun Nước Lucine)
+- Hiệp Hội Nhà Mạo Hiểm
+- Đánh Dấu
+- Địa Mạch Sinh Thành
+- Boss
+- Kẻ Địch (nếu theo dõi mục tiêu với Bằng Chứng Mạo Hiểm)
+- Mục tiêu Nhiệm Vụ
+- Mục tiêu và Đánh Dấu Sự Kiện
+- Ngôi Sao Chết Chóc (sau khi lên Ngôi Sao Chết Chóc lần đầu)
+- Quần Ngọc Các (sau khi hoàn thành Phong Khởi Hạc Quy)
+- Hội Narzissenkreuz (sau khi hoàn thành Vệt Sóng Màu Nước)
+
+Khi phóng to ~70%, các điểm sau được hiển thị. Một số điểm sẽ cho phép bạn dịch chuyển đến Điểm Dịch Chuyển gần nhất:
+- Giả Kim
+- Cửa Hàng Lưu Niệm (Gió Vinh Quang, Minh Tinh Trai, Hàng Lưu Niệm Gen-Netsuke, Cửa Hàng Menakeri, Tiệm Đồ Hiếm Bertin)
+- Lò Rèn (Xưởng Schulz, Hàn Phong Thiết Khí, Xưởng Rèn Amenoma, Thợ Rèn Shamshir, Xưởng Beaumont)
+- Nhà Hàng Chính (Người Săn Hươu, Vạn Dân Đường, Nhà Hàng Shimura, Quán Rượu Lambad, Tiệm Cà Phê Lucerne)
+- Nhà Hàng Khác (Quà Tặng Của Thiên Sứ, Phòng Trà Komore, Tiệm Cà Phê Puspa, Đại Sảnh Fontaine)
+- NPC Danh Vọng (Hậu Cần "Đội Kỵ Sĩ Tây Phong", Cán Bộ Tổng Vụ Liyue, Phụ tá hiệp hội Yashiro, Quan Liên Lạc "Giáo Viện", Tổng Biên Tập Báo Chim Hơi Nước)
+- Hội Câu Cá (Mondstadt, Liyue, Inazuma, Sumeru, Fontaine)
+- Tổng Bộ Đội Kỵ Sĩ
+- Đại Giáo Đường Tây Phong
+- Quán Rượu Đuôi Mèo
+- Sạp Đồ Chơi
+- Nhà Thiết Kế Wakamurasaki
+- Lãnh Địa Kamisato
+- Cung Điện Daena
+- Thánh Địa Surasthana
+- Đại Sảnh Fontaine
+- Viện Ca Kịch Epiclese
+- Khiêu Chiến Đại Thế Giới (nếu "Tìm Bài Thủ" đang bật)
+Enkanomiya
+Khi thu nhỏ hoàn toàn mọi thứ sẽ được hiển thị. Bao gồm:
+- Điểm Dịch Chuyển
+- Điểm Dịch Chuyển Bỏ Túi
+- Boss
+- Đánh Dấu
+Vực Đá Sâu
+Khi thu nhỏ hoàn toàn mọi thứ sẽ được hiển thị. Bao gồm:
+- Điểm Dịch Chuyển
+- Điểm Dịch Chuyển Bỏ Túi
+- Boss
+- Đánh Dấu
+- Kỹ thuật viên an ninh Vực Đá Sâu - Jinwu
+Ấm Trần Ca
+Khi được thu nhỏ hoàn toàn, chỉ Điểm Dịch Chuyển Động Tiên - Nơi Trở Về, Điểm Dịch Chuyển Bên Ngoài và Đồng Hành được hiển thị.
+
+Khi phóng to ~20%, các điểm sau được hiển thị:
+- Tubby
+- Chubby
+
+Khi phóng to ~50%, các điểm sau được hiển thị:
+- Dinh Thự
+- Thửa Ruộng Phỉ Thúy
+- Thửa Ruộng Phì Nhiêu
+- Thửa Ruộng Trật Tự
+
+## Điểm Bản Đồ Nhỏ
+
+Các điểm sau chỉ xuất hiện trên Bản Đồ Nhỏ khi ở gần:
+- Thu thập:
+- Oculi
+- Mã Não Đỏ Thẫm
+- Lưu Minh Tinh Thạch
+- Ấn Khóa
+- Thiết Bị Kích Hoạt
+- Tịnh Quang Vũ
+- Âm Thanh Vang Vọng (trong Phiên Bản 1.6, Quần Đảo Táo Vàng)
+- Bùa Trục Nguyệt (trong sự kiện Đi Tìm Ánh Trăng)
+- Hộp Phiếu Quà (trong Phiển Bản 3.8, Ảo Cảnh Veluriyam)
+- Khám phá:
+- Cửa hàng Tiệm Tạp Hóa
+- Hầm thời gian
+- Lông Cây Cư Trú
+- Đền Trấn Linh (với trang bị Trấn Linh Bình Ma - Liloupar)
+- Tài nguyên (với Thiên Phú Tài Nguyên)
+- Quặng (với Thiên Phú Quặng)
+- Đặc Sản Khu Vực (với Thiên Phú Đặc Sản Khu Vực)
+
+## Bản Đồ Phân Tầng
+
+Bản Đồ Phân Lớp cho phép người chơi điều hướng giữa bản đồ và các tầng bản đồ. Các tầng bản đồ sẽ hiển thị ngay bên phải giao diện bản đồ.
+
+Không phải mọi tầng bản đồ đều có Điểm Dịch Chuyển hoặc Bí Cảnh bên trong nó. Một số tầng bản đồ yêu cầu tiến trình nhiệm vụ nhất định để hiển thị.
+Inazuma
+- Di Tích Araumi
+- Di Tích Araumi - Tầng Hầm 1
+- Di Tích Araumi - Tầng Hầm 2
+- Di Tích Của Đảo Tsurumi
+- Di Tích Đảo Tsurumi - Tầng Trên
+- Di Tích Đảo Tsurumi - Tầng Dưới
+Sumeru - Rừng Dharma
+- Bóng Râm Cây Kích Điện
+- Mawtiyima - Khu Ẩn Giấu
+- Lối Mòn Hang Động Nấm Phát Sáng
+- Nơi Mắc Kẹt Của Nấm Zohrah
+- Nơi ẩn náu của Nấm Zohrah
+- Núi Devantaka - Hang Động Ngập Nước
+- Núi Devantaka - Dưới Tượng Khổng Lồ
+- Đường Ngầm Hang Xưa & Hang Dev
+- Đường Ngầm Hang Xưa
+- Hang Dev
+- Hang Động Lạc Lối
+- Hang Động Trong Núi
+- Hang Động Trong Núi - Tầng 1
+- Hang Động Trong Núi - Tầng 2
+- Hang Động Trong Núi - Tầng 3
+- Hang Động Trong Núi - Tầng 4
+- Hang Chatrakam - Di Tích Ngầm Phía Bắc
+- Hang Chatrakam - Hang Động Phía Nam
+- Vanarana - Đường Mòn Phía Nam
+- Hang Ổ Nấm Thúy Linh
+- Vanarana Xưa
+- Vanarana Xưa - Cố Hương Trong Cát
+- Vanarana Xưa - Vùng Đất Mất Đi Giấc Mơ
+- Đường thủy dẫn đến Sảnh Ashvattha
+- Tận Cùng Cơn Mưa
+- Lối Đi Khúc Khuỷu Dưới Phế Tích
+Biển Cát Đỏ
+- Dar al-Shifa - Đường Ngầm Dưới Đất
+- Thảo Nguyên Bản - Nơi Chiếm Đóng
+- Thung Lũng Dahri
+- Thung Lũng Dahri - Tầng Trên Hang Động
+- Thung Lũng Dahri - Tầng Dưới Hang Động
+- Con Đường Abdju
+- Con Đường Abdju - Tầng Trên Di Tích
+- Con Đường Abdju - Tầng Dưới Di Tích
+- Phía Đông Lăng Mộ Vua Deshret - Sảnh Sekhem
+- Phía Đông Lăng Mộ Vua Deshret - Sảnh Sekhem
+- Phía Đông Lăng Mộ Vua Deshret - Khu Hang Đá
+- Tây Bắc Lăng Mộ Vua Deshret
+- Tây Bắc Lăng Mộ Vua Deshret - Tầng Trên Hang Đá
+- Tây Bắc Lăng Mộ Vua Deshret - Tầng Giữa Hang Đá
+- Tây Bắc Lăng Mộ Vua Deshret - Tầng Dưới Hang Đá
+- Tây Nam Lăng Mộ Vua Deshret
+- Tây Nam Lăng Mộ Vua Deshret - Khu Hang Đá
+- Tây Nam Lăng Mộ Vua Deshret - Hành Lang Tầng Giữa
+- Tây Nam Lăng Mộ Vua Deshret - Di Tích Tầng Dưới
+- Thần Điện Gurabad
+- Thần Điện Phế Tích Gurabad - Tầng Trên
+- Thần Điện Phế Tích Gurabad - Tầng Dưới
+- Nhà Lao Liloupar
+- Di Tích Núi Damavand
+- Di Tích Núi Damavand - Tầng Trên
+- Di Tích Núi Damavand - Tầng Dưới
+- Ốc Đảo Pairidaeza
+- Đường Hầm Wenut
+- Đường Hầm Wenut - Hành Lang Phía Trên
+- Đường Hầm Wenut - Tầng Trên
+- Đường Hầm Wenut - Tầng Giữa
+- Đường Hầm Wenut - Tầng Dưới
+- Vườn Hoa Apep
+Sumeru - Ốc Đảo Hoang Mạc
+- Hangeh Afrasiyab
+- Hangeh Afrasiyab - Tầng Trên
+- Hangeh Afrasiyab - Tầng Dưới
+- Cổng Zulqarnain - Hang Động Ngầm
+- Hồ Amrita
+- Harvisptokhm
+- Madinat al-Nuhas
+- Madinat al-Nuhas - Tầng Dưới
+- Madinat al-Nuhas - Tầng Trên
+- Chemin Oublie
+Fontaine
+- Ngọn Nguồn Ngàn Dòng Nước - Hồ Fontaine Lớn
+- "Ngai Vàng Hoàng Đế Thép Lửa"
+- Hang Động Nóng Rực
+- Hang Động Nóng Rực - Tầng Trên
+- Hang Động Nóng Rực - Tầng Dưới
+- Bên Trong Elynas
+- Bên Trong Elynas - Khu Bắc
+- Bên Trong Elynas - Khu Nam
+- Mảnh Vỡ Thuyền Đắm
+- Poisson
+- Tàn Tích Dưới Nước
+- Tàn Tích Dưới Nước - Vòng Ngoài
+- Tàn Tích Dưới Nước - Trung Tâm
+- Tàn Tích Dưới Nước - Phía Bắc
+- Annapausis
+- Annapausis
+- Hành Lang Uốn Quanh Của Tận Cùng Tháp Cao
+- Sau Khi Nhảy Ra Hành Lang Uốn Quanh
+- Fleuve Cendre
+
+## Thông Báo
+
+Các thông báo sau có thể xuất hiện ở phía trên trái màn hình:
+Teyvat
+- Tổng Quan:
+- Thưởng Ủy Thác Mỗi Ngày
+- Thưởng Hạng Mạo Hiểm
+- Thưởng Phái Đi Thám Hiểm
+- Thưởng Rèn
+- Thưởng Gia Công Thực Phẩm
+- Nhiệm vụ danh vọng mới
+- Phần thưởng danh vọng (Quốc gia)
+- Đang tiến hành Thưởng Thảo Phạt
+- Thất Thánh Triệu Hồi:
+- Bài thủ khiêu chiến mới
+- Bài thủ trong Quán Rượu mới
+- Có thể tiến hành Khiêu Chiến Quán Rượu mới
+- Thưởng Cấp Bài Thủ
+- Cửa Hàng Thẻ Bài đã có vật phẩm mới
+- Quán Rượu Đuôi Mèo đã xuất hiện bài thủ mới
+- Hệ Thống Hiến Tế:
+- Phần thưởng hiến tế Cây Chịu Lạnh
+- Phần thưởng Anh Đào Thần Bảo Vệ
+- Mở khóa giới hạn Anh Đào Thần Bảo Vệ
+- Mở Cửa Hàng Ấn Lôi - "Hàng Lưu Niệm Gen-Netsuke"
+- Phần thưởng Cây Mơ Mộng
+- Mở khóa giới hạn Cây Mơ Mộng
+- Mở khóa Cửa Hàng Ấn Thảo - Cửa Hàng Menakeri
+Ấm Trần Ca
+- Tiền Động Tiên đã đầy
+- Quà Động Tiên đã đầy
+- Tiên Ấm Chu Du đã ghé thăm
+- Hãy nhận đồ trang trí đã chế tạo
+- Đồng ruộng đang chờ thu hoạch
+- Quà Đồng Hành
+Quán Rượu Đuôi Mèo
+- Chế Độ Nhiệt Huyết đã mở
+Sự Kiện Cụ Thể
+- Đang điều tra trước (Tìm Rồng Đất và Bóng Ma Thần Bí)
+- Có hạt giống chờ nhận (Giấc Mơ Hoa)
+- Mở Bí Cảnh (Đĩa Dẫn Năng Lượng)
+- Có thể đổi được Rương Báu Giáng Phúc(Máy Ảnh Kỳ Lạ)
+- Cửa Hàng Đồ Hiếm (Cửa Hàng Đồ Hiếm)
+- Mở giai đoạn Nghiên Cứu Pha Lê mới (Nghiên Cứu Pha Lê)
+- Mở giai đoạn Thẩm Định Pha Lê mới (Thẩm Định Pha Lê)
+
+- Giáo Trình: Về Bản Đồ Phân Tầng
+
+- Bản Đồ Tương Tác Teyvat của HoYoLAB (Chính Thức) - 提瓦特大地图 - 观测枢 của 米游社 (Chính Thức Tiếng Trung) - Bản Đồ Tương Tác của MapGenie

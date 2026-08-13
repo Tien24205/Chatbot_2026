@@ -1,0 +1,10 @@
+# Thánh Bài Ánh Trăng
+
+## Tổng Quan
+
+type: Hệ Thống Trò Chơi
+group: Nhà Hát Giả Tưởng
+
+Thánh Bài Ánh Trăng là loạt vật phẩm nhận được từ Nhà Hát Giả Tưởng: Chế Độ Ánh Trăng bằng cách hoàn thành cả hai Thử Thách Thánh Bài và vượt qua diễn xuất màn 10.
+
+Người chơi có thể xem chúng trong Hộp Bài Ánh Trăng, đồng thời cũng có thể trao đổi bài với người chơi khác trong Chế Độ Nhiều Người Chơi.

@@ -1,0 +1,19 @@
+# Guizhong
+
+## Thông Tin Cơ Bản
+
+type: Đề Cập
+deceased: Chết trong Chiến Tranh Ma Thần trước các sự kiện trong trò chơi
+name: Guizhong
+title: Ma Thần Bụi
+title2: Chủ nhân Vân Hải Động Tiên
+region: Liyue
+affiliation: Quy Li Tập
+affiliation2: Tiên
+affiliation3: Thần
+
+## Tổng Quan
+
+, còn được gọi bằng cái tên Haagentus, là Ma Thần Bụi quá cố. Cô là một trong những vị thần cai quản Quy Li Tập, đồng thời cũng là người sáng lập nên nó bên cạnh Morax và Marchosius. Máy Guizhong là một trong những phát minh của cô ấy.
+
+Cô mất trong một trận chiến vào thời kỳ Chiến Tranh Ma Thần, trong lúc đó một cơn lũ lớn ép người dân Quy Li Tập phải di chuyển về phía Nam, tới nơi mà ngày nay chính là Cảng Liyue. Từ sau cái chết của Guizhong, di sản của cô vẫn được lưu giữ trong sử sách.

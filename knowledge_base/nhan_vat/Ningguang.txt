@@ -1,0 +1,35 @@
+# Ningguang
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+quality: 4
+weapon: Pháp Khí
+element: Nham
+name: Ningguang
+sex: Nữ
+birthday: 26 tháng 08
+constellation: Cơ Hoành Nghi
+region: Liyue
+affiliation: Thất Tinh Liyue
+dish: Thịt Mora
+obtain: - Sự Kiện Cầu Nguyện - Đổi Bụi Ánh Sáng
+releaseDate: 2020-09-28
+title: Yểm Nguyệt Thiên Quyền
+title2: Bà Chủ Quần Ngọc Các
+title3: “Thiên Quyền” trong Thất Tinh Liyue
+voiceEN: [[imdb:nm2731614
+Erin Ebers]]<ref name: "Ningguang EN/JP">(EN & JP) Twitter - VA Announcement
+voiceJP: w|Sayaka Ohara|Sayaka Ohara (大原さやか)
+voiceCN: Mingya Du (杜冥鸦)
+voiceKR: w|ko:곽규미|Gwak Gyu-mi (곽규미)
+
+- Tổng Quan: là một nhân vật chơi được hệ Nham trong Genshin Impact. Ningguang là "Thiên Quyền" trong Thất Tinh Liyue, giàu có nổi tiếng, khắp đại lục Teyvat khó ai sánh bằng. chủ nhân của Quần Ngọc Các.
+
+## Có Mặt Trong
+
+- Cầu Nguyện Thường Du Hành Thế Gian (Không giới hạn thời gian)
+- Cầu Nguyện Cho Nhà Lữ Hành Mới (Không giới hạn thời gian cho đến khi đủ 20 lần cầu nguyện)
+- Sự Kiện Cầu Nguyện Nhân Vật và Sự Kiện Cầu Nguyện Vũ Khí
+- Sự kiện Lục Cách Phấn Chương (10 tháng 1, 2021 - 7 tháng 03, 2021)
+- Sự kiện Muôn Sắc Khắc Niên Hoa (Phiên Bản 2.4)

@@ -1,0 +1,20 @@
+# Cung Mệnh
+
+## Tổng Quan
+
+type: Chiến Đấu
+type2: Hệ Thống Trò Chơi
+
+Cung Mệnh là những nâng cấp tuần tự của Nhân Vật tương tự như Thiên Phú nội tại giúp tăng sức mạnh của nhân vật hoặc thêm khả năng mới vào khả năng hiện có. Mỗi Nhân Vật có tổng cộng 6 tầng Cung Mệnh, với tầng thứ ba và thứ năm luôn là +3 cấp kĩ năng chiến đấu.
+
+## Cách Mở Khóa
+
+Để mở khóa một Cung Mệnh của một nhân vật (ngoại trừ Nhà Lữ Hành), người chơi cần dùng một Chòm Sao của nhân vật đó. Người chơi sẽ nhận được Chòm Sao của một nhân vật khi có được nhân vật đó một lần nữa, thông qua việc Cầu Nguyện, mua từ Đổi Bụi Ánh Sáng hoặc nhận được qua Sự Kiện.
+
+Cung Mệnh của Nhà Lữ Hành là ngoại lệ duy nhất ở chỗ chúng được mở khóa không thông qua các hệ thống trên mà thông qua Nhiệm Vụ Ma Thần, Cửa Hàng Lưu Niệm, Phần Thưởng Hạng Mạo Hiểm (duy chỉ Phong), và nâng cấp Thất Thiên Thần Tượng (Lôi, Thảo, Thủy). Nhà Lữ Hành không có Cung Mệnh cho đến khi cộng hưởng với một nguyên tố nào đó.
+
+## Lưu Ý Về Cơ Chế
+
+Lưu ý rằng ngoài các tầng Cung Mệnh trực tiếp tăng cấp Kỹ Năng Nguyên Tố và Kỹ Năng Nộ, hiệu ứng của các Cung Mệnh ảnh hưởng đến Thiên Phú không được ghi lại trong phần thông tin của các Nhân Vật, ngay cả khi có thể kích hoạt hiệu quả cung mệnh khi chỉ cần lấy được tầng cung mệnh đó. Ví dụ, thời gian tồn tại tăng do Bàn Nham Vĩnh Cửu cung cấp không được liệt kê trong phần thông tin của Kiếm Sao Băng hoặc Sóng Đá Trùng Điệp.
+
+- Cung Mệnh Tầng 1 - Cung Mệnh Tầng 2 - Cung Mệnh Tầng 3 - Cung Mệnh Tầng 4 - Cung Mệnh Tầng 5 - Cung Mệnh Tầng 6

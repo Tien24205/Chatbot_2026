@@ -1,0 +1,65 @@
+# Tarno
+
+## Tổng Quan
+
+type: NPC Đại Thế Giới
+title: Nhân Viên Thương Hội Voynich
+region: Nod-Krai
+location: Nod-Krai
+affiliation: Thương Hội Voynich
+voiceJP: Nonoi Aki (ja|野々井 爽)
+
+Tarno là một NPC thương nhân có thể được tìm thấy tại. Cậu là chủ của Cửa Hàng Lưu Niệm thuộc Thương Hội Voynich, có thể được định vị thông qua biểu tượng trên bản đồ.
+
+Cửa hàng sử dụng Ấn Nguyệt để trao đổi, tại đây bán một số loại Nguyên Liệu Đột Phá Vũ Khí, Mora và Bản Vẽ Đồ Trang Trí.
+
+- Cửa Hàng: Cửa Hàng Lưu Niệm Chỉ mở khóa sau khi Nơi Tụ Họp và Di Tích Cổ Nguyệt đạt cấp độ tối đa.
+
+- Tiểu Sử: (Sẽ được thêm sau)
+
+- Ngoại Hình: (Sẽ được thêm sau)
+
+- Lời Thoại Nhàn Rỗi: Có yêu cầu gì...?
+
+## Hội Thoại
+
+Tarno: Chào mừng, tôi là Tarno của Thương Hội Voynich. Nếu có bất cứ nhu cầu gì thì cứ nói với tôi, tôi sẽ giúp.
+Ở đây bán những gì thế?
+;(Trước khi đạt cấp độ tối đa của toàn bộ Nơi Tụ Họp và Di Tích Cổ Nguyệt)
+::Tarno: Vô cùng xin lỗi, hàng hóa mới đến của hội chúng tôi vẫn đang trong quá trình sắp xếp nhập kho, tạm thời chưa bán ra ngoài...
+;(Sau khi đạt cấp độ tối đa của toàn bộ Nơi Tụ Họp và Di Tích Cổ Nguyệt)
+::Tarno: Đây là danh sách hàng hóa đang bán, cứ chọn thoải mái nhé.
+:;(Mở giao diện cửa hàng)
+Quyết Đấu
+;(Mở giao diện trận đấu Thất Thánh Triệu Hồi)
+Nhiệt tình quá nhỉ.
+:Tarno: Ôi, đừng xa cách như vậy mà. Đã đến đây thì đều là khách của thương hội, giúp khách giải quyết khó khăn chính là công việc của tôi mà.
+:Tarno: Xem bộ dạng của... Hmm, nếu tôi không đoán sai thì chắc là đến vì một báu vật ghê gớm nào đó phải không.
+:Tarno: Thế nào, nói cho tôi nghe đi? cũng rất muốn tìm một người bản địa giúp đỡ phải không? Tôi có không ít anh em ở đây có thể giúp được đó.
+: Có chuyện tốt như vậy còn lâu tôi mới nói cho cậu biết.
+::Tarno: Haha, rất cảnh giác. có ý thức như vậy, xem ra dù ở Nod-Krai thì cũng sẽ không bị thiệt thòi.
+: Một mình tôi là đủ rồi.
+::Tarno: Không ngờ từ chối dứt khoát như vậy. Chẳng lẽ là một thợ săn kho báu giàu kinh nghiệm ở đây sao? Vậy lẽ ra tôi phải có ấn tượng mới phải chứ nhỉ...
+::Tarno:...Ôi, xin thứ lỗi cho tôi có mắt không tròng.
+()
+(Hình như Nefer có điều gì đó muốn nói...)
+:Nefer: Có báu vật gì đặc biệt không?
+:Tarno: Ôi, cô chủ Nefer. Thật không ngờ cô lại đến đây đấy, có việc gì cần tôi giúp sao?
+:Nefer: Haha, gió đã dừng lại rồi, nên ra ngoài đi dạo chút thôi ấy mà. Thời tiết đẹp như vậy, các vị ở thương hội thỉnh thoảng thưgiãn một chút cũng tốt mà?
+:Tarno: Cô nói đúng, hôm nay thời tiết rất đẹp. Có điều, lô vải gấmhoa văn chim chóc lúc trước đặt mua từ Inazuma vẫn chưa về hàng. Là thương nhân, chúng tôi vẫn luôn phải chú ý mới được.
+:Nefer: Các vị ở thương hội đúng là rất vất vả. Vậy đợi khi nào lô vải gấm đó về, thì gửi cho tôi một phần với nhé.
+:Tarno: Tất nhiên rồi, cảm ơn cô chủ Nefer. Cô đi dạo vui vẻ nhé.
+()
+(Hình như Jahoda có điều gì đó muốn nói...)
+:Jahoda: Có báu vật gì đặc biệt không?
+:Tarno: Chào Jahoda. Đã lâu không gặp kể từ khi cô rời khỏi rồi đây...
+:Jahoda: Thôi đủ rồi, đừng nói nhảm nữa, Tarno. Gió mấy ngày nay thổi lắm, sếp Nef bảo tôi đến đây chuẩn bị chống gió.
+:Tarno: Haha, hiểu rồi. Gió bắc thổi lạnh lắm, bị cóng thì không hay đâu. Vật tư chống gió sẽ được chuyển đến sau, chỉ là mấy tin đồn về gió đó, Thương Hội Voynich cũng có chút quan tâm.
+:Jahoda: Được rồi, sau này các người cứ đến hỏi sếp Nef là được. Nhanh nhé, tôi phải về báo cáo đây.
+Có báu vật gì đặc biệt không?
+:Tarno:...Báu vật đặc biệt à? Đương nhiên rồi, chúng tôi hàng gì cũng có. Nhưng muốn lấy được chúng thì quý khách phải đem một số thứ đặc biệt đến đổi.
+:Tarno: Để tôi xem nào... Ah, chỗ chúng tôi đang cần gấp một vài "Gió Phương Bắc".
+: Gió Phương Bắc?
+:Tarno: Chính xác. Chờ khi quý khách bắt được gió thì hãy quay lại chỗ này nhé. Tôi sẽ chờ.
+Không cần đâu.
+:Tarno: Haha, có gì cần giúp thì cứ đến tìm tôi bất cứ lúc nào nhé.

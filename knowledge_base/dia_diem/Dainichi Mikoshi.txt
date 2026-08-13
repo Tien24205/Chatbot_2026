@@ -1,0 +1,24 @@
+# Dainichi Mikoshi
+
+## Cốt Truyện
+
+type: Phân Khu
+map: Enkanomiya
+region: Inazuma
+area: Enkanomiya
+
+- Tổng Quan: Dainichi Mikoshi là một Phân Khu trong Enkanomiya, Inazuma.
+
+- ==Địa Điểm Đáng Chú Ý== (Sẽ bổ sung sau)
+
+ là một mặt trời nhân tạo được tạo ra sâu trong lòng của Enkanomiya bởi Abe Yoshihisa. Nó có thể được bật hoặc tắt để xác định trạng thái của cơ quan ngày đêm trên toàn khu vực.
+
+Trước khi văn hóa người Inazuma Watatsumi được hình thành, nó được biết tới là Hyperion (hay Byakuya no Hikari). Aberaku cũng gọi nó là Helios.
+
+Trước khi Orobashi xuất hiện, người dân của Enkanomiya sử dụng nguồn "ánh sáng ít ỏi" của Dainichi Mikoshi để giữ họ an toàn khỏi Rồng Biển Sâu. Sau khi Orobashi xuất hiện, nó sử dụng chính sức mạnh của nó để củng cố sức mạnh của Mikoshi, cho phép Enkanomiya có chu kỳ ngày đêm bằng cách kích hoạt thủ công.
+
+## Cơ Quan
+
+Có một loại cơ quan đặc biệt được bố trí trên khắp Enkanomiya, có thể kích hoạt sau khi hoàn thành nhiệm vụ nhất định. Những cơ quan này được kết nối trực tiếp tới Dainichi Mikoshi và có thể sử dụng để thay đổi trạng thái ngày đêm trên khu vực, từ Đêm Trắng thành Đêm Đen và ngược lại.
+
+- The term refers to, the Japanese name for Vairocana, the sun Buddha of the Five Tathāgatas (Five Great Buddhas). - refers to a sacred religious palanquin used in Shinto.

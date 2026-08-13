@@ -1,0 +1,37 @@
+# Lưỡi Kiếm Narzissenkreuz
+
+## Thông Tin Cơ Bản
+
+id: 11428
+type: Kiếm Đơn
+quality: 4
+base_atk: 42
+2nd_stat_type: Tấn Công
+2nd_stat: 9%
+releaseDate: 2023-11-08
+obtain: Nhiệm Vụ
+passive: Lưỡi Kiếm Anh Hùng
+effect: Khi người trang bị không có Sức Mạnh Nền Tảng: Tấn Công Thường, Trọng Kích, Tấn Công Khi Đáp trúng đích sẽ thi triển năng lượng xung kích Pneuma hoặc Ousia, gây lượng sát thương bằng (var1)% tấn công. Hiệu quả này mỗi 12s tối đa kích hoạt một lần, loại năng lượng xung kích sẽ do thuộc tính hiện tại của Lưỡi Kiếm Narzissenkreuz quyết định.
+eff_rank1_var1: 160
+eff_rank2_var1: 200
+eff_rank3_var1: 240
+eff_rank4_var1: 280
+eff_rank5_var1: 320
+
+- Tổng Quan: Lưỡi Kiếm Narzissenkreuz là Kiếm Đơn 4 sao nhận sau khi hoàn thành.
+
+- Tinh Luyện: Tinh luyện Lưỡi Kiếm Narzissenkreuz cần Chén Thánh Ào Ạt thay vì vũ khí cùng tên.
+
+## Câu Chuyện
+
+Suốt đường đi là những khoảnh khắc tương phùng rồi ly biệt.
+
+Người bạn đồng hành trung thành không hề bỏ rơi lữ khách,
+
+E rằng chỉ là mộng tưởng của trường kiếm và viễn hành.
+
+Trước khi già đi, Nhà Lữ Hành vĩnh hằng sẽ vượt qua nhiều thế giới.
+
+Để lại vô số những câu chuyện cùng tương lai tươi sáng chút xíu vậy thôi.
+
+- Nhận sau khi hoàn thành Làn Sóng Đuôi Thuyền

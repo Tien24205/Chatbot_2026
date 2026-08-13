@@ -1,0 +1,9 @@
+# Hoa Sự Sống
+
+## Tổng Quan
+
+type: Món Thánh Di Vật
+
+Hoa Sự Sống (hoặc đơn giản là "Hoa") là một món Thánh Di Vật trong Genshin Impact. Nó tăng HP của nhân vật bằng cách +HP phẳng và là một trong hai món Thánh Di Vật có Chỉ Số Chính cố định (cùng với Lông Vũ Tử Vong). Món Thánh Di Vật này có sẵn ở mọi độ hiếm (1-5 sao).
+
+Đây được cho là một trong những món thánh di vật có thể lấy được "chỉ số đẹp" nhanh nhất, do có Chỉ Số Chính cố định nên chỉ có chỉ số phụ được chọn ngẫu nhiên (so với Đồng Hồ, Ly và Nón, cả chỉ số chính và chỉ số phụ được chọn ngẫu nhiên). Thánh Di Vật không thể có chỉ số chính và phụ giống nhau, Nên Hoa Sự Sống không thể có Chỉ Số Phụ là HP phẳng được. Tuy nhiên lại có thể có Chỉ Số Phụ là HP% vì nó được coi là hai Chỉ Số Phụ khác nhau.

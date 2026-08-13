@@ -1,0 +1,23 @@
+# Cảng Lumidouce
+
+## NPC
+
+type: Phân Khu
+region: Fontaine
+area: Khu Rừng Erinnyes
+
+- Afsoon
+- Cassigneul
+- Chaussivert (Sau khi hoàn thành Lời Nói Dối Trong Dự Kiến)
+- Chourei
+- Crapet
+- Fusilier (Sau khi hoàn thành Lời Nói Dối Trong Dự Kiến)
+- Hilmer
+- Jalade
+- Kimpel
+- Lemarcq (Sau khi hoàn thành Lời Nói Dối Trong Dự Kiến)
+- Mermet
+- Urville (ngày, sau khi hoàn thành Chuyến Săn Kho Báu Như Ý Nguyện)
+- Xing Cheng
+
+- là từ ghép của các từ tiếng Pháp và

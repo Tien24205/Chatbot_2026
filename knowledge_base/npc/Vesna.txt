@@ -1,0 +1,21 @@
+# Vesna
+
+## Thông Tin Cơ Bản
+
+type: Đề Cập
+element: Phong
+elementNote: Chốt Tinh Tú
+name: Vesna
+region: Snezhnaya
+affiliation: Druzhna
+affiliation2: Fae Xứ Tuyết
+group: Fae Xứ Tuyết
+voiceEN: [[imdb:nm14887295
+Ari Thrash]]<ref>YouTube: [https://www.youtube.com/watch?v: y2Zcmcbrm9s Video Đặc Biệt - Tuyết Rơi Bất Chợt] (Mô tả video)
+voiceCN: Gui Niang (zh|龟娘)
+voiceJP: w|Aya Hirano|Hirano Aya (ja|平野 綾)
+voiceKR: Joo Ye-jin (ko|주예진)YouTube: 원신
+
+- Tổng Quan: Vesna là một nhân vật trong Genshin Impact. Cô xuất hiện lần đầu tiên trong Video Đặc Biệt - Tuyết Rơi Bất Chợt.
+
+- Tiểu Sử: Vesna là một Vila, một trong sáu loại Fae Xứ Tuyết phổ biến ở Snezhnaya và thuộc Druzhna.

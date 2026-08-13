@@ -1,0 +1,51 @@
+# Durin (NPC)
+
+## Thông Tin Cơ Bản
+
+name: Durin
+type: Đề Cập
+title: Humus
+title2: Ác Long
+group: Rồng
+deceased: Bị giết bởi Dvalin trong thảm họa 500 năm trước, [[Hạt Nhân Của Durin
+creator: Relative Type|synthetic|Rhinedottir| Rừng Gió
+relatedCreation: Relative Type|synthetic|Albedo| Mật Từ Tro BụiRelative Type|synthetic|Albedo Nguyên Gốc| Mật Từ Tro BụiRelative Type|synthetic|Sói Ma Vật| Lôi - Ma Thú ConRelative Type|synthetic|Elynas (NPC)| Giấc Mơ Và Chú Chó Máy MócRelative Type|synthetic|Bakunawa| Cáo Điều Tra: BakunawaRelative Type|synthetic|Sebas| Cũ Và Kiến Thức MớiRelative Type|synthetic|Durin| Sau Đó (Rồng Và Vương Quốc Hè)
+
+## Tổng Quan
+
+Durin là một con rồng được tạo bởi nhà giả kim thuật "Gold" Rhinedottir. Năm trăm năm về trước, trong khi đang diễn ra tai ương, nó đã xâm lược Mondstadt và bị đánh bại bởi Dvalin. Xác của nó rơi xuống ngọn núi Vindagnyr, dẫn đến ngọn núi này được đổi tên thành Long Tích Tuyết Sơn.
+
+Máu của Durin có độc tính cao và chứa sức mạnh đến từ Vực Sâu. Máu này chính là một trong những chất xúc tác dẫn đến sự hồi sinh của Dvalin với tư cách là "Phong Ma Long" trong khi diễn ra.
+
+## Tiểu Sử
+
+Durin có một trái tim nhân hậu và mơ ước kết bạn với người dân Mondstadt, với hy vọng chia sẻ với họ những câu chuyện về người tạo ra mình và sự ra đời của mình. Dường như nó không ý thức được những hành động phá hoại của mình ở Mondstadt và thực sự tin rằng máu độc của mình là một "phước lành lớn", nhìn nhận những gì xảy ra trong cơn bạo hành của mình như một "giấc mơ rất, rất dài" trong khi đó nó còn hát và nhảy múa với Dvalin, Barbatos, và người dân Mondstadt. Ngay cả sau khi tỉnh dậy và nhận thấy rằng mình đã bị Dvalin đánh một đòn chí mạng, Durin không hề oán giận Dvalin hay Barbatos mà chỉ ước rằng họ có thể gặp nhau trong hoàn cảnh tốt hơn.
+
+## Ngoại Hình
+
+Durin được miêu tả là một con rồng xương đen biến dạng với đôi mắt đỏ rực. Đôi cánh của nó có những đường gân dài chạy dọc theo các nếp gấp. Dựa trên bộ xương còn lại của Durin quanh Long Tích Tuyết Sơn, Durin gần như lớn bằng ngọn núi tuyết lớn ấy.
+
+## Lịch Sử
+
+Durin được tạo ra bởi Rhinedottir ở vùng đất Khaenri'ah và được xếp vào loại "Humus". Trong số nhiều tạo vật của bà, bà coi Durin là một trong những "tạo vật kỳ diệu" của mình cùng với Albedo, người sẽ không ra đời cho đến sau thảm họa. Tuy nhiên, bà đã bắt đầu Dự án Con Người Nguyên Thủy để tạo ra con người tổng hợp trước cuộc xâm lược của Durin vào Teyvat; Albedo Nguyên Gốc, thử nghiệm đầu tiên của bà, được coi là một thất bại và bị bỏ lại bên trong Durin.
+
+Năm trăm năm trước, trong thảm họa, Durin xuất hiện ở Mondstadt và gây ra nhiều sự tàn phá. Đội Kỵ Sĩ Tây Phong lúc đó đang bận rộn với một chiến dịch ở Khaenri'ah và chịu nhiều thương vong trong cuộc thám hiểm; Chó Sói Rostam đã hy sinh trong trận chiến và Bậc Thầy Vĩ Đại Arundolyn từ bỏ chiến đấu vì đau buồn. Điều này khiến không ai có khả năng bảo vệ quốc gia khỏi cơn thịnh nộ của Durin. Nghe thấy lời cầu xin của dân chúng, Barbatos tỉnh dậy và triệu hồi Dvalin đến để trợ giúp.
+
+Barbatos và Dvalin chiến đấu cùng nhau chống lại Durin, dụ nó bay qua ngọn núi tuyết vĩnh hằng của Vindagnyr. Dvalin cuối cùng đã đánh một đòn chí mạng bằng cách đâm vào cổ Durin bằng răng nanh của mình, và Durin bị rơi xuống khu vực hiện nay được gọi là Thung Lũng Rồng Ngủ.
+
+## Di Sản
+
+Ngọn núi nơi xác của Durin rơi xuống, trước đây được biết đến với tên gọi Vindagnyr, sau đó được gọi là Long Tích Tuyết Sơn. Máu của Durin đã thấm vào Địa Mạch của Long Tích Tuyết Sơn, hồi sinh Cây Chịu Lạnh vốn đã bị phá hủy từ nhiều thế kỷ trước bởi cây Đinh Thiên Hàn của Đảo Thiên Không. Tim của Durin vẫn còn "hoạt động" dưới lòng Thung Lũng Rồng Ngủ, và năng lượng sống của nó cũng đã lan rộng khắp thung lũng. Hậu quả của việc này bao gồm sự hình thành của Mã Não Đỏ Thẫm và Thạch Anh Đỏ: loại đầu tiên được tạo ra bởi năng lượng sống của Durin tương tác với mảnh vụn của Cây Chịu Lạnh bị phá vỡ, trong khi loại thứ hai dường như là một dạng đá quý được tạo ra từ xác của Durin, chứa đựng chất độc trong máu của nó. Một phần của Durin đã được dùng để rèn thanh kiếm bị nguyền rủa Răng Nanh Rỉ Sét.
+
+Dvalin mệt mỏi sau trận chiến và đau đớn vì máu độc mà mình đã nuốt phải, rơi vào giấc ngủ sâu trong tòa tháp của Decarabian. Cậu ta cuối cùng thức dậy và nhận thấy Mondstadt đã lãng quên anh, khiến anh dễ bị lừa dối bởi lời dối trá của Giáo Đoàn Vực Sâu rằng Barbatos đã bỏ rơi anh. Trong các sự kiện của Chương Mở Đầu, một Venti tái tỉnh - vật chủ của Barbatos - đã cùng với Nhà Lữ Hành, Jean, và Diluc hợp lực để ngăn chặn âm mưu của Giáo Đoàn Vực Sâu và khôi phục lý trí của Dvalin. Venti hai lần chơi một giai điệu giải thích sự biến đổi của Dvalin thành "Phong Ma Long", trong đó Venti kể lại trận chiến chống lại Durin.
+
+Albedo Nguyên Gốc cuối cùng đã thoát ra khỏi dạ dày của Durin. Sau khi phát hiện ra sự tồn tại của một Albedo "hoàn thiện", hắn bắt đầu âm mưu chiếm lấy vị trí của Albedo này. Để đạt được mục đích đó, hắn lấy hình dáng của Albedo và dùng máu của Durin để tạo ra một "Hoa Quỷ" hay một Hoa Lừa Dối Băng Giá đột biến nặng, khiến nó mang hình dạng của Albedo để đánh lạc hướng, mặc dù nó đã bị tiêu diệt trong các sự kiện của Ảo Ảnh Giữa Bão Tuyết.
+
+Fatui có những kế hoạch bí mật cho trái tim của Durin ở Thung Lũng Rồng Ngủ, mặc dù Nhà Lữ Hành cuối cùng đã can thiệp khi họ đến.
+
+Andersdotter sau đó đã tạo ra Durin Nhỏ dựa trên Durin thực tế, người mà cuối cùng sẽ có trải nghiệm tương tự như những gì Durin đã trải qua. Durin Nhỏ có một kết thúc hạnh phúc hơn và đã đạt được ước nguyện của mình bằng cách trở nên nhỏ bé để ít đe dọa hơn đối với người dân của Simulanka. Theo cuộc trò chuyện giữa Andersdotter và Barbeloth mà Kẻ Lang Thang đã nhớ lại, Barbeloth đã tiên tri rằng con của R sẽ trở lại từ cõi chết, ám chỉ đến Durin. Trong khi Kẻ Lang Thang bày tỏ nghi ngờ rằng ký ức đó là thật, Albedo nhận thấy rằng trái tim của Durin đang từ từ hồi sinh và có thể sẽ hồi sinh trong tương lai gần.
+
+## Từ Nguyên
+
+- Trong thần thoại Bắc Âu, cả Durin và Dvalin đều là những người lùn lần đầu tiên được nhắc đến trong "Poetic Edda". Trong Hervarar saga, Durin rèn thanh kiếm huyền thoại Tyrfing với sự giúp đỡ của Dvalin.
+- Theo mô tả của Vuốt Sắt Ma Thú, Durin được xếp vào loại "Humus". Trong "Khoa Học Đất", humus (mùn) được hình thành khi vật chất thực vật và động vật chết trong đất bị phân hủy thêm bởi vi khuẩn kỵ khí, trở nên sẫm màu. Sự hiện diện của mùn trong đất giúp tăng độ phì nhiêu của đất.

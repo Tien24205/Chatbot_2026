@@ -1,0 +1,19 @@
+# Manyoya
+
+## Thông Tin Cơ Bản
+
+type: NPC Nhiệm Vụ
+region: Natlan
+location: Natlan
+affiliation: Hội Hoa Vũ
+father: Xueyoni
+sibling: Acomitl
+siblingNote: em trai
+sibling2: Matahga
+siblingNote2: em trai
+
+- Tổng Quan: Manyoya là một NPC độc quyền nhiệm vụ, xuất hiện lần đầu trong. Cô từng là thành viên đội bay của Tlalocan trong nhiều năm, nhưng cô đã dừng lại bởi vì thể trạng "không như lúc còn nhỏ nữa".
+
+- Tiểu Sử: (Sẽ được bổ sung.)
+
+- Ngoại Hình: (Sẽ được bổ sung.)

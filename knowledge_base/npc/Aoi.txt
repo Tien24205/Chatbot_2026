@@ -1,0 +1,55 @@
+# Aoi
+
+## Tổng Quan
+
+type: NPC
+region: Inazuma
+location: Inazuma
+affiliation: Tiệm Tạp Hoá Tsukumomono
+title: Chủ Tiệm Tạp Hoá Tsukumomono
+
+ là một NPC Thương Nhân tại Thành Inazuma, Inazuma. Cô điều hành một cửa hàng tạp hoá: Tiệm Tạp Hoá Tsukumomono.
+
+Cửa hàng mở mọi lúc và bán những nguyên liệu nấu ăn và Cỏ Naku. Có tần suất làm mới kho hàng.
+
+- Cửa Hàng: Giá ở trong ngoặc là giá sau khi áp dụng giảm giá.
+
+- Tiểu Sử: (Đang cập nhật.)
+
+- Ngoại Hình: Aoi có mái tóc cắt ngắn màu nâu, mặc bộ kimono màu hồng với thắt lưng obi màu đen và áo khoác màu be.
+
+- Thoại Nhàn Rỗi: Không gì là không có... : "You can find everything and anything in Tsukumomono Groceries." ("Bạn có thể tìm được mọi thứ ở Tiệm Tạp Hoá Tsukumomono.")
+
+## Hội Thoại
+
+Aoi: "Tiệm Tạp Hoá Tsukumomono", chắc chắn sẽ làm hài lòng bạn.
+Tôi muốn mua đồ
+:Aoi: Bạn tuỳ ý lựa chọn nhé.
+;(Mở Cửa Hàng Tạp Hoá Tsukumomono)
+Cái gì cũng có sao?
+:Aoi: Đúng vậy, ý nghĩa của "Tiệm Tạp Hóa Tsukumomono" chính là "thứ gì cũng có", đảm bảo quý khách sẽ hài lòng.
+:Aoi: Cũng có thể nói là, chỉ cần ra một cái giá hợp lý, thì cái gì cũng có thể mua được.
+:Aoi: Ha ha, còn về nguồn hàng thì tôi không thể tiết lộ được.
+: Tôi muốn mua một Paimon mới.
+::Aoi: Paimon? Đó là gì, món đồ chơi biết bay phát ra tiếng sao? Hay là một món đồ cổ bị nguyền rủa?
+::Aoi: Xin lỗi, cái này thì... để tôi đi hỏi thăm vài chỗ khác xem sao nhé...
+Tạm biệt.
+:Aoi: Tạm biệt, lần sau hãy ghé thăm "Tiệm Tạp Hoá Tsukumomono" nữa nhé.
+
+## Hội Thoại Sự Kiện
+
+Aoi: "Tiệm Tạp Hóa Tsukumomono", chắc chắn sẽ làm hài lòng quý khách.
+Tôi muốn gửi lời mời tham gia lễ hội âm nhạc.
+:Aoi: Thật hiếm thấy, xưa nay chưa từng có ai mời tôi tham gia lễ hội âm nhạc đâu đấy.
+:Paimon: Vậy nên chúng tôi đến rồi đây! Hihi.
+:Paimon: Chắc chắn tiểu thư Aoi cũng sẽ thích nhạc phẩm nào đó nhỉ? Bây giờ chúng tôi sẽ chơi cho cô nghe, chúng ta sẽ giao lưu âm nhạc một cách nghiêm túc!
+:Aoi: Âm nhạc sao? Hmm... Có một bản nhạc từ rất lâu về trước rồi, hồi đó tôi mới chỉ cao bằng bạn.
+:Aoi: Tôi chỉ nhớ được vài giai điệu thôi, hai vị thử diễn tấu cho tôi nghe xem nhé?
+:: Để tôi thử xem.
+:::Aoi: Cảm ơn.
+Giai điệu vừa nãy thế nào?
+:Aoi: Ừm... Rất hay! Xem ra hai vị rất giỏi thực hiện nguyện vọng của người khác nhỉ.
+:Aoi: Đã gần hai mươi năm kể từ lần cuối tôi nghe giai điệu này đấy. Lần đó là do một người anh hàng xóm chơi nó cho tôi nghe.
+:Aoi: Nguyện vọng của anh ấy là được đi chu du bên ngoài, ngắm nhìn thế giới rộng lớn. Nhưng đáng tiếc, người cuối cùng giúp được anh ấy lại không phải là tôi.
+:Aoi: Haha, bất giác hơi lạc đề rồi. Chỉ là lễ hội âm nhạc lần này chắc tôi không giúp được gì rồi. Dù sao tôi cũng không thể rời khỏi Tiệm Tạp Hóa Tsukumomono được, thực sự xin lỗi.
+:Aoi: Nhưng tôi rất vui khi được nghe lại bản nhạc này, cảm ơn!

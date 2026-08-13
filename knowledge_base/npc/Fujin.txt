@@ -1,0 +1,24 @@
+# Fujin
+
+## Tổng Quan
+
+type: NPC Đại Thế Giới
+region: Liyue
+location: Liyue
+affiliation: Tiên
+
+Fujin là một NPC xuất hiện lần đầu trong, một tiên nhân đến từ Trầm Ngọc Cốc Liyue. Sau khi hoàn thành Phước Lành Của Ngọc Tế Lễ, cô có thể được tìm thấy ngẫu nhiên bên ngoài Làng Kiều Anh cùng với Lingyuan hoặc Tiểu Mao.
+
+## Tiểu Sử
+
+Fujin và Dược Quân từng là thuộc hạ của một vị thần vô danh, cũng là bạn thân của Dược Quân và Lingyuan. Với hình dáng thật là một con cá chép vàng khổng lồ sống trên sông Trầm Ngọc Cốc, Fujin được tôn thờ như một tiên nhân và là người gần gũi với con người - cô sử dụng hình dạng con người và thực hiện Nghi Thức Mưa Ngọc, một nghi thức cổ xưa có thể "thay đổi" mạch nước và thổ nhưỡng ở Trầm Ngọc Cốc để con người có thể sử dụng được. Cô cũng trồng cây trà đầu tiên với hy vọng một ngày nào đó chúng sẽ mọc ra những lá trà giống như Trầm Ngọc Cốc hiện nay.
+
+Khi Chiến Tranh Ma Thần xảy đến với Liyue, chủ nhân Fujin đã biến nước Sông Bích Thủy thành nước lũ như nỗ lực cuối cùng nhằm đánh bại Morax, nhưng cũng đồng thời phá hủy toàn bộ Trầm Ngọc Cốc. Chứng kiến điều này, Fujin và Dược Quân đã phản bội lại vị thần kia, cùng hợp sức cứu lấy người dân Trầm Ngọc Cốc. Lingyuan đuổi họ đến nơi lánh nạn, Dược Quân đối đầu với bề trên, Fujin thì leo leo lên đỉnh Linh Mông Sơn và ném Ngọc Tế Lễ vào dòng nước lũ. Nỗ lực của họ đã thành công, tuy nhiên, Dược Quân hy sinh trong trận chiến, Fujin thì "chìm xuống đáy sâu" vì mất quá nhiều tiên lực. Cô bị kẹt trong Cẩm Lạc Đình hàng nghìn năm, chỉ có thể hồi tưởng lại ký ức về thế giới bên ngoài thông qua hương trà được dâng.
+
+## Hội Thoại #2
+
+(Nếu Fujin và Tiểu Mao ở phía bắc Làng Kiều Anh)
+Tiểu Mao: Chị Fujin! Chúc mừng chị đã hồi phục!
+Tiểu Mao: Em nghe A Lam nói rồi! Tuy chị ấy luôn nói "dáng vẻ trước kia vẫn hơn", "không hiểu tại sao lại biến về hình dạng con người" gì đó, nhưng em có thể thấy A Lam cũng rất vui!
+Tiểu Mao: Chị Fujin hình như rất thích uống trà, vậy nên em đã đến tìm ông Lu học cách làm bánh trà. Đợi khi học xong sẽ làm món bánh trà siêu ngon cho chị Fujin và thưởng thức!!
+Fujin: Haha, cảm ơn em, Tiểu Mao. Đổi lại... Ừm, đến lúc đó, chị sẽ kể cho em nghe vài chuyện về quá khứ của Lingyuan.

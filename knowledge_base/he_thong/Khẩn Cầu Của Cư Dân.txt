@@ -1,0 +1,14 @@
+# Khẩn Cầu Của Cư Dân
+
+## Tổng Quan
+
+type: Nhiệm Vụ
+type2: Danh Vọng
+
+Khẩn Cầu Của Cư Dân là các nhiệm vụ hàng tuần có thể nhận khi đạt Cấp Danh Vọng 2 tại một Quốc Gia của Teyvat.
+
+Có thể hoàn thành khẩn cầu bằng cách giao vật phẩm được NPC yêu cầu cho họ hoặc tiêu diệt kẻ địch được yêu cầu.
+
+Có thể hoàn thành tổng cộng 3 khẩn cầu mỗi tuần, tính chung cho mọi quốc gia. Mỗi khẩn cầu sẽ thưởng 80 EXP Danh Vọng và 20,000 Mora.
+
+Khác với Thảo Phạt, Khẩn Cầu được tính là Nhiệm Vụ Thế Giới và có thể chọn Đi Theo từ Giao Diện Nhiệm Vụ.

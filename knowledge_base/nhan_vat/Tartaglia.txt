@@ -1,0 +1,33 @@
+# Tartaglia
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+quality: 5
+weapon: Cung
+element: Thủy
+name: Tartaglia
+realname: Ajax
+sex: Nam
+birthday: 20 tháng 07
+constellation: Kình Thiên
+region: Snezhnaya
+affiliation: Fatui
+dish: Lưỡi Câu Cực Phẩm
+namecard: Quỷ Trang
+charinnc: Childe
+obtain: Cầu Nguyện Nhân Vật
+releaseDate: 2020-11-11
+title: Childe
+title2: Đứng Cuối Trong 11 Quan Chấp Hành Fatui
+voiceEN: Griffin Burns
+voiceCN: Yudong (鱼冻)
+voiceJP: [[wikipedia:Ryōhei Kimura
+Kimura Ryohei (木村 良平)]]<ref name: "Tartaglia EN/JP" />
+voiceKR: [[wikipedia:Nam Doh-hyeong
+sibling: Tonia
+siblingNote: em gái
+sibling2: Anthon
+siblingNote2: em trai
+sibling3: Teucer
+siblingNote3: em trai

@@ -1,0 +1,15 @@
+# Pauleau
+
+## Tiểu Sử
+
+type: NPC Nhiệm Vụ
+region: Fontaine
+location: Fontaine
+affiliation: Đoàn Kịch Của Aurelie
+voiceEN: [[imdb:nm4413987
+
+- Tổng Quan: Pauleau là một NPC độc quyền nhiệm vụ xuất hiện trong
+
+Pauleau là một thành viên đoàn kịch của Aurelie. Anh đã yêu cô nhưng bị từ tối, nói rằng cô ấy coi mọi người trong đoàn là ngôi nhà của cô. Khi Aurelie bị sát hại, Pauleau đã vật lộn để hoàn thành kịch bản kịp thời cho vở kịch "Tinh Linh Nước Bé Nhỏ" tại Poisson. Trong vở kịch, anh vào vai người yêu của Clio; Clio là một Tinh Linh Nước Trong, và vai diễn này dành riêng cho Aurelie.
+
+- Ngoại Hình: (Sẽ được bổ sung.)

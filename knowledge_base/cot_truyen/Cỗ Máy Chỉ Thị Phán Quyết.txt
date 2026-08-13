@@ -1,0 +1,24 @@
+# Cỗ Máy Chỉ Thị Phán Quyết
+
+## Tổng Quan
+
+type: Cốt Truyện
+region: Fontaine
+area: Đại Sảnh Fontaine
+subarea: Viện Ca Kịch Epiclese
+
+Cỗ Máy Chỉ Thị Phán Quyết là một cái cân lớn bằng máy nằm trong Viện Ca Kịch Epiclese ở Đại Sảnh Fontaine được tạo từ bàn tay của Focalors. Nó chuyển niềm tin của mọi người vào công lý thành năng lượng Indemnitium, nguồn năng lượng được dùng trong Đại Sảnh Fontaine và Erinnyes.
+
+Ngoài chức năng tạo năng lượng, Cỗ Máy dường như có ý thức riêng, có thể đưa ra phán quyết trong tòa. Tại sao và bằng cách nào Cỗ Máy này có thể vận hành được như vậy, đấy là điều mà Lyney đã thắc mắc, Lyney nghi rằng Cỗ Máy có liên quan tới lời tiên tri đen tối. Cho dù Thẩm Phán Tối Cao nghĩ gì, người dân Fontaine vẫn nhất mực tin tưởng phán quyết của Cỗ Máy.
+
+## Tổng Quan
+
+Fontaine sử dụng một hệ thống năng lượng "cực kỳ đặc biệt" và đã phải đối mặt với khủng hoảng năng lượng từ lâu. Người Fontaine rất hoài nghi về tính bền vững của hệ thống năng lượng này Cỗ Máy thu thập niềm tin của mọi người vào "công lý" trong phiên xét xử và biến chúng thành Indemnitium, cung cấp năng lượng cho nhiều đồ dùng tinh xảo ở Fontaine, trong đó có đèn và hệ thống giao thông.
+
+Cuộc khủng hoảng năng lượng vào 400 đến 500 trước khiến Rene và Jakob, hai thành viên của Học Viện Narzissenkreuz tìm kiếm giải pháp trong những cỗ máy của Khaenri'ah ở Ốc Đảo Hoang Mạc. Khám phá của hai người mang họ quay về chỗ Alain Guillotin, người nghĩ ra hệ thống Sức Mạnh Nền Tảng Pneuma - Ousia truyền vào các Robot Dây Cót, khiến chúng vẫn hoạt động đến ngày nay.
+
+Một số nơi như Đại Sảnh Fontaine và đảo của Erinnyes tiếp tục được Cỗ Máy nạp năng lượng. Cho dù có hệ thống năng lượng Pneuma - Ousia, năng lượng tạo ra từ Cỗ Máy cũng khó bị thay thế, và người Fontaine vẫn tiếp tục nghiên cứu tìm loại năng lượng thay thế năng lượng Indemnitium, có thể thấy ở các thành viên của Viện Khoa Học Fontaine.
+
+Trong phiên xử án Lyney và Lynette từ Furina, Cỗ Máy nghe lập luận từ hai phía và nghiêng cán cân bên phe nào hợp lý hơn. Sau khi biết do Liliane vô tình giết người, Cowell mới là chủ mưu thật sự, Cỗ Máy ra phán quyết vô tội cho anh em Lyney và Lynette.
+
+Trong sự kiện của Như Làn Mưa Nhẹ Không Rõ Nguyên Nhân, Cỗ Máy ra phán quyết định tội Tartaglia dù Thẩm Phán Tối Cao Neuvillette xóa cáo buộc đến Tartaglia về vụ mất tích bí ẩn, khiến cả Neuvillette và Furina ngạc nhiên và khó hiểu. Đấy là lần đầu tiên quan điểm của Thẩm Phán và Cỗ Máy không giống nhau. Neuvillette quyết định tự mình điều tra Cỗ Máy và vụ án của Tartaglia, còn Furina lấp liếm sai sót của Cỗ Máy bằng cách xử sự quá khích và phô trương.

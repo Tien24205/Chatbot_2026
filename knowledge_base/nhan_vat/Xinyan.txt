@@ -1,0 +1,40 @@
+# Xinyan
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+quality: 4
+weapon: Trọng Kiếm
+element: Hỏa
+name: Xinyan
+birthday: 16 tháng 10
+region: Liyue
+constellation: Hồng Đàn Tứ Huyền
+affiliation: "Dây Đỏ"
+dish: Gà Rock and Roll!
+namecard: Sau Khi Hát
+father: Bố của Xinyan
+mother: Mẹ của Xinyan
+obtain: Cầu Nguyện
+releaseDate: 2020-12-01
+title: Giai Điệu Nóng Bỏng
+title2: Nghệ Sĩ Rock Duy Nhất Ở Cảng Liyue
+voiceEN: [[imdb:nm3338130
+Laura Stahl]]<ref name: "Xinyan EN/JP-VA">(EN & JP) Twitter - VA Announcement
+voiceCN: Yaxin Wang (王雅欣)
+voiceJP: w|Chiaki Takahashi (actress)|Chiaki Takahashi (たかはし智秋)
+voiceKR: w|ko:김채하|Kim Chae-ha (김채하)
+
+## Tổng Quan
+
+ là nhân vật hệ Hỏa chơi được trong Genshin Impact.
+
+Rock&Roll là thể loại âm nhạc tương đối mới ở Liyue, được du nhập từ Fontaine. Xinyan, một người yêu âm nhạc - đang dần có cho mình một lượng người hâm mộ của riêng mình khi biểu diễn ở Cảng Liyue.
+
+## Có Mặt Trong
+
+- Cầu Nguyện thường Du Hành Thế Gian (Không Giới Hạn Thời Gian) kể từ Phiên Bản 1.2
+- Tất cả Cầu Nguyện Nhân Vật và Cầu Nguyện Vũ Khí từ Phiên Bản 1.2
+- Sự kiện Lục Cách Phấn Chương (10 tháng 02, 2021 - 7 tháng 03, 2021)
+- Sự kiện Chiến Binh Bí Ẩn (21 tháng 10, 2021 - 8 tháng 11, 2021)
+- Sự kiện Muôn Sắc Khắc Niên Hoa (Phiên Bản 2.4)

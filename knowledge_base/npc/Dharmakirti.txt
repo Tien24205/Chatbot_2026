@@ -1,0 +1,21 @@
+# Dharmakirti
+
+## Thông Tin Cơ Bản
+
+type: NPC Sự Kiện
+region: Sumeru
+location: Sumeru
+affiliation: Amurta
+title: Học Giả
+
+- Tổng Quan: Dharmakirti là một NPC độc quyền sự kiện, xuất hiện trong Khúc Hoan Ca Của Hoa Và Kẹo Màu.
+
+- Suy Nghĩ: Dharmakirti: (Làm ơn đi, lần thí nghiệm lâm sàng này nhất định phải thuận lợi. Mình đã phải vất vả mời người trợ giúp rồi, nhất định phải có được kết quả tốt!)
+
+## Hội Thoại
+
+Dharmakirti: Cảm ơn đã giúp đỡ, thử nghiệm lâm sàng lần này rất quan trọng. Nếu chuẩn bị xong rồi thì cứ nói với tôi nhé.
+Chuẩn bị xong rồi.
+Vẫn chưa chuẩn bị xong.
+:Dharmakirti: Không sao, đợi chuẩn bị xong xuôi hết thì chúng ta sẽ bắt đầu.
+:Dharmakirti: Đợi sau khi và bệnh nhân tỉnh lại từ giấc mơ, chúng tôi sẽ tiếp tục quay lại thăm khám. Nếu thử nghiệm cho kết quả tốt thì có thể quan sát được hiệu quả lâu dài một cách rõ rệt.

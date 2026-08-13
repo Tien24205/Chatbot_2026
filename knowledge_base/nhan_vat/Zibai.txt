@@ -1,0 +1,39 @@
+# Zibai
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+quality: 5
+weapon: Kiếm Đơn
+element: Nham
+name: Zibai
+birthday: 15 tháng 05
+constellation: Bạch Câu
+region: Liyue
+affiliation: Bát Kỳ
+affiliation2: Đảo Thiên Không
+affiliationNote2: trước đây
+affiliation3: Lang-Gan
+affiliationNote3: trước đây
+group: Thiên Sứ
+group2: Thần
+dish: Hương Xuân Chiên Giòn
+namecard: Cảnh Khói
+obtain: Cầu Nguyện Nhân Vật
+event_name: Sung Túc Hài Hòa
+releaseDate: 2026-02-03 18:00:00 GMT+8
+title: Ngựa Phi Suối Chảy
+title2: Bạch Mã Tiên Nhân Trong Truyền Thuyết Liyue
+creator: Relative Type|synthetic|Thiên Lý| Miện Hành Lang Sâu
+relatedCreation: Relative Type|synthetic|Thiên Sứ| Miện Hành Lang Sâu
+voiceEN: [[imdb:nm11533466
+Laura Welsh]]<ref>YouTube: [https://www.youtube.com/watch?v: _yuHIzPJGHA Video Giới Thiệu Phiên Bản Luna IV: "Nếu Một Đêm Đông, Có Vị Lữ Khách"] (Mô tả video)
+voiceCN: Mace
+voiceJP: w|Misato Fukuen|Fukuen Misato (ja|福圓 美里)
+voiceKR: Chun Song-e (ko|천송이)
+
+## Tổng Quan
+
+ là một nhân vật hệ Nham chơi được trong Genshin Impact.
+
+Zibai từng là Thiên Sứ cai quản một vương quốc cổ xưa có tên là Lang-Gan, cô được tôn thờ như một vị Thần Xã Tắc trước khi Lang-Gan bị hủy diệt. Sau này, cô trở thành một thành viên của Bát Kỳ.

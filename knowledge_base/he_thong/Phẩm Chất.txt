@@ -1,0 +1,35 @@
+# Phẩm Chất
+
+## Tổng Quan
+
+type: Hệ Thống Trò Chơi
+
+Phẩm Chất, hay còn được gọi là độ hiếm biểu thị mức độ khó để nhận được một vật phẩm hoặc những hiệu quả vật phẩm mang lại. Các vật phẩm có thể có phẩm chất 1 Sao, 2 Sao, 3 Sao, 4 Sao và 5 Sao. Ngoài ra cũng có những vật phẩm không có phẩm chất, thường được gọi vui là 0 Sao. Phẩm chất được áp dụng cho Vật Phẩm, Nhân Vật, Vũ Khí, Thánh Di Vật, Món Ăn, Sách, Đồ Trang Trí và Trang Phục.
+
+## Vật Phẩm
+
+Vật Phẩm có các phẩm chất 0 Sao, 1 Sao, 2 Sao, 3 Sao, 4 Sao và 5 Sao. Thông thường, vật phẩm phẩm chất thấp sẽ dễ nhận được hơn hoặc có hiệu quả yếu hơn các vật phẩm phẩm chất cao, đặc biệt là khi so sánh cùng một vật phẩm với các phẩm chất khác nhau của nó. Không có tiêu chuẩn rõ ràng nào về phẩm chất có thể áp dụng cho tất cả các loại vật phẩm.
+
+## Nhân Vật
+
+Nhân Vật có các phẩm chất 4 Sao và 5 Sao. Tất cả Nhân Vật đều có thể nhận được thông qua Cầu Nguyện, ngoại lệ duy nhất là Nhà Lữ Hành được mở khóa tự động khi bắt đầu hành trình, và Aloy, nhân vật hợp tác nhận được thông qua thư. Một số Nhân Vật 4 Sao cũng có thể nhận được từ một số Nhiệm Vụ Ma Thần, Đổi Tinh Huy trong Cửa Hàng Paimon, Sự Kiện Chủ Đề và Sự Kiện Vĩnh Viễn.
+
+## Vũ Khí
+
+Vũ Khí có các phẩm chất 1 Sao, 2 Sao, 3 Sao, 4 Sao và 5 Sao. Vũ Khí từ 1 Sao đến 3 Sao có thể tìm thấy trong Rương. Vũ Khí từ 3 Sao đến 5 Sao có thể nhận được từ Cầu Nguyện. Một số Vũ Khí 4 Sao có thể Rèn. Một số Vũ Khí 4 Sao chỉ có thể nhận được từ Sự Kiện và Cửa Hàng. Vũ Khí 1 Sao và 2 Sao có thể tăng cấp lên Cấp 70, trong khi Vũ Khí từ 3 Sao đến 5 Sao có thể tăng lên Cấp 90. Có thể tinh luyện các Vũ Khí từ 3 Sao trở lên, Vũ Khí 1 Sao và 2 Sao không có nội tại nên không thể tinh luyện.
+
+## Thánh Di Vật
+
+Thánh Di Vật có các phẩm chất 1 Sao, 2 Sao, 3 Sao, 4 Sao và 5 Sao. Thánh Di Vật từ 1 Sao đến 4 Sao có thể tìm thấy trong Rương và rơi ra từ Kẻ Địch. Thánh Di Vật từ 3 Sao đến 5 Sao có thể nhận được từ Bí Cảnh Chúc Phúc. Thánh Di Vật 1 Sao và 2 Sao có thể cường hóa lên tối đa +4, 3 Sao lên tối đa +12, 4 Sao lên tối đa +16 và 5 Sao lên tối đa +20.
+
+## Món Ăn
+
+Món Ăn có các phẩm chất 1 Sao, 2 Sao, 3 Sao, 4 Sao và 5 Sao. Món Ăn phẩm chất càng cao thì càng cần nhiều lần nấu ăn Hoàn Mỹ để đạt Thông Thạo và mở khóa Tự Động Nấu; Món Ăn 1 Sao cần 5 lần, 2 Sao cần 10 lần, 3 Sao cần 15 lần, 4 Sao cần 20 lần và 5 Sao cần 25 lần. Món Ăn phẩm chất cao hơn cũng có hiệu quả mạnh hơn so với Món Ăn phẩm chất thấp cùng loại, ngoại trừ các món đặc sản của Nhân Vật, vốn có thể mạnh hơn món ăn Kỳ Lạ của phẩm chất cao hơn có cùng loại hiệu quả.
+
+- Đồ Trang Trí: Đồ Trang Trí có các phẩm chất 2 Sao, 3 Sao, 4 Sao và 5 Sao. Đồ Trang Trí có phẩm chất cao hơn sẽ tốn nhiều thời gian chế tạo hơn và thưởng nhiều Độ Tín Nhiệm hơn.
+
+- Sách: Sách có các phẩm chất 0 Sao, 3 Sao và 4 Sao.
+
+## Trang Phục Nhân Vật
+
+Trang Phục nhân vật có các phẩm chất 4 Sao và 5 Sao. Trang Phục 4 Sao có giá Đá Sáng Thế, trong khi Trang Phục 5 Sao thông thường có giá Đá Sáng Thế và đi kèm với Lồng Tiếng đặc biệt, động tác chờ và hiệu ứng hình ảnh mới.

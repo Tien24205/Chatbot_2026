@@ -1,0 +1,36 @@
+# EXP Thánh Di Vật
+
+## Thông Tin Cơ Bản
+
+type: Kinh Nghiệm
+description: EXP Thánh Di Vật, sử dụng để Cường hóa Thánh Di Vật.
+source1: Thánh Di Vật
+source2: Nguyên Liệu Cường Hóa Thánh Di Vật
+
+- Tổng Quan: EXP Thánh Di Vật có thể nhận được bằng cách sử dụng Nguyên Liệu Cường Hóa Thánh Di Vật hoặc sử dụng các Thánh Di Vật khác để cường hóa.
+
+## Bảng Cường hóa Thánh Di Vật
+
+Khi cường hóa Thánh Di Vật, 1 điểm Kinh Nghiệm sẽ tiêu hao 1 Mora trừ khi sử dụng Thánh Di Vật đã cường hóa để cường hóa (Xem bên dưới).
+
+Nâng cấp trọn bộ 5 Thánh Di Vật 5 lên cấp 20 sẽ tốn 270.475 × 5 = 1.352.375 EXP Thánh Di Vật & Mora.
+
+## Sử dụng Thánh Di Vật như là Nguyên Liệu Cường Hoá.
+
+Khi tiêu hao một Thánh Di Vật đã cường hóa, ngoài EXP cơ bản của nó thì 80% EXP được sử dụng để cường hóa sẽ được phục hồi mà không tiêu hao thêm Mora. Ví dụ, sử dụng một Thánh Di Vật Cấp 16 sẽ được 100.660 EXP (2.520 + 0,8 × 122.675), và tiêu hao 2.520 Mora.
+
+Giá trị EXP của Thánh Di Vật tiêu hao dựa trên độ hiếm của nó:
+
+- Hệ số Thưởng EXP: Khi cường hóa Thánh Di Vật, sẽ có một xác suất nhỏ Thánh di vật đó sẽ nhận được ×2–5 lượng EXP bình thường.
+
+## Thánh Di Vật từ Bí Cảnh
+
+Ở cấp bí cảnh cao nhất, mỗi lần khiêu chiến có thể nhận số EXP tương đương gấp 35,5 lần Thánh Di Vật 1★ hay. Có nghĩa là bạn cần 19/9 lần khiêu chiến để có đủ EXP Thánh Di Vật để cường hóa một Thánh Di Vật 5★/4★ tương ứng mà không dựa vào Hệ số Thưởng hoặc artifact exclusions.
+
+## Thánh Di Vật khi Điều Tra
+
+Bằng cách đi điều tra những vị trí rơi ra thánh di vật thiết đặt lại theo ngày, bạn có thể thu thập khoảng 20 Thánh di vật 2★ và 100 thánh di vật 1★, quy đổi thành khoảng mà không cần nhựa, tức là ngang với 4 lần khiêu chiến bí cảnh để lấy EXP hay tượng đương 80 Nhựa Nguyên Chất.
+
+## Thánh Di Vật từ Cửa Hàng
+
+Hiện tại, mỗi tuần bạn có thể mua 15 thánh di vật 2★ từ các NPC có bán. Mỗi món có giá 2.000 Mora (tổng là 30.000 Mora cho 15 thánh di vật mỗi tuần) và vì khá nhiều Cường Hóa trong trò chơi yêu cầu lượng lớn Mora, nên đây được coi là điều không nên làm trừ khi bạn có dư quá nhiều Mora.

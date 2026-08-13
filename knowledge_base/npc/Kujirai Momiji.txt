@@ -1,0 +1,43 @@
+# Kujirai Momiji
+
+## Thông Tin Cơ Bản
+
+type: NPC Đại Thế Giới
+type2: NPC
+region: Inazuma
+affiliation: Nhà Kujirai
+affiliation2: Hội Câu Cá
+title: Thợ Câu Inazuma
+ancestry: Nhà Kujirai
+sibling: Tiểu Đệ Kujirai
+
+- Tổng Quan: Kujirai Momiji là một NPC ở Thành Inazuma, Inazuma. Cô là chị của Tiểu Đệ Kujirai.
+
+- Tiểu Sử: (Sắp có.)
+
+- Ngoại Hình: (Sắp có.)
+
+- Vương Quốc Ánh Trăng - Thời Khắc Trăng Lên - Trao Trọn Tấm Lòng - Tiếc Thay Trăng Sáng - Thời Khắc Trăng Tròn - Kế Hoạch Bổ Sung Mồi Câu
+
+## Hội Thoại
+
+Kujirai Momiji: Xin chào! Muốn gia nhập "Hội Kujirai" sao?
+(Sau khi hoàn thành Đàn Cá Ồ Ạt)
+Tôi cần một số vật dụng câu cá.
+:Kujirai Momiji: Ừm! Muốn làm tốt việc gì đó, trước hết phải có công cụ tốt, bạn rất có tố chất là người con của biển. Đến đây, chọn thoải mái đi!
+;(Mở giao diện cửa hàng Hội Câu Cá Inazuma)
+Đây là?
+:Kujirai Momiji: Ơ, tôi còn tưởng các bạn đến để vào hội đó chứ, thì ra các bạn không biết tôi.
+:Kujirai Momiji: Để tôi tự giới thiệu, tôi là người kế thừa của "phương thức câu cá Kujirai", là người sáng lập Hội Kujirai, đứa con của biển - Kujirai Momiji.
+:Kujirai Momiji: Ấy, đừng nhìn tôi vậy chứ.
+:Kujirai Momiji: Là một thợ câu sinh ra và lớn lên ở vùng biển, rồi cũng sẽ có ngày trở về với biển.
+:Kujirai Momiji: Cho nên tự xưng là đứa con của biển cũng đâu có gì sai phải không?
+"Hội Kujirai" là gì?
+:Kujirai Momiji: Là hiệp hội thuộc về những đứa con của biển...
+:Kujirai Momiji: Khà khà...hơi khó hiểu hả? Vậy để tôi nói cách khác.
+:Kujirai Momiji: Hội Kujirai là hội câu cá do chính tôi thành lập, với kỹ năng cốt lõi là "phương thức câu cá Kujirai".
+:Kujirai Momiji: Tuy quy mô hiện giờ không lớn, nhưng tất cả thành viên đều là những thợ câu xuất sắc được lựa chọn từ cả trăm người.
+:Kujirai Momiji: Hơn nữa tôi tin với sự hỗ trợ của "phương thức câu cá Kujirai" gia truyền của tôi, sẽ có một ngày, Hội Kujirai có thể phát triển rộng rãi, học trò có mặt ở khắp nơi trên lục địa.
+:Kujirai Momiji: Thế nào? Nếu gia nhập từ bây giờ, thì bạn sẽ là thành viên "khai quốc công thần" đấy!
+Tạm biệt.
+:Kujirai Momiji: Tạm biệt, nếu muốn gia nhập "Hội Kujirai" thì hoan nghênh đến tìm tôi nhé!

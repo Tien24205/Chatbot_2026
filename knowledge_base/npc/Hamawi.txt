@@ -1,0 +1,44 @@
+# Hamawi
+
+## Tổng Quan
+
+type: NPC Đại Thế Giới
+region: Sumeru
+location: Sumeru
+affiliation: Tiệm Tạp Hóa Sumeru
+title: Chủ Tiệm Tạp Hóa
+child: Sal
+child2: Mawyo
+child3: Jut
+
+Hamawi là một NPC thương nhân có thể được tìm thấy tại Thành Sumeru, Sumeru. Ông là chủ của
+cửa hàng "Tiệm Tạp Hóa Sumeru", đánh dấu bằng biểu tượng trên bản đồ.
+
+Cửa hàng mở bán cả ngày và bán nguyên liệu nấu nướng. Nguyên liệu được làm mới mỗi ngày.
+
+- Lời Thoại Nhàn Rỗi: Không phải cách hay... : "Không thể để mọi chuyện tiếp diễn như thế này được."
+
+- Suy Nghĩ: Hamawi: (Khi nào mới tìm được công việc ổn định để cha già yên tâm đây.)
+
+## Hội Thoại
+
+Hamawi: Ôi đứa con thứ hai này của tôi, bao giờ mới kiếm được công việc đàng hoàng chứ...
+Hamawi: Ơ xin lỗi, chào quý khách, có muốn mua gì không?
+Ở đây bán gì?
+:Hamawi: Đồ tạp hóa hằng ngày thôi, xin cứ chọn thoải mái.
+;(Mở cửa hàng Tiệm Tạp Hóa Sumeru)
+(Trước khi hoàn thành Đích Đến Của Con Thuyền Ý Thức)
+Sao thế?
+:Hamawi: Cháu nói xem nó cũng già đầu rồi, Jut nhỏ hơn nó đã thành gia lập nghiệp, sao nó vẫn cứ không làm việc nghiêm túc thế.
+:Hamawi: Cứ giống anh cả, xin kỹ thuật từ Trạm Cuối Akasha rồi tìm công việc ổn định cũng được mà.
+:Hamawi: Cả ngày chỉ biết tìm tòi mấy thứ nguy hiểm lại không đáng tin, trong tay có đồng nào là chạy ngay đến sở giao dịch, đau đầu thật...
+:Hamawi: Cháu nói xem, làm thế nào mới khiến đám nhà mạo hiểm kia tránh xa con tôi đây?
+(Sau khi hoàn thành Đích Đến Của Con Thuyền Ý Thức)
+Sao vậy?
+:Hamawi: Nó cũng lớn rồi, ngay cả Jut nhỏ tuổi hơn cũng đã thành gia lập nghiệp, vậy mà nó vẫn lêu lổng suốt ngày, không làm chuyện chính.
+:Hamawi: Cứ tưởng rằng giống anh của nó cũng được, dùng Trạm Cuối Akasha học chút kỹ thuật, tìm một công việc ổn định.
+:Hamawi: Giờ Akasha không còn, nó lại không thích học, càng khó tìm việc làm hơn...
+:Hamawi: Cả ngày chỉ quanh quẩn những thứ vừa nguy hiểm vừa mông lung, có chút tiền trong tay là chạy đến Sở Giao Dịch, thật là đau đầu...
+:Hamawi: Cháu nói đi, làm sao mới có thể khiến những nhà mạo hiểm đó tránh xa con trai của ta đây?
+Tạm biệt.
+:Hamawi: Haiz, thật không khiến cho người ta bớt lo được...

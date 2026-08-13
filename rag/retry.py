@@ -38,17 +38,30 @@ def suggested_wait(e: Exception, default: float = 20.0) -> float:
     return min(wait, MAX_WAIT_SECONDS)
 
 
-def with_retry(fn: Callable[[], T], on_wait: Callable[[float, int], None] | None = None) -> T:
-    """Chạy fn(), thử lại khi gặp 429. Lỗi khác thì ném ra ngay."""
+def with_retry(
+    fn: Callable[[], T],
+    on_wait: Callable[[float, int], None] | None = None,
+    attempts: int = MAX_ATTEMPTS,
+) -> T:
+    """
+    Chạy fn(), thử lại khi gặp 429. Lỗi khác thì ném ra ngay.
+
+    `attempts` để bên gọi tự chọn độ kiên nhẫn, vì hai tình huống khác hẳn nhau:
+
+      - Lượt chat: người dùng đang ngồi chờ, thử 3 lần rồi báo lỗi là đúng.
+      - Nạp knowledge base: chạy hàng chục phút, không ai ngồi nhìn. Bỏ cuộc sớm
+        làm hỏng cả tác vụ dài. Đo được thật: nạp 2.848 chunk chết ở chunk 400
+        chỉ vì 3 lần thử không đủ vượt qua một đợt giới hạn theo phút.
+    """
     last: Exception | None = None
-    for attempt in range(1, MAX_ATTEMPTS + 1):
+    for attempt in range(1, attempts + 1):
         try:
             return fn()
         except Exception as e:
             if not is_rate_limit(e):
                 raise
             last = e
-            if attempt == MAX_ATTEMPTS:
+            if attempt == attempts:
                 break
             wait = suggested_wait(e)
             if on_wait:
@@ -57,5 +70,5 @@ def with_retry(fn: Callable[[], T], on_wait: Callable[[float, int], None] | None
 
     raise RateLimited(
         "Đã chạm giới hạn tần suất của Gemini (free tier ~20 request/phút) "
-        f"sau {MAX_ATTEMPTS} lần thử. Chờ khoảng một phút rồi hỏi lại."
+        f"sau {attempts} lần thử. Chờ khoảng một phút rồi hỏi lại."
     ) from last

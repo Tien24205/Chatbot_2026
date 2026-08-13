@@ -1,0 +1,35 @@
+# Lời Thề Xạ Thủ Thần
+
+## Thông Tin Cơ Bản
+
+id: 15302
+type: Cung
+releaseDate: 2020-09-28
+quality: 3
+base_atk: 39
+2nd_stat_type: ST Bạo Kích
+2nd_stat: 10,2%
+passive: Tinh Chuẩn
+effect: Tăng (var1)% sát thương tạo thành với điểm yếu.
+eff_rank1_var1: 24
+eff_rank2_var1: 30
+eff_rank3_var1: 36
+eff_rank4_var1: 42
+eff_rank5_var1: 48
+obtain: Cầu Nguyện
+eff_att1: Tăng Sát Thương
+
+- Tổng Quan: Lời Thề Xạ Thủ Thần là cung 3 sao.
+
+## Câu Chuyện
+
+Trong truyền thuyết, những việc đã xảy ra trong quá khứ sâu xa.
+Đó là bị kịch thời viễn cổ, huynh đệ dùng vũ khí tương tàn lẫn nhau.
+Trong đó có một cung thủ vĩ đại đã chịu sự sỉ nhục, từ đó anh hạ lời thề: Trước khi truy sát kẻ địch, trước khi bắn mũi tên xuyên qua yết hầu của kẻ địch,
+Trước khi để dòng máu của kẻ địch khô cạn, tuyệt đối không rửa chân. Cũng theo truyền thuyết, người đó cuối cùng vì viêm chân mà ngã xuống.
+
+## Có Mặt Trong
+
+- Cầu nguyện thường Du Hành Thế Gian (Không giới hạn thời gian)
+- Cầu Nguyện Cho Nhà Lữ Hành Mới (Không giới hạn thời gian cho đến khi đủ 20 lần cầu nguyện)
+- Tất cả Cầu Nguyện Nhân Vật Đại Diện và Cầu Nguyện Vũ Khí

@@ -1,0 +1,17 @@
+# Cung Săn Bắn Tôi Luyện
+
+## Thông Tin Cơ Bản
+
+id: 15201
+type: Cung
+series: 2 Sao
+releaseDate: 2020-09-28
+quality: 2
+base_atk: 33
+obtain: Rương Điều Tra Bán bởi Wagner Bán bởi Lão Zhang,Hajime và Allan
+
+- Tổng Quan: Cung Săn Bắn Tôi Luyện là cung 2 sao.
+
+- Câu Chuyện: Thợ săn phải đứng ở nơi có gió. Tránh đứng thẳng khi trèo trên sườn núi. Cho dù con mồi là dã thú, ma vật hay ác nhân
+
+- Được tìm thấy ngẫu nhiễn trong Rương Thường và Cao Cấp - Rơi khi tương tác với một số điểm Điều Tra - Nhận thưởng từ nói chuyện với Allan

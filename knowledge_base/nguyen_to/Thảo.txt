@@ -1,0 +1,24 @@
+# Thảo
+
+## Thông Tin Cơ Bản
+
+archon: Tiểu Vương Kusanali
+status: Thảo
+reaction: Hỏa,Thủy,Lôi
+
+- Tổng Quan: Thảo là một trong bảy Nguyên Tố và là nguyên tố thứ tư mà Nhà Lữ Hành có được. Vị thần cai quản nguyên tố này là Tiểu Vương Kusanali, thuộc quốc gia Sumeru.
+
+## Phản Ứng Nguyên Tố
+
+Thảo Phản Ứng Nguyên Tố với Hỏa, gây ra hiệu ứng Thiêu Đốt.
+- Thiêu Đốt: Gây ST Nguyên Tố Hỏa theo thời gian. Mặt cỏ cũng được tính là vật thể Thảo và sẽ lan hiệu ứng thiêu đốt ra xung quanh.
+- Sum Suê
+- Xúc Tác
+
+## Trạng Thái Thảo
+
+Không giống như các Nguyên tố khác, sử dụng ST Nguyên Tố Thảo sẽ không áp dụng trạng thái Thảo. Tuy nhiên, một số khả năng nhất định như trường xanh được triệu hồi bởi Phù Thuỷ Hilichurl Thảo hoặc các đám mây độc từ Slime Thảo Lớn có khả năng áp dụng trạng thái Thảo. Hiệu ứng trạng thái Thảo không có bất kỳ hiệu ứng nào khác; nó được coi đơn giản là hiệu ứng của nguyên tố Thảo.
+
+## Kẻ Địch
+
+Một số Kẻ Địch có khả năng tạo ra khiên hoặc công trình Thảo, cung cấp cho chúng khả năng tấn công hoặc phòng thủ đáng kể. Các khiên và công trình có thể bị phá vỡ bằng các đòn tấn công nguyên tố Hoả.

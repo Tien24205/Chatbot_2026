@@ -9,6 +9,7 @@ Không cần API key, không cần Docker. Chạy:  python 01_test_chunking.py
 
 from __future__ import annotations
 
+import argparse
 import re
 import unicodedata
 from pathlib import Path
@@ -25,10 +26,14 @@ from rag.chunker import (
 from rag.loader import Document, load_directory
 from rag.text import BULLET
 
-KB_DIR = config.KB_DIR
-
 
 def main() -> None:
+    # Cho phép soi một thư mục khác trước khi thay knowledge_base/. Dữ liệu cào từ
+    # wiki phải qua được đúng bộ kiểm này rồi mới được phép thay dữ liệu đang chạy.
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--dir", default=str(config.KB_DIR), help="thư mục tài liệu cần kiểm")
+    KB_DIR = Path(ap.parse_args().dir)
+
     print("=" * 66)
     print("TEST 1 — DOCUMENT PROCESSING (đọc + làm sạch)")
     print("=" * 66)
@@ -106,8 +111,17 @@ def main() -> None:
             line = line.strip()
             if not line or line.startswith("#"):
                 continue
-            if " ".join(line.split()) not in blob:
-                lost.append((doc.source_name, line[:60]))
+            # Kiểm ở mức CÂU chứ không ở mức dòng. chunker cắt theo câu, nên một
+            # đoạn văn dài — wiki viết cả đoạn trên MỘT dòng — hoàn toàn có thể nằm
+            # vắt qua hai chunk mà không mất chữ nào. KB viết tay không lộ ra điều
+            # này chỉ vì mỗi dòng ở đó vốn đã ngắn hơn một chunk.
+            # Ranh giới câu gồm cả dấu hai chấm — chunker coi `:` là kết câu (xem
+            # chunker._SENTENCE_END), và tiếng Việt trong wiki dùng `:` rất nhiều
+            # ("Người họ Yun có nói: Thế nào là khéo?").
+            for sent in re.split(r"(?<=[.!?:])\s+", line):
+                sent = " ".join(sent.split())
+                if len(sent) > 15 and sent not in blob:
+                    lost.append((doc.source_name, sent[:60]))
     check(
         not lost,
         "Không mất nội dung — mọi dòng của file nguồn đều nằm trong ít nhất 1 chunk",
@@ -150,12 +164,18 @@ def main() -> None:
     )
 
     # --- Kiểm tra không cắt giữa câu ---
-    # Mỗi chunk phải kết thúc bằng dấu câu, dấu đóng ngoặc, hoặc là một mục danh sách.
-    bad_endings = [
-        c
-        for c in all_chunks
-        if not c.content.rstrip().endswith((".", "!", "?", ":", ")", "”", '"'))
-    ]
+    # Chunk phải kết thúc bằng dấu câu, dấu đóng ngoặc, HOẶC bằng một mục danh sách
+    # trọn vẹn. Vế sau là cần thiết: mục infobox kết thúc bằng dòng `- type: Khu Vực`
+    # — không có dấu câu nhưng cũng không hề bị cắt dở.
+    def ends_cleanly(content: str) -> bool:
+        text = content.rstrip()
+        if text.endswith((".", "!", "?", ":", ")", "”", '"')):
+            return True
+        if re.search(r"https?://\S+$", text):  # dòng dẫn link, không phải câu dở
+            return True
+        return bool(BULLET.match(text.rsplit("\n", 1)[-1]))
+
+    bad_endings = [c for c in all_chunks if not ends_cleanly(c.content)]
     check(
         not bad_endings,
         "Không chunk nào bị cắt giữa câu",

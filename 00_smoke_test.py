@@ -149,7 +149,7 @@ def main() -> None:
     print("2. TEST EMBEDDING (đo số chiều vector thật)")
     print("=" * 62)
 
-    sample = "Baron Nashor là quái trung lập mạnh nhất trong Liên Minh Huyền Thoại."
+    sample = "Quá Tải là phản ứng nguyên tố giữa Hỏa và Lôi trong Genshin Impact."
     try:
         resp = client.models.embed_content(model=embed_model, contents=sample)
         vector = resp.embeddings[0].values
@@ -164,8 +164,8 @@ def main() -> None:
     # Kiểm tra tiếng Việt có thực sự được hiểu về mặt ngữ nghĩa hay không.
     print("\n  Kiểm tra ngữ nghĩa tiếng Việt (cosine similarity):")
     pairs = [
-        ("Cách ăn Rồng Bạo Chúa trong Liên Quân", "Mục tiêu trung lập của game MOBA", "nên CAO"),
-        ("Cách ăn Rồng Bạo Chúa trong Liên Quân", "Công thức nấu phở bò Hà Nội", "nên THẤP"),
+        ("Phản ứng Bốc Hơi nhân sát thương bao nhiêu", "Cơ chế phản ứng nguyên tố", "nên CAO"),
+        ("Phản ứng Bốc Hơi nhân sát thương bao nhiêu", "Công thức nấu phở bò Hà Nội", "nên THẤP"),
     ]
     for a, b, expect in pairs:
         va = client.models.embed_content(model=embed_model, contents=a).embeddings[0].values

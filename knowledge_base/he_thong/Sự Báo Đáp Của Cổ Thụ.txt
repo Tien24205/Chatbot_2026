@@ -1,0 +1,35 @@
+# Sự Báo Đáp Của Cổ Thụ
+
+## Thông Tin Cơ Bản
+
+type: Hệ Thống Trò Chơi
+group: Hệ Thống Hiến Tế
+region: Mondstadt
+area: Long Tích Tuyết Sơn
+subarea: Con Đường Tuyết Phủ
+
+- Tổng Quan: Sự Báo Đáp Của Cổ Thụ là một trong những Hệ Thống Hiến Tế được tăng cấp bằng Mã Não Đỏ Thẫm. Có thể tìm thấy tại Cây Chịu Lạnh ở khu vực Long Tích Tuyết Sơn, Mondstadt.
+
+- Giáo Trình: Cây Chịu Lạnh: Mã Não Đỏ Thẫm Cây Chịu Lạnh: Ước Nguyện Đỏ Thẫm
+
+## Phần Thưởng
+
+Tăng cấp Sự Báo Đáp Của Cổ Thụ yêu cầu 10 Mã Não Đỏ Thẫm mỗi lần. Tổng cộng cần 110 Mã Não Đỏ Thẫm để đạt cấp tối đa. Đạt cấp tối đa sẽ nhận được thành tựu.
+
+Tất cả các cấp sẽ thưởng:
+
+Mỗi cấp tương ứng cũng sẽ thưởng:
+
+## Mã Não Đỏ Thẫm
+
+Chỉ có thể tìm được 80 Mã Não Đỏ Thẫm tại Long Tích Tuyết Sơn. Chúng được thu thập bằng cách tìm trong thế giới mở, rương và sau khi hoàn thành Khiêu Chiến Hạn Giờ. Những Mã Não Đỏ Thẫm khác có thể được tìm thấy bằng cách khám phá một số bí mật nhất định.
+
+Mã Não Đỏ Thẫm thứ 80 được nhận bằng cách cho cáo ăn trong Nhiệm Vụ Thế Giới Lạc Trong Núi Tuyết. Sau khi cho cáo ăn trong 5 ngày, một Rương Hiếm sẽ xuất hiện vào ngày thứ 6, Nhà Lữ Hành sẽ nhận được một Mã Não Đỏ Thẫm và nhận được thành tựu ẩn 'Câu Chuyện Không Thể Kể' khi mở rương
+
+Nhà Lữ Hành cần hoàn thành các nhiệm vụ từ Ước Nguyện Đỏ Thẫm để nhận thêm Mã Não Đỏ Thẫm và hiến tế Cây Chịu Lạnh.
+
+## Ước Nguyện Đỏ Thẫm
+
+Ngoài các phần thưởng được liệt kê ở trên, khi Cây Chịu Lạnh đạt Cấp 8 sẽ mở khoá Ước Nguyện Đỏ Thẫm. Nhiệm vụ Ước Nguyện Đỏ Thẫm sẽ xuất hiện vào Thứ Hai và Thứ Sáu, có thể hoàn thành để nhận Mã Não Đỏ Thẫm. Không có giới hạn về số lượng Mã Não Đỏ Thẫm có thể nhận được theo cách này.
+
+Ước Nguyện Đỏ Thẫm sẽ không còn làm mới sau khi Cây Chịu Lạnh đạt cấp tối đa. Những Mã Não Đỏ Thẫm còn dư sẽ vẫn sẽ ở trong túi của người chơi

@@ -1,0 +1,54 @@
+# Chanca
+
+## Thông Tin Cơ Bản
+
+type: NPC Đại Thế Giới
+region: Natlan
+location: Natlan
+title: Chủ Quầy Ăn Vặt Zakan
+affiliation: Dòng Dõi Vườn Treo
+affiliation2: Nhà Trọ Mệt Mỏi
+affiliation3: Quầy Ăn Vặt Zakan
+dialoguereward: Card|Công Thức: Tatacos|1
+
+## Tổng Quan
+
+Chanca là NPC bán hàng ở. Cô là chủ Nhà Trọ Mệt Mỏi, và có thể tìm thấy cô đang bán hàng ở Quầy Ăn Vặt Zakan trước cửa nhà trọ. Cũng có thể định vị thấy cô qua biểu tượng trên bản đồ.
+
+Cửa hàng mở xuyên ngày đêm, bán các món ăn, công thức và nguyên liệu nấu nướng. Các món trong cửa hàng tái lập hàng ngày.
+
+Nói chuyện với cô theo chuỗi hội thoại nhất định sẽ nhận được Tatacos.
+
+## Tiểu Sử
+
+Chanca là người nắm giữ Tên Cổ và là một trong những chiến binh mạnh mẽ nhất trong Nghi Lễ Hành Hương Về Lửa Thánh. Tuy nhiên, trong Cuộc Chiến Người Gác Đêm cuối cùng, chân cô bị thương nặng và cô không thể tiếp tục chiến đấu. Tuy vậy, danh tiếng của cô vẫn lưu truyền. Sau khi Chanca làm chủ Nhà Trọ Mệt Mỏi, nhiều người đến gặp cô, dù vậy mọi chuyện về chiến công ngày trước của cô lắng xuống khi mọi người dần biết cô không thích nhắc về những ngày tháng hào hùng ngày trước.
+
+- Ngoại Hình: (sẽ thêm sau)
+
+- Hội Thoại Nhàn Rỗi: Đến đúng chỗ rồi.
+
+## Hội Thoại
+
+Chanca: Muốn ăn no, muốn ngủ ngon sao? Vậy thì đến đúng chỗ rồi đó!
+Ở đây có món gì ngon không?
+:Chanca: Đây, mời xem thực đơn.
+Cô là...
+:Chanca: Tôi là chủ của Nhà Trọ Mệt Mỏi, kiêm người bán đồ ăn vặt trước cửa.
+:Chanca: Nhắc đến nơi này, hồi tôi còn là tuyển thủ thì tôi đã từng được ở miễn phí đó, không ngờ bây giờ lại đến lượt tôi quản lý nó.
+:Chanca: có người bạn nào từng tham gia Nghi Lễ Hành Hương không?
+:Chanca: Nếu có thì tiện rồi, có thể nhờ người đó dẫn đến nghỉ lại, ăn uống cũng miễn phí luôn, ăn đến khi nào hài lòng thì thôi!
+Có đề xuất gì không?
+:Chanca: Tất nhiên là món tủ của tôi, Tatacos rồi.
+:Chanca: Tuy nhiên, món này khá đơn giản, hầu như ai ở Natlan cũng biết làm.
+:Chanca: Nào, xòe tay ra.
+:Chanca: Haha, tưởng tôi sẽ đưa cho thành phẩm ư? Không, tôi sẽ tự tay hướng dẫn!
+::;(Nhận Recipe)
+Dạo này thế nào rồi?
+:Chanca: Cảm ơn đã quan tâm, mọi thứ đều ổn cả.
+:Chanca: Sau cuộc chiến, có nhiều đồng đội cũ đã đến chỗ tôi ăn tối. Tuy ai cũng bị thương, nhưng đều tỏ ra rất vui vẻ.
+:Chanca:...Tất nhiên, cũng có thể là do không muốn tỏ ra không vui trước mặt tôi.
+:Chanca: Niềm vui hòa bình và nỗi đau mất mát là hai chuyện khác nhau, chúng ta đều biết điều đó. Tôi chỉ mong họ có thể đến chỗ tôi ăn cơm và uống rượu nhiều hơn thôi. Tôi sẽ mời!
+Tạm biệt.
+:Chanca: Lần sau lại đến nhé!
+
+- Chanca là bộ tộc người Quechua sinh sống ở Peru.

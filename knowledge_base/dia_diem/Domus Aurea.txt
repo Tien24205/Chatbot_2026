@@ -1,0 +1,11 @@
+# Domus Aurea
+
+## Thông Tin Cơ Bản
+
+type: Địa Điểm Đáng Chú Ý
+type2: Nội Khu
+map_level: Domus Aurea - Tầng Dưới;Domus Aurea - Tầng Trên
+area: Biển Kỷ Nguyên Cũ
+subarea: Capitolium
+region: Fontaine
+map: Biển Kỷ Nguyên Cũ

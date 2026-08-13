@@ -1,0 +1,25 @@
+# Dhabit
+
+## Thông Tin Cơ Bản
+
+type: NPC Đại Thế Giới
+location: Nod-Krai
+
+- Tổng Quan: Dhabit là một NPC Thương Nhân tại. Anh là chủ sở hữu của Tiệm Sách Mimisbrunnr và được đánh dấu bằng biểu tượng.
+
+- Tiểu Sử: (Sẽ được thêm sau)
+
+- Ngoại Hình: (Sẽ được thêm sau)
+
+- Lời Thoại Nhàn Rỗi: New investments... : ""
+
+## Hội Thoại
+
+Có đề xuất thứ gì để đọc không?
+:Dhabit: Đều ở đây cả rồi, cứ chọn thoải mái nhé.
+Ngành xuất bản bị sao vậy?
+:Dhabit: Lợi nhuận ít quá, chỉ có mấy đồng bạc lẻ này thì đến bao giờ tôi mới trả hết nợ đây... Chưa tính khoản đầu tư thua lỗ ở Sumeru, còn cả chi phí mua sắm thiết bị ở Fontaine nữa, haiz.
+:Dhabit: Người ở đây ai cũng tinh ranh cả. Hôm nay đến xem vài trang, ngày mai đến xem vài trang, không tốn một đồng Mora nào cũng đã đọc xong cả cuốn sách! Tất nhiên bây giờ thì không được nữa rồi, có tôi canh chừng mà.
+:Dhabit: Còn có người phàn nàn quảng cáo trên tờ Nhật Báo Nasha nhiều quá, nhưng tôi cũng hết cách.
+Tạm biệt.
+:Dhabit: Không mua gì à? Thôi cũng được.

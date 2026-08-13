@@ -1,0 +1,34 @@
+# Citlali
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+quality: 5
+weapon: Pháp Khí
+element: Băng
+name: Citlali
+birthday: 20 tháng 01
+constellation: Thạch Tâm Kính
+region: Natlan
+affiliation: Chủ Nhân Gió Đêm
+affiliationLabel: Mictlan
+dish: "Bí Pháp Độc Quyền"
+namecard: Ngôi Sao Trắng
+obtain: Cầu Nguyện Nhân Vật
+event_name: Trời Sao Thì Thầm
+releaseDate: 2025-01-01
+title: Tinh Tú Obsidian
+title2: Người Ngắm Sao Mictlan
+title3: Bà Itztli
+title4: Đại Tư Tế Citlali
+title5: Shaman Vĩ Đại
+voiceEN: w|Skyler Davenport
+voiceCN: Liu Zhixiao (zh|柳知萧)
+voiceJP: w|Asami Tano|Tano Asami (ja|田野アサミ)
+voiceKR: Lee Eun-jo (ko|이은조)
+
+## Tổng Quan
+
+Citlali là một nhân vật hệ Băng chơi được trong Genshin Impact.
+
+Sở hữu Tên Cổ, Citlali, hay còn được các thành viên trong Chủ Nhân Gió Đêm gọi là "Bà Itztli", là một shaman vĩ đại và nổi tiếng của bộ tộc, cô thường sinh sống biệt lập. Mặc dù dễ nổi nóng và có xu hướng tự nuông chiều bản thân, cô vẫn sở hữu một khía cạnh thể hiện sự ngại ngùng trong tính cách của mình.

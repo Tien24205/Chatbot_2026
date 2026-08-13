@@ -1,0 +1,25 @@
+# Thương Sắt
+
+## Câu Chuyện
+
+id: 13201
+type: Vũ Khí Cán Dài
+series: 2 Sao
+releaseDate: 2020-09-28
+quality: 2
+base_atk: 33
+obtain: Rương
+obtain2: Điều Tra
+obtain3: Cửa Hàng
+
+- Tổng Quan: Thương Sắt là một Vũ Khí Cán Dài 2 sao.
+
+Phát tán những binh khí thô sơ nhưng trông có vẻ uy nghiêm.
+
+Đối với những người có thứ cần bảo vệ,
+
+Hoặc là trút bỏ đi thân phận lữ khách tay trắng của mình,
+
+Vũ khí có thô sơ đi chăng nữa cũng có thể phát huy sức mạnh gấp mười lần.
+
+- Được tìm thấy ngẫu nhiễn trong Rương Thường và Cao Cấp trên khắp Teyvat. - Rơi khi tương tác với một số điểm Điều Tra.

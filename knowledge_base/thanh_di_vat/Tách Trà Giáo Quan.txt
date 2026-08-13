@@ -1,0 +1,16 @@
+# Tách Trà Giáo Quan
+
+## Câu Chuyện
+
+set: Giáo Quan
+piece: Ly Không Gian
+
+- Tổng Quan: Tách Trà Giáo Quan là một Thánh Di Vật thuộc bộ Giáo Quan.
+
+Theo kinh nghiệm của các học viên trường quân đội, "Huấn luyện tự do" không thể coi là tự do.
+
+Học viên vất vả đổ mồ hôi nơi thao trường, thế nhưng Giáo Quan lại nhàn nhã theo dõi.
+
+Pha một ấm chè, thêm vài viên đường, đó là buổi chiều của Giáo Quan.
+
+Khoảnh khắc nhàn nhã của Giáo Quan, cũng là biểu hiện uy nghiêm đối với học viên.

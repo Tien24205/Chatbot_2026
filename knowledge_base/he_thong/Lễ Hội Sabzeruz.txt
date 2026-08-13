@@ -1,0 +1,28 @@
+# Lễ Hội Sabzeruz
+
+## Tổng Quan
+
+type: Văn Hóa Sumeru
+type2: Lễ Hội
+
+Lễ Hội Sabzeruz là một lễ hội ở Sumeru kỷ niệm ngày sinh của Tiểu Vương Kusanali. Lễ hội này được đặt tên theo Hoa Thần quá cố, ngài đã tổ chức lễ hội này để mừng sinh nhật người bạn của mình chính là Thảo Thần tiền nhiệm, Đại Vương Rukkhadevata. Sau khi Đại Vương Rukkhadevata mất, lễ hội này trở thành lễ mừng sinh nhật của Tiểu Vương Kusanali, cũng là ngày các hiền giả đã phát hiện ra cô ấy. Không rõ ngày tổ chức lễ hội trên có trùng với ngày sinh nhật của Nahida (27 tháng 10) hay không.
+
+Trong, Nhà Lữ Hành được trải nghiệm Lễ Hội Sabzeruz.
+
+Lễ Hội Sabzeruz sẽ được tổ chức vào Phiên Bản 5.1 để mừng sinh nhật Tiểu Vương Kusanali trong sự kiện Khúc Hoan Ca Của Hoa Và Kẹo Màu.
+
+## Tổng Quan
+
+Theo truyền thuyết, có một lần bạn bè của Đại Vương Rukkhadevata đã chuẩn bị yến tiệc để mừng thọ cho người. Trong yến tiệc, các vị thần đều uống say, trong đó có một vị còn cao hứng dùng nhạc cụ diễn tấu, thế là Đại Vương Rukkhadevata cất tiếng hát, còn Hoa Thần thì nhảy múa. Dưới điệu múa của Hoa Thần, nơi mà ngài bước qua đều mọc ra vô số Padisarah. Yến tiệc này được cho là nguồn gốc của Lễ Hội Sabzeruz.
+
+Lễ Hội Sabzeruz có nhiều tập tục đi kèm, trong đó có "Bàn Tiệc Haft-Mewa" (mọi người sắp xếp bảy món ăn trên bàn) và "Kỵ Sĩ Hoa Farris" (hình tượng do một người đóng vai, sẽ phát kẹo trong Lễ Hội nên rất được trẻ em yêu thích). Phần quan trọng nhất trong Lễ Hội chính là "Vũ Điệu Sabzeruz", một điệu nhảy phỏng theo điệu nhảy của Hoa Thần.
+
+Kể từ khi Đại Vương Rukkhadevata mất, những người đứng đầu Giáo Viện Sumeru không quan tâm đến việc tổ chức ngày lễ này nữa, Dunyarzad đoán rằng là do họ coi sự ra đời của Tiểu Vương Kusanali đồng nghĩa với việc Đại Vương Rukkhadevata đã qua đời. Giáo Viện trở nên khắt khe với việc tổ chức Lễ Hội Sabzeruz, từ chối cấp kinh phí và coi như nó không tồn tại. Gần đây nhất, bọn họ còn bắt dừng biểu diễn Vũ Điệu Sabzeruz ─ phần quan trọng nhất của ngày lễ hội.
+
+## Từ Nguyên
+
+- có nguồn gốc từ tiếng Ba Tư sabze () và ruz (), cùng có nghĩa là "Ngày của Cỏ", một tên thích hợp cho vùng đất Thảo của Sumeru.
+- Sabze là một trong bảy vật phẩm của Haft-sin được chuẩn bị cho Nowruz, và được cho là tượng trưng cho sự tái sinh và tăng trưởng.
+- Trong tiếng Trung Quốc và Hàn Quốc, lễ hội được gọi là.
+- Trong tiếng Nhật, nó được gọi là.
+- Lưu ý: Hậu tố "神" trong tiếng Trung, Nhật và Hàn được dịch sang tiếng Anh là "Archon" hoặc "God" khi đề cập đến Thất Thần. Vì thuật ngữ này chưa được sử dụng trong bản dịch tiếng Anh chính thức nên một trong hai bản dịch đều có thể thực hiện được.

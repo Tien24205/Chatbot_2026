@@ -1,0 +1,52 @@
+# Kiếm Tế Lễ
+
+## Thông Tin Cơ Bản
+
+id: 11403
+type: Kiếm Đơn
+series: Tế Lễ
+releaseDate: 2020-09-28
+quality: 4
+base_atk: 41
+2nd_stat_type: Hiệu Quả Nạp Nguyên Tố
+2nd_stat: 13,3%
+obtain: Cầu Nguyện
+passive: Khí Định Thần
+effect: Khi kỹ năng Nguyên Tố tạo thành sát thương, có tỷ lệ (var1)% làm mới thời gian CD kỹ năng đó, mỗi (var2)s mới thi triển 1 lần.
+eff_rank1_var1: 40
+eff_rank2_var1: 50
+eff_rank3_var1: 60
+eff_rank4_var1: 70
+eff_rank5_var1: 80
+eff_rank1_var2: 30
+eff_rank2_var2: 26
+eff_rank3_var2: 22
+eff_rank4_var2: 19
+eff_rank5_var2: 16
+eff_att1: Làm Mới Thời Gian Chờ
+
+- Tổng Quan: Kiếm Tế Lễ là một thanh Kiếm Đơn 4 Sao.
+
+## Câu Chuyện
+
+Trên vách núi phía đông hướng về biển, thuở ban đầu người dân cúng tế cho chủ nhân của thời gian và chủ nhân của gió.
+
+Họ tin rằng "Sự tích được gió mang đến, sinh sôi là do thời gian", hai thứ thường lẫn vào nhau.
+
+Thanh kiếm nói lên câu chuyện về sự bảo vệ, tượng trưng cho dũng khí.
+
+Vốn không cần mài dũa, thế nhưng gió thời gian khiến gang thép trở nên sắc bén.
+
+Thanh kiếm này thuộc quyền sở hữu của gia tộc ôn hòa Gunnhildr.
+
+Trong lễ tế, họ diễn vai người bảo vệ.
+
+Vở kịch buổi lễ hiến tế gió thời gian, tổng cộng có ba màn.
+
+Màn cuối nói về người thủ vệ, câu chuyện bảo vệ sinh mệnh và tự do.
+
+Truyền thống tế lễ và lịch sử đến nay đã đi vào quên lãng.
+
+Nhưng gia tộc Gunnhildr vẫn giữ vai trò bảo vệ.
+
+- Cầu nguyện thường Du Hành Thế Gian (Không giới hạn thời gian) - Tất cả các sự kiện Cầu Nguyện Nhân Vật và Cầu Nguyện Vũ Khí

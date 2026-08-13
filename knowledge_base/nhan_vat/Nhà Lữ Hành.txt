@@ -1,0 +1,43 @@
+# Nhà Lữ Hành
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+quality: 5
+weapon: Kiếm Đơn
+name: Nhà Lữ Hành
+realname: Aether (Nam) Lumine (Nữ)
+element: Không Có
+sibling: Song Sinh Thất Lạc
+constellation: Lữ Khách
+birthday: Người Chơi Tự Chọn
+releaseDate: 2020-09-28
+title: Người Phương Xa
+voiceEN: Aether: [[imdb:nm6450743
+Zach Aguilar]]<ref name: "Traveler EN/JP-VA">Thông Báo trên Twitter Anh Lumine: [[imdb:nm8777940
+Sarah Miller-Crews]]<ref name: "Traveler EN/JP-VA"/>
+voiceCN: Aether: Luyin (鹿喑) Lumine: Yanning (宴宁)
+voiceJP: Aether: [[wikipedia:Shun Horie
+Horie Shun (堀江瞬)]]<ref name: "Traveler EN/JP-VA"/> Lumine: [[wikipedia:Aoi Yūki
+Yuuki Aoi (悠木碧)]]<ref name: "Traveler EN/JP-VA"/>
+voiceKR: Aether: [[wp:ko:이경태(성우)
+Lee Kyung-tae (이경태)]]<ref name: "Traveler KR-VA">Thông Báo trên Twitter Hàn Lumine: [[wp:ko:이새아
+Lee Sae-a (이새아)]]<ref name: "Traveler KR-VA"/>
+
+## Tổng Quan
+
+Nhà Lữ Hành là nhân vật chính có thể chơi được trong Genshin Impact. Trong cắt cảnh mở đầu, hai anh em song sinh đến từ thế giới khác đã du hành khắp vũ trụ cho đến khi Thần Vô Danh cản đường họ. Người chơi phải chọn Aether (nam) Lumine (nữ) trở thành Nhà Lữ Hành, còn người còn lại sẽ bị bắt đi. Sức mạnh của họ bị phong ấn lại, họ bị mắc kẹt ở Teyvat. Nhà Lữ Hành đã "câu" được Paimon và cứu sống cô, từ đó cô trở thành người bạn đồng hành mới của họ. Cùng nhau, họ bước lên cuộc hành trình đi tìm Bảy Vị Thần và tìm cách trùng phùng với người song sinh thất lạc.
+
+Tuy rằng người chơi có thể tự chọn tên cho Nhà Lữ Hành, người còn lại vẫn sẽ gọi Nhà Lữ Hành là Lumine hoặc Aether (tùy vào giới tính của nhân vật người chơi đã chọn), bất kể tên người chơi đặt là gì đi nữa.
+
+## Nguyên Tố
+
+Vào đầu trò chơi và trong Hội Đấu Võ Nam Thập Tự trong Gió Thu Vén Áo Hỏi Lá Đỏ, nguyên tố của Nhà Lữ Hành được chú thích là "không xác định". Khi chưa có nguyên tố, màn hình nhân vật của Nhà Lữ Hành và Vision là màu xám. Mặc dù trong phần Tài Liệu ghi Cung Mệnh của Nhà Lữ Hành là Lữ Khách, nhưng khi mở mục Cung Mệnh sẽ bị trống và có một dòng chữ "Hiện không có Cung Mệnh" ở góc dưới màn hình bên phải. Ngoài ra, trong trạng thái này Nhà Lữ Hành cũng chỉ có duy nhất một Thiên Phú, Hồi Ức Cái Chết, kỹ năng Tấn Công Thường/Trọng Kích.
+
+Khi không có nguyên tố, những màn hình có thẻ nhân vật sẽ hiển thị một biểu tượng (🚫︎) màu xám tại phần hiển thị biểu tượng nguyên tố.
+
+Sau khi đi theo Paimon ở đầu trò chơi, Nhà Lữ Hành có thể nhận được các Thiên Phú hệ Phong và Cung Mệnh bằng việc cộng hưởng với Thất Thiên Thần Tượng đầu tiên ở Mondstadt. Nhà Lữ Hành cũng có thể cộng hưởng với bất kì Thất Thiên Thần Tượng mà họ tìm được và chuyển đổi nguyên tố theo tượng.
+
+Xem Teyvat để tìm hiểu về nguyên tố của mỗi quốc gia.
+
+- Có Mặt Trong: Người chơi có thể nhận Nhà Lữ Hành từ lúc bắt đầu trò chơi và không có mặt trong bất kỳ sự kiện Cầu Nguyện nào.

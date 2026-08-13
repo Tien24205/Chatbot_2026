@@ -1,0 +1,39 @@
+# Mondstadt Thời Decarabian
+
+## Tổng Quan
+
+type: Nền Văn Minh Cổ Đại
+type2: Cốt Truyện
+region: Mondstadt
+area: Vùng Núi Minh Quán
+area2: Cao Nguyên Thương Phong
+
+Decarabian thời Mondstadt, thường được biết đến là Mondstadt Cũ, là vị trí gốc của thành Mondstadt. Nó được tạo bởi Ma Thần Của Gió,Decarabian, người đã xây dựng thành trong lòng thung lũng sâu và tạo ra một tòa tháp lớn.Triều đại này đã kết thúc cách đây 2600 năm, khi dân chúng nổi dậy chống lại và giết chết ông. Sau đó, Phong Thần lên ngôi, Barbatos, đã chuyển Mondstadt đến Vực Sao Rơi, nơi Thành Mondstadt được xây dựng.
+
+Khi tai ương diễn ra 500 năm trước, Dvalin sống trong tòa tháp của Decarabian để hồi phục sau trận chiến chống lại Durin. Nhiều năm sau đó, khi người dân Mondstadt quên đi Dvalin, khu vực Mondstadt Cũ được gọi là Phế Tích Phong Long.
+
+## Lịch Sử
+
+Người ta biết rất ít về sự hình thành của Mondstadt,nhưng Thành Decarabian được mô tả là "giấc mơ phồn hoa" và "được tạo ra từ sức mạnh của ma thần." Vùng lãnh thổ kéo dài đến khu vực Vùng Núi Minh Quán và Cao Nguyên Thương Phong ở phía đông và nam, bằng chứng là trang trí ở một số tàn tích trong khu vực. Bên cạnh Thành Decarabian, những khu tàn tích đặc biệt về phong cách trang trí này bao gồm tàn tích ở Hẻm Núi Minh Quán dẫn vào thành phố, và những tàn tích xung quanh Vườn Hoa Cecilia.
+
+Khi một vùng Mondstadt bị bao phủ bởi tuyết là kết quả từ sức mạnh của Andrius Decarabian tạo ra một bức tường bất khả xâm phạm quanh vương đô để bảo vệ những cư dân của mình bên trong khỏi cái lạnh buốt giá.
+
+## Kiến Trúc Và Thiết Kế
+
+Phong cách kiến trúc của những tàn tích ở Mondstadt thời Decarabian khá khác biệt với Mondstadt thời hiện đại, giúp dễ dàng xác định những tàn tích liên quan ở bên ngoài khu vực Phế Tích Phong Long.
+
+Những cây cầu trên cao là một nét đặc trưng trong Thành Decarabian và khu vực xung quanh.Đáng chú ý, những tàn tích gắn liền với phong cách Decarabian không có biểu tượng thường thấy ở Teyvat,như triquetra. Thay vào đó, một biểu tượng được thấy trên tàn tích của Mondstadt Decarabian là cercelée,một kiểu chữ thập với các đầu uốn vào trong.Thiết kế trang trí trên cầu, cột và tường là margents, hoặc họa tiết giống thực vật,không phải nút thắt Celtic thường thấy trên tàn tích khắp Teyvat. (Tương tự,khu vực Sói Bắc Phong ở Lang Lãnh được trang trí với Arabesque, một kiểu thiết kế giống thực vật khác, chứ không phải là nút thắt Celtic)
+
+Tính toàn vẹn cấu trúc của tàn tích Decarabian rõ ràng là vẫn còn khá vững chắc với tuổi của chúng (tình trạng khá tốt trong 2.600 năm kể từ khi nó sụp đổ). Alice đã phá hủy một số mái vòm bên trong tòa tháp để dễ leo hơn, và tòa tháp vẫn đứng vững bất chấp điều đó.
+
+## Tổ Chức
+
+Decarabian thực hiện quản lý vi mô thành của mình,đến mức quyết định chỗ ở của người dân. Ngay cả hiện tại, khu dân cư được phân định một cách rõ ràng, cho thấy cách bố trí trong thành cũng là thứ được Decarabian quyết định.
+
+- Âm Nhạc: Dưới sự cai trị của Decarabian, một số giai điệu và hợp âm nhất định bị cấm do bất đồng chính kiến và các cuộc nổi dậy.
+
+## Địa Lý
+
+Dựa trên sự giống nhau giữa cấu trúc tàn tích cũng như tài liệu trong trò chơi, phạm vi ban đầu của lãnh thổ Mondstadt Cũ bao gồm khu vực Vùng Núi Minh Quán và Cao Nguyên Thương Phong,đi xa về phía nam đến Điểm Dịch Chuyển giữa Liyue và Tửu Trang Dawn. Hiện tại vẫn chưa rõ bao xa về phía bắc hay phía tây.
+
+Khu định cư nổi tiếng nhất ở Mondstadt của Decarabian là vương đô của ông, nằm trong khu vực ngày nay được gọi là Phế Tích Phong Long. Nó nằm ở một thung lũng cực kỳ sâu, có thể là nhân tạo và hiện là một trong những vị trí sâu nhất có thể khám phá của bản đồ Teyvat.

@@ -1,0 +1,56 @@
+# Đại Kiếm Tế Lễ
+
+## Thông Tin Cơ Bản
+
+id: 12403
+type: Trọng Kiếm
+series: Tế Lễ
+releaseDate: 2020-09-28
+quality: 4
+base_atk: 44
+2nd_stat_type: Hiệu Quả Nạp Nguyên Tố
+2nd_stat: 6,7%
+obtain: Cầu Nguyện
+passive: Khí Định Thần
+effect: Khi kỹ năng Nguyên Tố tạo thành sát thương, có tỷ lệ (var1)% làm mới thời gian CD kỹ năng đó, mỗi (var2)s mới thi triển 1 lần.
+eff_rank1_var1: 40
+eff_rank2_var1: 50
+eff_rank3_var1: 60
+eff_rank4_var1: 70
+eff_rank5_var1: 80
+eff_rank1_var2: 30
+eff_rank2_var2: 26
+eff_rank3_var2: 22
+eff_rank4_var2: 19
+eff_rank5_var2: 16
+eff_att1: Tái Lập Thời Gian CD
+
+## Mô Tả
+
+Trên vách núi phía đông hướng về biển, thuở ban đầu người dân cúng tế cho chủ nhân của thời gian và chủ nhân của gió.
+
+Họ tin rằng "Sự tích được gió mang đến, sinh sôi là do thời gian", hai thứ thường lẫn vào nhau.
+
+Thanh kiếm thuật lại câu chuyện chiến tranh, được dùng để diễn ca kịch.
+
+Vốn không cần mài dũa, thế nhưng gió thời gian khiến nham thạch trở nên sắc bén.
+
+Thanh kiếm từng thuộc về gia tộc Imunlaukr thiện chiến dũng mạnh nhưng yểu mệnh.
+
+Trong buổi lễ họ diễn người đấu sĩ bị máu nhuộm đen, hết mình chiến đấu.
+
+Tộc Imunlaukr cho rằng, chiến đấu không phải là vì bảo vệ, vinh dự hay khai hoang,
+
+Đó là vì lấy lòng những vị thần không có gì để tiêu khiển.
+
+Bất luận kẻ đến là quái vật hay thổ phỉ, bất luận bản thân có thể quay trở về trong vòng tay của người yêu thương không,
+
+Chỉ cần tắm máu chiến đấu, chém giết trong tiếng gầm hú thì trách nhiệm sẽ được hoàn thành.
+
+Dòng máu ấy đáng lẽ ra không thể kéo dài trong lịch sử,
+
+Bởi vì sự chiến đấu của họ không có hồi kết, cũng không có hy vọng của sự chiến thắng.
+
+Thế nhưng cùng với sự tan rã của băng tuyết, Mondstadt được thành lập, cuối cùng họ đã có đối tượng đáng để bảo vệ.
+
+- Cầu Nguyện Du Hành Thế Gian (vĩnh viễn) - Tất cả Sự Kiện Cầu Nguyện Nhân Vật và Cầu Nguyện Vũ Khí

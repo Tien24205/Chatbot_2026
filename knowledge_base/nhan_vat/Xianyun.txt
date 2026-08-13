@@ -1,0 +1,32 @@
+# Xianyun
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+element: Phong
+quality: 5
+weapon: Pháp Khí
+name: Xianyun
+birthday: 11 tháng 04
+constellation: Nhàn Hạc
+region: Liyue
+affiliation: Âu Tàng Sơn
+affiliation2: Tiên Nhân
+dish: Tứ Hỷ Viên Mãn
+namecard: Mây Trắng
+obtain: Cầu Nguyện Nhân Vật
+event_name: Vân Phủ Hạc Hành
+releaseDate: 2024-01-31
+title: Hạc Sứ Cõi Tiên
+title2: Cư Dân Mới Của Cảng Liyue
+voiceEN: [[imdb:nm6234098
+Stephanie Panisello]]<ref name: "Xianyun EN JP"> Facebook: Công Bố Diễn Viên Lồng Tiếng tiếng Anh và Nhật
+voiceCN: Qin Ziyi (zh|秦紫翼)
+voiceJP: Nakatomi Mana (ja|中臣 真菜)
+voiceKR: w|ko:강시현|Kang Si-hyeon (ko|강시현)
+
+## Tổng Quan
+
+, còn được biết đến với cái tên Lưu Vân Tá Phong Chân Quân, là một nhân vật hệ Phong chơi được trong Genshin Impact.
+
+Một nhà phát minh vừa mới chuyến đến Cảng Liyue, Xianyun thật chất là hình dạng con người của Tiên Nhân Lưu Vân Tá Phong Chân Quân, Người đã chọn cho mình một cái tên mới để che dấu thân phận thật sự.

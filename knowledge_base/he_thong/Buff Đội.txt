@@ -1,0 +1,24 @@
+# Buff Đội
+
+## Hiệu Quả
+
+type: Chiến Đấu
+type2: Hệ Thống Trò Chơi
+
+- Tổng Quan: Buff Đội là hiệu ứng xuất hiện phụ thuộc vào các Nhân Vật trong Đội.
+
+Hiệu ứng Cộng Hưởng Nguyên Tố phụ thuộc vào nguyên tố của bốn nhân vật đầu tiên trong đội, có hiệu lực cả trong Chế Độ Nhiều Người Chơi và không yêu cầu tất cả thành viên đội hình phải còn sống.
+
+Ngoại trừ Bảo Hộ Đan Xen, mỗi hiệu ứng Cộng Hưởng đều cần có từ hai nhân vật cùng Nguyên Tố trở lên. Việc có nhiều hơn hai nhân vật cùng Nguyên Tố sẽ không làm tăng thêm sức mạnh của Cộng Hưởng tương ứng.
+
+Trong Chế Độ Nhiều Người Chơi, nếu một phần tổ đội đang ở trong Bí Cảnh, hiệu ứng cộng hưởng chỉ tính dựa trên các nhân vật hiện có trong Bí Cảnh và chỉ các nhân vật đó mới nhận được lợi ích từ các hiệu ứng Cộng Hưởng.
+
+- Yêu Cầu: Hoàn thành Bài Tập Của Ma Nữ của mỗi nhân vật để trở thành một nhân vật Hexerei.
+
+## Hiệu Quả Dựa Trên Khu Vực
+
+Các hiệu quả sau đây chịu ảnh hưởng bởi quốc gia tương ứng của từng nhân vật có trong đội. Khác với Cộng Hưởng Nguyên Tố và Nguyệt Triệu, những hiệu quả này không được liệt kê trong giao diện Thiết Lập Đội.
+
+## Dạ Hồn Bùng Nổ
+
+Khi có ít nhất một nhân vật Natlan trong đội, hiệu quả Dạ Hồn Bùng Nổ có thể được kích hoạt theo các khoảng thời gian cố định. Với mỗi nhân vật Natlan có mặt trong đội, thời gian giãn cách giữa các lần Dạ Hồn Bùng Nổ sẽ giảm dần: 18 giây đối với 1 nhân vật, 12 giây đối với 2 nhân vật và 9 giây nếu có từ 3 nhân vật trở lên. Các nhân vật như Bennett hoặc Nhà Lữ Hành hệ Hỏa sẽ không thể kích hoạt Dạ Hồn Bùng Nổ, ngay cả khi họ có nguồn gốc từ Natlan hoặc có khả năng tiến vào trạng thái Dạ Hồn Chúc Phúc.

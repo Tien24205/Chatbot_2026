@@ -1,0 +1,29 @@
+# Zhongli
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+quality: 5
+weapon: Vũ Khí Cán Dài
+element: Nham
+name: Zhongli
+birthday: 31 tháng 12
+constellation: Nham Vương Đế Quân
+story: Lời Đồn Năm Xưa
+region: Liyue
+affiliation: Cảng Liyue
+affiliation2: Vãng Sinh Đường
+affiliation3: Bảy Vị Thần
+affiliation4: Tiên Nhân
+group: Thần
+dish: Măng Chua Tươi Lửa Nhỏ
+namecard: Thiên Tinh
+obtain: Cầu Nguyện Nhân Vật
+event_name: Đồng Cỏ Thị Thành
+releaseDate: 2020-12-01
+title: Du Ngoạn Trần Thế
+title2: Cố Vấn Của Vãng Sinh Đường
+voiceEN: w|Keith Silverstein
+voiceCN: Bo Peng (彭博)
+voiceJP: w|Tomoaki Maeno|Tomoaki Maeno (前野智昭)
+voiceKR: w|Pyo Yeong-jae|Pyo Yeong-jae (표영재)

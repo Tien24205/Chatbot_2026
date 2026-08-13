@@ -1,0 +1,35 @@
+# Odette
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+quality: 5
+weapon: Kiếm Đơn
+element: Băng
+name: Odette
+realname: Odette Spessiva
+birthday: 20 tháng 02
+constellation: Tuyết Hộc
+region: Snezhnaya
+affiliation: Đoàn Kịch Korolevskiy
+affiliation2: Fatui
+dish: "Thiên Nga Tuyết Bên Hồ"
+namecard: Thiên Nga Độc Nhất
+obtain: Cầu Nguyện Nhân Vật
+event_name: Thiên Nga Băng Giá
+releaseDate: 2026-08-12 11:00:00 GMT+8
+title: Vòng Xoay Tuyết Trắng
+title2: Vũ Công Ba Lê Hàng Đầu Của Đoàn Kịch Korolevskiy
+biological: Relative Type|Cha mẹ|Mẹ vô danh| Video Nhân Vật Odette - "Ảo Ảnh Tuyết Dịu Dàng"
+voiceEN: w|Alexis Tipton
+voiceCN: Pan Danni (zh|潘丹妮)
+voiceJP: w|Sumire Uesaka|Uesaka Sumire (ja|上坂すみれ)
+voiceKR: Choi Hyeon-ji (ko|최현지)YouTube: 원신
+
+## Tổng Quan
+
+ là một nhân vật hệ Băng chơi được trong Genshin Impact.
+
+Cô là Vũ Công Ba Lê Hàng Đầu của Đoàn Kịch Korolevskiy, nổi tiếng với vẻ thanh lịch lạnh lùng trên sân khấu. Đồng thời, Odette cũng là một thành viên của Fatui và hiện đang là ứng cử viên có tiềm năng kế thừa chiếc ghế Quan Chấp Hành của Signora.
+
+Cô xuất hiện lần đầu tiên trong Video Đặc Biệt - Tuyết Rơi Bất Chợt.

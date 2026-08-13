@@ -1,0 +1,78 @@
+# Thương Tây Phong
+
+## Thông Tin Cơ Bản
+
+id: 13407
+type: Vũ Khí Cán Dài
+series: Tây Phong
+releaseDate: 2020-09-28
+quality: 4
+base_atk: 44
+2nd_stat_type: Hiệu Quả Nạp Nguyên Tố
+2nd_stat: 6,7%
+obtain: Cầu Nguyện
+passive: Đi Cùng Với Gió
+effect: Khi tạo thành bạo kích có tỷ lệ (var1)% sinh ra một lượng nhỏ Nguyên Tố Hạt Nhân, khôi phục 6 Năng Lượng Nguyên Tố cho nhân vật. Mỗi (var2)s mới thi triển 1 lần.
+eff_rank1_var1: 60
+eff_rank2_var1: 70
+eff_rank3_var1: 80
+eff_rank4_var1: 90
+eff_rank5_var1: 100
+eff_rank1_var2: 12
+eff_rank2_var2: 10,5
+eff_rank3_var2: 9
+eff_rank4_var2: 7,5
+eff_rank5_var2: 6
+eff_att1: Đòn Bạo Kích
+eff_att2: Sản Sinh Năng Lượng Nguyên Tố
+
+- Tổng Quan: Thương Tây Phong là một vũ khí cán dài 4 Sao.
+
+## Lưu Ý Về Cơ Chế
+
+- Đi Cùng Với Gió có thể kích hoạt cho mỗi cú đánh gây sát thương lên kẻ địch, cũng như cho mỗi kẻ địch bị trúng đòn khi nhân vật ở trên sân. Vậy nên:
+- Các kỹ năng tấn công liên tiếp như Kỹ Năng Nguyên Tố - Móng Mèo Lạnh Giá của Diona (5 lần bắn) có nhiều khả năng kích hoạt nội tại hơn.
+- Các kỹ năng gây sát thương diện rộng như Kỹ Năng Nguyên Tố - Bài Ca Trời Cao của Venti có nhiều khả năng kích hoạt nội tại hơn khi có thể đánh trúng nhiều kẻ địch cùng lúc.
+- Nội tại sẽ không được kích hoạt khi nhân vật trang bị vũ khí tạo thành bạo kích trong trạng thái rời trận.
+- Nội tại sẽ không được kích hoạt khi kẻ địch miễn dịch với sát thương tạo thành.
+- Trong Chế Độ Nhiều Người Chơi, kích hoạt Đi Cùng Với Gió sinh ra Nguyên Tố Hạt Nhân cho tất cả thành viên trong đội.
+
+## Câu Chuyện
+
+Trường thương nghi thức của Đội Kỵ Sĩ Tây Phong, là một binh khí đáng tự hào trong nghi lễ kiểm duyệt, cũng là một vũ khí đáng sợ đối với ma vật.
+
+Qua việc tìm hiểu gốc cây sừng sững, các thợ thủ công Mondstadt đạt được thành quả trong công việc tăng sức mạnh nguyên tố.
+
+Vì thế cây thương cứng cáp này không chỉ là danh hiệu vinh dự cho kỵ sĩ Tây Phong, mà còn là sự kết tinh giữa sự cần cù và ý chí phấn đấu của kỵ sĩ Mondstadt.
+
+Luôn nhớ rằng, phải vững vàng như cây thương này, bảo vệ tự do của gió.
+
+Từ cổ chí kim thường có người lấy thương làm binh khí, dựa vào ưu thế khoảng cách để bù vào võ nghệ chưa tinh.
+
+Dù lấy cây gỗ vót nhọn vũ trang cho dân thường, cũng có thể chống lại binh lính dùng kiếm sắt.
+
+Sau khi lật đổ sự thống trị của lớp quý tộc, cắm đầy gậy nhọn, cán cờ và cào rơm ở ngoại ô để ăn mừng.
+
+Kiếm thuật từng là một sự bắt buộc của lớp quý tộc để có thể đào tạo ra phong độ và trí khôn cho dòng dõi.
+
+Vào thời kì đó thì cả vùng này, thương pháp được xem như cách chiến đấu của dị bang và kẻ phản nghịch.
+
+Nhưng trong quá khứ cũng từng có người trong giới quý tộc dùng thương.
+
+Theo truyền thuyết, Eberhart trong đêm gió nhẹ, từng lấy mũi thương đón lấy giọt sương vừa đọng.
+
+Eberhart, ban đầu là một đứa trẻ ngoài giá thú, mơ ước được trở về với sự cao quý và niềm tự hào của giới quý tộc từ nhỏ.
+
+Tuy nhiên, để khiến một nền tảng đã mục nát lung lay, vẫn cần một sức mạnh to lớn. Vậy thì…
+
+Cho dù từng xúi giục con trai huynh trưởng theo đuổi giấc mơ hành hiệp, nhưng sau cùng lại giăng bẫy khiến hắn phải lánh nạn.
+
+Để bản thân mình tự vực dậy cũng được
+
+Hay âm thầm bái một ma nữ dùng thương làm sư phụ, học theo kỹ thuật để tìm ra sơ hở,
+
+Sau đó tiêu diệt luôn cô ta cũng được.
+
+“Dù hậu thế gièm pha thì đã sao, chỉ cần đạt được mục đích, dùng thủ đoạn gì cũng được.”
+
+- Cầu nguyện thường Du Hành Thế Gian (Không giới hạn thời gian) - Tất cả các sự kiện Cầu Nguyện Nhân Vật và Cầu Nguyện Vũ Khí.

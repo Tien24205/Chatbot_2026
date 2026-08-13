@@ -1,0 +1,32 @@
+# Eugenie
+
+## Thông Tin Cơ Bản
+
+type: NPC Đại Thế Giới
+region: Fontaine
+location: Fontaine
+title: Thương Nhân Rau Quả
+voiceEN: [[imdb:nm11181826
+Lily Emil Lammers]]<ref name: "LilyLammers">Twitter: Thông Báo Từ Diễn Viên Lồng Tiếng (Lưu Trữ)
+dialoguereward: Card|Quả Dâu Đỏ|4
+
+- Tổng Quan: Eugenie là một NPC đại thế giới có vị trí tại Đại Sảnh Fontaine - Phố Vasari, Fontaine. Nói chuyện lần đầu với nhánh hội thoại nhất định, người chơi sẽ nhận được 4 Quả Dâu Đỏ.
+
+- Lời Thoại Nhàn Rỗi: Còn ngọt hơn siro!
+
+## Hội Thoại
+
+Eugenie: Muốn xem rau quả tươi không?
+Để xem thử.
+:Eugenie: Rau củ trái cây của tôi đều rất căng mọng, hãy lựa chọn tùy ý!
+Cô là...
+:Eugenie: Tôi là chủ quầy ở đây.
+:Eugenie: Nếu tiếng rao hàng của tôi có làm phiền bạn thì xin hãy thông cảm! Lát nữa tôi sẽ đưa cho bạn ít trái cây, hihi.
+: Thật sao?
+:Eugenie: Tất nhiên! Lô trái cây này được chuyển từ Mondstadt tới vào sáng nay, rất ngọt! Quý khách có thể thử, đừng khách sáo, ngon thì mua.
+;(Nhận Quả Dâu Đỏ)
+Về rau quả...
+:Eugenie: Fontaine sản xuất nhiều Trái Bulle, nhưng với tuyến đường thủy rất phát triển nên cũng thu hút nhập khẩu trái cây từ nước ngoài, tuy nhiên giá sẽ cao hơn chút.
+:Eugenie: Hãy yên tâm, Eugenie tôi không làm ăn chộp giật. Đảm bảo trái cây bạn mua đều rất ngon lành, không hỏng trái nào.
+Tạm biệt.
+:Eugenie: Rảnh lại ghé nhé! Tôi sẽ chuẩn bị trái cây ngon nhất đợi bạn.

@@ -1,0 +1,26 @@
+# Màn Hình Chờ
+
+## Tổng Quan
+
+type: Hệ Thống Trò Chơi
+group: Giao Diện
+
+Màn Hình Chờ (tên không chính thức), được nhắc tới trong các trang giới thiệu cập nhật là, xuất hiện mỗi khi người chơi dịch chuyển, tiến vào hoặc rời khỏi Bí Cảnh hay khi một hoạt cảnh bắt đầu hoặc kết thúc. Biểu tượng của bảy nguyên tố được hiển thị ở giữa màn hình, phía dưới màn hình hoặc được hiển thị lần lượt từng cái một ở góc dưới bên phải màn hình. Màn hình sẽ có nền trắng hoặc đen tùy vào thời gian trong trò chơi khi đó. Biểu tượng ở trung tâm màn hình biểu thị cho khu vực mà người chơi tiến tới sau khi dịch chuyển hoàn thành: có thể là một quốc gia, một khu vực đặc biệt như Long Tích Tuyết Sơn hoặc một bí cảnh. Màn hình chờ cũng cho người chơi một số mẹo trò chơi hoặc gợi ý về cốt truyện. Người chơi có thể nhấn vào vị trí bất kỳ trên màn hình để xem một mẹo khác.
+
+Một biến thể của màn hình tải được sử dụng khi người chơi tiến vào trò chơi từ màn hình chính. Màn hình chờ này luôn có nền trắng và chỉ có biểu tượng của bảy nguyên tố. Nếu người chơi đang sử dụng thiết bị di động, chẳng hạn như máy tính bảng hoặc điện thoại, thì màn hình này cũng có thể có mẹo cho biết "Đeo tai nghe chơi game để có được trải nghiệm tốt hơn" và hiển thị biểu tượng tai nghe.
+
+## Tổng Quan
+
+Trong quá trình tải trò chơi, các tài nguyên được kết xuất để người chơi có thể tương tác với chúng. Màn hình này sẽ xuất hiện khi bất kỳ hành động nào dưới đây được kích hoạt:
+- Khởi động hoặc thoát trò chơi
+- Khi mất/khôi phục kết nối
+- Dịch chuyển tới một vị trí chưa được kết xuất (có thể là do một nhiệm vụ, hoặc do người chơi sử dụng điểm dịch chuyển)
+- Sử dụng Điểm Dịch Chuyển Bỏ Túi hay Điểm Dịch Chuyển Bên Ngoài sẽ khiến game tải lại nhanh khu vực đó.
+- Tiến vào hoặc rời khỏi Bí Cảnh
+- Tiến vào hoặc rời khỏi Chế Độ Nhiều Người Chơi
+- Tiến vào hoặc rời khỏi Ấm Trần Ca
+- Giữa một trận đấu Boss Tuần, khi mà cắt cảnh không được phát nhưng giai đoạn tiếp theo chưa được kết xuất
+- Khi Thiết Lập Lại diễn ra, để đẩy người chơi ra khỏi khiêu chiến hoặc bí cảnh
+Hiện không có lối tắt nào để tải lại một cảnh cụ thể.
+
+Màn Hình Chờ sẽ hiển thị biểu tượng của khu vực đích với màu vàng kim hoặc màu đen trên màn hình xám hoặc trắng. Chỉ khi rời khỏi Ấm Trần Ca mới không có biểu tượng nào xuất hiện mà chỉ có một dòng thông báo "Đã rời khỏi Ấm Trần Ca, đang trở về thế giới của mình".

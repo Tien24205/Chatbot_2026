@@ -1,0 +1,20 @@
+# Khu Morte
+
+## Thám Hiểm
+
+type: Khu Vực
+region: Fontaine
+
+- Thảm Nấm Ô Nhiễm: mặt hồ phủ đầy nấm ô nhiễm, có thể loại bỏ nguồn ô nhiễm bằng cách dùng năng lực của Bạch Tuộc Bóng Tròn Dị Sắc
+- Pháo Chiến Hạm Tự Động Nguy Hiểm: loại pháo nguy hiểm, tự động bắn vào người chơi; có thể làm nó ngừng hoạt động bằng cách dùng năng lực của Bạch Tuộc Bóng Tròn Dị Sắc
+- Bọt Sương: bong bóng có thể bị vỡ khi người chơi tấn công, gợn sóng từ Bọt Sương bị vỡ có thể kích hoạt Ống Hòa Âm trong bán kính nhất định. Dùng Bạch Tuộc Bóng Tròn Dị Sắc có thể đẩy Bọt Sương, ghép hai Bọt Sương thành một Bọt Sương lớn hơn; khi vỡ có thể sinh ra gợn sóng có bán kính lớn hơn.
+- Hoa Thủy Tinh: khiêu chiến yêu cầu tìm điểm đích, bằng cách dùng Bạch Tuộc Bóng Tròn Dị Sắc kích hoạt Hoa Thủy Tinh, khiến nó xoay, từ đó có thể tìm điểm đích
+- Ống Hòa Âm: khiêu chiến yêu cầu kích hoạt Ống Hòa Âm theo thứ tự nhất định
+- Vỏ Sò Khổng Lồ: khi tấn công, vỏ sò sẽ mở ra và hiện vật phẩm
+- Sứa Nón Khổng Lồ: khi bước vào, Sứa Nón Khổng Lồ bắn người chơi lên cao. Có thể dùng Bạch Tuộc Bóng Tròn Dị Sắc để đẩy Sứa Nón Khổng Lồ
+- Cơ Quan Điều Chỉnh: dùng Bạch Tuộc Bóng Tròn Dị Sắc bắn vào để mở cửa
+- Quả Cầu Năng Lượng: khiêu chiến yêu cầu bắn bóng xuyên qua các vòng vàng, dùng năng lực từ Bạch Tuộc Bóng Tròn Dị Sắc
+
+- Pha Lê Cô Đọng - Lily Ánh Sáng Hồ Nước - Hoa Lumidouce - Tường Vi Cầu Vồng - Hoa Romaritime
+
+- dịch từ tiếng Pháp có nghĩa là "chết".

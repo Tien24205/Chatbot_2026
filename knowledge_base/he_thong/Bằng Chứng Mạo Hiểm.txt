@@ -1,0 +1,41 @@
+# Bằng Chứng Mạo Hiểm
+
+## Tổng Quan
+
+type: Hệ Thống Trò Chơi
+group: Phát Triển
+group2: Giao Diện
+
+Bằng Chứng Mạo Hiểm cung cấp nhiều tính năng hữu ích cho người chơi:
+- Cung cấp phần thưởng dựa trên sự tiến bộ của người chơi.
+- Lựa chọn khu vực để làm Ủy Thác và theo dỏi các Uỷ Thác trong ngày và phần thưởng.
+- Hiển thị Bí Cảnh có thể truy cập và phần thưởng.
+- Hiển thị và theo dõi một số Thủ Lĩnh hiện đang có và hiển thị đồ rơi ra của chúng.
+
+## Kiến Thức
+
+Thẻ "Kiến Thức" của Bằng Chứng Mạo Hiểm cung cấp phần thưởng cho người chơi khi hoàn thành các nhiệm vụ khác nhau.Sau khi hoàn thành một chương, phần thưởng chương sẽ được trao và chương tiếp theo sẽ được mở khóa. Ngoài phần thưởng theo chương, mỗi nhiệm vụ đơn lẻ cũng cho 100 EXP Mạo Hiểm nhưng phần thưởng khi hoàn thành thì không. Có 9 chương.
+
+- Ủy Thác: Thẻ Uỷ Thác hiển thị cho người chơi các Ủy Thác trong ngày và phần thưởng khi hoàn thành cả 4 Ủy Thác. Xem Ủy Thác để biết thêm chi tiết.
+
+## Bí Cảnh
+
+Thẻ Bí Cảnh hiển thị cho người chơi tất cả Bí Cảnh có thể truy cập và phần thưởng phù hợp với Hạng Mạo Hiểm hiện tại.
+
+Thẻ này cũng cho phép người chơi hiển thị vị trí của Bí Cảnh trên bản đồ bằng cách nhấp vào nút ghim bản đồ ở bên phải.
+
+Nếu đã đạt đến Hạng Mạo Hiểm yêu cầu nhưng Bí Cảnh chưa được khám phá, phần thưởng khi khám phá Bí Cảnh sẽ được hiển thị.
+
+Tiến trình La Hoàn Thâm Cảnh của người chơi được hiển thị trong thẻ La Hoàn Thâm Cảnh.
+
+## Thảo Phạt
+
+Thẻ Thảo Phạt hiển thị cho người chơi những kẻ thù khác nhau xuất hiện trên thế giới. Có các bộ lọc riêng biệt cho từng loại kẻ thù: Quái Thường, Quái Tinh Anh, và Thủ Lĩnh.
+
+Người chơi có thể theo dõi một số điểm xuất hiện của kẻ thù bằng cách nhấp vào nút Đi Theo, nút này sẽ đánh dấu vị trí của bản đồ. Sẽ có những điểm sinh ra Thủ Lĩnh mà bạn không thể theo dõi bằng sổ tay.
+
+## Chuẩn Bị
+
+Trong thẻ Chuẩn bị, đột phá Nhân Vật của các Nguyên Tố (trừ "Nhà Lữ Hành") và hoàn thành Thử Thách Nguyên Tố trong Đền Sư Tử Nam Phong để nhận thưởng tương ứng. Có 4 chương, không giống như thẻ Kiến Thức, thẻ này không yêu cầu hoàn thành chương trước để mở khoá chương sau.
+
+Mỗi chương sẽ mở khoá ở một Hạng Mạo Hiểm cụ thể:

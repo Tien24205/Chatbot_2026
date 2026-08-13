@@ -1,0 +1,31 @@
+# Izumi Naki
+
+## Ngoại Hình
+
+type: NPC Đại Thế Giới
+region: Inazuma
+location: Inazuma
+title: Pháp Sư
+voiceEN: Anjali Kunapaneni
+
+- Tổng Quan: là một NPC Đại Thế Giới tại Sangonomiya, Inazuma.
+
+- Tiểu Sử: (Sẽ được bổ sung.)
+
+Izumi Naki mặc một bộ đồ dành cho vu nữ gồm một chiếc kosode trắng và một bộ hakama xanh lam, tất trắng và dép okobo có quai màu xanh lam. Trang phục của cô có điểm nhấn màu xanh lam đậm, và mái tóc đen của cô được cắt thành kiểu bob dài đến cằm.
+
+- Lời Thoại Nhàn Rỗi: Watatsumi Omikami... : "Cầu mong Watatsumi Omikami sẽ bảo vệ chúng ta."
+
+## Hội Thoại
+
+Izumi Naki: Cầu mong Đảo Watatsumi năm nay vẫn sẽ mưa thuận gió hòa...
+Đây là...
+:Izumi Naki: Tôi là pháp sư của Sangonomiya, nghe theo chỉ thị của Thánh Pháp Sư.
+: Về Thánh Pháp Sư...
+::Izumi Naki: Thánh Pháp Sư chính là Sangonomiya Kokomi đại nhân, cũng là thủ lĩnh tối cao của Đảo Watatsumi.
+::Izumi Naki: Đại nhân Sangonomiya có huyết thống đặc biệt, và là người thừa kế duy nhất của Đảo Watatsumi, đương nhiên người của Sangonomiya đều nghe theo cô ấy.
+::Izumi Naki: Đại nhân Sangonomiya tài đức vẹn toàn, nắm rõ công việc của tất cả các lĩnh vực, là một nhà lãnh đạo danh bất hư truyền của Đảo Watatsumi.
+::Izumi Naki:...Có điều đại nhân có quá nhiều việc phải xử lý, khó tránh khỏi cần một nơi yên tĩnh.
+::Izumi Naki: Vì vậy, tôi đề nghị nếu không có việc gì quan trọng thì tốt hơn hết là đừng làm phiền đại nhân.
+Tạm biệt.
+:Izumi Naki: Tạm biệt, Watatsumi Omikami sẽ bảo vệ bạn.

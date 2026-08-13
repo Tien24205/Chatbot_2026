@@ -1,0 +1,20 @@
+# Vô Phong Kiếm
+
+## Thông Tin Cơ Bản
+
+id: 11101
+type: Kiếm Đơn
+series: 1 Sao
+releaseDate: 2020-09-28
+quality: 1
+base_atk: 23
+obtain: Rương
+obtain2: Điều Tra
+obtain3: Cửa Hàng
+obtain4: Mặc Định
+
+- Tổng Quan: Vô Phong Kiếm là một Kiếm Đơn 1 Sao.
+
+- Câu Chuyện: Suốt đường đi là những khoảnh khắc tương phùng rồi ly biệt. Người bạn đồng hành trung thành không hề bỏ rơi lữ khách, E rằng chỉ là mộng tưởng của trường kiếm và viễn hành.
+
+- Được tìm thấy ngẫu nhiễn trong Rương Thường và Cao Cấp trên khắp Teyvat - Rơi khi tương tác với một số điểm Điều Tra

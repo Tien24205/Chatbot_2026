@@ -1,0 +1,53 @@
+# Hải Đồ Vạn Quốc
+
+## Thông Tin Cơ Bản
+
+id: 14407
+type: Pháp Khí
+releaseDate: 2020-09-28
+quality: 4
+base_atk: 44
+2nd_stat_type: Tinh Thông Nguyên Tố
+2nd_stat: 24
+passive: Sách Năng Lượng
+effect: Trong 10s sau khi kích hoạt phản ứng Nguyên Tố, nhận (var1)% buff sát thương Nguyên Tố, cộng dồn 2 tầng.
+eff_rank1_var1: 8
+eff_rank2_var1: 10
+eff_rank3_var1: 12
+eff_rank4_var1: 14
+eff_rank5_var1: 16
+eff_att1: Tăng ST Nguyên Tố
+eff_att2: Phụ Thuộc Phản Ứng Nguyên Tố
+obtain: Rèn
+obtain2: Sự Kiện Ngôi Sao Trở Về
+series: Năng Lượng
+
+- Tổng Quan: Hải Đồ Vạn Quốc là một pháp khí 4 Sao có thể rèn được.
+
+## Câu Chuyện
+
+Khắp nơi trên thế giới đều tìm đến Liyue, đó là niềm vinh dự đối với thương cảng to lớn này.
+
+Kho báu từ khắp nới trên thế giới cũng theo dòng người đổ về cảng Liyue.
+
+Bản đồ miêu tả chi tiết các vùng biển quanh đại lục, gồm các thông tin như hải lưu, đá ngầm, hướng gió...
+
+Tương truyền điển tích của dị quốc chứa đựng tất cả tri thức, dũng khí cũng như niềm tin của tất cả những kẻ dám khám phá, tìm tòi.
+
+Trang tiêu đề của cuốn sách có nội dung:
+
+"Phải yêu lấy gió biển, yêu những dòng hải lưu, bởi gió và nước đưa người lái thuyền đến đích của họ."
+
+"Phải kính trọng gió biển và dòng hải lưu, vì gió và nước có thể xé nát cả sắt thép".
+
+Để hiểu tính khí của biển, hãy khám phá từng rặng đá ngầm, từng ngọn gió và từng vùng biển mà những con cá voi tụ hội.
+
+Vô số người làm việc trên thuyền đã ghi lại tất cả trên trang giấy đã ố vàng, giống như miêu tả làn da và mái tóc của người yêu vậy.
+
+Ở ngoại quốc, những người đi biển có kinh nghiệm coi đại dương như là người yêu, và sử dụng những đại từ "cô ấy" để chỉ vị đắng của nước.
+
+Có thể đó là vì sự hỷ nộ bất thường cũng như tấm lòng bao dung của biển, hoặc có thể vì họ vẫn còn muốn sự lãng mạn trên hành trình của mình.
+
+Cuốn sách ảnh này giống như biển không có chủ sở hữu vậy, và cũng giống như các thủy thủ, họ đi đến thế giới với những giấc mơ và sự lãng mạn.
+
+- Rèn - Sự kiện Ngôi Sao Trở Về (không thời hạn)

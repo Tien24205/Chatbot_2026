@@ -1,0 +1,58 @@
+# Máy Cưa Cầm Tay
+
+## Thông Tin Cơ Bản
+
+id: 112427
+type: Trọng Kiếm
+quality: 4
+base_atk: 41
+2nd_stat_type: HP
+2nd_stat: 12%
+series: Dụng Cụ Khoan Cắt
+releaseDate: 2023-09-27
+obtain: Cầu Nguyện Vũ Khí
+passive: Khúc Hát Thuyền Viên
+eff_rank1_var1: 40
+eff_rank2_var1: 50
+eff_rank3_var1: 60
+eff_rank4_var1: 70
+eff_rank5_var1: 80
+eff_rank1_var2: 2
+eff_rank2_var2: 2,5
+eff_rank3_var2: 3
+eff_rank4_var2: 3,5
+eff_rank5_var2: 4
+eff_att1: Tinh Thông Nguyên Tố
+eff_att2: Năng Lượng Nguyên Tố
+
+## Effect
+
+Khi trị liệu hoặc nhận trị liệu sẽ nhận một Ký Hiệu Kiên Nhẫn, duy trì 30s, tối đa có được 3 Ký Hiệu. Khi thi triển Kỹ Năng Nguyên Tố hoặc Kỹ Năng Nộ sẽ tiêu hao tất cả Ký Hiệu để sản sinh hiệu quả Phấn Khởi trong 10s: Mỗi Ký Hiệu tiêu hao sẽ tăng (var1) điểm Tinh Thông Nguyên Tố, đồng thời sau 2s khi hiệu quả được sản sinh, mỗi Ký Hiệu tiêu hao sẽ hồi phục (var2) điểm Năng Lượng Nguyên Tố cho người trang bị. Mỗi 15s tối đa kích hoạt một lần hiệu quả Phấn Khởi; Nhân vật không ra trận cũng có thể nhận được Ký Hiệu Kiên Nhẫn.
+
+## Mô Tả
+
+Máy cưa rất được công nhân ưa thích trong quá khứ, dùng để cắt xương của rồng và đường ống.
+
+Có kết cấu đơn giản mà kiên cố, dễ bảo trì và đổi linh kiện.
+
+Hai tay cầm chắc phần cán, là có thể cắt đứt sắt thép cứng cáp.
+
+Loại dụng cụ sắc bén có thể cắt đứt mọi thứ này từng là biểu tượng đại diện cho sự tiến bộ.
+
+Sau đó, theo đà phát triển của khu vực thành thị Fontaine, mọi bóng tối đã lần lượt bị ánh sáng trật tự xua đuổi.
+
+Sở dĩ cống thoát nước có thể trở thành Fleuve Cendre phần lớn đều nhờ vào loại công cụ tiện lợi này.
+
+Cư dân Fleuve Cendre tin rằng, dù sống ở thành phố bên dưới thành phố, nơi không có ánh mặt trời và mưa rơi,
+
+Với sự phấn đấu và kiên trì không mệt mỏi, họ sẽ có được tư cách sống trên mặt đất,
+
+Hoặc có thể xây dựng "Thủy Quốc" nơi mình đang sống cũng xinh đẹp như trên mặt đất.
+
+Loại máy cưa này không bị cấm như Kiếm Bến Tàu, Mũi Khoan Thăm Dò,
+
+Bởi vì trong ngành sản xuất Robot Dây Cót thời kỳ đầu nó vẫn có công dụng khó lòng thay thế.
+
+Rồi sau đó, ở nơi tuyệt đối an toàn ở ngoại thành đã xây dựng lên công xưởng Robot Dây Cót lớn nhất,
+
+Người có thể sử dụng nó một cách thông thạo đã cùng với nó dần dần biến mất trong dòng chảy tiến bộ.

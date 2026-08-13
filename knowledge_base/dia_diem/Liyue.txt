@@ -1,0 +1,33 @@
+# Liyue
+
+## Thông Tin Cơ Bản
+
+map: Teyvat
+chapter: Chương I
+element: Nham
+archon: Morax
+ideal: Khế Ước
+controlling_entity: Thất Tinh Liyue
+festival: Tết Hải Đăng Lễ Trục Nguyệt<!--
+demonym: Liyue people Liyue local-->
+adjectival: Liyue
+
+- Tổng Quan: là một trong 7 quốc gia nằm trên đại lục Teyvat. Thị quốc này là nơi thờ phụng Nham Thần Morax. Để mở khóa lối vào Liyue, người chơi cần phải hoàn thành. diễn ra tại đất nước này.
+
+## Từ Nguyên
+
+- Liyue () có nghĩa đen là "Ly Nguyệt" trong tiếng Trung. Ngoài ra, miHoYo cũng coi "Ngọc Nguyệt" là một bản dịch thay thế, sử dụng gốc của (ngọc) trong Li của Liyue.
+- Chữ Li () của Liyue có thể được phân tách thành và, cũng chính là chữ li trong tên của Zhongli trong tiếng Trung giản thể. yue () trong Liyue cũng mang nghĩa "tháng", do đó Liyue có thể còn một ý nghĩa thứ yếu: "Tháng Khởi Hành của Nhà Vua", mang nét tương đồng với một cách diễn dịch tên của Zhongli ("thời điểm khởi hành").
+- là từ đồng âm gần nghĩa với, một từ thể hiện khía cạnh Nho giáo trong triết học và văn hóa truyền thống Trung Quốc. Lǐ (nghi thức/lễ nghĩa) là phong tục tập quán giúp duy trì trật tự vũ trụ và xã hội loài người, bởi theo triết học Trung Quốc, trật tự Thiên - Địa - Nhân có một mối liên hệ chặt chẽ với nhau. Yuè (âm nhạc) tượng trưng cho sự hòa hợp văn hóa của một xã hội.
+- cũng là một từ đồng âm gần nghĩa với.
+- Theo như cốt truyện, là một quốc gia được thành lập ở Quy Li Nguyên trước Chiến Tranh Ma Thần, tên phàm trần của Morax - "Zhongli" thì được chọn sau khi cuộc chiến kết thúc. Do đó, từ nguyên của "Liyue" trong trò chơi còn giúp chúng ta đào sâu hơn vào cốt truyện.
+- Trong Câu Chuyện Nhân Vật của Xiao "Bố Thí Ngã Quỷ", cuốn sách "Lưu Ly Nham Gian Quốc Sĩ Kỷ Hành" do Giáo Viện Sumeru viết đã được đổi tên thành "Hạp Trung Lưu Ly Vân Gian Nguyệt" ở Liyue. và là hai thành tố chính trong từ nguyên của Liyue.
+- Qingzhou dịch cụm từ hay "Hạp Trung Lưu Ly Vân Gian Nguyệt" là "Như con người cất giữ Li trong một chiếc hộp, thiên nhiên che giấu Yue giữa những đám mây", giải thích rằng "Li" là một "vật trang trí bằng gốm quý giá" còn "Yue" ám chỉ Mặt trăng.
+- Sâu hơn nữa, cốt truyện thanh kiếm Tiếng Hét Của Rồng còn có liên hệ tới ý nghĩa của "Liyue". Tiếng Hét Của Rồng được lấy cảm hứng từ một bài thơ nổi tiếng, mô tả việc đúc một thanh kiếm cổ xưa "giống như bông sen trắng phun ra từ hộp ngọc, chiếc vòng vàng trên chuôi kiếm được nhuộm bằng ánh sáng rực rỡ của Mặt trời và Mặt trăng”. Đây khả năng cao là từ nguyên của "Liyue" trong trò chơi.
+
+## Tham Khảo Văn Hóa
+
+- Liyue được lấy cảm hứng từ Trung Quốc.
+- Cảng Liyue là trung tâm kinh tế của Liyue, tương tự như nhiều thành phố cảng ở Trung Quốc.
+- Morax, người sáng lập Liyue, đã trích dẫn một số câu châm ngôn từ cuốn Luận Ngữ của Khổng Tử trong một bài đăng blog chính thức (chưa xác thực).
+- Cốt truyện của Thần Thể Rừng Băng Giá cho biết vô số lý tưởng đã được khai sinh và rồi lụi tàn trong Chiến Tranh Ma Thần, cuộc chiến mà Liyue đã sống sót vượt qua. Nó có thể có liên hệ tới cuốn Bách Gia Chư Tử trong thời kỳ Chiến Quốc của Trung Quốc cổ đại, nơi triết học Nho giáo về "Liyue" (Nghi lễ và Âm nhạc) được lưu giữ vẹn nguyên sau chiến tranh.

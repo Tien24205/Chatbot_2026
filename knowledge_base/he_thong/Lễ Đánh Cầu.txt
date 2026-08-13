@@ -1,0 +1,28 @@
+# Lễ Đánh Cầu
+
+## Thông Tin Cơ Bản
+
+type: Văn Hóa Mondstadt
+type2: Lễ Hội
+
+- Tổng Quan: Lễ Đánh Cầu là một lễ hội tổ chức hằng năm ở Mondstadt. Lễ hội kéo dài 15 ngày, thường có nhiều trò chơi và âm nhạc. Đây là một trong những lễ hội có lịch sử lâu đời nhất của Mondstadt.
+
+## Truyền Thống
+
+Lễ Đánh Cầu là lễ hội nổi tiếng kéo dài 15 ngày tràn ngập âm nhạc và niềm vui, là lễ hội nổi tiếng nhất đối với những đứa trẻ. Lễ Đánh Cầu là lễ hội của những bài ca, của rượu hay của những chuyến đi, tất cả đều là thương hiệu của Mondstadt. Người chiến thắng những trò chơi sẽ được chọn một thiếu nữ để tung cầu - một quả bóng bọc vải đỏ - cho đám đông, cũng chính là cao trào của lễ hội. Người bắt được cầu sẽ nhận chúc phúc may mắn và hạnh phúc cả năm.
+
+Đàn Thiên Không cũng được sử dụng trong lễ hội.
+
+## Lịch Sử
+
+Lễ Đánh Cầu được tạo ra để tưởng nhớ việc Barbatos - Phong Thần đã dạy con dân cách ủ rượu và sống tự do. Đây là lễ hội mà ai cũng có thể tham gia và tận hưởng.
+
+Tuy nhiên, vào thời điểm cuộc nổi loạn của Vennessa diễn ra hàng nghìn năm trước cốt truyện chính của Genshin Impact, Barbatos đã rời đi từ lâu để tránh trở thành một tên bạo quân như người tiền nhiệm, còn giới quý tộc cai trị Mondstadt thời bấy giờ dần tham nhũng và lạm dụng quyền lực của mình.
+
+Duói thời của họ, Lễ Đánh Cầu bị biến thành sự kiện chỉ dành cho quý tộc giàu có thưởng thức. Gia trưởng của Gia Tộc Lawrence - gia tộc đứng đầu trong giới quý tộc - không còn quan tâm đến niềm vui của người dân nên đã hủy bỏ hết các hoạt động vui chơi, chỉ để lại hoạt động cao trào ném cầu của lễ hội. Tuy nhiên chỉ có con trai của Đại Nhân Lawrence là Barca Lawrence mới có quyền chạm vào quả cầu. Bất cứ ai dám đụng đến quả cầu sẽ phải chịu tra tấn. Hơn nữa, Barca cũng có quyền chọn người thiếu nữ sẽ ném cầu.
+
+Khi Venti (hình dáng mà Barbatos dùng để đi du hành khắp thế giới) tỉnh dậy sau lời cầu nguyện của những linh hồn đang chịu sự tàn bạo của quý tộc, cậu đã đến Mondstadt ngay khi lễ hội đến cao trào. Vào một khoảng thời gian nào đó, quý tộc đã cho dựng nên Quảng Trường Tượng Thần để thiếu nữ tung cầu. Venti cho rằng vì có đám đông nên thiếu nữ sẽ được an toàn, tuy nhiên không chắc giả định này đúng đến đâu.
+
+Sau cuộc nổi loạn của Vennessa cùng với việc đám quý tộc đã bị trục xuất, Lễ Đánh Cầu đã được khôi phục lại như ban đầu, tuy nhiên tòa tháp mà các thiếu nữ tung cầu thì đã bị dỡ bỏ.
+
+Trong manga diễn ra khoảng một năm trước cốt truyện chính của trò chơi, bối cảnh bắt đầu ngay khi Lễ Đánh Cầu vừa khai hội. Fatui được mời đến dự lễ hội, vì vậy Dottore và Krupp đã có mặt ở đó, cùng lúc đó Amber đưa Collei đi tham quan khi lễ hội bắt đầu.

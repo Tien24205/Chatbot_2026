@@ -1,0 +1,23 @@
+# Nhiệm Vụ
+
+## Nhiệm Vụ Ma Thần
+
+type: Hệ Thống Trò Chơi
+
+- Tổng Quan: Nhiệm Vụ là nội dung cốt truyện trong Genshin Impact.
+
+Nhiệm Vụ Ma Thần gồm phần cốt truyện chính của Nhà Lữ Hành và Paimon, họ đi khắp Teyvat để tìm kiếm song sinh thất lạc của Nhà Lữ Hành bằng cách đi gặp tất cả Bảy Vị Thần. Tất cả phần này được lồng tiếng.
+
+## Nhiệm Vụ Truyền Thuyết
+
+Nhiệm Vụ Truyền Thuyết gồm các chương liên quan đến xuất thân và tính cách của từng nhân vật chơi được hoặc các Nhiệm Vụ Sự Kiện. Sự Kiện Đồng Hành cũng thuộc loại nhiệm vụ này. Tất cả phần này được lồng tiếng.
+
+## Nhiệm Vụ Thế Giới
+
+Nhiệm Vụ Thế Giới được mở khóa bằng cách nói chuyện với NPC hoặc khám phá khắp Teyvat. Chúng cung cấp cái nhìn thêm về địa điểm và các câu chuyện khác. Những nhiệm vụ này thường không được lồng tiếng.
+
+- Ủy Thác: Ủy Thác là những nhiệm vụ hằng ngày mà người chơi có thể hoàn thành để nhận thưởng, nhưng một vài ủy thác sẽ có câu chuyện đặc biệt và có các yêu cầu cụ thể. Những nhiệm vụ này không được lồng tiếng.
+
+## Ghi Chú
+
+Trong một số trường hợp, người chơi sẽ không thể tham gia nhiệm vụ do nhân vật và/hoặc địa điểm đang trong một nhiệm vụ khác. Người chơi có thể vào giao diện nhiệm vụ để biết được nhiệm vụ cần phải hoàn thành để nhân vật/địa điểm có thể tham gia vào nhiệm vụ đang tiến hành. Cơ chế này đã được đề cập trong Màn Hình Chờ.

@@ -1,0 +1,27 @@
+# Rosaria
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+element: Băng
+weapon: Vũ Khí Cán Dài
+quality: 4
+name: Rosaria
+birthday: 24 tháng 01
+constellation: Spinea Corona
+affiliation: Giáo Hội Tây Phong
+dish: Bữa Tối Phán Quyết
+namecard1: Rosaria - Khổ Sai
+obtain: Cầu Nguyện
+region: Mondstadt
+title: Ân Điền Mũ Gai
+title2: Tu nữ không hoà đồng
+voiceEN: [[imdb:nm1752885
+voiceCN: Zhang Anqi (zh|张安琪)
+voiceJP: w|Ai Kakuma|Kakuma Ai (ja|加隈 亜衣)
+voiceKR: w|ko:김보나|Kim Bo-na (ko|김보나)
+releaseDate: 2021-04-06
+
+- Tổng Quan: Rosaria là một nhân vật hệ Băng mà người chơi có thể điều khiển trong Genshin Impact. Cô là thành viên của Giáo Hội Tây Phong ở Mondstadt.
+
+- Cầu Nguyện Thường Du Hành Thế Gian từ Phiên Bản 1.5 - Tất cả Sự Kiện Cầu Nguyện Nhân Vật và Sự Kiện Cầu Nguyện Vũ Khí từ Phiên Bản 1.5

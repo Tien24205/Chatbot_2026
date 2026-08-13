@@ -1,0 +1,106 @@
+# Jeht
+
+## Thông Tin Cơ Bản
+
+type: NPC Nhiệm Vụ
+realname: Jeht Ufairah Hindi
+region: Sumeru
+location: Sumeru
+affiliation: Eremite
+affiliation2: Tanit
+affiliationNote2: cũ
+element: Thủy
+father: Jebrael
+mother: Ufairah
+relative: Tirzad
+
+- Tổng Quan: Jeht Ufairah Hindi, trước đây là Jeht Tanit, là một NPC độc quyền nhiệm vụ xuất hiện lần đầu tiên trong.
+
+## Tiểu Sử
+
+Jeht là con gái của Jebrael và Ufairah. Cô được Tirzad thuê cùng với cha mình để điều tra một số tàn tích trong sa mạc, mặc dù chúng đã rơi xuống hố và chỉ được Nhà Lữ Hành tìm thấy sau khi Bonifaz lo lắng về tình trạng của chúng. Cô nhanh chóng kết bạn với Nhà Lữ Hành, và trong khi cố gắng tìm đường thoát, cô phát hiện ra một Kết Cấu Nguyên Thủy khác thường, sau đó cô đã kết bạn và đặt tên cho nó là Benben.
+
+Sau khi Jebrael hy sinh tại Khaj-Nisut, Jeht rời đi cùng chiếc rìu cha cô để lại. Sau khi xem qua một số kỷ vật của ông, cô phát hiện ra rằng ông thuộc về một bộ tộc được gọi là Tanit và quyết định thực hiện một chuyến đi để tìm họ. Cuối cùng cô cũng tìm thấy bộ tộc và được chấp nhận như một "một nửa người ngoài", vì Jebrael đã rời khỏi bộ tộc khi anh nhận ra rằng Babel đã cố gắng loại bỏ anh, mặc dù anh đã không nói với cô về điều đó trước khi qua đời. Cô nhanh chóng chứng minh giá trị của mình với chủ mẫu của bộ tộc Babel, cô được giao nhiệm vụ loại bỏ những kẻ phản bội, một số trong số đó bao gồm những trưởng lão Tanit khác mà cô đã có mối quan hệ tốt trước khi gặp lại Nhà Lữ Hành.
+
+Jeht giải thích rằng bản thân muốn tìm được Ốc Đảo Vĩnh Hằng để có thể đặt những kỷ vật của cha mẹ mình ở đó làm nơi an nghỉ. Babel đã nhờ Azariq giúp họ thực hiện nhiệm vụ, nơi họ phát hiện ra một Trấn Linh cổ đại được gọi là Liloupar. Tính cách ban đầu của Liloupar khiến Jeht tức giận, nhưng cuối cùng cô đã hòa giải với Trấn Linh trong suốt chuyến đi. Khi Azariq tiết lộ mình đang thông đồng với Fatui, Jeht buộc phải giết anh ta vì anh ta đã phản bội bộ tộc. Cuối cùng họ đã phát hiện ra Ốc Đảo Vĩnh Hằng, nơi cô đặt những kỷ vật ở đó trước khi quay lại bộ tộc và thông báo tin tức cho họ. Ngay sau đó, cô đã nhờ Nhà Lữ Hành hỗ trợ cô khôi phục Benben, vì Aderfi được cho là đã bỏ trốn sau khi thông đồng với Fatui.
+
+Khi Babel ra lệnh cho Jeht giết Nhà Lữ Hành như một phần trong âm mưu chiếm đoạt Ốc Đảo Pairidaeza, Jeht đã từ chối giết bạn của cô. Vì sự bất trung của mình, Babel đã đề nghị Jeht đến chỗ Froderock Fronkonsteen để làm thí nghiệm, sau đó nói với cô rằng Nhà Lữ Hành đã thông đồng với Fatui và phản bội họ. Khi Jeht đến để điều tra, cô đã bị Fatui phục kích, và cô đã giết chết rất nhiều người trong số họ trước khi bị bắt. Nhà Lữ Hành, người cũng đang điều tra tuyên bố của Babel rằng Jeht đã phản bội bộ tộc, phát hiện ra rằng Fatui đã bắt cô và tìm thấy cô trong một căn cứ của Fatui, nơi cô đã thoát ra và giết tất cả Fatui trên đường đi của mình.
+
+Sau khi đến chỗ cô, cô tấn công họ để đáp trả vì cô tin rằng họ đã phản bội bộ tộc. Cô nhanh chóng bị họ đánh bại và bình tĩnh lại trước khi họ nói cho cô sự thật, điều này khiến cô vô cùng tức giận. Sau đó, cô và Nhà Lữ Hành nhanh chóng gặp Rezki và Nayram, những người mà cô nhận ra là Chim Ưng được cử đến để tiêu diệt họ. Sau khi đối phó với những sát thủ này, họ rời đi để đối đầu với Babel. Trong cuộc đối đầu, Babel đã cố gắng giành chiến thắng trước Jeht lần cuối, mặc dù sau đó điều này được tiết lộ là một mưu mẹo để khiến Jeht hạ thấp cảnh giác. Cuối cùng, Jeht đứng về phía Nhà Lữ Hành và tiếp tục nhắc nhở Babel về những trưởng lão trong bộ tộc mà Jeht đã giết thay Babel. Nhà Lữ Hành và Jeht sau đó phải đối mặt với cuộc đối đầu cuối cùng với Babel và những người trong bộ tộc của cô. Trước khi Jeht giết cô ta, Babel nói với Jeht rằng cô ta đã cử trinh sát đến để thông báo cho các bộ tộc khác về "sự phản bội" của mình, để tất cả những người Eremite sẽ coi cô là nguy hiểm và không đáng tin cậy.
+
+Khi đã trả thù thỏa mãn, Jeht quyết định bắt đầu cuộc hành trình của riêng mình; khi cô muốn đi cùng Nhà Lữ Hành, cô cảm nhận được rằng cuộc hành trình của họ vẫn chưa kết thúc và đã chia tay họ trong nước mắt.
+
+Theo sự kiện được ghi lại trong Ký Sự Của Học Giả Vô Danh, có lẽ xảy ra sau khi bộ tộc tan rã, Jeht hiện là thủ lĩnh của một nhóm lính đánh thuê mới thành lập. Nhóm của cô đang thực hiện nhiệm vụ truy lùng Masseira, và vì mục đích đó, họ có mối quan hệ tốt với Hội Nghi Hoặc, những người mà Masseira cũng đã xúc phạm. Jeht và nhóm của cô đã xoay xở để làm trung gian giữa Hội Nghi Hoặc và một nhóm học giả của Giáo Viện và đồng ý hộ tống nhóm sau trở về rừng mưa.
+
+## Ngoại Hình
+
+Jeht có ngoại hình đã được sửa đổi của một Eremite - Nước Giữa Sa Mạc, với một số điểm khác biệt là tóc cô ấy có màu xanh royal thay vì màu nâu, có bàn đạp ngắn thay vì dài và màu da rám nắng hơn. Cô cũng có sẹo trên cơ thể. Mặc dù mắt cô không được hiển thị trong trò chơi (do cô ấy đeo miếng bịt mắt truyền thống của Eremite), nhưng bản vẽ nhân vật chính thức của cô ấy xác định rằng chúng có màu vàng.
+
+## Hội Thoại #1
+
+(Sau khi hoàn thành Niềm Vui Khi Mất Rồi Lại Được và trước khi hoàn thành Ngày Tàn Đã Mất)
+Jeht: A, ra là, có chuyện gì không?
+Về "Ốc Đảo Vĩnh Hằng"...
+:Jeht: May mà lần này đi cùng đến "Ốc Đảo Vĩnh Hằng", nếu không e là khó mà mở được đường đến đó.
+:Jeht: Tôi không biết phải cảm ơn thế nào... Lần sau chúng ta lại đốt lửa trại ngồi nói chuyện nhé, giống như...
+:Jeht: Giống như lần trước cùng Azariq... à...
+:Jeht: Cái tên xấu xa đó...
+: Xin lỗi...
+:Jeht: Không cần xin lỗi... Tôi không có giận.
+:Jeht: Trước khi khởi hành, chủ mẫu đã căn dặn tôi phải đề cao cảnh giác. Tôi có thể bất cẩn... nhưng đâu có ngốc.
+:Jeht: Những bản vẽ về máy móc cổ đại... chưa hề được chia sẻ với người của bộ tộc đã là trọng tội. Từ khi biết được điều này, tôi đã bắt đầu nghi ngờ hắn ta rồi...
+:Jeht: Nhưng thật không ngờ, tiếp xúc với tôi trong khoảng thời gian dài mà lại ôm kế hoạch như vậy... Hắn ta nghĩ có thể khống chế được tôi sao...
+:Jeht: Cứ nghĩ đến là thấy ghê tởm...
+:Jeht: Cũng may chủ mẫu Babel vẫn luôn đứng về phía tôi, tôi tin rằng chủ mẫu có thể đưa bộ tộc tiến đến phồn hoa một lần nữa...
+:Jeht: Nhất định là vậy...
+:Jeht: Đúng rồi, còn có! vẫn luôn ở bên tôi!
+: Ừm, tôi cũng là người của Jeht!
+::Jeht: Người của Jeht là cái quái gì vậy... Kỳ quá, nghe giống như biệt hiệu mà Paimon đặt ấy.
+::Jeht: Nhưng vẫn phải cảm ơn,, thực sự cảm ơn!
+: Nếu tôi và chủ mẫu có xung đột thì...
+::Jeht:...
+::Jeht: Haha, không được nói đùa như thế. là khách quý của Tanit, tìm được "Người Mẹ Trấn Linh" và lại tìm ra con đường đến "Ốc Đảo Vĩnh Hằng"...
+::Jeht: Tôi không tìm được lý do khiến chủ mẫu bất đồng với.
+Không có gì...
+:Jeht: Ừm... Nếu cần tôi giúp gì thì nói ra nhé.
+
+## Hội Thoại #2
+
+(Sau khi hoàn thành Ngày Tàn Đã Mất)
+Jeht:...Là sao, trở về từ thành Gurabad rồi à?
+Jeht: Ừm, đúng rồi, tìm tôi có chuyện gì không? Thời gian gần đây việc ở Tanit hơi nhiều...
+Về Liloupar...
+:Jeht: Ừm, tôi đã nghe chuyện cô ấy rời đi rồi. Quay về nơi bị nguyền rủa.
+:Jeht: Cái tên đó suốt ngày ra vẻ bề trên, giờ cuối cùng cũng yên tĩnh... Làm tôi nhẹ nhõm hơn hẳn.
+:Jeht: Nhưng cô ấy cũng đã giúp đỡ chúng ta rất nhiều... Mà nói xem, cô ấy sẽ tìm thấy thứ gì ở đó chứ? Nếu không có gì... Cô ấy có cảm thấy cô đơn như chúng ta không?
+:Jeht: Haiz... Thật đáng tiếc khi không thể đi cùng...
+Chuyện về Tanit?
+:Jeht: À, cũng không phải chuyện gì lớn, giờ cũng không thể kể cho nghe...
+:Jeht: Đại khái là vài việc trong lữ đoàn. Ừm... Có lẽ liên quan đến đám người từ phương bắc. Nhưng cụ thể là gì thì tôi cũng không rõ...
+:Jeht: Nhưng mà... ừm...
+:Jeht: Nhưng mà...!
+:Jeht: Ấy, xin lỗi, sao tôi bối rối thế nhỉ... Ý tôi là, về sau nếu như tôi...
+:Jeht: Không đúng! Nếu như gặp nguy hiểm gì, thì hãy tin tưởng tôi! Tôi vẫn luôn đứng về phía.
+:Jeht: Nếu như người gặp nguy hiểm là tôi... thì nhất định sẽ đến giúp phải không?
+: Đương nhiên rồi.
+::Jeht: Ừm... Cảm ơn. Nhớ là... đề phòng lũ người xấu nhé.
+: À, đừng quên chuyện trả tiền chứ.
+::Jeht: Hừm... Đừng có bắt chước cách nói chuyện của lính đánh thuê chứ.
+::Jeht: Nhưng mà... phải cẩn thận đó.
+Về Benben...
+:Jeht: May lần trước lấy được mấy món đồ của người phương bắc mà Benben mới hồi phục nhanh như vậy, trông rất có tinh thần nữa.
+:Jeht: Giống hệt như Benben thuở đầu mới gặp...
+Vậy đợi đến khi cô có thời gian...
+:Jeht: Ừm, khi nào rảnh chúng ta lại nói chuyện nhé...
+:Jeht: Ồ, đúng rồi...! Đúng rồi...
+:Jeht: À không có gì... Cho dù có gặp nguy hiểm như thế nào đi chăng nữa, tôi luôn đứng về phía. Vậy nên... hãy cẩn thận nhé.
+
+## Hội Thoại #3
+
+(Sau khi bắt đầu )
+Jeht:! Xin chào!
+Jeht: Cám ơn đã cùng tôi đi thám hiểm, về chuyện của cha mẹ tôi... xin cám ơn.
+Đừng khách sáo như vậy.
+Jeht: Hihi, nếu không phải chủ mẫu Babel còn ủy thác nhiệm vụ khác, thì tôi sẽ cùng đi một chuyến vào sa mạc để thám hiểm rồi.
+Jeht: Tôi còn biết rất nhiều nơi thú vị, đợi khi nào có thời gian tôi sẽ dắt các bạn đi cùng!
+Jeht: Nhưng e rằng bây giờ không tiện lắm, những kẻ phản bội cấu kết với người phương bắc đang lăm le lãnh địa của chúng tôi, tôi còn phải theo dõi động tĩnh của chúng mới được.

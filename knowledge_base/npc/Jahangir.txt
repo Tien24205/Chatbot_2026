@@ -1,0 +1,29 @@
+# Jahangir
+
+## Thông Tin Cơ Bản
+
+type: NPC Đại Thế Giới
+region: Sumeru
+location: Sumeru
+title: Chủ Tiệm Ăn
+child: Ami
+
+- Tổng Quan: Jahangir là một NPC thương nhân tại Cảng Ormos, Sumeru. Cửa hàng mở bán cả ngày và được làm mới mỗi ngày.
+
+- Lời Thoại Nhàn Rỗi: Nấu liền ăn ngay... : "Đồ ăn ngon! Nấu liền ăn ngay."
+
+- Suy Nghĩ: Jahangir: (Làm sao mới khiến Ami ăn nhiều một chút nhỉ? Ăn nhiều mới cao được!)
+
+## Hội Thoại
+
+Jahangir: Hoan nghênh ghé thăm, bạn muốn ăn món gì?
+Jahangir: Muốn tự mình nấu cũng được, nồi này cứ dùng thoải mái.
+Đói quá.
+:Jahangir: Hahaha, vậy thì cố chịu một chút nhé!
+Anh là...
+:Jahangir: Tôi là chủ tiệm thức ăn, danh hiệu nói lên tất cả, chính là người giúp các bạn lấp đầy bụng.
+:Jahangir: Muốn mua đồ nấu sẵn, hoặc là tôi cho mượn nồi tự nấu đều được! Chuyện ăn cơm thì mọi người phải ăn chung mới vui, bạn nói có phải không?
+:Jahangir: Nhất là mấy thương nhân và thủy thủ hay đến rồi đi kia, bình thường đều ăn bữa no bữa đói, ở chỗ tôi ít nhất cũng có thể có được bữa cơm nóng.
+:Jahangir: Nhờ bọn họ, tôi còn ăn ké được không ít món ngon của các quốc gia khác nữa, hahaha!
+Tạm biệt.
+:Jahangir: Đi thong thả, lần sau lại đến nhé!

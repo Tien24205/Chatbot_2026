@@ -1,0 +1,23 @@
+# Hành Lang Hư Vô
+
+## Thông Tin Cơ Bản
+
+type: Địa Điểm Đáng Chú Ý
+type2: Nội Khu
+area: Thần Điện Không Gian
+region: Khác
+
+- Tổng Quan: Nó được mở khóa bằng cách hoàn thành và có thể vào lại bằng cách tương tác với Trung Tâm Ký Ức nhỏ hơn trong Điện Samma Sambodhi.
+
+## Câu Chuyện
+
+Sức mạnh của Hành Lang đến từ chính Thần Điện Không Gian. Để xây dựng đường lên trời và đến được Lồng Chân Như, người ta phải hiến dâng tất cả ký ức. Việc này đã được Raumhilda hoàn thành lần đầu tiên trong hành trình của cô qua Thần Điện Không Gian để đối mặt với Melanta. Sau cuộc đối đầu, Melanta đã cắt đứt đường lên trời và phá hủy một nửa Hành Lang Hư Vô.
+
+Trong, Nhà Lữ Hành, Paimon và em gái của Raumhilda Zeitlind đã thành công trong việc tái hiện đường lên trời bằng cách hiến tế ký ức của Zeitlind, cùng với những ký ức còn lại của chị gái cô, tạo thành một con đường vĩnh cửu đến Lồng Chân Như. Nhà Lữ Hành băng qua Hành Lang, bước vào ảo mộng mà hai chị em từng chia sẻ. Cuối cùng, cả nhóm đến Lồng Chân Như và đối mặt với Melanta.
+
+## Lưu Ý Về Cơ Chế
+
+- Sau khi tương tác với Trung Tâm Ký Ức trong Điện Samma Sambodhi, màn hình chuyển sang màu đen kèm dòng chữ Hành Lang Hư Vô vẫn đang tiếp tục kéo dài...
+- Chế Độ Nhiều Người Chơi bị vô hiệu hóa và không thể đặt Điểm Dịch Chuyển Bỏ Túi ở đây.
+- Khi bước vào đường lên trời qua cổng dịch chuyển trên cửa, nhân vật đang hoạt động sẽ bị giới hạn ở Nhà Lữ Hành và không thể điều khiển được.
+- Người chơi chỉ có thể trôi dạt trong hành lang, sống lại chuỗi ký ức tương tự như trong Phán Quyết Cuối Cùng.

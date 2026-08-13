@@ -1,0 +1,49 @@
+# Euphrasie
+
+## Thông Tin Cơ Bản
+
+type: NPC Đại Thế Giới
+region: Fontaine
+location: Fontaine
+affiliation: Báo Chim Hơi Nước
+title: Tổng Biên Tập Báo Chim Hơi Nước
+voiceEN: [[imdb:nm13268019
+voiceJP: w|ja:ほなみ|Honami (ja|ほなみ)
+
+- Tổng Quan: Euphrasie là NPC đại thế giới ở Khu Đại Sảnh Fontaine, Fontaine. Đi đến nơi có biểu tượng trên bản đồ sẽ đến được chỗ Euphrasie.
+
+- Lời Thoại Nhàn Rỗi: Báo chí... tháp đèn... : "A good newspaper should be a lighthouse of truth!"
+
+## Hội Thoại
+
+(Cấp Danh Vọng 1–2)
+Euphrasie: Hở? Đang chào tôi à... Xin lỗi, khi nãy không chú ý. Bạn đến nhận nhiệm vụ của chuyên mục "Cuộc Sống Muôn Màu" sao?
+(Cấp Danh Vọng 3-6)
+Euphrasie: Thời tiết đẹp thật, hôm nay bạn có tâm trạng giúp đỡ những người đang gặp phiền phức không?
+(Cấp Danh Vọng 7-10)
+Euphrasie: Thật vui được gặp bạn thân mến. Nghĩa cử cao đẹp của bạn đều được lưu truyền giữa độc giả trên trang báo, tòa soạn đã nhận được rất nhiều thư cảm ơn.
+Euphrasie: Lần này tới đây vẫn là vì nhiệm vụ sao? Hihi, bạn có một tâm hồn thật cao thượng.
+Danh tiếng của tôi ở Đại Sảnh Fontaine...
+;(Cấp Danh Vọng 1-2)
+:Euphrasie: Nếu bạn có thể giải quyết rắc rối của độc giả, tôi tin họ sẽ rất sẵn lòng trả thù lao cho bạn.
+;(Cấp Danh Vọng 3-6)
+:Euphrasie: "Là một người nhiệt tình tốt bụng, gặp chuyện gì cũng có cách...", mọi người bình luận về bạn rất tốt.
+;(Cấp Danh Vọng 7-10)
+:Euphrasie: Tôi và các độc giả rất cảm kích những gì bạn đã làm. Nếu sau này cần giúp đỡ thì hãy đến tìm tôi, hy vọng chúng tôi cũng có thể giúp đỡ bạn.
+;(Mở menu Danh Vọng Fontaine)
+: Về "Cuộc Sống Muôn Màu"...
+:Euphrasie: Một trong những dự tính ban đầu khi thành lập tòa soạn, là để cho thông tin được lưu thông, để mọi người nắm được chuyện xảy ra xung quanh mình.
+:Euphrasie: Dần dần, tôi nghĩ ngoài việc giúp độc giả "được biết", sẽ còn giúp họ tự do "biểu đạt".
+:Euphrasie: Vậy nên mới có chuyên mục "Cuộc Sống Muôn Màu", ai cũng có thể gửi bài, ai cũng có cơ hội được lắng nghe.
+:Euphrasie: Hihi, kết quả thì bạn thấy đấy, nội dung chuyên mục này tràn ngập chuyện đó đây.
+:Euphrasie: Như vậy cũng không tệ. Theo kinh nghiệm của tôi thì ngoài những tin tức bùng nổ, độc giả cũng cần một chút nội dung nhẹ nhàng để giải trí.
+:Euphrasie: Hơn nữa, có thể giúp đỡ độc giả cũng tốt cho danh tiếng của tòa soạn chúng tôi.
+:Euphrasie: Phiền bạn rồi. Yên tâm, gì chứ thù lao thì không thể thiếu được.
+Về Charlotte...
+:Euphrasie: Đúng, Charlotte là phóng viên của tòa soạn. Cô ấy... lại gây ra chuyện gì sao?
+: Không có.
+::Euphrasie: Vậy thì tốt quá. Dù sao phóng viên hiện trường cũng khó tránh khỏi mấy chuyện nguy hiểm, tôi tưởng lại có ai tới để đe dọa chứ.
+::Euphrasie: À, đừng lo. Dù có gặp phải chuyện này thì chúng tôi cũng có cách đối phó.
+::Euphrasie: Phiền phức nhỏ này cũng không xử lý được thì chúng tôi sớm đã nghỉ nghề báo rồi, hihi.
+Tạm biệt.
+:Euphrasie: Tạm biệt, chúc bạn một ngày tốt lành.

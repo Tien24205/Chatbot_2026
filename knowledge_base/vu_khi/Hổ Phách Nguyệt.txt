@@ -1,0 +1,22 @@
+# Hổ Phách Nguyệt
+
+## Thông Tin Cơ Bản
+
+id: 14306
+type: Pháp Khí
+releaseDate: 2020-07-02
+quality: 3
+base_atk: 40
+2nd_stat_type: Tinh Thông Nguyên Tố
+2nd_stat: 16
+obtain: Chưa ra mắt
+passive: Tinh Thông Nguyên Tố
+effect: Sau khi tấn công thường đánh trúng địch, nhận (var1)% buff sát thương Nguyên Tố. Hiệu quả kéo dài 6s, cộng dồn 2 tầng.
+eff_rank1_var1: 6
+eff_rank2_var1: 7.5
+eff_rank3_var1: 9
+eff_rank4_var1: 10.5
+eff_rank5_var1: 12
+eff_att1: Tăng Sát Thương
+
+- Tổng Quan: Hổ Phách Nguyệt là một Pháp Khí 3 sao có mặt trong CBT3.

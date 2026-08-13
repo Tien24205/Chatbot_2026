@@ -1,0 +1,62 @@
+# Enkanomiya
+
+## Tổng Quan
+
+type: Khu Vực
+map: Enkanomiya
+region: Inazuma
+
+, ban đầu được biết tới là và, là một nơi có vị trí ở phía dưới Inazuma. Khu vực này có thể tiến vào thông qua hồ nước lớn phía trước Sangonomiya, và truyền thuyết kể rằng người dân Watatsumi có nguồn gốc từ đây. Mặc dù Enkanomiya có vị trí nằm ở phía dưới Đảo Watatsumi, nó đáng lẽ vẫn phải là một phần thuộc Teyvat, nhưng thực tế lại tách biệt hoàn toàn.
+
+Để tiến vào Enkanomiya, phong ấn trên năm Mỏm Đá Goshou phải được giải bằng trân châu nằm trong đền thờ (được mở bằng Chìa Khóa Vực Tắm Trăng).Điều này sẽ cho phép vào Enkanomiya nhưng với điều kiện là linh mạch kết nối với Enkanomiya và Đảo Watatsumi một cách trôi chảy và một người có trái tim "thuần khiết". Theo thuyền thuyết, chìa khóa được tạo ra từ máu của Orobashi.
+
+Điều Kiện Mở Khóa Enkanomiya:
+- Hạng Mạo Hiểm 30 hoặc hơn
+- Hoàn thành Nhiệm Vụ Ma Thần Kế Hoạch Thoát Khỏi Đảo Ritou thuộc "Chương 2: Màn 1 - Lôi Thần Uy Nghiêm, Địa Đàng Vĩnh Hằng"
+- Hoàn thành Nhiệm Vụ Thế Giới "Vực Tắm Trăng" và "Ngăn Cách Dòng Chảy"
+
+## Thám Hiểm
+
+- Ký Tự Tế Đàn: những ký tự này bao gồm năm loại Ấn Khóa riêng biệt tạo thành một vòng tròn với số thứ tự đi kèm với mỗi Ấn Khóa. Các ký tự này có thể được giải tại Tế Đàn ở Trái Tim Mãng Xà để hoàn thành một mục tiêu nào đó...
+- Đài Nhật Dạ: cơ quan xuất hiện khác biệt trong Đêm Trăn. Tới gần cơ quan này để kích hoạt. Tuy nhiên trạng thái của chúng sẽ bị đặt lại khi chuyển đổi giữa Đêm Trắng và Đêm Đen.
+- Nhật Nguyệt Luân Hồi: Dainichi Mikoshi là một chùm ánh sáng ở trung tâm của Enkanomiya, nó có thể bật và tắt, thay đổi trạng thái của Enkanomiya giữa Đêm Trắng và Đêm Đen một cách hiệu quả. Điều này có thể được thực hiện bằng cách kích hoạt các cơ quan tương ứng có trên Enkanomiya. Tường và cơ quan ẩn trong Đêm Trắng sẽ hiển thị trong Đêm Đen và ngược lại.
+- Cá Ma: một bầy cá bay lơ lửng trong Enkanomiya. Chúng cho phép người chơi bay lên vị trí cao khi ở giữa đàn. Chúng thường được tìm thấy ở Nơi Ánh Sáng Tuôn Chảy.
+- Cổng Hai Chiều: một cơ quan giúp di chuyển người chơi tới địa điểm khác. Biến thể Enkanomiya này chỉ có thể đi một chiều.
+- Nơi Ban Tinh Hoa: các cơ quan này chứa đựng sức mạnh của Đêm Trắng và Đêm Đen. Tiếp nhận Tinh Hoa sẽ cho phép người chơi kích hoạt cơ quan chỉ sử dụng được trong Đêm Đen và ngược lại.
+- Lá Chắn Ánh Sáng: rào chắn trong Enkanomiya xuất hiện trong Đêm Trắng và biến mất trong Đêm Đen.
+- Đá Vụn: các rương đá vỡ có chứa Mora bên trong.
+- Ảo Ảnh Tội Lỗi: vật thể có thể nhìn thấy bằng mắt thường trong Enkanomiya. Chuyển đổi giữa Đêm Trắng và Đêm Đen sẽ khiến cơ quan ẩn giấu đằng sau xuất hiện hoặc biến mất. Các cơ quan bị ẩn thường là các cơ quan khác, ví dụ như Ký Tự Tế Đàn.
+- Cơ Quan Ba Góc: đánh vào cơ quan này để kích hoạt nó. Nếu đã bị vỡ, chuyển về Đêm Trắng để sửa lại.
+
+- ===Đặc Sản Khu Vực=== - Trân Châu San Hô - Hải Linh Chi
+
+- NPC: Linh Hồn Tokoyo Linh Hồn Tokoyo (hay còn được gọi là "Ảo Ảnh Tội Lỗi") là các NPC quang phổ xuất hiện trên Enkanomiya trong Đêm Đen. NPC Độc Quyền Nhiệm Vụ - Enjou
+
+## Lịch Sử
+
+Từ lâu về trước, Vị Đầu Tiên và những Chiếc Bóng đã đánh bại Bảy Vị Đại Vương và bắt đầu tạo ra thế giới dành cho loài người. Một nền văn minh nhân loại thống nhất, trải dài trên toàn thế giới, mà người dân Enkanomiya là một phần. Nhưng sau đó, Vị Thứ Hai xuất hiện và một cuộc chiến nổ ra giữa Vị Đầu Tiên và Vị Thứ Hai, phá hủy trời đất. Hậu quả là Enkanomiya chìm sâu xuống đại dương.
+Thời Kỳ Đen Tối
+Khi chìm sâu xuống đại dương, họ chạm trán với Rồng Biển Sâu cổ xưa (bây giờ là Rồng Biển Sâu),kẻ cai trị nơi này.Vì biết được rằng Rồng thích bóng tối và ghét ánh sáng nên họ đã sử dụng hàng ngàn chiếc đèn lồng để xua đuổi chúng. Tuy nhiên, điều này không hiệu quả nên họ đã cầu xin nhưng Vị Đầu Tiên và những Chiếc Bóng Phát Sáng không nghe thấy lời cầu xin này. Vào Năm Thứ Ba Đen Tối, Istaroth, một trong bốn Chiếc Bóng và là "Chấp Chính Của Thời Gian", nghe thấy những lời cầu xin và cô đã giúp họ bằng cách ban đủ trí tuệ cho Aberaku no Mikoto để có thể tạo ra Dainichi Mikoshi, sau đó được gọi là "Helios". Kết quả là, trong Niên Đại Mù Mịt, trí tuệ của Aberaku đã được thức tỉnh và bắt đầu xây dựng Helios dưới lệnh của ông.
+Năm Nhật Nguyệt
+Năm Helios được hoàn thành là Năm Đầu Của Nhật Nguyệt. Với ánh sáng của Dainichi Mikoshi, họ có thể đánh đuổi Rồng Biển Sâu và sống sót. Một số gia tộc Watatsumi lớn như Gia Tộc Yuna có từ thời đó. Trong Năm Thứ Hai Nhật Nguyệt, người dân Vương Quốc Đêm Trắng tìm cách trở lại bề mặt, nghĩ rằng chiến tranh chắc chắn đã kết thúc, nhưng họ đã bị chặn lại bởi một số thực thể không rõ. Họ được giải thích rằng đây là lệnh cấm của Vị Đầu Tiên và cho rằng Vị Thứ Hai đã bị đánh bại. Vào khoảng thời gian này, một nhóm quý tộc tham nhũng thao túng bằng cách khiến người dân Vương Quốc Đêm Trắng tôn thờ Dainichi Mikoshi như một vị thần và đưa một kẻ bù nhìn lên, được biết đến với cái tên Người Con Của Mặt Trời. Aberaku phản đối các quý tộc tham nhũng, vì vậy Người Con Của Mặt Trời đã buộc tội ông phản quốc và bỏ tù. Vào Năm Thứ Mười Nhật Nguyệt, Aberaku đã chết, quần áo và thi thể của ông được cất giữ ở nhiều nơi khác nhau để ghi nhận những thành tựu trong việc tạo ra Helios. Một số người khác,như Spartacus, cũng cố gắng chống lại sự cai trị của Người Con Của Mặt Trời nhưng không thành công và bị bỏ tù. Năm Nhật Nguyệt tiếp tục dưới sự cai trị của Người Con Của Mặt Trời cho đến khi Orobashi xuất hiện.
+
+Vào một thời điểm nào đó, người dân Enkanomiya đã xây dựng Tháp Tam giới ở biên giới của Vương Quốc Đêm Trắng. Bởi vì Vương Quốc Đêm Trắng ở biên giới giữa ba cõi khác nhau, cõi Loài Người, cõi Nguyên Tố (Rồng), cõi Hư Không, họ đã xây dựng những tòa tháp này để ổn định Vương Quốc Đêm Trắng và duy trì sự hòa hợp giữa ba cõi. Vì những tòa tháp này rất quan trọng, chúng được che giấu bằng cách sử dụng bí pháp, chỉ Pháp Sư, chẳng hạn như Eboshi và Ngự Sử mới có thể triệu hồi. Tên cổ của những tòa này đã bị lãng quên, nhưng được đổi tên thành Khu Vực Yachimatahiko, Khu Vực Yachimatahime và Khu Vực Kunado.
+
+Trong thời gian này, người dân Enkanomiya đã quan sát thấy một số hiện tượng đặc biệt — Thần Lâu và Ảo Ảnh Tội Lỗi — mà họ gọi một cách bừa bãi là "Eidolons". Mãi cho đến khi Orobashi xuất hiện, họ mới hiểu được chúng và đặt tên lần lượt là Ảo Ảnh Lửa Mặt Trời và Ảo Ảnh Lửa Ma.
+Orobashi Xuất Hiện
+Sau khi bị đánh bại trong Chiến Tranh Ma Thần và chạy trốn khỏi lục địa Teyvat, vị thần cổ đại sau này được gọi là Orobashi no Mikoto xuất hiện ở Vương Quốc Đêm Trắng. Người dân Enkanomiya cũng có quan hệ với người dân Khaenri'ah. Thương hại họ, Orobashi đã đánh bại Rồng và phong ấn nó. Orobashi sau đó đã sử dụng san hô mọc ra từ cơ thể nó để trở lại bề mặt và tạo ra Đảo Watasumi. Những người được cứu đã đặt tên cho vùng đất là "Sangonomiya" và bắt đầu gọi Vương Quốc Đêm Trắng là "Enkanomiya". Họ cũng bắt đầu tôn thờ vị thần này với tên gọi "Orobashi no Mikoto" và "Watatsumi Omikami".
+
+Vào ngày cuối cùng của Enkanomiya trước khi mọi người di tản lên mặt đất,sứ giả từ Khaenri'ah cùng với Thủ Vệ Di Tích đã đến và đánh cắp cuốn sách Nhật Nguyệt Tiền Truyện, một cuốn sách mà Orobashi cấm. Antigonus đã chiến đấu với họ và ngăn việc ăn cắp cuốn sách, nhưng cũng bị thương nặng.
+Hiện Tại
+Cứ sau vài nghìn năm, Enkanomiya sẽ bắt đầu xâm lấn đất trên Đảo Watatsumi, điều này có thể gây nguy hiểm cho đảo và biến nó thành sa mạc nếu không được xử lý, cùng với Rồng Biển Sâu hoặc một số quái vật khác đã cư trú dưới đất và chờ đợi để lên bề mặt. Để ngăn điều này xảy ra, người dân Watatsumi phải tiến hành một nghi lễ được gọi là Watatsumi Mitama Omatsuri, liên quan đến việc sử dụng một Nhánh Quỳnh Ngọc Của Biển Xa tách ra từ sâu thẳm của Enkanomiya.
+
+Mới đây, Tsuyuko yêu cầu Nhà Lữ Hành loại bỏ năm phong ấn để lấy Chìa Khóa Vực Tắm Trăng trong khi gửi yêu cầu tới Sangonomiya Kokomi cho phép vào Enkanomiya để giải quyết vấn đề, người cuối cùng đã cho phép họ vào và lấy San Hô Máu.Trong khi Nhà Lữ Hành trên đường đến Enkanomiya, họ đã phát hiện ra những vết tích của Rồng Biển Sâu cổ đại cùng với rất nhiều hilichurl và dấu vết của Giáo Đoàn Vực Sâu, được gửi đến bởi "Enjou" để tìm cuốn sách "Nhật Nguyệt Tiền Truyện" ẩn bên trong để chứng minh rằng các vị thần và Đảo Thiên Không đến từ bên ngoài Teyvat.
+
+## Văn Hóa
+
+Người dân Watatsumi vẫn đang duy trì các truyền thống của Enkanomiya. Một trong số các truyền thống là xem bói bằng cách sử dụng "Linh Thảo Biển Sâu", một loại thực vật được cấy trên đảo Watatsumi từ Enkanomiya.
+
+## Từ Nguyên
+
+-,là nguồn gốc của cái tên Vương Quốc Đêm Trắng, dùng để chỉ một hiện tượng trong đó Mặt Trời nhìn thấy được vào ban đêm.
+- Từ đó có thể suy ra, khi Dainichi Mikoshi dựng lên, cái tên Vương Quốc Đêm Trắng được hình thành.

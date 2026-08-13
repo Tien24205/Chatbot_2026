@@ -1,0 +1,20 @@
+# Đội
+
+## Tổng Quan
+
+type: Hệ Thống Trò Chơi
+group: Giao Diện
+
+Đội là các nhóm tối đa bốn Nhân Vật trong Genshin Impact. Các Đội có thể nhận được nhiều loại hiệu ứng từ Cộng Hưởng Nguyên Tố. Trong các màn chơi thử nhân vật, một trường hợp đặc biệt sẽ xảy ra khi đội hình có thể được mở rộng lên thành năm nhân vật nếu Nhà Lữ Hành đã có sẵn một đội hình đầy đủ bốn người mà không bao gồm nhân vật dùng thử đó; lúc này nhân vật thứ năm chính là nhân vật dùng thử.
+
+Thời gian hồi chiêu khi chuyển đổi giữa các nhân vật là 1 giây. Nếu cố gắng chuyển đổi nhiều lần quá nhanh, màn hình sẽ hiển thị thông báo việc chuyển đổi nhân vật đang trong thời gian hồi. Khả năng thay đổi đội hình sẽ được mở khóa sau khi hoàn thành nhiệm vụ.
+
+## Thiết Lập Đội
+
+Menu Thiết Lập Đội có thể được mở từ Menu Paimon hoặc bằng cách nhấn phím trên máy tính hoặc nhấn giữ vào biểu tượng nhân vật ở phía bên phải màn hình. Một số hành động (ví dụ: đang chạy) hoặc trạng thái nhất định sẽ không mở được menu. Các nhân vật được thêm vào đội hình theo thứ tự từ trái sang phải. Một đội hình không có nhân vật nào thì không thể xuất chiến. Có 4 đội hình mặc định với tên gọi là "Đội 1", "Đội 2", "Đội 3" và "Đội 4". Các đội hình mặc định có thể đổi tên nhưng không thể giải tán. Đội hình mới được tạo sẽ có tên mặc định là "Đội Chờ Lệnh". Đội hình đang xuất chiến sẽ không thể giải tán. Có thể tạo tối đa 15 đội hình. Vị trí của các nhân vật trong đội hình có thể được sắp xếp lại bằng cách nhấn giữ và kéo nhân vật đó đến vị trí muốn thay đổi. Có thể chuyển đổi qua lại giữa các đội hình bằng cách nhấp vào các mũi tên trái và phải ở mép màn hình. Khi di chuyển thủ công hoặc đưa một nhân vật vào đội hình, hoặc khi quay lại menu Thiết Lập Đội từ giao diện chi tiết nhân vật, nhân vật đó sẽ thực hiện một động tác đặc biệt.
+
+Menu Quản Lý Đội hiển thị danh sách tất cả các đội hình, bao gồm tên, Nhân Vật và Nguyên Tố. Nhà Lữ Hành có thể tạo đội hình mới, giải tán hoặc nhanh chóng chuyển đổi giữa các đội hình tại menu này.
+
+Menu Thiết Lập Nhanh cho phép Nhà Lữ Hành nhanh chóng chọn, hủy chọn hoặc sắp xếp lại thứ tự các nhân vật.
+
+Nền của menu sẽ thay đổi tùy thuộc vào khu vực mà Nhà Lữ Hành đang đứng khi mở menu nếu cài đặt "Khi thiết lập đội, bối cảnh sẽ thay đổi theo khu vực hiện tại" trong tab "Khác" đang "Mở", nếu không sẽ luôn dùng nền mặc định. Ở Simulanka, Sảnh Ảo Kịch và trong khi thực hiện nhiệm vụ vẫn sẽ sử dụng nền mặc định.

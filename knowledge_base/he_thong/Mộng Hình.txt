@@ -1,0 +1,11 @@
+# Mộng Hình
+
+## Tổng Quan
+
+type: Khám Phá
+area: Quần Đảo Táo Vàng
+event: Chuyến Đi Biến Ngày Hè
+
+Mộng Hình là loại giải đố khám phá được tìm thấy ở Quần Đảo Táo Vàng trong Chuyến Đi Biến Ngày Hè. Chúng xuất hiện dưới dạng ảo ảnh của một số Động Vật và sẽ di chuyển đến một địa điểm mới khi người chơi tiếp cận. Đi theo một Mộng Hình đến đích của nó sẽ tiến hành một câu đố hoặc phần thưởng là một cái Rương.
+
+Xem Bản Đồ Tương Tác Teyvat để biết vị trí.

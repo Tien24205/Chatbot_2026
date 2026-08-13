@@ -1,0 +1,59 @@
+# Câu Chuyện Diệt Rồng
+
+## Thông Tin Cơ Bản
+
+id: 14302
+type: Pháp Khí
+releaseDate: 2020-09-28
+quality: 3
+obtain: Cầu Nguyện
+base_atk: 39
+2nd_stat_type: Tỷ Lệ HP
+2nd_stat: 7,7%
+passive: Kế Thừa
+effect: Khi chủ động đổi nhân vật, tấn công của nhân vật mới vào trận tăng (var1)%, kéo dài 10s. Mỗi 20s mới thi triển 1 lần.
+eff_rank1_var1: 24
+eff_rank2_var1: 30
+eff_rank3_var1: 36
+eff_rank4_var1: 42
+eff_rank5_var1: 48
+eff_att1: Tấn Công
+eff_att2: Tăng TC Đội
+
+- Tổng Quan: Câu Chuyện Diệt Rồng là một pháp khí 3 Sao.
+
+## Ghi Chú
+
+- Hiệu quả tăng tấn công của nội tại dựa trên tấn công căn bản của nhân vật được buff.
+- Nội tại chỉ được kích hoạt khi khi chủ động đổi từ nhân vật trang bị vũ khí này sang một nhân vật khác.
+- Nhân vật mới lên trận sẽ được buff trong toàn bộ thời gian của hiệu ứng.
+- Việc rời trận rồi lại lên trận sẽ không làm mất đi hiệu ứng trên nhân vật được buff.
+- Trong thời gian kích hoạt, hiệu ứng sẽ không được áp dụng lên những nhân vật ra trận khác.
+- Nếu một tầng hiệu ứng mới được kích hoạt trong khi hiệu ứng trước đó đang hoạt động, hiệu quả sẽ không cộng dồn và thời gian kéo dài sẽ không được làm mới, nhưng cả hai sẽ được hồi lại như thường.
+- Gỡ trang bị Câu Chuyện Diệt Rồng sẽ ngay lập tức xóa hiệu quả của nội tại, trang bị lại hoặc đổi sang một bản sao khác sẽ làm mới thời gian chờ của hiệu ứng.
+
+## Câu Chuyện
+
+Năm vị anh hùng bắt đầu hành trình tiêu diệt ma long.
+
+Kỵ sĩ dùng kiếm điêu luyện, anh là vì danh dự;
+
+Pháp sư tay không rời sách, cô là vì nghiên cứu;
+
+Lính đánh thuê vung đao như múa, anh là vì tiền thưởng;
+
+Cung thủ bách phát bách trúng, anh là vì báo thù;
+
+Tác giả học vấn uyên bác, là vì những câu chuyện;
+
+Miệng nhả ra sen trắng, ngòi bút sinh ra hoa. Văn chương mạch lạc, ý tứ rõ ràng.
+
+Tôi đi cùng mọi người là do không tìm được việc làm. Là con người đều có thể làm công việc ghi chép.
+
+Kì thực tôi không phải là nhà văn, chỉ là một thanh niên tuổi quá 25 chưa từng trải qua công việc chính thức mà thôi.
+
+## Có Mặt Trong
+
+- Cầu nguyện thường Du Hành Thế Gian (Không giới hạn thời gian)
+- Cầu Nguyện đề xuất cho người mới (Không giới hạn thời gian cho đến khi đủ 20 lần cầu nguyện)
+- Tất cả các sự kiện Cầu Nguyện Nhân Vật và Cầu Nguyện Vũ Khí

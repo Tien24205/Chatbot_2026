@@ -1,0 +1,32 @@
+# Người Mẫu Kỳ Vực
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+quality: 5
+weapon: Kiếm Đơn
+element: Không có
+name: Người Mẫu Kỳ Vực
+obtain: Thiên Tinh Kỳ Vực
+releaseDate: 2025-10-22 11:00:00 GMT+8
+voiceEN: Nam (Giọng C): [[imdb:nm16911000
+Edward Stoneguard]]<ref name: "Manekin EN C">TikTok: Diễn Viên Lồng Tiếng Tiếng Anh Tự Công Bố
+voiceJP: Nam (Giọng A): w|Yoshitsugu Matsuoka|Matsuoka Yoshitsugu (ja|松岡禎丞) Nam (Giọng B): w|Yuma Uchida|Uchida Yuma (ja|内田雄馬) Nam (Giọng C): w|Hikaru Midorikawa|Midorikawa Hikaru (ja|緑川光) Nữ (Giọng A): w|Inori Minase|Minase Inori (ja|水瀬いのり) Nữ (Giọng B): w|Hisako Kanemoto|Kanemoto Hisako (ja|金元寿子) Nữ (Giọng C): w|Yui Horie|Horie Yui (ja|堀江由衣)
+
+## Tổng Quan
+
+Người Mẫu Kỳ Vực là một nhân vật chơi được trong Genshin Impact, đóng vai trò là nhân vật chính trong chế độ chơi Thiên Tinh Kỳ Vực.
+
+Sau khi mở khóa Thiên Tinh Kỳ Vực, người chơi sẽ có quyền truy cập vào hai phiên bản của Người Mẫu: Người Mẫu Nam và Người Mẫu Nữ. Các Người Mẫu này có thể được đặt tên, tùy chỉnh bằng Kết Hợp Ngoại Hình và được sử dụng trong cả Thiên Tinh Kỳ Vực lẫn Teyvat.
+
+Tại Thiên Tinh Kỳ Vực, người chơi có thể tự do hoán đổi giữa Người Mẫu Nam và Người Mẫu Nữ bất cứ lúc nào. Tại Teyvat, người chơi sẽ có cả hai Người Mẫu này cùng lúc dưới dạng các nhân vật riêng biệt, nhưng không thể sử dụng cả hai trong cùng một đội hình. Người Mẫu có thể được dùng trong đại thế giới và hầu hết các bí cảnh, nhưng không được phép sử dụng trong các chế độ chơi như: La Hoàn Thâm Cảnh, Nhà Hát Giả Tưởng và Ảo Cảnh Hiểm Ác. Nguyên tố của họ được đặt theo nguyên tố hiện tại của Nhà Lữ Hành.
+
+## Đột Phá Và Chỉ Số
+
+Người Mẫu không yêu cầu Nguyên Liệu EXP Nhân Vật, Nguyên Liệu Đột Phá Nhân Vật hoặc Mora để tăng cấp hoặc đột phá. Sau khi đạt đến một Cấp Thiên Tinh Kỳ Vực nhất định trong Thiên Tinh Kỳ Vực, Người Mẫu có thể đột phá lên cấp đột phá tiếp theo, đồng thời tự động tăng đến cấp độ tối đa của cấp đột phá đó.
+
+- Thiên Phú: Thiên phú của Người Mẫu không yêu cầu Nguyên Liệu Thiên Phú Nhân Vật hoặc Mora để tăng cấp. Chúng sẽ được tự động tăng lên cấp độ tối đa tương ứng với cấp đột phá của Người Mẫu sau mỗi lần đột phá.
+
+- Cung Mệnh: Nhân Vật này không có Cung Mệnh.
+
+- Cách Nhận: Có thể nhận Người Mẫu thông qua Thiên Tinh Kỳ Vực và không xuất hiện trong bất kỳ Cầu Nguyện nào.

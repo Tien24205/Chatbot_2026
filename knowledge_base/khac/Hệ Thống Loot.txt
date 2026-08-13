@@ -1,0 +1,117 @@
+# Hệ Thống Loot
+
+## Bảng Thứ Tự Rơi
+
+Trong Genshin Impact, Hệ Thống Rơi Đồ đã sử dụng Bảng Thứ Tự Rơi (Hierarchical Loot Table), một loại cấu trúc dữ liệu có chứa nhiều bảng phụ.
+
+Bảng Thứ Tự Rơi là một cấu trúc dữ liệu tổng thể cho Hệ Thống Rơi Đồ trong thiết kế trò chơi mà một số trò chơi đã sử dụng.
+
+Trong Bảng Thứ Tự Rơi, nó có nhiều bảng con cho cơ chế rơi phụ.
+
+Có một bảng ví dụ để giải thích cơ chế này.
+
+Vũ khí là phần thưởng rơi trực tiếp. Mũ và khiên là phần thưởng sử dụng cơ chế rơi phụ.
+
+Trong thiết kế game, các nhà thiết kế thường sử dụng trọng số để biểu thị tỷ lệ phần trăm khả năng.
+
+Trung Bình Rơi Phụ = Số Lần Rơi Phụ x Khả Năng Rơi Phụ
+
+Khả Năng Rơi Phụ = Trọng Số Rơi Phụ/Hệ số
+
+Trong bảng thứ tự này, hệ số là 1000.
+
+Khi số lần tơi phụ là 1,065 và 100% khả năng nghĩa là có 6,5% khả năng xuất hiện 2 lần rơi phụ khác nhau và có 93,5% khả năng chỉ xuất hiện 1 lần rơi phụ.
+- Lần rơi phụ khác nhau nghĩa là bạn có khả năng nhận được các phần thưởng khác nhau.
+- Nhưng không có nghĩa là bạn sẽ không nhận được cùng một phần thưởng.
+- Trong ví dụ này, có một số khả năng sẽ xảy ra: Chỉ 1 mũ và 1 khiên, 2 mũ, 2 khiên hoặc 1 mũ với 1 khiên.
+
+Khi số lần tơi phụ là 1 và 71% khả năng nghĩa là nó có 71% khả năng xuất hiện 1 lần rơi phụ và có 29% khả năng không xuất hiện rơi phụ nào.
+
+## Rơi Phụ và Thứ Tự Gieo
+
+Trong Genshin Impact, một số phần thưởng sẽ rơi trực tiếp, trong khi một số sẽ sử dụng rơi phụ.
+
+Ví dụ: hầu hết các phần thưởng Thánh Di Vật đều sử dụng rơi phụ. Thứ tự gieo là:
+#Độ hiếm Thánh Di Vật
+#Số lượng chỉ số phụ
+#Bộ Thánh Di Vật
+#Loại Thánh Di Vật (Hoa, Lông Vũ, v.v.)
+
+Mỗi loại gieo thường có nhiều rơi phụ.
+
+## Cấp Kẻ Địch và Bậc Phần Thưởng
+
+Hầu hết phần thưởng từ Kẻ Địch có nhiều bậc. Các bậc này được xác định bởi cấp của Kẻ Địch.
+
+Từ cấp 1 đến 4, phần thưởng ở bậc 1. Từ cấp 5 đến 9, phần thưởng ở bậc 2. Sau đó, cứ mỗi 5 cấp, phần thưởng sẽ tăng 1 bậc. Vì vậy, mối quan hệ giữa cấp Kẻ Địch và bậc phần thưởng là một hàm số xác định theo từng khoảng.
+
+Đối với một số phần thưởng, giá trị trung bình phần thưởng sẽ giống nhau giữa các bậc.
+- Ví dụ: nó sẽ có cùng tỷ lệ rơi đối với Thánh Di Vật 3 sao và Thánh Di Vật 4 sao giữa bậc 11 và 12 đối với một số Kẻ Địch tinh anh.
+
+Dưới đây là danh sách để hiển thị mối quan hệ.
+
+## Phân Bổ Rơi Thánh Di Vật
+
+Xem thêm: Dữ liệu trong Hệ Thống Rơi Đồ/Phân Bổ Rơi Thánh Di Vật do cộng đồng thu thập. Xin lưu ý rằng các thông tin này có thể khác khi chơi thực tế.
+
+Đối với Bí Cảnh, Boss Tuần, Thủ Lĩnh Thường và Kẻ Địch Tinh Anh, phần thưởng của chúng sử dụng cơ chế rơi vật phẩm phụ.
+
+Thứ tự gieo là:
+#Độ hiếm
+#Giá trị chỉ số phụ
+#Bộ Thánh Di Vật
+#Loại Thánh Di Vật (Hoa, Lông Vũ, v.v.)
+
+## Phân Bổ Rơi Nguyên Liệu
+
+Xem thêm: Dữ liệu trong Hệ Thống Rơi Đồ/Phân Bổ Rơi Nguyên Liệu do cộng đồng thu thập. Xin lưu ý rằng các thông tin này có thể khác khi chơi thực tế.
+
+Một số phần thưởng sử dụng cơ chế rơi phụ:
+- Sách Bồi Dưỡng Thiên Phú từ Bí Cảnh (phần thay đổi của phần thưởng)
+- Nguyên Liệu Đột Phá Vũ Khí từ Bí Cảnh (phần thay đổi của phần thưởng)
+- Ngọc Đột Phá từ Thủ Lĩnh Thường, Boss Tuần và Thưởng Thêm Mỗi Ngày.
+- Nguyên Liệu Bồi Dưỡng Thiên Phú từ Boss Tuần
+- Hộp Phôi Bắc Lục từ Boss Tuần
+- Lương Khoáng Tinh Đúc từ Thưởng Ủy Thác Mỗi Ngày
+
+Một số phần thưởng không sử dụng cơ chế rơi phụ:
+- Mảnh Khoáng Vật
+- Sách Bồi Dưỡng Thiên Phú từ Bí Cảnh (phần đảm bảo của phần thưởng)
+- Nguyên Liệu Đột Phá Vũ Khí từ Bí Cảnh (phần đảm bảo của phần thưởng)
+- Nguyên Liệu Đột Phá Thường từ Thủ Lĩnh Thường và Kẻ Địch Tinh Anh.
+- Nguyên Liệu Thủ Lĩnh Tinh Anh từ Thủ Lĩnh Thường
+- Dung Môi Ảo Mộng từ Boss Tuần
+
+## Sách Bồi Dưỡng Thiên Phú và Nguyên Liệu Đột Phá Vũ Khí
+
+Đối với Sách Bồi Dưỡng Thiên Phú và Nguyên Liệu Đột Phá Vũ Khí từ Bí Cảnh, phần thưởng có cả phần thay đổi và phần đảm bảo.
+
+Phần thay đổi sử dụng cơ chế rơi phụ và người chơi có khả năng nhận được nguyên liệu ở tất cả độ hiếm.
+
+Thứ tự gieo là:
+#Số lượng
+#Độ hiếm
+
+Phần đảm bảo sẽ sử dựng rơi trực tiếp, người chơi chỉ nhận được nguyên liệu 2 sao.
+- Giá trị trung bình của nguyên liệu trong phần đảm bảo phụ thuộc vào cấp bí cảnh khác nhau.
+
+- Ngọc Đột Phá: Đối với Ngọc Đột Phá từ Thủ Lĩnh Thường và Boss Tuần, thứ tự gieo là: #Số lượng #Độ hiếm Đối với Ngọc Đột Phá từ Thưởng Thêm Mỗi Ngày, thứ tự gieo là: #Số lượng #Kiểu Nguyên Tố (Ngọc 2 sao)
+
+- Nguyên Liệu Bồi Dưỡng Thiên Phú và Hộp Phôi Bắc Lục Tuần: Đối với Nguyên Liệu Bồi Dưỡng Thiên Phú và Hộp Phôi Bắc Lục từ Boss Tuần, thứ tự gieo là: #Trọng số #Kiểu Nguyên Liệu
+
+- Nguyên Liệu Thủ Lĩnh Tinh Anh và Dung Môi Ảo Mộng: Đối với Nguyên Liệu Thủ Lĩnh Tinh Anh và Dung Môi Ảo Mộng, nguyên liệu sẽ rơi trực tiếp.
+
+## Nguyên Liệu Đột Phá Thường
+
+Xem thêm: Dữ liệu trong Hệ Thống Rơi Đồ/Nguyên Liệu Đột Phá Thường do cộng đồng thu thập. Xin lưu ý rằng các thông tin này có thể khác khi chơi thực tế.
+
+Đối với Nguyên Liệu Đột Phá Thường từ Thủ Lĩnh Thường và Kẻ Địch Tinh Anh, nguyên liệu ở tất cả độ hiếm sẽ có khả năng rơi trong cùng một thời điểm.
+
+## Mảnh Khoáng Vật
+
+Đối với Mảnh Khoáng Vật, có 100% khả năng nhận được 1 mảnh. Trong đó, có khả năng để nhận 2 mảnh (mỗi mảnh 10%).
+- Đối với 1 mảnh, tổng khả năng là 1 * 0,9 * 0,9 = 81%
+- Đối với 2 mảnh, tổng khả năng là 1 * 0,1 * 0,9 * 2 = 18%
+- Đối với 3 mảnh, tổng khả năng là 1 * 0,1 * 0,1 = 1%
+
+- Lương Khoáng Tinh Đúc từ Thưởng Ủy Thác Mỗi Ngày: Đối với Lương Khoáng Tinh Đúc từ Thưởng Ủy Thác Mỗi Ngày, thứ tự gieo là: #Số lượng #Độ hiếm

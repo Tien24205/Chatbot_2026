@@ -1,0 +1,45 @@
+# Khí Hậu
+
+## Tổng Quan
+
+type: Thám Hiểm
+type2: Hệ Thống Trò Chơi
+
+Khí Hậu đề cập đến các điều kiện khí quyển bất thường,dai dẳng ở một số khu vực của Teyvat.
+
+Các điều kiện khí hậu cũng là một kiểu Địa Mạch Bất Thường trong một số bí cảnh nhất định.
+
+Điều kiện khí hậu có thể hoặc không thể tạm dừng khi tương tác với NPC.
+
+## Các Kiểu Khí Hậu
+
+Một số điều kiện khí hậu trong trò chơi được gọi là "Môi Trường Đặc Biệt". Khi nhà lữ hành ở trong Môi Trường Đặc Biệt,một biểu tượng có thể xuất hiện cạnh bản đồ nhỏ.Thông tin có thể được truy cập bằng cách chọn biểu tượng bên cạnh bản đồ nhỏ hoặc bằng "Mở giới thiệu Môi Trường Đặc Biệt" (phím tắt mặc định: U).
+
+## Môi Trường Cực Hàn
+
+Môi Trường Cực Hàn đã được ra mắt trong Phiên bản 1.2 và gây ảnh hưởng đến vùng Long Tích Tuyết Sơn trong Mondstadt.Khí hậu kiểu này gồm Giá Rét,khiến nhân vật mất dần HP.Người chơi có thể tìm nguồn ấm để tránh mất HP.
+
+- Khí Hậu Vực Đá Sâu: Esther đã đề cập đến khí hậu ở Vực Đá Sâu nhưng hiện chưa được ra mắt,rất khác so với phần còn lại của Liyue.Do đó, rất có thể Vực Đá Sâu sẽ bị ảnh hưởng bởi khí hậu.
+
+- Biển Sương Mù: Biển Sương Mù đã được ra mắt trong Phiên Bản 1.6 và ảnh hưởng đến Quần Đảo Táo Vàng.Biển Sương Mù khiến cho tầm nhìn hạn chế và người chơi phải cẩn thận để không bị lạc.
+
+- Khu Sấm Gầm: Khu Sấm Gầm đã được ra mắt trong Phiên bản 2.0 và ảnh hưởng đến nhiều khu vực khác nhau ở Inazuma. Nếu không có sự bảo vệ của Hạt Giống Lôi hoặc Gỗ Chống Sét,nhân vật sẽ mất dần HP.
+
+## Lôi Điện Phong Tỏa
+
+Lôi Điện Phong Tỏa là tên của kiểu Môi trường Đặc biệt bao quanh Inazuma và được ra mắt trong Phiên bản 2.0.Môi trường này có Sấm Sét dai dẳng với rất nhiều sét.Nếu người chơi cố gắng vào hoặc ra khỏi Inazuma bằng cách vào cơn bão,sẽ bị được dịch chuyển trở lại Cảng Liyue hoặc Ritou.Điều này có nghĩa là không thể vào Inazuma nếu không dùng dịch chuyển.
+
+Thông tin về Lôi Điện Phong Toả có mô tả sau:
+- Theo lệnh bế quan tỏa cảng của Ogosho Shogun, người vô gia cư, người lang thang, người không phận sự không được tự do ra vào Inazuma.
+
+## Khác
+
+Một số khu vực nhất định có thể bị ảnh hưởng bởi các điều kiện thời tiết dai dẳng nhưng không hề có thông tin về Môi Trường Đặc Biệt hoặc Khí Hậu có thêm các hiệu ứng. Chỉ những kiểu đặc biệt chẳng hạn như những kiểu gắn với nhiệm vụ hoặc được nhân vật nhắc đến với tên đặc biệt, mới được liệt kê ở đây.
+
+## Đỉnh Amakumo, Đảo Seirai
+
+Đỉnh Amakumo bị ảnh hưởng bởi Khu Sấm Gầm. Ngoài Khu Sấm Gầm, có rất nhiều sét, hầu hết thường đánh vào người chơi đến mức phải liên tục di chuyển để không bị đánh trúng.
+
+Cả Khu Sấm Gầm và sét đánh đều bị loại bỏ trong Chuyến Săn Sấm Seirai.
+
+- Họa Thần: Họa Thần được ra mắt trong Phiên Bản 2.0 và ảnh hưởng đến Đảo Yashiori ở Inazuma. Đảo Yashiori trải qua những sấm sét dai dẳng với rất nhiều sét. Họa Thần bị loại bỏ trong Di Sản Orobashi.

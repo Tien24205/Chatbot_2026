@@ -1,0 +1,29 @@
+# Cung Điện Caesareum
+
+## Vết Khắc Cổ Xưa #1
+
+type: Phân Khu
+map_level: Cung Điện Caesareum
+area: Biển Kỷ Nguyên Cũ
+region: Fontaine
+map: Biển Kỷ Nguyên Cũ
+
+Bia Đá Cổ Xưa: "...Theo lệnh của người chỉnh âm vĩ đại Euergetia, theo âm luật chí tôn thánh thiện, Quân Đoàn VI 'Thơ Nhạc' sẽ được giao cho người chỉnh âm vĩ đại Boethius phụ trách, canh giữ Cung Điện Caesareum..."
+Bia Đá Cổ Xưa: "...Theo truyền thống bình định man tộc của Quân Đoàn VI, tiếp đón hậu duệ rồng ghé thăm không được phép thể hiện bất cứ sự thù địch nào..."
+Bia Đá Cổ Xưa: (Mấy dòng sau đó bị cố ý gạch bỏ, không thể đọc được.)
+
+## Vết Khắc Cổ Xưa #2
+
+Bia Đá Cổ Xưa: "...Theo lệnh của người chỉnh âm vĩ đại Boethius, phong tỏa Cảng Anticus và Initium Iani, không được trì hoãn..."
+Bia Đá Cổ Xưa: "...Bố trí bảy tầng phòng tuyến, phong tỏa mọi lối thoát... Khi hậu duệ rồng đến, sẽ (khó đọc) tiêu diệt toàn bộ kẻ thù của đế quốc..."
+Bia Đá Cổ Xưa: "...Người chỉnh âm vĩ đại Euergetia đã dùng máu và xương (khó đọc) để rèn ra ba xiềng xích... Đã chuyển đến Cung Điện Caesareum... Nếu không thể tiêu diệt thủ lĩnh ác long, thì sẽ dùng thứ đó để giam cầm nó vĩnh viễn tại đây..."
+Bia Đá Cổ Xưa: "...Vì đế quốc, vì (cái tên ở đây bị cố ý xóa đi), vì văn minh nhân loại..."
+
+## Vết Khắc Cổ Xưa #3
+
+Ta, Aetius, và chị gái của ta, Placidia, không hề chết vì bệnh tật.
+Mà là chết trong cuộc đấu tranh với hậu duệ loài rồng bội tín đó khi nó đến trước cổng thành.
+Quân Đoàn VI không có ai đào ngũ, không ai sỉ nhục thanh danh của ân chủ. Chúng ta đã canh giữ cung điện này.
+Cũng như cách chúng ta theo chân Euergetia bình định man tộc ở phía bắc và đem sự văn minh đến nơi đó.
+Chúng ta lựa chọn văn minh và cái chết. Chết vì bảo vệ văn minh, cũng chính là vinh quang tối thượng.
+Chiến hữu à, hãy tấu khúc nhạc lên đi! Vì tất thảy vinh quang và sự cao quý, cũng là vì thanh danh của ân chủ.

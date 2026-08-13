@@ -1,0 +1,12 @@
+# Simin
+
+## Thông Tin Cơ Bản
+
+type: NPC Nhiệm Vụ
+region: Sumeru
+location: Sumeru
+father: Bahari
+voiceEN: [[imdb:nm4716053
+Elsie Lovelock]]<ref name: "Elsie Lovelock">Twitter: Diễn Viên Lồng Tiếng Tiếng Anh Tự Thông Báo (Lưu Trữ)
+
+- Tổng Quan: Simin là một NPC độc quyền nhiệm vụ xuất hiện trong.

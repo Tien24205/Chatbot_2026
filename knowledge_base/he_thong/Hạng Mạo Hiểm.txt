@@ -1,0 +1,38 @@
+# Hạng Mạo Hiểm
+
+## Tổng Quan
+
+type: Hệ Thống Trò Chơi
+type2: Phát Triển
+
+Hạng Mạo Hiểm (HMH hay AR) ghi nhận cấp độ tổng thể của một tài khoản, được nâng lên bằng cách nhận EXP Mạo Hiểm. Bạn có thể nhận nguyên thạch khi nâng Hạng Mạo Hiểm lên một số cấp độ nhất định.
+
+Khi người chơi đạt đến một Hạng Mạo Hiểm nhất định, Cấp Thế Giới của họ sẽ được nâng lên tự động hoặc sau khi người chơi hoàn thành nhiệm vụ Đột Phá Hạng Mạo Hiểm. Khi Cấp Thế Giới của người chơi tăng lên, nó sẽ tăng độ khó và phần thưởng của Quái vật, Boss và Địa Mạch Sinh Thành.
+
+Sau khi đạt Cấp Thế Giới 3, người chơi sẽ mở khóa tính năng Hạ Cấp Thế Giới xuống 1 bậc, có thể truy cập thông qua mục Cấp Thế Giới trên hồ sơ ở Menu Paimon. Hạ Cấp Thế Giới sẽ giảm cấp độ của Hoa Địa Mạch và quái vật trong thế giới, nhưng phần thưởng bạn nhận được khi đánh bại địch cũng sẽ giảm xuống. Chỉ có thể thực hiện thay đổi 1 lần mỗi 24 giờ, sau khi thay đổi Cấp Thế Giới bạn không thể đặt lại nó về Cấp ban đầu cho đến khi hết thời gian chờ ở trên. Tương tự khi đặt lại Cấp Thế Giới, nó cũng không thể hạ xuống ngay lập tức cho đến khi hết thời gian chờ.
+
+Hiện tại, giới hạn cấp độ mà người chơi có thể đạt được là Cấp Thế giới 8 và Hạng Mạo Hiểm 60. EXP Mạo Hiểm thừa ra sau đó sẽ được chuyển đổi thành Mora với tỉ lệ 1:10.
+
+Nhân vật và Vũ khí nhận được EXP và thăng cấp độc lập với Hạng Mạo Hiểm của người chơi. Tuy nhiên, mức tăng và cấp độ tối đa của họ được xác định bởi Hạng Mạo Hiểm của người chơi.
+
+Tham gia Thế Giới của người chơi khác yêu cầu Cấp Thế Giới của bạn phải bằng (hoặc hơn) người chơi đó.
+
+## Tổng Quan
+
+Mỗi khi Hạng Mạo Hiểm của người chơi tăng lên, họ có thể nhận phần thưởng từ Hiệp Hội Nhà Mạo Hiểm. Họ cũng có thể nhận phần thưởng từ Hiệp Hội Nhà Mạo Hiểm khi hoàn thành Nhiệm vụ Đột Phá Hạng Mạo Hiểm.
+
+Người chơi cũng sẽ có thể tăng cấp độ tối đa của Nhân vật và Vũ khí của họ thông qua Đột Phá, tối đa tới Cấp 90. Để biết chi tiết về các đặc quyền được mở khóa bằng cách nâng cấp độ Đột Phá của nhân vật, hãy xem Nhân Vật § Đột Phá.
+
+Khi người chơi cần hoàn thành Nhiệm vụ Đột Phá để lên Cấp Thế Giới tiếp theo, Kinh nghiệm Mạo Hiểm (EXP HMH) sẽ vẫn tích lũy, nhưng Hạng Mạo Hiểm của họ sẽ không tăng. Không có giới hạn về số lượng EXP HMH có thể giữ và sau khi Nhiệm vụ Đột Phá được hoàn thành, phần tràn sẽ được cộng vào sau đó.
+
+Chú ý: Gần như toàn bộ "Mở Khóa" trên thế giói đều dựa vào Hạng Mạo Hiểm, có nghĩa là nếu bạn đạt Hạng Mạo Hiểm yêu cầu để mở khóa tính năng nào đó, bạn sẽ có thể sử dụng nó cho dù không có các lợi ích đi kèm khi Tăng Cấp Thế Giới. Ví dụ, nếu một Bí Cảnh được mở khóa ở HMH 45, nhưng bạn không Đột Phá lên Cấp Thế Giới tương ứng, bạn có thể tiến vào Bí Cảnh nhưng nhưng những lợi ích của Cấp Thế Giới đó thì không.
+
+- Mở Khóa Nội Dung: Tại các Hạng Mạo Hiểm khác nhau, người chơi sẽ mở khóa các nội dung/hệ thống khác nhau trong trò chơi.
+
+- Mở Khóa Đột Phá: Việc mở khóa các Giai Đoạn Đột Phá Nhân Vật và Vũ Khí phải đạt Hạng Mạo Hiểm được yêu cầu tương ứng.
+
+- Mở Khóa Nhiệm Vụ: Các thể loại Nhiệm Vụ sẽ được mở khóa khi người chơi đạt Hạng Mạo Hiểm tương ứng.
+
+- Thưởng Hạng Mạo Hiểm: Khi Hạng Mạo Hiểm đến một cấp nhất định, có thể đến Hiệp Hội Nhà Mạo Hiểm gặp Katheryne để nhận Thưởng Hạng Mạo Hiểm.
+
+- Lượng EXP Mạo Hiểm: Khi có được một lượng EXP Mạo Hiểm nhất định sẽ tăng Hạng Mạo Hiểm. Xem bảng này để biết được lượng EXP cần để đạt được Hạng Mạo Hiểm nhất định.

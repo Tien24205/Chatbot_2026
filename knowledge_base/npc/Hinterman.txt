@@ -1,0 +1,93 @@
+# Hinterman
+
+## Thông Tin Cơ Bản
+
+type: NPC Đại Thế Giới
+region: Fontaine
+location: Fontaine
+title: Người Bán Cá
+
+- Tổng Quan: Hinterman là một NPC Đại Thế Giới tại Khu Belleau, Fontaine.
+
+- Lời Thoại Nhàn Rỗi: Muốn loại nào? : "Tôi có mọi loại cá mà bạn muốn! Bạn muốn loại nào?" Sau khi hoàn thành bước 5 của Thảm Họa Thủy Triều Đừng đến gần! : "Ở đây nguy hiểm lắm. Đừng đến gần!"
+
+## Hội Thoại #1
+
+Có sẵn trước khi hoàn thành.
+Hinterman: Ở đây có đầy đủ các loại cá, quý khách cần loại nào?
+Để tôi xem cá.
+:Hinterman: Mời.
+;(Mở giao diện Cửa Hàng)
+Gần đây có gì đáng lưu ý không?
+;(Nếu có Mạch Quặng Ma Tinh Hinterman biết)
+::Hinterman: Có một vị khách tốt bụng nói cho tôi biết là gần đây có Pha Lê Cô Đọng, hỏi tôi có cần lấy một ít để gia cố thuyền cá không.
+::Hinterman: Tạm thời tôi chưa dùng đến, để không cũng đáng tiếc. Nếu có hứng thú thì có thể đi xem thử.
+:;(Khu Giàu Khoáng Vật được đánh dấu trên bản đồ)
+;(Nếu không có Mạch Quặng Ma Tinh Hinterman biết)
+::Hinterman: Xin lỗi, tôi bận lo cho quầy cá nên không để ý.
+Nơi này là...
+:Hinterman: Chào mừng đến với Thị Trấn Poisson, nơi sinh sống của những ngư dân.
+:Hinterman: Phong cảnh có lẽ không hoa lệ như trong thành, nhưng cư dân trong thị trấn sống một cuộc sống rất nhàn nhã.
+:Hinterman: Đúng rồi, địa hình ở đây hơi khó đi, mặt đường rất trơn. Nếu quý khách đến đây du lịch thì đi lại cẩn thận nhé.
+Tôi chưa có nhu cầu.
+:Hinterman: Đi thong thả.
+
+## Hội Thoại #2
+
+Có sẵn sau khi hoàn thành.
+Hinterman: Ôi, đây chẳng phải là bạn của cô chủ sao, xin chào.
+Tôi có thể mua cá không?
+:Hinterman: Không ngờ đến mua cá thật, cứ lựa tự nhiên nhé.
+;(Mở giao diện Cửa Hàng)
+Gần đây có gì đáng lưu ý không?
+;(Nếu có Mạch Quặng Ma Tinh Hinterman biết)
+::Hinterman: Có một vị khách tốt bụng nói cho tôi biết là gần đây có Pha Lê Cô Đọng và Quặng Ma Tinh, hỏi tôi có cần lấy một ít để gia cố thuyền cá không.
+::Hinterman: Tạm thời tôi chưa dùng đến, để không cũng đáng tiếc. Nếu có hứng thú thì có thể đi xem thử.
+:;(Khu Giàu Khoáng Vật được đánh dấu trên bản đồ)
+;(Nếu không có Mạch Quặng Ma Tinh Hinterman biết)
+::Hinterman: Xin lỗi, tôi bận lo cho quầy cá nên không để ý.
+Gần đây thị trấn vẫn ổn chứ?
+:Hinterman: Vẫn náo nhiệt giống như cô chủ Navia vậy, mọi thứ đều ổn.
+:Hinterman: Cảm ơn đã quan tâm. Nếu có gặp cô chủ thì hãy chiếu cố nhiều hơn nhé.
+Gặp lại sau.
+:Hinterman: Ừm, cảm ơn đã quan tâm.
+
+## Hội Thoại #3
+
+Có sẵn sau bước 5 trong Thảm Họa Thủy Triều.
+Hinterman: Đây chẳng phải là bạn của cô chủ sao? Dạo này tình hình ở Thị Trấn Poisson không được tốt, tôi biết không phải người ở đây, khuyên không nên ở lại đây lâu.
+Nghiêm trọng vậy sao?
+:Hinterman: Haiz, nước dâng lên nhanh, rút cũng nhanh. Tuy hiện tại đã rút, nhưng ai mà biết được có dâng lên nữa không chứ...
+Anh cẩn thận nhé.
+:Hinterman: Ừm, tôi sẽ chú ý.
+:Hinterman: Nhưng nơi này phải luôn có người ở lại để canh chừng, không được để những người không liên quan lại gặp phải thảm họa lần nữa.
+
+## Hội Thoại #4
+
+Có sẵn sau khi hoàn thành Vũ Điệu Của Tội Lỗi.
+Hinterman: Ái chà, đây chẳng phải là bạn của cô chủ sao, chào mừng! Nhưng dạo này tình hình ở Thị Trấn Poisson không được tốt, chắc sẽ không thể tiếp đón chu đáo được.
+Tình hình thế nào?
+:Hinterman: Cô chủ nói hiểm họa về lời tiên tri đã qua đi, nên đã có rất nhiều người quay về thị trấn. Mọi người đều đang cùng tái thiết lại nơi này.
+:Hinterman: Nhưng nhìn chung thì vẫn hơi hỗn loạn, bất cẩn chút là có thể té ngã và bị thương. Vậy nên tôi ở đây để canh chừng, tránh cho người từ bên ngoài đi nhầm vào đây.
+Không sao, tôi đến xem thử thôi.
+:Hinterman: Vậy hãy chú ý bước chân, cẩn thận đừng để bị thương nhé.
+
+## Hội Thoại #5
+
+Có sẵn sau.
+Hinterman: Ối, đây chẳng phải là bạn của cô chủ sao? Chào mừng.
+Tôi mua cá được chứ?
+:Hinterman: Không ngờ lại là đến để mua cá thật, vậy thì xin mời lựa chọn thoải mái.
+;(Mở giao diện Cửa Hàng)
+Gần đây có gì đáng lưu ý không?
+;(Nếu có Mạch Quặng Ma Tinh Hinterman biết)
+::Hinterman: Có một vị khách tốt bụng nói cho tôi biết là gần đây có Pha Lê Cô Đọng và Quặng Ma Tinh, hỏi tôi có cần lấy một ít để gia cố thuyền cá không.
+::Hinterman: Tạm thời tôi chưa dùng đến, để không cũng đáng tiếc. Nếu có hứng thú thì có thể đi xem thử.
+:;(Khu Giàu Khoáng Vật được đánh dấu trên bản đồ)
+;(Nếu không có Mạch Quặng Ma Tinh Hinterman biết)
+::Hinterman: Xin lỗi, tôi bận lo cho quầy cá nên không để ý.
+Dạo gần đây thị trấn vẫn ổn chứ?
+:Hinterman: Mọi việc vẫn ổn, cư dân trong thị trấn đa phần đã khôi phục lại cuộc sống ban đầu.
+:Hinterman: Cảm ơn vì đã quan tâm. Nếu gặp được cô chủ thì hãy chăm sóc tốt cho cô ấy nhé. Cô ấy... đã trải qua quá nhiều biến cố rồi.
+Hẹn gặp lại.
+:Hinterman: Ừm, cảm ơn đã chiếu cố.

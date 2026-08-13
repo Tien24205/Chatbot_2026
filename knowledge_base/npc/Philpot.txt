@@ -1,0 +1,22 @@
+# Philpot
+
+## Thông Tin Cơ Bản
+
+type: NPC Đại Thế Giới
+region: Fontaine
+location: Natlan
+
+- Tổng Quan: Philpot là một NPC đại thế giới ở. Cô ấy có thể được tìm thấy khi đang trò chuyện với Navaratra.
+
+- Lời Thoại Nhàn Rỗi: Tinh tế... : ""
+
+## Hội Thoại
+
+Navaratra: Đá quý của Natlan rất đặc biệt, nhìn rất có sức sống, nhưng đa số đều trông khá thô.
+Philpot: Natlan không có kỹ nghệ chế tác đá quý tinh xảo như Fontaine hay Sumeru, nên cũng không có nhiều chi tiết để nghiên cứu.
+Navaratra: Không, đây không phải vấn đề kỹ nghệ. Tôi từng thấy viên Ngọc Mật được chế tác đáng kinh ngạc tại Con Của Tiếng Vang, giá cả cũng không phải đắt, nhưng chúng không thể trở thành xu hướng trên thị trường đá quý được.
+Philpot: Tại sao?
+Navaratra: Theo tôi thấy thì đây là một sự lựa chọn. Natlan không thiếu thợ thủ công tay nghề cao, nhưng trên thị trường phần lớn là những sản phẩm đơn giản.
+Navaratra: Có lẽ điều này chứng tỏ họ đơn thuần chỉ là thích thể hiện cảm xúc một cách thẳng thắn. Hoa văn tinh tế mà Fontaine tôn sùng sẽ không có tác dụng ở đây.
+Navaratra: Phức tạp sẽ tăng thêm sự thi vị, nhưng lại tạo ra rào cản. Đơn giản sẽ khó đến được nơi trang trọng, nhưng lại tạo ra sự thoải mái dễ chịu nhất. Nếu cô muốn quảng bá sự nghiệp đá quý của mình ở đây thì đừng bỏ qua điểm này nhé.
+Philpot: Ừm... Rất có lý, tôi sẽ suy nghĩ.

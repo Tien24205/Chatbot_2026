@@ -1,0 +1,30 @@
+# Shikanoin Heizou
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+quality: 4
+weapon: Pháp Khí
+element: Phong
+name: Shikanoin Heizou
+birthday: 24 tháng 07
+constellation: Ấu Lộc
+region: Inazuma
+affiliation: Hiệp Hội Tenryou
+dish: Chân Tướng Duy Nhất
+obtain: Cầu Nguyện
+releaseDate: 2022-07-13
+title: Con Tim Giao Hòa
+title2: Thám tử của Hiệp Hội Tenryou
+voiceEN: Kieran Regan
+voiceCN: Lin Jing (林景)
+voiceJP: Iguchi Yūichi (井口 祐一)
+voiceKR: Jeong-Uijin (정의진)
+relative: Kano Nana
+relativeNote: Em họ
+
+## Tổng Quan
+
+ là một nhân vật hệ Phong chơi được trong Genshin Impact.
+
+Anh là một thám tử người Inazuma và làm việc cho Hiệp Hội Tenryou. Anh được nhắc đến lần đầu trong lồng tiếng của Kamisato Ayaka và bởi người chị họ xa của mình Kano Nana, sau đó được nhắc đến bởi các nhân vật khác và trong bảng thông báo của Inazuma.

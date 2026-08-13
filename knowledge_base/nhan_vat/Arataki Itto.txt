@@ -1,0 +1,27 @@
+# Arataki Itto
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+quality: 5
+weapon: Trọng Kiếm
+element: Nham
+name: Arataki Itto
+birthday: 01 tháng 06
+constellation: Thiên Ngưu
+region: Inazuma
+affiliation: Bang Arataki
+group: Oni
+dish: Đạo Lý Của Kẻ Mạnh
+namecard: Mặt Quỷ
+obtain: Cầu Nguyện Nhân Vật
+event_name: Yến Tiệc Quỷ Môn
+releaseDate: 2021-12-14
+title: Quái Kiệt Hanamizaka
+title2: Thủ lĩnh đời đầu của Bang Arataki
+voiceEN: w|Max Mittelman
+voiceCN: Liu Zhaokun (zh|刘照坤)
+voiceJP: w|Takanori Nishikawa|Nishikawa Takanori (ja|西川貴教)
+voiceKR: w|Song Joon-seok|Song Joon-seok (ko|송준석)
+
+- Tổng Quan: là nhân vật hệ Nham chơi được trong Genshin Impact. Anh là hậu duệ Xích Quỷ và là người nắm vai trò thủ lĩnh của Bang Arataki.

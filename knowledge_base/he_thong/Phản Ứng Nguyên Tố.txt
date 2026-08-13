@@ -1,0 +1,52 @@
+# Phản Ứng Nguyên Tố
+
+## Tổng Quan
+
+type: Chiến Đấu
+type2: Hệ Thống Trò Chơi
+
+Phản Ứng Nguyên Tố được kích hoạt bằng cách áp dụng một số kết hợp nhất định của các hiệu quả nguyên tố trên một mục tiêu (kẻ địch, người chơi hoặc đối tượng).
+
+Khi một nguyên tố được áp dụng lên một mục tiêu sẽ tạp ra một ấn nguyên tố phân rã theo thời gian. Phản ứng nguyên tố sẽ xảy ra khi có nguyên tố thứ hai được áp dụng lên mục tiêu đã có ấn nguyên tố tồn tại.
+
+Kích hoạt phản ứng nguyên tố sẽ tiêu hao ấn nguyên tố hiện có, số lượng sẽ có thể thay đổi tùy thuộc vào loại phản ứng được kích hoạt và đơn vị đo của nguyên tố kích hoạt. Phản ứng nguyên tố sẽ làm giảm thời gian tồn tại của một Ấn Nguyên Tố hoặc xóa bỏ hoàn toàn nó.
+
+Lưu ý rằng một số kỹ năng có CD Ngầm trước khi có thể áp dụng lại hiệu quả nguyên tố đó, cũng như không phải bất cứ đòn tấn công nào cũng có thể kích hoạt phản ứng nguyên tố.
+
+Các cơ chế phức nhất định của phản ứng nguyên tố được giải thích chi tiết trong Thuyết Định Lượng Nguyên Tố, một khuôn khổ giúp hiểu rõ hơn sự tương tác giữa các nguyên tố.
+
+## Tổng Quan
+
+Phản Ứng Nguyên Tố có các hiệu quả sau:
+
+Sát thương của Phản Ứng Nguyên Tố có thể được cường hoá thông qua Tinh Thông Nguyên Tố hiện có của nhân vật gây ra phản ứng. Giao diện trong trò chơi sẽ hiển thị lượng sát thương được tăng tùy theo Tinh Thông Nguyên Tố của nhân vật. Hiệu quả này sẽ được áp dụng theo các cách khác nhau tùy vào loại phản ứng.
+
+## Phản Ứng Chuyển Hóa
+
+Phản ứng chuyển hóa bao gồm Quá Tải, Phá Băng, Điện Cảm, Siêu Dẫn, Khuếch Tán, Thiêu Đốt, Sum Suê, Nở Rộ và Bung Tỏa.
+- Những phản ứng này sẽ gây ra sát thương của riêng chúng, tách biệt so với sát thương của kỹ năng gây ra phản ứng đó.
+- Những phản ứng này có sát thương cơ bản được xác định bởi loại phản ứng và cấp của nhân vật kích hoạt phản ứng.
+- Sát thương cơ bản này sau đó được nhân với tỷ lệ phần trăm được xác định bởi Tinh Thông Nguyên Tố của nhân vật. Tỷ lệ phần trăm có thể xem trong trò chơi, tại phần Thông Tin Chi Tiết của trang Thuộc Tính.
+- Sát thương phản ứng chuyển hóa không thể bạo kích mà chỉ dựa vào cấp độ, điều này có nghĩa là Tấn Công, Tỷ Lệ Bạo Kích và ST Bạo Kích không có tác động vào.
+- Sát thương phản ứng chuyển hóa bỏ qua Phòng Ngự của mục tiêu, nhưng vẫn chịu ảnh hưởng bởi kháng của chúng.
+
+## Phản Ứng Khuếch Đại
+
+Phản ứng khuếch đại bao gồm Bốc Hơi và Tan Chảy.
+- Không giống như các phản ứng chuyển hóa, Bốc Hơi và Tan Chảy không gây ra sát thương của riêng chúng. Thay vào đó, chúng tăng sát thương của kỹ năng gây ra phản ứng 1,5 lần hoặc 2 lần tùy thuộc vào nguyên tố nào là nguyên tố kích hoạt phản ứng. Hệ số 1,5× của phản ứng khuếch đại thường được gọi là phản ứng "ngược".
+- Sát thương phản ứng này sau đó được nhân với tỷ lệ phần trăm được xác định bởi Tinh Thông Nguyên Tố của nhân vật. Tỷ lệ phần trăm có thể xem trong trò chơi, tại phần Thông Tin Chi Tiết của trang Thuộc Tính.
+- Phản ứng 1,5× sẽ tiêu hao ít ấn nguyên tố trước đó hơn, trong khi đó phản ứng 2× tiêu hao nhiều hơn và có xu hướng xóa bỏ hoàn toàn ấn nguyên tố trước đó sau một tấn công. Có thể xem chi tiết tại Thuyết Định Lượng Nguyên Tố.
+
+## Phản Ứng Phụ
+
+Phản ứng phụ bao gồm Lan Tràn và Tăng Trưởng.
+- Phản ứng phụ cũng tăng sát thương của đòn tấn công gây ra phản ứng và không có sát thương riêng. Tuy nhiên các phản ứng này sẽ cung cấp một lượng tăng ST cấp số nhân vào ST cơ bản trong công thức ST thay vì nhân hệ số ST như phản ứng khuếch đại.
+- ST Phản ứng phụ từ Lan Tràn cao hơn Tăng Trưởng một chút.
+
+- Thứ Tự Áp Dụng: Hiệu quả của phản ứng nguyên tố phụ thuộc vào chỉ số của nhân vật kích hoạt phản ứng. Chỉ số của nhân vật gây ra ấn nguyên tố trước đó không quan trọng.
+
+## Cộng Hưởng Nguyên Tố
+
+Một số cộng hưởng có hiệu quả đặc biệt khi kích hoạt Phản Ứng Nguyên Tố.
+- LôiLôi Lôi Mạnh Mẽ: Khi kích hoạt phản ứng Siêu Dẫn, Quá Tải, Điện Cảm, Sinh Trưởng, Tăng Cường, Nở Rộ sẽ có 100% tỉ lệ rơi 1 Nguyên Tố Hạt Nhân Lôi, CD 5s.
+- ThảoThảo Thảo Sinh Sôi: Sau khi kích hoạt phản ứng Thiêu Đốt, Sinh Trưởng, Sum Suê, tất cả nhân vật trong đội gần đó tăng 30 Tinh Thông Nguyên Tố, duy trì 6s. Sau khi kích hoạt phản ứng Tăng Cường, Lan Tràn, Nở Rộ, Bung Tỏa, tất cả nhân vật trong đội gần đó tăng 20 Tinh Thông Nguyên Tố, duy trì 6s.

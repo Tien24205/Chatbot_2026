@@ -1,0 +1,31 @@
+# Cung Phản Khúc
+
+## Thông Tin Cơ Bản
+
+id: 15303
+type: Cung
+releaseDate: 2020-09-28
+quality: 3
+base_atk: 38
+2nd_stat_type: HP
+2nd_stat: 10,2%
+passive: Dứt Điểm
+effect: Khi đánh bại kẻ địch, hồi (var1)% HP.
+eff_rank1_var1: 8
+eff_rank2_var1: 10
+eff_rank3_var1: 12
+eff_rank4_var1: 14
+eff_rank5_var1: 16
+eff_att1: Hồi Máu
+obtain: Rương Nhiệm vụ Đồng Hành Cùng Gió Nói chuyện với Nakano
+
+- Tổng Quan: Cung Phản Khúc là cung 3 sao nhận từ Rương.
+
+## Câu Chuyện
+
+Cung Phản Khúc được tạo ra từ gỗ, xương và gân của động vật.
+Nếu nằm trong tay thợ săn có tài thiện xạ thì có thể bắn hạ được đại bàng đang bay trên trời cao.
+Đó là sự cao ngạo của người thợ săn, đồng thời chứng minh cho cung thuật cao siêu.
+Thế nhưng chỉ đáng thương thay cho chú chim kia.
+
+- Nhận thưởng từ Nhiệm Vụ Ma Thần Đồng Hành Cùng Gió - Nhận thưởng từ nói chuyện với Nakano - Được tìm thấy ngẫu nhiễn trong Rương Thường và Cao Cấp hoặc cao hơn.

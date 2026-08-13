@@ -1,0 +1,29 @@
+# Freminet
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+quality: 4
+weapon: Trọng Kiếm
+element: Băng
+arkhe: Pneuma
+name: Freminet
+birthday: 24 tháng 09
+constellation: Cơ Xảo
+region: Fontaine
+affiliation: Khách Sạn Bouffes d'ete
+affiliation2: Căn Nhà Hơi Ấm
+dish: Bến Đỗ Của Chim Biển
+namecard: Tiếp Bước
+obtain: Cầu Nguyện
+releaseDate: 2023-09-05
+sibling: Lyney
+siblingNote: anh trai
+sibling2: Lynette
+siblingNote2: chị gái
+title: Khát Khao Chìm Đắm
+title2: Thợ Lặn Đầy Kinh Nghiệm Của Đại Sảnh Fontaine
+voiceEN: Paul Castro Jr.
+voiceCN: Jinli (zh|锦鲤)
+voiceJP: w|Shun'ichi Toki|Toki Shun'ichi (ja|土岐隼一)
+voiceKR: w|ko:이주승_(성우)|Lee Joo-Seung (ko|이주승)

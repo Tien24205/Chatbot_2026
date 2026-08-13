@@ -1,0 +1,15 @@
+# Raju
+
+## Tiểu Sử
+
+type: NPC Nhiệm Vụ
+deceased: Chết trước các sự kiện của trò chơi
+region: Sumeru
+location: Sumeru
+affiliation: Vahumana
+
+- Tổng Quan: Raju là một NPC độc quyền nhiệm vụ xuất hiện trong.
+
+Raju là một sinh viên ở Giáo Viện Sumeru và là thành viên của học phái Vahumana. Cậu là tác giả của luận án mà Jani đã sử dụng gian lận để gửi đơn đăng ký dự án tới Giáo Viện. Đơn đăng ký này sẽ được chấp nhận và Jani sẽ thành lập một nhóm nghiên cứu gồm nhiều sinh viên để hoàn thành dự án. Đổi lại, Jani trả cho Raju 20.000 mora. Không chỉ vậy, Jani còn thản nhiên đe dọa và xúc phạm Raju, mặc dù Jani sẽ nhờ Raju giúp đỡ khi dự án gặp trở ngại. Do số lượng lớn sinh viên phải dựa vào việc hoàn thành dự án của Jani để đảm bảo tốt nghiệp, Raju đã được cảnh báo không được nói về hành vi gian lận của Jani. Raju đồng ý giữ im lặng, nhưng cuối cùng cậu đạt đến đỉnh điểm tuyệt vọng và tự tử bằng cách nhảy xuống từ sân thượng.
+
+- Ngoại Hình: Raju là một chàng trai trẻ và có học thức, mặc đồng phục của các học giả Giáo Viện Sumeru. Cậu có mái tóc ngắn màu xám nhạt, đôi mắt đen và màu da nhợt nhạt. Cậu có chiều cao trung bình.

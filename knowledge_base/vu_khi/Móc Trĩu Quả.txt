@@ -1,0 +1,28 @@
+# Móc Trĩu Quả
+
+## Thông Tin Cơ Bản
+
+id: 12430
+type: Trọng Kiếm
+quality: 4
+base_atk: 44
+2nd_stat_type: Tấn Công
+2nd_stat: 6%
+releaseDate: 2024-10-29
+obtain: Cầu Nguyện Vũ Khí
+passive: Trọng Lượng Của Cành Rơi
+effect: Tỷ lệ bạo kích của tấn công khi đáp tăng (var1)%; Sau khi tấn công khi đáp trúng kẻ địch, sát thương của tấn công thường, trọng kích và tấn công khi đáp tăng (var2)% trong 10s.
+eff_rank1_var1: 16
+eff_rank2_var1: 20
+eff_rank3_var1: 24
+eff_rank4_var1: 28
+eff_rank5_var1: 32
+eff_rank1_var2: 16
+eff_rank2_var2: 20
+eff_rank3_var2: 24
+eff_rank4_var2: 28
+eff_rank5_var2: 32
+eff_att1: Tỷ Lệ Bạo Kích
+eff_att2: Tăng ST Tấn Công Khi Đáp
+
+- Tổng Quan: Móc Trĩu Quả là một Trọng Kiếm 4 Sao.

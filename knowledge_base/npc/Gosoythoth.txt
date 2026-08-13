@@ -1,0 +1,25 @@
+# Gosoythoth
+
+## Thông Tin Cơ Bản
+
+name: Gosoythoth
+type: NPC Nhiệm Vụ
+affiliation: Vực Sâu
+title: Trái Tim Của Vực Sâu
+title2: Chúa Tể Hủy Diệt Của Vực Sâu
+
+- Tổng Quan: Gosoythoth, còn được gọi là Trái Tim Của Vực Sâu là một thực thể Vực Sâu mạnh mẽ, kỳ lạ xuất hiện sau khi bọn chúng dập tắt được Lửa Thánh. Gosoythoth lần đầu xuất hiện trong.
+
+## Tiểu Sử
+
+Gosoythoth là một thực thể có hình dạng khó có thể mô tả được, biểu hiện từ sức mạnh to lớn của Vực Sâu sau khi Lửa Thánh bị dập tắt. Chỉ riêng sự hiện diện của nó đã nhuộm đen bầu trời và mang đến tai họa vô cùng tận cho toàn bộ vùng đất Natlan.
+
+Nó có khả năng rải Khối U Vực Sâu và sinh ra Cổng Vực Sâu, đồng thời triệu hồi vô số ma vật vực sâu trên đường đi của nó.
+
+## Câu Chuyện
+
+Sau khi ngọn Lửa Thánh bị dập tắt, Vực Sâu tiến hành tổng tấn công lên Natlan, hiện hình trái tim của nó trên đỉnh của Đấu Trường Lửa Thánh. Khi Mavuika kích hoạt sức mạnh của Gnosis để tái thắp lại ngọn Lửa Thánh và tạm thời kiềm chế được cuộc tấn công từ Vực Sâu, nó bay lên bầu trời, lơ lửng và bao phủ toàn bộ Natlan, nhuộm đen mặt đất cũng như bầu trời.
+
+Khi sự ăn mòn bởi Vực Sâu ngày càng dữ dội, Gosoythoth bắt đầu rải những Khối U Vực Sâu xuống khắp khu vực, sinh ra nhiều Cổng Vực Sâu triệu hồi ma vật từ Vực Sâu để ăn mòn vùng đất sâu hơn nữa.
+
+Sau khi tập hợp đầy đủ sáu vị anh hùng, Mavuika đánh thức sức mạnh của Ngai Thần và tuyên bố "Trận Chiến Đêm", tất cả chiến binh của Natlan được hồi sinh liên tục bởi Thơ Hoàn Hồn, tiêu diệt toàn bộ lực lượng của Vực Sâu. Sau đó, Mavuika tích lũy toàn bộ sức mạnh và phát động một đòn tấn công mạnh mẽ, một ánh lửa hủy diệt xuyên qua Gosoythoth và bầu trời, trục xuất nó khỏi Natlan mãi mãi.

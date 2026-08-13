@@ -1,0 +1,14 @@
+# Foltz
+
+## Tiểu Sử
+
+type: NPC Nhiệm Vụ
+region: Fontaine
+location: Fontaine
+affiliation: Căn Nhà Hơi Ấm
+
+- Tổng Quan: Foltz là NPC độc quyền nhiệm vụ xuất hiện trong.
+
+Foltz từ nhỏ có tính "tò mò" nên đã bóp cổ những con thú cưng trong nhà, nên bị xem là "mầm mống nguy hiểm' và bị người thân bỏ rơi, sau đó thì được nhận vào Căn Nhà Hơi Ấm.
+
+Sau khi gặp Nhà Lữ Hành ở Thị Trấn Poisson, Arlecchino giao nhiệm vụ cho Foltz nghe lén những thành viên không hài lòng muốn rời khỏi Căn Nhà, anh đã làm mà không thắc mắc và trình bày những phát hiện của mình khi cô yêu cầu. Sau trận đấu tay đôi với Arlecchino, Foltz đề nghị giúp Lyney trở lại Poisson và gọi anh là anh hùng vì đã bảo vệ gia đình mình.

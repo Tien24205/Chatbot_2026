@@ -1,0 +1,13 @@
+# Hàn Phong Thiết Khí
+
+## Thông Tin Cơ Bản
+
+type: Địa Điểm Đáng Chú Ý
+type2: Xưởng Rèn
+region: Liyue
+area: Vân Lai Hải
+subarea: Cảng Liyue
+
+- Tổng Quan: Hàn Phong Thiết Khí là một cửa hàng vũ khí có thể được tìm thấy ở Cảng Liyue. Trước đây nó thuộc sở hữu của Hanfeng và hiện do con trai ông, thợ rèn Lão Zhang quản lý.
+
+- Lão Zhang

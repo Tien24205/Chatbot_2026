@@ -1,0 +1,11 @@
+# Nguyên Liệu Azhdaha
+
+## Thông Tin Cơ Bản
+
+type: Nhóm Vật Phẩm
+type2: Nguyên Liệu Bồi Dưỡng Nhân Vật
+type3: Rơi Ra Từ Boss Tuần
+type4: Nhóm Vật Phẩm Rơi Ra Từ Boss Tuần
+source1: Thưởng Rễ Cây Phục Long cấp 70+
+
+- Tổng Quan: Nguyên Liệu Azhdaha là Nguyên Liệu Bồi Dưỡng Nhân Vật dùng để nâng cấp Thiên Phú Nhân Vật cấp 6+. Có thể chuyển hóa sang vật phẩm cùng nhóm bằng cách sử dụng Dung Môi Ảo Mộng.

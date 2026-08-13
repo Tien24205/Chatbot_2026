@@ -1,0 +1,37 @@
+# Dòng Chảy Tinh Khiết
+
+## Thông Tin Cơ Bản
+
+id: 14425
+type: Pháp Khí
+quality: 4
+base_atk: 44
+2nd_stat_type: Tấn Công
+2nd_stat: 6%
+releaseDate: 2023-08-16
+obtain: Rèn
+diagram: Sold By|Bản Vẽ - Dòng Chảy Tinh Khiết
+passive: Kiệt Tác Chưa Hoàn Thành
+effect: Khi thi triển Kỹ Năng Nguyên Tố, sẽ tăng (var1)% [[Tăng Sát Thương
+eff_rank1_var1: 8
+eff_rank2_var1: 10
+eff_rank3_var1: 12
+eff_rank4_var1: 14
+eff_rank5_var1: 16
+eff_rank1_var2: 2
+eff_rank2_var2: 2,5
+eff_rank3_var2: 3
+eff_rank4_var2: 3,5
+eff_rank5_var2: 4
+eff_rank1_var3: 12
+eff_rank2_var3: 15
+eff_rank3_var3: 18
+eff_rank4_var3: 21
+eff_rank5_var3: 24
+scale_att1: HP Tối Đa
+eff_att1: Tăng Sát Thương
+eff_att2: Khế Ước Sinh Mệnh
+
+- Tổng Quan: Dòng Chảy Tinh Khiết là một pháp khí 4 sao rèn được.
+
+- Rèn - Bản vẽ lấy từ Estelle.

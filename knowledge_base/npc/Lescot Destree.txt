@@ -1,0 +1,17 @@
+# Lescot Destree
+
+## Thông Tin Cơ Bản
+
+type: NPC Sự Kiện
+deceased: Bị chết đuối một tháng trước sự kiện Chuyến Thám Hiểm Kỳ Ảo Của Thelxie
+region: Fontaine
+location: Fontaine
+mother: Zuria Destree
+
+- Tổng Quan: Lescot Destree là một NPC độc quyền sự kiện xuất hiện trong Chuyến Thám Hiểm Kỳ Ảo Của Thelxie.
+
+## Tiểu Sử
+
+Theo lời kể của Delaroche, Lescot chỉ mới 8 tuổi khi cậu buộc một lượng vỏ sò nặng vào người, đi xuống nước và không bao giờ quay trở lại. Sự việc này xảy ra một tháng trước các sự kiện của Chuyến Thám Hiểm Kỳ Ảo Của Thelxie. Gia đình cậu lấy tên này sau khi chuyển đến thành phố vì họ có nguồn gốc từ một nơi gọi là Destree. Cha cậu cũng qua đời trong một vụ tai nạn nhiều năm trước.
+
+- Ngoại Hình: (Sẽ được bổ sung.)

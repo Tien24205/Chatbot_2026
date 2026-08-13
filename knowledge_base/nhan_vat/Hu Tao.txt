@@ -1,0 +1,31 @@
+# Hu Tao
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+quality: 5
+weapon: Vũ Khí Cán Dài
+element: Hỏa
+name: Hu Tao
+constellation: Dẫn Điệp
+birthday: 15 tháng 07
+region: Liyue
+affiliation: Vãng Sinh Đường
+affiliation2: Gia Tộc Hu
+dish: Đại Hành Quân U U
+namecard: An Thần
+obtain: Cầu Nguyện Nhân Vật
+event_name: Xích Đoàn Khai Mở
+releaseDate: 2021-03-02
+title: Tuyết Tễ Mai Hương
+title2: Đường Chủ đời thứ 77 của Vãng Sinh Đường
+title3: Nhà thơ bóng tối trong hẻm nhỏ cảng Liyue
+ancestry: Gia Tộc Hu
+relative: Ông Hu
+relativeNote: ông nội
+voiceEN: [[imdb:nm3729637
+Brianna Knickerbocker]]<ref name: "Hu Tao EN/JP">Thông báo lồng tiếng Anh & Nhật
+voiceJP: [[wikipedia:Rie Takahashi
+Rie Takahashi (高橋李依)]]<ref name: "Hu Tao EN/JP" />
+voiceCN: Dian Tao (陶典)
+voiceKR: Kim Ha-Ru (김하루)

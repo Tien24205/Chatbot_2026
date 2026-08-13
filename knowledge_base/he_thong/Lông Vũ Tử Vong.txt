@@ -1,0 +1,9 @@
+# Lông Vũ Tử Vong
+
+## Tổng Quan
+
+type: Món Thánh Di Vật
+
+Lông Vũ Tử Vong (hay được biết đến là "Lông Chim") là một món Thánh Di Vật trong Genshin Impact. Nó tăng tấn công của nhân vật bằng cách +Tấn Công phẳng và là một trong hai món Thánh Di Vật có Chỉ Số Chính cố định (cùng với Hoa Sự Sống). Món Thánh Di Vật này có sẵn ở mọi độ hiếm (1-5 sao).
+
+Đây được cho là một trong những món thánh di vật có thể lấy được "chỉ số đẹp" nhanh nhất do có Chỉ Số Chính cố định. Để ý rằng Thánh di vật không thể có chỉ số chính và phụ giống nhau, Nên Lông Vũ Tử Vong không thể có Chỉ Số Phụ là Tấn Công phẳng được. Tuy nhiên lại có thể có Chỉ Số Phụ là Tấn Công% vì nó được coi là hai Chỉ Số Phụ khác nhau.

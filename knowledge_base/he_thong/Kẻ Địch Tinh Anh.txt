@@ -1,0 +1,13 @@
+# Kẻ Địch Tinh Anh
+
+## Tổng Quan
+
+type: Loại Kẻ Địch
+
+Người Chơi thường sẽ tìm thấy Kẻ Địch Tinh Anh trong khi đang khám phá thế giới, hoặc trong Bí Cảnh và La Hoàn Thâm Cảnh. Chúng sẽ mạnh hơn Kẻ Thù Thường và cũng có thể rơi ra vài vật phẩm Nguyên Liệu Đột Phá Nhân Vật mà kẻ thù thường cũng có thể rơi ra, cũng như Thánh Di Vật và Nguyên Liệu Đột Phá mà chỉ Kẻ Địch Tinh Anh cụ thể mới có thể rơi ra. Ở Cấp Thế Giới thấp, Kẻ Địch Tinh Anh đã được ghi nhận rằng có thể rơi ra Vũ Khí 1 và 2 sao. Một vài Kẻ Địch Tinh Anh sẽ đóng vai trò là một mini-boss trong Nhiệm Vụ nhất định.
+
+Note: Số lượng xuất hiện được giới hạn mỗi ngày, sẽ xuất hiện lại ở vị trí cũ phụ thuộc vào Thời Gian Làm Mới Hàng Ngày của Máy Chủ/ Khu Vực của bạn.
+
+Tất cả bọn chúng đều có thể rơi ra 5 Mora mỗi cấp độ, giới hạn ở 200 Mora (hoặc 600 Mora bởi một vài Kẻ Thù nhất định) (Lv. 60+)— cũng như kèm theo Thánh Di Vật:
+
+Hàng ngày có giới hạn tiêu diệt Kẻ Địch Tinh Anh để rơi ra một vài vật phẩm bình thường, số lượng là 400. Tiêu diệt nhiều hơn số lượng đó sẽ không rơi ra bất kì thứ gì. Đây không thể bị hạn chế bởi Cấp Thế Giới, nghĩa là thay đổi Cấp Thế Giới (ví dụ như trong chế độ nhiều người chơi) sẽ không tăng số lượng tối đa.

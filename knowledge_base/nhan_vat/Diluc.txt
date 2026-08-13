@@ -1,0 +1,41 @@
+# Diluc
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+quality: 5
+weapon: Trọng Kiếm
+element: Hỏa
+name: Diluc
+realname: Diluc Ragnvindr
+sex: Nam
+birthday: 30 tháng 04
+constellation: Dạ Hiêu
+region: Mondstadt
+affiliation: Tửu Trang Dawn
+affiliation2: Tổ Chức Tình Báo Không Tên
+affiliation3: Đội Kỵ Sĩ Tây Phong
+affiliationNote3: trước kia
+dish: Truyện Kể Mondstadt
+namecard: Thiêu Đốt
+obtain: Cầu Nguyện
+releaseDate: 2020-09-28
+title: Mặt Tối Của Bình Minh
+title2: Chủ Của Tửu Trang Dawn
+voiceEN: w|Sean Chiplock
+voiceCN: Ma Yang (zh|马洋)
+voiceJP: w|Kensho Ono|Ono Kensho (ja|小野賢章)
+voiceKR: w|ko:최승훈|Choi Seung-hoon (ko|최승훈)
+ancestry: Gia Tộc Ragnvindr
+father: Crepus
+fatherNote: đã mất
+sibling: Kaeya
+siblingNote: em trai nuôi
+
+## Tổng Quan
+
+Diluc Ragnvindr là một nhân vật hệ Hỏa mà người chơi có thể điều khiển trong Genshin Impact.
+
+Sinh ra trong Gia Tộc Ragnvindr giàu có, Diluc là chủ sở hữu hiện tại của Tửu Trang Dawn và là một quý tộc cao quý trong xã hội Mondstadt. Sau biến cố trong quá khứ, anh tách khỏi Đội Kỵ Sĩ Tây Phong nhưng vẫn tiếp tục bảo vệ Mondstadt theo cách của mình.
+
+- Cầu Nguyện Thường Du Hành Thế Gian - Cầu Nguyện Đề Xuất Cho Người Mới (Không giới hạn cho đến khi đủ 20 lần cầu nguyện) - Tất cả Sự Kiện Cầu Nguyện Nhân Vật

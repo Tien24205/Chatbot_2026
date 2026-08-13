@@ -1,0 +1,55 @@
+# Giáo Thập Tự Kitain
+
+## Thông Tin Cơ Bản
+
+id: 13414
+series: Tử Tinh
+type: Vũ Khí Cán Dài
+releaseDate: 2021-07-21
+quality: 4
+base_atk: 44
+2nd_stat_type: Tinh Thông Nguyên Tố
+2nd_stat: 24
+obtain: Rèn
+diagram: Chuỗi Nhiệm Vụ Di Sản Orobashi
+passive: Vũ Điệu Samurai
+effect: Tăng sát thương Kỹ Năng Nguyên Tố (var1)%. Sau khi Kỹ Năng Nguyên Tố đánh trúng, nhân vật mất 3 điểm Năng Lượng Nguyên Tố, đồng thời 6 giây tiếp theo mỗi 2 giây hồi phục (var2) điểm. Hiệu quả này mỗi 10 giây kích hoạt 1 lần, nhân vật ở trong đội nhưng không ra trận vẫn có thể kích hoạt.
+eff_rank1_var1: 6
+eff_rank2_var1: 7,5
+eff_rank3_var1: 9
+eff_rank4_var1: 10,5
+eff_rank5_var1: 12
+eff_rank1_var2: 3
+eff_rank2_var2: 3,5
+eff_rank3_var2: 4
+eff_rank4_var2: 4,5
+eff_rank5_var2: 5
+eff_att1: Sản Sinh Năng Lượng Nguyên Tố
+
+- Tổng Quan: Giáo Thập Tự Kitain là một vũ khí cán dài của Inazuma.
+
+- Nội tại vẫn sẽ được kích hoạt khi nhân vật có ít hơn 3 Năng Lượng Nguyên Tố.
+
+## Câu Chuyện
+
+Cây thương kỳ lạ được thiết kế bởi Kitain Bunsou theo thương pháp đặc biệt của riêng mình.
+
+Nếu ở trong tay một kẻ nghiệp dư, trọng lượng khác thường sẽ khiến cho nó rất khó khăn để thao tác.
+
+Nhưng trong tay của người chuyên nghiệp, nó có thể phát huy sức mạnh huỷ diệt vô cùng mạnh mẽ.
+
+Trong quá khứ xa xôi, Kitain vốn là gia tộc đã tiêu diệt "Họa Thần",
+
+cũng đã đảm nhận trách nhiệm canh giữ cho quần đảo trong nhiều thời đại trước.
+
+Trong quá khứ, có một bài đồng dao được lưu truyền ở Inazuma:
+
+"Cánh cổng Arataki, sự kế thừa Iwakura, mãng xà Kitain, và Vết Cắt Sương Mù Takamine"
+
+Để mô tả chiến binh chói sáng đã từng chiếu sáng trái đất như sao chổi.
+
+Đã từng có rất nhiều những cái tên khác. Nhưng đều đã bị lịch sử xóa sổ.
+
+Là thợ săn quỷ quá lâu, việc uống phải máu bẩn của chướng khí là điều không thể tránh khỏi.
+
+- Rèn - Có thể nhận được Bản Vẽ Rèn của món vũ khí này khi hoàn thành nhiệm vụ Di Sản Orobashi - Kỳ V.

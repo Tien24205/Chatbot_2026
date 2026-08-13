@@ -72,11 +72,16 @@ def main() -> None:
                 for h in r["hits"][:k]
             )
         )
+        # `expect_section` là tuỳ chọn — bộ câu hỏi có thể chỉ nêu file mong đợi.
+        # Không có câu nào nêu mục thì bỏ hẳn cột đó thay vì chia cho 0.
         strict_total = sum(1 for r in answerable if r["item"].get("expect_section"))
-        print(
-            f"    recall@{k}:  đúng FILE {src_hit}/{len(answerable)} ({src_hit / len(answerable):.0%})"
-            f"    ·  đúng cả MỤC {sec_hit}/{strict_total} ({sec_hit / strict_total:.0%})"
+        line = (
+            f"    recall@{k}:  đúng FILE {src_hit}/{len(answerable)} "
+            f"({src_hit / len(answerable):.0%})"
         )
+        if strict_total:
+            line += f"    ·  đúng cả MỤC {sec_hit}/{strict_total} ({sec_hit / strict_total:.0%})"
+        print(line)
 
     misses = [
         r
@@ -142,10 +147,22 @@ def main() -> None:
     )
     print("    " + "-" * 68)
 
+    # Dải quét suy ra từ CHÍNH điểm số đo được, không chốt cứng 0.40-0.80.
+    #
+    # Mỗi model embedding có nền tương đồng riêng, và khoảng cách giữa chúng rất
+    # lớn: gemini-embedding-001 cho câu vô quan ~0.51, còn multilingual-e5-base
+    # đẩy mọi thứ lên 0.72-0.78. Dải cố định 0.40-0.80 nằm gần như hoàn toàn dưới
+    # vùng cần tìm của e5 — quét xong không có ngưỡng nào dùng được.
+    all_top1 = in_top1 + out_top1
+    lo = max(0.0, min(all_top1) - 0.03)
+    hi = min(1.0, max(all_top1) + 0.03)
+    step = max((hi - lo) / 30, 0.005)
+    print(f"\n    (quét {lo:.3f} → {hi:.3f}, bước {step:.3f} — suy ra từ điểm đo được)\n")
+
     best = None
     rows = []
-    tau = 0.40
-    while tau <= 0.801:
+    tau = lo
+    while tau <= hi + 1e-9:
         correct_answer = wrong_answer = missed = 0
         for r in answerable:
             top = r["hits"][0]
@@ -164,12 +181,12 @@ def main() -> None:
         rows.append((tau, correct_answer, good_refusal, wrong_answer + bad_answer, missed, accuracy))
         if best is None or accuracy > best[5]:
             best = rows[-1]
-        tau += 0.02
+        tau += step
 
     for tau, ca, gr, wrong, missed, acc in rows:
         mark = " <<<" if best and abs(tau - best[0]) < 1e-9 else ""
         print(
-            f"    {tau:.2f}   {ca:>6}/{len(answerable):<7} {gr:>6}/{len(out_scope):<8}"
+            f"    {tau:.3f}  {ca:>6}/{len(answerable):<7} {gr:>6}/{len(out_scope):<8}"
             f" {wrong:>6}      {missed:>4}      {acc:>6.0%}{mark}"
         )
 
@@ -206,7 +223,9 @@ def main() -> None:
         chosen = tau
         print("\n  -> Không ngưỡng nào loại hết câu bịa. Cần cải thiện KB hoặc chunking.")
 
-    print(f"\n  Ghi vào .env:  SIMILARITY_THRESHOLD={chosen:.2f}\n")
+    # In 3 chữ số: với model có nền tương đồng cao và cụm điểm sát nhau (e5 dồn
+    # mọi thứ vào 0.72-0.78) thì làm tròn 2 chữ số có thể nhảy qua cả vùng đúng.
+    print(f"\n  Ghi vào .env:  SIMILARITY_THRESHOLD={chosen:.3f}\n")
 
 
 if __name__ == "__main__":

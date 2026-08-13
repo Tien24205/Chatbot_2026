@@ -1,0 +1,37 @@
+# Hỏa
+
+## Thông Tin Cơ Bản
+
+region: Natlan
+archon: Mavuika
+status: Hỏa
+gem: Mã Não Cháy
+reaction: Lôi, Thủy, Băng, Thảo, Phong, Nham
+
+- Tổng Quan: Hỏa là một trong bảy Nguyên Tố. Vị thần cai trị nguyên tố này là Mavuika, thuộc quốc gia Natlan.
+
+- Cộng Hưởng Nguyên Tố: Nếu trong tổ đội có hai nhân vật hệ Hỏa thì sẽ kích hoạt Cộng Hưởng Nguyên Tố sau: - Hỏa Nhiệt Tình: Thời gian duy trì nguyên tố Băng kèm theo giảm 40%. Tấn công tăng 25%.
+
+## Phản Ứng Nguyên Tố
+
+Hỏa là nguyên tố duy nhất có phản ứng với mọi nguyên tố khác trong trò chơi. Nguyên tố Hỏa có các Phản Ứng Nguyên Tố ssau:
+- Quá Tải: Gây ST Phạm Vi Nguyên Tố Hỏa và dẫn đến một vụ nổ lớn.
+- Bốc Hơi: Gây ×1,5 ST Nguyên Tố Hỏa khi một đòn tấn công nguyên tố hỏa kích hoạt phản ứng.
+- Tan Chảy: Gây ×2 ST Nguyên Tố Hỏa khi một đòn tấn công nguyên tố hỏa kích hoạt phản ứng.
+- Thiêu Đốt: Gây ST Nguyên Tố Hỏa theo thời gian. Mặt cỏ cũng được tính là vật thể Thảo và sẽ lan hiệu ứng thiêu đốt ra xung quanh.
+- Khuếch Tán: Chuyển hóa và gây ST Nguyên Tố Hỏa cùng lúc với việc lây lan hiệu ứng này cho kẻ địch ở gần.
+- Kết Tinh: Tạo ra một khiên nguyên tố Hỏa.
+
+## Trạng Thái Hỏa
+
+Bị ảnh hưởng bởi nguyên tố Hỏa không có tác dụng cố hữu của riêng nó. Tuy nhiên, bị ảnh hưởng bởi Hỏa sẽ cho phép các Phản ứng Nguyên tố Hỏa xảy ra.
+
+Bất kỳ nguồn ST Hỏa nào đều sẽ áp dụng trạng thái Hỏa. Hoa Liệt Hỏa và Dưa Nổ vốn dĩ không áp dụng trạng thái Hỏa, nhưng thường được ở trên mặt cỏ và gây ra phản ứng Thiêu Đốt. Bất kỳ lửa trại, mồi lửa, hay nồi nào đều gây sát thương phản ứng Thiêu Đốt khi nhân vật của người chơi ở quá gần.
+
+- Tự Chuyển Trạng Thái Hỏa: Các Thiên Phú sau áp dụng trạng thái Hỏa lên người sử dụng và/hoặc nhân vật đứng sân.
+
+## Kẻ Địch
+
+Một số Kẻ Địch có khả năng tạo ra khiên nguyên tố Hỏa hoặc tạo vật, cung cấp cho chúng khả năng tấn công hoặc phòng thủ đáng kể. Khiên và tạo vật Hỏa có thể dễ dàng bị phá hủy bằng cách sử dụng nguyên tố Thủy.
+
+- Khám Phá: Một số vật thể hoặc tạo vật trong môi trường được coi là vật thể Hỏa: - Nguồn lửa (lửa trại, mồi lửa, v.v...) - Thùng Thuốc Nổ - Hoa Liệt Hỏa

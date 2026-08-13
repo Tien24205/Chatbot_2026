@@ -1,0 +1,28 @@
+# Melanta
+
+## Thông Tin Cơ Bản
+
+type: NPC Nhiệm Vụ
+title: Kẻ Đứng Gác Tháp Canh Thế Giới
+title2: Người Canh Gác U Uất
+region: Thần Điện Không Gian
+location: Thần Điện Không Gian
+affiliation: Đảo Thiên Không
+deceased: Tự hủy diệt trong Phán Quyết Cuối Cùng
+group: Người Canh Gác
+creator: Relative Type|synthetic|Asmoday| Ngày Xuân Thu Ở Thánh Điện
+relatedCreation: Relative Type|synthetic|Dex| Type|synthetic|Nihilita|
+
+## Tổng Quan
+
+Melanta, còn được gọi là Người Canh Gác U Uất, là một NPC độc quyền xuất hiện trong. Hắn là một Người Canh Gác của Thần Điện Không Gian được Asmoday tạo ra nhằm mục đích duy trì sự cân bằng trong thần điện.
+
+## Tiểu Sử
+
+Melanta được Asmoday tạo ra cùng với Nihilita để làm Người Canh Gác của Thần Điện Không Gian. Cô đã đặt tên cho họ theo hai thứ mà cô khó đối phó nhất: "hư vô" và "u uất".
+
+Melanta và Nihilita được giao nhiệm vụ duy trì trật tự, đưa lên những cá nhân được lựa chọn thông qua Quãng Vô Tưởng và âm thầm quan sát Teyvat. Họ duy trì tôn chỉ của Asmoday rằng thần điện tồn tại là để bảo tồn; mọi sự cách tân và tiến hóa đều là thứ không được cho phép.
+
+## Ngoại hình
+
+Melanta có vẻ ngoài giống với Nihilita, nhưng cũng có một vài điểm khác biệt chính. Cánh của hắn nằm ở phía bên phải thay vì bên trái, lông vũ có màu đỏ nâu thay vì màu trắng, và phần đầu cũng có hình dáng khác biệt.

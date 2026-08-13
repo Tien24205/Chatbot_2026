@@ -1,0 +1,41 @@
+# Linnea
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+quality: 5
+weapon: Cung
+element: Nham
+teamBonus: Nguyệt Triệu
+name: Linnea
+birthday: 23 tháng 05
+constellation: Khải Dụ Điểu
+region: Nod-Krai
+region2: Snezhnaya
+regionNote2: trong cốt truyện
+affiliation: Hiệp Hội Nhà Mạo Hiểm
+affiliation2: Fae Xứ Tuyết
+affiliation3: Bang Ốc Biển
+affiliationNote3: trước đây
+dish: Cầu Vồng Dưới Bóng Cây
+namecard: Âm Vang Lách Cách
+obtain: Cầu Nguyện Nhân Vật
+event_name: Cẩm Nang Ya-hoho!
+releaseDate: 2026-04-08 11:00:00 GMT+8
+title: Lữ Khách Uyên Bác
+title2: Cố Vấn Của Hiệp Hội Nhà Mạo Hiểm
+biological: Relative Type|Cha mẹ|Fae vô danh| Trên Con Đường Đúng Đắn Relative Type|Cha mẹ|Fae vô danh| Relative Type|Chị gái|Celaeno|
+adoptive: Relative Type|Cha mẹ|Vô danh| Relative Type|Cha mẹ|vô danh| Relative Type|Anh/chị/em|Vô danh|
+voiceEN: [[imdb:nm10476229
+Savanna Menzel]]<ref>YouTube: [https://www.youtube.com/watch?v: mVWLSzkpGzA Video Giới Thiệu Phiên Bản Luna VI: "Điềm Báo Trở Về"] (Mô tả video)
+voiceCN: Zhou Tong (zh|周侗)
+voiceJP: w|Haruka Shiraishi|Shiraishi Haruka (ja|白石 晴香)
+voiceKR: Kim Yun-chae (ko|김윤채)YouTube: 원신
+
+## Tổng Quan
+
+Linnea là một nhân vật hệ Nham chơi được trong Genshin Impact.
+
+Được nuôi dưỡng giữa thế giới loài người với tư cách là một trong những Fae Xứ Tuyết cuối cùng ở Nod-Krai và là một trong những loài Chim Tiên Tri cuối cùng còn tồn tại, Linnea hiện đang làm cố vấn tại Hiệp Hội Nhà Mạo Hiểm kiêm nhà tự nhiên học.
+
+Sau khi sở hữu Linnea, có thể nhận Đạo Cụ Cẩm Nang Khoa Học Tự Nhiên Của Linnea thông qua giao diện nhân vật, bao gồm huy hiệu Không Trang Trí và Đội: Độc Chiếm.

@@ -1,0 +1,22 @@
+# Arnim
+
+## Thông Tin Cơ Bản
+
+type: NPC Đại Thế Giới
+region: Mondstadt
+location: Fontaine
+title: Nhà Thơ
+
+- Tổng Quan: Arnim là một NPC đại thế giới ở Đài Phun Nước Lucine, Erinnyes, Fontaine.
+
+- Lời Thoại Nhàn Rỗi: Yếu tố lãng mạn! : "Cần có chút gì đó lãng mạn hơn ở đây..."
+
+## Hội Thoại
+
+Arnim: Đây... còn đoạn này... nên thêm yếu tố lãng mạn vào, để người đọc cảm nhận được tình cảm trong đó...
+Hagihara: Anh Arnim, tôi xin phép nhắc nhở anh một việc, thêm những mô tả lãng mạn không có nghĩa là thêm quá nhiều quan điểm cá nhân.
+Hagihara: Chúng tôi đến đây để lấy cảm hứng từ những buổi biểu diễn văn hóa của nước khác, chứ không phải dùng tình cảm cá nhân để cải biên câu chuyện của người khác.
+Arnim: Chậc, cô chuyên viết tiểu thuyết trinh thám, chẳng trách không hiểu cái hay trong thơ ca.
+Arnim: Một bài thơ thích hợp để ngâm, dù lãng mạn hay trào phúng, đều không thể thiếu nhịp điệu của cảm xúc.
+Hagihara:...Tôi thấy anh đang lảng tránh trọng tâm của câu hỏi.
+Hagihara: Haiz, nếu anh không thể trả lời câu hỏi của tôi, thì ít nhất xin đừng chế quá nhiều.

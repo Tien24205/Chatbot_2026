@@ -1,0 +1,38 @@
+# Ifa
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+quality: 4
+weapon: Pháp Khí
+element: Phong
+name: Ifa
+birthday: 23 tháng 03
+constellation: Bội Liên
+region: Natlan
+affiliation: Hội Hoa Vũ
+affiliationLabel: Tlalocan
+dish: "Hỗ Trợ Tình Cảm"
+namecard: Người Anh Em
+obtain: Cầu Nguyện
+releaseDate: 2025-05-07 11:00:00 GMT+8
+ancestry: Imara
+ancestry2: Nampole
+title: Gió Xanh Dẫn Lối
+title2: Bác Sĩ Thú Y Của Tlalocan
+voiceEN: [[imdb:nm3637167
+Jonny Loquasto]]<ref name: "Ifa EN Voice Actor">YouTube: Video Giới Thiệu Phiên Bản 5.5: Ngày Vạn Hỏa Quy Tụ (Mô tả video) Cacucu: [[imdb:nm0146297
+Dominic Catrambone]]<ref name: "Paralogism EN Livestream info">YouTube: Chương Trình Đặc Biệt Genshin Impact Phiên Bản 5.6
+voiceCN: Lu Shujun (zh|吕书君) Cacucu: Lu Shujun (zh|吕书君)
+voiceJP: w|Junta Terashima|Terashima Junta (ja|寺島惇太) Cacucu: w|ja:小松昌平|Komatsu Shouhei (ja|小松昌平)
+voiceKR: Park Ki-wook (ko|박기욱) Cacucu: Park Ki-wook (ko|박기욱)
+
+## Tổng Quan
+
+Ifa là một nhân vật hệ Phong chơi được trong Genshin Impact.
+
+Ifa là một bác sĩ thú ý Saurian nổi tiếng đến từ Hội Hoa Vũ. Anh là bạn của Ororon và thường xuyên mang rau củ đến chỗ Citlali giúp Ororon.
+
+Khi Ororon cố tình tránh mặt Citlali trong thời gian anh hợp tác với Capitano, Citlali đã nhờ Ifa giao mảnh đá mới để thay cho tấm bùa hộ mệnh giúp duy trì tính ổn định linh hồn của Ororon. Thực chất đây là một mưu kế để sao chép ký ức của Ororon lên mảnh đá cũ, nhưng Ifa hoàn toàn không biết về việc này nên anh đã đồng ý giúp Citlali mà không đặt bất kỳ câu hỏi nào.
+
+Cacucu là một trợ lý Qucusaur tại phòng khám của Ifa và nó tự nhận mình là "người anh em" của Ifa. Cacucu đã học được một vài câu cửa miệng của anh, mặc dù hoàn toàn hiểu tiếng người nhưng Cacucu chỉ có thể lặp lại những câu cửa miệng này để giao tiếp do cấu tạo lưỡi của Saurian có giới hạn.

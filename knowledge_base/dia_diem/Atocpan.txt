@@ -1,0 +1,26 @@
+# Atocpan
+
+## Thông Tin Cơ Bản
+
+type: Khu Vực
+region: Natlan
+
+- ===Đặc Sản Khu Vực=== - Lưu Lân Thạch - Lá Rạn Vân Đá
+
+- Thư Gửi Chị Anna: Vật tương tác này có thể tìm thấy trên thuyền tại doanh trại Fatui nằm ở phía đông của Bí Cảnh Bến Tàu Xây Dựng Bỏ Hoang.
+
+- Lá Thư Nặc Danh: Vật tương tác này có thể tìm thấy tại doanh trại Fatui lớn nằm ở phía tây của Tàn Dư Của Tetenanco.
+
+## Bảng Tin Nhắn Cảnh Báo
+
+Vật tương tác này có thể tìm thấy gần Điểm Dịch Chuyển phía nam của Kẻ Ẩn Tu Ngoại Cảm Lạc Lối. Nhặt 3 Hạt Ngũ Cốc gần đó sẽ khiến một con Tatankasaur tức giận xuất hiện.
+Bảng Tin Nhắn Cảnh Báo: (Một tấm bảng nhắn tin, trên đó có một số lời cảnh báo của người trong bộ tộc...)
+Bảng Tin Nhắn Cảnh Báo: "Vậy là dạo này có người không được ăn đủ no, đúng không? Ai ở ngoài kia đói đến mức muốn ăn trộm đồ của Tatankasaurus vậy?!"
+Bảng Tin Nhắn Cảnh Báo: "Saurian ở chỗ chúng tôi rất nóng nảy, mấy người định trộm Hạt Ngũ Cốc thì tự đi mà gánh hậu quả nhé!"
+
+## Cảnh Báo
+
+Vật tương tác này có thể tìm thấy tại lối vào "Hành Lang Xuyên Núi", ngay phía bắc của Tàn Dư Của Tetenanco.
+Cảnh Báo: Do gần đây núi lửa đang trong thời kỳ thường xuyên "phun trào", nơi khai quật của Di Tích Nguồn tạm thời không mở cửa cho người ngoài!
+
+- Atocpan có nghĩa là "đất dày và màu mỡ" trong tiếng Nahuatl.

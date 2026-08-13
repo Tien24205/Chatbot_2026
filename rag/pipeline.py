@@ -13,18 +13,89 @@ from dataclasses import dataclass, field
 import psycopg
 from google.genai import types
 
-from . import config, embedder, graph, prompt, verify
+from . import config, counting, embedder, graph, prompt, verify
 from .gemini import client
 from .retry import RateLimited, with_retry
-from .store import SearchHit, hits_for_ids, search
+from .store import SearchHit, chunks_of_source, hits_for_ids, search
 
 _lexicon: graph.Lexicon | None = None
 
-TOP_K = 4
+# Nâng 4 -> 6 khi knowledge base lên 2.848 chunk.
+#
+# Đo bằng 03_eval_retrieval.py trên KB wiki Genshin:
+#   recall@1 = 53%   recall@3 = 82%   recall@5 = 88%
+# Chunk đúng thường CÓ trong kho nhưng không phải hạng nhất — lấy 4 đoạn là tự
+# vứt đi phần lớn khoảng cách giữa 53% và 88%. Với KB viết tay 65 chunk thì
+# recall@1 đã là 100% nên 4 là đủ; kho lớn hơn thì không.
+TOP_K = 6
 
 # Số lượt hỏi-đáp giữ lại trong lịch sử. Giới hạn để prompt không phình vô hạn
 # qua nhiều lượt, mà vẫn đủ để viết lại được câu hỏi có đại từ.
 MAX_HISTORY_TURNS = 6
+
+# Câu ĐẾM/TỔNG HỢP: đáp án nằm rải trong nhiều mục của MỘT trang, mà top-k chỉ
+# vớt được vài mục. Đo được: hỏi "có bao nhiêu phản ứng nguyên tố?", mục "Phản
+# Ứng Chuyển Hóa" (chứa 9/13 cái tên) xếp hạng 15 — không bao giờ vào top-6.
+# Gặp dạng câu này thì nạp thêm TRỌN TRANG của hit hạng 1 vào ngữ cảnh.
+# "các loại X" bổ sung sau khi đo: câu "các loại phản ứng nguyên tố" không khớp
+# marker nào nên không nạp trọn trang, top-6 bị trang Hỏa chiếm hạng 1 và câu
+# trả lời chỉ có phản ứng của riêng Hỏa (đúng phạm vi nhưng thiếu bức tranh đủ).
+_AGGREGATE_MARKERS = (
+    "bao nhiêu", "tổng cộng", "tất cả", "liệt kê", "gồm những", "có những",
+    "các loại", "những loại", "mấy loại", "loại nào",
+)
+# Trần mở rộng: trang wiki hiện tại trung bình ~2,5 chunk nhưng trang hệ thống
+# lớn có thể 16 chunk (Thuyết Định Lượng Nguyên Tố). 12 chunk ~ 14k ký tự, đủ
+# trọn mọi trang trừ vài trang ngoại cỡ, mà không làm prompt phình gấp ba.
+MAX_DOC_CHUNKS = 12
+
+
+# Tiếng lóng cộng đồng -> từ ngữ THẬT trong knowledge base. Vấn đề đo được:
+# "cơ chế bảo hiểm khi cầu nguyện" chỉ đạt 0.824 (sát ngưỡng, top toàn chunk
+# lạc đề) vì wiki không dùng chữ "bảo hiểm" — nó viết "Đảm Bảo 5: ... lần thứ
+# 90 chắc chắn sẽ ra" (Cầu Nguyện Nhân Vật.txt). Nối chú giải vào câu truy vấn
+# cho embedding có từ khớp nguồn.
+#
+# TỪNG mục phải grep thấy vế phải trong knowledge_base TRƯỚC khi thêm — bí danh
+# đoán mò kéo truy hồi lệch còn tệ hơn không có. Đã kiểm và KHÔNG thêm: "banner",
+# "quay", "gacha" (wiki tự dùng các từ này); "AR"/"Cấp Mạo Hiểm" (kho không có).
+_SLANG = {
+    "bảo hiểm": "số lần đảm bảo, chắc chắn nhận được vật phẩm khi cầu nguyện",
+    "pity": "số lần đảm bảo khi cầu nguyện",
+    "resin": "Nhựa Nguyên Chất",
+}
+
+
+def expand_slang(query: str) -> str:
+    """Nối chú giải cho tiếng lóng — KHÔNG thay chữ gốc, giữ nguyên tín hiệu cũ."""
+    q = query.lower()
+    notes = [f"{k} tức là {v}" for k, v in _SLANG.items() if k in q]
+    return f"{query} ({'; '.join(notes)})" if notes else query
+
+
+def needs_doc_expansion(question: str) -> bool:
+    q = question.lower()
+    return any(m in q for m in _AGGREGATE_MARKERS)
+
+
+def expand_with_document(
+    conn: psycopg.Connection, hits: list[SearchHit], query: str
+) -> list[SearchHit]:
+    """
+    Nạp phần còn lại của MỘT tài liệu — xem _AGGREGATE_MARKERS.
+
+    Chọn tài liệu theo TIÊU ĐỀ TRANG nằm trong câu hỏi trước, hit hạng 1 sau.
+    Đo được vì sao phải vậy: hỏi "có bao nhiêu phản ứng nguyên tố?", hạng 1 là
+    trang Hỏa (nói về phản ứng CỦA Hỏa) — nạp trọn trang Hỏa thì vẫn thiếu ba
+    danh sách nằm ở trang "Phản Ứng Nguyên Tố", đúng trang mang tên câu hỏi.
+    """
+    q = query.lower()
+    target = next(
+        (h.source_name for h in hits if h.source_name.rsplit(".", 1)[0].lower() in q),
+        hits[0].source_name,
+    )
+    have = {h.id for h in hits}
+    return chunks_of_source(conn, target, have, MAX_DOC_CHUNKS)
 
 
 @dataclass
@@ -33,6 +104,12 @@ class Answer:
     citations: list[str] = field(default_factory=list)
     hits: list[SearchHit] = field(default_factory=list)
     refused: bool = False
+    # AI đã từ chối: "threshold" = lớp 2 chặn trước khi gọi LLM;
+    #                "model"     = ngữ cảnh đủ liên quan nhưng LLM nói không có
+    #                              câu trả lời trong đó (quy tắc 2 của system prompt).
+    # Phải phân biệt, nếu không giao diện sẽ báo "0.872 < ngưỡng 0.82" — một câu
+    # vừa sai số học vừa đổ lỗi nhầm cho ngưỡng.
+    refused_by: str = ""
     top_similarity: float = 0.0
     rewrite_ms: int = 0  # gọi LLM viết lại câu hỏi (chỉ khi có lịch sử)
     retrieval_ms: int = 0  # embed câu hỏi + truy vấn pgvector
@@ -46,6 +123,8 @@ class Answer:
     unsupported: list[str] = field(default_factory=list)  # lớp 5, do LLM soát
     entailment_ran: bool = False
     graph_expanded: int = 0  # số chunk do đồ thị bổ sung
+    doc_expanded: int = 0  # số chunk nạp thêm khi mở rộng trọn trang (câu đếm/tổng hợp)
+    counted: bool = False  # trả lời bằng đường đếm tất định (rag/counting.py), không qua LLM
 
     @property
     def verified(self) -> bool:
@@ -115,10 +194,10 @@ def rewrite_query(question: str, history: list[dict]) -> str:
     """
     Viết lại câu hỏi nối tiếp thành câu đứng độc lập trước khi truy hồi.
 
-    Lý do: retrieval chỉ nhìn thấy văn bản câu hỏi, không thấy hội thoại. Đo được
-    thực tế: sau khi hỏi về Baron Nashor, câu "Còn Liên Quân thì sao?" truy hồi ra
-    Tổng quan / Xếp hạng / Giải đấu và TRƯỢT chunk "Mục tiêu trung lập" — đúng chỗ
-    chứa Rồng Bạo Chúa và Thần Rừng.
+    Lý do: retrieval chỉ nhìn thấy văn bản câu hỏi, không thấy hội thoại. Câu
+    "Còn Kết Tinh thì sao?" đứng một mình không chứa từ khoá nào của chủ đề đang
+    nói, nên truy hồi trả về chunk lạc đề và trượt đúng trang Kết Tinh (đo được
+    hiện tượng này trên KB cũ, cơ chế không phụ thuộc dữ liệu).
 
     Đánh đổi: tốn thêm một lượt gọi LLM mỗi khi có lịch sử. Chỉ chạy khi cần.
     """
@@ -171,6 +250,75 @@ def lexicon(conn: psycopg.Connection) -> graph.Lexicon | None:
     return _lexicon
 
 
+def expand_with_entities(
+    conn: psycopg.Connection,
+    question: str,
+    query_vector: list[float],
+    hits: list[SearchHit],
+    limit: int = 2,
+) -> list[SearchHit]:
+    """
+    Bổ sung chunk NHẮC TỚI thực thể mà người dùng nêu trong câu hỏi.
+
+    Vá đúng lỗ đo được sau refetch: hỏi "Quá Tải gây ra hiệu ứng gì?" — bullet
+    định nghĩa "Quá Tải: Gây... vụ nổ" nằm trong trang Hỏa/Lôi, xếp NGOÀI top-6
+    (top toàn mục nói CHUNG về phản ứng), model từ chối dù kho có câu trả lời.
+    Đồ thị đã biết chunk nào nhắc tới "Quá Tải" — chỉ việc kéo về.
+
+    Ứng viên được CHẤM ĐIỂM LẠI bằng similarity thật với câu hỏi rồi mới lấy
+    top: chunks_mentioning với MỘT thực thể trả về theo thứ tự id (tuỳ ý), mà
+    tên như "Quá Tải" xuất hiện trong cả tá nội tại vũ khí — lấy bừa là rước
+    nhiễu. Cùng hai ràng buộc với expand_with_graph: chỉ gieo từ thực thể trong
+    CÂU HỎI, và chỉ chạy sau khi ngưỡng (lớp 2) đã cho qua.
+    """
+    lex = lexicon(conn)
+    if lex is None:
+        return []
+    seeds = lex.find(question)
+    if not seeds:
+        return []
+
+    have = {h.id for h in hits}
+    out: list[SearchHit] = []
+
+    # 1) Mỗi thực thể được nhắc phải CÓ MẶT: nếu trang mang tên nó chưa góp chunk
+    #    nào vào ngữ cảnh thì thêm chunk tốt nhất của trang đó. Đo được vì sao
+    #    cần: hỏi "Mondstadt, Liyue và Inazuma khác nhau thế nào?" — vector +
+    #    chunks_mentioning ưu tiên chunk nhắc NHIỀU bên (trang Khí Hậu, trang
+    #    Genshin Impact), Liyue.txt vắng mặt và model từ chối đúng quy tắc 5
+    #    ("thiếu hẳn một bên"). Trang tên có ngoặc ("Durin (NPC).txt") nằm ngoài
+    #    khuôn tên-file-bằng-tên-thực-thể — chấp nhận, ca đó hiếm hơn hẳn.
+    have_sources = {h.source_name for h in hits}
+    for s in seeds[:4]:
+        fname = f"{s}.txt"
+        if fname in have_sources:
+            continue
+        ids = [
+            r[0]
+            for r in conn.execute(
+                "SELECT id FROM chunks WHERE source_name = %s", (fname,)
+            ).fetchall()
+            if r[0] not in have
+        ]
+        best = sorted(hits_for_ids(conn, query_vector, ids), key=lambda h: -h.similarity)[:1]
+        out += best
+        have.update(h.id for h in best)
+        have_sources.add(fname)
+
+    # 2) Chunk NHẮC TỚI thực thể, chấm điểm lại bằng similarity thật với câu hỏi
+    #    (chunks_mentioning với một thực thể trả về theo thứ tự id — lấy bừa là
+    #    rước nhiễu, "Quá Tải" xuất hiện trong cả tá nội tại vũ khí).
+    candidates = [
+        c["id"]
+        for c in graph.chunks_mentioning(conn, seeds, limit=20)
+        if c["id"] not in have
+    ]
+    if candidates:
+        scored = hits_for_ids(conn, query_vector, candidates)
+        out += sorted(scored, key=lambda h: -h.similarity)[:limit]
+    return out
+
+
 def expand_with_graph(
     conn: psycopg.Connection,
     question: str,
@@ -182,16 +330,16 @@ def expand_with_graph(
     Bổ sung chunk mà vector bỏ sót, đi qua cạnh `tương_tự` trong đồ thị.
 
     Trả về (chunk bổ sung, các quan hệ đã đi qua). Phần quan hệ quan trọng ngang
-    phần chunk: bản thân "Baron Nashor và Thần Rừng cùng vai trò mục tiêu trung
-    lập" đã là một dữ kiện rút từ cách tài liệu phân mục, và nó chính là thứ LLM
+    phần chunk: bản thân "Kiếm Sắt Đen và Ánh Trăng Xiphos cùng vai trò Kiếm Đơn"
+    đã là một dữ kiện rút từ cách tài liệu phân loại, và nó chính là thứ LLM
     cần để dám so sánh mà không phải tự suy diễn.
 
     HAI RÀNG BUỘC:
 
     1. Chỉ gieo mầm từ thực thể NGƯỜI DÙNG NHẮC TRONG CÂU HỎI, không gieo từ thực
-       thể nằm trong các chunk đã truy hồi. Đo được: chunk "Mục tiêu trung lập"
-       của Liên Quân có nhắc cả "đường dưới", "đường trên" — gieo từ đó thì đồ thị
-       kéo về toàn chunk vị trí, loãng hẳn ngữ cảnh của câu hỏi về mục tiêu.
+       thể nằm trong các chunk đã truy hồi. Lý do (đo trên KB cũ): chunk trả lời
+       thường nhắc kèm hàng loạt thực thể phụ — gieo từ chúng thì đồ thị kéo về
+       toàn chunk lạc đề, loãng hẳn ngữ cảnh của chính câu hỏi.
 
     2. Chỉ chạy SAU khi ngưỡng similarity (lớp 2) đã cho qua. Đồ thị không bao giờ
        được cứu một câu vốn phải bị từ chối, nếu không thì mọi câu ngoài phạm vi
@@ -239,10 +387,10 @@ def entailment_check(answer_text: str, hits: list[SearchHit]) -> list[str]:
 
     Trả về danh sách khẳng định KHÔNG được chứng minh (rỗng = đạt).
 
-    Đây là lớp duy nhất bắt được lỗi SUY DIỄN: ngữ cảnh nói "Thần Rừng xuất hiện
-    từ phút thứ 8", câu trả lời viết "nên trận đấu thường kết thúc sau phút 8" —
-    mọi con số đều có thật, mọi tên đều có thật, lớp 4 không thấy gì; chỉ có đọc
-    hiểu mới thấy đó là suy diễn.
+    Đây là lớp duy nhất bắt được lỗi SUY DIỄN: ngữ cảnh nói "phản ứng Bốc Hơi
+    nhân sát thương 1,5 lần", câu trả lời viết "nên Bốc Hơi luôn là lựa chọn mạnh
+    nhất" — mọi con số đều có thật, mọi tên đều có thật, lớp 4 không thấy gì;
+    chỉ có đọc hiểu mới thấy đó là suy diễn.
 
     Lỗi ở lớp này KHÔNG được phép làm hỏng câu trả lời: nếu lệnh gọi kiểm chứng
     thất bại thì coi như chưa kiểm chứng, chứ không chặn câu trả lời đã sinh xong.
@@ -281,10 +429,27 @@ def ask(
     """
     # Đo tách bạch: viết lại câu hỏi là một lượt gọi LLM, không phải chi phí truy hồi.
     t0 = time.perf_counter()
-    search_query = rewrite_query(question, history or [])
+    search_query = expand_slang(rewrite_query(question, history or []))
     rewrite_ms = int((time.perf_counter() - t0) * 1000)
 
+    # --- Đường đếm tất định (hướng B) ---------------------------------------
+    # Chạy TRƯỚC cả embedding: câu "có bao nhiêu <loại>?" khớp đúng một kind
+    # trong đồ thị thì đếm bằng SQL — 0 lệnh gọi API, không thể bịa. Câu không
+    # khớp (kể cả "bao nhiêu phản ứng nguyên tố" — không phải kind nào) rơi
+    # xuống pipeline thường, nơi quy tắc 8 + mở rộng trọn trang xử lý tiếp.
     t1 = time.perf_counter()
+    counted_text = counting.try_count(conn, search_query)
+    if counted_text is not None:
+        return Answer(
+            text=counted_text,
+            counted=True,
+            top_similarity=1.0,  # khớp kind chính xác — trong phạm vi theo định nghĩa
+            rewrite_ms=rewrite_ms,
+            retrieval_ms=int((time.perf_counter() - t1) * 1000),
+            search_query=search_query,
+            model_used="đồ thị tri thức",
+        )
+
     query_vector = embedder.embed_query(search_query)
     hits = search(conn, query_vector, top_k=top_k)
 
@@ -297,6 +462,7 @@ def ask(
         return Answer(
             text=prompt.REFUSAL_MESSAGE,
             refused=True,
+            refused_by="threshold",
             top_similarity=top,
             hits=hits,
             rewrite_ms=rewrite_ms,
@@ -313,6 +479,29 @@ def ask(
         )
         hits = hits + graph_hits
 
+    # Mở rộng theo thực thể được nhắc trong CÂU HỎI — chạy cho mọi câu (không
+    # chỉ câu so sánh), vì chi phí là một truy vấn SQL + chấm điểm lại vài chunk.
+    if config.GRAPH_EXPANSION:
+        entity_hits = expand_with_entities(conn, search_query, query_vector, hits)
+        hits = hits + entity_hits
+        graph_hits = graph_hits + entity_hits  # gộp vào số "đồ thị bổ sung" hiển thị
+
+    # --- Mở rộng trọn trang cho câu đếm/tổng hợp ----------------------------
+    # Chạy SAU ngưỡng (lớp 2), cùng nguyên tắc với đồ thị: chỉ bổ sung ngữ cảnh
+    # cho câu đã đáng trả lời, không bao giờ cứu câu đáng bị từ chối.
+    doc_hits: list[SearchHit] = []
+    doc_note = ""
+    if needs_doc_expansion(search_query):
+        doc_hits = expand_with_document(conn, hits, search_query)
+        hits = hits + doc_hits
+        if doc_hits:
+            doc_note = (
+                f"LƯU Ý: ngữ cảnh trên đã gồm TOÀN BỘ trang "
+                f"\"{doc_hits[0].source_name.rsplit('.', 1)[0]}\". Nếu câu hỏi là đếm "
+                "hay tổng hợp, hãy đếm trực tiếp từ các danh sách trong ngữ cảnh theo "
+                "quy tắc 8 — đừng từ chối chỉ vì không có con số tổng viết sẵn."
+            )
+
     retrieval_ms = int((time.perf_counter() - t1) * 1000)
 
     # --- Lớp chống bịa 1: system prompt ràng buộc ---------------------------
@@ -320,14 +509,17 @@ def ask(
     contents.append(
         {
             "role": "user",
-            "parts": [{"text": prompt.build_user_message(question, hits, graph_notes)}],
+            "parts": [{"text": prompt.build_user_message(question, hits, graph_notes, doc_note)}],
         }
     )
 
     gen_cfg = types.GenerateContentConfig(
         system_instruction=prompt.SYSTEM_PROMPT,
-        # Nhiệt độ thấp: đây là tác vụ tra cứu, không phải sáng tác.
-        temperature=0.2,
+        # Nhiệt độ 0 — tra cứu, không phải sáng tác. Hạ từ 0.2 sau khi đo: câu
+        # mở "Nhân vật hệ Thảo có gì đặc biệt?" ở 0.2 lúc trả lời lúc tự từ
+        # chối tuỳ lần chạy (cùng ngữ cảnh!), ở 0 thì trả lời ổn định. Ca ranh
+        # giới thì tính tất định đáng giá hơn chút đa dạng câu chữ.
+        temperature=0.0,
     )
 
     t2 = time.perf_counter()
@@ -365,6 +557,7 @@ def ask(
         return Answer(
             text=text,
             refused=True,
+            refused_by="model",
             top_similarity=top,
             hits=hits,
             rewrite_ms=rewrite_ms,
@@ -373,6 +566,7 @@ def ask(
             search_query=search_query,
             model_used=model_used,
             graph_expanded=len(graph_hits),
+            doc_expanded=len(doc_hits),
         )
 
     # --- Lớp chống bịa 4: kiểm chứng grounding tất định ----------------------
@@ -416,4 +610,5 @@ def ask(
         unsupported=unsupported,
         entailment_ran=entailment_ran,
         graph_expanded=len(graph_hits),
+        doc_expanded=len(doc_hits),
     )

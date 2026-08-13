@@ -1,0 +1,28 @@
+# Cyno
+
+## Thông Tin Cơ Bản
+
+title: Phán Quyết Ẩn Mật
+title2: Tổng Quản Mahamatra
+type: Chơi Được
+quality: 5
+weapon: Vũ Khí Cán Dài
+element: Lôi
+name: Cyno
+birthday: 23 tháng 06
+constellation: Kim Lang
+region: Sumeru
+affiliation: Ngôi Đền Im Lặng
+affiliation2: Giáo Viện Sumeru
+affiliation3: Spantamad
+dish: Linh Hồn Quyết Đấu
+namecard: Yên Lặng
+obtain: Cầu Nguyện Nhân Vật
+event_name: Tà Dương Phán Quyết
+releaseDate: 2022-09-28 11:00:00 GMT+8
+father: Cyrus (Sumeru)!Cyrus
+fatherNote: nhận nuôi
+voiceEN: w|Alejandro Saab
+voiceCN: Li Qingyang (zh|李轻扬)
+voiceJP: w|Miyu Irino|Irino Miyu (ja|入野 自由)
+voiceKR: Lee Woo-ri (ko|이우리)

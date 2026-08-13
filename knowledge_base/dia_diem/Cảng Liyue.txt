@@ -1,0 +1,42 @@
+# Cảng Liyue
+
+## Vật Có Thể Tương Tác
+
+type: Phân Khu
+region: Liyue
+area: Vân Lai Hải
+
+- Bách Hợp Lưu Ly - Hoa Nghê Thường
+
+- Quảng Cáo (gần lối vào Cảng Liyue)
+:Quảng Cáo: "Quặng tốt, số lượng lớn!"
+- Bảng Thông Báo Ngật Hổ Nham
+- Bảng Thông Báo Dốc Phi Vân
+- Tìm Chó Mất Tích
+:Tìm Chó Mất Tích: "Tìm một con chó trưởng thành màu đen, ngoại hình mảnh khảnh và lông trắng hình lưỡi liềm trên trán."
+:Tìm Chó Mất Tích: "Sau khi chú chó yêu quý đi lạc, mẹ tôi vô cùng đau buồn. Bất kỳ ai biết nó ở đâu xin hãy nói với tôi, xin cảm ơn và hậu tạ 800 Mora!"
+- Áp Phích Minh Tinh Trai
+- Cáo Thị Tìm Người
+:Cáo Thị Tìm Người: Tìm thiếu niên mất tích, hy vọng được người tốt giúp đỡ và cung cấp manh mối. Người mất tích có tóc vàng, mặc trang phục dị vực, rất nổi bật.
+:Cáo Thị Tìm Người: Nếu có bất kỳ tin tức gì, xin vui lòng liên hệ với Thiên Nham Quân gần nhất, hoặc trực tiếp báo cho tổng vụ Liyue. Xin cảm ơn!
+- Áp Phích Vạn Dân Đường
+- Thông Báo Của Tiệm Sách Vạn Văn Tập
+- Cảnh Cáo (gần tượng nghê đá ở cảng)
+:Cảnh Cáo: "Quả cầu đá dưới chân con nghê có vết nứt, dễ vỡ."
+
+## Dốc Phi Vân
+
+Lối vào Cảng Liyue
+Khu vực buôn bán của thương nhân Snezhnaya
+Bến cảng phía Bắc
+Tổng Vụ
+Đường lớn
+Lưu Ly Đình
+Tân Nguyệt Hiên
+Vạn Văn Tập (Tầng trung)
+Ngân Hàng Bắc Quốc (Tầng cao)
+Hòa Dụ Trà Quán (Tầng cao)
+
+- Ngật Hổ Nham: Quảng trường chính Phố chính Con hẻm Tiệm Trà Trên Đá Ba Cốc Say Mèm Xưởng đóng tàu Bến cảng
+
+- Ngọc Kinh Đài: Nhà Thuốc Bubu Ỷ Nham Điện Hải Nguyệt Đình

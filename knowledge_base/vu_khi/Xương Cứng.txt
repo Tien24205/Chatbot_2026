@@ -1,0 +1,15 @@
+# Xương Cứng
+
+## Thông Tin Cơ Bản
+
+type: Kiếm Đơn
+quality: 4
+base_atk: 44
+2nd_stat_type: Tấn Công
+2nd_stat: 6%
+obtain: Cầu Nguyện Vũ Khí
+passive: Niềm Kiêu Hãnh Của Kẻ Đặt Bẫy
+effect: Giảm 15% tiêu hao thể lực khi xung kích hoặc kỹ năng thay thế xung kích. Ngoài ra, sau khi dùng xung kích hoặc kỹ năng thay thế xung kích sẽ tăng sát thương tấn công thường, mức tăng tương ứng với (var1)% tấn công. Hiệu quả này sẽ biến mất sau khi hiệu lực 18 lần hoặc sau 7s.
+eff_rank1_var1: 16
+
+- Tổng Quan: Xương Cứng là một Kiếm Đơn 4 Sao.

@@ -1,0 +1,12 @@
+# Izebel
+
+## Thông Tin Cơ Bản
+
+type: NPC Nhiệm Vụ
+region: Sumeru
+location: Sumeru
+father: Alyasa
+mother: Ashera
+sibling: Ilyas
+
+- Tổng Quan: Izebel là một NPC độc quyền nhiệm vụ xuất hiện trong.

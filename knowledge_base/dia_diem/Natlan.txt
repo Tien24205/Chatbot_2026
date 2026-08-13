@@ -1,0 +1,15 @@
+# Natlan
+
+## Thông Tin Cơ Bản
+
+map: Teyvat
+chapter: Chương 5
+element: Hỏa
+archon: Mavuika
+ideal: Chiến Tranh
+
+- Tổng Quan: Natlan là một trong bảy quốc gia trên đại lục Teyvat. Đây là quốc gia tôn thờ Mavuika, Hỏa Thần và Thần Chiến Tranh. Nhiệm Vụ Ma Thần Chương 5 diễn ra tại Natlan.
+
+## Mô Tả
+
+Hiện tại có rất ít thông tin về Natlan. Theo Augustus Lovelace, nó nằm ở phía bên kia vùng sa mạc Sumeru, Biển Cát Đỏ. Natlan cũng là nơi có suối nước nóng tự nhiên được tạo ra từ hoạt động núi lửa. Người dân Natlan được chia thành các bộ lạc và mỗi bộ tộc tuân theo những quy tắc khác nhau. Trong thời đại Tenoch, xảy ra trước khi tạo ra Vùng Biển Lặng, có ít nhất sáu bộ tộc lớn ở Natlan, mặc dù hiện tại vẫn chưa biết có bao nhiêu bộ tộc.

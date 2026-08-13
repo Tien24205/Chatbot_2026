@@ -1,0 +1,12 @@
+# Menu Đăng Nhập
+
+## Tổng Quan
+
+type: Hệ Thống Trò Chơi
+group: Giao Diện
+
+Giao Diện Đăng Nhập là giao diện xuất hiện sau khi khởi chạy trò chơi, đến sau màn hình Cảnh báo: Đọc kỹ trước khi chơi trò chơi và logo của HoYoverse
+
+Ở Giao Diện Đăng Nhập có thể đăng nhập vào tài khoản trò chơi, thay đổi khu vực (máy chủ), thay đổi một số cài đặt cơ bản, kiểm tra tài nguyên, xem các thông báo từ NPH, tải trước (chỉ có trên thiết bị di dộng) và thoát trò chơi.
+
+Có thể quay lại màn hình đăng nhập từ trong trò chơi thông qua Giao Diện Paimon bằng việc chọn "Thoát Trò Chơi". Nền của giao diện thay đổi tùy thuộc vào thời gian thiết bị của người chơi, thể hiện bốn thời điểm trong ngày: bình minh, ban ngày, hoàng hôn và ban đêm. Âm nhạc cũng sẽ thay đổi tùy thời điểm.

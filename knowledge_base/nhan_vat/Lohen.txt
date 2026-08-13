@@ -1,0 +1,34 @@
+# Lohen
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+quality: 5
+weapon: Vũ Khí Cán Dài
+element: Băng
+teamBonus: Hexerei
+name: Lohen
+birthday: 03 tháng 04
+constellation: Giảo Thố
+region: Mondstadt
+affiliation: Đội Kỵ Sĩ Tây Phong
+affiliation2: Hiệp Hội Nhà Mạo Hiểm
+affiliationNote2: trước đây
+dish: Kẹo Cao Su Giải Sầu
+namecard: Nhân Ái
+obtain: Cầu Nguyện Nhân Vật
+event_name: Mũi Sương Đêm Trắng
+releaseDate: 2026-06-09 18:00:00 GMT+8
+title: Mũi Nhọn Sắc Bén
+title2: Đội Phó Tiểu Đội Tầm Xa Của Đội Kỵ Sĩ Tây Phong
+voiceEN: [[imdb:nm6016510
+Nick Wolfhard]]<ref>YouTube: [https://www.youtube.com/watch?v: p02WXZZ84M4 Video Giới Thiệu Phiên Bản Luna V: "Người Trở Về Đuổi Theo Gió"] (Mô tả video)
+voiceCN: Lin Jingnan (zh|林婧南)
+voiceJP: w|Kōhei Amasaki|Amasaki Kōhei (ja|天﨑 滉平)
+voiceKR: Lee Sang-ho (ko|이상호)
+
+## Tổng Quan
+
+Lohen là một nhân vật hệ Băng chơi được trong Genshin Impact.
+
+Cậu là Phó Đội Trưởng Tiểu Đội 5 của Đội Kỵ Sĩ Tây Phong. Dù không phải là một kẻ không biết điểm dừng của bản thân, Lohen yêu thích và sống vì những trận chiến, cậu luôn trong trạng thái sẵn sàng đối đầu với những đối thủ mạnh mẽ để thử thách kỹ năng chiến đấu của mình.

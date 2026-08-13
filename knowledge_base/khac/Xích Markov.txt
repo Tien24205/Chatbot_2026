@@ -1,0 +1,45 @@
+# Xích Markov
+
+## Tổng Quan
+
+Nó có thể được sử dụng để mô tả hệ thống bảo hiểm Cầu Nguyện trong Genshin Impact. Lưu ý rằng đây chỉ là mô hình lý thuyết và trong thực tế,hệ thống gacha trong trò chơi có thể mang những kết quả khác.
+
+## Tỉ Lệ Nhận Nhân Vật Đi Kèm 5 Sao
+
+Đối với sự kiện dành riêng cho banner 5 sao, cứ sau 90 lần quay đảm bảo có một nhân vật 5 sao. Có 1/2 xác suất đó là nhân vật đi kèm của sự kiện.Nếu lần đầu không được thì lần tiếp theo ra 5 sao ra lần tiếp theo (trong 90 lần quay tiếp theo) đảm bảo sẽ là nhân vật đi kèm của sự kiện.Bảo hiểm sẽ được thiết lập lại, và vòng tròn cứ sẽ tiếp tục.
+
+Có hai trạng thái trong Xích Markov:
+- Trạng thái 1 (T1): 5 sao tiếp theo có xác suất 50-50 ra đi kèm 5 sao của sự kiện
+- Trạng thái 2 (T2): 5 sao tiếp theo ra đi kèm 5 sao của sự kiện
+
+Các xác suất có thể là:
+- T1 ra T1 với xác suất 1/2 (thắng 50-50)
+- T1 ra T2 với xác suất 1/2 (thua 50-50)
+- T2 ra T1 với xác suất 1 (với bảo hiểm)
+
+Câu hỏi đặt ra là: nếu một người thực hiện cầu nguyện với số lượng lớn,thì xác suất dự kiến để ra được đi kèm 5 sao của sự kiện là bao nhiêu? Trung bình, trong các lần ra 5 sao sẽ có bao nhiêu lần là đi kèm 5 sao của sự kiện?
+
+Sử dụng Xích Markov được xác định ở trên và lưu ý rằng mỗi khi vào trạng thái T1, chúng ta sẽ ra được đi kèm 5 sao của sự kiện. Vì vậy, ta diễn đạt lại như sau: về lâu dài,xác suất số lần ra ở trạng thái S1?
+
+Để giải quyết vấn đề,ta đặt
+- x là xác suất ở trạng thái T1
+- y là xác suất ở trạng thái T2
+
+Ta có:
+x + y = 1
+
+Ngoài ra,sử dụng các xác suất có thể:
+\begin{align}
+
+x &= \frac{1}{2}x + y \\
+
+y &= \frac{1}{2}x
+
+\end{align}
+
+Giải hệ này ta được:
+x = \frac{2}{3}
+
+Vì vậy,với các lần ra 5 sao,xác suất dự kiến ra đi kèm 5 sao của sự kiện là 2/3 số lần.
+
+Điều này cũng có thể mô phỏng bằng số trên máy tính.

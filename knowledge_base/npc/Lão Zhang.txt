@@ -1,0 +1,18 @@
+# Lão Zhang
+
+## Tổng Quan
+
+name: Lão Zhang
+region: Liyue
+affiliation: Hàn Phong Thiết Khí
+title: Công nhân Hàn Phong Thiết Khí
+type: NPC
+father: Hanfeng
+relative: Suling
+relativeNote: anh em họ
+
+Lão Zhang là một NPC ở Cảng Liyue, Liyue và chủ sở hữu hiện tại của xưởng Hàn Phong Thiết Khí, được hiển thị bằng biểu tượng trên bản đồ. Anh ta là một thợ rèn, người có thể rèn một số Vũ khí 4 Sao và nguyên liệu cường hóa vũ khí hoặc bán Vũ khí 2 Sao
+
+- Cửa Hàng: Anh ta có lượng hàng giống hệt như Wagner và Hajime.
+
+- Mảnh sắt Lão Zhang cần

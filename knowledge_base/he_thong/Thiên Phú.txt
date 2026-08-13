@@ -1,0 +1,70 @@
+# Thiên Phú
+
+## Tổng Quan
+
+type: Chiến Đấu
+type2: Hệ Thống Trò Chơi
+
+Thiên Phú là các khả năng đặc biệt của nhân vật. Chúng bao gồm hai loại: Chiến Đấu và Cố Định.
+
+Hầu hết các nhân vật đều có ba Thiên Phú chiến đấu và ba Thiên Phú Cố Định. Mona và Ayaka có Thiên Phú Chiến Đấu thứ tư dưới dạng Xung Kích Thay Thế. Sangonomiya Kokomi có bốn Thiên Phú Cố Định. Nhà Lữ Hành không có Thiên Phú Sinh Tồn.
+
+## Danh Sách Thiên Phú
+
+- Thiên Phú Chiến Đấu
+- Tấn Công Thường - Dạng tấn công chính của mỗi nhân vật.
+- Kỹ Năng Nguyên Tố - Không cần dùng Năng Lượng Nguyên Tố nhưng có một khoảng thời gian chờ giữa các lần dùng.
+- Xung Kích Thay Thế - Thay thế xung kích thông thường của nhân vật.
+- Kỹ Năng Nộ - Cần dùng Năng Lượng Nguyên Tố.
+- Thiên Phú Cố Định
+- Nội Tại Đột Phá Bậc 1 - Thường sẽ cải thiện Thiên Phú Chiến Đấu.
+- Nội Tại Đột Phá Bậc 4 - Thường sẽ cải thiện Thiên Phú Chiến Đấu.
+- Thiên Phú Sinh Tồn - Thường sẽ cung cấp tiện ích ngoài chiến đấu.
+
+## Thiên Phú Chiến Đấu
+
+Sau khi nhận được nhân vật, toàn bộ Thiên Phu Chiến Đấu sẽ được mở khóa ở Lv.1.
+
+Người chơi có thể tăng cấp Thiên Phú Chiến Đấu thông qua các cách sau:
+- Sử dụng Nguyên Liệu Thiên Phú Nhân Vật, cấp Thiên Phú tối đa tùy thuộc vào cấp đột phá, tối đa đến Lv.10.
+- Mở khóa các Cung Mệnh nhất định giúp tăng cấp của Thiên Phú nhất định thêm 3 cấp. Sử dụng cách này cũng sẽ tăng giới hạn cấp Thiên Phú tối đa tù Lv.10 lên Lv.15.
+#* Điều này không có nghĩa người chơi có thể dùng Nguyên Liệu Thiên Phú Nhân Vật để tăng cấp của Thiên Phú đó sau khi Thiên Phú đạt Lv.13; để tăng đến Lv.15, người chơi cần dùng các phương pháp khác (ví dụ như Thiên Phú Sinh Tồn hay hiệu quả từ Sự Kiện).
+- Một vài nhân vật cũng có Thiên Phú Cố Định có thể tăng cấp một loại Thiên Phú nhất định cho đồng đội.
+
+Ngoài ra, một số Sự Kiện nhất định cũng sẽ có cung cấp hiệu quả tăng cấp thiên phú tạm thời:
+- Trong sự kiện Đĩa Dẫn Năng Lượng, trang bị Lá Mảnh Quả "Tinh Luyện Bạo Phát" sẽ tăng cấp Kỹ Năng Nộ của nhân vật trong bí cảnh, cho phép cấp Kỹ Năng Nộ tối đa đạt đến Lv.14.
+- Trong sự kiện Lộ Trình Nguy Hiểm, trang bị Mảnh Ngọc Chiến Lược "Vô Song" sẽ tăng cấp Kỹ Năng Nguyên Tố và Kỹ Năng Nộ của nhân vật trong bí cảnh, Lá Mảnh Quả "Tinh Luyện Bạo Phát" sẽ tăng cấp Kỹ Năng Nộ của nhân vật trong bí cảnh, cho phép cấp Kỹ Năng Nguyên Tố và Kỹ Năng Nộ tối đa đạt đến Lv.14.
+
+Không thể nâng cấp Xung Kích Thay Thế.
+
+## Sử Dụng Thiên Phú
+
+ tấn công một slime. Lưu ý rằng mũi tên chỉ cho biết slime đã được nhắm đến.]]
+Người chơi có thể sử dụng thiên phú bằng cách nhấn nút tương ứng. Trên PC, theo thiết lập mặc địch, nhấn để thi triển Tấn Công Thường, nhấn giữ để thi triển Trọng Kích, để thi triển Kỹ Năng Nguyên Tố, để thi triển Kỹ Năng Nộ, đồng thời, nếu có, nhấn hoặc để thi triển Xung Kích Thay Thế.
+
+Khi ở gần một hoặc một nhóm kẻ địch, một mũi tên () sẽ xuất hiện để chỉ thị kẻ địch nào đang được nhắm đến. Thiên phú sẽ mặc định tấn công kẻ địch đã được nhắm đến. Khi di chuyển đến vị trí khác trên khu vực chiến đấu sẽ khiến mũi tên này chuyển đến kẻ địch khác. Ngoài ra, một số đòn tấn công có cơ chế ngắm bắn hoặc có ảnh hưởng lên một khu vực nhất định xung quanh nhân vật hoặc kẻ địch đã được nhắm đến, cho phép nhân vật cùng một lúc tấn công nhiều kẻ địch hơn ngoài kẻ địch đã được nhắm đến. Khi không có kẻ địch đã được nhắm đến, thiên phú sẽ thi triển ngay tại khu vực phía trước nhân vật.
+
+Nhân vật sẽ không nhắm đến Cơ Chế Tự Vệ. Nhân vật sẽ chỉ nhắm đến Khí Cầu Slime khi không còn kẻ địch nào ở gần. Các kẻ địch không hiện hình như Slime Thảo đang vùi dưới đất hoặc Fatui - Người Xử Lý Nợ Hỏa đang tàng hình cũng không thể bị nhắm đến.
+
+## Tỷ Lệ Thiên Phú Chiến Đấu
+
+Khi nâng cấp một thiên phú, các giá trị thuộc tính sẽ được tăng theo hệ số dựa trên cấp thiên phú:
+\text{Giá Trị Thuộc Tính Của Thiên Phú} = \text{Giá Trị Thuộc Tính Cơ Bản Của Thiên Phú} \times \text{Hệ Số Cấp Thiên Phú
+
+Giá Trị Thuộc Tính Cơ Bản Của Thiên Phú là giá trị lượng sát thương/lượng trị liệu/lượng khiên của thiên phú ở Lv.1 (ví dụ: Ở Lv.1, Kiếm Sao Băng của Nhà Lữ Hành Nham có ST Kỹ Năng là 248%).
+
+Với các thiên phú có cả thuộc tính theo tỷ lệ phần trăm (x%) và thuộc tính điểm cố định (+x) (ví dụ: Buổi Diễn, Bắt Đầu♪), giá trị phần trăm sẽ tỷ lệ với hệ số như các thiên phú khác, tuy nhiên giá trị điểm cố định sẽ được tính theo hệ số khác.
+
+Thiên phú Tấn Công Thường cũng sẽ tỷ lệ theo hệ số khác. Hệ số này là tương đối, chênh lệch khoảng 1% so với giá trị thật, do vậy có thể sẽ có một số chênh lệch nhỏ do cơ chế làm tròn hoặc lỗi ước tính nhỏ.
+
+Một số nhân vật nhất định như Zhongli và Xiao có thiên phú tỷ lệ theo cách khác. Các ngoại lệ này sẽ được nói đến ở mục sau.
+
+## Ngoại Lệ
+
+Kỹ Năng Nộ của Xiao - Vũ Điệu Trừ Yêu (chỉ số Tăng ST Tấn Công) và Kỹ Năng Nộ của Zhongli - Thiên Tinh (chỉ số ST Kỹ Năng) có hệ số khác với các hệ số trên. Một vài nhân vật khác như Yoimiya, Beidou và Hu Tao cũng có một vài chỉ số nhất định có hệ số khác. Điều này sẽ được nói rõ hơn trong Thiên Phú/Hệ Số Cấp.
+
+## Thiên Phú Cố Định
+
+Trong số các Thiên Phú Cố Định của nhân vật, chỉ duy nhất thiên phú thứ ba là được mở khóa ngay khi nhận nhân vật. Hai thiên phú trước đó sẽ được mở khóa sau khi nhân vật đột phá bậc 1 và bậc 4. Thiên Phú Cố Định không thể tăng cấp.
+
+Lưu ý rằng hiệu quả mà Thiên Phú Cố Định đem lại cho Thiên Phú Chiến Đấu sẽ không được phản ánh lại trong giao diện thông tin của Thiên Phú Chiến Đấu, kể cả khi hiệu quả được kích hoạt không cần điều kiện. Ví dụ, hiệu quả giảm CD không yêu cầu điều kiện đối với Mảnh Đá Vỡ Nát và Nhiệt Tình Rực Lửa sẽ không được thể hiện trong giao diện thông tin của lần lượt Kiếm Sao Băng và Nhiệt Tình Quá Độ.

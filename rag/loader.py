@@ -63,13 +63,32 @@ def load_file(path: Path) -> Document:
 
 
 def load_directory(directory: Path) -> list[Document]:
-    """Đọc toàn bộ file được hỗ trợ trong thư mục, sắp xếp theo tên."""
+    """
+    Đọc toàn bộ file được hỗ trợ trong thư mục VÀ các thư mục con, sắp xếp theo tên.
+
+    Quét đệ quy để knowledge base xếp được thành nhóm (nhan_vat/, vu_khi/,
+    thanh_di_vat/...) — 1.123 file để phẳng một chỗ thì không tra tay nổi.
+
+    Thư mục con KHÔNG đổi `source_name`: nó vẫn là tên file, nên khoá
+    (source_name, chunk_index) trong database giữ nguyên và sắp xếp lại thư mục
+    không bắt phải embed lại. Đổi lại, tên file phải duy nhất trên toàn bộ cây.
+    """
     if not directory.is_dir():
         raise NotADirectoryError(f"Không tìm thấy thư mục: {directory}")
 
     paths = sorted(
-        p for p in directory.iterdir() if p.is_file() and p.suffix.lower() in SUPPORTED_SUFFIXES
+        p for p in directory.rglob("*") if p.is_file() and p.suffix.lower() in SUPPORTED_SUFFIXES
     )
+
+    # Tên trùng giữa hai thư mục con sẽ ghi đè nhau trong bảng chunks mà không báo
+    # lỗi gì — hỏng âm thầm, đúng loại lỗi khó truy nhất.
+    names = [p.name for p in paths]
+    dup = sorted({n for n in names if names.count(n) > 1})
+    if dup:
+        raise ValueError(
+            f"Tên file trùng nhau giữa các thư mục con trong {directory}: {dup[:5]}\n"
+            "source_name phải duy nhất vì nó là khoá của bảng chunks."
+        )
     if not paths:
         raise FileNotFoundError(
             f"Thư mục {directory} không có file .txt hoặc .md nào."

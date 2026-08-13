@@ -1,0 +1,28 @@
+# Makoto
+
+## Thông Tin Cơ Bản
+
+type: NPC
+deceased: Quá khứ
+realname: Raiden Makoto
+element: Lôi
+region: Inazuma
+affiliation: Bảy Vị Thần
+affiliationNote: Trước kia
+affiliation2: Inazuma Shogunate
+sibling: Ei
+siblingNote: Em gái song sinh
+title: Thần của Sự Vĩnh Hằng
+title2: Raiden Shogun
+title3: Narukami Gongen
+voiceEN: [[imdb:nm3304361
+
+## Tổng Quan
+
+, còn được biết đến với tên Goetia là Baal, là Lôi Thần đầu tiên của Inazuma, và người tiền nhiệm của Lôi Thần hiện tại, em gái song sinh của cô, Ei. Lý tưởng thiêng liêng của Makoto cũng là "vĩnh hằng", nhưng thay vì theo đuổi sự tĩnh lặng trang trọng của Ei, Makoto trân trọng từng khoảnh khắc trong thời gian và không gian.
+
+Makoto đã bỏ mạng trong sự kiện Tai ương thời cổ đại 500 năm trước. Kể từ đó, Ei đã nắm quyền Inazuma Shogunate.
+
+- Chương 2 - Màn 3: Thiên Thủ Bách Nhãn, Thiên Hạ Nhân Gian - Trăm Mắt Nghìn Tay
+
+- Chương Thiên Hạ Nhân - Màn 2: Giấc Mộng Thoáng Qua - Hoa Anh Đào Nở Rộ

@@ -1,0 +1,25 @@
+# Giả Kim
+
+## Tổng Quan
+
+type: Hệ Thống Trò Chơi
+
+Giả Kim là phương thức dùng để ghép Nguyên Liệu Bồi Dưỡng Nhân Vật Và Vũ Khí, Nguyên Liệu Đột Phá Vũ Khí, Nguyên Liệu Đột Phá Nhân Vật, Thuốc và Nguyên Liệu Đột Phá Thiên Phú, cũng như một số Đạo Cụ Nhỏ, Mồi Câu. Để chuyển hóa, cần Bụi Biến Đổi và Dung Môi Ảo Mộng.
+
+So với Máy Biến Đổi Tham Số, giới hạn thời gian tái lập chuyển hóa và không thể biết vật phẩm đầu ra là gì, Giả Kim có thể kiểm soát chuyển hóa vật phẩm tốt hơn, cho phép chuyển hóa vật phẩm không giới hạn thời gian và cho ra vật phẩm mong muốn.
+
+Thuật Đất Đen là thuật nâng cao của Giả Kim, được lưu giữ từ cổ quốc đã bị diệt vong Khaenri'ah.
+
+## Tiến Hành Giả Kim
+
+Để tiến hành giả kim cần Đài Ghép.
+
+Để ghép 1 nguyên liệu cấp cao hơn, cần 3 nguyên liệu cấp thấp hơn một bậc và xúc tác bằng Mora. Muốn ghép các vật phẩm cấp cao bị khóa, cần đạt đến Hạng Mạo Hiểm nhất định.
+
+Giả Kim cũng có thể là chế tạo thuốc, thuốc mang hiệu quả kháng nguyên tố hoặc tăng sát thương nguyên tố.
+
+Giả Kim cũng có thể là ghép các vật phẩm giúp ích cho người chơi như Nhựa Cô Đặc, Điểm Dịch Chuyển Bỏ Túi,...
+
+Giả Kim cũng có thể là chuyển hóa. Để chuyển hóa đá đột phá sang loại đá cùng cấp với nguyên tố khác, cần Bụi Biến Đổi. Để chuyển hóa nguyên liệu chỉ rơi ra từ Boss Tuần sang loại nguyên liệu cùng cấp chỉ rơi ra từ Boss Tuần đó, hay chuyển hóa giữa Phôi Bắc Lục và Phôi Trung Địa, cần Dung Môi Ảo Mộng.
+
+- Ghép - Chuyển Hóa - Hoàn Thánh Huyền Bí

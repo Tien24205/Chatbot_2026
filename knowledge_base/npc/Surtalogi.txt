@@ -1,0 +1,22 @@
+# Surtalogi
+
+## Thông Tin Cơ Bản
+
+title: Kỵ Sĩ Cực Ác
+type: NPC Nhiệm Vụ
+region: Khaenri'ah
+voiceCN: Lin Qiang (zh|林强)
+voiceJP: w|Ryōta Takeuchi|Takeuchi Ryōta (竹内良太)
+voiceKR: Lee Min-kyu (ko|이민규)
+
+- Tổng Quan: Surtalogi còn được biết đến là Kỵ Sĩ Cực Ác là một nhân vật được đề cập trong Genshin Impact. Anh là sư phụ của Skirk, chủ nhân của Thôn Tinh Kình Ngư và là một trong "Năm Tội Nhân" của Khaenri'ah.
+
+## Tiểu Sử
+
+Surtalogi được nhắc đến lần đầu bởi Skirk trong.
+
+Surtalogi là sư phụ của Skirk và là chủ nhân của thứ được anh xem là thú cưng Thôn Tinh Kình Ngư. Khi hỏi về việc Surtalogi là loại người như thế nào, Skirk nói rằng anh là một người giống với Rhinedottir và Vedrfolnir, đều "theo đuổi một loại cực hạn nào đó".
+
+Vào thời điểm nào đó, Surtalogi đã lệnh cho Skirk đi tìm vị lữ khách đến từ bên ngoài Teyvat.
+
+- Surtalogi là tên của thanh kiếm sáng hoặc lửa được Fire Jotunn Surtr sử dụng trong Thần thoại Bắc Âu.

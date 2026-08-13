@@ -1,0 +1,32 @@
+# Mondstadt
+
+## Tổng Quan
+
+map: Teyvat
+chapter: Mở Đầu
+element: Phong
+archon: Barbatos
+ideal: Tự Do
+controlling_entity: Đội Kỵ Sĩ Tây Phong
+festival: Lễ Hội Hoa Gió Lễ Đánh Cầu Mùa Gió Rượu Giao Hòa
+
+Mondstadt là một trong bảy quốc gia nằm trên đại lục Teyvat, và là nơi đầu tiên Nhà Lữ Hành đặt chân đến để tìm người thân thất lạc của mình. Nơi đây tôn thờ Phong Thần Barbatos, Thần của Tự Do.
+
+Nhiệm Vụ Ma Thần Mở Đầu diễn ra tại quốc gia này.
+
+## Cách Đến Mondstadt
+
+Mondstadt là địa điểm bắt đầu cho chuyến hành trình của Nhà Lữ Hành trong Genshin Impact, nhưng ngoài các khu vực Vực Sao Rơi, Đồi Phong Tiêu và Cao Nguyên Thương Phong, toàn bộ Teyvat sẽ bị khóa cho đến khi người chơi hoàn thành.
+
+## Từ Nguyên
+
+- Trong tiếng Đức, Mondstadt có nghĩa là "Nguyệt Thành".
+- Bản dịch tiếng Anh chính thức của manga đôi khi viết tắt Mondstadt thành "Mond", cũng là cách nó được dịch sang tiếng Trung, tiếng Nhật và tiếng Hàn.
+
+## Tham Khảo Văn Hóa
+
+- Mondstadt được lấy cảm hứng chủ yếu từ văn hóa Đức và nhiều nền văn hóa Bắc Âu.
+- Văn hóa và cảnh quan Mondstadt gần tương đồng với vùng Rhineland-Palatinate ở Đức - ở đây, văn hóa uống rượu đã phát huy được 2000 năm. Nhiều ngôi làng và thị trấn theo cấu trúc nhà khung gỗ ở vùng này tương tự như những ngôi nhà ở Mondstadt. Cảnh quan của Rhineland sum suê màu xanh của rừng, những ngọn núi thoai thoải đan xen với những vách đá trùng điệp. Ở Rhineland, có thể tìm thấy vườn nho dốc nhất thế giới. Mondstadt cũng có các tàn tích cổ như ở Rhineland, và ở Rhineland, chúng thuộc về nền văn minh La Mã cổ đại.
+- Nhiều nhân vật Mondstadt có tên hoặc danh hiệu (trong bản tiếng Anh) lấy từ tiếng Đức: Klee nghĩa là "cỏ bốn lá"; danh hiệu của Fischl trong bản tiếng Anh, "Prinzessin der Verurteilung", nghĩa là "Công Chúa Định Tội"; danh hiệu của Albedo, "Kreideprinz", nghĩa là "Hoàng Tử Phấn"; họ của Diona, Kätzlein, nghĩa là "Mèo Con".
+- Mondstadt có Lễ Hội Hoa Gió diễn ra vào mùa xuân hàng năm.
+- Phông chữ viết của Mondstadt được sáng tạo dựa vào việc bẻ chữ và đảo ngược chữ Fraktur, loại chữ phổ biến ở Đức từ thời Trung Cổ cho đến trước thế kỷ XXI, có thể thấy trên các ngôi nhà cổ ở Mondstadt.

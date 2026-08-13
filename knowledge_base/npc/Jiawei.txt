@@ -1,0 +1,11 @@
+# Jiawei
+
+## Thông Tin Cơ Bản
+
+type: NPC Đại Thế Giới
+type2: NPC
+region: Liyue
+affiliation: Hội Câu Cá
+title: Thợ Câu Liyue
+
+- Tổng Quan: Jiawei là một NPC xuất hiện tại Cảng Liyue, Liyue.

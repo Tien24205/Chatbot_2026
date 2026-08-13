@@ -1,0 +1,28 @@
+# Sangonomiya Kokomi
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+quality: 5
+weapon: Pháp Khí
+element: Thủy
+name: Sangonomiya Kokomi
+realname: Sangonomiya Kokomi
+birthday: 22 tháng 02
+sex: Nữ
+constellation: Miên Long
+region: Inazuma
+affiliation: Đảo Watatsumi
+affiliation2: Gia tộc Sangonomiya
+affiliation3: Quân Watatsumi
+dish: "Kế Sách Kỳ Diệu"
+namecard: Biển Sâu
+obtain: Sự Kiện Cầu Nguyện Nhân Vật
+event_name: Hồng Châu Trôi Nổi
+releaseDate: 2021-09-21
+title: Trí Tuệ Trân Châu
+title2: Quân Sư
+voiceEN: Risa Mei
+voiceCN: Guiniang (龟娘)
+voiceJP: w|Suzuko Mimori|Suzuko Mimori (三森すずこ)
+voiceKR: Yeo Yun-mi (여윤미)

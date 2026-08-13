@@ -1,0 +1,51 @@
+# Ngoại Hình
+
+## Tổng Quan
+
+type: Hệ Thống Trò Chơi
+group: Thiên Tinh Kỳ Vực
+
+Ngoại Hình là các vật phẩm nhận được từ Thiên Tinh Kỳ Vực, được dùng để tùy chỉnh Người Mẫu Kỳ Vực. Chúng có thể thuộc về một series tương đồng hoặc được gói gọn trong một bộ. Người chơi có thể tùy chỉnh các vật phẩm này trong giao diện Kết Hợp Ngoại Hình.
+
+## Tổng Quan
+
+Ngoại Hình được chia thành các bậc như: Truyền Thuyết, Siêu Việt, Hoành Tráng và Tinh Xảo, tương ứng với phẩm chất 5, 4, 3 và 2 sao. Chúng có thể được nhận từ Ca Tụng và từ nhiều hình thức chơi khác. Danh Mục Ngoại Hình có thể được dùng để chế tạo Ngoại Hình cùng với Nguyên Liệu Rực Rỡ có bậc tương ứng, chẳng hạn như Nguyên Liệu Rực Rỡ - Tinh Xảo.
+
+Ngoại Hình có thể được thêm vào Danh Sách Nguyện Vọng và tặng cho Bạn Bè. Các tùy chỉnh khác nhau có thể được lưu vào Kết Hợp Ngoại Hình. Thiên Phú Sinh Tồn Tư Thế Linh Hoạt của Người Mẫu sẽ ngẫu nhiên chọn một ngoại hình từ các Kết Hợp này và tạm thời thay đổi ngoại hình của họ khi sử dụng Kỹ Năng Nguyên Tố hoặc Kỹ Năng Nộ tại Teyvat.
+
+## Ngoại Hình Mặc Định
+
+Khi thức tỉnh Người Mẫu lần đầu, người chơi phải chọn một trong ba bộ thiết lập sẵn (gồm Trang Phục Trên, Trang Phục Dưới và Giày) thuộc các series "Sao Sáng", "Gió Thoảng" và "Rực Lửa". Sau đó, một danh sách các lựa chọn Ngoại Hình khác từ các series "Hoàn Vũ", "Nhàn Nhã", "Rock&Roll" và "Nhịp Điệu" sẽ được cung cấp cho người chơi, cùng với khả năng tự do kết hợp chúng. Lưu ý rằng, những vật phẩm trong tab Trang Phục không được người chơi chọn sẽ không được trao cho người chơi, cách duy nhất để sở hữu chúng là thông qua banner sự kiện.
+
+## Loại
+
+- Thời Trang
+- Bộ
+- Nhiều Vị Trí
+- Trang Phục Trên
+- Trang Phục Dưới
+- Giày
+- Phụ Kiện Tóc
+- Phụ Kiện Tay
+- Phụ Kiện Chân
+- Phụ Kiện Tai
+- Phụ Kiện Mắt
+- Phụ Kiện Mặt
+- Phụ Kiện Cổ
+- Phụ Kiện Lưng
+- Đồ Treo 1
+- Đồ Treo 2
+- Trang Điểm
+- Kiểu Tóc
+- Lông Mày
+- Viền Mắt
+- Đồng Tử
+- Trang Điểm Mắt
+- Son Môi
+- Trang Điểm Mặt
+- Màu Da
+- Tương Tác
+- Biểu Cảm
+- Động Tác
+- Hiệu Ứng
+- Lồng Tiếng

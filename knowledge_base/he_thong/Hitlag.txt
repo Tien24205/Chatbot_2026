@@ -1,0 +1,37 @@
+# Hitlag
+
+## Tổng Quan
+
+type: Chiến Đấu
+
+Hitlag dùng để chỉ hiện tượng xảy ra khi hầu hết các đòn cận chiến đánh trúng mục tiêu, khi tốc độ của cả người tấn công và thực thể bị tấn công đều chậm lại trong một khoảng thời gian rất ngắn để gây cảm giác về trọng lượng.
+
+Phần lớn các đòn tấn công từ các nhân vật dùng Kiếm Đơn, Vũ Khí Cán Dài, Trọng Kiếm hay Cung khi nhắm bắn đều có thể gây ra hitlag. Phần lớn Kỹ Năng Nộ, Tấn Công Khi Đáp, các đòn đánh xa và các đòn tấn công phạm vi mà không liên quan đến vũ khí cận chiến thì đều không thể gây ra hitlag.
+
+Một số các đòn tấn công từ các nhân vật dùng Pháp Khí cũng có thể gây ra hitlag, ví dụ như đòn tụ lực Kỹ Năng Nguyên Tố Lục Tâm Quyền của Shikanoin Heizou, hay Nội Tại Đột Phá Thứ 4 Pháp Thú Chước Nhãn của Yanfei.
+
+## Thời Gian Kéo Dài
+
+Thời gian kéo dài của hitlag sẽ tùy thuộc vào đòn tấn công và trạng thái của mục tiêu tấn công. Một vài đòn tấn công nhất định có thể kéo dài hitlag khi tấn công kẻ địch mà không phá vỡ cân bằng. Thời gian kéo dài của hitlag không bị ảnh hưởng bởi tốc độ tấn công.
+
+Đối với kẻ địch có chỉ số cân bằng, nếu hitlag của đòn tấn công đó có thể tăng chỉ số cân bằng,
+
+\text{Thời Gian Kéo Dài Hitlag Thực (Giây)} = \text{Thời Gian Kéo Dài Hitlag Tiêu Chuẩn} + 0,06
+
+Nếu hitlag của đòn tấn công đó có thể tăng chỉ số cân bằng hoặc được sử dụng trên kẻ địch đang trong trạng thái bị phá vỡ cân bằng,
+
+\text{Thời Gian Kéo Dài Hitlag Thực (Giây)} = \text{Thời Gian Kéo Dài Hitlag Tiêu Chuẩn}
+
+Thời gian kéo dài của hitlag cũng có thể kéo dài hơn nữ nếu đòn tấn công đánh trúng kẻ địch đang có khiên bảo vệ.
+
+- Hệ Số Nhân Tốc Độ Của Thực Thể: Thông thường hệ số tốc độ khi xảy ra hitlag sẽ nhân với 0,01. Một số đòn tấn công nhất định cũng có thể có hệ số tốc độ nhân với 0,02, 0,03, 0,05 hoặc 0,1.
+
+## Tăng Hitlag
+
+Hệ số nhân tốc độ của thực thể khi xảy ra hitlag sẽ làm tăng thời gian kéo dài của hiệu quả đang diễn ra. Việc tăng thời gian kéo dài của một số hiệu quả nhất định thông qua cách này thường được gọi là Tăng Hitlag. Đáng chú ý, việc này cũng được áp dụng đối với Đính Kèm Nguyên Tố, Chuyển Hóa Nguyên Tố, các trạng thái nguyên tố hoặc đặc biệt cũng như các khoảng thời gian giữa các đòn tấn công kéo dài như Điện Cảm.
+
+## Dragonstrike
+
+Khi người chơi xung kích và nhảy khi đang xảy ra hitlag, nó sẽ khiến cú nhảy cao thêm một chút và giúp nhân vật đạt đủ độ cao để gây ra đòn tấn công khi đáp trên nền đất phẳng. Độ cao của cú nhảy sẽ có thể cao hơn nữa khi có buff tăng tốc độ di chuyển, nhân vật có model cao hơn sẽ thực hiện đòn tấn công này dễ hơn. Người ta thường dùng Dragonstrike để chỉ hành động này.
+
+Dragonstrike hầu hết được thực hiện bằng cách sử dụng các đòn tấn công có thể gây ra hitlag. Tuy nhiên, một số đòn tấn công nhất định như Toàn Vân Khai Tương của Yun Jin không thể loại bỏ hoạt ảnh bằng cách xung kích nên không thể dùng để thực hiện Dragonstrike. Ngoài ra, Kamisato Ayaka không thể thực hiện Dragonstrike bởi Xung Kích Thay Thế của cô hạn chế khả năng nhảy.

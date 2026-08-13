@@ -1,0 +1,38 @@
+# Kamisato Ayaka
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+weapon: Kiếm Đơn
+quality: 5
+element: Băng
+name: Kamisato Ayaka
+birthday: 28 tháng 09
+constellation: Tuyết Hạc
+region: Inazuma
+affiliation: Hiệp Hội Yashiro
+affiliation2: Gia tộc Kamisato
+dish: Lò Hồng Chấm Tuyết
+namecard: Cây Quạt
+obtain: Sự Kiện Cầu Nguyện
+event_name: Bạch Hạc Đình
+releaseDate: 2021-07-21
+title: Bạch Hạc Sương Hoa
+title2: Đại tiểu thư nhà Kamisato thuộc "Hiệp Hội Yashiro"
+voiceEN: w|Erica Mendez
+voiceCN: Xiao N (zh|小N)
+voiceJP: w|Saori Hayami|Hayami Saori (ja|早見 沙織)
+voiceKR: w|ko:이유리_(성우)|Lee Yu-ri (ko|이유리)
+ancestry: Nhà Kamisato
+father: Không tên
+fatherNote: đã chết
+mother: Kamisato Kayo
+motherNote: đã chết
+sibling: Kamisato Ayato
+siblingNote: Anh trai
+
+## Tổng Quan
+
+ là một nhân vật chơi được hệ Băng trong Genshin Impact.
+
+Cô chịu trách nhiệm quản lý các công việc đối nội và đối ngoại của Gia Tộc Kamisato và là em gái của Kamisato Ayato. Xinh đẹp, trang nghiêm và quý phái phù hợp với danh hiệu Shirasagi Himegimi của Ayaka và được coi là hình mẫu lý tưởng tại Inazuma.

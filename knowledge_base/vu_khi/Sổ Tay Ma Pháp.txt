@@ -1,0 +1,25 @@
+# Sổ Tay Ma Pháp
+
+## Thông Tin Cơ Bản
+
+id: 14201
+type: Pháp Khí
+series: 2 Sao
+releaseDate: 2020-09-28
+quality: 2
+base_atk: 33
+obtain: Rương
+obtain2: Điều Tra
+obtain3: Bán bởi Ahangar, Hajime, Lão Zhang và Wagner
+
+- Tổng Quan: Số Tay Ma Pháp là một pháp khí 2 Sao.
+
+## Câu Chuyện
+
+Sách phụ đạo ma đạo lưu hành trong giới học trò, vừa đủ nhét vào trong túi.
+
+Lược bỏ bớt những nguyên lý và tiêu đề không cần thiết, chỉ để lại nội dung quan trọng.
+
+Hiện tại vì bản thứ 12 "Tóm Tắt Ma Pháp" được cải biên không hợp thời.
+
+- Được tìm thấy ngẫu nhiễn trong Rương Thường và Cao Cấp. - Rơi khi tương tác với một số điểm Điều Tra.

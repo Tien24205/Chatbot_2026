@@ -1,0 +1,36 @@
+# Trò Chuyện
+
+## Thông Tin Cơ Bản
+
+type: Hệ Thống Trò Chơi
+group: Giao Diện
+
+- Tổng Quan: Trò Chuyện là Hệ Thống Trò Chơi cho phép người chơi giao tiếp với nhau bằng văn bản và một số biểu tượng cảm xúc. Để trò chuyện với người chơi khác, trước tiên phải được làm Bạn bè.
+
+- Tính Năng Trò Chuyện: Để bắt đầu trò chuyện, người chơi có thể nhấn bên cạnh người trong Danh Sách Bạn bè hoặc nhấn nút Thêm đối tượng Trò chuyện trong giao diện trò chuyện khi truy cập bằng nút Enter (mặc định).
+
+## Xoá Cuộc Trò Chuyện
+
+Có thể ẩn cuộc trò chuyện bằng cách nhấn vào biểu tượng 3 chấm ở trên cùng bên phải của Giao Diện Trò chuyện và nhấn Xóa. Cuộc trò chuyện đã xóa chỉ bị ẩn khỏi danh sách trò chuyện. Bắt đầu cuộc trò chuyện mới với người bạn đó sẽ mở lại cuộc trò chuyện cũ đã xoá.
+
+## Tin Nhắn Soạn Trước
+
+Có nhiều tin nhắn được soạn trước để gửi được xuất hiện trong giao diện trò chuyện.
+- Xin chào!
+- Cứu mạng!
+- Cảm ơn!
+- Thật là đặc sắc!
+- Hãy mời lại tôi!
+- Đợi tôi đổi nhân vật ra trận!
+- Bắt đầu khiên chiến nào!
+- Đến đây!
+
+## Biểu Cảm
+
+Biểu Cảm có thể được gửi trong trò chuyện.Giao Diện Trò chuyện phải mở để xem biểu cảm. Khi đóng lại, biểu cảm được hiển thị ở dạng vắn tắt.
+
+Có thể lưu tối đa 16 Biểu Cảm vào Sưu Tập Biểu Cảm của người chơi để sử dụng nhanh.
+
+- Chế Độ Co-Op: Trong chế độ Co-Op,trò chuyện cho đội sẽ tự động được tạo.
+
+- Sự Kiện: Trong một số sự kiện,một số kiểu trò chuyện khác biệt sẽ xuất hiện. - Lễ Hội Hoa Gió: Trò chuyện khác nhau giữa các đội:Hiệp Sĩ và Thợ Săn.

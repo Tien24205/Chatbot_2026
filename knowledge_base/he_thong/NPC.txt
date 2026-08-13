@@ -1,0 +1,93 @@
+# NPC
+
+## Tổng Quan
+
+type: Nhân Vật
+
+Nhân Vật Không Phải Người Chơi (Non-Player Characters, NPC) là tất cả các nhân vật mà người chơi không thể điều khiển. Nó sẽ bao gồm cả những nhân vật chỉ được nhắc đến cũng như có thể chơi được trong tương lai.
+
+Mặc dù NPC có thể được tương tác trong thế giới mở bất cứ lúc nào, tuy nhiên có những NPC chỉ xuất hiện trong nhiệm vụ hoặc sự kiện, và phân loại là NPC độc quyền nhiệm vụ và độc quyền sự kiện.
+
+Một số NPC thế giới mở có thêm các chức năng bổ sung, chẳng hạn như cho phép người chơi trao đổi vật phẩm, tương tác với hệ thống trò chơi như Danh Vọng, hoặc bắt đầu Khiêu Chiến Hạn Giờ.
+
+Để biết tất cả các NPC, hãy xem NPC/Danh Sách.
+
+## NPC Thương Nhân
+
+Một số NPC đóng vai trò là thương nhân trong cửa hàng và sẽ bán vật phẩm cho người chơi. Hầu hết chúng bổ sung hàng hằng ngày. Danh sách chi tiết về vật phẩm trao đổi có thể tìm thấy trên trang của thương nhân tương ứng.
+
+Một số cửa hàng lớn và thương nhân của chúng sẽ có biểu tượng riêng trên bản đồ. Cửa hàng lớn kiểu này xuất hiện ở mọi khu vực.
+
+- NPC Danh Vọng: Người chơi tương tác với loại NPC này để có thể truy cập menu Danh Vọng Thành Phố tại quốc gia mà họ đứng. Vị trí của chúng được chỉ định bởi biểu tượng trên bản đồ.
+
+- NPC Tìm Kiếm Mỏ Khoáng: Một số NPC có thể dùng để đánh dấu các Mỏ Khoáng chứa mạch Mảnh Ma Tinh hồi vào mỗi 06:00 hằng ngày.
+
+## NPC Thưởng Hội Thoại
+
+Một số NPC sẽ thưởng cho người chơi với một số lựa chọn hội thoại cụ thể khi nói chuyện với chúng, đôi khi sau lựa chọn hội thoại thường. Khi lựa chọn được thực hiện, phần thưởng đặc trưng một lần sẽ được trao và lựa chọn hội thoại đó sẽ biến mất.
+
+## NPC Khiêu Chiến Hạn Giờ
+
+Dandy là NPC ở Liyue sẽ cung cấp khiêu chiến bay tại 4 địa điểm với 3 lần khiêu chiến hạn giờ mỗi địa điểm, cung cấp Rương Thường, Rương Cao Cấp, và Rương Hiếm.
+
+Tiểu Đệ Kujirai là NPC ở Inazuma cung cấp khiêu chiến Temari tại 6 địa điểm. Hoàn thành thành công khiêu chiến Temari ba lần sẽ nhận được Rương Hiếm, và cho phép người chơi lựa chọn khiêu chiến của Temari (trong Chế Độ Nhiều Người Chơi) một cách tự do tại một trong các địa điểm.
+
+## NPC Sự Kiện
+
+Đây là những nhân vật sẽ tham gia vào sự kiện không cốt truyện và thường là nhân vật đại diện cho sự kiện đó. Một số chúng có thể tương tác để truy cập menu nhất định.
+
+Để có danh sách đầy đủ NPC độc quyền sự kiện, xem:Thể loại:NPC Độc Quyền Sự Kiện.
+
+## Diễn Viên Lồng Tiếng
+
+- Một số NPC và nhân vật chơi được có chung diễn viên lồng tiếng tiếng Anh
+- Alejandro Saab (Cyno) lồng tiếng cho Lao Ke, Vlad, và Zhihua.
+- Amber May (Dehya) lồng tiếng cho Cui'er, Hertha, Myweiss, Sansa, và Yu.
+- Anairis Quiñones (Lynette) lồng tiếng cho Furong, Huixing, Luoxia, và Qiu'ge.
+- Anjali Kunapaneni (Dori) lồng tiếng cho Etsu, Izumi Naki, Momoko, và Riku.
+- Anne Yatco (Raiden Shogun) lồng tiếng cho Hiiragi Chisato, Kaede, Mahiru, Matsuzaka, Shouta, và Yayoi Nanatsuki.
+- Christian Banas (Thoma) lồng tiếng cho Ben, Bro Huang, Crafty, Huaqing, Tiancheng, và Yang.
+- Christie Cate (Qiqi) lồng tiếng cho Blanche, Lynn, Marla, Patchi Hiếu Kì, Qiming, Victoria, và đáng chú ý là Người duy trì Thiên Lý.
+- Cory Yee (Gorou) lồng tiếng cho Học Sĩ Vực Sâu - Tử Điện, Draff, Farrah, Huffman, Liuliu, và Jose Sáu Ngón.
+- Daman Mills (Lyney) lồng tiếng cho Athos, Kasala, Ryuuji, và Tejima.
+- Erica Mendez (Kamisato Ayaka) lồng tiếng cho Beatrice, Jifang, Katheryne, Marjorie, và Timmie.
+- Erika Harlacher (Venti) lồng tiếng cho Ekaterina.
+- Felecia Angelle (Mona) lồng tiếng cho Lan và Mumu (ký ức).
+- Jennifer Losi (Ganyu) lồng tiếng cho Glory, Hillie, Jilliana, Wu (Hồi ức), Susie, và Vile.
+- Laura Stahl (Barbara và Xinyan) lồng tiếng cho Grace và Dusky Ming.
+- Lizzie Freeman (Yanfei) lồng tiếng cho Teucer.
+- Nazeeh Tarsha (Alhaitham) lồng tiếng cho Konda Densuke.
+- Sean Chiplock (Diluc) lồng tiếng cho Cyrus và Wagner.
+- Zach Aguilar (Aether) lồng tiếng cho Tước Nguyệt Trúc Dương Chân Quân.
+
+## Hành Vi
+
+- Phần lớn Thiên Phú được thực hiện gần NPC sẽ khiến chúng sợ hãi. (Vị trí "đáp xuống" của thiên phú và sát thương của nhân vật không quan trọng; điều quan trọng là khoảng cách của nhân vật đối với NPC khi sử dụng thiên phú). Tuy nhiên, có một số Thiên Phú nhất định sẽ khiến NPC vỗ tay. Dưới đây là danh sách các Thiên Phú kích hoạt vỗ tay:
+- Amber: Con Rối Nổ
+- Baizhu: Châm Cứu Mạ Vàng (chỉ Tấn Công Thường và Trọng Kích), Chẩn Đoán Phổ Quát, Trị Liệu Toàn Thư
+- Barbara: Giọng Ca Của Nước (chỉ Tấn Công Thường và Trọng Kích), Buổi Diễn, Bắt Đầu♪, Kỳ Tích Vinh Diệu♪
+- Bennett: Hành Trình Kỳ Diệu
+- Charlotte: Ảnh Tĩnh - Xác Nhận Toàn Diện
+- Diona: Móng Mèo Lạnh Giá
+- Faruzan: Lối Đi Riêng Của Gió
+- Fischl: Cánh Chim Đêm, Ảo Ảnh Bóng Đêm
+- Furina: Salon Cô Độc (chỉ phiên bản )
+- Gorou: Trận Hình Phòng Thủ - Inuzaka
+- Jean: Gió Bồ Công Anh
+- Kamisato Ayaka: Trường Phái Kamisato - Senho
+- Klee: Bom Nảy, Tia Lửa Mãnh Liệt
+- Layla: Đêm Ngon Giấc, Giấc Mộng Giường Ánh Sao
+- Lynette: Thủ Thuật Che Mắt
+- Mona: Điểm Hóa Nhân Quả (chỉ Tấn Công Thường và Trọng Kích), Ảo Vọng Dưới Nước, Quỹ Đạo Tinh Mệnh, Dòng Chảy Ảo
+- Nahida: Akara (chỉ Tấn Công Thường và Trọng Kích), Lắng Nghe Thế Gian, Ảo Ảnh Tâm Can
+- Ningguang: Vách Toàn Cơ
+- Sangonomiya Kokomi: Hình Dạng Nước Trong (chỉ Tấn Công Thường và Trọng Kích), Lời Thề Kurage, Nghi Lễ Nereid
+- Xiangling: Guoba Xuất Kích
+- Xingqiu: Guoba Xuất Kích
+- Yaoyao: Máy Ném Củ Cải
+- Yoimiya: Điệu Nhảy Niwabi Cháy Bỏng, Cỏ Ryuukin
+- Nếu người chơi chặn đường của NPC đang đi lại trong khoảng thời gian nhất định (ví dụ: sử dụng tạo vật tạo ra từ Kỹ Năng Nguyên Tố), chúng sẽ biến mất để hồi sinh ở một vị trí khác để tiếp tục lộ trình của mình.
+- Một vài NPC như Marla và Glory ngồi trên băng ghế tại các địa điểm ngoài thế giới. Người chơi có thể điều khiển cách chúng hồi sinh:
+- Nếu một chỗ trên băng ghế mà NPC thường ngồi bị chiếm, chúng sẽ xuất hiện ở một chỗ khác.
+- Nếu tất cả vị trí trên băng ghế được sử dụng, NPC sẽ xuất hiện trước băng ghế và đứng. Khi có chỗ trống, chúng sẽ ngồi vào chỗ đó.
+- NPC trên quãng đường của mình sẽ có thể dừng lại tại một số vị trí nhất định trong một khoảng thời gian nhất định trước khi tiếp tục di chuyển. Ví dụ về NPC như vậy là Schulz. Khoảng dừng ở một vị trí nhất định của nó sẽ không tạm dừng khi thời gian của game bị tạm dừng.

@@ -1,0 +1,30 @@
+# Skirk
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+quality: 5
+weapon: Kiếm Đơn
+element: Băng
+elementNote: Thất Biến Xà
+name: Skirk
+birthday: 05 tháng 11
+constellation: Lân Tinh
+affiliation: Kiếp Nạn Vũ Trụ
+dish: "Quà Từ Vực Tối"
+namecard: Bóng Dáng Cô Độc
+obtain: Cầu Nguyện Nhân Vật
+event_name: Ánh Sao Ngang Qua
+releaseDate: 2025-06-18 11:00:00 GMT+8
+title: Ánh Sao Hư Không
+title2: Đồ Đệ Tội Nhân, Sư Phụ Fatui
+voiceEN: [[imdb:nm11767862
+voiceCN: Xie Ying (zh|谢莹)
+voiceJP: w|Mamiko Noto|Noto Mamiko (ja|能登麻美子)
+voiceKR: w|ko:서다혜|Seo Dahye (ko|서다혜)Youtube: 원신
+
+## Tổng Quan
+
+Skirk là một nhân vật hệ Băng chơi được trong Genshin Impact.
+
+Cô là kiếm khách thần bí, người từng là sư phụ của Tartaglia trong thời gian anh ở Vực Sâu và là đệ tử của Surtalogi, một trong "Năm Tội Nhân" của Khaenri'ah.

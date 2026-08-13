@@ -1,0 +1,34 @@
+# Chòm Sao
+
+## Thông Tin Cơ Bản
+
+type: Nguyên Liệu Kích Hoạt Cung Mệnh
+type2: Chòm Sao
+type3: Nhóm Vật Phẩm
+source1: Cầu Nguyện
+source2: Cửa Hàng (chỉ dành cho 4 sao)
+source3: Sự Kiện
+
+- Tổng Quan: Chòm Sao là những vật phẩm Nguyên Liệu Kích Hoạt Cung Mệnh được sử dụng để kích hoạt Cung Mệnh của các Nhân Vật Chơi Được, ngoại trừ Nhà Lữ Hành.
+
+## Cách Nhận
+
+Người Chơi có thể nhận một Chòm Sao của nhân vật bằng cách nhận được nhân vật đó lần nữa từ Cầu Nguyện.
+
+Chòm Sao dành cho nhân vật 4 sao có thể nhận bằng nhiều cách khác nhau chẳng hạn như mua nhân vật từ Cửa Hàng Của Paimon hoặc thông qua Sự kiện.
+
+Trong trường hợp của Aloy, Chòm Sao vẫn tồn tại trong phần Cung Mệnh của cô ấy, mặc dù hiện tại không thể nhận được nó.
+
+## Sử Dụng
+
+Vì một nhân vật có 6 tầng Cung Mệnh, nên Chòm Sao chỉ có thể nhận được tổng cộng 6 lần cho mỗi nhân vật, nghĩa là có thể nhận được một nhân vật 7 lần. Việc nhận thêm các bản sao của một nhân vật thông qua Cầu Nguyện sẽ làm tăng số lượng Tinh Huy Vô Chủ nhận được từ 2 lên 5 đối với nhân vật 4 sao và từ 10 lên 25 đối với nhân vật 5 sao, cùng với một Chòm Sao Vô Chủ.
+
+Mỗi nhân vật đều có phiên bản Chòm Sao của riêng họ. Mặc dù có chung biểu tượng, nhưng các Chòm Sao có cùng độ hiếm không thể được dùng thay thế cho nhau (ví dụ: Chòm Sao của Diluc không thể dùng để mở khóa tầng Cung Mệnh của Klee và ngược lại), cũng như không tồn tại phiên bản Chòm Sao nào có thể áp dụng cho mọi nhân vật.
+
+Với Nhà Lữ Hành, nguyên liệu kích hoạt cung mệnh là Ký Ức.
+
+## Cốt Truyện
+
+Chòm Sao là những thiên thể thực sự trên bầu trời Teyvat. Chúng tạo thành các Cung Mệnh liên kết với những người sử dụng Vision.
+
+Trong Ngôi Sao Vụt Tắt Chưa Trở Về, Chòm Sao trong cung mệnh của Leonard đã rơi xuống từ bầu trời dưới dạng thiên thạch, nhưng nguyên nhân của hiện tượng này vẫn còn là bí ẩn. Những thiên thạch này được tìm thấy chứa năng lượng nguyên tố đậm đặc, kèm theo tinh thần và ký ức của chính Leonard. Dù chưa có xác nhận, nhưng rất có thể tất cả các Chòm Sao đều mang tính chất này.

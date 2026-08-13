@@ -1,19 +1,19 @@
 """
 GraphRAG — tầng đồ thị tri thức đặt cạnh tầng vector.
 
-VÌ SAO CẦN, khi vector search đã đạt recall@1 = 100% (đo ở 03_eval_retrieval.py
-trên bản knowledge base 4 tài liệu, chưa đo lại sau khi mở rộng lên 10)?
+VÌ SAO CẦN, khi vector search đã đạt recall@5 = 88% (đo ở 03_eval_retrieval.py
+trên knowledge base wiki Genshin, 2.848 chunk)?
 
-Vì recall 100% đó đo trên các câu hỏi ĐƠN, tự đủ nghĩa. Đo thực tế ở Milestone 5,
-truy hồi thuần vector hỏng đúng ở hai chỗ:
+Vì recall đó đo trên các câu hỏi ĐƠN, tự đủ nghĩa. Đo thực tế ở Milestone 5 (trên
+KB cũ — ví dụ dưới đã đổi theo KB hiện tại, cơ chế hỏng thì không đổi), truy hồi
+thuần vector hỏng đúng ở hai chỗ:
 
-  1. Câu nối tiếp: sau khi hỏi Baron Nashor, câu "Còn Liên Quân thì sao?" truy hồi
-     ra Tổng quan / Xếp hạng / Giải đấu và TRƯỢT chunk "Mục tiêu trung lập" — đúng
-     chỗ chứa Rồng Bạo Chúa. Cách chữa hiện tại là gọi LLM viết lại câu hỏi,
-     tốn ~7 giây và một lượt gọi API mỗi lần.
-  2. Câu so sánh chéo game: "Liên Quân có con nào giống Baron Nashor không?".
-     Vector chỉ trả về các chunk GIỐNG câu hỏi về mặt từ ngữ, mà "Baron Nashor" và
-     "Thần Rừng" không hề giống nhau về từ ngữ — chúng chỉ giống nhau về VAI TRÒ.
+  1. Câu nối tiếp: sau khi hỏi về Khuếch Tán, câu "Còn Kết Tinh thì sao?" tự nó
+     không chứa từ khoá nào của chủ đề nên truy hồi trượt trang Kết Tinh. Cách
+     chữa hiện tại là gọi LLM viết lại câu hỏi, tốn một lượt gọi API mỗi lần.
+  2. Câu so sánh: "có vũ khí nào cùng loại với Kiếm Sắt Đen không?". Vector chỉ
+     trả về các chunk GIỐNG câu hỏi về mặt từ ngữ, mà "Kiếm Sắt Đen" và "Ánh Trăng
+     Xiphos" không hề giống nhau về từ ngữ — chúng chỉ giống nhau về VAI TRÒ.
 
 Cả hai đều là quan hệ giữa các thực thể, không phải độ tương đồng văn bản. Vector
 không biểu diễn được quan hệ; đồ thị thì có.
@@ -58,9 +58,9 @@ class Entity:
         """
         Định danh duy nhất. PHẢI kèm tên tài liệu, không được dùng riêng tên.
 
-        "Đường Giữa" tồn tại trong CẢ Liên Minh lẫn Liên Quân, và là hai thực thể
-        khác nhau (khác vai trò, khác định nghĩa, thuộc hai game). Gộp chúng theo
-        tên sẽ nuốt mất một bên cùng toàn bộ cạnh của nó.
+        "Tinh Luyện" tồn tại trong HÀNG TRĂM trang vũ khí, và ở mỗi trang nó là
+        một thực thể khác nhau (hiệu ứng khác, định nghĩa khác). Gộp chúng theo
+        tên sẽ nuốt mất tất cả trừ một, cùng toàn bộ cạnh của chúng.
         """
         return f"{self.source_name}#{self.name.lower()}"
 
@@ -81,7 +81,7 @@ class Edge:
 # Giới hạn phần tên ở 60 ký tự để câu văn xuôi có dấu hai chấm giữa dòng
 # không bị nhận nhầm thành định nghĩa.
 _DEFINITION = re.compile(_BULLET.pattern + r"([^:\n]{2,60}?)\s*:\s*(.+)$")
-# Bí danh trong ngoặc: "Sứ Giả Khe Nứt (Rift Herald)", "Xạ thủ (ADC / Bot)".
+# Bí danh trong ngoặc: "Durin (NPC)", "Hoàng Ngọc Cứng (Nhóm)".
 _PAREN = re.compile(r"^(.*?)\s*\(([^)]+)\)\s*$")
 
 # Phần văn xuôi bám đuôi tên: "Thánh Di Vật (Artifact), gồm năm vị trí: ..." —
@@ -93,15 +93,41 @@ _PROSE_TAIL = re.compile(r",\s+(?=[^A-ZĐÀ-Ỹ0-9])")
 # bắt nhầm khắp nơi) — bỏ qua để tránh nhiễu.
 MIN_SURFACE_LEN = 3
 
+# Vai trò có quá nhiều thực thể thì không còn phân biệt được gì.
+#
+# Cạnh `tương_tự` nối ĐÔI MỘT mọi thực thể cùng vai trò khác tài liệu, nên chi phí
+# là bậc hai. Với knowledge base cào từ wiki (mỗi bài một file), nhóm "NPC Nhiệm
+# Vụ" có 185 thực thể -> ~17.000 cạnh, mà "cùng là NPC nhiệm vụ" chẳng nói lên
+# điều gì về quan hệ giữa hai NPC cụ thể. Đây đúng là lý do "khái niệm" bị loại
+# từ đầu, chỉ khác là giờ đo được bằng số.
+#
+# Đặt 60 sau khi ĐO trên knowledge base thật (895 trang wiki Genshin):
+#   giữ  — Kiếm Đơn 53, Pháp Khí 52, Cung 47, Vũ Khí Cán Dài 40, Khu Vực 19,
+#          nguyên tố 18  -> "hai vũ khí cùng loại" là quan hệ dùng được
+#   loại — khái niệm 992, chủ đề 285, Chơi Được 118, NPC Nhiệm Vụ 78
+#          -> "hai nhân vật cùng là nhân vật chơi được" không nói lên điều gì
+MAX_SIMILAR_GROUP = 60
+
+# Cạnh đồng xuất hiện chỉ giữ khi hai thực thể gặp nhau ở NHIỀU HƠN một chunk.
+# Gặp nhau đúng một lần thường là trùng hợp; giữ lại thì số cạnh phình theo số
+# chunk mà không thêm thông tin.
+MIN_COOCCURRENCE = 2
+
+# Dòng `type: Chơi Được` do 09_fetch_fandom.py sinh từ infobox. Với tài liệu wiki,
+# đây là tín hiệu vai trò tốt hơn hẳn tiêu đề mục: tiêu đề mục của wiki là
+# "Tổng Quan", "Mô Tả", "Câu Chuyện" — không nói gì về việc trang đó nói về cái gì.
+_INFOBOX_TYPE = re.compile(r"^\s*type\s*:\s*(.+?)\s*$", re.IGNORECASE | re.MULTILINE)
+
 # Tiêu đề mục -> loại thực thể. Loại là thứ tạo ra cạnh `tương_tự` giữa các game,
 # nên nó phải phản ánh VAI TRÒ chứ không phải tên riêng.
 _KIND_RULES: tuple[tuple[str, str], ...] = (
     ("mục tiêu", "mục tiêu trung lập"),
-    # PHẢI đứng trước hai luật "vị trí"/"bản đồ" bên dưới. Trong game bắn súng và
-    # sinh tồn, "bản đồ" là cả một đấu trường (Ascent, Bermuda); trong MOBA, mục
-    # bản đồ lại liệt kê các ĐƯỜNG (Đường giữa, Đường Rồng). Gộp hai thứ vào cùng
-    # vai trò thì đồ thị sinh ra cạnh vô nghĩa — đo được: "Xạ thủ" bị nối
-    # `tương_tự` với "Ascent" chỉ vì cả hai nằm dưới mục có chữ "bản đồ".
+    # PHẢI đứng trước hai luật "vị trí"/"bản đồ" bên dưới. Bài học đo trên KB cũ
+    # (nhiều game, còn trên branch main): "bản đồ" của game bắn súng là cả một đấu
+    # trường, "bản đồ" của MOBA lại liệt kê các ĐƯỜNG — gộp vào cùng vai trò thì
+    # đồ thị sinh cạnh `tương_tự` vô nghĩa giữa hai thứ chỉ chung mỗi chữ "bản đồ".
+    # Với KB wiki Genshin, kind chủ yếu lấy từ dòng `type:` của infobox; các luật
+    # theo tiêu đề mục ở đây là lưới dự phòng, luật không khớp thì không gây hại.
     ("đấu trường", "bản đồ thi đấu"),
     ("vị trí", "vị trí"),
     ("bản đồ", "vị trí"),
@@ -129,7 +155,7 @@ def _kind_of_section(section: str) -> str:
 
 
 def _split_alias(raw: str) -> tuple[str, list[str]]:
-    """"Xạ thủ (ADC / Bot)" -> ("Xạ thủ", ["ADC", "Bot"])."""
+    """"Durin (NPC)" -> ("Durin", ["NPC"])."""
     raw = _PROSE_TAIL.split(raw.strip(), maxsplit=1)[0]
     m = _PAREN.match(raw.strip())
     if not m:
@@ -162,8 +188,14 @@ def extract(docs: list[Document]) -> tuple[list[Entity], list[Edge]]:
                 if level == 1 and not doc_title:
                     doc_title = title
                     name, aliases = _split_alias(title)
-                    # Tài liệu có mục "Tổng quan" là một game; file thuật ngữ thì không.
-                    kind = "game" if "## Tổng quan" in doc.text else "chủ đề"
+                    # Ưu tiên vai trò lấy từ infobox (tài liệu wiki), sau đó mới
+                    # tới luật cũ cho knowledge base viết tay.
+                    m_type = _INFOBOX_TYPE.search(doc.text)
+                    if m_type:
+                        kind = m_type.group(1)
+                    else:
+                        # Tài liệu có mục "Tổng quan" là một game; file thuật ngữ thì không.
+                        kind = "game" if "## Tổng quan" in doc.text else "chủ đề"
                     doc_entity = Entity(
                         name=name,
                         kind=kind,
@@ -199,11 +231,17 @@ def extract(docs: list[Document]) -> tuple[list[Entity], list[Edge]]:
             if doc_entity is not None:
                 edges.append(Edge(ent.key, doc_entity.key, "thuộc_về"))
 
+        # Với tài liệu wiki, thực thể đáng kể của cả trang chính là TIÊU ĐỀ TRANG
+        # (Nahida, Bạch Hồ Đông Vũ). Phải đưa nó vào by_kind thì cạnh `tương_tự`
+        # mới nối được "các Kiếm Đơn" hay "các nhân vật chơi được" với nhau.
+        if doc_entity is not None:
+            by_kind[doc_entity.kind].append(doc_entity)
+
     # Cạnh `tương_tự`: cùng vai trò nhưng khác tài liệu.
-    # Đây là cạnh mà vector search KHÔNG thể thay thế — Baron Nashor và Thần Rừng
-    # không giống nhau một chữ nào, chúng chỉ cùng là "mục tiêu trung lập".
+    # Đây là cạnh mà vector search KHÔNG thể thay thế — "Kiếm Sắt Đen" và "Ánh
+    # Trăng Xiphos" không giống nhau một chữ nào, chúng chỉ cùng là Kiếm Đơn.
     for kind, group in by_kind.items():
-        if kind == "khái niệm":
+        if kind == "khái niệm" or len(group) > MAX_SIMILAR_GROUP:
             continue  # quá rộng, nối tất cả với tất cả thì thành nhiễu
         for i, a in enumerate(group):
             for b in group[i + 1 :]:
@@ -231,14 +269,14 @@ class Lexicon:
     """
     Bộ dò tên thực thể trong văn bản, khớp cụm DÀI TRƯỚC.
 
-    Bắt buộc khớp dài trước: "Rồng" là một thực thể, nhưng "Rồng Ngàn Tuổi" và
-    "Rồng Bạo Chúa" cũng vậy. Nếu quét theo thứ tự tuỳ ý thì câu về Rồng Ngàn Tuổi
-    sẽ bị tính là nhắc tới Rồng (một thực thể khác hẳn), kéo theo cả cụm chunk sai.
+    Bắt buộc khớp dài trước: "Băng" là một thực thể, nhưng "Đóng Băng" và
+    "Phá Băng" cũng vậy. Nếu quét theo thứ tự tuỳ ý thì câu về Đóng Băng sẽ bị
+    tính là nhắc tới Băng (một thực thể khác hẳn), kéo theo cả cụm chunk sai.
     """
 
     def __init__(self, entities: list[Entity]):
-        # Một chuỗi có thể trỏ tới NHIỀU thực thể: "Đường Giữa" có ở cả hai game.
-        # Giữ tất cả, để bên gọi tự quyết định lọc theo game hay không.
+        # Một chuỗi có thể trỏ tới NHIỀU thực thể: "Tinh Luyện" có ở hàng trăm
+        # trang vũ khí. Giữ tất cả, để bên gọi tự quyết định lọc hay không.
         by_surface: dict[str, list[Entity]] = defaultdict(list)
         for e in entities:
             for s in e.surfaces:
@@ -247,6 +285,23 @@ class Lexicon:
 
         self._entities = {e.key: e for e in entities}
         self._by_surface = by_surface
+
+        # Bản ĐẠI DIỆN cho mỗi chuỗi: một lần khớp trong văn bản chỉ được tính là
+        # MỘT lượt nhắc tới, không phải một lượt cho mỗi tài liệu có định nghĩa.
+        #
+        # Không có bước này thì đồ thị nổ tung khi knowledge base nhiều file: tên
+        # như "Thánh Di Vật" được định nghĩa lại trong hàng chục trang wiki, nên
+        # một lần khớp sinh ra hàng chục mention. Đo được trên KB 1.123 file:
+        # 819.475 lượt nhắc / 2.848 chunk = 288 thực thể mỗi chunk, và 871.294
+        # cạnh đồng xuất hiện — đồ thị nối tất cả với tất cả, tức vô nghĩa.
+        #
+        # Ưu tiên thực thể của CHÍNH TRANG đó (definition rỗng = sinh từ dòng
+        # `# Tiêu đề`): trang "Thánh Di Vật" mới là chủ sở hữu tự nhiên của cái
+        # tên, các trang khác chỉ nhắc lại nó.
+        self._canonical: dict[str, Entity] = {}
+        for surface, group in by_surface.items():
+            own_page = next((e for e in group if e.definition == ""), None)
+            self._canonical[surface] = own_page or group[0]
         self._patterns: list[tuple[re.Pattern, str]] = [
             # Biên từ theo Unicode: \w trong Python đã bao gồm chữ tiếng Việt.
             (re.compile(rf"(?<!\w){re.escape(s)}(?!\w)", re.IGNORECASE), s)
@@ -276,13 +331,18 @@ class Lexicon:
         return out
 
     def find_keys(self, text: str) -> list[str]:
-        """Như find() nhưng trả khoá định danh — phân biệt được hai game."""
+        """
+        Như find() nhưng trả khoá định danh, MỘT khoá cho mỗi chuỗi khớp được.
+
+        Cố tình không trả mọi thực thể trùng tên: xem giải thích ở `_canonical`.
+        Bên cần đủ mọi bản (ví dụ kiểm chứng grounding) thì dùng find().
+        """
         seen, out = set(), []
         for surface in self._matches(text):
-            for e in self._by_surface[surface]:
-                if e.key not in seen:
-                    seen.add(e.key)
-                    out.append(e.key)
+            e = self._canonical[surface]
+            if e.key not in seen:
+                seen.add(e.key)
+                out.append(e.key)
         return out
 
 
@@ -295,8 +355,8 @@ class Lexicon:
 SCHEMA = """
 CREATE TABLE IF NOT EXISTS graph_entities (
     id          BIGSERIAL PRIMARY KEY,
-    -- khoá "<tài liệu>#<tên viết thường>": tên KHÔNG duy nhất giữa các game,
-    -- "Đường Giữa" có ở cả Liên Minh lẫn Liên Quân và là hai thực thể khác nhau.
+    -- khoá "<tài liệu>#<tên viết thường>": tên KHÔNG duy nhất giữa các tài liệu,
+    -- "Tinh Luyện" có ở hàng trăm trang vũ khí và mỗi trang là một thực thể riêng.
     key         TEXT NOT NULL UNIQUE,
     name        TEXT NOT NULL,
     kind        TEXT NOT NULL,
@@ -390,7 +450,9 @@ def build(conn: psycopg.Connection, docs: list[Document]) -> dict:
                     cooc[(a, b) if a < b else (b, a)] += 1
 
         all_edges = list(edges) + [
-            Edge(a, b, "đồng_xuất_hiện", float(w)) for (a, b), w in cooc.items()
+            Edge(a, b, "đồng_xuất_hiện", float(w))
+            for (a, b), w in cooc.items()
+            if w >= MIN_COOCCURRENCE
         ]
         cur.executemany(
             """

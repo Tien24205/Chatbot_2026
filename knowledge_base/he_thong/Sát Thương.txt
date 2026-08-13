@@ -1,0 +1,242 @@
+# Sát Thương
+
+## Tổng Quan
+
+type: Chiến Đấu
+type2: Hệ Thống Trò Chơi
+
+Khi nhân vật hoặc kẻ địch tấn công mục tiêu, sát thương sẽ được gây ra dựa trên chỉ số của cả hai bên tấn công và mục tiêu.
+
+Có tổng cộng tám loại sát thương, trong đó có bảy loại gọi chung là Sát Thương Nguyên Tố, loại còn lại là Sát Thương Vật Lý.
+
+Sát thương của một đòn đánh không thể vượt quá 20.000.000.
+
+## Công Thức Sát Thương Tổng Quát
+
+Với sát thương tạo thành Thiên Phú, Cung Mệnh, hiệu quả Vũ Khí, và đòn đánh của kẻ địch, công thức tính sát thương sẽ bao gồm:
+- Tấn Công, Phòng Ngự, Giới Hạn HP hoặc Tinh Thông Nguyên Tố, tùy vào chiêu thức
+- Bội số của chiêu thức đó
+- Bội Số Sát Thương Cơ Bản
+- Tăng Sát Thương Cơ Bản
+- Tăng Sát Thương
+- Phòng Ngự (của mục tiêu)
+- Kháng Sát Thương (của mục tiêu)
+- Giảm Sát Thương (của mục tiêu)
+- Phản Ứng Khuếch Đại
+- Đòn Đánh Bạo Kích
+
+Sát Thương được tính như sau
+\begin{align} \text{Sát Thương} ={} & \big( \Sigma (\text{Sát Thương Cơ Bản} \times \text{Bội Số Sát Thương Cơ Bản}) + \text{Tăng Sát Thương Cơ Bản}\big) \\ & \times \text{Bội Số Tăng Sát Thương} \\ & \times \text{Bội Số Phòng Ngự}_\text{Mục Tiêu} \times \text{Bội Số Kháng Sát Thương}_\text{Mục Tiêu} \\ & \times \text{Bội Số Khuếch Đại} \end{align}
+
+Nếu sát thương tạo thành bạo kích, Sát Thương Bạo Kích sẽ được thêm vào công thức:
+\text{Sát Thương}_\text{Bạo Kích} = \text{Sát Thương} \times (1 + \%\text{Sát Thương Bạo Kích})
+
+## Sát Thương Cơ Bản
+
+Sát Thương Cơ Bản là lượng sát thương được tính bởi Bội Số Sát Thương của chiêu thức nhân với chỉ số tương ứng, khi chưa tính đến những bội số khác ảnh hưởng đến sát thương.
+
+Chiêu thức sẽ dựa vào chỉ số Tấn Công, trừ khi có quy định khác. Một số chiêu thức có thể dựa vào nhiều hơn 1 chỉ số.
+\text{Sát Thương Cơ Bản} = \begin{cases}
+
+\% \text{Kỹ Năng} \times \text{Tấn Công} & \text{nếu kỹ năng dựa vào Tấn Công}\\
+
+\% \text{Kỹ Năng} \times \text{Phòng Ngự} & \text{nếu kỹ năng dựa vào Phòng Ngự}\\
+
+\% \text{Kỹ Năng} \times \text{Giới Hạn HP} & \text{nếu kỹ năng dựa vào Giới Hạn HP}\\
+
+\% \text{Kỹ Năng} \times \text{Tinh Thông Nguyên Tố} & \text{nếu kỹ năng dựa vào Tinh Thông Nguyên Tố}
+
+\end{cases}
+
+## Bội Số Sát Thương Cơ Bản
+
+Bội Số Sát Thương Cơ Bản được nhân trực tiếp với Sát Thương Cơ Bản. Chúng đến từ:
+- - ===Tăng Sát Thương Cộng Cơ Bản===
+Tăng Sát Thương Cơ Bản là lượng sát thương cố định được thêm vào Sát Thương Cơ Bản.
+
+Chúng đến từ:
+- Các Phản Ứng Nguyên Tố Lan Tràn và Tăng Cường
+- - - - ===Tăng Sát Thương===
+
+Tăng Sát Thương là mọi loại hiệu ứng tăng sát thương dưới dạng phần trăm, bao gồm Tăng Sát Thương Vật Lý và Nguyên Tố được liệt kê ở bảng thông số, cùng với các dạng tăng sát thương phần trăm đặc biệt khác ảnh hưởng lên Tấn Công Thường/Trọng Kích/Tấn Công Khi Đáp, Kỹ năng Nguyên Tố, Kỹ năng Nộ, mọi sát thương,... Giảm Sát Thương của mục tiêu sẽ giảm hiệu ứng Tăng Sát Thương.
+\text{Bội Số Tăng Sát Thương} = (1 + \text{Tăng Sát Thương} - \text{Giảm Sát Thương}_\text{Mục Tiêu})
+
+## Phòng Ngự
+
+Phòng Ngự, hay DEF, sẽ giảm lượng sát thương nhận vào dựa trên công thức sau:
+\text{Giảm Sát Thương Từ Phòng Ngự}=\frac{\text{DEF{\text{DEF} + 5 \times \text{Cấp Độ}_\text{Chủ Thể Tấn Công} + 500}
+Sát thương nhận vào sẽ nhân với
+\text{Bội Số Phòng Ngự}=1 - \text{Giảm Sát Thương Từ Phòng Ngự}
+Ngoài ra, với riêng kẻ địch:
+- Phòng Ngự của kẻ địch là:
+\text{DEF}_\text{Kẻ Địch} = 5 \times \text{Cấp Độ}_\text{Kẻ Địch} + 500
+- Bội Số Phòng Ngự của kẻ địch có thể được tính là:
+\text{Bội Số Phòng Ngự} = \frac{\text{Cấp Độ}_\text{Nhân Vật} + 100}
+ {k \; (\text{Cấp Độ}_\text{Kẻ Địch} + 100) + (\text{Cấp Độ}_\text{Nhân Vật} + 100)}
+:với k = \left[ 1 - \% \text{ Giảm Phòng Ngự} \right] \left[ 1 - \% \text{ Bỏ Qua Phòng Ngự} \right]
+
+## Kháng Sát Thương
+
+Mỗi mục tiêu có Kháng Sát Thương, hay RES khác nhau đối với Sát Thương Nguyên Tố và Vật Lý. Có nhiều cách để tăng hoặc giảm kháng sát thương. Gọi RES là chỉ số kháng sát thương thật sự. Công thức của nó là:
+\%\text{RES} = \%\text{RES Cơ Bản} + \%\text{RES Tăng} - \% \text{RES Giảm}
+Bội số Kháng Sát Thương biến thiên phi tuyến tính với phần trăm Kháng Sát Thương. Dựa trên giá trị của \% \text{ RES} ở các khoảng nhất định mà \text{Bội Số Kháng Sát Thương} tương ứng sẽ có cách tính như sau:
+Ví dụ, một kẻ địch với 10% RES (hay 0,1) sẽ có 1 - 0,1 = 0,9 Bội Số Kháng Sát Thương.
+
+Bảng thông số kháng sát thương của kẻ địch nằm tại Kháng Sát Thương#Kháng Sát Thương Cơ Bản Của Kẻ Địch.
+
+## Sát Thương Phản Ứng Nguyên Tố
+
+Phản Ứng Nguyên Tố có thể chia thành 3 nhóm:
+- Phản Ứng Chuyển Hóa sẽ gây thêm sát thương nguyên tố, và được tính riêng.
+- Phản Ứng Khuếch Đại sẽ tăng sát thương bằng cách thêm một bội số sát thương ("Bội Số Khuếch Đại") vào đòn đánh đã tạo ra phản ứng đó.
+- Phản Ứng Xúc Tác sẽ tăng sát thương bằng cách thêm Sát Thương Cộng Thẳng vào đòn đánh đã tạo ra phản ứng đó.
+Lưu ý rằng việc tạo ra nhiều phản ứng liên tiếp nhau có thể khiến các dòng chữ nhảy lên bị trò chơi làm ẩn đi, ngay cả khi phản ứng đã diễn ra và có hiệu lực.
+
+## Sát Thương Phản Ứng Chuyển Hóa
+
+Phản ứng chuyển hóa bao gồm Quá Tải, Phá Băng, Điện Cảm, Siêu Dẫn, Khuếch Tán, Thiêu Đốt, Sum Suê, Nở Rộ và Bung Tỏa
+
+Sát thương tạo thành từ những phản ứng kể trên sẽ dựa trên cấp độ của nhân vật tạo phản ứng và Tinh Thông Nguyên Tố, và bị giảm đi bởi kháng sát thương nguyên tố của mục tiêu. Không như những sát thương thông thường khác, loại sát thương này không dựa trên chỉ số tấn công, không thể bạo kích và sẽ bỏ qua phòng ngự của mục tiêu.
+
+Hơn nữa, chỉ số và các hiệu ứng của nhân vật cấp nguyên tố đầu tiên cho phản ứng (hay nhân vật cấp ấn) sẽ không ảnh hưởng đến sát thương phản ứng; chỉ có nhân vật cấp nguyên tố thứ hai cho phản ứng (hay nhân vật tạo phản ứng) mới có thể ảnh hưởng lên phản ứng.
+
+Mỗi phản ứng đều có chung khả năng tăng tiến dựa trên cấp độ và Tinh Thông Nguyên Tố (TTNT), nhưng chúng sẽ gây ra lượng sát thương khác nhau vì chúng có bội số khác nhau ("Hệ Số Phản Ứng").
+
+Một số hiệu quả như hiệu quả bộ 4 của các Thánh Di Vật Diệm Liệt Ma Nữ Cháy Rực và Như Sấm Thịnh Nộ có thể gia tăng sát thương phản ứng ("% Tăng Hiệu Quả Phản Ứng").
+
+Lượng sát thương tạo thành là:
+\begin{align}\text{Sát Thương}_\text{Chuyển Hóa} = & \text{ Hệ Số Phản Ứng} \times \text{Bội Số Cấp Độ}_\text{Nhân Vật}
+
+\\ & \times (1 + \% \text{ Bội Số TTNT}_\text{Chuyển Hóa} + \% \text{ Tăng Hiệu Quả Phản Ứng})
+
+\end{align}
+\text{Hệ Số Phản Ứng} = \begin{cases}\begin{align}
+
+0,25 &\text{ với Thiêu Đốt } \\
+
+1,5 &\text{ với Siêu Dẫn } \\
+
+0,6 &\text{ với Khuếch Tán } \\
+
+2,0 &\text{ với Điện Cảm } \\
+
+3,0 &\text{ với Phá Băng } \\
+
+2,75 &\text{ với Quá Tải } \\
+
+2,0 &\text{ với Sum Suê } \\
+
+3,0 &\text{ với Bung Tỏa } \\
+
+3,0 &\text{ với Nở Rộ } \\
+
+\end{align}\end{cases}
+Tinh Thông Nguyên Tố sẽ tăng sát thương phản ứng chuyển hóa theo một tỷ lệ phần trăm nhất định ("% Bội Số TTNT"). (Xem Tinh Thông Nguyên Tố để có thêm chi tiết.) Bội Số TTNT được tính như sau:
+\% \text{ Bội Số TTNT}_\text{Chuyển Hóa} = 16 \times \frac{\text{TTNT{\text{TTNT} + 2000} \times 100 \%
+
+TTNT và % Bội Số TTNT chịu sự bão hòa chỉ số (hay quy luật hiệu suất giảm dần). Ở TTNT rất thấp (gần với 0), 100 TTNT sẽ tăng khoảng 75% vào % Bội Số TTNT. Tuy vậy, ở mức TTNT rất cao (gần 1000), 100 TTNT chỉ cho khoảng 35%.
+
+Phản ứng chuyển hóa có thể cấp nguyên tố trên diện rộng để tạo phản ứng khuếch đại. Cho đến hiện tại, Khuếch Tán là phản ứng duy nhất có khả năng làm điều đó. Ví dụ, khi Phong được cấp lên một mục tiêu bị ảnh hưởng bởi nguyên tố Hỏa, Khuếch Tán Hỏa sẽ diễn ra và nó có thể đánh vào một mục tiêu bị ảnh hưởng bởi nguyên tố Thủy ở gần đó. Sau đó, phản ứng khuếch đại sẽ thêm một bội số mới ("Bội Số Khuếch Đại") lên sát thương gây ra lên mục tiêu bị ảnh hưởng bởi nguyên tố Thủy, và cách tính toán sẽ được trình bày ở phần sau.
+
+Phản ứng chuyển hóa sẽ bỏ qua phòng ngự của mục tiêu, nhưng kháng sát thương vẫn có hiệu lực. Sát thương mà mục tiêu nhận vào sẽ được tính như sau:
+\text{Sát Thương Nhận Vào}_\text{Chuyển Hóa} = \text{Sát Thương}_\text{Chuyển Hóa} \times \text{Bội Số Kháng Sát Thương}
+Với sát thương cơ bản của phản ứng chuyển hóa trên từng cấp độ, xem tại Thang Cấp Độ/Phản Ứng.
+
+## Sát Thương Phản Ứng Khuếch Đại
+
+Các phản ứng khuếch đại là Bốc Hơi và Tan Chảy. Phản ứng khuếch đại thêm một bội số vào công thức tính sát thương của đòn đánh tạo ra phản ứng dựa trên nguyên tố tạo phản ứng và Tinh Thông Nguyên Tố của nhân vật tạo phản ứng.
+
+Một số hiệu quả nhất định như hiệu quả bộ 4 của Thánh Di Vật Diệm Liệt Ma Nữ Cháy Rực có thể gia tăng thêm sát thương ("Tăng Hiệu Quả Phản Ứng").
+
+Bội số khuếch đại được tính như sau:
+\begin{align}\text{Bội Số Khuếch Đại} = {} &\text{Hệ Số Phản Ứng} \\ &\times (1 + \% \text{Bội Số TTNT}_\text{Khuếch Đại} + \% \text{Tăng Hiệu Quả Phản Ứng}) \end{align}
+\text{Hệ Số Phản Ứng} = \begin{cases}\begin{align}
+2,0 &\text{, với Tan Chảy nếu } \color{red}\text{Hỏa} \color{black}\text{ tạo phản ứng} \\
+1,5 &\text{, với Tan Chảy nếu } \color{skyblue}\text{Băng} \color{black}\text{ tạo phản ứng}\\
+2,0 &\text{, với Bốc Hơi nếu } \color{blue}\text{Thủy} \color{black}\text{ tạo phản ứng} \\
+1,5 &\text{, với Bốc Hơi nếu } \color{red}\text{Hỏa} \color{black}\text{ tạo phản ứng}
+\end{align}\end{cases}
+
+Bội số khuếch đại sẽ gia tăng sát thương:
+\text{Sát Thương}_\text{Khuếch Đại} = \text{Sát Thương} \times \text{Bội Số Khuếch Đại}
+với "Sát Thương" là sát thương tạo thành từ Thiên Phú, Cung Mệnh, đòn đánh của kẻ địch, hoặc một phản ứng Khuếch Tán đã được tính ở phần trước.
+
+Tinh Thông Nguyên Tố sẽ tăng sát thương phản ứng khuếch đại theo một tỷ lệ phần trăm nhất định ("% Bội Số TTNT"). (Xem Tinh Thông Nguyên Tố để biết thêm chi tiết.) Nó được ước tính như sau:
+\% \text{Bội Số TTNT}_\text{Khuếch Đại} = 2,78 \times \frac{\text{TTNT{\text{TTNT} + 1400} \times 100 \%
+Thiên Phú chỉ cấp nguyên tố vẫn sẽ không thể gây sát thương khi tạo một phản ứng khuếch đại.
+
+## Tăng Sát Thương Xúc Tác
+
+Phản ứng Lan Tràn và Tăng Cường sẽ thêm một lượng Sát Thương Cộng Thẳng vào đòn đánh. Sát Thương Cộng Thẳng được tính như sau:
+\begin{align}\text{Sát Thương Cộng Thẳng}_\text{Sinh Trưởng} = {} &\text{Hệ Số Phản Ứng} \times \text{Bội Số Cấp Độ}_\text{Nhân Vật}
+
+\\ & \times (1 + \% \text{Bội Số TTNT}_\text{Sinh Trưởng} + \% \text{Tăng Hiệu Quả Phản Ứng})
+
+\end{align}
+\text{Hệ Số Phản Ứng} = \begin{cases}\begin{align}
+
+1,15 &\text{, nếu } \color{purple}\text{Tăng Cường} \color{black}\text{ được tạo thành} \\
+
+1,25 &\text{, nếu } \color{green}\text{Lan Tràn} \color{black}\text{ được tạo thành}
+
+\end{align}\end{cases}
+\% \text{Bội Số TTNT}_\text{Xúc Tác} = \frac{5 \times \text{TTNT{\text{TTNT} + 1200} \times 100 \%
+
+## Sát Thương Phản Ứng Của Nguyên Tố Tạo Thành Từ Khuếch Tán
+
+Vì Khuếch Tán có thể tạo nguyên tố, Phản Ứng Chuyển Hóa, Khuếch Đại, và Tăng Cường có thể tiếp tục được tạo ra trên kẻ địch từ nguyên tố đó. Công thức tính sát thương sẽ được tinh chỉnh lại để bao hàm các công thức tính Phản Ứng Chuyển Hóa và Phản Ứng Khuếch Đại.
+
+Với Phản Ứng Khuếch Đại:
+\begin{align} \text{Sát Thương Khuếch Tán Được Khuếch Đại} = {} &\text{Nhân Tố Khuếch Tán} \times \text{Bội Số Khuếch Đại} \\ &\times [\text{Bội Số Kháng Sát Thương}]_\text{Mục Tiêu} \end{align}:\begin{align} \text{với} \quad \text{Nhân Tố Khuếch Tán} = {} & \text{Hệ Số Phản Ứng}_\text{Chuyển Hóa} \\ &\times \text{Bội Số Cấp Độ}_\text{Nhân Vật} \\ &\times (1 + \% \text{Bội Số TTNT}_\text{Khuếch Tán} + \% \text{ Tăng Sát Thương Khuếch Tán}) \end{align}
+Với phản ứng Tăng Cường
+\begin{align} \text{Sát Thương Khuếch Tán Được Tăng Cường} = {} &\text{Nhân Tố Khuếch Tán} + \text{Sát Thương Cộng Thẳng}_\text{Tăng Cường} \\ &\times [\text{Bội Số Kháng Sát Thương}]_\text{Mục Tiêu} \end{align}
+\begin{align} \text{với} \quad \text{Nhân Tố Khuếch Tán} = {} & \text{Hệ Số Phản Ứng}_\text{Chuyển Hóa} \\ &\times \text{Bội Số Cấp Độ}_\text{Nhân Vật} \\ &\times (1 + \% \text{Bội Số TTNT}_\text{Khuếch Tán} + \% \text{ Tăng Sát Thương Khuếch Tán}) \end{align}
+Với Phản Ứng Chuyển Hóa, công thức tính sát thương của phần trước sẽ được áp dụng.
+
+- Thay Đổi Hiệu Quả Phản Ứng: Phản ứng có thể bị tác động bởi các hiệu quả sau:
+
+## Sát Thương Chuẩn
+
+Sát Thương Chuẩn là sát thương bỏ qua Phòng Ngự, Kháng Sát Thương, và Giảm Sát Thương, nhưng không thể bỏ qua khiên.
+
+Không nên nhầm Sát Thương Chuẩn với hiệu quả Mất HP, vì Mất HP không phải là sát thương.
+
+Một số nguồn Sát Thương Chuẩn:
+- Một số Địa Mạch Bất Thường
+- Hỗ Trợ Tấn Công của Hạt Giống Lôi
+- Đá Sấm Sét
+- Pháo Kamuijima
+- Pháo Phá Núi
+- Trụ Nham Kỳ Lạ
+
+## Một Số Hiệu Ứng Thay Đổi Sát Thương Đặc Biệt
+
+Ngoài các chỉ số và hiệu ứng kể trên, vẫn có một số hiệu ứng ít phổ biến hơn có thể thay đổi chỉ số:
+- Nhân vật sử dụng Cung có sát thương giảm dần trên đòn ngắm bắn dựa trên thời gian bay của nó. Bội Số Sát Thương Giảm Dần sẽ được nhân thẳng vào công thức sát thương.
+- Kỹ năng Nguyên Tố của Dehya sẽ giảm sát thương nhân vật phải chịu theo phần trăm. Cơ chế này áp dụng lên cả Sát Thương Phản Ứng Chuyển Hóa và Sát Thương Chuẩn.
+- La Signora has a mechanic that prevents her from taking a single instance of DMG that exceeds a percentage of her Max HP. DMG exceeding that threshold will be nullified.có cơ chế giúp cô chỉ chịu một lượng sát thương tối đa trên mỗi lần sát thương. Giới hạn này tỷ lệ thuận với HP Tối đa và bất kỳ sát thương vượt quá giới hạn này sẽ bị triệt tiêu.
+
+## Snapshot
+
+Snapshot là khả năng của một số đòn tấn công gây sát thương theo thời gian, cho phép chúng bảo toàn những buff mà chúng nhận được từ lúc thi triển. Ví dụ, Bánh Xe Lửa của Xiangling sẽ được buff đến hết thời gian kéo dài của nó khi được thi triển bên trong Hành Trình Kỳ Diệu của Bennett, ngay cả khi nhân vật đã ra khỏi vùng hay vùng đã hết thời gian hiệu lực.
+
+## Ví Dụ Về Công Thức
+
+Tình huống ví dụ như sau:
+- ở Cấp 70 với các chỉ số sau: Tấn Công là 1500, Tinh Thông Nguyên Tố là 150, Sát Thương Bạo Kích là 80% và Tăng Sát Thương Nguyên Tố Thủy là 40%.
+- cấp Ẩm Ướt lên một Fatui - Người Xử Lý Nợ Hỏa Cấp 75.
+- với bộ 4 Bóng Hình Màu Xanh Khuếch Tán lên kẻ địch, khiến kháng nguyên tố Thủy của Fatui - Người Xử Lý Nợ Hỏa giảm đi 40% (hay 0,4).
+
+#Trạng thái Ẩm Ướt biến mất.
+- với Cung Mệnh 2, Mảnh Đạn Vỡ Vụn, gây Sát thương Nguyên Tố Hỏa, khiến Fatui - Người Xử Lý Nợ Hỏa bị ảnh hưởng nguyên tố Hỏa và Phòng Ngự bị giảm đi 23%.
+- thi triển Quỹ Đạo Tinh Mệnh cấp 6, tạo phản ứng Bốc Hơi không có sát thương và xóa bỏ ấn Hỏa.
+- gây Sát thương Nguyên Tố Hỏa lên Fatui - Người Xử Lý Nợ Hỏa, phá hủy Bóng Nước được nhận thêm 52% Tăng Sát Thương và gây Sát thương Nguyên Tố Thủy Bạo Kích và Bốc Hơi.
+
+Chúng ta tính toán lượng sát thương mà Mona gây ra ở bước cuối như sau:
+\begin{align} \text{Bội Số Phòng Ngự}_\text{Fatui - Người Xử Lý Nợ Hỏa} & {} = \frac{70+100}{[1-0,23_\text{Klee}](75+100)+70+100} \\ & = 0,55783 \end{align}
+\begin{align} \text{RES}_\text{Fatui - Người Xử Lý Nợ Hỏa} & {} = [0,1]_\text{RES Cơ Bản} - [0,4]_\text{Sucrose} \\ & = -0,3
+\begin{align} \text {do đó } \text{Bội Số Kháng Sát Thương}_\text{Fatui - Người Xử Lý Nợ Hỏa} & {} = 1-\left(\frac{-0,3}{2}\right) \\ & = 1,15 \end{align}
+\begin{align} \text{Bội Số TTNT}_\text{Khuếch Đại} & {} = 2,78 \times \frac{150}{150 + 1400} \\ & = 0,26903 \end{align}
+\begin{align} \text{do đó } \text{Bội Số Khuếch Đại} & {} = [2]_\text{Bốc Hơi} \times [1+0,26903_\text{Bội Số TTNT}] \\ & = 2,53806 \end{align}
+\begin{align} \text{Sát Thương}_\text{Bạo Kích} & {} = 1500 \times [6,19]_\text{Tinh Mệnh} \\ &\quad \times [1+0,4_\text{Tăng ST Nguyên Tố Thủy}+0,52_\text{Tinh Mệnh}]_\text{Tăng Sát Thương} \\ &\quad \times 0,55783_\text{Bội Số Phòng Ngự} \times 1,15_\text{Bội Số Kháng Sát Thương} \\ &\quad \times 2,53806_\text{Bội Số Khuếch Đại} \\ &\quad \times [1+0,8]_\text{Bạo Kích} \\ & = 52246,50 \end{align}
+Do Đó, Quỹ Đạo Tinh Mệnh sẽ gây 52247 sát thương Nguyên Tố Thủy.

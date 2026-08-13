@@ -1,0 +1,42 @@
+# Diona
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+quality: 4
+weapon: Cung
+element: Băng
+name: Diona
+birthday: 18 tháng 01
+constellation: Tiểu Miêu
+region: Mondstadt
+affiliation: Quán Rượu Đuôi Mèo
+affiliation2: Gia Tộc Kätzlein
+dish: Không Phải Món Nhậu
+namecard1: Diona - Meo
+obtain: Cầu Nguyện
+releaseDate: 2020-11-11
+ancestry: Gia Tộc Kätzlein
+father: Draff
+mother: Không tên
+relative: Olaf
+relativeNote: xa cách
+title: Đặc Chế Quán Rượu Đuôi Mèo
+title2: Người Pha Chế Rượu Được Yêu Thích Của Đuôi Mèo
+voiceEN: [[imdb:nm0088650
+Dina Sherman]]<ref name: "Diona EN/JP">Facebook: Công Bố Diễn Viên Lồng Tiếng tiếng Anh và Nhật
+voiceCN: Nuoya (zh|诺亚)
+voiceJP: w|Shiori Izawa|Izawa Shiori (ja|井澤詩織)
+voiceKR: w|ko:우정신|Woo Jeong-sin (ko|우정신)
+
+## Tổng Quan
+
+Diona là một nhân vật hệ Băng mà người chơi có thể điều khiển trong Genshin Impact.
+
+Mặc dù là người pha chế nổi tiếng của Quán Rượu Đuôi Mèo, cô lại cực kì ghét rượu và luôn mong muốn phá hủy ngành rượu ở Mondstadt. Cô là con gái của Draff, một thợ săn ở Thanh Tuyền Trấn.
+
+## Có Mặt Trong
+
+- Cầu Nguyện Thường Du Hành Thế Gian từ Phiên Bản 1.2
+- Tất cả Sự Kiện Cầu Nguyện Nhân Vật và Sự Kiện Cầu Nguyện Vũ Khí từ Phiên Bản 1.2
+- Sự kiện Đĩa Dẫn Năng Lượng - Tóm Lược (30/04/2021 - 17/05/2021)

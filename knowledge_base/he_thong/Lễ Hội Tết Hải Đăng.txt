@@ -1,0 +1,17 @@
+# Lễ Hội Tết Hải Đăng
+
+## Lịch Sử
+
+title: Tết Hải Đăng
+type: Lễ Hội
+type2: Văn Hoá Liyue
+
+- Tổng Quan: Tết Hải Đăng là một lễ hội ở Liyue diễn ra vào ngày rằm đầu tiên trong năm và kéo dài 5 ngày. Đây là lễ hội lớn nhất ở Liyue.
+
+Ban đầu, người ta bắt đầu thả đèn lồng như một cách để nhắc nhở binh lính về con đường trở về nhà, và để họ không bao giờ đánh mất chính mình. Sau khi Chiến Tranh Ma Thần kết thúc, nó trở thành một cách để tưởng niệm những người đã hy sinh mạng sống trong chiến tranh, và cuối cùng phát triển thành một lễ hội tưởng niệm quy mô lớn.
+
+Tết Hải Đăng trùng với một trong những đợt bộc phát sức mạnh lớn nhất từ các vị thần đã ngã xuống trong Chiến Tranh Ma Thần, Xiao phải chiến đấu chống lại trong suốt thời gian diễn ra lễ hội.
+
+## Truyền Thống
+
+Mỗi năm, một anh hùng đã ngã xuống trong lịch sử của Liyue được chọn làm chủ đề cho Đèn Minh Tiêu của Tết Hải Đăng - một chiếc đèn lồng khổng lồ được chế tạo từ các vật liệu do người dân và du khách cùng quyên góp. Kích thước của Đèn Minh Tiêu phụ thuộc vào khối Phù Sinh Thạch lớn nhất được tìm thấy trong năm trước và thiết kế của nó thường dựa trên một trong các vị Tiên đã hy sinh khi bảo vệ Liyue. Tuy nhiên, trong lần tổ chức của Phiên Bản 5.3, chiếc đèn lồng được thiết kế dựa trên vị thần Đào Đô, người không thuộc các vị Tiên.

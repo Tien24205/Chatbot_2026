@@ -26,7 +26,7 @@ lớp 3 và lớp 4; lớp 1-2-5 nằm ở chỗ khác nhưng ghi lại đây đ
 
 VÌ SAO CẦN LỚP 3-4 khi đã có lớp 1 (system prompt)?
 
-Vì system prompt là YÊU CẦU, không phải RÀNG BUỘC. Quy tắc số 5 trong prompt ghi
+Vì system prompt là YÊU CẦU, không phải RÀNG BUỘC. Quy tắc số 7 trong prompt ghi
 "không bịa số liệu" — nhưng không có gì bảo đảm model tuân theo, và khi nó không
 tuân thì hệ thống hoàn toàn không biết. Lớp 3-4 biến yêu cầu đó thành phép kiểm
 tra chạy được: mọi con số trong câu trả lời phải tìm thấy được trong ngữ cảnh, nếu
@@ -57,6 +57,15 @@ _PROPER = re.compile(rf"(?:[{_UPPER}]\w*(?:\s+|$)){{2,}}")
 # phải số liệu trích từ tài liệu. Kiểm tra chúng chỉ tạo báo động giả.
 _NOT_A_FACT = {"0", "1", "2"}
 
+# Kết luận suy ra CÓ ĐÁNH DẤU theo quy tắc 8 của system prompt:
+#   "Suy ra từ [1][2]: 9 + 2 + 2 = 13 loại."
+# Con số trong câu này là KẾT QUẢ TÍNH nên không thể có nguyên văn trong ngữ cảnh
+# — lớp 4a phải bỏ qua nó, nếu không mọi phép đếm đúng đều bị gắn cờ oan (đo được
+# ở mốc eval nhóm suy_luan: câu đếm ra "9" đúng vẫn bị "số không có trong ngữ
+# cảnh"). Đổi lại, câu suy ra BẮT BUỘC leo thang lớp 5 để kiểm phép tính — xem
+# escalate_needed và ngoại lệ trong ENTAILMENT_PROMPT.
+_DERIVED = re.compile(r"Suy ra từ\s*(?:\[\d+\][\s,]*)+:[^.!?\n]*[.!?]?", re.IGNORECASE)
+
 
 @dataclass
 class Report:
@@ -67,6 +76,9 @@ class Report:
     ungrounded_numbers: list[str] = field(default_factory=list)
     ungrounded_entities: list[str] = field(default_factory=list)
     ungrounded_names: list[str] = field(default_factory=list)
+    # Các câu "Suy ra từ [n]: ..." tìm thấy. KHÔNG phải cờ lỗi — nhưng vì chúng
+    # được miễn kiểm số ở lớp 4a, chúng buộc lớp 5 phải chạy (escalate_needed).
+    derived: list[str] = field(default_factory=list)
 
     @property
     def ok(self) -> bool:
@@ -145,9 +157,15 @@ def check(
         report.citation_coverage = sum(bool(_CITATION.search(s)) for s in sents) / len(sents)
 
     # --- Lớp 4a: số liệu --------------------------------------------------
+    # Câu suy ra có đánh dấu được cắt khỏi phép kiểm SỐ (kết quả tính không thể
+    # có nguyên văn trong nguồn) — nhưng vẫn ở lại trong answer cho lớp 4b/4c:
+    # tên riêng hay thực thể lạ trong câu suy ra vẫn là dấu hiệu bịa như thường.
+    report.derived = [m.group(0).strip() for m in _DERIVED.finditer(answer)]
+    answer_for_numbers = _DERIVED.sub("", answer)
+
     context_numbers = {_normalize_number(m.group(0)) for m in _NUMBER.finditer(haystack)}
     seen_num: set[str] = set()
-    for m in _NUMBER.finditer(_CITATION.sub("", answer)):  # bỏ [1] khỏi phép đếm số
+    for m in _NUMBER.finditer(_CITATION.sub("", answer_for_numbers)):  # bỏ [1] khỏi phép đếm số
         raw = m.group(0)
         norm = _normalize_number(raw)
         if norm in _NOT_A_FACT or norm in seen_num:
@@ -200,5 +218,14 @@ def escalate_needed(report: Report) -> bool:
     Hạn mức free tier đo được chỉ 20 request, nên không thể chạy entailment cho
     mọi câu trả lời. Cách dùng: chỉ leo thang khi lớp 3-4 đã thấy dấu hiệu khả
     nghi — thứ mà regex bắt được thì rẻ, thứ nó không bắt được mới cần LLM.
+
+    Câu suy ra có đánh dấu (report.derived) LUÔN leo thang: nó được miễn kiểm số
+    ở lớp 4a, nên lớp 5 là nơi DUY NHẤT còn kiểm được phép đếm/phép tính của nó.
+    Miễn ở lớp dưới mà không ép kiểm ở lớp trên là mở cửa cho bịa số có chủ đích.
     """
-    return bool(report.invalid_citations or report.ungrounded_numbers or report.ungrounded_entities)
+    return bool(
+        report.invalid_citations
+        or report.ungrounded_numbers
+        or report.ungrounded_entities
+        or report.derived
+    )

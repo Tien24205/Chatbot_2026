@@ -1,0 +1,19 @@
+# Lỗi
+
+## Tổng Quan
+
+type: Hệ Thống Trò Chơi
+
+Lỗi xuất hiện trong Genshin Impact khi một hành động hoặc thao tác không được thực hiện hoặc thực hiện sai cách, nếu thực hiện hành động bất thường hoặc trạng thái trò chơi không chính xác hoặc khác với dự kiến. Lỗi có thể phát sinh do nhiều nguyên nhân, chẳng hạn như thao tác sai, sự cố kết nối mạng, hành vi gian lận, khai thác lỗi hoặc các trục trặc kỹ thuật.
+
+## Phân Loại
+
+Có ba loại lỗi có thể xảy ra trong Genshin Impact: lỗi xuất hiện trên màn hình, lỗi xuất hiện kèm hộp thoại và lỗi nghiêm trọng.
+
+Lỗi xuất hiện trên màn hình xuất hiện dưới dạng một dòng chữ màu trắng, xuất hiện ở nửa trên của màn hình, hoặc dòng chữ trắng bên trong một khung màu xám ở giữa màn hình, cả hai đều biến mất sau một thời gian ngắn và có thể nhanh chóng tắt đi bằng cách nhấn vào chỗ trống. Những lỗi này thường không ảnh hưởng đến lối chơi.
+
+Lỗi xuất hiện kèm hộp thoại xuất hiện dưới dạng một hộp thoại ở giữa màn hình và yêu cầu người chơi chọn một nút để thực hiện hành động cần thiết nhằm giải quyết lỗi, hoặc đóng hộp thoại để tiếp tục.
+
+Lỗi nghiêm trọng thường khiến trò chơi bị thoát và kèm theo thông báo lỗi.
+
+- Nhóm Lỗi Nghiêm Trọng: Những lỗi này sẽ tự động khiến trò chơi thoát hoặc ngăn người chơi đăng nhập.

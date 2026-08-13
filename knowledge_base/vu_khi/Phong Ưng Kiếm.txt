@@ -1,0 +1,65 @@
+# Phong Ưng Kiếm
+
+## Thông Tin Cơ Bản
+
+id: 11501
+type: Kiếm Đơn
+releaseDate: 2020-09-28
+quality: 5
+base_atk: 48
+2nd_stat_type: Tăng ST Vật Lý
+2nd_stat: 9%
+obtain: Cầu Nguyện
+passive: Kháng Chiến Của Chim Ưng Tây Phong
+effect: Tấn công tăng (var1)%, kích hoạt khi chịu sát thương: Linh hồn Tây Phong Ưng thức tỉnh dưới cờ hiệu kháng chiến, hồi HP bằng (var2)% tấn công và gây cho địch xung quanh sát thương bằng (var3)% lực tấn công. Mỗi 15s kích hoạt 1 lần.
+eff_rank1_var1: 20
+eff_rank2_var1: 25
+eff_rank3_var1: 30
+eff_rank4_var1: 35
+eff_rank5_var1: 40
+eff_rank1_var2: 100
+eff_rank2_var2: 115
+eff_rank3_var2: 130
+eff_rank4_var2: 145
+eff_rank5_var2: 160
+eff_rank1_var3: 200
+eff_rank2_var3: 230
+eff_rank3_var3: 260
+eff_rank4_var3: 290
+eff_rank5_var3: 320
+eff_att1: Tấn Công
+eff_att2: Trị Liệu
+
+- Tổng Quan: Phong Ưng Kiếm là một thanh Kiếm Đơn 5 sao.
+
+## Câu Chuyện
+
+Mọi người đều biết, khát vọng của chim ưng là ân huệ của gió Tây.
+
+Thế nhưng ít người biết rằng ân huệ của gió Tây chính là dị tộc phương xa.
+
+Khi ấy, dưới thời thống trị của quý tộc cổ vùng Mondstadt, tự do là điều luôn được nhắc đến.
+
+Các nô lệ vốn là đấu sĩ dị tốc vùng xa xôi cũng tìm đến đất nước của gió.
+
+Cho dù phải đối mặt với bất mãn và không công bằng, cô vẫn giương lên ngọn gió chính nghĩa.
+
+Lật đổ lớp quý tộc hoành hành, xây dựng nên đội kỵ sĩ và Giáo Hội chân chính.
+
+Cuối cùng cô nhận được sự trợ giúp của trời và thần linh.
+
+Đây chính là thanh kiếm năm xưa sát cánh với cô, chứng kiến từng bước chân và sự cố gắng,
+
+Cuối cùng chứng kiến sự tự do và chính nghĩa do cô thiết lập trải khắp vùng Mondstadt.
+
+Khi vung lên, có thể cảm nhận được dũng khí chiến đấu của người chủ cũ:
+
+Ở đâu có áp bức, ở đó sẽ có chính nghĩa;
+
+Ở đâu có giam cầm, ở đó sẽ có tự do;
+
+Ở đâu còn mông muội, ở đó sẽ có trí tuệ.
+
+Nghe theo hướng gió, chính là ngọn gió của chính nghĩa và tự do.
+
+- Cầu Nguyện Thường Du Hành Thế Gian (vĩnh viễn) - Tất cả các Cầu Nguyện Vũ Khí

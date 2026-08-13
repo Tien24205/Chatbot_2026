@@ -1,0 +1,10 @@
+# Hân Hạnh Được Gặp Gỡ
+
+## Thông Tin Cơ Bản
+
+type: Địa Điểm Đáng Chú Ý
+type2: Nội Khu
+subarea: Elynas
+area: Khu Beryl
+region: Fontaine
+quest: Tranh, Giấc Mơ Và Chú Chó Máy Móc

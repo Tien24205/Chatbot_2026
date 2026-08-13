@@ -1,0 +1,55 @@
+# Ashru
+
+## Thông Tin Cơ Bản
+
+type: NPC Đại Thế Giới
+region: Sumeru
+location: Nod-Krai
+affiliation: Hội Đồng Bí Mật
+affiliation2: Mạng Lưới Tình Báo Bắc Đại Lục
+group: NPC Mèo
+
+- Tổng Quan: Ashru là một NPC đại thế giới có vị trí tại. Ashru là thú cưng của Nefer.
+
+## Tiểu Sử
+
+Ashru là một trong những hậu duệ của những chú mèo mà Thoth, Vua Loài Cò, từng nuôi.
+
+Khi bị giam ở Aaru, Thoth đã mượn cơ thể của Ashru để nói chuyện với Nefer, trong thời gian đó ông đã cộng hưởng cảm xúc với cơ thể của chú mèo này. Trước khi Nefer kịp nhận ra sự thật, Thoth đã rời khỏi cơ thể của Ashru và biến Ashru trở thành một con mèo bình thường. Kể từ đó, Nefer luôn chăm sóc Ashru với hy vọng một ngày nào đó trong tương lai, Vua Loài Cò sẽ lại một lần nữa đến tìm cô thông qua Ashru.
+
+- Ngoại Hình: (sẽ được thêm sau.)
+
+## Bộ Hội Thoại #1
+
+Ashru: Meo...
+(Nếu Lauma có trong đội)
+(Lauma có lẽ sẽ hiểu được Ashru đang nói gì...)
+:Ashru: (Meo... Lại tới đây tìm người giúp đỡ hả?)
+:Ashru: (Cứ viết chữ lên tờ giấy bên cạnh là được...)
+:Ashru: (Tôi không thể giúp được rồi. Vì móng vuốt của tôi rất sắc... Sẽ làm rách giấy mất...)
+Xin hỏi... Đăng ký ở đây phải không?
+:Ashru: Meo...
+: Thật ra, tôi có một ủy thác...
+::Ashru: Meo...
+:: Nếu không chê thì...
+:::Ashru: Meo...
+::: Trông cậy vào một con mèo thì hơi quá nhỉ.
+::::Ashru: Meo...
+:: Thôi vậy.
+:::Ashru: Meo...
+: Thôi vậy.
+::Ashru: Meo...
+Thôi vậy.
+:Ashru: Meo...
+
+## Bộ Hội Thoại #2
+
+Nếu Ashru là lễ tân tại Hội Đồng Bí Mật.
+(Nói chuyện với Ashru)
+Ashru: Meo, meo meo...
+Ashru: Meo? Meo!
+(Nói chuyện với Ashru khi Lauma là nhân vật đứng sân)
+Ashru: (Loài người... ngốc nghếch... bận rộn tới lui...)
+Ashru: (Hmm... Muốn chải lông...)
+
+- Ashru hay Isheru vốn là tên gọi của một hồ nước thiêng hình lưỡi liềm bao quanh đền thờ của các vị nữ thần mặt trời; trong ngữ cảnh này, tên gọi đó ám chỉ vị thần Mut.

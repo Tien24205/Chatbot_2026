@@ -1,0 +1,300 @@
+# Hội Đồng Bí Mật (Địa Điểm Đáng Chú Ý)
+
+## Tổng Quan
+
+title: Hội Đồng Bí Mật
+type: Địa Điểm Đáng Chú Ý
+type2: Nội Khu
+subarea: Thị Trấn Nasha
+area: Đảo Lempo
+region: Nod-Krai
+
+Hội Đồng Bí Mật có ít nhất hai tầng, trong đó tầng hai là khu vực có thể tự do ra vào. Tầng này bao gồm khu vực tiếp tân và văn phòng cá nhân của Nefer. Căn phòng bí mật của Nefer tại tầng này chỉ có thể được mở khóa sau khi hoàn thành.
+
+- Ashru
+
+## Thư Rải Rác
+
+Xem Thư
+Thư Rải Rác: (Hình như là lá thư được gửi đến Hội Đồng Bí Mật...)
+(Nếu không có thành viên nào của Hội Đồng Bí Mật trong đội)
+: (Chỉ người trong Hội Đồng Bí Mật mới có thể đọc lá thư này...)
+:: (Tốt nhất không nên tự ý xem những bức thư này thì hơn...)
+(Nếu Nefer đang trong đội)
+: (Có thư cần Nefer xử lý...)
+:Nefer:...Xem ra lại có việc phải xử lý rồi.
+: (Lật xem.)
+;(Bộ hội thoại ngẫu nhiên)
+;(Bộ Hội Thoại #1)
+::Nefer: Sao vẫn còn một bức thư nữa vậy? Jahoda lại quên không cất đi à?
+::Nefer: "Làm ơn đi, tôi rất muốn nuôi một chú mèo con dễ thương như Ashru!"
+::Nefer: "Cô chủ Nefer, có thể cho tôi biết cô đã tìm thấy Ashru ở đâu không?!"
+::Nefer: Nơi tìm thấy Ashru... Tiếc quá, chắc là cô sẽ không muốn đến đó đâu.
+::Nefer: Hai ngày nữa bảo Jahoda chuyển bức thư này sang Hiệp Hội Nhà Mạo Hiểm vậy. Chuyện tìm mèo thì họ giỏi nhất rồi.
+;(Bộ Hội Thoại #2)
+::Nefer:...Có vài vị khách cũng quá nóng ruột rồi.
+::Nefer: Tiếc là vị khách này... thích dùng mưu lược, nhưng lại không giỏi dùng mưu lược.
+::Nefer: Lúc nói chuyện ủy thác thì khóc lóc um sùm, nói là cái giá thế nào cũng sẵn sàng trả...
+::Nefer: Nhưng những "cái giá" đưa ra lại vừa khéo phù hợp với giá trị của ủy thác này, không thừa không thiếu một xu.
+::Nefer: Tuy trông có vẻ như mất kiểm soát cảm xúc, nhưng lúc phải bỏ tiền ra thì sao tự nhiên lại lý trí thế?
+::Nefer: Thôi bỏ đi, nhận tiền rồi thì phải làm cho xong việc. Mấy ngày nữa giải quyết xong chuyện này vậy.
+;(Bộ Hội Thoại #3)
+::Nefer: Ashru, có phát hiện được gì không?
+::Ashru: Meow. Meow?
+::Nefer: Hmm... Hôm qua lại đi đâu chơi cùng Jahoda rồi, lúc về cửa sổ còn không đóng chặt nữa.
+::Ashru: Meow meow, meow meow meow meow...
+::Nefer: Nhưng lần này Jahoda lén ra ngoài, ít ra là không gây ra động tĩnh gì lớn, coi như cũng có tiến bộ.
+::Nefer: Ừm, ủy thác trong thư này, vừa hay giao cho Jahoda làm vậy.
+(Nếu Jahoda đang trong đội)
+(Có thư cần Jahoda xử lý...)
+:Jahoda: Lại nhận được thư à? Haiz, đừng bảo tôi đi bắt mèo nữa nhé...
+: (Lật xem.)
+;(Bộ hội thoại ngẫu nhiên)
+;(Bộ Hội Thoại #1)
+::Ashru: Meow...?
+::Jahoda: Ashru à Ashru, đưa chân đây ta mượn để mở thư nào.
+::Ashru: Meo meo... Meo meo meo, meo...
+::Jahoda: Ơ... Đùa thôi, không làm thật đâu, mà hình như lâu rồi ngươi chưa được cắt móng nhỉ?
+::Ashru: Meo! Meo meo... MEO!
+::Jahoda: Quyết định rồi, giờ ta sẽ cắt móng cho ngươi. Ở yên đó nhé, ta đi lấy kéo cắt móng đây.
+::Ashru: Meo... meo!
+;(Bộ Hội Thoại #2)
+::Jahoda: Lại có người để lại thư rồi. Hy vọng không phải chuyện gì phiền phức...
+::Jahoda: "Tôi muốn gia nhập Fatui! Xin hỏi có đầu mối nào không? Bỏ ra bao nhiêu tiền tôi cũng..."
+::Jahoda: Trời ạ, không xem nữa! Tên ngốc này lại đến, cứ vài hôm lại nhờ tìm cách giúp hắn gia nhập Fatui...
+::Jahoda: Fatui thì có gì hay ho chứ? Sao không chịu sống yên ổn nhỉ... À, phải rồi, còn phải trả lời thư...
+::Jahoda: Lần trước sếp bảo phải trả lời sao nhỉ? Hình như là... "Xin thứ lỗi vì năng lực có hạn, không thể giúp được."
+;(Bộ Hội Thoại #3)
+::Jahoda: Ở đâu nhỉ, để ở đâu rồi...
+::Jahoda: Thấy rồi! Trời ơi, hết hồn...
+::Jahoda: Nếu làm mất thư ủy thác thì có mà chết chắc.
+::Jahoda: Phải mau đem đến gặp sếp Nef, bây giờ chắc vẫn kịp...
+
+## Chiếc rương đựng một phần tài sản của Hội Đồng Bí Mật
+
+Mở ra xem thử...
+Rương: (Chiếc rương đựng một phần tài sản của Hội Đồng Bí Mật.)
+(Nếu không có thành viên nào của Hội Đồng Bí Mật trong đội)
+: (Hình như không mở được...)
+:: (Có lẽ, chỉ có nhân viên Hội Đồng Bí Mật mới mở được...)
+(Nếu Nefer đang trong đội)
+(Có lẽ Nefer muốn xem tình trạng của chiếc rương...)
+;(Lần 1)
+::Nefer: Thu nhập gần đây cũng được, có vẻ như đã đủ thêm bữa ăn cho Ashru rồi.
+::
+::;(Nhận Mora)
+;(Lần 2)
+::Nefer: Hmm... Lấy ra một phần để thanh toán vậy.
+::
+::;(Nhận Mora)
+;(Lần 3)
+::Nefer: Cũng tạm rồi, thanh toán xong thì chỉ còn lại chút ít. Haiz... Nếu được thêm vài vị khách Liyue thì tốt biết mấy...
+::
+::;(Nhận Mora)
+;(Những lần sau)
+::Nefer: Hah, cũng tạm rồi, cứ để cái rương ở yên đây vậy.
+(Nếu Jahoda đang trong đội)
+(Có lẽ Jahoda muốn xem tình trạng của chiếc rương...)
+:Jahoda: Hihi... Để xem dạo này kiếm được bao nhiêu tiền nào.
+:Jahoda: Lần trước sếp nói sẽ thưởng thêm cho mình, hay là bây giờ mình...
+:Jahoda: Sao trong này không có tiền vậy? Chỉ có mỗi một tờ giấy...
+:Jahoda: "Jahoda thân mến, đóng hộp lại đi. Tiền thưởng của em không nằm trong này."
+:Jahoda: Hừm, sếp lại đang dọa người ta rồi. Không biết có ngăn bí mật nào không...
+:Nefer: Không có ngăn bí mật nào đâu, tiền thưởng của em ở đây này.
+:Jahoda: Ồ, cảm ơn sếp, em...
+:Jahoda: Ah ah!! Ốiiiii! Sếp!!!! E-Em... chỉ đang kiểm đếm thôi!!!
+:Jahoda: Em đi làm việc ngay đây, đi ngay đây ạ!!!
+:Nefer: Dừng lại.
+:Jahoda: Dạ rõ!
+:Nefer: Khóa hộp cho chắc vào.
+:Jahoda: Dạ vâng!
+:Nefer: Rồi đi đi.
+:Jahoda: Tuân lệnh!
+:;(Nhận Mora)
+(Nếu người chơi đã nhận tất cả tài sản)
+(Đợi một thời gian rồi quay lại xem thử vậy...)
+
+- Hội Thoại: Hội thoại tại quầy lễ tân của Hội Đồng Bí Mật được thiết lập ngẫu nhiên và sẽ thay đổi sau mỗi lần làm mới hàng ngày.
+
+## Robot Hình Ảnh Kỳ Diệu
+
+(Tương tác với Robot Hình Ảnh Kỳ Diệu trên quầy)
+"Robot Hình Ảnh Thay Ca": "Jahoda đang đi ra ngoài, vui lòng chờ một lát."
+"Robot Hình Ảnh Thay Ca": "Nếu muốn liên hệ với cô chủ Nefer, vui lòng chờ Jahoda."
+"Robot Hình Ảnh Thay Ca": "Nếu muốn chơi đùa với Ashru, vui lòng chờ Jahoda. Nếu tự chơi, chúng tôi không chịu trách nhiệm về hậu quả."
+
+## Bộ Hội Thoại #1
+
+(Tương tác với Jahoda đang đứng sau quầy)
+Jahoda: Chà, hôm nay không có khách, cuối cùng cũng được nhàn rỗi rồi.
+Jahoda: Tôi bảo mà, muốn tìm người hay tìm mèo gì đó thì đến Hiệp Hội Nhà Mạo Hiểm là được, tìm chúng tôi làm gì chứ...
+Jahoda: Nhưng mà, cứ đứng yên không làm gì như vậy thì chán lắm...
+Xem ra cô vẫn muốn làm việc đấy.
+Jahoda: Đương nhiên là không muốn rồi! Nhưng tôi mà trốn việc thì sếp sẽ lại mắng tôi đấy...
+Jahoda:, hay là hôm nào đấy trực hộ tôi một ngày đi, để tôi ra ngoài hóng gió, nếu không tôi chán chết mất...
+Tôi không đồng ý đâu.
+Cô tự trực đi nhé.
+Jahoda: Haiz, được rồi được rồi, tôi cũng chỉ nói vậy thôi mà... Tôi tiếp tục trực vậy...
+Jahoda: Ôi, Ashru ơi là Ashru, có thể giúp ta trực một lát không?
+Ashru: Meow meow? Meow. Meow~
+Jahoda: Meow! Meow meow meow!
+Ashru: Meow meow?
+Jahoda: Biết ngay là không trông chờ được gì vào ngươi mà. Thôi được rồi, mèo con... đi chơi đi nhé.
+
+## Bộ Hội Thoại #2
+
+(Tương tác với Jahoda đang đứng sau quầy)
+(Nếu nhân vật đứng sân không phải là Lauma)
+:Jahoda: Ashru, sếp đã về chưa?
+:Ashru: Meo! Meow meow, meow...
+:Jahoda: Nhìn tình hình thì chắc sếp vẫn chưa về... Cũng may là về kịp...
+:Ashru: Meow meow, meow...
+(Nếu nhân vật đứng sân là Lauma)
+:Jahoda: Ashru, sếp đã về chưa?
+:Ashru: (Về rồi đấy! Cô không phát hiện ra thôi...)
+:Jahoda: Nhìn tình hình thì chắc sếp vẫn chưa về... Cũng may là về kịp...
+:Ashru: (Loài người... ngốc nghếch...)
+
+## Bộ Hội Thoại #3
+
+(Tương tác với Jahoda đang đứng sau quầy)
+Jahoda: Lần trước thấy sếp lén lút vào căn phòng nhỏ, hình như là lấy thứ gì đó... Chẳng lẽ là lấy tiền để chuẩn bị phát lương sao?
+Jahoda: Chắc chắn là thế rồi! Với lại lần trước sếp còn đồng ý tìm người làm một cặp kính mới cho mình mà, chẳng nhẽ định mua cho mình sao?
+Jahoda: Sếp Nef...! Sếp đúng là người tuyệt vời nhất thế giới!
+
+## Bộ Hội Thoại #4
+
+(Tương tác với Jahoda đang đứng sau quầy)
+Jahoda: Ơ... Sao sếp lại biết hết thế nhỉ!? Lần này tiêu rồi...
+Jahoda: Vốn dĩ còn định xin nghỉ phép qua chỗ Aino chơi, nhưng giờ thì không xin được nữa rồi...
+
+## Bộ Hội Thoại #5
+
+(Tương tác với Jahoda đang đứng sau quầy)
+Jahoda: Sếp chắc không sao đâu nhỉ? Mặc dù sếp nói là để tôi yên tâm ngồi trực, nhưng mà...
+Jahoda: Thôi vậy! Hôm nay tan làm sớm rồi đi xem tình hình của sếp vậy.
+Jahoda: Nếu như sếp vẫn còn khó chịu, nói không chừng mình còn phải nhờ Lauma đến đây nữa...
+
+## Nefer
+
+(Tương tác với Nefer đang đứng sau quầy)
+Nefer: Chào mừng đến với Hội Đồng Bí Mật.
+Nefer: Nếu muốn ủy thác thì cứ để lại lời nhắn ở sổ tay bên đó là được.
+Hiếm khi thấy Nefer ở đây đấy...
+Nefer: Hôm nay tôi phải tiếp đãi một vị khách quan trọng, đúng lúc mấy hôm trước Jahoda cũng mới xin tôi nghỉ phép.
+Nefer: Cho nên, hôm nay tôi sẽ là người tiếp đón của Hội Đồng Bí Mật.
+Nefer: Xem thời gian thì khách cũng sắp đến rồi. Ừm... Tôi phải dọn dẹp chỗ này đây.
+
+## Nhà Lữ Hành (Thay Ca)
+
+(Tương tác với điểm phát sáng trên quầy)
+Bắt Đầu Thay Ca
+(Lần đầu)
+:Paimon: Sao sau quầy cửa không có ai vậy? Trên đây sao lại...
+:Paimon: Sao lại dán ảnh tôi thế này!?
+: Trên bảng tin nhắn còn viết gì đó...
+;(Mở Bảng Tin Nhắn Hội Đồng Bí Mật)
+:Paimon: Hả? Nhưng sao Jahoda lại biết chúng ta sẽ đến. Nhỡ chúng ta không đến thì...
+: Phía sau còn có chữ...
+:Paimon: "Vì tôi thấy hai người sắp đi vào nên mới nhờ giúp đỡ, làm ơn đi mà..."
+: Cảm thấy cả một trang giấy đều là lời nhờ vả...
+: Thôi thì giúp cô ấy việc này đi...
+:Paimon: Được rồi, dù Jahoda bảo chúng ta trực hộ, nhưng chúng ta nên làm gì nhỉ?
+: Tôi không biết...
+: Tóm lại là cứ chờ đi đã.
+:
+:;(Tiếp tục với một trong bốn khách hàng dưới đây)
+(Những lần tiếp theo)
+:Paimon: Ôi... Sao Jahoda lại nhờ chúng ta trực thay nữa rồi? Lại là một tờ giấy nhờ vả...
+: Mắt cô ấy tốt thật chứ.
+: Thôi thì giúp cô ấy vậy...
+:Paimon: Vậy chúng ta ra sau quầy đi, mong là không gặp phải chuyện gì rắc rối...
+;(Nếu người chơi chưa gặp đủ cả bốn vị khách hàng)
+:
+:;(Tiếp tục với một trong bốn khách hàng dưới đây)
+(Sau khi gặp cả bốn khách hàng)
+
+## Chevreuse
+
+Chevreuse: Xin chào,, Paimon.
+Chevreuse?
+Để tôi dụi mắt đã...
+Paimon: Sao Chevreuse lại đến Nod-Krai? Là... là đến để bắt người sao?
+Chevreuse: Không, tôi chỉ đi tìm địa điểm huấn luyện cho Đội Tuần Tra Đặc Biệt thôi.
+Chevreuse: Các thành viên của Đội Tuần Tra Đặc Biệt luôn huấn luyện ở Fontaine, nên đã dần trở thành thói quen rồi.
+Chevreuse: Bình thường khi huấn luyện, tuy đúng là tay chân đang vận động, nhưng lại chẳng động não mấy, cứ thực hiện cho xong mấy bài huấn luyện hàng ngày.
+Chevreuse: Nếu cứ tiếp tục như vậy, Đội Tuần Tra Đặc Biệt sẽ mất đi khả năng ứng phó với tình huống bất ngờ.
+Chevreuse: Nên tôi định đưa họ ra ngoài Fontaine để huấn luyện khả năng ứng phó với địa điểm nhiệm vụ xa lạ, cũng như tình huống bất ngờ.
+Chevreuse: Cô chủ Nefer đã giúp tôi liên hệ được một địa điểm rồi, lần này tôi đến để trả tiền.
+Chevreuse:, nếu hôm nay trực thì giúp tôi đưa khoản tiền này cho cô Nefer nhé.
+À... Được thôi.
+Cô không sợ là tôi sẽ...
+:Chevreuse: Tôi tin vào nhân cách của mà.
+Chevreuse: Vậy tôi đi trước nhé. Tôi phải nhanh chóng quay về Fontaine chuẩn bị nữa.
+
+## Gaming
+
+Gaming: Cô chủ, mấy hôm trước tôi đặt mua... Hmm?, Paimon, sao hai người lại ở đây thế?
+Gaming?
+Chúng tôi trực hộ bạn bè thôi...
+Gaming: Đỉnh vậy, ở đây mà hai người cũng có bạn bè sao? Mối quan hệ còn rộng hơn cả tiêu sư chúng tôi luôn đấy.
+Paimon: Được rồi được rồi, đến lượt chúng tôi hỏi rồi đó. Sao Gaming lại đến Nod-Krai thế? Liyue cách đây xa lắm mà?
+Gaming: Là thế này, bởi vì tôi có một người chú quen biết ở đây, vừa hay trưởng bối trong nhà làm lễ mừng thọ.
+Gaming: Ông cụ rất nhớ quê, nói là chẳng cần vàng bạc hay sơn hào hải vị, chỉ muốn xem một màn kịch múa thú của Liyue.
+Gaming: Nhưng chú và trưởng bối trong nhà đều lớn tuổi cả rồi, không thể quay lại Liyue nữa... Cho nên đã nhờ tôi đến Nod-Krai biểu diễn một màn cho ông cụ.
+Gaming: Đúng lúc anh em tiêu sư nói rằng có một chuyến hàng đưa tới Nod-Krai, nên tôi đã cùng họ đến đây.
+Đi đường không gặp nguy hiểm gì chứ?
+Gaming: Cũng chỉ gặp vài kẻ trộm cướp thôi, bị chúng tôi đánh đuổi đi rồi, người và hàng đều không sao.
+Gaming: À, quay lại vấn đề chính. Tôi tới nhờ cô chủ Nefer liên hệ với người cung cấp hàng hóa để tìm giúp tôi một ít gỗ tốt.
+Gaming: Chờ có đủ gỗ là tôi có thể dựng sân khấu, rồi bắt đầu biểu diễn kịch múa thú rồi.
+Để tôi ghi lại nhé.
+Gỗ... Gaming...
+Gaming: Được rồi, cảm ơn nhé. Khi nào về Liyue tôi sẽ mời ăn... Ơ? Hình như có người đang gọi tôi...
+Gaming: À, chắc là anh em tiêu sư đang tìm tôi đấy. Tôi đi trước đây,, gặp lại sau nhé!
+Gaming: Tới đây! Tới đây!
+
+## Emilie
+
+Emilie:, Paimon, đã lâu không gặp, cũng ít liên lạc nữa.
+Paimon: Emilie! Lâu rồi không gặp...
+Rất vui được gặp lại cô.
+Paimon: Tôi và đang trực thay, có chuyện gì cần giúp thì cứ nói nhé.
+Emilie: Cảm ơn nhé. Nhưng tôi đến đây không phải để tìm người giúp đỡ. Mà là... có người cần tôi giúp đỡ.
+Hả? Chẳng lẽ là Nefer...
+Emilie: Đúng vậy. Tôi nhận được lời mời của cô chủ Nefer, đến đây tham gia điều tra một vụ án.
+Emilie: Cụ thể thì có một phú hào đột nhiên tử vong trong nhà, dấu vết ở hiện trường vụ án cũng bị phá hủy gần hết.
+Emilie: Manh mối duy nhất chính là mùi hương kỳ lạ trong phòng.
+Emilie: Vì cái chết của phú hào đó liên quan đến khối tài sản khổng lồ, nên người nhà đã tốn một khoản lớn để nhờ cô chủ Nefer tìm chuyên gia điều tra.
+Emilie: Còn cô chủ Nefer cũng đã nhanh chóng tập hợp được một đội ngũ có vẻ không tệ.
+Emilie: Trong đội có một tay đấm Fontaine với sức mạnh ghê gớm, một học giả Sumeru thông minh, một thương nhân Liyue nhạy bén, một thám tử Inazuma chuyên nghiệp...
+Cô cũng là một trong đó hả?
+Emilie: Đúng vậy. Tôi là "chuyên gia phân tích mùi hương".
+Emilie: Nhưng dù sao tôi cũng đang định đến Nod-Krai để tìm nguyên liệu tinh dầu mới, nên tham gia vào cuộc điều tra này cũng là tiện thể thôi.
+Emilie:, hãy ghi lại giúp tôi nhé. Nói là...
+Emilie: "Emilie đã đến Nod-Krai, chờ bắt đầu điều tra."
+Tôi sẽ ghi lại...
+Emilie: Cảm ơn nhé. Mặc dù còn muốn nói chuyện thêm với một lúc, nhưng tôi phải về để sắp xếp lại công cụ đã.
+Emilie: Nếu rảnh, chúng ta ngồi xuống uống chén trà đi, tôi có vài chuyện thú vị muốn chia sẻ với đấy.
+
+## Escoffier
+
+Escoffier: Đây chắc là Hội Đồng Bí Mật nhỉ... Ủa?
+Escoffier:, Paimon? Trùng hợp quá, không ngờ lại gặp được hai người ở đây.
+Escoffier: Hai người đang làm gì vậy?
+Trực hộ bạn bè ấy mà...
+Chúng tôi đang làm việc ở Nod-Krai đó.
+Escoffier: Haiz... Cũng không dễ dàng gì nhỉ.
+Escoffier: Đúng rồi, hai người có quen một cô gái người máy không? Trên người cô ấy có mùi Krumkake rất nồng.
+Escoffier: Hơn nữa, mùi thơm này rất... thuần khiết, ngửi là có thể cảm nhận được nó không dùng quá nhiều hương liệu phức tạp.
+Escoffier: Thời buổi này, loại Krumkake đơn thuần đến mức này hiếm thấy lắm, tôi rất tò mò về công thức đấy.
+Escoffier: Nhưng tôi còn chưa kịp hỏi thì cô gái người máy đó đã đi mất rồi.
+Paimon: Krumkake... Cô gái người máy... Chắc chắn là Ineffa rồi.
+Escoffier: Hai người biết sao? Vậy thì tốt quá, cô ấy ở đâu thế? Tôi muốn tới thăm một chút.
+Escoffier: Cô gái người máy đó thích ăn... À, chắc cô ấy không ăn thức ăn bình thường đâu nhỉ, tôi mua cho cô ấy một ít... dầu máy nhé?
+Cô có thể mang cho Aino chút đồ ăn ngon...
+Escoffier: Aino? Đó là...
+Escoffier: Hóa ra là vậy... Trẻ con ăn nhiều đồ ngọt đúng là không tốt lắm đâu.
+Paimon: Đây có phải trọng tâm đâu...
+Escoffier: Nhưng mà cái này không làm khó được tôi đâu. Tôi biết rất nhiều món ăn vặt ngon mà lại không ngọt.
+Escoffier: Ừm, tôi sẽ đi mượn nhà bếp, làm xong đồ ăn vặt rồi đến thăm nhà xưởng đó sau.
+Escoffier: Tốt quá, chuyến đi tới Nod-Krai này xem như không sai rồi. Vừa lấy được nguyên liệu mới, lại còn có thể gặp được công thức đặc biệt...

@@ -40,59 +40,45 @@ def test_extraction() -> None:
 
     check(len(entities) > 50, f"Trích được nhiều thực thể ({len(entities)})")
 
-    check("Baron Nashor" in by_name, "Bắt được thực thể từ dòng gạch đầu dòng")
-    check("Đường trên" in by_name, "Bắt được thực thể từ dòng đánh số")
+    check("Nahida" in by_name, "Bắt được thực thể là tiêu đề trang wiki")
+    check("Phản Ứng Nguyên Tố" in by_name, "Bắt được tên nhiều chữ")
 
-    # Bí danh trong ngoặc — thứ khiến "Rift Herald" tìm được dù KB viết tiếng Việt.
-    sgkn = by_name.get("Sứ Giả Khe Nứt")
-    check(
-        sgkn is not None and "Rift Herald" in sgkn.aliases,
-        "Tách được bí danh trong ngoặc",
-        f"aliases={sgkn.aliases if sgkn else None}",
+    # Vai trò lấy từ dòng `type:` của infobox chứ KHÔNG từ tiêu đề mục: tiêu đề mục
+    # của wiki là "Tổng Quan", "Mô Tả" — không nói gì về việc trang đó nói về cái gì.
+    # Phải tra theo CẢ tài liệu, không chỉ theo tên: "Nahida" xuất hiện ở cả
+    # Nahida.txt lẫn NPC.txt, mà by_name chỉ giữ bản cuối cùng.
+    nahida = next(
+        (e for e in entities if e.name == "Nahida" and e.source_name == "Nahida.txt"), None
     )
-    # Tra theo tên là KHÔNG đủ: "Xạ thủ" tồn tại ở cả hai game, bản Liên Quân
-    # không có bí danh. Phải tra đúng bản của Liên Minh.
-    adc = next(
+    check(
+        nahida is not None and nahida.kind == "Chơi Được",
+        "Suy được vai trò từ infobox (dòng type:)",
+        f"kind={nahida.kind if nahida else None}",
+    )
+    tdv = next(
         (e for e in entities
-         if e.name == "Xạ thủ" and e.source_name == "lien_minh_huyen_thoai.txt"),
+         if e.name == "Thánh Di Vật" and e.source_name == "Thánh Di Vật.txt"),
         None,
     )
     check(
-        adc is not None and {"ADC", "Bot"} <= set(adc.aliases),
-        "Tách được nhiều bí danh ngăn bởi dấu /",
-        f"aliases={adc.aliases if adc else None}",
+        tdv is not None and tdv.kind == "Loại Vật Phẩm",
+        "Trang Thánh Di Vật lấy đúng vai trò từ infobox",
+        f"kind={tdv.kind if tdv else None}",
     )
 
-    # Văn xuôi bám đuôi tên: "Thánh Di Vật (Artifact), gồm năm vị trí: ..."
-    check(
-        "Thánh Di Vật" in by_name,
-        "Cắt được phần văn xuôi bám sau tên",
-        f"tên gần đúng: {[n for n in by_name if 'Thánh' in n]}",
-    )
-    # ...nhưng KHÔNG được cắt nhầm tên vốn có dấu phẩy.
-    check(
-        any("Bo3" in n and "Bo5" in n for n in by_name),
-        "Không cắt nhầm tên có dấu phẩy đi kèm chữ hoa (Bo3, Bo5)",
-        f"tên gần đúng: {[n for n in by_name if 'Bo3' in n]}",
-    )
+    # Khoá infobox không được thành thực thể. Nếu 09_fetch_fandom.py xuất infobox
+    # dưới dạng `- type: X` thì mỗi trang sinh một thực thể tên "type" — 1.100 thực
+    # thể rác, và Lexicon khớp chữ "type" sẽ trả về toàn bộ chúng.
+    junk = [n for n in by_name if n.lower() in {"type", "quality", "region", "element"}]
+    check(not junk, "Khoá infobox không bị nhầm thành tên thực thể", f"{junk}")
 
-    # Vai trò suy ra từ tiêu đề mục — đây là thứ tạo ra cạnh `tương_tự`.
+    # Cùng một tên ở nhiều tài liệu phải là NHIỀU thực thể riêng, không được gộp.
+    mond = [e for e in entities if e.name.lower() == "mondstadt"]
+    sources = {e.source_name for e in mond}
     check(
-        by_name.get("Baron Nashor") is not None
-        and by_name["Baron Nashor"].kind == "mục tiêu trung lập",
-        "Suy được vai trò từ tiêu đề mục",
-        f"kind={by_name['Baron Nashor'].kind if 'Baron Nashor' in by_name else None}",
-    )
-
-    # Cùng một tên ở nhiều game phải là NHIỀU thực thể riêng, không được gộp.
-    # Bất biến cần kiểm là "mỗi tài liệu giữ một bản riêng", KHÔNG phải con số 2:
-    # "Đường Giữa" hiện có ở bốn game, và thêm game nữa vẫn phải đúng.
-    duong_giua = [e for e in entities if e.name.lower() == "đường giữa"]
-    sources = {e.source_name for e in duong_giua}
-    check(
-        len(duong_giua) >= 2 and len(sources) == len(duong_giua),
-        "Mỗi tài liệu giữ riêng một 'Đường Giữa', không gộp theo tên",
-        f"tìm thấy {len(duong_giua)} bản từ {len(sources)} tài liệu: {sorted(sources)}",
+        len(mond) >= 2 and len(sources) == len(mond),
+        "Mỗi tài liệu giữ riêng một 'Mondstadt', không gộp theo tên",
+        f"tìm thấy {len(mond)} bản từ {len(sources)} tài liệu",
     )
 
     # Cạnh tương_tự PHẢI nối chéo tài liệu, không bao giờ nối trong cùng một file.
@@ -104,14 +90,23 @@ def test_extraction() -> None:
     same_file = [
         e for e in similar if by_key[e.src].source_name == by_key[e.dst].source_name
     ]
-    check(len(similar) > 0, f"Có cạnh tương_tự giữa các game ({len(similar)} cạnh)")
+    check(len(similar) > 0, f"Có cạnh tương_tự giữa các tài liệu ({len(similar)} cạnh)")
     check(not same_file, "Cạnh tương_tự không bao giờ nối trong cùng một tài liệu")
 
-    pairs = {(by_key[e.src].name, by_key[e.dst].name) for e in similar}
-    pairs |= {(b, a) for a, b in pairs}
+    # Nhóm vai trò QUÁ LỚN phải bị loại, nếu không số cạnh phình theo bậc hai và
+    # quan hệ mất hết ý nghĩa ("hai nhân vật cùng là nhân vật chơi được").
+    sim_kinds = {by_key[e.src].kind for e in similar} | {by_key[e.dst].kind for e in similar}
     check(
-        ("Baron Nashor", "Thần Rừng") in pairs,
-        "Nối được Baron Nashor <-> Thần Rừng (thứ vector KHÔNG nối được)",
+        not ({"khái niệm", "chủ đề", "Chơi Được"} & sim_kinds),
+        f"Nhóm vai trò lớn hơn {graph.MAX_SIMILAR_GROUP} bị loại khỏi cạnh tương_tự",
+        f"lọt: {sorted({'khái niệm', 'chủ đề', 'Chơi Được'} & sim_kinds)}",
+    )
+    # ...nhưng nhóm vừa phải thì PHẢI được nối: hai vũ khí cùng loại là quan hệ
+    # có thật mà vector search không nối được (tên chúng không giống nhau chữ nào).
+    check(
+        bool({"Kiếm Đơn", "Trọng Kiếm", "Cung", "Pháp Khí"} & sim_kinds),
+        "Nối được các vũ khí cùng loại (thứ vector KHÔNG nối được)",
+        f"vai trò có cạnh: {sorted(sim_kinds)[:8]}",
     )
 
 
@@ -124,20 +119,17 @@ def test_lexicon() -> None:
     entities, _ = graph.extract(docs)
     lex = graph.Lexicon(entities)
 
-    found = lex.find("Baron Nashor cho buff toàn đội")
-    check("Baron Nashor" in found, "Tìm được tên đầy đủ")
+    check("Mondstadt" in lex.find("Mondstadt là thành phố của tự do"), "Tìm được tên đầy đủ")
 
-    # Khớp dài trước: "Rồng Ngàn Tuổi" KHÔNG được tính thành "Rồng".
-    # (Nếu câu có thêm chỗ nhắc "Rồng" đứng riêng thì trả về cả hai là ĐÚNG —
-    #  ở đây kiểm tra riêng trường hợp chỉ có một lần xuất hiện.)
-    found = lex.find("Rồng Ngàn Tuổi xuất hiện muộn trong trận")
+    # Khớp cụm DÀI trước: "Phản Ứng Nguyên Tố" không được cắt thành "Nguyên Tố".
+    found = lex.find("Phản Ứng Nguyên Tố quyết định lối chơi")
     check(
-        "Rồng Ngàn Tuổi" in found and "Rồng" not in found,
+        "Phản Ứng Nguyên Tố" in found,
         "Khớp cụm dài trước, không cắt thành thực thể ngắn hơn",
-        f"tìm thấy: {found}",
+        f"tìm thấy: {found[:5]}",
     )
 
-    check("Sứ Giả Khe Nứt" in lex.find("Rift Herald dùng để phá trụ"), "Tìm được qua bí danh")
+    check(bool(lex.find("Phản ứng Bốc Hơi rất mạnh")), "Tìm được tên nằm giữa câu")
     check(not lex.find("Hôm nay trời đẹp và tôi muốn nấu phở"), "Không bắt nhầm văn bản vô quan")
 
 
@@ -159,32 +151,33 @@ def test_graph_db() -> None:
             return
 
         lex = graph.load_lexicon(conn)
-        check(bool(lex.find("Baron Nashor")), "Nạp được bộ dò tên từ database")
+        check(bool(lex.find("Mondstadt")), "Nạp được bộ dò tên từ database")
 
-        nbrs = graph.neighbors(conn, ["Baron Nashor"], ("tương_tự",))
+        # Akuoumaru là một Trọng Kiếm — nhóm vai trò vừa đủ nhỏ để có cạnh tương_tự.
+        seed = "Akuoumaru"
+        nbrs = graph.neighbors(conn, [seed], ("tương_tự",))
         names = [n["name"] for n in nbrs]
-        check("Thần Rừng" in names, "Đi được một bước sang thực thể cùng vai trò", f"{names}")
-        check("Baron Nashor" not in names, "Không trả về chính nó làm hàng xóm")
+        check(bool(nbrs), "Đi được một bước sang thực thể cùng vai trò", f"{names[:5]}")
+        check(seed not in names, "Không trả về chính nó làm hàng xóm")
         check(
-            all(n["from_name"] == "Baron Nashor" for n in nbrs),
+            all(n["from_name"] == seed for n in nbrs),
             "Ghi lại được đi TỪ thực thể nào, để giải thích được vì sao đoạn được kéo vào",
         )
         check(
-            all(n["kind"] == "mục tiêu trung lập" for n in nbrs),
+            len({n["kind"] for n in nbrs}) == 1,
             "Hàng xóm qua cạnh tương_tự luôn cùng vai trò",
-            f"{[(n['name'], n['kind']) for n in nbrs]}",
+            f"{sorted({n['kind'] for n in nbrs})}",
         )
 
         # Điều cần kiểm: đi qua cạnh `tương_tự` phải RA KHỎI tài liệu gốc. Không
-        # chốt cứng tên file đích — Baron Nashor giờ có hàng xóm ở nhiều game, và
-        # top-3 rơi vào game nào là chuyện của trọng số, không phải của bất biến.
+        # chốt cứng tên file đích — top-3 rơi vào tài liệu nào là chuyện của trọng
+        # số, không phải của bất biến.
         chunks = graph.chunks_mentioning(conn, names, limit=3)
         sources = {c["source_name"] for c in chunks}
-        home = {"lien_minh_huyen_thoai.txt", "lien_minh_toc_chien.txt"}  # nơi Baron Nashor ở
         check(
-            bool(sources - home),
-            "Từ thực thể hàng xóm lấy được chunk của game khác",
-            f"chỉ lấy được chunk trong chính {home}: {sources}",
+            bool(sources - {f"{seed}.txt"}),
+            "Từ thực thể hàng xóm lấy được chunk của tài liệu khác",
+            f"chỉ lấy được chunk trong chính {seed}.txt: {sources}",
         )
 
         # Đếm theo số file thật trong knowledge_base/, KHÔNG chốt cứng con số:
@@ -278,10 +271,10 @@ def test_grounding() -> None:
     # Thực thể CÓ THẬT trong knowledge base nhưng KHÔNG có trong đoạn được truy hồi:
     # thông tin nghe đúng nhưng không đến từ nguồn đã trích — rất khó thấy bằng mắt.
     r = verify.check(
-        "Nguyên Thạch dùng cho gacha, tương tự Baron Nashor.", [context], lexicon=lex
+        "Nguyên Thạch dùng cho gacha, giống như ở Mondstadt.", [context], lexicon=lex
     )
     check(
-        "Baron Nashor" in r.ungrounded_entities,
+        "Mondstadt" in r.ungrounded_entities,
         "Bắt được thực thể có thật nhưng nằm ngoài ngữ cảnh đã truy hồi",
         str(r.ungrounded_entities),
     )

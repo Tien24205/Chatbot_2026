@@ -1,0 +1,17 @@
+# Dinh Thự Tửu Trang Dawn
+
+## Thông Tin Cơ Bản
+
+type: Địa Điểm Đáng Chú Ý
+type2: Nội Khu
+region: Mondstadt
+area: Cao Nguyên Thương Phong
+subarea: Tửu Trang Dawn
+
+- Adelinde - Elzer - Hillie - Moco
+
+- Tượng Dạ Hiêu: (Tương tác với Tượng Dạ Hiêu) Tượng Dạ Hiêu: "Người canh giữ màn đêm, đừng quên ánh sáng lúc bình minh." Tượng Dạ Hiêu: "Người chiến đấu với tà ác, đừng quên trái tim chính nghĩa."
+
+- Bình Hoa Kỳ Lạ: (Tương tác với Bình Hoa Kỳ Lạ) Bình Hoa Kỳ Lạ: Một bình hoa có phong cách khác hẳn với phong cách của tòa nhà. Hình như là quà tặng của một người nào đó.
+
+- Sách: Sách có thể được tìm thấy xung quanh dinh thự:

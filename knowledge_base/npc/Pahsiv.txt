@@ -1,0 +1,59 @@
+# Pahsiv
+
+## Cửa Hàng
+
+type: NPC Nhiệm Vụ
+group: Melusine
+region: Fontaine
+location: Fontaine
+
+- Tổng Quan: Pahsiv là NPC độc quyền chỉ xuất hiện trong, ở Khu Rừng Erinnyes, Fontaine.
+
+Sau, có thể tìm thấy Pahsiv gần lối vào hang phía đông bắc của Hồ Urania. Trao đổi 6 Cành Cây Rừng Rậm và mua hết tất cả vật phẩm trong cửa hàng sẽ nhận được, tuy nhiên sau đó sẽ không thể tìm thấy Pahsiv tại vị trí này nữa.
+
+## Tiểu Sử
+
+Pahsiv là "tinh linh" trông coi và bảo vệ Khu Rừng Erinnyes. Cô ấy chỉ dùng lượng vốn từ ít ỏi, thường hay nói "pahsiv" với nghĩa là "có" và "Melusine" với nghĩa là "không". Cô ấy không biết các Melusine khác, vốn phổ biến ở Làng Merusea hay Đại Sảnh Fontaine.
+
+Trong sự kiện ở Tinh Linh Hoang Dã Của Erinnyes, Nhà Lữ Hành và Paimon tình cờ gặp cô ấy khi giải câu đố ở Khu Rừng Erinnyes. Hai người kết luận rằng Pahsiv muốn hồi sinh Liễu Rũ Trong Hồ đang bị Khối U Ăn Rễ và ổ Sói Ma Vật làm héo úa. Họ quyết định hỗ trợ cô ấy để hồi sinh Liễu; tuy vậy, khi Sói Ma Vật tấn công, cô ấy đã bỏ chạy, sau đó cô thấy Nhà Lữ Hành và Paimon hồi sinh Liễu, cô quay lại với vài rương để tặng cho họ vì công lao hồi sinh Liễu.
+
+- Ngoại Hình: Tông màu của cô ấy tương tự Rồng Biển Sâu - Nguyên Thủy, tóc và da của cô ấy có màu xanh dương đậm, đôi mắt của cô ấy có màu hồng và con ngươi dọc, không giống các Melusine khác.
+
+## Hội Thoại
+
+Pahsiv: Paimon! (Nhà Lữ Hành)!
+Chúng tôi mang Cành Cây Rừng Rậm tới rồi.
+:Pahsiv: Cành cây! Cành cây! Pahsiv!
+;(Mở menu đổi)
+Chúng tôi mang Tidalga tới rồi.
+:Pahsiv: Tidalga! Tidalga! Tidalga! Tidalga! Tidalga! Đổi nào!
+:Pahsiv: Cảm ơn Paimon! Cảm ơn (Nhà Lữ Hành)! Cảm ơn Tidalga!
+:Pahsiv: Pahsiv!
+(Sau khi người chơi giao Cành Cây Rừng Rậm)
+Paimon: Pahsiv có vẻ rất vui, không biết thứ này để làm gì nữa...
+Pahsiv: Cành Cây Rừng Rậm, rất có ích! Vị khách đó, rất có ích!
+Đây là thứ vị khách đó cần à?
+Pahsiv: Pahsiv! Cành Cây Rừng Rậm... thông tin!
+Pahsiv: À... Cảm ơn Paimon, cảm ơn (Nhà Lữ Hành), kho báu, đây!
+(Sau khi mua hết vật phẩm và giao Cành Cây Rừng Rậm)
+Pahsiv: Rương... Kho báu... Melusine...
+Paimon: Ây da! Pahsiv, chúng tôi đổi hết đồ của cô rồi hả?
+Pahsiv: Pahsiv... ra ngoài! Pahsiv... tìm!
+Không có cũng không sao.
+Paimon: Đúng vậy, chúng tôi có thể cho cô Tidalga mà!
+Pahsiv: Melusine!
+Pahsiv: Paimon, bạn... thật lòng! (Nhà Lữ Hành), bạn... thật lòng! Vậy nên... đổi!
+Paimon: Vậy... thôi được, Pahsiv phải ra ngoài bao lâu? Chúng ta còn gặp lại nữa không?
+Pahsiv: Gặp... lại?
+Paimon: Gặp lại, có nghĩa là hy vọng gặp nhau lần nữa đó.
+"Hẹn gặp lại" là lời dùng để tạm biệt.
+Paimon: Đúng vậy! Lần trước đã nói rồi, chúng tôi phải dạy cô cách tạm biệt. Vì vậy, Pahsiv, thử nói một câu đi?
+Pahsiv: Tạm... biệt?
+Paimon: Hmm... Cô không hiểu tạm biệt là gì, đúng không?
+Paimon: Để tôi nghĩ xem... Cái đó cũng gần giống như trao đổi, dùng ngày mai để đổi lấy ngày mai...
+Paimon: Lấy một chút ngày mai của cô đưa cho chúng tôi, chúng tôi cũng đưa cho cô một ít của chúng tôi, như vậy là chúng ta có thể gặp lại rồi! Sao nào? Nói vậy cô hiểu được không?
+Pahsiv: Ngày mai... đổi lấy... ngày mai...! Pahsiv!
+Paimon: Woa, xem ra cô hiểu rồi! Vậy chúng ta tạm biệt nhau nhé, hẹn gặp lại đàng hoàng là nhất định sẽ gặp lại thôi!
+Paimon: Hẹn gặp lại! Pahsiv!
+Hẹn gặp lại!
+Pahsiv: Hẹn gặp lại! (Nhà Lữ Hành)! Hẹn gặp lại! Paimon!

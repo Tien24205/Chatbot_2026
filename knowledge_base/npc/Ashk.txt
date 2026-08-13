@@ -1,0 +1,70 @@
+# Ashk
+
+## Thông Tin Cơ Bản
+
+type: NPC Đại Thế Giới
+region: Sumeru
+location: Sumeru
+affiliation: Rtawahist
+title: Học Giả
+dialoguereward: Lữ Khách Của Mê Cung*1
+
+- Tổng Quan: Ashk là một NPC đại thế giới có vị trí tại. Nói chuyện lần đầu với nhánh hội thoại nhất định, người chơi sẽ nhận được một 4 Lữ Khách Của Mê Cung.
+
+## Lời Thoại Nhàn Rỗi
+
+Bầu trời...
+: "The sky will reveal everything to us."
+Trong Điển Lễ Trí Tuệ
+Nhìn không rõ...
+: "Turns out I can't actually see anything from this high up... Oh well, it's not a big deal anyways."
+Trong Khúc Hoan Ca Của Hoa Và Kẹo Màu
+Bầu trời... Kẹo...
+: "Hmm... Candy doesn't usually fall from the sky..."
+
+- Suy Nghĩ: Ashk: (Hình như đã lâu rồi không gặp đại nhân Cyno... Đại nhân không phải đi đánh bài suốt đó chứ?) Trong Điển Lễ Trí Tuệ Ashk: (Đại nhân Cyno, cố lên nhé.)
+
+## Hội Thoại
+
+Ashk: Dù đứng cao tới đâu đi nữa thì thân vẫn ở trên mặt đất...
+Xin chào.
+:Ashk: Chào bạn, nơi này hiếm khi có người lui tới, bạn cũng tới đây ngắm bầu trời ư?
+:Ashk: Bầu trời khó mà chạm tới, là chân lý soi sáng khắp thế gian này... Ít ra thì Học Phái Rtawahist bọn tôi cho là vậy.
+:Ashk: Nhưng tầm mắt của người thường lại có hạn, ai có thể đảm bảo mình có thể thấy hết toàn bộ hiện tượng thiên văn chứ?
+:Ashk: Bạn thì sao, bạn nghĩ thế nào?
+: Bầu trời quyết định vận mệnh...
+:;(Trước khi hoàn thành Đích Đến Của Con Thuyền Ý Thức)
+:::Ashk: À, bạn muốn nói về đề tài "Cung Mệnh" à?
+:::Ashk: Tiếc quá, tôi không phải người sở hữu Vision, nên không có duyên tham gia nghiên cứu loại này.
+:::Ashk: Nhưng cá nhân tôi cảm thấy vận mệnh không phải do bầu trời "quyết định", mà chỉ là được bầu trời "hiển thị" mà thôi.
+:::Ashk: Bởi vì có "quyết định", thì có thể bị "sửa đổi", không phải sao?
+:::Ashk: Nếu vận mệnh có thể sửa được, có lẽ Đại Vương Rukkhadevata cũng sẽ không phải chịu kết cục này rồi.
+:;(Sau khi hoàn thành Đích Đến Của Con Thuyền Ý Thức)
+:::Ashk: Có phải bạn đang nói đến chủ đề "vận mệnh"?
+:::Ashk: Rất tiếc, tôi không phải người sở hữu Vision, vì vậy không có cơ hội tham gia loại nghiên cứu này.
+:::Ashk: Nhưng tôi cảm thấy, vận mệnh không phải do bầu trời sao quyết định, chỉ là bầu trời sao đã thể hiện nó ra mà thôi.
+:::Ashk: Vì có quyết định, nên có khả năng bị thay đổi, không phải sao?
+:::Ashk: Nếu vận mệnh có thể thay đổi, có lẽ Thảo Thần đại nhân đã không cần tốn nhiều sức lực như vậy để dẹp bỏ tai họa rồi.
+: Mắt thấy chưa chắc là thật...
+::Ashk: Đúng vậy, ánh mắt của con người thật sự rất dễ bị chuyển hướng, cũng rất dễ bị lừa.
+::Ashk: Nếu tôi là Matra thì tôi sẽ có thể nói cho bạn biết rằng vô tri cũng là một kiểu che chở.
+::Ashk: Nhưng sự vô tri của con người cũng không ảnh hưởng đến sự tồn tại của chân lý. Nếu như che mắt một cách mù quáng thì...
+::Ashk: Ái chà, hình như tôi đã nói quá nhiều. Bạn cứ xem lời tôi nói như một cơn gió thổi qua nhé.
+:;(Nhận 4 Lữ Khách Của Mê Cung)
+Để tôi nghĩ đã.
+:Ashk: Ừm.
+
+## Điển Lễ Trí Tuệ
+
+Ashk: Có câu đứng cao để nhìn xa, nhưng nếu là nhìn thẳng xuống thì, đứng cao sẽ khó nhìn rõ được thứ ở bên dưới...
+Ashk: À, xin lỗi, tôi tự lẩm bẩm thôi.
+Ashk: Nếu muốn tham gia Đại Hội Học Viện, thì đi đến đây chắc là lạc đường rồi nhỉ? Đã vượt khỏi phạm vi rồi đấy.
+
+## Khúc Hoan Ca Của Hoa Và Kẹo Màu
+
+Ashk: Dù đã đứng ở nơi cao như vậy, nhưng vẫn loáng thoáng nghe thấy tiếng ồn ào từ khu chợ...
+Ashk: Haha, xem ra niềm vui cũng giống như kẹo ngọt rải rác trong Lễ Hội Sabzeruz, đều có thể lan tỏa khắp mọi nơi.
+Xin chào.
+;(Giống bên trên)
+Để tôi nghĩ đã.
+;(Giống bên trên)

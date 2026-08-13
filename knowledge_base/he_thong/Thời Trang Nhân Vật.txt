@@ -1,0 +1,13 @@
+# Thời Trang Nhân Vật
+
+## Tổng Quan
+
+group: Tiền Tệ Hóa
+group2: Giao Diện
+type: Hệ Thống Trò Chơi
+
+Thời Trang cho phép người chơi tùy chỉnh nhân vật sau khi hoàn thành Nhiệm Vụ Ma Thần: Mở Đầu Màn 1 - Người Phương Xa Đuổi Theo Gió, nhiệm vụ Tai Họa Rồng. Giao diện Thời Trang có thể được mở thông qua nút bấm ở phần Giao Diện Nhân Vật. Sau khi Nhân Vật đạt đến Cấp 90, biểu tượng sẽ mở rộng ra và bao gồm dòng chữ "Thời Trang".
+
+- Trang Phục: Trang Phục là mỹ phẩm cho các nhân vật chơi được. Tùy chỉnh này hoàn toàn mang tính thẩm mỹ và không ảnh hưởng đến lối chơi.
+
+- Phong Chi Dực: Tùy chọn này thay đổi Phong Chi Dực mà nhân vật sử dụng. Tùy chỉnh này hoàn toàn mang tính thẩm mỹ và không ảnh hưởng đến lối chơi.

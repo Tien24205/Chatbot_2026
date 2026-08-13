@@ -1,0 +1,18 @@
+# Sedene
+
+## Thông Tin Cơ Bản
+
+type: NPC Đại Thế Giới
+group: Melusine
+region: Fontaine
+location: Fontaine
+affiliation: Đội Hắc Ảnh Marechaussee
+voiceEN: [[imdb:nm0220635
+Debi Derryberry]]<ref name: "Debi Derryberry">TikTok: Diễn Viên Lồng Tiếng Tiếng Anh Tự Thông Báo
+voiceJP: w|ja:阿保まりあ|Abo Maria (ja|阿保まりあ)
+
+- Tổng Quan: Sedene là một NPC đại thế giới ở Đại Sảnh Fontaine: Palais Mermonia, Khu Đại Sảnh Fontaine. Cô ở đằng sau chiếc bàn bên trong Palais Mermonia.
+
+## Từ Nguyên
+
+- "Sedene" có thể được dựa trên Sedna, nữ thần đại dương trong thần thoại Inuit. Cô thường được miêu tả là nhân vật nửa người nửa cá (hoặc nửa hải cẩu), có nét tương đồng với Melusine trong văn hóa dân gian châu Âu.

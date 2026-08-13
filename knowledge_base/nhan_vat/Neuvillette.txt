@@ -1,0 +1,30 @@
+# Neuvillette
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+quality: 5
+weapon: Pháp Khí
+element: Thủy
+arkhe: Pneuma
+name: Neuvillette
+birthday: 18 tháng 12
+constellation: Nguyên Hải Cự Linh
+region: Fontaine
+group: Rồng
+affiliation: Đại Sảnh Fontaine
+affiliation2: Palais Mermonia
+affiliation3: Đội Hắc Ảnh Marechaussee
+affiliation4: Thất Vương
+dish: "Một Giọt Mưa Bay"
+namecard: Sóng Trào
+obtain: Cầu Nguyện Nhân Vật
+event_name: Pháp Lệnh Biển Sâu
+releaseDate: 2023-09-27
+title: Tiếng Sóng Phán Quyết
+title2: Thẩm Phán Tối Cao Của Fontaine
+title3: Thẩm Phán Tối Cao
+voiceEN: w|Ray Chase (voice actor)|Ray Chase
+voiceCN: Sang Yuze (zh|桑毓泽)
+voiceJP: w|Hiroshi Kamiya|Kamiya Hiroshi (ja|神谷浩史)
+voiceKR: Kwak Yoon-sang (ko|곽윤상)

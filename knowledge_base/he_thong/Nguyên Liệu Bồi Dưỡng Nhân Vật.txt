@@ -1,0 +1,11 @@
+# Nguyên Liệu Bồi Dưỡng Nhân Vật
+
+## Thông Tin Cơ Bản
+
+type: Loại Vật Phẩm
+
+- Tổng Quan: Nguyên Liệu Bồi Dưỡng Nhân Vật là Đạo Cụ Bồi Dưỡng dùng để đột phá Nhân Vật và tăng cấp Thiên Phú của họ. Chúng có thể rơi ra từ Thủ Lĩnh.
+
+- Rơi Ra Từ Thủ Lĩnh: Những nguyên liệu sau chỉ rơi ra từ một Thủ Lĩnh nhất định và sử dụng để đột phá nhân vật từ Bậc 2 trở lên.
+
+- Rơi Ra Từ Boss Tuần: Những nguyên liệu sau chỉ rơi ra từ một Boss Tuần nhất định và sử dụng để đột phá Thiên Phú từ Cấp 7 trở lên.

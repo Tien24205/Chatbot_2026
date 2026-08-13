@@ -1,0 +1,19 @@
+# Kiểu Chữ
+
+## Tổng Quan
+
+type: Genshin Impact
+
+Genshin Impact sử dụng nhiều kiểu chữ và phông chữ khác nhau trong trò chơi và các phương tiện truyền thông chính thức. Trang này sẽ tổng hợp và giải thích chi tiết về các kiểu chữ cụ thể được sử dụng trong nhiều khía cạnh của trò chơi.
+
+## Kiểu Chữ Chính
+
+Kiểu chữ chính của Genshin Impact, tức phông chữ dùng để hiển thị trong trò chơi là một kiểu chữ độc quyền được miHoYo chỉnh sửa dựa trên Hanyi WenHei (Tiếng Trung: 汉仪文黑 Hànyí Wénhēi) với độ đậm 85W (Extra Bold) hay HYWenHei-85W, một phông chữ được phát triển bởi công ty thiết kế phông chữ chuyên nghiệp Trung Quốc Hanyi Fonts (Beijing Hanyi Innovation Technology Co., Ltd.), một studio thiết kế phông chữ nổi tiếng của Trung Quốc.
+
+Theo mặc định, phông chữ HYWenHei-85W hỗ trợ 6763 glyph ký tự tiếng Trung Giản thể từ tiêu chuẩn bộ ký tự GB2312-80 của Cộng hòa Nhân dân Trung Hoa, 6763 glyph ký tự tiếng Trung Phồn thể từ tiêu chuẩn bộ ký tự GB12345-90 của Cộng hòa Nhân dân Trung Hoa, cũng như 9169 ký tự khác thường được sử dụng trên Internet (bao gồm các ký tự Kana của tiếng Nhật); phông chữ trong trò chơi chứa tất cả các ký tự đó. Ngoài các glyph đã đề cập ở trên, một số glyph ký tự tiếng Trung tuân theo phong cách của Hanyi WenHei có thể được thiết kế bởi miHoYo hoặc được miHoYo thuê thiết kế; các glyph khác không theo phong cách này nhưng vẫn được bao gồm trong phông chữ trong trò chơi thì được lấy trực tiếp từ Microsoft YaHei (Tiếng Trung: 微软雅黑 Wēiruǎn Yǎhēi) Bold.
+
+Phông chữ này đã được miHoYo chỉnh sửa hoặc thuê chỉnh sửa, với các thay đổi như hiển thị chữ Hán theo kiểu Nhật khi ngôn ngữ trò chơi được đặt thành tiếng Nhật, dấu chấm giữa nửa chiều rộng (halfwidth interpunct) được hiển thị thành toàn chiều rộng (fullwidth), và nhiều chỉnh sửa khác. Một số glyph chữ Hán Shinjitai của Nhật Bản không được sử dụng trong tiếng Trung, chẳng hạn như, không có trong HYWenHei-85W nhưng lại xuất hiện trong phiên bản của miHoYo với phong cách giống với phần còn lại của phông chữ, cho thấy miHoYo có thể đã thuê Hanyi Fonts thiết kế các glyph độc quyền này cho họ.
+
+Ngoài ra, các phông chữ Latin và Cyrillic được sử dụng trong kiểu chữ này tách biệt khỏi HYWenHei-85W và có thể được thiết kế bởi miHoYo hoặc được miHoYo thuê thiết kế. HYWenHei-85W vốn hỗ trợ các ký tự Latin, nhưng chúng không được sử dụng trong trò chơi và một kiểu chữ Latin riêng được áp dụng.
+
+Các ký tự tiếng Hàn không được HYWenHei-85W hỗ trợ gốc, tuy nhiên phông chữ của miHoYo có bao gồm chúng. Phần lớn các glyph tiếng Hàn đến từ Nanum Gothic Extrabold; các glyph khác không có trong phông chữ gốc có thể đã được miHoYo ghép, thiết kế hoặc thuê thiết kế.

@@ -39,6 +39,22 @@ CHAT_MODEL_FALLBACK = env("GEMINI_CHAT_MODEL_FALLBACK", "gemini-flash-latest")
 EMBED_MODEL = env("GEMINI_EMBED_MODEL", "gemini-embedding-001")
 EMBED_DIMENSION = int(env("EMBED_DIMENSION", "1536"))
 
+# --- Chọn nơi chạy embedding ------------------------------------------------
+#   gemini : gọi API, chất lượng tốt nhưng có hạn mức 1.000 request/NGÀY tính
+#            theo TÀI KHOẢN Google (không phải theo project — đổi key không giúp).
+#   local  : chạy trên máy bằng sentence-transformers, không hạn mức, không key.
+#
+# Hết hạn mức không chỉ chặn việc nạp dữ liệu mà chặn cả việc HỎI, vì mỗi câu hỏi
+# cũng cần embed. Với knowledge base vài nghìn chunk thì `local` là lựa chọn duy
+# nhất còn chạy được ổn định.
+EMBED_BACKEND = env("EMBED_BACKEND", "gemini").lower()
+
+# Đa ngữ, có tiếng Việt. KHÔNG dùng all-MiniLM-L6-v2 (gần như thuần tiếng Anh)
+# dù nó phổ biến trong các demo LangChain.
+LOCAL_EMBED_MODEL = env("LOCAL_EMBED_MODEL", "intfloat/multilingual-e5-base")
+LOCAL_EMBED_DEVICE = env("LOCAL_EMBED_DEVICE", "cpu")
+LOCAL_EMBED_BATCH = int(env("LOCAL_EMBED_BATCH", "16"))
+
 # Đo bằng 03_eval_retrieval.py và 08_eval_answers.py, KHÔNG chép từ tutorial.
 # Dưới ngưỡng này chatbot từ chối ngay, không gọi LLM.
 #

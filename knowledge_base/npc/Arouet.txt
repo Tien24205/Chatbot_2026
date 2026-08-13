@@ -1,0 +1,46 @@
+# Arouet
+
+## Thông Tin Cơ Bản
+
+type: NPC Đại Thế Giới
+region: Fontaine
+location: Fontaine
+affiliation: Tiệm Cà Phê Lutece
+affiliation2: Sảnh Phúc Luật
+affiliationNote2: cũ
+title: Quản Lý, Tiệm Cà Phê Lutece
+dialoguereward: Card|Bánh Ốc Pha Lê|3
+
+## Tổng Quan
+
+Arouet là một NPC thương nhân tại Đại Sảnh Fontaine - Phố Vasari, Fontaine. Anh ấy điều hành Tiệm Cà Phê Lutece, đánh dấu bằng biểu tượng trên bản đồ.
+
+Cửa hàng mở bán cả ngày và bán Thực Phẩm, Công Thức và Nguyên Liệu Nấu Nướng. Được làm mới mỗi ngày.
+
+Lần đầu tiên theo một nhánh hội thoại nhất định sẽ cho người chơi Bánh Ốc Pha Lê.
+
+- Công Thức: Giá ở trong ngoặc là giá sau khi áp dụng giảm giá.
+
+- Lời Thoại Nhàn Rỗi: Cội nguồn sinh mệnh! : "Cội nguồn sinh mệnh!"
+
+## Hội Thoại
+
+Arouet: Chào mừng đến với Tiệm Cà Phê Lutece. Ở đây có cà phê đắng nhất, bánh kem ngọt nhất, những vị khách tỉnh táo nhất và tào lao nhất.
+Về đồ ngọt...
+:Arouet: Đảm bảo mỗi miếng đều ngọt như nụ cười của Melusine.
+;(Mở giao diện Tiệm Cà Phê Lutece)
+Về thứ đắng...
+:Arouet: Về cà phê thì mỗi vị khách đều có khẩu vị khác nhau, còn tôi là người đang nỗ lực để thỏa mãn sở thích của họ.
+:Arouet: Nhưng nếu có người muốn cà phê hoặc trà không có chút đắng nào, thì tôi đành bó tay rồi.
+:Arouet: Nếu gặp phải tình huống này, tôi sẽ đề nghị người đó đến thăm Palais Mermonia hoặc Salon Caritat, rồi nói chuyện với quý ngài hay quý cô đầu tiên mà họ gặp.
+: Cảm ơn, nhưng mà thôi vậy.
+::Arouet: Bạn có vẻ là như là một người rất lý trí nhỉ.
+::Arouet: Ở chỗ tôi, lý trí và tỉnh táo sẽ có khái niệm khác nhau.
+::Arouet: Tôi rất thích khách hàng lý trí, nên sẽ chúc họ một ngày vui vẻ và ngọt ngào.
+:;(Nhận Bánh Ốc Pha Lê)
+Tỉnh táo và tào lao...
+:Arouet: Như bạn thấy, chỗ này là quán cà phê, chứ không phải quán rượu.
+:Arouet: Ở đây thường có mấy quý ngài vừa nghỉ ngơi vừa khoác lác, mà tôi thì âm thầm cầu nguyện, ước gì họ vì uống say nên mới nói ra những lời đó.
+:Arouet: Những lời người ta nói khi tỉnh táo đôi khi còn ngớ ngẩn hơn những con ma men lảm nhảm.
+Tạm biệt.
+:Arouet: Đi thong thả, lần sau lại tới nhé.

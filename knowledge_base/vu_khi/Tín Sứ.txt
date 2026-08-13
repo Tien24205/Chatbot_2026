@@ -1,0 +1,28 @@
+# Tín Sứ
+
+## Thông Tin Cơ Bản
+
+id: 15305
+type: Cung
+releaseDate: 2020-09-28
+quality: 3
+base_atk: 40
+2nd_stat_type: ST Bạo Kích
+2nd_stat: 6,8%
+passive: Mũi Tên Truyền Tin
+effect: Nếu trọng kích đánh trúng điểm yếu, sẽ tạo thành thêm sát thương bằng (var1)% tấn công, sát thương này chắc chắn bạo kích. Mỗi 10s chỉ có hiệu quả 1 lần.
+obtain: Rương
+eff_rank1_var1: 100
+eff_rank2_var1: 125
+eff_rank3_var1: 150
+eff_rank4_var1: 175
+eff_rank5_var1: 200
+
+## Câu Chuyện
+
+Tương truyền rằng, ở một quãng thời gian nào đó trong lịch sử cổ xưa kia,
+Người dân cảng Liyue, thích dùng cung đưa tin.
+"Như vậy chẳng phải sẽ bắn vào người đi ngang qua sao"
+"Chính vì vậy, cây cung này mới thành món đồ cổ" Ông chủ tiệm đồ cổ cười mỉm, vuốt nhẹ hàm râu của mình
+
+- Được tìm thấy ngẫu nhiễn trong Rương Thường và Cao Cấp hoặc cao hơn.

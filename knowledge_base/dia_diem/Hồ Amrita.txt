@@ -1,0 +1,18 @@
+# Hồ Amrita
+
+## Thông Tin Cơ Bản
+
+type: Địa Điểm Đáng Chú Ý
+map_level: Hồ Amrita
+subarea: Ốc Đảo Vourukasha
+area: Vườn Farakhkert
+subregion: Ốc Đảo Hoang Mạc
+region: Sumeru
+
+- Tổng Quan: Hiến tế Tịnh Quang Vũ cho Hồ Amrita sẽ tăng cấp Amrita Ban Phúc và cung cấp phần thưởng. Mở khóa Hồ Amrita bằng cách hoàn thành nhiệm vụ Trái Tim Amrita, nhiệm vụ có sẵn sau khi hoàn thành.
+
+## Câu Chuyện
+
+Amrita được tạo ra trong thảm họa năm trăm năm trước, khi vị Thần Thủy tiền nhiệm Egeria bị giết tại Vực Thẳm Tunigi trong khi chiến đấu chống lại những con quái vật và sự ăn mòn đang tràn vào Teyvat. Đại Vương Rukkhadevata đã tạo ra Harvisptokhm từ Amrita, thứ đã neo giữ ý thức của Egeria vào cõi phàm và cho phép cô đóng vai trò như một phong ấn lên vực thẳm. Tuy nhiên, Amrita và Harvisptokhm bắt đầu bị ăn mòn. Để thanh tẩy, Khvarena Simurgh, mà Nabu Malikata đã giao cho Rukkhadevata trông nom vào thời điểm này, đã uống Amrita trước khi vỡ ra thành vô số Khvarena, trở thành Pari.
+
+- là một từ tiếng Phạn có nghĩa là "bất tử" và là một khái niệm trung tâm trong các tôn giáo Ấn Độ, thường được nhắc đến trong các văn bản cổ của Ấn Độ như một loại thần dược.

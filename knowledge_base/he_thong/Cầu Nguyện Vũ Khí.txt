@@ -1,0 +1,34 @@
+# Cầu Nguyện Vũ Khí
+
+## Tổng Quan
+
+type: Loại Cầu Nguyện
+
+Sự Kiện Cầu Nguyện Vũ Khí là Cầu Nguyện với hai Vũ Khí 5 (gồm 1 vũ khí giới hạn) và năm vũ khí 4 được đề cử. Cả vũ khí 5 và 4 được đề cử sẽ có tỉ lệ nhận cao hơn so với tỉ lệ thông thường. Người chơi có thể sử dụng Định Chuẩn Thần Đúc để định chuẩn vũ khí mong muốn.
+
+## Quy Luật
+
+- Đảm Bảo 4: Nếu người chơi không có 4 nào trong 9 lần quay, thì lần thứ 10 chắc chắn sẽ ra 4 hoặc cao hơn.
+- Bộ đếm số lần này sẽ reset khi người chơi ra được 4.
+- Đảm Bảo Vũ Khí 4 UP: Khi cầu nguyện nhận được vật phẩm 4, có 75% cơ hội nhận một trong những vũ khí UP của kỳ đó.
+- Nếu vật phẩm 4 sao đó không phải vũ khí UP, thì vật phẩm 4 sao ở lần sau chắc chắn là vũ khí UP.
+- Vì vậy tối đa là 20 lần, chắc chắn sẽ có một Vũ Khí 4★ UP.
+- Đảm Bảo 5: Nếu người chơi không có 5 nào sau 79 lần quay, thì lần thứ 80 chắc chắn sẽ ra 5.
+- Bộ dếm số lần này sẽ reset khi người chơi ra được 5.
+- Đảm Bảo Vũ Khí 5 UP: Khi cầu nguyện nhận được vũ khí 5, có 75% xác suất là một trong những vũ khí 5 UP.
+- Nếu vũ khí 5 nhận được đó không phải vũ khí UP, thì vũ khí 5 trong lần tiếp theo chắc chắn là vũ khí UP.
+- Vì vậy tối đa là 160 lần, chắc chắn sẽ có một trong các Vũ Khí 5 UP.
+- Các banner vũ khí sẽ không thể ra nhân vật 5.
+- Bộ đếm và lần Bảo Đảm: Các Banner cùng loại đều có chung bộ đếm và số lần đảm bảo, có nghĩa là số lần bộ đếm của Banner Nhân Vật này sẽ được tiếp tục trong Banner Nhân Vật Tiếp Theo (Nhưng không phải là Banner Vũ Khí hoặc Cầu Nguyện Thường).
+- Ví Dụ: Khi bạn quay được 79 lần ở Banner Vũ Khí gọi tắt là A, không ra 5. Thì lần đầu tiên bạn quay ở Banner Vũ Khí Tiếp Theo gọi tắt là B, chính là lần 80 của Banner Vũ Khí. Vì vậy nó sẽ đảm bảo ra 5.
+- Tương tự nếu như bạn không ra được 5 UP ở Banner A thì bộ đếm bảo hiểm vẫn sẽ được bảo đảm. 5 tiếp theo mà bạn ra ở Banner B chắc chắn là 5 UP.
+
+## Định Chuẩn Thần Đúc
+
+- Sau khi định chuẩn cho vũ khí UP 5 Sao mong muốn, khi cầu nguyện "Thân Hình Thần Đúc" vũ khí 5 Sao nhận được không phải như đã định chuẩn, sẽ nhận được 1 Điểm Vận Mệnh. "Điểm Vận Mệnh" tối đa là 2 điểm.
+- Khi điểm vận mệnh đầy, vũ khí 5 sao tiếp theo nhận được trong cầu nguyện "Thân Hình Thần Đúc" kỳ này sẽ là vũ khí đã chọn trong "Định Chuẩn Thần Đúc".
+- Khi nhận được Vũ Khí trong Định Chuẩn Thần Đúc, điểm vận mệnh đã tích lũy sẽ được thiết lập lại về 0.
+- Khi chưa "Định Chuẩn Thần Đúc", cầu nguyện sẽ không được tích lũy Điểm Vận Mệnh.
+- Trạng thái định chuẩn vũ khí có thể thay đổi, hoặc hủy bỏ. Khi thay đổi hoặc hủy bỏ Điểm Vận Mệnh đã tích lũy sẽ được thiết lập lại về 0.
+- Khi "Thân Hình Thần Đúc" kỳ này kết thúc, điểm vận mệnh đã tích lũy sẽ được thiết lập lại về 0.
+- Vì thế, có thể cần tối đa tới 240 lần cầu nguyện (38.400 nguyên thạch) cho một kỳ Thân Hình Thần Đúc để có thể nhận được vũ khí 5 đã chọn.

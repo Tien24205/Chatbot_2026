@@ -1,0 +1,44 @@
+# Aravinay
+
+## Tổng Quan
+
+type: NPC
+group: Aranara
+region: Sumeru
+location: Sumeru
+
+Aravinay là một NPC Thương Nhân tìm thấy tại Mahavanaranapna, thế giới trong mơ tại Vanarana, Sumeru. Aravinay bán Bản Vẽ Rèn bằng cách sử dụng Câu Chuyện Về Bạn Và Aranara để trao đổi. Khi trao đổi hết 5 bản vẽ của Aravinay, người chơi sẽ nhận được thành tựu Câu Chuyện Về Rừng Rậm.
+
+- Thoại Nhàn Rỗi: Nếu như có câu chuyện mới... Có rất nhiều câu chuyện mới...
+
+## Hội Thoại
+
+ Đoạn hội thoại trước khi người chơi hoàn thành chuỗi Nhiệm Vụ Thế Giới Aranyaka
+Aravinay: Bạn Nara, muốn nghe câu chuyện về Aranara không? Aravinay biết rất nhiều, nhưng phải dùng câu chuyện mới để trao đổi.
+Kể lại chuyến mạo hiểm cùng Aranara.
+:Aravinay: Bạn Nara mang đến câu chuyện như thế nào? Có thể khiến gốc cổ thụ kinh ngạc đến mức rơi mất giọt sương trên lá cây hay không?
+Về câu chuyện đã qua...
+:Aravinay: Rất nhiều câu chuyện ngày xưa đều bắt đầu từ sau khi Nara Varuna đến Vanarana mới bắt đầu được kể lại.
+:Aravinay: Bạn Nara mới và Nara Varuna đều là màu vàng, nhất định cũng có thể mang tới rất nhiều câu chuyện mới.
+Về cây gậy trong tay...
+:Aravinay: "Gậy" của Aravinay, là cây gậy báu từng nghe rất nhiều câu chuyện.
+:Aravinay: Vân gậy cũng không ngừng phát triển hệt như vòng tuổi của cây. Nghe càng nhiều câu chuyện thì sẽ càng to khỏe.
+:Aravinay: Một ngày nào đó, có thể trở thành một gốc cây lớn chứa đầy những câu chuyện.
+:Aravinay: Nếu như bạn Nara là Aranara, nhất định sẽ hiểu rõ.
+Tạm biệt.
+:Aravinay: Ừm. Aravinay hiểu rồi, bạn là một Nara chứa đầy những câu chuyện. Nếu có chuyện nào hay thì chúng ta hãy chia sẻ với nhau nhé.
+
+ Đoạn hội thoại sau khi người chơi hoàn thành chuỗi Nhiệm Vụ Thế Giới Aranyaka
+Aravinay: Nara (Nhà Lữ Hành) mang đến rất nhiều câu chuyện mới, Aravinay kể hết chuyện rồi mà chuyện mới vẫn còn chưa hết.
+Kể lại chuyến mạo hiểm cùng Aranara.
+:Aravinay: Hóa ra đây chính là câu chuyện về Arama... Chuyện về Cây Ashvattha mới...
+Về câu chuyện mới...
+:Aravinay: Câu chuyện mới của Nara (Nhà Lữ Hành) và Arama cũng căng mọng như Bija vậy.
+:Aravinay: Bất kể mặt trời mọc lên bao nhiêu lần, câu chuyện của các bạn vẫn sẽ không bị lãng quên, Vana sẽ mãi mãi ghi nhớ các bạn.
+Về cây gậy trong tay...
+:Aravinay: "Gậy" của Aravinay, là cây gậy báu từng nghe rất nhiều câu chuyện.
+:Aravinay: Vân gậy cũng không ngừng phát triển hệt như vòng tuổi của cây. Nghe càng nhiều câu chuyện thì sẽ càng to khỏe.
+:Aravinay: Một ngày nào đó, có thể trở thành một gốc cây lớn chứa đầy những câu chuyện.
+:Aravinay: Nếu như bạn Nara là Aranara, nhất định sẽ hiểu rõ.
+Tạm biệt.
+:Aravinay: Ừm. Aravinay hiểu rồi, bạn là một Nara chứa đầy những câu chuyện. Nếu có chuyện nào hay thì chúng ta hãy chia sẻ với nhau nhé.

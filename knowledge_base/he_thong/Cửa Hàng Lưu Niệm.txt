@@ -1,0 +1,10 @@
+# Cửa Hàng Lưu Niệm
+
+## Tổng Quan
+
+type: Loại Địa Điểm
+type2: Cửa Hàng
+
+Cửa Hàng Lưu Niệm luôn xuất hiện ở mỗi quốc gia ở Teyvat. Thay vì trả bằng Mora thì chúng trả bằng Ấn. Các cửa hàng đó sẽ cung cấp Nguyên Liệu Bồi Dưỡng Nhân Vật, Nguyên Liệu Đột Phá Vũ Khí, Nguyên Liệu Rèn và Mora. Các món hàng không được bao giờ được nhập về lại kho hàng.
+
+- Cửa Hàng Lưu Niệm Đặc Biệt: Những cửa hàng này bán các vật phẩm kỷ niệm bằng Mora, bao gồm nhạc cụ và đồ chơi từ các Sự Kiện trước.

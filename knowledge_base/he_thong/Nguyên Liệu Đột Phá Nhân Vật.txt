@@ -1,0 +1,15 @@
+# Nguyên Liệu Đột Phá Nhân Vật
+
+## Tổng Quan
+
+type: Loại Vật Phẩm
+
+Nguyên Liệu Đột Phá Nhân Vật là những nguyên liệu sử dụng để đột phá Nhân Vật khi đạt đến cấp cao nhất. Phần lớn nguyên liệu được phân theo nguyên tố. Tất cả nhân vật đều yêu cầu Nguyên Liệu Đột Phá Nhân Vật có cùng loại nguyên tố - ngoại trừ Nhà Lữ Hành sử dụng nguyên liệu đột phá gọi là Kim Cương Bạc.
+
+Xem Đột Phá Nhân Vật để biết thông tin về khi nào nhân vật có thể đột phá. Kiểm tra trang của từng nhân vật để xem nguyên liệu cho phần đột phá hoặc kiểm tra từng trang nguyên liệu để xem nhân vật nào sử dụng chúng để đột phá.
+
+## Ngọc Đột Phá
+
+Dưới đây là tất cả Nguyên Liệu Đột Phá Nhân Vật thuộc loại Ngọc Đột Phá.
+
+Ngoại trừ Kim Cương Bạc, tất cả loại ngọc đột phá có độ hiếm cao hơn đều có thể được chế tạo thông qua Giả Kim cách Ghép các nguyên liệu có độ hiếm thấp hơn cùng nguyên tố. Người chơi cần đạt Hạng Mạo Hiểm yêu cầu để mở khóa khả năng ghép nguyên liệu cần thiết. Hạng Mạo Hiểm 25 cho Mảnh, Hạng Mạo Hiểm 35 cho Miếng, và Hạng Mạo Hiểm 45 cho Ngọc.

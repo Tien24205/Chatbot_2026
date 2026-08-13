@@ -1,0 +1,17 @@
+# Kitsune Saiguu
+
+## Thông Tin Cơ Bản
+
+type: Nhắc Đến
+deceased: Quá Khứ
+region: Inazuma
+affiliation: Gia Tộc Hakushin
+affiliation2: Đền Narukami
+affiliation3: Ei
+group: Kitsune (Chủng Tộc)
+ancestry: Gia Tộc Bạch Thần
+title: Hồ Ly Bạch Thần
+
+## Tổng Quan
+
+, còn được biết với danh xưng Hồ Ly Bạch Thần, là một nhân vật quan trọng ở Inazuma. Cô là hậu duệ của Gia Tộc Bạch Thần. Kitsune Saiguu, cùng với oni Chiyo, là gia quyến của Ei; cô cũng là người chỉ dạy cho Asase Hibiki.

@@ -1,0 +1,33 @@
+# Imix
+
+## Thông Tin Cơ Bản
+
+type: NPC Đại Thế Giới
+region: Natlan
+location: Natlan
+affiliation: Con Của Tiếng Vang
+affiliation2: Tiệm Đá Quý Muhuru
+title: Học Việc, Tiệm Đá Quý Muhuru
+
+- Tổng Quan: Imix là một NPC thương nhân tại. Cô bé là người học việc tại Tiệm Đá Quý Muhuru. Cửa hàng mở bán cả ngày và bán quặng và nguyên liệu. Nguyên liệu được làm mới mỗi 3 ngày.
+
+- Lời Thoại Nhàn Rỗi: Lấp la lấp lánh! : "Muốn xem vài viên đá quý không? Lấp la lấp lánh!"
+
+## Hội Thoại
+
+Imix: Xin chào! trông thật lấp lánh, xứng đáng sở hữu những viên đá quý rực rỡ nhất!
+Em có đề xuất gì không?
+: Cửa hàng này có vô số loại đá quý được yêu thích! Hiện tại cửa tiệm đang có sẵn những mẫu này, cũng có thể đặt làm riêng theo sở thích của mình.
+:;(Mở Cửa Hàng)
+lấp lánh lắm sao?
+:Imix: Đúng vậy. Mỗi người đều sẽ tỏa sáng theo cách riêng, phải không nào?
+:Imix: Sư phụ Cheven màu xanh, chị Xilonen màu vàng, và Kachina thì màu đỏ rực ấm áp...
+:Imix: Còn em sao? Hihi, bí mật!
+: Thật sự có thể nhìn thấy màu sắc sao?
+:Imix: Chậc... Không được hỏi những câu hỏi thiếu lãng mạn như vậy! Cảm xúc của con người là tương thông với nhau. Hương vị, màu sắc và nhiệt độ đều có thể tương tự.
+:Imix: Vì vậy, mỗi người đều có một loại đá quý phù hợp nhất với bản thân. Dù đối với người khác nó chỉ là một viên bi thủy tinh, nhưng đối với thì nó cũng có thể là thứ đặc biệt nhất.
+:Imix: Kho đá quý của sư phụ Cheven là bộ sưu tập lớn nhất mà em từng thấy... Thế nào, có muốn đến đó xem thử không?
+Cảm ơn em đã khen nhé.
+:Imix: Đừng khách sáo, nhớ ghé thường xuyên nhé!
+
+- Imix là ngày đầu tiên của Tzolkʼin, một trong những lịch Mayan. Imix được tượng trưng bởi hoa súng và con cá sấu.

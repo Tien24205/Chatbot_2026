@@ -1,0 +1,15 @@
+# Bánh Kem Tặng Cho Nhà Lữ Hành
+
+## Thông Tin Cơ Bản
+
+type: Nhóm Vật Phẩm
+type2: Vật Phẩm Quý
+source1: Nhận được vào sinh nhật của Nhà Lữ Hành
+
+- Tổng Quan: Bánh Kem Tặng Cho Nhà Lữ Hành là một vật phẩm nhận được vào ngày sinh nhật trên hồ sơ của người chơi. Ngày này sẽ do người chơi thiết lập và không thể thay đổi sau đó.
+
+- Cách Nhận: Người chơi sẽ nhận được một chiếc bánh sinh nhật thông qua Thư Hệ Thống vào ngày sinh nhật đã chọn trước đó, không đăng nhập vào trò chơi trong ngày đó thì sẽ không nhận được vật phẩm.
+
+- Sử Dụng: Khi sử dụng chiếc bánh thì người chơi sẽ nhận được Nhựa Dễ Vỡ và một phiên bản khác của bánh để làm kỷ niệm.
+
+- Các Phiên Bản: Mỗi năm, người chơi sẽ nhận được một loại bánh khác nhau, kiểu dáng của bánh sẽ được thay đổi vào sinh nhật của trò chơi.

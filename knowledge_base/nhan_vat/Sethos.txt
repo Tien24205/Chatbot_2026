@@ -1,0 +1,29 @@
+# Sethos
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+quality: 4
+weapon: Cung
+element: Lôi
+name: Sethos
+birthday: 31 tháng 05
+constellation: Thánh Danh Hoàn
+region: Sumeru
+affiliation: Ngôi Đền Im Lặng
+affiliation2: Vahumana
+dish: Thịt Cuộn Thơm Nức Mũi
+namecard: Bạt Linh
+obtain: Cầu Nguyện
+releaseDate: 2024-06-05
+title: Thước Đo Trí Tuệ
+title2: Sứ Giả Sa Mạc
+adoptive: Relative Type|Ông bà|Bamoun|ref=Quest|Dấu Chân Trong Cát Lún
+voiceEN: Zeno Robinson
+voiceCN: Li Lanling (zh|李兰陵)
+voiceJP: w|Shoya Chiba|Chiba Shoya (ja|千葉翔也)
+voiceKR: w|ko:김동현 (CJ ENM 성우)|Kim Dong-hyun (ko|김동현)
+
+- Tổng Quan: Sethos là một nhân vật hệ Lôi chơi được trong Genshin Impact. Cậu là thủ lĩnh của Ngôi Đền Im Lặng và là người từng tiếp nhận sức mạnh của Hermanubis.
+
+- Cầu nguyện thường Du Hành Thế Gian (Vĩnh Viễn) từ Phiên Bản 4.8 - Tất cả sự kiện Cầu Nguyện Nhân Vật và Cầu Nguyện Vũ Khí từ Phiên Bản 4.8

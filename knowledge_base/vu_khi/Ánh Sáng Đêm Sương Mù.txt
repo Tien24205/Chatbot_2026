@@ -1,0 +1,83 @@
+# Ánh Sáng Đêm Sương Mù
+
+## Thông Tin Cơ Bản
+
+id: 11509
+type: Kiếm Đơn
+releaseDate: 2021-07-21
+quality: 5
+base_atk: 48
+2nd_stat_type: ST Bạo Kích
+2nd_stat: 9,6%b
+series: Inazuma
+obtain: Sự Kiện Cầu Nguyện Vũ Khí
+passive: Linh Vật Cắt Sương
+eff_rank1_var1: 12
+eff_rank2_var1: 15
+eff_rank3_var1: 18
+eff_rank4_var1: 21
+eff_rank5_var1: 24
+eff_rank1_var2: 8/16/28
+eff_rank2_var2: 10/20/35
+eff_rank3_var2: 12/24/42
+eff_rank4_var2: 14/28/49
+eff_rank5_var2: 16/32/56
+eff_att1: Tăng ST Nguyên Tố
+eff_att2: Năng Lượng Nguyên Tố
+eff_att3: Hiệu Quả Kích Hoạt Khi Tấn Công Thường
+
+## Effect
+
+Tăng (var1)% Sát Thương Nguyên Tố, đồng thời nhận lấy sức mạnh "Vết Cắt Sương Mù". Khi Vết Cắt Sương Mù ở tầng 1/2/3 sẽ tăng Sát Thương Nguyên Tố cùng loại với bản thân, tương ứng là (var2)%. Nhân vật sẽ được nhận 1 tầng Vết Cắt Sương Mù khi: Tấn Công Thường tạo thành Sát Thương Nguyên Tố tồn tại trong 5 giây; Thi triển Kỹ Năng Nộ tồn tại trong 10 giây; Ngoài ra, Năng Lượng Nguyên Tố của nhân vật khi thấp hơn 100%, sẽ tạo ra một tầng Vết Cắt Sương Mù, Vết Cắt Sương Mù của lần này sẽ biến mất sau khi Năng Lượng Nguyên Tố của nhân vật được nạp đầy. Thời gian tồn tại của mỗi tầng Vết Cắt Sương Mù được tính độc lập với nhau.
+
+- Tổng Quan: là Kiếm Đơn 5 sao nhận được từ Sự Kiện Cầu Nguyện Vũ Khí.
+
+## Lưu Ý Về Cơ Chế
+
+- Mô tả vũ khí có nói rằng hiệu quả kích hoạt được khi Tấn Công Thường, nhưng nếu Trọng Kích có thể gây Sát Thương Nguyên Tố thì đòn đánh đầu tiên vẫn áp dụng hiệu quả tích tầng của. Tuy vậy, hiệu quả nội tại của vũ khí này không áp dụng cho Tấn Công Khi Đáp.
+- Các tầng Vết Cắt Sương Mù tính độc lập phân theo nguồn gây tích tầng Vết Cắt Sương Mù; tầng Vết Cắt Sương Mù được gây ra trong một nguồn gây tích tầng sẽ tái lập sau khoảng thời gian xác định. Ví dụ, thi triển 2 lần Tấn Công Thường liên tiếp gây Sát Thương Nguyên Tố sẽ chỉ tích được 1 tầng Vết Cắt Sương Mù, bởi khoảng thời gian giữa 2 lần Tấn Công Thường liên tiếp chưa vượt quá 5 giây; chỉ sau 5 giây mới nhận được 1 tầng Vết Cắt Sương Mù mới (và xóa tầng Vết Cắt Sương Mù trước đó).
+- Khi hiệu quả nội tại đã sẵn sàng kích hoạt, sẽ có luồng sáng xung quanh vũ khí. Luồng sáng đó sáng ở mức nào phụ thuộc vào số tầng Vết Cắt Sương Mù tích được.
+
+## Câu Chuyện
+
+Một trong những thanh kiếm mà Shogun ban tặng cho Hatamoto, nghe nói có thể chém mọi thứ kể cả ngọn núi và sương mù với sức mạnh của sấm sét.
+
+Nó đã từng bị vỡ thành hàng nghìn mảnh. Sau khi đúc lại, trên thân kiếm để lại những hoa văn tựa như mây trời.
+
+Trong ca dao, "Cánh cổng Arataki, sự kế thừa Iwakura, mãng xà Kitain, và Vết Cắt Sương Mù Takamine"
+
+Đứa trẻ yêu thích võ thuật đã đọ sức với các võ sĩ lừng danh trong lịch sử. Takamine chính là người đó.
+
+TTừng cùng với vị thần thực hiện Tế Lễ, dùng bí kiếm "Vết Cắt Sương Mù" của mình để đánh bại vô số quái vật và Họa Thần.
+
+Hắn học được những điều tâm đắc về cách dùng cung của Tengu, lại dạy kỹ thuật bắn cung cho những người hợp ý mình.
+
+Sau đó bí kiếm Vết Cắt Sương Mù không còn người kế thừa, chỉ tồn tại trong thoại bản, hình vẽ và các bài đồng dao.
+
+Trong những năm tháng cuối đời, anh đã ở trong quân đội của Shogun, chiến đấu chống lại đội quân hắc ám.
+
+Nếu như không mang cây cung yêu thích của mình để đặt cược cho cô ấy, có lẽ tình hình đã khác.
+
+Nhưng những con bạc chân chính dù thế nào cũng không thể hối hận, tuyệt đối không so đo hai chữ "nếu như", cũng như tuyệt đối không bao giờ nuối tiếc "giá như".
+
+Kẻ thù tràn vào như màn sương mù, vậy thì cứ liên tục sử dụng thanh kiếm có thể chém mọi thứ kể cả ngọn núi và sương mù là được.
+
+Nếu tốc độ cắt đứt đủ nhanh thì có thể đánh tan làn sương đen mê hoặc của dục vọng, thấy được ánh sáng thôi.
+
+"Asase, thoả thuận của chúng ta... không, canh bạc này, ta nhất định sẽ không thua đâu."
+
+"Tôi nhất định sẽ trở lại, lấy lại cây cung mà tôi đã đặt cược, và cả tương lai của mình!"
+
+Giống những chuỗi tia sét bất tận, hắn đã cùng "Vết Cắt Sương Mù" hạ gục vô số quái vật.
+
+Nhưng cuối cùng đao kiếm vẫn không đọ lại sự cố chấp bền bỉ của kiếm khách, dần bị vỡ vụn.
+
+Và màn sương đen cũng đã hoàn toàn nhấn chìm anh...
+
+Cuối cùng chỉ có một bộ phận những mảnh vỡ được lấy ra đúc lại, và lấy cái tên "Vết Cắt Sương Mù".
+
+Chiến binh nắm chặt chuôi kiếm gãy giống như nắm chặt sợi tơ nhện đang cắm xuống nơi hắc ám.
+
+Trong bóng tối và sương mù dày đặc, anh vẫn cố chấp tự nhủ với chính mình:
+
+Ván cược vẫn chưa phân thắng bại. Tôi phải trở về với Asase...

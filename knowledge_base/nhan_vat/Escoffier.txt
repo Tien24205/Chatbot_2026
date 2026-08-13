@@ -1,0 +1,35 @@
+# Escoffier
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+arkhe: Ousia
+quality: 5
+weapon: Vũ Khí Cán Dài
+element: Băng
+name: Escoffier
+birthday: 08 tháng 06
+constellation: Hương Cao Tháp
+region: Fontaine
+affiliation: Đại Sảnh Fontaine
+affiliationNote: trên hồ sơ
+affiliation2: Khách Sạn Debord
+affiliationNote2: bếp trưởng tiền nhiệm
+dish: Bánh Kem Debord - Lộng Lẫy
+namecard: Thú Vị
+obtain: Cầu Nguyện Nhân Vật
+event_name: La Chanson Cerise
+releaseDate: 2025-05-07 11:00:00 GMT+8
+title: Muôn Hương Hòa Quyện
+title2: Người Tiên Phong "Ẩm Thực Kỹ Thuật"
+voiceEN: [[imdb:nm12853763
+Emily Cass]]<ref>YouTube: [https://www.youtube.com/watch?v: wpJYIALczqM&t=562s Chương Trình Đặc Biệt Genshin Impact Phiên Bản 5.6]
+voiceCN: Cai Haiting (zh|蔡海婷)
+voiceJP: w|Satomi Satō|Satō Satomi (ja|佐藤聡美)
+voiceKR: Son Jeong-min (ko|손정민)YouTube: 원신
+
+## Tổng Quan
+
+Escoffier là nhân vật hệ Băng chơi được, sở hữu Sức Mạnh Nền Tảng trong Genshin Impact.
+
+Từng làm việc tại Khách Sạn Debord, Escoffier luôn duy trì tiêu chuẩn cực cao cho các món ăn của mình. Cũng vì thái độ của cô dành cho những tiêu chuẩn ấy mà nhiều người e ngại, hơn nữa cô thường mắng mỏ những ai lãng phí thức ăn không đúng cách.

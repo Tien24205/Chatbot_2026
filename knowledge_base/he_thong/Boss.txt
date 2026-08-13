@@ -1,0 +1,26 @@
+# Boss
+
+## Thông Tin Cơ Bản
+
+type: Kẻ Địch
+
+- Tổng Quan: Boss là những Kẻ Địch mạnh, cung cấp cho người chơi những Vật Phẩm cấp cao khi được đánh bại. Tất cả Thủ Lĩnh và Boss Tuần đều cần tiêu hao Nhựa Nguyên Chất để nhận thưởng.
+
+## Thủ Lĩnh
+
+Mọi Kẻ Địch cấp Thủ Lĩnh đều sẽ mạnh hơn Kẻ Địch Tinh Anh, nhưng phần thưởng nhận được sẽ cao hơn. Không giống như Kẻ Địch Tinh Anh, mỗi khi bị đánh bại sẽ có một Hoa Tàng Kim xuất hiện ở khu vực đó, và người chơi có thể sử dụng Nhựa Nguyên Chất để mở và nhận phần thưởng. Chúng sẽ hồi sinh sau vài phút, nhưng bạn cần rời khỏi những khu gần vị trí của nó, như là dịch chuyển để tới một địa điểm xa nơi đó hoặc thoát trò chơi. Dịch chuyển (tới Điểm Dịch Chuyển trên Teyvat gần đó, vào Ấm Trần Ca, hoặc tới khu vực sự kiện giới hạn Quần Đảo Táo Vàng) và việc di chuyển ra khỏi đó và tới những nơi xung quanh Thủ Lĩnh sẽ không được tính.
+
+Phần thưởng của Thủ Lĩnh gồm EXP Mạo Hiểm cùng với một lượng Mora và EXP Yêu Thích nhất định tùy thuộc vào Cấp Thế Giới của người chơi. Cũng có khả năng sẽ rơi ra Nguyên Liệu Đột Phá Nhân Vật nhất định và một vài Thánh Di Vật tùy thuộc vào cấp độ và loại của Thủ Lĩnh.
+
+## Danh Sách Thủ Lĩnh
+
+- - - - - - - - - - - - - - - ==Boss Tuần==
+
+Đối đầu với Boss Tuần sẽ khó khăn hơn Thủ Lĩnh và phần thưởng mà người chơi nhận được sẽ giá trị hơn rất nhiều. Sau khi đánh bại chúng, một Hoa Tàng Kim sẽ xuất hiện và người chơi có thể kích hoạt bằng cách tiêu hao Nhựa Nguyên Chất để nhận phần thưởng. Nếu đây là một trong 3 Hoa Tàng Kim đầu tiên người chơi kích hoạt trong tuần thì sẽ được giảm lượng tiêu hao còn Nhựa Nguyên Chất. Phần thưởng của Boss Tuần sẽ được làm mới trong thế giới của người chơi vào lúc 4 giờ sáng thứ Hai hàng tuần (giờ máy chủ).
+
+Phần thưởng của tất cả Boss Tuần bao gồm EXP Mạo Hiểm cùng một lượng Mora và EXP Yêu Thích nhất định tùy thuộc vào Cấp Thế Giới của người chơi. Ngoài ra còn có tỷ lệ rơi ra Nguyên Liệu Đột Phá Nhân Vật, Thánh Di Vật, và Phôi Vũ Khí (Phôi Kiếm Đơn Bắc Lục, Phôi Cung Bắc Lục, Phôi Trọng Kiếm Bắc Lục Phôi Vũ Khí Cán Dài Bắc Lục, Phôi Pháp Khí Bắc Lục) tùy thuộc vào Cấp Bí Cảnh đối với Azhdaha, Dvalin, Childe và Signora, và Cấp Thế Giới đối với Andrius.
+
+## Danh Sách Boss Tuần
+
+- - - - - ==Thủ Lĩnh Sự Kiện==
+Boss Sự Kiện là Boss đặc biệt xuất hiện và liên quan đến Sự Kiện. Một số Boss Sự Kiện sẽ rơi ra một số Vật Phẩm dựa vào Hạng Mạo Hiểm. Vật Phẩm nhận được có thể là Vật Phẩm Sự Kiện để sử dụng trong Cửa Hàng Sự Kiện.

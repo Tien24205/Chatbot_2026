@@ -1,0 +1,35 @@
+# Jahoda
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+quality: 4
+weapon: Cung
+element: Phong
+teamBonus: Nguyệt Triệu
+name: Jahoda
+birthday: 05 tháng 01
+constellation: Môi Quả
+region: Nod-Krai
+affiliation: Hội Đồng Bí Mật
+affiliation2: Mạng Lưới Tình Báo Bắc Đại Lục
+affiliation3: Hiệp Hội Nhà Mạo Hiểm
+affiliation4: Bang Móc Biển
+affiliationNote4: trước đây
+dish: "Bài Tập Về Nhà"
+namecard: Trợ Thủ
+obtain: Cầu Nguyện
+releaseDate: 2025-12-03 11:00:00 GMT+8
+title: Bóng Hình Đan Gió
+title2: Nhân Viên Chính Thức Của Hội Đồng Bí Mật
+voiceEN: [[imdb:nm5015345
+Sonya Krueger]]<ref name: "Luna I EN">YouTube: Video Giới Thiệu Phiên Bản Luna I (Mô tả video)
+voiceCN: Han Jiaojiao (zh|韩娇娇)
+voiceJP: w|Konomi Inagaki|Inagaki Konomi (ja|稲垣好)
+voiceKR: Oh Ro-ah (ko|오로아)
+
+## Tổng Quan
+
+Jahoda là một nhân vật hệ Phong chơi được trong Genshin Impact.
+
+Một nhân viên của Hội Đồng Bí Mật và tự xưng là một thợ săn tiền thưởng huyền thoại. Jahoda từng là một thành viên của Bang Móc Biển, cô được Nefer thu nhận để trở thành thành viên tiền tuyến duy nhất, nhằm che đậy các hoạt động và nguồn tin của Nefer dưới Mạng Lưới Tình Báo Bắc Đại Lục.

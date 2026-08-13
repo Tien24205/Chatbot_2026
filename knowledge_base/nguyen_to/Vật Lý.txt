@@ -1,0 +1,21 @@
+# Vật Lý
+
+## Tổng Quan
+
+notelement: 1
+
+Sát Thương Vật Lý là một trong 8 loại Sát Thương chính, với 7 loại còn lại là Sát Thương Nguyên Tố.
+
+Kiếm Đơn, Trọng Kiếm, Vũ Khí Cán Dài, Cung có thể gây Sát Thương Vật Lý bằng Tấn Công Thường, riêng Cung có thể gây Sát Thương Vật Lý bằng cách Tụ Lực không hoàn toàn. Pháp Khí là loại vũ khí duy nhất không thể gây Sát Thương Vật Lý, bởi tất cả các đòn tấn công đều đính kèm nguyên tố. Cách duy nhất để nhân vật dùng pháp khí gây Sát Thương Vật Lý là qua nội tại của vũ khí, ví dụ như Chiêu Tâm và Quyển Thiên Không có thể gây thêm Sát Thương Vật Lý.
+
+Một số kỹ năng, cung mệnh giúp gây thêm Sát Thương Vật Lý. Xem ở dưới để biết thêm chi tiết.
+
+- Đột Phá: Một số nhân vật có chỉ số đột phá là Tăng Sát Thương Vật Lý.
+
+- Thiên Phú: Có những kỹ năng nguyên tố và kỹ năng nộ gây Sát Thương Vật Lý.
+
+- Nội Tại: Nội tại của các vũ khí này có hiệu quả gây sát thương Vật Lý, nên hiệu quả Tăng Sát Thương Vật Lý có tác dụng.
+
+- Bí Cảnh: Các bí cảnh sau có Địa Mạch Bất Thường tăng Sát Thương Vật Lý của nhân vật: - Thung Lũng Ký Ức (tăng 75% Sát Thương) - La Hoàn Thâm Cảnh
+
+- Giảm Kháng Sát Thương Vật Lý: Một số thiên phú và cung mệnh giảm kháng Sát Thương Vật Lý của kẻ địch. Ngoài ra, phản ứng Siêu Dẫn cũng giảm kháng Sát Thương Vật Lý 40% trong 12 giây.

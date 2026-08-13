@@ -1,0 +1,16 @@
+# Dunyarzad
+
+## Thông Tin Cơ Bản
+
+type: NPC Nhiệm Vụ
+realname: Dunyarzad Homayani
+region: Sumeru
+location: Sumeru
+ancestry: Nhà Homayani
+father: Shahzaman
+voiceEN: [[imdb:nm6903068
+voiceCN: Zhang Anqi (zh|张安琪)
+voiceJP: w|ja:三川華月|Mikawa Haruna (ja|三川華月)
+voiceKR: w|ko:윤은서|Yoon Eun-seo (ko|윤은서)
+
+- Tổng Quan: Dunyarzad Homayani là NPC Nhiệm Vụ xuất hiện lần đầu trong.

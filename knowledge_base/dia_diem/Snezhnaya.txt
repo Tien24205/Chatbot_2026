@@ -1,0 +1,34 @@
+# Snezhnaya
+
+## Mô Tả
+
+map: Teyvat
+chapter: Chương 6
+element: Băng
+archon: Tsaritsa
+festival: Krsnik Noc
+controlling_entity: Fatui
+
+Snezhnaya là vùng đất có băng giá vĩnh cửu; Nadia kể rằng ở Snezhnaya thường có những cơn bão tuyết triền miên có thể kéo dài đến hàng tháng, nhưng ngay cả trong lòng hiểm cảnh, người Snezhnaya vẫn ngước nhìn lên và cảm thấy hạnh phúc vì được sống. Childe còn nói rằng con người ở đây sẽ bị đông cứng đến chết nếu họ không di chuyển liên tục ngoài trời. Bầu trời Snezhnaya vào ban đêm thường hay xuất hiện các dải cực quang đầy màu sắc.
+
+Snezhnaya có nền công nghệ quân sự tiên tiến vượt trội so với các đất nước cùng lục địa. Venti khẳng định Fatui là tổ chức quân sự hùng hậu nhất lục địa Teyvat; bằng chứng là những thành viên của tổ chức đều được thấy sử dụng sức mạnh nguyên tố. Mô tả của Dao Đặc Công gọi đây là "binh khí được tạo nên bởi kỹ thuật tiên tiến của Snezhnaya". Quân Tiên Phong Fatui có những bộ giáp máy với nhiều kích cỡ khác nhau, một số lính Fatui thậm chí còn dùng cả súng và pháo cỡ lớn. Alice đã từng đến Snezhnaya, cô kể trong Hướng Dẫn Du Ngoạn Teyvat rằng Snezhnaya có vô vàn nhà máy. Il Dottore cũng đã từng xây một nhà máy ở Liyue để nghiên cứu cơ chế tự động hóa của Thủ Vệ Di Tích.
+
+Hiệp Hội Nhà Mạo Hiểm bắt nguồn từ Snezhnaya; mặc cho sự thật rằng là ai trên đại lục này cũng đều biết nguồn gốc của Hiệp Hội, nhưng rất ít người chủ động nhắc đến và mọi người thường không đề cao cảnh giác với Hiệp Hội Nhà Mạo Hiểm như với một tổ chức cùng xuất xứ là Fatui. Nahida còn chỉ ra thân phận của người tiếp đón Hiệp Hội Nhà Mạo Hiểm Katheryne; đó là những "con rối sinh học Snezhnaya" có cùng chung một nhiệm vụ: tiếp đón các mạo hiểm giả trên khắp lục địa.
+
+## Từ Nguyên
+
+- "Snezhnaya" () là một tính từ tiếng Nga. Trong trường hợp này, có thể đây là phép hoán dụ (cụm từ đầy đủ có thể là hoặc; hai danh từ "đất nước" và "vùng đất" ở giống cái, theo nó là tính từ "nhiều tuyết" phải chia giống cái là "Snezhnaya", nhưng có thể lược bỏ hai danh từ này đi để tạo thành phép hoán dụ "nhiều tuyết"). Trong trò chơi, nhân vật phát âm từ (Snezh-na-ya) đặt trọng âm ở "na", nhưng chính xác hơn phải đặt trong âm ở "Snezh" (Snezh-na-ya).
+- Trong bản CBT đầu tiên, Snezhnaya có tên "Prekrasnaya" ().
+- Tên tiếng Trung đảo ngược từ tiếng Trung của Đông chí ().
+- "Zapolyarny" () dịch thô thành "xuyên qua vòng Bắc cực" hoặc "bên trong vùng cực đông".
+- "Morepesok" () kết hợp từ và, ngụ ý cho bờ biển.
+- "Tsaritsa" (), là giống cái của Tsar, từ này phiên âm trực tiếp từ tên vị tướng La Mã Caesar. Hiện tại, chưa có ai gọi tên thật của Băng Thần; người Snezhnaya gọi cô ấy bằng danh hiệu Tsaritsa, Venti và Zhongli gọi cô ấy là "Băng Thần".
+
+## Tham Khảo Văn Hóa
+
+- Có thể Snezhnaya lấy cảm hứng văn hóa từ cả chế độ Sa hoàng và chế độ thời Nga Xô Viết (về địa hình, chủ yếu lấy cảm hứng từ Siberia), và thường đặt tên theo tiếng Nga. Ngoài ra, Snezhnaya cũng lấy một ít cảm hứng từ văn hóa nước châu Âu khác, cụ thể là Ý với cách đặt mật danh các Quan Chấp Hành theo tên các nhân vật trong.
+- Mùa đông khắc nghiệt của Snezhnaya tương đồng với khí hậu Nga, một điều.
+- Tartaglia gọi Nhà Lữ Hành là "đồng đội" trong phần lồng tiếng, dịch từ "tovarishch" (). Đây là cách gọi đồng đội hay dùng trong Liên Bang Xô Viết.
+- Trong video tổng hợp lối chơi của Childe, anh mở đầu bức thư bằng dòng ("Gửi chị...") bằng tiếng Nga.
+- Hỏa Thủy () là loại rượu có nguồn gốc Snezhnaya. Người pha chế rượu của Quà Tặng Của Thiên Sứ Charles khẳng định đây là loại rượu mạnh nhất. Hỏa Thủy lấy cảm hứng từ vodka, thức uống gắn liền với người Nga. Thực tế, Vodka của Nga thường có nồng độ cồn 45-55%, thậm chí một số loại Vodka có nồng độ cồn 80%. Do vậy, Vodka là loại rượu nhiều cồn nhất trên thế giới
+- Tên tiếng Trung cũng là từ địa phương của "dầu hỏa".

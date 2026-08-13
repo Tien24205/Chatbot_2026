@@ -179,5 +179,46 @@ def hits_for_ids(
     return sorted(hits, key=lambda h: order.get(h.id, 999))
 
 
+def chunks_of_source(
+    conn: psycopg.Connection, source_name: str, exclude_ids: set[int], limit: int
+) -> list[SearchHit]:
+    """
+    Các chunk CÒN LẠI của một tài liệu, theo đúng thứ tự trong file.
+
+    Dùng cho mở rộng trọn trang với câu hỏi đếm/tổng hợp: đáp án nằm rải trong
+    nhiều mục của một trang mà top-k chỉ vớt được vài mục. via="doc" để các tầng
+    sau biết chúng là ngữ cảnh bổ sung, không phải kết quả truy hồi.
+
+    similarity = 0.0 CỐ Ý: chunk vào đây vì thuộc cùng tài liệu, không vì giống
+    câu hỏi — gán điểm thật sẽ khiến chúng trông như kết quả vector.
+    """
+    rows = conn.execute(
+        """
+        SELECT content, source_name, section, id
+        FROM chunks
+        WHERE source_name = %s
+        ORDER BY chunk_index
+        """,
+        (source_name,),
+    ).fetchall()
+    return [
+        SearchHit(content=r[0], source_name=r[1], section=r[2], similarity=0.0, id=r[3], via="doc")
+        for r in rows
+        if r[3] not in exclude_ids
+    ][:limit]
+
+
 def count(conn: psycopg.Connection) -> int:
     return conn.execute("SELECT count(*) FROM chunks").fetchone()[0]
+
+
+def existing_keys(conn: psycopg.Connection) -> set[tuple[str, int]]:
+    """
+    Các chunk ĐÃ có vector trong database, theo khoá (tên file, thứ tự).
+
+    Dùng để chạy lại việc nạp mà không embed lại thứ đã embed. Với knowledge base
+    vài nghìn chunk thì đây là khác biệt giữa "mất 5 phút" và "mất cả hạn mức
+    ngày": embedding đã trả tiền rồi, trả lần nữa cho cùng một đoạn là lãng phí.
+    """
+    rows = conn.execute("SELECT source_name, chunk_index FROM chunks").fetchall()
+    return {(r[0], r[1]) for r in rows}

@@ -1,0 +1,27 @@
+# Sekkura
+
+## Hội Thoại
+
+type: NPC
+region: Sumeru
+affiliation: Lữ Đoàn 30
+
+- Tổng Quan: Sekkura là NPC ở Đại Sảnh Regzar, Thành Sumeru, Sumeru.
+
+- "Làng Aaru......"
+
+Sekkura: Sau khi có nhiều Chim Hoàng Hôn hơn, tuy công việc đã nhẹ nhàng hơn, nhưng cơ hội trở về nhà cũng ít đi...
+Chim Hoàng Hôn...
+:Sekkura: Chim Hoàng Hôn chủ yếu dùng để đưa tin, là đồng đội quan trọng không thể thiếu đối với Tín Sứ "Chim Yến" như tôi.
+:Sekkura: Nhưng sau khi việc chạy tới chạy lui ít đi thì thời gian ở lại trong thành cũng nhiều hơn.
+:Sekkura: Quê của tôi ở Làng Aaru, là một ngôi làng nhỏ nằm ở rìa sa mạc.
+:Sekkura: Muốn về thăm Làng Aaru quá... Lần cuối cùng tôi gặp Candace đã là chuyện rất lâu rồi, lần sau gặp lại nhất định phải nói chuyện thật nhiều với cô ấy mới được.
+:Sekkura: Như chuyện về cuộc sống trong thành, chuyện ở rừng mưa, và chuyện về Parchamdar Rukh Shah...
+: Về Rukh Shah...
+::Sekkura: Rukh Shah trông có vẻ chững chạc đáng tin như thế thôi, nhưng anh ta là Parchamdar trẻ tuổi nhất trong lịch sử "Lữ Đoàn 30" đấy!
+::Sekkura: Hơn nữa nghe nói anh ta xuất thân từ rừng mưa, không phải người dân sinh ra trên sa mạc.
+::Sekkura: Bạn phải biết là người ở rừng mưa gia nhập Eremite vốn đã ít rồi, chưa kể còn nhậm chức Parchamdar nữa.
+::Sekkura: Nhưng anh ta giỏi lắm, không chỉ giao lưu được với các anh chị em đến từ sa mạc, còn có thể trò chuyện lưu loát với các học giả của Giáo Viện nữa.
+::Sekkura: Không lẽ, tin đồn anh ta từng là học giả lại là thật ấy sao...
+Tạm biệt.
+:Sekkura: Tạm biệt.

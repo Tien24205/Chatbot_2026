@@ -1,0 +1,98 @@
+# Năng Lượng Nguyên Tố
+
+## Tổng Quan
+
+type: Chiến Đấu
+type2: Hệ Thống Trò Chơi
+
+- Tổng Quan: Năng Lượng Nguyên Tố là một nguồn nhiên liệu sử dụng để thực hiện Kỹ Năng Nộ.
+
+Lượng năng lượng cần để thực hiện Kỹ Năng Nộ rất đa dạng, người chơi có thể tìm thông tin này ở mục Chi Tiết trong giao diện Thiên Phú của nhân vật. Khi thi triển Kỹ Năng Nộ, toàn bộ năng lượng của nhân vật sẽ được sử dụng.
+
+Khi một nhân vật đã nạp đủ lượng năng lượng cần cho Kỹ Năng Nộ, nhân vật đó sẽ không thể nạp thêm năng lượng được nữa. Nhân vật cũng không thể sở hữu âm năng lượng.
+
+Khi một nhân vật bị hạ gục, họ sẽ mất sạch năng lượng.
+
+## Hạt Nhân Và Tinh Cầu
+
+Nguyên tố hạt nhân và nguyên tố tinh cầu thường sản sinh ra từ Kỹ Năng Nguyên Tố của nhân vật và khi kẻ địch mất HP. Khi nhân vật nhặt hạt nhân và tinh cầu, toàn đội sẽ được nạp năng lượng.
+
+Hạt nhân và tinh cầu chỉ cho năng lượng khi chúng chạm vào nhân vật chứ không cho năng lượng khi chúng được tạo ra. Như vậy người chơi có thể đổi nhân vật trước khi nhận được hạt nhân hoặc tinh cầu để nhân vật có thể nạp nhiều năng lượng hơn.
+
+Hạt nhân và tinh cầu cũng sẽ chỉ đến với nhân vật khi nhân vật còn trong khoảng nhất định và sẽ biến mất nếu không được nhặt sau một khoảng thời gian nằm trong khoảng 9s đến 30s.
+
+Một số vũ khí cũng có thể sản sinh ra nguyên tố hạt nhân, Cộng Hưởng Nguyên Tố Lôi Mạnh Mẽ cũng sẽ sản sinh ra nguyên tố hạt nhân mỗi 5s khi kẻ thù phải chịu Phản Ứng Nguyên Tố có Nguyên Tố Lôi. Sấm sét cũng có thể sản sinh ra nguyên tố hạt nhân Lôi.
+
+Lượng năng lượng mà nhân vật nhận được khi nhặt hạt nhân và tinh cầu phụ thuộc và Nguyên Tố của nhân vật, chỉ số Hiệu Quả Nạp Nguyên Tố của nhân vật đó, nhân vật có đứng sân hay không và việc trong đội của người chơi đang có bao nhiêu nhân vật.
+
+Số lượng nhân vật trong đội ảnh hưởng đến Tỷ Lệ Chuyển Đổi của các nhân vật không đứng sân.
+- Khi có 2 / 3 / 4 nhân vật trong đội, Tỷ Lệ Chuyển Đổi của nhân vật không đứng sân lần lượt là 80% / 70% / 60% Tỷ Lệ Chuyển Đổi của nhân vật đứng sân.
+- Trong Chế Độ Nhiều Người Chơi, con số này được xác định bằng số lượng nhân vật trong đội mà người chơi có thể điều khiển. Khi có 2 người chơi, chủ thế giới sẽ có 2 nhân vật trong đội, khi đó Tỷ Lệ Chuyển Đổi của nhân vật không đứng sân là 80% Tỷ Lệ Chuyển Đổi của nhân vật đứng sân.
+
+Bảng dưới đây thể hiện thị tỷ lệ chuyển đổi từ nguyên tố hạt nhân và nguyên tố tinh cầu sang năng lượng mà không tính đến giá trị % Hiệu Quả Nạp Nguyên Tố. Ví dụ, nếu nhân vật đang chiến đấu nhặt một nguyên tố hạt nhân cùng nguyên tố, nhân vật đó sẽ nhận được 3 Năng Lượng ở mức 100% Hiệu Quả Nạp Nguyên Tố.
+
+Các nguyên tố hạt nhân sẽ tái nạp năng lượng cho các nhân vật chung nguyên tố với hạt nhân - được biểu thị bằng màu - với tỉ lệ nhận cao hơn và các nhân vật khác nguyên tố với hạt nhân nhận với tỉ lệ thấp hơn.Ví dụ,Kaeya nhận được nhiều năng lượng hơn từ nguyên tố hạt nhân Băng so với nguyên tố hạt nhân Hoả.
+
+Các hạt nhân rơi ra ở ngưỡng HP nhất định khi kẻ thù bị gây sát thương. Những kẻ thù nhỏ như Hilichurl sẽ rơi ra một hạt nhân khi ở ngưỡng 50% HP và khi bị đánh bại. Những kẻ thù lớn như Bạo Đồ Hilichurl sẽ rơi ra một hạt nhân ở ngưỡng 75%, 50% và 25% HP và khi bị đánh bại. Tùy thuộc vào loại kẻ thù, hạt nhân có thể mang nguyên tố hoặc không.
+
+Gây sát thương kẻ thù bằng Kỹ Năng Nguyên Tố thường tạo ra một số hạt nhân nguyên tố. Một số Kỹ Năng Nguyên Tố, chẳng hạn như của Noelle và Barbara, sẽ không tạo ra hạt nhân nguyên tố nào. Các hạt nhân nhận được từ Kỹ Năng Nguyên Tố thì hạt nhân sẽ có nguyên tố tương ứng. Một số hạt nhân của Kỹ Năng Nguyên Tố rơi tại vị trí kẻ thù bị trúng đòn và có thể mất một lúc để đến gần nhân vật đang chiến đấu, trong khi các hạt nhân khác của Kỹ Năng Nguyên Tố rơi tại vị trí của nhân vật đang chiến đấu khi sử dụng Kỹ Năng Nguyên Tố và được nhân vật nhận ngay lập tức.
+
+Ví dụ, Cổ Hoa Kiếm - Họa Vũ Lung Sơn Xingqiu tạo ra 5 nguyên tố hạt nhân Thuỷ tại vị trí đứng của Xingqiu. Khi nhận các hạt nhân:
+- Nhân vật đang chiến đấu hệ Thuỷ (kể cả Xingqiu) hồi 15 năng lượng (5x3),
+- Nhân vật không chiến đấu hệ Thuỷ (trong đội nhân vật 4 sao) hồi 9 năng lượng (5x1,8),
+- Nhân vật đang chiến đấu không phải hệ Thuỷ hồi 5 năng lượng (5x1), và
+- Nhân vật không chiến đấu không phải hệ Thuỷ (trong đội nhân vật 4 sao) hồi 3 năng lượng (5x0,6).
+
+Ngoài ra còn có một số vũ khí có thể tạo ra các nguyên tố hạt nhân và Cộng Hưởng Nguyên Tố Lôi Mạnh Mẽ sẽ tạo ra nguyên tố hạt nhân Lôi trong thời gian hồi 5 giây nếu phản ứng nguyên tố Siêu Dẫn, Quá Tải, hoặc Nhiễm Điện gây ra cho kẻ thù.
+
+Một số Thánh Di Vật chẳng hạn như một bộ Kẻ Lưu Đày tạo ra năng lượng trực tiếp và không yêu cầu tấn công hoặc gây sát thương cho kẻ thù. Một số các nguồn tạo năng lượng trực tiếp khác, chẳng hạn như thiên phú cố định của một số nhân vật, việc tạo ra năng lượng này không ảnh hưởng từ hiệu ứng Hiệu Quả Nạp Nguyên Tố. Một số nội tại của vũ khí, chẳng hạn như từ Mẫu Kim Phách, cũng có thể tạo ra năng lượng theo cách tương tự.
+
+## Sản Sinh Năng Lượng Trực Tiếp
+
+Năng lượng có thể được sản sinh trực tiếp thông qua một số bộ Thánh Di Vật, vũ khí, thiên phú nhân vật và Cung Mệnh nhân vật khi đạt đủ điều kiện kích hoạt. Năng lượng sản sinh trực tiếp sẽ không bị ảnh hưởng bởi chỉ số Hiệu Quả Nạp Nguyên Tố.
+
+Năng lượng cũng có thể được sản sinh trực tiếp khi bắt đầu bí cảnh Sự Kiện hoặc thông qua các hiệu quả của Sự Kiện.
+
+## Tiêu Hao Năng Lượng Trực Tiếp
+
+Ngoài việc sử dụng Kỹ Năng Nộ và bị hạ gục ra, năng lượng của nhân vật cũng có thể bị tiêu hao bởi một số kẻ địch nhất định; Địa Mạch Bất Thường như Tia Sét Tham Lam và các hiệu quả từ vũ khí như Trường Đao Katsuragi và Thánh Di Vật như Dòng Hồi Ức Bất Tận.
+
+## Hạt Nhân Tạo Ra Bởi Kỹ Năng Nguyên Tố
+
+Kích hoạt Kỹ Năng Nguyên Tố trúng kẻ địch sẽ có thể tạo ra tối đa 5 hạt nhân. Những hạt nhân này có thể có cùng nguyên tố với các nhân vật trong đội. Các hạt nhân được sản sinh ra sẽ xuất hiện ở vị trí kẻ địch bị đánh trúng, ở vị trí người chơi hoặc ở vị trí tạo vật gây ra đòn tấn công, tùy thuộc vào Kỹ Năng Nguyên Tố. Một lượng nhỏ nhân vật không thể tạo ra hạt nhân.
+
+Hạt nhân có thể được tạo ra kể cả khi đòn tấn công không gây sát thương lên kẻ địch do khả năng miễn dịch nguyên tố hoặc do khiên đã chắn toàn bộ sát thương. Tuy nhiên một vài Kỹ Năng Nguyên Tố gây đòn tấn công hỗ trợ sẽ không kích hoạt khi kẻ địch không nhận sát thương, từ đó Kỹ Năng Nguyên Tố này không thể sản sinh ra hạt nhân.
+
+Lượng hạt nhân được tạo ra bởi Kỹ Năng Nguyên Tố không cố định. Những kỹ năng này có lượng hạt nhân tạo ra đã được đảm bảo (cũng có thể là 0) và cũng có tỷ lệ tạo ra thêm một hạt nhân.
+
+Một số Kỹ Năng Nguyên Tố có CD sản sinh hạt nhân tách biệt với CD Kỹ Năng Nguyên Tố. Sau khi quá trình tạo hạt nhân từ đòn đánh trúng thành công, bộ đếm CD tạo hạt nhân sẽ bắt đầu kể cả khi không có hạt nhân nào được tạo ra.
+
+Đánh trúng các vật thể vô tri hoặc sinh vật hoang dã không thù địch sẽ không tạo ra nguyên tố hạt nhân trừ một vài ngoại lệ:
+- Nhấn thiên phú của Razor có thể tạo ra hạt nhân khi tấn công lên các sinh vật hoang dã không thù địch.
+- Tấn Công Thường của Wriothesley được cường hóa và Trọng Kích được cường hóa có thể tạo ra hạt nhân khi tấn công lên các vật thể vô tri.
+
+## Hạt Nhân Tạo Ra Từ Kẻ Địch
+
+Khi HP kẻ địch hạ xuống dưới ngưỡng nhất định, chúng sẽ sản sinh ra nguyên tố hạt nhân hoặc tinh cầu. Các kẻ địch khác nhau sẽ có ngưỡng và mức giảm HP khác nhau, kẻ địch lớn hơn có xu hướng có nhiều ngưỡng hơn, cũng như một kẻ thù có thể có tới 4 ngưỡng giảm HP. Tùy thuộc vào loại kẻ địch, hạt nhân có thể mang hoặc không mang nguyên tố; ví dụ, hạt nhân và tinh cầu sản sinh ra từ Slime thường mang nguyên tố tương ứng với chúng.
+
+Lưu ý rằng khi HP kẻ địch giảm tới một ngưỡng nào đó rồi lại được trị liệu quá ngưỡng đó thì khi giảm HP kẻ địch qua ngưỡng đó sẽ không sản sinh thêm năng lượng.
+
+## Năng Lượng Sinh Ra Từ Tấn Công Thường
+
+Đòn Tấn Công Thường hoặc Trọng Kích đánh trúng kẻ địch có khả năng sản sinh ra 1 năng lượng cho nhân vật. Mỗi khi Tấn Công Thường và Trọng Kích tạo năng lương thất bại, tỷ lệ sẽ được tăng lên. Khi năng lượng đã được tạo ra, tỷ lệ này sẽ được tái thiết về như ban đầu. Nạp năng lượng bằng cách này không bị Hiệu Quả Nạp Nguyên Tố chi phối.
+
+## Hiệu Quả Sản Sinh Năng Lượng
+
+Dưới đây là danh sách các hiệu quả nạp năng lượng trược tiếp hoặc nạp năng lượng thông qua nguyên tố hạt nhân.
+
+Với danh sách hiệu quả tăng hiệu quả nạp nguyên tố hoặc các thuộc tinh phụ thuộc hiệu quả nạp nguyên tố, xem Hiệu Quả Nạp Nguyên Tố.
+
+- Thánh Di Vật: Các bộ thánh di vật dưới đây có hiệu quả sản sinh năng lượng nguyên tố:
+
+- Vũ Khí: Các vũ khí dưới đây có một phần hiệu quả nội tại sản sinh năng lượng nguyên tố:
+
+- Thánh Di Vật: Các bộ thánh di vật dưới đây có hiệu quả liên quan đến năng lượng nguyên tố:
+
+- Vũ Khí: Các vũ khí dưới đây có hiệu quả nội tại liên quan đến năng lượng nguyên tố:
+
+- Kẻ Địch: Các kẻ địch dưới đây có thể tiêu hao năng lượng nguyên tố:

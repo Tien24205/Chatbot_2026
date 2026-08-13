@@ -1,0 +1,19 @@
+# Dòng Chảy Địa Mạch
+
+## Tổng Quan
+
+type: Sự Kiện Lặp Lại
+
+Dòng Chảy Địa Mạch là một sự kiện lặp lại. Trong thời gian sự kiện, Địa Mạch Sinh Thành sẽ cho gấp đôi phần thưởng với số lượng tối đa là 3 lần mỗi ngày. Sử dụng Nhựa Cô Đặc sẽ không được tính vào sự kiện.
+
+## Giới Thiệu Sự Kiện
+
+Trong thời gian sự kiện, sau khi dùng Nhựa Nguyên Chất kích hoạt "Địa Mạch Sinh Thành - Hoa Chỉ Thị" và "Địa Mạch Sinh Thành - Hoa Tàng Kim", có thể dùng Nhựa Nguyên Chất để nhận hai lần phần thưởng. Mỗi ngày được phép nhận gấp đôi tối đa 3 lần.
+
+Nhựa Cô Đặc không được tính vào số lần nhận thưởng của sự kiện, nhưng thưởng của cả hai đều như nhau: gấp đôi mọi vật phẩm nhận được, bao gồm EXP Yêu Thích và EXP Mạo Hiểm.
+
+Sau khi nhận thưởng từ Địa Mạch Sinh Thành, dòng thông tin sau sẽ xuất hiện:
+
+"Đã tiêu hao 1 lần tăng tỷ lệ rơi Dòng Chảy Địa Mạch, số lần còn lại hôm nay: X/3"
+
+Nếu thưởng gấp nhiều lần của "Dòng Chảy Địa Mạch" và "Ngôi Sao Trở Về" có hiệu lực cùng lúc, khi nhận thưởng nhiều lần đủ điều kiện, sẽ ưu tiên tốn số lần thưởng có bội số cao hơn; Khi bội số của cả hai bằng nhau, ưu tiên tốn số lần thưởng của sự kiện Ngôi Sao Trở Về.

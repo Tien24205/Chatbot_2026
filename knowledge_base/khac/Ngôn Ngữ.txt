@@ -1,0 +1,79 @@
+# Ngôn Ngữ
+
+## Chữ Viết Mondstadt
+
+Có nhiều ngôn ngữ và chữ viết khác nhau ở Teyvat, phần lớn chúng đều dựa vào những ngôn ngữ thật.
+
+Một số biển hiệu ở Mondstadt được viết dưới dạng chữ viết không phải là Chữ Viết Teyvat. Những biển hiệu này được viết theo bảng chữ cái Latin với một vài phần được lược bỏ và toàn bộ chữ viết được lật ngang. Cũng có một số biến thể giữa những chữ cái giống nhau.
+
+Các biển hiệu dùng chữ viết này:
+- Biểu tượng của Hiệp Hội Nhà Mạo Hiểm nhánh Mondstadt; có vẻ là "" ("")
+- Biểu tượng Quà Tặng Của Thiên Sứ; có vẻ là "" ("")
+- Biển hiệu của nhà trọ; có vẻ là "Inn" (nhà trọ)
+
+## Ngôn Ngữ Dựa Trên Enochian
+
+Chữ viết cho ngôn ngữ này xuất hiện trong khi Pháp Sư Vực Sâu đang niệm chú để tái tạo khiên cũng như trên đầu khi thực hiện các phép thuật ngoài chiến đấu, cho dù ở một mình hay cùng với những hilichurl khác chẳng hạn như trong ủy thác Sự Bành Trướng Của Tà Ác. Đây có thể là ngôn ngữ đã bị lãng quên từ lâu được đề cập trong Bằng Chứng Mạo Hiểm như thứ mang lại sức mạnh ma thuật cho các Pháp Sư Vực Sâu. Chữ viết được dựa trên bảng chữ cái Enochian, nhưng các nỗ lực giải mã nó chỉ mang lại văn bản khó hiểu, vì các chuỗi chữ cái dường như được tạo ngẫu nhiên.
+
+Chữ viết cũng xuất hiện trong các chữ rune bảo vệ màu vàng xung quanh các điểm yếu của Cơ Quan Tự Động, trong đó các ký tự được nhân đôi cho B, L và G quanh lõi. Thủ Vệ Di Tích được biết là đã được làm bởi người dân của Khaenri'ah, nhiều cái trong số chúng biến thành "quái vật của Giáo Đoàn Vực Sâu," vì vậy chữ viết này cũng có thể được sử dụng ở Khaenri'ah.
+
+Chỉ có một trường hợp ngôn ngữ dựa trên Enochian được phiên âm sang một ngôn ngữ khác có thể phân biệt được: Trong hoạt cảnh ở cuối, Pháp Sư Vực Sâu Thủy nói một dòng được phiên âm trong phụ đề là "Gohus, Chiso Vonph" trong bảng chữ cái La Mã, bất kể ngôn ngữ cài đặt của người chơi. Điều này dịch từ Enochian giống như câu "Tôi nói, họ đang tức giận." Mặc dù bản thân dòng này không xuất hiện theo cách khác, nhưng Pháp Sư Vực Sâu Thủy nói dòng này trong khi thực hiện hoạt ảnh tương tự như hoạt ảnh tái tạo khiên, trong đó các chữ cái trong bảng chữ cái xuất hiện. Người chơi cũng có thể nghe thấy dòng tương tự trong trò chơi thông thường khi Pháp Sư Vực Sâu hoàn thành việc tái tạo lá chắn của họ.
+
+## Rune
+
+Rune tương tự như cổ ngữ của Elder Futhark có thể được nhìn thấy trong ảnh Giáo Trình dành cho Pháp Sư Vực Sâu, có vẻ như họ đang chuẩn bị tạo lá chắn của mình. Tuy nhiên, kể từ Phiên Bản 1.0, các biểu tượng xuất hiện xung quanh Pháp Sư Vực Sâu thay vào đó là ngôn ngữ dựa trên Enochian.
+
+- Chữ Viết Tiên Nhân: Chữ viết này được tìm thấy ở Tiên Đạo. Nó được sử dụng bởi Tiên Nhân.
+
+## Chữ Viết Ishine
+
+ của Chữ Viết Ishine ]]Chữ Viết Ishine chỉ được biết đến bởi các gia đình linh mục trong nền văn minh từng sinh sống trên Đảo Tsurumi. Ngôn ngữ của chữ viết được sử dụng để gọi tên người, địa điểm và những thứ khác trên đảo. Ngôn ngữ này có thể dựa trên vi:Tiếng Ainu ngoài đời. Ví dụ, Kama có nghĩa là "một tảng đá rất lớn", tương ứng với từ Ainu, có nghĩa là "đá phẳng." Tuy nhiên, các chữ cái của Chữ Viết Ishine không có bất kỳ điểm tương đồng rõ ràng nào với chữ viết của Ainu.
+
+## Tiếng Tanuki
+
+Dựa theo Ioroi, Tanuki có thể hiểu lời nói của con người một cách tự nhiên, nhưng cũng sở hữu ngôn ngữ riêng của họ. Ioroi có thể chuẩn bị một loại thức ăn ma thuật cho phép Nhà Lữ Hành hiểu một số phát ngôn của Tanuki nhưng phần lớn trong số đó vẫn phát ra tiếng vô nghĩa như khi Kichiboushi nói "Kacha kacha dưa tím." Theo Ioroi, sự nhầm lẫn này là do Nhà Lữ Hành chưa quen với hào quang của Kichiboushi, một tuyên bố được hỗ trợ bởi thực tế là giao tiếp với Kichiboushi trở nên rõ ràng hơn trong suốt cuộc hành trình với anh ta.
+
+## Quần Ngọc Các
+
+Nếu bạn giải mã dãy số trong Sổ ghi chép kỳ lạ, bạn sẽ nhận được "Người Fatui ở Hoàng Kim Ốc làm loạn". Dãy số có thể giải bằng cách tham khảo cuốn sách Liyue Phong Thổ Chí - Đón Thần tìm thấy ở trên bàn của Ningguang. Các số là một vi:Mật mã sách đã được chỉnh sửa, được viết ở định dạng [câu]:[từ]:[chữ]|[chữ]. Các ký tự từ các mã này sẽ tạo ra thông điệp.
+
+## Thông Điệp Ẩn ở Long Tích Tuyết Sơn
+
+Có thể tương tác với 9 Thủ Vệ Di Tích ở Long Tích Tuyết Sơn,kết hợp tất cả chúng tạo ra được thông điệp "For the nation, we can't forgo this skyborne power, but we failed" (tạm dịch:Đối với quốc gia, chúng ta không thể từ bỏ sức mạnh trời ban này)
+
+- Thông Điệp Ẩn ở Sumeru: Năm Đội bảo vệ tàn tích nằm trên khắp Sumeru chứa những thông điệp khó hiểu có thể được giải mã để đọc "Chúng tôi Schwanenritters đã chiến đấu đến người cuối cùng."
+
+## Ngôn Ngữ Đời Thực
+
+Cho đến nay, các ngôn ngữ ngoài đời thực sau đây đã được sử dụng rộng rãi, mặc dù không có ngôn ngữ nào xuất hiện dưới dạng chữ viết trong thế giới của Genshin Impact giống như trong đời thực:
+
+Các ngôn ngữ đời thực khác đã được sử dụng gồm các ngôn ngữ sau (không đầy đủ):
+- Tiếng Ả Rập (NPC và địa điểm ở Sumeru)
+- Tiếng Hà Lan (Vermeer)
+- Tiếng Phần Lan (Ukko)
+- Tiếng Pháp (NPC và địa điểm ở Fontaine)
+- Tiếng Đức (nhiều thứ trong Mondstadt)
+- Tiếng Do Thái (tên của Nguyên Bản, Teyvat)
+- Tiếng Hungary (Orban)
+- Tiếng Nhật Nguyên Thủy (Kuntira)
+- Tiếng Ý (tên của 11 Quan Chấp Hành Fatui)
+- Tiếng Hindi (Kaushik)
+- Tiếng Bắc Âu cổ (Sal Vindagnyr, Imunlaukr, Gunnhildr, Ragnvindr, Ulfr, Ylgr)
+- Ngữ Tộc Slav (Krsnik Noc)
+- Tiếng Tây Ban Nha (Jose Sáu Ngón)
+
+- Chữ Viết Manga: Genshin Impact manga được xuất bản từ năm 2018 đến 2019, trước khi trò chơi chính thức ra mắt toàn thế giới.
+
+## Chữ Viết Chung
+
+ của manga]] Trong Genshin Impact manga, được xuất bản từ năm 2018 đến năm 2019, một chữ viết không thể giải mã có thể được nhìn thấy trong các bài báo xuyên suốt câu chuyện, chẳng hạn như trong bức thư mà Il Dottore nhận được từ Đội Kỵ Sĩ Tây Phong trong Chương 9. Nó có khả năng là một ngôn ngữ chung bằng văn bản.
+
+Vì chữ viết này đã không được xuất hiện trên các phương tiện truyền thông chính thức kể từ khi Genshin Impact ra mắt và tất cả các phiên bản của chữ viết này dường như là văn bản bổ sung do lặp lại các dòng giống nhau, tập lệnh này có thể là một trình giữ chỗ và cuối cùng đã bị loại bỏ.
+
+- Tiếng Anh: của manga]] Trong manga, ở Chương 5, có một con tem hình tròn ghi "THE CHIVALRY OF THE WEST WIND - MONDE LIBRARY". Việc sử dụng thường xuyên nguyên trạng tiếng Anh có thể đã bị loại bỏ.
+
+## Chữ Viết Cổ Đại
+
+ của manga]] Trong truyện tranh, có một tài liệu Fatui bị cháy hai mặt về Delusion của Crepus Ragnvindr và ống tiêm đã được sử dụng trên Collei. Nội dung liên quan đến Delusion được viết bằng chữ viết thông thường, vì nó dường như sử dụng cùng một chữ viết và Amber và Jean đều đọc nó, nhưng nội dung liên quan đến ống tiêm được viết bằng "ngôn ngữ cổ đại." Nó có dấu chấm và khối vuông giống như Chữ Viết Deshret. Chữ Viết Liyue cũng có kiểu hình khối tương tự nhưng không có dấu chấm.
+
+Chữ viết này chưa được nhìn thấy trong trò chơi và có thể đã bị loại bỏ hoặc cập nhật.

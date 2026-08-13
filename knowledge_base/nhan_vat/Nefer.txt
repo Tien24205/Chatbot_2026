@@ -1,0 +1,43 @@
+# Nefer
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+quality: 5
+weapon: Pháp Khí
+element: Thảo
+teamBonus: Nguyệt Triệu
+name: Nefer
+birthday: 09 tháng 05
+constellation: Du Kỳ
+region: Nod-Krai
+region2: Sumeru
+regionNote2: trong cốt truyện
+affiliation: Hội Đồng Bí Mật
+affiliation2: Mạng Lưới Tình Báo Bắc Đại Lục
+affiliation3: Thương Hội Voynich
+affiliation4: Làng Aaru
+affiliation5: Vahumana
+affiliation6: Shimti
+affiliationNote4: trước đây
+affiliationNote5: trước đây
+affiliationNote6: trước đây
+dish: Giao Dịch Bí Mật
+namecard: Bí Mật
+obtain: Cầu Nguyện Nhân Vật
+event_name: Cát Đỏ Mê Hoặc
+releaseDate: 2025-10-22 11:00:00 GMT+8
+adoptive: Relative Type|Cha mẹ|Sinuhe|ref=Quest|Điệu Múa Của Rắn Và Bò Cạp
+title: Bí Mật Cát Phủ
+title2: Chủ Của Hội Đồng Bí Mật
+voiceEN: [[imdb:nm7514824
+Ashleigh Haddad]]<ref name: "Luna I EN">YouTube: Video Giới Thiệu Phiên Bản "Luna I" (Mô tả video)
+voiceCN: Zeng Tong (zh|曾彤)
+voiceJP: w|Nana Mizuki|Mizuki Nana (ja|水樹 奈々)
+voiceKR: Won Esther (ko|원에스더)
+
+## Tổng Quan
+
+Nefer là một nhân vật hệ Thảo chơi được trong Genshin Impact.
+
+Xuất thân từ Sumeru, cô là chủ của Hội Đồng Bí Mật và là một thành viên của Thương Hội Voynich. Nefer là một người cực kỳ thông thái và có khả năng tính toán đến mức mọi người suy đoán rằng cô có thể nhìn thấy được tương lai.

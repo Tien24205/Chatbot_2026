@@ -1,0 +1,55 @@
+# Félix Yogue
+
+## Thông Tin Cơ Bản
+
+type: NPC Sự Kiện
+region: Fontaine
+location: Mondstadt
+affiliation: Câu Lạc Bộ Mơ Mộng
+
+- Tổng Quan: Félix Yogue là một NPC độc quyền sự kiện, xuất hiện lần đầu trong Tranh Máy Móc Vĩnh Cửu.
+
+- Vị Trí: Trong Tranh Máy Móc Vĩnh Cửu Trong Đỉnh Cao Triệu Hồi
+
+## Tranh Máy Móc Vĩnh Cửu
+
+Félix Yogue: Xin kính chào Kỵ Sĩ Danh Dự, tìm tôi có việc gì?
+Félix Yogue: Hửm? Nhìn vẻ mặt của... là có gì đó muốn hỏi tôi sao?
+Félix Yogue: À há, chẳng lẽ có hứng thú với "CLB Mơ Mộng" của chúng tôi sao?
+CLB Mơ Mộng là gì?
+:Félix Yogue: Ồ, tôi nên diễn tả với như thế nào nhỉ, nói chung là, "CLB Mơ Mộng" là một dạng... tổ chức của một nhóm người có chung sở thích.
+:Félix Yogue: Nhưng mà... nền tảng của "CLB Mơ Mộng" chúng tôi không chỉ là "sở thích", mà còn là một loại "mơ mộng" nữa.
+:Félix Yogue: Nhưng những sự "mơ mộng" này thường bị chỉ trích là không phù hợp với thực tế, vì vậy chúng tôi quyết định đặt tên cho hội của mình là "Mơ Mộng".
+:Félix Yogue: Còn những thành viên trong hội như chúng tôi đương nhiên chính là những "Nhà Mơ Mộng" cả ngày chỉ "mơ mộng" rồi.
+Về các thành viên trong "CLB Mơ Mộng"...
+:Félix Yogue: À, thành viên trong hội chúng tôi cũng không nhiều lắm, nhưng họ đều có trí tưởng tượng tuyệt vời.
+:Félix Yogue: Tôi, Félix Yogue, muốn tạo ra một nguồn năng lượng có thể vận hành mãi mãi.
+:Félix Yogue: Hơn nữa tôi còn hy vọng, nguồn năng lượng này cần phải được tạo ra bằng động cơ, không cần phải sử dụng bất kỳ nguồn nguyên liệu thô nào khác mà người bình thường không thể điều khiển được.
+:Félix Yogue: Tiếp đó là Xavier, người có trình độ nghệ thuật xuất sắc, "Máy Quay Phim" của ông anh này thật sự vô cùng tinh xảo.
+:Félix Yogue: Tài hoa khiến lòng người rung động nhất trong linh hồn của anh ấy đều chất chứa trong những "thước phim" mà anh ấy quay được.
+:Félix Yogue: Tất cả chúng tôi đều hoàn toàn tin tưởng rằng anh ấy sẽ trở thành "nhà quay phim" vĩ đại nhất của Teyvat.
+:Félix Yogue: Nhưng tôi nghe nói, sau khi đến Inazuma thì anh ấy đã không về nữa. Ôi trời ơi, anh ấy rốt cuộc đang làm gì vậy...
+:Félix Yogue: Và đương nhiên, trong chúng tôi còn có anh Garcia đang chế tạo "Máy Đánh Số" vận hành bằng tay nữa.
+:Félix Yogue: Dù anh ấy thỉnh thoảng như lạc vào cõi tiên... nhưng tin tôi đi, anh ấy sinh ra là để dành cho toán học.
+:Félix Yogue: Cuối cùng là hai anh em tràn đầy sức sống, Mécantre và Babisse.
+:Félix Yogue: Họ đang chế tạo một siêu pháo có thể bắn ra những quả pháo chạm đến bầu trời sao của Teyvat... Hơn nữa còn có thể cho con người ngồi vào trong pháo nữa.
+:Félix Yogue: Tuy là... dự án của họ vẫn đang trong giai đoạn tìm kiếm nhiên liệu, nhưng sự "mơ mộng" của họ là kế hoạch điên rồ nhất mà tôi từng nghe.
+: Các anh... nghiêm túc thật đấy à?
+:Félix Yogue: Tất nhiên! Đó là sự thật, đây là sự "mơ mộng" của chúng tôi, hahaha. Có phải thấy cái tên "CLB Mơ Mộng" này rất phù hợp không?
+:Félix Yogue: Nếu có hứng thú, sau này có thể đến thăm thị trấn Petrichor ở Fontaine, đó là nơi gặp mặt của hội chúng tôi.
+:Félix Yogue: Nhưng mà... nếu bây giờ đến đó, có lẽ chỉ gặp được hai anh em Mécantre và Babisse đang lấm lem bùn đất ở đó thôi...
+À... Tôi đã gặp Xavier ở Inazuma. (Có sẵn sau khi hoàn thành Câu Chuyện Tatara - Chương Cuối)
+:
+:Félix Yogue: Thật là chấn động lòng người! Vô cùng đặc sắc! "Câu Chuyện Tatara" này chắc chắn sẽ khiến Xavier bay lên tận mây xanh!
+:Félix Yogue:...Nhưng nói thật thì tôi đã thở phào nhẹ nhõm đấy, tôi còn tưởng anh ấy đã lặng lẽ ra đi ở Inazuma rồi...
+:Félix Yogue: Nhưng sao mọi việc đã được giải quyết xong mà anh ấy vẫn chưa gửi thư về nhỉ...
+:Félix Yogue: Thôi bỏ đi, tôi sẽ viết một bức thư gửi về thị trấn Petrichor báo tin này cho Mécantre để anh ấy khỏi lo lắng...
+
+## Đỉnh Cao Triệu Hồi
+
+Félix Yogue: Nhà Lữ Hành, thế nào? Có muốn thử ghép bức Tranh Máy Móc này không?
+Muốn thử.
+:Félix Yogue: Hahaha, tôi tin là với trí thông minh của bạn thì bức Tranh Máy Móc này sẽ không làm khó được bạn đâu.
+:Félix Yogue: Tranh Máy Móc đang đặt ở bên cạnh, bạn có thể đến chơi thử.
+Còn bận việc khác.
+:Félix Yogue: Ừm... Không sao, đợi khi có thời gian rồi đến chơi cũng được, dù sao thì tôi cũng sẽ ở đây mà...

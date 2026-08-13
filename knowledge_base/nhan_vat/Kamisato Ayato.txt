@@ -1,0 +1,40 @@
+# Kamisato Ayato
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+quality: 5
+weapon: Kiếm Đơn
+element: Thủy
+name: Kamisato Ayato
+birthday: 26 tháng 03
+constellation: Thần Thủ Bách
+region: Inazuma
+affiliation: Hiệp Hội Yashiro
+affiliation2: Nhà Kamisato
+affiliation3: Shuumatsuban
+dish: Tĩnh Lặng Trang Nhã
+namecard: Gợn Sóng
+obtain: Cầu Nguyện Nhân Vật
+event_name: Dạo Bước Bên Hoa
+releaseDate: 2022-03-30
+title: Trụ Cột Vững Vàng
+title2: Gia chủ nhà Kamisato thuộc Hiệp Hội Yashiro
+voiceEN: [[imdb:nm5804925
+Chris Hackney]]<ref name: "twitter announcement">Twitter: Thông Báo Diễn Viên Lồng Tiếng Tiếng Anh & Tiếng Nhật
+voiceCN: Zhao Lu (zh|赵路)
+voiceJP: w|Akira Ishida|Ishida Akira (ja|石田 彰)
+voiceKR: w|Jang Min-hyeok|Jang Min-hyeok (ko|장민혁)
+ancestry: Nhà Kamisato
+father: Bố vô danh
+fatherNote: đã chết
+mother: Kamisato Kayo
+motherNote: đã chết
+sibling: Kamisato Ayaka
+siblingNote: em gái
+
+## Tổng Quan
+
+ là một nhân vật hệ Thủy chơi được trong Genshin Impact.
+
+Anh hiện là gia chủ của Nhà Kamisato, anh trai của Kamisato Ayaka và đại nhân của Hiệp Hội Yashiro. Với sự tháo vát và khôn ngoan, Ayato rất ít khi xuất hiện trước công chúng như em gái mình, anh thường giành thời gian lo liệu các công việc chính sự trong Hiệp Hội.

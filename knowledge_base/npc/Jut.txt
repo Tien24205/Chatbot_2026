@@ -1,0 +1,36 @@
+# Jut
+
+## Thông Tin Cơ Bản
+
+type: NPC Đại Thế Giới
+region: Sumeru
+location: Sumeru
+title: Thương Nhân Gia Vị
+father: Hamawi
+sibling: Sal
+sibling2: Mawyo
+dialoguereward: Card|Padisarah|4
+
+- Tổng Quan: Jut là một NPC Đại Thế Giới có thể được tìm thấy tại Đại Khu Bazaar ở Thành Sumeru, Sumeru. Lần đầu tiên theo một nhánh hội thoại nhất định sẽ cho người chơi 4 Padisarah.
+
+- Lời Thoại Nhàn Rỗi: Các loại hương liệu... : "Chào mừng! Chọn gia vị đi; ở đây chúng tôi có tất cả loại bạn cần!"
+
+- Suy Nghĩ: Jut: (Chắc cha lại phiền não vì chuyện của anh trai rồi...)
+
+## Hội Thoại
+
+Jut: Chào bạn, bạn muốn mua hương liệu ư?
+Mua.
+:Jut: Không thành vấn đề, chọn xong nói với tôi là được.
+;(Mở giao diện Cửa Hàng)
+Anh là...
+:Jut: Tôi là thương nhân buôn bán hương liệu, chủ yếu cung cấp những hương liệu thường dùng hằng ngày cho người dân quanh đây, ngoài ra cũng bán thêm thực phẩm phụ làm từ hương liệu nữa.
+:Jut: Có học giả còn đích thân đến đây chọn hương liệu nữa đấy.
+:Jut: Thậm chí tôi còn thông qua bạn trong Eremite liên lạc được với đường dây mua nguyên liệu hiếm Padisarah, nếu cần thì hoan nghênh đến tìm tôi nhé.
+: Quan hệ với mọi người cũng tốt đấy chứ.
+::Jut: Hì hì, cũng không khoa trương đến thế... Chẳng qua khi mới mở cửa hàng, tôi thường tặng chút quà mọn cho mọi người, khách hàng cũng rất sẵn lòng quảng cáo cho tôi.
+::Jut: Trong kinh doanh, điều quan trọng nhất là đối xử với người khác một cách chân thành.
+::Jut: Vị khách này, đây là lần đầu tiên bạn tới đây sao? Mấy thứ này tặng cho bạn, mong rằng sẽ mang đến hương thơm khác biệt cho bàn ăn của bạn.
+:;(Nhận Padisarah)
+Lần sau đi.
+:Jut: Không thành vấn đề, hoan nghênh lần sau lại đến.

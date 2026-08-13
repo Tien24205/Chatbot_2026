@@ -1,0 +1,12 @@
+# Lần Sử Dụng
+
+## Tổng Quan
+
+type: Chiến Đấu
+type2: Hệ Thống Trò Chơi
+
+Lần Sử Dụng chỉ số lần sử dụng tối đa của Kỹ Năng Nguyên Tố mà không cần chờ CD. Không nên nhầm số lần sử dụng của kỹ năng với hiệu quả tái lập CD của một số vũ khí, ví dụ như từ Kiếm Tế Lễ.
+
+Số lần sử dụng của Kỹ Năng Nguyên Tố được biểu thị bằng số chấm tròn phía trên biểu tượng kỹ năng. Khi có thể sử dụng Kỹ Năng, chấm tròn chuyển màu từ xám thành xanh.
+
+CD của các lần sử dụng tính độc lập với nhau, mỗi một lần sử dụng có thể tái lập sau thời gian CD.

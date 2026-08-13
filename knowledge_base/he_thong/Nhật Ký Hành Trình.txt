@@ -1,0 +1,29 @@
+# Nhật Ký Hành Trình
+
+## Tổng Quan
+
+group: Tiền Tệ Hóa
+type: Hệ Thống Trò Chơi
+type3: Loại Sự Kiện
+group2: Sự Kiện Trở Lại
+
+Nhật Ký Hành Trình là một Sự Kiện mở khoá ở Hạng Mạo Hiểm 20. Một khi mở khóa, người chơi có thể hoàn thành các nhiệm vụ hằng ngày, hằng tuần và các kỳ Nhật Ký khác nhau để đạt được Kinh Nghiệm Nhật Ký Hành Trình.
+
+Mỗi 50 cấp của Nhật Ký Hành Trình yêu cầu 1000 Kinh Nghiệm. Khi đạt đến mỗi cấp, người chơi sẽ mở khóa phần thưởng tùy thuộc vào loại Nhật Ký Hành Trình (Nhật Ký Hành Trình Trái Đất hoặc Nhật Ký Hành Trình Trân Châu).Nguyên Thạch có thể được sử dụng để tăng cấp độ. Trò chơi sẽ tự động đặt số lượng cần thiết để đạt được cấp độ tiếp theo kết thúc bằng 0 hoặc 50, nhưng số lượng có thể được chỉnh theo ý muốn.
+
+Mua gói Nhật Ký Hành Trình Trân Châu hoặc Bài Ca Trân Châu cho phép bạn nhận phần thưởng từ tất cả các cấp đã mở khóa trước đó trong kỳ Nhật Ký hiện tại. Các gói này phải được mua lại sau mỗi kỳ Nhật Ký.
+
+## Nhật Ký Hành Trình Trân Châu
+
+Mua Nhật Ký Hành Trình Trân Châu sẽ nhận được các phần thưởng sau (đạt cấp cao nhất):
+
+Các vật phẩm không phải Nguyên Thạch, Mối Duyên Vương Vấn hoặc vũ khí Nhật Ký Hành Trình từ Rương Báu Vật Nhật Ký Hành Trình có giá trị khoảng 1.840 hoặc 2.320 Nhựa Nguyên Chất:
+- 300 Nhựa Nguyên Chất có được từ 5 Nhựa Cô Đặc
+- 420 Nhựa Nguyên Chất tương đương với 126 Kinh Nghiệm Anh Hùng thông qua Địa Mạch Sinh Thành ở Cấp Thế Giới 6, 7 và 8
+- 720 Nhựa Nguyên Chất tương đương với 2.160.000 Mora thông qua Địa Mạch Sinh Thành ở Cấp Thế Giới 6, 7 và 8
+- Khoảng 400 Nhựa Nguyên Chất tương đương với 65 sách thiên phú Hướng Dẫn (4*) từ Vách Núi Quên và Thái Sơn Phủ ở Cấp IV với trung bình 2 cuốn sách Bài Giảng (3*), 2 cuốn sách Hướng Dẫn (4*) và 1/4 cuốn sách Triết Học (5*)
+- Tuỳ ý, 480 Nhựa Nguyên Chất để chế tạo 288 Ma Khoáng Tinh Đúc bằng cách sử dụng Mảnh Ma Tinh
+
+Nếu không sử dụng Nhựa Nguyên Chất, phải mất tối thiểu 10 ngày để sử dụng 1152 Mảnh Pha Lê để chế tạo 288 Ma Khoáng Tinh Đúc
+
+Khi tỷ lệ 5:6 Nguyên Thạch/Nhựa Nguyên Chất từ lần nạp lại Nhựa Nguyên Chất đầu tiên trong ngày được tính cùng với 680 Nguyên Thạch và 4 Mối Duyên Vương Vấn, các vật phẩm nhận được từ việc mua Nhật Ký Hành Trình Trân Châu có giá trị khoảng 2853 hoặc 3270 Nguyên Thạch, cao gần bằng gói 1.099.000đ gồm 3880 Đá Sáng Thế hoặc bằng 35% - 40% gói 2.199.000đ gồm 8.080 Đá Sáng Thế (không bao gồm vũ khí Nhật Ký Hành Trình từ Rương Báu Vật Nhật Ký Hành Trình vì khó ước tính giá trị bằng Nguyên Thạch).

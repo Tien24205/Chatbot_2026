@@ -1,0 +1,33 @@
+# Dehya
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+quality: 5
+weapon: Trọng Kiếm
+element: Hỏa
+name: Dehya
+birthday: 07 tháng 04
+constellation: Hạt Vỹ Tung Sư
+region: Sumeru
+affiliation: Lữ Đoàn 30
+affiliationNote: trước kia
+affiliation2: Eremite
+obtain: Cầu Nguyện Nhân Vật
+event_name: Nắng Vàng Rực Rỡ
+releaseDate: 2023-03-01
+father: Kusayla
+fatherNote: cha nuôi
+title: Sư Tử Lửa
+title2: Lính Đánh Thuê Sa Mạc Tự Do
+voiceEN: [[imdb:nm6442558
+Amber May]]<ref name: "3.1 trailer video description">YouTube: Giới Thiệu Phiên Bản 3.1 - "Xích Thổ Chi Vương Và Tam Triều Thánh Giả" (Mô tả video)
+voiceCN: Chen Yu (zh|陈雨)
+voiceJP: W|Ayaka Fukuhara|Fukuhara Ayaka (ja|福原綾香)
+voiceKR: w|ko:김현심|Kim Hyeon-sim (ko|김현심)
+
+## Tổng Quan
+
+"Sư Tử Lửa" Dehya là nàng chiến binh mạnh mẽ và là huyền thoại trong Eremite bởi sự điềm tĩnh, máu lửa và nhiệt thành. Cô không muốn hoàn cảnh nhọc nhằn vốn có của sa mạc ràng buộc chính cô và những con dân sa mạc, ngược lại cô mong muốn đem lại hi vọng cho những người đồng hương ở miền cát nóng.
+
+- Cầu Nguyện Thường Du Hành Thế Gian (vô hạn) từ Phiên Bản 3.6 - Tất cả sự kiện Cầu Nguyện Nhân Vật từ Phiên Bản 3.6

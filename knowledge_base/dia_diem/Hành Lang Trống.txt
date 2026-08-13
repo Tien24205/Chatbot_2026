@@ -1,0 +1,11 @@
+# Hành Lang Trống
+
+## Ghi Chép Binh Nhì
+
+type: Phân Khu
+area: Đảo Lempo
+region: Nod-Krai
+
+Ghi Chép Binh Nhì là ba vật phẩm tương tác có thể được tìm thấy rải rác khắp Hành Lang Trống. Chúng kể lại câu chuyện về nguồn gốc của những sự kiện tại đây và lý giải các hiện tượng mà Nhà Lữ Hành đã trải qua trong chuỗi Nhiệm Vụ Thế Giới Màu Sắc Trống Rỗng.
+
+- Ghi Chép Nghiên Cứu Của Ai Đó: Có thể tìm thấy bên trong doanh trại Fatui, ở phía đông nam của Điểm Dịch Chuyển Hàng Lang Trống phía bắc.

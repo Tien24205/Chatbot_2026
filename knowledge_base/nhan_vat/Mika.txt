@@ -1,0 +1,36 @@
+# Mika
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+quality: 4
+weapon: Vũ Khí Cán Dài
+element: Băng
+name: Mika
+realname: Mika Schmidt
+birthday: 11 tháng 08
+constellation: Lâm Cáp
+region: Mondstadt
+affiliation: Đội Kỵ Sĩ Tây Phong
+dish: Sandwich Của Người Đo Vẽ Bản Đồ
+namecard1: Mika - Dẫn Lối
+obtain: Cầu Nguyện
+releaseDate: 2023-03-21 18:00:00
+title: Dấu Hiệu Sương Mai
+title2: Nhân Viên Trắc Họa Đội Kỵ Sĩ Tây Phong
+title3: Thành viên đo vẽ bản đồ của tiểu đội du kích
+sibling: Huffman
+siblingNote: anh trai
+voiceEN: [[imdb:nm11454647
+Robb Moreira]]<ref name: "3.1 trailer video description">YouTube: Giới Thiệu Phiên Bản 3.1 - "Xích Thổ Chi Vương Và Tam Triều Thánh Giả" (Mô tả video)
+voiceCN: Deng Youxi (zh|邓宥希)
+voiceJP: w|Yūko Sanpei|Sanpei Yūko (ja|三瓶由布子)
+voiceKR: w|ko:윤은서|Yoon Eun-seo (ko|윤은서)
+
+## Tổng Quan
+
+Mika Schmidt là một nhân vật hệ Băng mà người chơi có thể điều khiển trong Genshin Impact.
+
+Cậu là em trai của Huffman và là nhân viên trắc họa thuộc Tiểu Đội Du Kích của Đội Kỵ Sĩ Tây Phong, được dẫn đầu bởi Eula. Mika luôn hoàn thành nhiệm vụ được giao một cách cẩn thận và đầy hiệu quả để có thể thức hiện ước mơ trở thành một chuyên gia đo vẽ bản đồ của mình. Tuy cậu thường rất ngại ngùng khi trò chuyện với người khác, Mika cũng dần mở lòng với những đồng nghiệp xung quanh bởi bản thân cậu rất coi trọng tinh thần đồng đội và mong muốn được học hỏi nhiều hơn từ họ.
+
+- Cầu Nguyện Thường Du Hành Thế Gian từ Phiên Bản 3.6 - Tất cả Sự Kiện Cầu Nguyện Nhân Vật và Sự Kiện Cầu Nguyện Vũ Khí từ Phiên Bản 3.6

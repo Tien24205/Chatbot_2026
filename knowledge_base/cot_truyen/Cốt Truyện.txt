@@ -1,0 +1,31 @@
+# Cốt Truyện
+
+## Tổng Quan
+
+type: Genshin Impact
+
+Cốt truyện là khái niệm dùng để chỉ chung các câu chuyện, thiết lập thế giới và nhiều thứ khác trong trò chơi nhưng không liên quan đến Hệ Thống Trò Chơi. Các khía cạnh khác nhau của cốt truyện thường được phân tích nhằm mở rộng hiểu biết về vũ trụ trong trò chơi.
+
+## Lịch Sử Thế Giới
+
+Bài viết trên là danh sách tổng hợp của tất cả các sự kiện đã được biết đến trong lịch sử của Teyvat kéo dài trong hàng nghìn năm. Các sự kiện quan trọng bao gồm:
+- Chiến Tranh Ma Thần
+- Tai ương thời cổ đại
+
+- Văn Hóa: Văn hóa ở các quốc gia trên Teyvat cũng đa dạng như ở các quốc gia được sử dụng làm nguồn cảm hứng của. Các quốc gia ở Teyvat cũng ảnh hưởng bởi lý tưởng của vị Chấp Chính Trần Thế đang cai quản.
+
+## Ngôn Ngữ
+
+Có rất nhiều ngôn ngữ được sử dụng ở Teyvat. Một số trong số đó là ngôn ngữ chung được trò chơi sử dụng như phương tiện truyền đạt chính và tiếng Hilichurl - ngôn ngữ của kẻ địch có số lượng lớn nhất trong thế giới của trò chơi.
+
+## Thuật Ngữ
+
+- Chiến Tranh Ma Thần: Khoảng thời gian xảy ra chiến tranh giữa các vị thần. Chưa rõ trận chiến bắt đầu khi nào nhưng lúc trận chiến kết thúc đã là thời điểm 2000 năm về trước. Kết quả của trận chiến chính là sự đăng cai của bảy vị Chấp Chính Trần Thế nguyên sơ.
+- Tai Ương Thời Cổ Đại: Sự kiện diễn ra 500 năm trước trên khắp Teyvat, liên quan đến sự hủy diệt của vùng đất vô thần Khaenri'ah.
+- Đảo Thiên Không: Một nơi bí ẩn nằm lơ lửng giữa bầu trời Teyvat, tương truyền rằng đó là nơi những vị thần cư ngụ, cũng là nơi con người đặt chân tới khi họ trở thành thần.
+- Delusion: Vật được Tsaritsa ban tặng cho một người, cho phép họ sử dụng các sức mạnh nguyên tố mà không cần đến Vision.
+- Kẻ Đổ Bộ: Thực thể mạnh mẽ đến từ thế giới bên ngoài, có khả năng thay đổi cả "luật lệ". Thiên Lý từng tước quyền thống trị thế giới này từ tay Thất Vương là Kẻ Đổ Bộ Đầu Tiên, Nhà Lữ Hành là Kẻ Đổ Bộ Thứ Tư.
+- Rồng: Thực thể nguyên tố mạnh mẽ. Thất Vương là những kẻ mạnh nhất trong số chúng và từng thống trị thế giới này.
+- Thần: Thực thể mạnh mẽ. Hầu hết các vị thần đều đã chết hoặc mất đi toàn bộ sức mạnh sau Chiến Tranh Ma Thần.
+- Bảy Vị Thần: Tên gọi tắt của Bảy Vị Chấp Chính Trần Thế, dùng để gọi bảy vị thần cai quản bảy quốc gia trên lục địa Teyvat.
+- Vision: Là vật được ban tặng cho một người cho phép họ sử dụng các sức mạnh nguyên tố. Các Chấp Chính Trần Thế ban Vision theo sự quyết định của Đảo Thiên Không. Những người mang Vision được gọi là "nguyên thần".

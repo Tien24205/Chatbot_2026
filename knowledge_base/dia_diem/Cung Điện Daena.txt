@@ -1,0 +1,15 @@
+# Cung Điện Daena
+
+## Thông Tin Cơ Bản
+
+type: Địa Điểm Đáng Chú Ý
+type2: Nội Khu
+region: Sumeru
+subregion: Rừng Dharma
+area: Rừng Avidya
+subarea: Thành Sumeru
+poi: Giáo Viện
+
+- Vật Phẩm Nhiệm Vụ: Những quyển sách sau được giữ lại dưới dạng Vật Phẩm Nhiệm Vụ thay vì được lưu vào trong Thư Viện. - Bài Ca Ánh Sáng - Câu Chuyện Về Al-Ahmar - Câu Chuyện Về Mục Đồng Và Bình Ma
+
+- Gregor (Ban ngày) - Hunayn - Jafar (Ban đêm) - Katayoun - Nargess - Sanad (Ban ngày) - Shohre

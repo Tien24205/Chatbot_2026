@@ -1,0 +1,12 @@
+# Nabil
+
+## Thông Tin Cơ Bản
+
+type: NPC Nhiệm Vụ
+region: Sumeru
+location: Sumeru
+affiliation: Giáo Viện Sumeru
+title: Matra
+voiceEN: Jordan Dash Cruz
+
+- Tổng Quan: Nabil là một NPC độc quyền nhiệm vụ xuất hiện trong và.

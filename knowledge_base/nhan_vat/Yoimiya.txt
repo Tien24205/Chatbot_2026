@@ -1,0 +1,35 @@
+# Yoimiya
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+quality: 5
+weapon: Cung
+element: Hỏa
+name: Yoimiya
+realname: Naganohara Yoimiya
+birthday: 21 tháng 06
+constellation: Lưu Kim
+region: Inazuma
+affiliation: Tiệm Pháo Hoa Naganohara
+dish: Cá Mùa Hạ
+namecard: Hoa Lửa Kim Lưu
+obtain: Cầu Nguyện Nhân Vật
+event_name: Thiên Hà Rực Lửa
+releaseDate: 2021-08-10
+title: Vũ Điệu Bão Lửa
+title2: Nữ Hoàng Lễ Hội Hè
+voiceEN: [[imdb:nm7095498
+Jenny Yokobori]]<ref>YouTube: [https://youtu.be/l8YXe7EkmoU?t: 2081 Chương Trình Đặc Biệt Phiên Bản 2.0]
+voiceCN: Jin Na (zh|金娜)
+voiceJP: w|Kana Ueda|Ueda Kana (ja|植田 佳奈)
+voiceKR: w|Bak Sin-hee|Bak Sin-hee (ko|박신희)
+ancestry: Nhà Naganohara
+father: Naganohara Ryuunosuke
+mother: Không Tên
+
+## Tổng Quan
+
+ là một nhân vật chơi được hệ Hỏa trong Genshin Impact.
+
+Cô là chủ hiện tại của Tiệm Pháo Hoa Naganohara; với những màn pháo hoa rực rỡ sắc màu cùng tính cách cởi mở của mình, Yoimiya được mọi người trên Đảo Narukami vô cùng quý mến. Cô còn được mọi người mệnh danh là "Nữ Hoàng Lễ Hội Hè", vì họ cho rằng mùa hè sẽ không được trọn vẹn nếu không có cô.

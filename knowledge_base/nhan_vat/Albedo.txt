@@ -1,0 +1,29 @@
+# Albedo
+
+## Thông Tin Cơ Bản
+
+name: Albedo
+type: Chơi Được
+quality: 5
+weapon: Kiếm Đơn
+element: Nham
+namecard: Hướng Dương
+sex: Nam
+birthday: 13 tháng 09
+constellation: Đứa Con Vôi Trắng
+story: Vôi Trắng
+region: Mondstadt
+affiliation: Đội Kỵ Sĩ Tây Phong
+dish: Giấc Mơ Của Rừng
+obtain: Sự Kiện Cầu Nguyện Nhân Vật
+event_name: Hơi Thở Thần Bí
+releaseDate: 23-12-2020
+parents: Rhinedottir (Người Sáng Chế)
+title: Kreideprinz
+title2: Giả Kim Thuật Sĩ
+title3: Đội Trưởng Đội Điều Tra
+voiceEN: [[imdb:nm5726463
+Khoi Dao]]<ref name: "AlbedoEN/JP">Twitter: Thông Báo VA EN & JP
+voiceCN: Mace
+voiceJP: W|Kenji Nojima|Kenji Nojima (野島健児)
+voiceKR: [[wikipedia:ko:김명준 (성우)

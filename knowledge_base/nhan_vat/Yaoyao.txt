@@ -1,0 +1,28 @@
+# Yaoyao
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+quality: 4
+weapon: Vũ Khí Cán Dài
+element: Thảo
+name: Yaoyao
+birthday: 06 tháng 03
+constellation: Mộc Tê
+region: Liyue
+affiliation: Động Tiên Ca Trần Lãng Thị Chân Quân
+dish: Món Thường Ngày Ở Khinh Sách
+obtain: Cầu Nguyện
+releaseDate: 2023-01-18
+title: Nhụy Hoa Hoạt Bát
+title2: Đệ Tử Ca Trần Lãng Thị Chân Quân
+voiceEN: Kelsey Jaffer
+voiceCN: Liu Yinuo (zh|刘颐诺)
+voiceJP: w|Mai Kadowaki|Kadowaki Mai (ja|門脇舞以)
+voiceKR: Yu Hye-ji (ko|유혜지)
+
+## Tổng Quan
+
+Yaoyao là một nhân vật hệ Thảo chơi được trong Genshin Impact.
+
+Cô bé là sư muội của Xiangling và cùng học võ nghệ ở chỗ Bình Lão Lão,. Khác với Xiangling, cô bé mới bắt đầu nhận bà làm sư phụ từ khi làm trợ lý cho Ganyu.

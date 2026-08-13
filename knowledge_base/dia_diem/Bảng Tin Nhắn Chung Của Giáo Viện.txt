@@ -1,0 +1,161 @@
+# Bảng Tin Nhắn Chung Của Giáo Viện
+
+## Thông Tin Cơ Bản
+
+type: Địa Điểm Đáng Chú Ý
+type2: Bảng Thông Báo
+region: Sumeru
+subregion: Rừng Dharma
+area: Rừng Avidya
+subarea: Thành Sumeru
+
+- Tổng Quan: Bảng Tin Nhắn Chung Của Giáo Viện là một bảng tin nhắn nằm tại Vườn Razan, Thành Sumeru. Tin nhắn sẽ quay vòng ngẫu nhiên qua mỗi lần tương tác.
+
+## Giới Thiệu
+
+(Trước khi hoàn thành???)
+:Bảng Tin Nhắn Chung Của Giáo Viện: Thông báo pháp lệnh trong và ngoài thành cùng với thông báo liên quan của Giáo Viện đã được chuyển vào Akasha, bảng thông báo này được lưu giữ để thầy trò trong học viện giao lưu ngoại khóa, những người ngoài học viện xin đừng để lại lời nhắn!
+(Sau khi hoàn thành???)
+:Bảng Tin Nhắn Chung Của Giáo Viện: Do hệ thống "Akasha" đã ngưng sử dụng, nên bảng thông báo này hiện đã được kích hoạt lại. Thông báo liên quan của Giáo Viện và thông báo pháp lệnh trong và ngoài thành đều được cập nhật tại đây, những người ngoài học viện xin đừng để lại lời nhắn!
+
+## Về Tổng Quản Mahamatra
+
+Tin nhắn: "Không phải tôi có ý kiến gì với người sa mạc, nhưng tôi thấy Tổng Quản Mahamatra phải do học giả đức cao vọng trọng đảm nhiệm mới đúng, đặc biệt là vấn đề học thuật đâu phải dựa vào đánh nhau là giải quyết được đâu."
+Tin nhắn của một người khác: "Haha, tôi thấy vẫn tốt hơn nhiều so với khi người của Học Phái Rtawahist quản lý, chí ít sẽ không thiên vị học viện nào. Hay anh thực sự nghĩ rằng không ai biết sự thật đằng sau về tần suất phát biểu hằng năm của các người sao?"
+Tin nhắn: "Này! Cái tên Học Phái Kshahrewar, anh nói gì cũng phải có chứng cứ, nếu không tôi sẽ tìm Matra phân xử đấy."
+
+## Sự Quản Lý Thống Nhất Về Tri Thức
+
+Tin Nhắn Của Matra: "Xin hãy lưu ý, ngoài giờ học ở bên ngoài học viện thì các bạn học cũng đừng quên tuân thủ kỷ luật nghiêm ngặt."
+Tin Nhắn Của Matra: "Sự quản lý thống nhất về tri thức là nền tảng cho sự tồn tại của "vương quốc trí tuệ", đừng vì những sai lầm vô ý mà đánh mất cơ hội học tập ở Giáo Viện."
+
+## Về Rifaet và Vikram
+
+Tin nhắn: "Các thành viên "Hội Đọc Sách Fravashi", tôi kính phục việc theo đuổi đức tính tốt đẹp của các bạn."
+Tin nhắn: "Nhưng tôi nghe nói, luận văn của Rifaet có hơn một nửa là viết thay."
+Tin nhắn: "Đây cũng là lý do tại sao thành quả học thuật của anh ta nhiều đến thế nhưng vẫn khiêm tốn như vậy."
+Tin nhắn của một người khác: "Mặc dù bảng tin nhắn không cần đầy đủ luận cứ như luận văn, nhưng cũng không thể cố ý công kích người khác."
+Tin nhắn của một người khác: "Những lời nhắn trên đó đa phần chỉ vì ghen tị mà thôi!"
+Tin nhắn của một người khác: "Hơn nữa, tôi cũng nghe nói rằng Vikram đã chiếm được cảm tình của rất nhiều cô gái bằng tài ăn nói của mình."
+Tin nhắn của một người khác: "Những cô gái này đều không biết anh ta đã có gia đình. Sao nào, có phải anh cũng ghen tị với diễm phúc của anh ta lắm không?"
+Tin Nhắn Của Matra: "Nghiêm cấm ác ý công kích học giả Giáo Viện vô căn cứ, nếu còn tái phạm, Matra sẽ tra xét ngọn nguồn tin đồn."
+
+## Kinh Doanh
+
+Tin nhắn: "Quả nhiên kinh doanh và sách là hai thứ khác nhau, giá như ban đầu ở lại Đại Khu Bazaar làm ăn đàng hoàng thì tốt rồi."
+Tin nhắn: "Kết quả là bây giờ luận văn thì viết không xong mà tiền thì cũng không còn."
+Tin nhắn: "Nếu thật sự không ổn thì nghỉ học rồi đến Eremite vậy."
+
+## Akasha
+
+(Trước khi hoàn thành Đích Đến Của Con Thuyền Ý Thức)
+:Tin nhắn: "Mặc dù tôi hoàn toàn tin tưởng vào sự phán xét của các hiền giả và giáo viên hướng dẫn, nhưng có phải hiện nay Giáo Viện đã quá lệ thuộc vào Akasha rồi không."
+:Tin nhắn: "Sau khi quen với việc tiếp thu kiến thức thông qua Akasha, mọi người đều thấy được sự suy giảm rõ rệt về năng lực học thuật của những học giả được phái ra ngoài. Tôi cho rằng cần ra lệnh hạn chế quyền sử dụng Akasha đối với học viên mới."
+:Tin nhắn của một người khác: "Sao có thể nói thế được, anh không biết những học phái ẩn mình trong sa mạc, không tiếp nhận được chỉ dẫn từ Akasha đã dốt nát và điên cuồng từ lâu rồi à? Thậm chí còn dùng cách thức ngu dốt như nuốt sống rắn độc để tiếp cận trí tuệ sao?"
+:Tin nhắn của một người khác: "Ở phía sau Đại Vương Rukkhadevata là kiến thức thuần khiết mà Akasha đảm bảo cho chúng ta."
+(Sau khi hoàn thành Đích Đến Của Con Thuyền Ý Thức)
+:Tin nhắn: "Mặc dù tôi hoàn toàn tin tưởng vào sự phán xét của các hiền giả và giáo viên hướng dẫn, nhưng có phải hiện nay Giáo Viện đã quá lệ thuộc vào Akasha rồi không."
+:Tin nhắn: "Sau khi quen với việc tiếp thu kiến thức thông qua Akasha, mọi người đều thấy được sự suy giảm rõ rệt về năng lực học thuật của những học giả được phái ra ngoài. Tôi cho rằng cần ra lệnh hạn chế quyền sử dụng Akasha đối với học viên mới."
+:Tin nhắn của một người khác: "Sao có thể nói thế được, anh không biết những học phái ẩn mình trong sa mạc, không tiếp nhận được chỉ dẫn từ Akasha đã dốt nát và điên cuồng từ lâu rồi à? Thậm chí còn dùng cách thức ngu dốt như nuốt sống rắn độc để tiếp cận trí tuệ sao?"
+:Tin nhắn của một người khác: "Điều mà mọi người không nhận ra được, chính là kiến thức thuần khiết mà Akasha đảm bảo cho chúng ta."
+
+## Akasha và Mahamata
+
+Tin nhắn: "Hiện giờ học viện đối với việc phổ cập ứng dụng của Akasha, thay vì nói quá cấp tiến, tôi thấy nên nói là quá bảo thủ thì đúng hơn. Hầu hết công việc của Mahamata rườm rà lại kém hiệu quả, thậm chí một số phương diện còn không bằng trước kia."
+Tin nhắn: "Thử nghĩ xem, nếu như chúng ta có thể sử dụng Akasha trực tiếp phân công công việc cho mọi người, và cũng để Akasha quản lý trao đổi hàng hóa ở Sở Giao Dịch."
+Tin nhắn: "Đến lúc đó, chí ít chúng ta có thể cắt giảm được phân nửa Mahamata."
+Tin nhắn của một người khác: "Anh nói rất có lý, thế nên tôi nghĩ có lẽ đây chính là nguyên nhân chúng ta không thể làm thế."
+
+## Vụ Án Buôn Lậu Hũ Tri Thức
+
+Tin Nhắn Của Matra: "Dạo này liên tục phát sinh mấy vụ án buôn lậu Hũ Tri Thức. Thông tin chi tiết sẽ chờ hoàn thành cuộc điều tra sẽ công bố cho thầy trò trong học viện liên quan thông qua Akasha trước Ngày Jnagarbha tiếp theo."
+Tin Nhắn Của Matra: "Yêu cầu các giáo viên hướng dẫn gia tăng giao lưu với học viên, tránh cho học viên vì áp lực luận văn mà bí quá hóa liều."
+
+## Giáo Viện Hiện Nay
+
+Tin nhắn: "Như chúng ta đã biết, nghĩa vụ của học giả là tìm tòi trí tuệ thâm sâu. Nhưng hiện nay Giáo Viện lại tham gia quá nhiều đến công việc hành chính."
+Tin nhắn: "Ngày nay, có rất nhiều bạn học sau khi vội vàng hoàn thành việc học thì không thể không ngừng việc nghiên cứu trong tay, bị cử đi khắp nơi để đảm nhận công việc của Mahamata, thế khác nào đi ngược lại với mục đích ban đầu của Giáo Viện?"
+Tin nhắn của một người khác: "Vấn đề này chẳng phải sớm đã có kết luận trong Akasha rồi sao?"
+Tin nhắn của một người khác: "Khi muôn dân vẫn còn mê tín dị đoan, chỉ có chúng ta là gần ánh sáng chân lý nhất. Sao chúng ta có thể từ bỏ trọng trách soi sáng người đời được. Nếu chúng ta mặc kệ, không biết Sumeru sẽ loạn đến mức nào!"
+
+## Học Giả Nước Ngoài
+
+Tin nhắn: "Chào đón người nước ngoài đến du học thì đã đành, bây giờ ngay cả Akasha cũng mở cho người nước ngoài..."
+Tin nhắn: "Khoan hẵn nói đến người nước ngoài có gây ra ảnh hưởng gì xấu đến Akasha hay không, nhưng chắc chắn không thể tránh khỏi vấn đề tuồn kiến thức ra ngoài, không biết sẽ gây nên ảnh hưởng lớn thế nào đến nền kinh tế ngoại thương của Sumeru."
+Tin nhắn của một người khác: "Thật hiếm thấy khi có học giả quan tâm đến vấn đề kinh tế..."
+Tin nhắn: "Thế nên mới nói Học Phái Haravatat các người không hiểu sự đời, nếu không phải vì muốn tạo ra loại màu sơn tốt hơn, tôi sẽ không thi vào Giáo Viện đâu!"
+
+## Thông Báo Của Đội Trưởng Kiểm Lâm
+
+Thông Báo Của Đội Trưởng Kiểm Lâm: Tuần này, "hội thảo về thực vật học" do Đội Trưởng Kiểm Lâm - Tighnari đại nhân trình bày sẽ tổ chức như thường lệ ở Pardis Dhyai, hoan nghênh mọi người ghi danh.
+Thông Báo Của Đội Trưởng Kiểm Lâm: Bất cứ ai có hứng thú với thực vật đều có thể đến tham gia!
+Thông Báo Của Giáo Viện: Thật sự xin lỗi, do có quá nhiều người đăng ký tham gia buổi hội thảo lần này, để tiện cho việc quản lý kiến thức, thông qua thảo luận, Giáo Viện đã quyết định chỉ cho học viên và nhân viên kiểm lâm tham gia.
+
+## Hội Đọc Sách Fravashi
+
+Tin nhắn: "Không được quên ba điều thiện, sáu tội lỗi của Giáo Viện."
+Tin nhắn: "Khuyên nhủ, tinh tế, thực hành là đức tính tốt mà mỗi học giả đều nên học hỏi."
+Tin nhắn: "Còn Rifaet, trong mười mấy năm nay, vẫn luôn thực hiện ba đức tính này."
+Tin nhắn: "Hoan nghênh gia nhập "Hội Đọc Sách Fravashi", đồng hành cùng trí tuệ và với Thủ Thư tương lai."
+
+## Hội Ái Hữu Của Vikram
+
+Tin nhắn: "Để có bầu không khí học tập thoải mái hơn, và để trao đổi học thuật dễ dàng hơn, để mọi người có thể vui vẻ viết luận văn!"
+Tin nhắn: "Chúng tôi ủng hộ Vikram trở thành Thủ Thư nhiệm kỳ tiếp theo!"
+Tin nhắn: "Hoan nghênh gia nhập "Hội ái hữu của Vikram", chúng ta sẽ cùng chứng kiến sự ra đời của một Thủ Thư trẻ tuổi, yêu dân và thú vị."
+
+## Matra
+
+Tin nhắn: "Dạo này không thấy tên lùn sa mạc nữa, cuối cùng cũng có thể thư giãn một chút rồi."
+Tin nhắn: "Không biết đám Matra này bị gì mà lại tích cực như vậy, làm tôi không vượt qua được cuộc sát hạch của năm học trước."
+Tin nhắn của một người khác: "Tôi nhớ sát hạch đó chẳng phải chỉ cần chuyên cần là qua rồi sao, tự anh không lo học hành đàng hoàng mà còn đổ lỗi cho người khác. Hơn nữa mặc dù gần đây nhân lực Matra thiếu hụt, nhưng anh ăn nói lung tung như vậy cẩn thận bị tìm đến tận nhà đấy."
+Tin nhắn: "Matra gì chứ, nói trắng ra chỉ là người phía trên làm màu chút thôi. Đợi đã, Akasha gửi tin cho tôi..."
+Tin nhắn của một người khác: "Xem ra mọi người cẩn thận vẫn hơn."
+
+## Luật Lệ Bảng Tin Nhắn
+
+Tin Nhắn Của Matra: "Bảng tin nhắn này chưa được quản lý bởi hệ thống quyền hạn Akasha, có thể xem trực tiếp không cần thông qua Akasha."
+Tin Nhắn Của Matra: "Mong mọi người hãy nâng cao nhận thức về bảo mật tri thức, nghiêm cấm việc dùng bảng tin này để truyền tải cộng đồng và trao đổi các nguồn tri thức ngoài lĩnh vực."
+
+## Mondstadt
+
+(Trước khi hoàn thành Đích Đến Của Con Thuyền Ý Thức)
+:Tin nhắn: "Là một du học sinh, mỗi ngày học tập ở Giáo Viện đều khiến tôi càng cảm nhận được sự vĩ đại của Đại Vương Rukkhadevata."
+(Sau khi hoàn thành Đích Đến Của Con Thuyền Ý Thức)
+:Tin nhắn: "Là một du học sinh, mỗi ngày học tập ở Giáo Viện đều khiến tôi càng cảm nhận được sự vĩ đại của Thảo Thần đại nhân."
+Tin nhắn: "Khi ở Mondstadt, phải lật hàng tá cuốn sách chỉ để tổng hợp ra những cách giải thích khác nhau cho một câu hỏi đơn giản."
+Tin nhắn: "Nhưng sau khi có "Trạm Cuối Akasha", chỉ cần suy nghĩ về nội dung cụ thể là có thể nhận được kiến thức chính xác. Tôi nghĩ trên đời không có phát minh nào vĩ đại hơn Akasha nữa."
+
+## Rtawahist với Vahumana
+
+Tin nhắn: "Sau khi đọc "biểu đồ sao" do hiền giả Tabari vĩ đại biên soạn, cuối cùng tôi nhận ra rằng cho dù là chiến tranh ma thần hay là sự sụp đổ của vương quốc cổ, đó chẳng qua chỉ là ảnh xạ chuyển động của các vì sao trên đại lục mà thôi."
+Tin nhắn: "Điều vĩnh hằng duy nhất chính là bầu trời trên đầu chúng ta."
+Tin nhắn của một người khác: "Ừ... Gạt bỏ thứ tình cảm vớ vẩn trong nghiên cứu học thuật nghiêm túc, hóa ra nghiên cứu của Học Phái Rtawahist chính là gộp những chuyện trước và sau hơn nghìn năm lại làm một sao?"
+Tin nhắn của một người khác: "Thật mong các người có thể học được cách nhìn nhận vấn đề từ góc độ lịch sử, chứ không phải suốt ngày lẩm bẩm chăm chú vào các vì sao đó."
+Tin nhắn: "Anh thì biết gì! Đây là nghiên cứu về quy luật thế giới, chẳng trách Vahumana các người chỉ toàn là mọt sách."
+
+## Nhà Xuất Bản Yae
+
+Tin nhắn: "Có ai đọc tiểu thuyết mới nhất của Nhà Xuất Bản Yae chưa? Lần này có tác giả của Sumeru chúng ta đấy, hình như tên là... Pursina gì đó, nhìn là biết người của Học Phái Amurta rồi."
+Tin nhắn: "Ôi... Nếu lúc trước tôi cũng thi đậu Học Viện Amurta thì tốt quá rồi, chẳng những ngày ngày được du sơn ngoạn thủy, còn rảnh rỗi viết tiểu thuyết nữa. Ngờ đâu vào Haravatat này, mỗi ngày không phải là đọc văn hiến thì là viết luận văn, đến cả cơ hội ra ngoài khảo sát cũng chẳng có."
+Tin nhắn của một người khác: "Cái gì, có người đã xuất bản tiểu thuyết ở Nhà Xuất Bản Yae trước tôi sao? Như vậy danh hiệu quyền uy về việc nghiên cứu tiểu thuyết của tôi chẳng phải sẽ..."
+
+## Zandik
+
+Lời nhắn bị xóa sửa lại: "...Kết quả điều tra liên quan đến "Zandik"... Dastur... Nguyên nhân tử vong... có thể là mưu hại..."
+Lời nhắn bị xóa sửa lại: "..."Zandik"... sau khi gạch tên... đối với Eleazar... nhưng thiếu chứng cứ..."
+Lời nhắn bị xóa sửa lại: "...Ghi chép đột ngột biến mất... không rõ thời gian... Eleazar bắt đầu phát tán..."
+Lời nhắn bị xóa sửa lại: "...Trước khi mất tích... "truyền thuyết Varuna"... cố chấp với..."
+Lời nhắn bị xóa sửa lại: (Nội dung sau đây bị hủy hoại hoàn toàn, không thấy được chữ viết có ý nghĩa gì nữa.)
+
+## Tăng Kinh Phí Cho Học Viện Kshahrewar
+
+Tin nhắn: "Kể từ sau Pir Kavikavus, Giáo Viện đã không tăng kinh phí cho Học Viện Kshahrewar nữa."
+Tin nhắn: "Người phía trên chỉ biết nói rằng để mọi người có cuộc sống ổn định, việc nghiên cứu phát triển và thúc đẩy công nghệ cơ khí phải được kiểm soát chặt chẽ. Nếu thật sự như vậy, tôi thấy tắt luôn Akasha cho rồi."
+Tin nhắn: "Nếu không có sự đầu tư lâu dài của thương nhân có đôi mắt tinh tường như Đại Nhân Sangemah Bay thì Học Phái Kshahrewar của chúng ta đã sớm đóng cửa rồi!"
+
+## Tin Nhắn Của Matra
+
+(Sau khi hoàn thành???)
+:Tin Nhắn Của Matra: "Bảng nhắn tin này dùng cho việc liên lạc nội bộ của Giáo Viện, nghiêm cấm truyền bá thông tin sai sự thật và bất hợp pháp tại đây."
+:Tin Nhắn Của Matra: "Matra sẽ tiếp tục nhắc nhở mọi người chú ý đến quy tắc ứng xử của một học giả!"

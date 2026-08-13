@@ -1,0 +1,22 @@
+# Kiếm Đơn
+
+## Tổng Quan
+
+type: Loại Vũ Khí
+type2: Hệ Thống Trò Chơi
+
+Kiếm Đơn là một trong 5 loại Vũ khí mà Nhân Vật có thể sử dụng trong Genshin Impact.
+
+Các đòn đánh bằng kiếm là nền tảng trung gian của vũ khí cận chiến, sát thương và tốc độ đánh của Kiếm Đơn nằm giữa sát thương và tốc độ đánh của Trọng Kiếm và Vũ Khí Cán Dài
+
+- Tấn Công Thường: Thực hiện tối đa 5 lần đánh kiếm liên tiếp.
+
+## Tấn Công Trọng Kích
+
+Tiêu hao thể lực nhất định, đánh một đòn tràn đầy sức mạnh của gió.
+
+Địch bị đánh bay sẽ rơi chậm trong thời gian ngắn.
+
+Theo mặc định, tất cả các đòn Tấn Công Trọng Kích của Kiếm Đơn đều tốn 20 điểm thể lực. Nhưng đòn Tấn Công Trọng Kích của Keqing thì tốn 25 điểm.
+
+- Thánh Di Vật: Các Bộ Thánh Di Vật sau có liên quan đến Kiếm Đơn.

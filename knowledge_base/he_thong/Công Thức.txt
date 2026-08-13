@@ -1,0 +1,16 @@
+# Công Thức
+
+## Tổng Quan
+
+type: Công Thức
+description: Công thức món ăn, ghi lại cách làm món ăn.
+
+Công Thức là những Vật Phẩm cần có khi nấu nướng. Sau khi dùng, người chơi sẽ học được cách làm món ăn tương ứng.
+
+Phần lớn các món ăn có thể học được thông qua công thức, tuy nhiên vẫn sẽ có một vài món người chơi có được ngay từ đầu trò chơi và không có vật phẩm công thức tương ứng. Những món đó bao gồm:
+
+Các công thức có thể lấy được thông qua các Nhiệm Vụ, Bí Cảnh, Danh Vọng, Rương hoặc mua ở các Cửa Hàng. Nếu mua ở ác của hàng, sau khi nâng Danh Vọng ở quốc gia tương ứng tới cấp 4 sẽ được giảm giá.
+
+- Quyển Sách Nấu Ăn: Vật phẩm Quyển Sách Nấu Ăn bao gồm nhiều công thức trong một vật phẩm. Sau khi nhận được nó sẽ tách ra thành các công thức khác nhau.
+
+- Nhiệm Vụ: Các công thức dưới đây có thể nhận được thông qua các nhiệm vụ:

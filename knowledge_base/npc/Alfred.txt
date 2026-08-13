@@ -1,0 +1,42 @@
+# Alfred
+
+## Thông Tin Cơ Bản
+
+type: NPC Đại Thế Giới
+region: Mondstadt
+location: Mondstadt
+title: Nhà Thơ
+voiceEN: Michael Schwalbe
+
+- Tổng Quan: Alfred là một NPC đại thế giới ở Thành Mondstadt. Ông ấy có thể được tìm thấy ở khu mộ sau Đại Giáo Đường Tây Phong đang đứng trước mộ con gái của ông.
+
+## Hồ Sơ
+
+Alfred là một nhà thơ tới từ Mondstadt và từng biểu diễn ở Liyue. Là một nhà thơ, ông thường xuyên không có thời gian dành cho gia đình và không thể đáp lại mong ước của con gái là muốn nghe bài hát của ông. Trong một lần biểu diễn, con gái ông lâm bệnh nặng và mất trong lúc ông không ở đó. Bây giờ, ông ấy có thể được tìm thấy khi đang ngâm nga bài đồng dao yêu thích của con gái ông trong đêm.
+
+- Ngoại Hình: Alfred có mái tóc vuốt ngược màu đen cùng bộ râu dê và mắt màu xanh sáng. Ông ấy mặc một bộ dành cho nhà thơ màu xanh lá, và luôn thấy cùng với chiếc đàn lia của ông.
+
+- Lời Thoại Nhàn Rỗi: Mặt trời lặn phía tây... : "The sun is setting in his sky, time for him to say goodbye."
+
+## Hội Thoại
+
+(Ban ngày)
+Alfred: Ta sẽ hoá thành gió thổi tan mây mù, để ánh trăng soi thắp lên nụ cười của con...
+Alfred: Con gái của ta yên tâm đi, bố sẽ luôn bên cạnh con, luôn luôn như vậy...
+(Ban đêm)
+Alfred: Mặt trời lặn phía tây, hoàng hôn đã tắt, màn đêm buông xuống, gió lạnh thấu xương...
+Alfred: Đừng sợ hãi đêm dài, tôi sẽ ở bên bạn cho đến khi bình minh lên...
+Bạn có nhìn thấy người trông rất giống tôi không?
+:Alfred: Ừm? Đó là người thân của bạn sao?
+:Alfred: Xin lỗi, tôi không có ấn tượng gì cả, nhưng tôi sẽ để ý giúp bạn.
+:Alfred: Sự đau khổ khi phải rời xa người thân, tôi là người hiểu rõ nhất...
+:Alfred: Chúc bạn may mắn, người bạn.
+Đang làm gì vậy?
+:Alfred: Haha, lão già cổ hủ này đang ngâm cho con gái bài đồng dao mà con bé thích nhất.
+:Alfred: Trước đây, môi lần trở về nhà, con bé luôn quấn lấy muốn nghe ta hát, nhưng lúc đó trong đầu ta chỉ có công việc, không muốn quan tâm đến con bé...
+:Alfred:...Kết quả khi tôi đến Liyue biểu diễn, con bé đã lâm bệnh rồi qua đời, tôi thậm chí không được gặp con bé lần cuối.
+:Alfred: Nguyện vọng của con bé đơn giản nhỏ bé đến vậy, nhưng đến việc như vậy tôi đều không thể làm cho con bé...
+:Alfred: Con gái của ta yên tâm đi, bố sẽ luôn bên cạnh con, luôn luôn như vậy...
+(Lặng lẽ rời đi...)
+:Alfred: Hãy ngủ ngon con của ta, nhắm đôi mắt mệt mỏi kia lại...
+:Alfred: Ta sẽ hoá thành gió thổi tan mây mù, để ánh trăng soi thắp lên nụ cười của con...

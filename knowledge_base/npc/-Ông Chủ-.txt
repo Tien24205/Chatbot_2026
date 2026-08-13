@@ -1,0 +1,13 @@
+# "Ông Chủ"
+
+## Tiểu Sử
+
+type: NPC Nhiệm Vụ
+location: Fontaine
+affiliation: Fatui
+
+- Tổng Quan: "Ông Chủ" là một NPC độc quyền nhiệm vụ xuất hiện trong
+
+"Ông Chủ" là một đại diện của Fatui người đã tiếp cận Henri và yêu cầu anh ta lấy 7 linh kiện từ cỗ máy rải rác khắp Fontaine. Henri phá hủy những cỗ máy, nhưng đã bị Hunter và Turner bắt được, chôn xuống cát để dạy cho anh ta một bài học. Khi Nhà Lữ Hành đến, họ đã biết được từ Henri về nhiệm vụ của anh ta và quyết định giúp đỡ. Sau khi lấy được bảy linh kiện, họ quay trở lại chỗ Henri, người có liên quan tới "Ông Chủ". Khi phát hiện ra Nhà Lữ Hành, "Ông Chủ" nhận ra chuyện gì đang xảy ra và cố gắng chạy trốn, nhưng bị Hunter và Turner bắt được rồi họ giải thích ý định của Fatui. Sau đó, họ chôn anh ta xuống cát, khiến anh ta ngất xỉu trước khi ba người đàn ông đào anh ta lên và đưa đi thẩm vấn thêm.
+
+- Ngoại Hình: (Sẽ được bổ sung.)

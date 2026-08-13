@@ -1,10 +1,16 @@
 -- BƯỚC 5 — Schema cho vector database.
 --
--- Số chiều 1536 KHÔNG phải chép từ tutorial. Nó đến từ 00_smoke_test.py:
---   gemini-embedding-001 trả về 3072 chiều,
---   pgvector chỉ đánh index HNSW/IVFFlat được tối đa 2000 chiều,
---   nên rút xuống 1536 bằng output_dimensionality.
--- Nếu đổi model embedding thì phải chạy lại smoke test và sửa con số này.
+-- Số chiều PHẢI khớp với EMBED_DIMENSION trong .env. store.assert_schema_matches()
+-- đối chiếu hai con số này và hỏng ngay nếu lệch, nên không sợ quên âm thầm.
+--
+-- Hiện đặt 768 vì backend embedding là `local` với intfloat/multilingual-e5-base
+-- (768 chiều). Lịch sử con số này:
+--   gemini-embedding-001 trả 3072 chiều -> rút xuống 1536 bằng output_dimensionality
+--   vì pgvector chỉ đánh index HNSW/IVFFlat được tối đa 2000 chiều.
+--   Chuyển sang embedding chạy trên máy (không hạn mức) -> 768.
+--
+-- Đổi model embedding thì phải sửa con số ở đây VÀ dựng lại volume:
+--   docker compose down -v && docker compose up -d
 
 CREATE EXTENSION IF NOT EXISTS vector;
 
@@ -14,7 +20,7 @@ CREATE TABLE IF NOT EXISTS chunks (
     section      TEXT        NOT NULL,   -- tiêu đề mục trong file
     chunk_index  INT         NOT NULL,   -- thứ tự chunk trong file
     content      TEXT        NOT NULL,   -- nội dung đã kèm dòng ngữ cảnh
-    embedding    vector(1536) NOT NULL,
+    embedding    vector(768) NOT NULL,
     created_at   TIMESTAMPTZ NOT NULL DEFAULT now(),
 
     -- Nạp lại cùng một file sẽ ghi đè thay vì nhân bản chunk.

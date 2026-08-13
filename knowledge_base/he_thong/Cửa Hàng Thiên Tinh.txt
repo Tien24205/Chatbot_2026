@@ -1,0 +1,12 @@
+# Cửa Hàng Thiên Tinh
+
+## Thông Tin Cơ Bản
+
+type: Hệ Thống Trò Chơi
+group: Thiên Tinh Kỳ Vực
+group2: Tiền Tệ Hóa
+group3: Giao Diện
+
+- Tổng Quan: Cửa Hàng Thiên Tinh là một Cửa Hàng dành cho Thiên Tinh Kỳ Vực.
+
+- Thời Gian Khả Dụng: Cho đến 03:59 vào ngày Thứ Hai cuối cùng sau ba phiên bản liên tiếp kể từ khi ra mắt - Thời Gian Giảm Giá: Cho đến 03:59 vào ngày Thứ Hai cuối cùng của phiên bản ra mắt

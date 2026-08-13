@@ -1,0 +1,60 @@
+# Hopkins Thần Kỳ
+
+## Tổng Quan
+
+type: NPC Đại Thế Giới
+realname: Hopkins
+region: Mondstadt
+location: Mondstadt
+dialoguereward: Card|Ly May Mắn|1
+
+Hopkins Thần Kỳ là một NPC Đại Thế Giới tại Thanh Tuyền Trấn, Mondstadt, người bán Nước Thánh vào ban ngày. Ông ấy có thể được tìm thấy khi đang dạo cạnh bảng thông báo vào ban ngày và dòng suối của Thanh Tuyền Trấn vào ban đêm.
+
+Lần đầu tiên theo một nhánh hội thoại nhất định sẽ cho người chơi Ly May Mắn 1.
+
+## Tiểu Sử
+
+Hopkins Thần Kỳ là một thương nhân ở Thanh Tuyền Trấn, người thu thập nước suối vào ban đêm và bán chúng như Nước Thánh vào ban ngày. Ông tuyên bố được Tinh Linh Suối cử đến làm người trung gian để thực hiện phép màu.
+
+Khi Chó Săn Ma Vật tấn công Thanh Tuyền Trấn, ông may mắn trốn thoát mà không hề hấn gì nhưng lại mang mối hận thù với bầy sói. Amber, Paimon và Nhà Lữ Hành đã đến và điều tra khu vực này và phát hiện ra rằng những con sói đến từ Lang Lãnh. Bỏ qua lời đảm bảo của Amber rằng Đội Kỵ Sĩ Tây Phong sẽ giải quyết vấn đề, ông và bạn bè đã thành lập một nhóm đi săn để trả thù bầy sói. Họ đến Lang Lãnh để tìm Nhà Lữ Hành và bạn bè đang giúp Razor và ngay lập tức kết luận rằng các cuộc tấn công là do Razor ra lệnh. Sự náo loạn mà họ mang đến khu vực này đã đánh thức Boreas và tấn công loài người.
+
+- Ngoại Hình: (Sẽ được bổ sung.)
+
+- Lời Thoại Nhàn Rỗi: (Ngày) Muốn có sức mạnh không? : "Bạn! Muốn có sức mạnh không?" Qua đây một chút... : "Bạn...đúng, là bạn! Qua đây chút." (Đêm) Một bình 300... : "Một bình 300! Chỉ 300 thôi!"
+
+## Ban Ngày
+
+Hopkins Thần Kỳ: Nhà Lữ Hành, bạn có buồn phiền về thực lực của mình không, có muốn có sức mạnh to lớn hơn không?
+Làm sao mới có thể có được sức mạnh to lớn?
+:Hopkins Thần Kỳ: Chỗ của tôi có chút nước thánh, đảm bảo uống hết tinh thần sảng khoái, sức lực sung mãn!...Chỉ là phát huy hiệu lực hơi chậm một chút.
+Bạn là...
+:Hopkins Thần Kỳ: Tôi là ai? Là người được Thần của suối giao cho nhiệm vụ thần thánh, chuyên mang lại kỳ tích cho loài người.
+:Hopkins Thần Kỳ: Bạn có thể gọi tôi là - Hopkins thần kỳ.
+Làm sao để có sức mạnh to lớn hơn...?
+:Hopkins Thần Kỳ: Chỉ cần uống bình nước suối được Thần chúc phúc này, bạn sẽ nhận được chỉ thị của Thần!
+:Hopkins Thần Kỳ: Nói không chừng... cũng có khả năng nhận luôn Vision đó!
+:Hopkins Thần Kỳ: Bạn nhất định muốn có Vision phải không, chỉ cần 300 Mora...
+: Làm phiền rồi.
+::Hopkins Thần Kỳ: Chỉ 300 Mora, đợi chút, này! Đừng đi chứ!
+: 300 mora...
+::Hopkins Thần Kỳ: Hả, chẳng lẽ bạn chê đắt?
+::Hopkins Thần Kỳ: Vậy thế này đi, nếu bây giờ bạn mua nước thánh sẽ được tặng thêm một chiếc cốc thần kỳ.
+::Hopkins Thần Kỳ: Nếu dùng chiếc cốc này để uống nước thánh sẽ làm tăng lên hiệu quả của nước thánh.
+::Hopkins Thần Kỳ: Vì vậy hãy mau đến mua nước thánh nào!
+:;(Nhận Ly May Mắn 1)
+Tạm biệt.
+:Hopkins Thần Kỳ: Bạn cứ vậy mà đi sao? Đây là cơ hội ngàn năm khó gặp đó! Nghe tôi nói hết đã...
+
+## Ban Đêm
+
+Hopkins Thần Kỳ: Aaaaa!!! Phù... phù phù... dọa chết tôi rồi!
+Đang làm gì vậy?
+:Hopkins Thần Kỳ: A... cái đó, tôi... tôi đang cảm nhận chỉ thị của Thần suối!
+:Hopkins Thần Kỳ: Đây là thời gian quý báu của Hopkins thần kỳ tôi và Thần suối, bạn mau đi ra chỗ khác!
+Bạn đang đổ nước suối thường à?
+:Hopkins Thần Kỳ: Hả? Bạn, bạn đang nói nhảm cái gì.
+:Hopkins Thần Kỳ: Cái bạn nhìn thấy chỉ là vẻ bề ngoài, qua bàn tay Hopkins thần kỳ tôi, làm sao mà bình thường được!
+:Hopkins Thần Kỳ: Nếu không tin bạn mua một bình nước suối tự mình thử xem!
+Tạm biệt.
+:Hopkins Thần Kỳ: Ừ... những việc hôm nay bạn thấy không được để lộ ra ngoài, nếu không sẽ làm Thần suối nổi giận!
+:Hopkins Thần Kỳ:...Bạn... bạn không nói, lần sau đến mua nước suối thần kỳ, tôi sẽ giảm giá cho bạn được không?

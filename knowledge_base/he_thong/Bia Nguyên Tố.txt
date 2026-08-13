@@ -1,0 +1,13 @@
+# Bia Nguyên Tố
+
+## Tổng Quan
+
+type: Thám Hiểm
+type2: Giải Đố
+world: Teyvat
+
+Bia Nguyên Tố là những tấm bia được thắp sáng khi tác động nguyên tố cùng loại được đánh dấu trên bia. Có thể tác động bằng cách sử dụng Thiên Phú và Phản Ứng Nguyên Tố.
+
+Khi tác động nguyên tố trong một lần, có những bia sẽ sáng vĩnh viễn, và có những bia chỉ sáng trong một khoảng thời gian nhất định.
+
+Bia Nguyên Tố thường dùng tronng mở khóa bí cảnh và rương ẩn.

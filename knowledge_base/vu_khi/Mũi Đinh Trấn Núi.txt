@@ -1,0 +1,16 @@
+# Mũi Đinh Trấn Núi
+
+## Thông Tin Cơ Bản
+
+type: Vũ Khí Cán Dài
+quality: 4
+base_atk: 44
+2nd_stat_type: Hiệu Quả Nạp Nguyên Tố
+2nd_stat: 6,7%
+obtain: Cầu Nguyện Vũ Khí
+passive: Hy Vọng Vượt Qua Đỉnh Núi
+effect: Giảm 15% tiêu hao thể lực khi leo trèo, tăng (var1)% sát thương kỹ năng nguyên tố gây ra; Ngoài ra, sau khi nhân vật khác trong đội gần đó thi triển kỹ năng nguyên tố, sát thương kỹ năng nguyên tố của người trang bị sẽ còn tăng (var2)% trong 8s.
+eff_rank1_var1: 12
+eff_rank1_var2: 12
+
+- Tổng Quan: Mũi Đinh Trấn Núi là một Vũ Khí Cán Dài 4 Sao.

@@ -1,0 +1,11 @@
+# Siraj
+
+## Thông Tin Cơ Bản
+
+type: NPC Nhiệm Vụ
+region: Sumeru
+location: Sumeru
+affiliation: Vahumana
+voiceEN: A.J. Beckles
+
+- Tổng Quan: Siraj là một NPC độc quyền nhiệm vụ xuất hiện trong.

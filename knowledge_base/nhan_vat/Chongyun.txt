@@ -1,0 +1,32 @@
+# Chongyun
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+quality: 4
+weapon: Trọng Kiếm
+element: Băng
+name: Chongyun
+birthday: 07 tháng 09
+constellation: Càn Khôn Phong
+region: Liyue
+affiliation: Cảng Liyue
+dish: Mì Lạnh Bát Bửu
+obtain: Cầu Nguyện
+releaseDate: 2020-09-28
+relatives: Shenhe (Dì)
+title: Bòng Hình Băng Giá
+title2: Hiệp Sĩ Trừ Gian Diệt Ác
+voiceEN: [[imdb:nm6940026
+Beau Bridgland]]<ref name: "Chongyun EN/JP">(EN & JP) Twitter - VA Announcement
+voiceCN: kinsen
+voiceJP: w|Soma Saito|Soma Saito (斉藤壮馬)
+voiceKR: w|ko:양정화 (성우)|Yang Jeong-hwa (양정화)
+
+## Tổng Quan
+
+ là nhân vật hệ Băng chơi được trong Genshin Impact.
+
+Là một phương sĩ từ Liyue, Chongyun được sinh ra với năng lượng dương (dương) quá mức, đã được chứng minh là vừa giúp đỡ vừa là trở ngại. Nó khiến cậu trở thành một phương sĩ hiệu quả, nhưng cũng có nghĩa là cậu không có cơ hội nhìn thấy linh hồn nào - chúng chạy trốn trước khi bị để mắt đến. Nó cũng khiến cậu dễ bị kích động bởi bất kỳ loại cảm xúc mạnh nào, dẫn đến một số kết quả khá... bất ngờ.
+
+- Cầu Nguyện thường Du Hành Thế Gian - Cầu Nguyện Đề Xuất Cho Người Mới - Toàn bộ Sự Kiện Cầu Nguyện Nhân Vật và Sự Kiện Cầu Nguyện Vũ Khí - Sự Kiện Kề Vai Sát Cánh

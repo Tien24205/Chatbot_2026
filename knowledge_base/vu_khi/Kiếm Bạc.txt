@@ -1,0 +1,21 @@
+# Kiếm Bạc
+
+## Thông Tin Cơ Bản
+
+id: 11201
+type: Kiếm Đơn
+series: 2 Sao
+releaseDate: 2020-09-28
+quality: 2
+base_atk: 33
+obtain: Rương
+obtain2: Điều Tra
+obtain3: Cửa Hàng
+obtain4: Đối Thoại
+npc: Schulz; Gaiman
+
+- Tổng Quan: Kiếm Bạc là một Kiếm Đơn 2 Sao.
+
+- Câu Chuyện: Trái ngược với tín ngưỡng của dân gian, Bạc thực ra không có công hiệu trừ ma. Lữ khách tay cầm kiếm lòng không vướng bận, đó chính là mấu chốt của trảm yêu trừ ma.
+
+- Được tìm thấy ngẫu nhiễn trong Rương Thường và Cao Cấp trên khắp Teyvat. - Rơi khi tương tác với một số điểm Điều Tra. - Schulz - Lời thoại có thưởng (×3) - Gaiman - Lời thoại có thưởng (×2)

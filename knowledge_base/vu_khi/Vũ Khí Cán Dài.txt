@@ -1,0 +1,28 @@
+# Vũ Khí Cán Dài
+
+## Thông Tin Cơ Bản
+
+type: Loại Vũ Khí
+type2: Hệ Thống Trò Chơi
+
+- Tổng Quan: Vũ Khí Cán Dài là một trong 5 loại Vũ Khí mà Nhân Vật có thể sử dụng trong Genshin Impact. Là loại vũ khí sở hữu các đòn tấn công nhanh trong số các loại vũ khí và khả năng tiếp cận tốt.
+
+- Tấn Công Thường: Thường bao gồm 5-6 đòn tấn công cận chiến nhanh.
+
+## Tấn Công Trọng Kích
+
+Vũ Khí Cán Dài có một trong các loại hoạt ảnh sau:
+- Lao về phía trước, gây sát thương lên kẻ địch trên đường lao (hầu hết nhân vật sử dụng Vũ Khí Cán Dài hiện tại)
+- Khi Zhongli tấn công trọng kích như vậy, hoạt ảnh của anh ta sẽ bao gồm một cú dịch chuyển thẳng theo hướng anh ta tấn công và cùng lúc đó, các ngọn thương sẽ rơi xuống như mưa dọc theo con đường lao.
+- Hất tung (Xiao và Raiden Shogun)
+- Xiao có thể nâng những kẻ thù nhỏ lên không trung bằng đòn Tấn Công Trọng Kích của mình.
+
+Theo mặc định, tất cả các đòn Tấn Công Trọng Kích của Vũ Khí Cán Dài đều tốn 25 điểm thể lực.
+
+## Tấn Công Khi Đáp
+
+Tấn Công Khi Đáp gây sát thương diện rộng cũng có tác dụng phá khiên. Điều này được chứng minh qua việc Xiao sử dụng Vũ Điệu Trừ Yêu, có thể phá vỡ lá chắn. Các đòn tấn công khi đáp cũng có thể được sử dụng để khai thác quặng.
+
+Tất cả những người sử dụng Vũ Khí Cán Dài cho đến nay đều có hoạt ảnh giống nhau khi lao xuống,như một mũi khoan.
+
+- Thánh Di Vật: Các Bộ Thánh Di Vật sau có liên quan đến Vũ Khí Cán Dài.

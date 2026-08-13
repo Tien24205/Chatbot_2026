@@ -1,0 +1,70 @@
+# Tây Phong Mật Điển
+
+## Thông Tin Cơ Bản
+
+id: 14401
+type: Pháp Khí
+series: Tây Phong
+releaseDate: 2020-09-28
+quality: 4
+base_atk: 42
+2nd_stat_type: Hiệu Quả Nạp Nguyên Tố
+2nd_stat: 10,0%
+obtain: Cầu Nguyện
+passive: Đi Cùng Với Gió
+effect: Khi tạo thành bạo kích có tỷ lệ (var1)% sinh ra một lượng nhỏ Nguyên Tố Hạt Nhân, khôi phục 6 Năng Lượng Nguyên Tố cho nhân vật. Mỗi (var2)s mới thi triển 1 lần.
+eff_rank1_var1: 60
+eff_rank2_var1: 70
+eff_rank3_var1: 80
+eff_rank4_var1: 90
+eff_rank5_var1: 100
+eff_rank1_var2: 12
+eff_rank2_var2: 10,5
+eff_rank3_var2: 9
+eff_rank4_var2: 7,5
+eff_rank5_var2: 6
+eff_att1: ST Bạo Kích
+eff_att2: Sản Sinh Năng Lượng Nguyên Tố
+
+- Tổng Quan: Tây Phong Mật Điển là một pháp khí 4 Sao.
+
+## Ghi Chú
+
+- Đi Cùng Với Gió có thể kích hoạt cho mỗi cú đánh gây sát thương lên kẻ địch, cũng như cho mỗi kẻ địch bị trúng đòn khi nhân vật ở trên sân. Vậy nên:
+- Các kỹ năng tấn công liên tiếp như Kỹ Năng Nguyên Tố - Móng Mèo Lạnh Giá của Diona (5 lần bắn) có nhiều khả năng kích hoạt nội tại hơn.
+- Các kỹ năng gây sát thương diện rộng như Kỹ Năng Nguyên Tố - Bài Ca Trời Cao của Venti có nhiều khả năng kích hoạt nội tại hơn khi có thể đánh trúng nhiều kẻ địch cùng lúc.
+- Nội tại sẽ không được kích hoạt khi nhân vật trang bị vũ khí tạo thành bạo kích trong trạng thái rời trận.
+- Nội tại sẽ không được kích hoạt khi kẻ địch miễn dịch với sát thương tạo thành.
+- Trong Chế Độ Nhiều Người Chơi, kích hoạt Đi Cùng Với Gió sinh ra Nguyên Tố Hạt Nhân cho tất cả thành viên trong đội.
+
+## Câu Chuyện
+
+Bí mật được lưu truyền giữa các học giả ma pháp của Đội Kỵ Sĩ Tây Phong, ghi chép về trí tuệ tập thể của họ.
+
+Trên cuốn sách khảm kết tinh ngọc được ngưng kết từ nguyên tố, đó cũng chính là lý do khiến Tây Phong Mật Điển hiếm có đến vậy.
+
+Không phải quý giá do sự kết tinh ấy. Mà là do các học giả tự tay chế tạo Tây Phong Mật Điển.
+
+Chỉ có bậc học giả nắm giữ được sự huyền diệu của nguyên tố mới có thể luyện ra được thứ bảo ngọc kết tinh này.
+
+Từ khi đội kỵ sĩ thành lập, Kỵ sĩ bình minh Ragnvindr đã cải tạo bể bơi trong nhà của quý tộc cũ thành kho sách,
+
+Sự đóng góp của vô số nhà thơ, học giả và lữ khách đã biến Mondstadt ngày nay trở thành nơi cất giữ sách lớn nhất đại lục phía Bắc.
+
+Xét cho cùng tiếng hát sẽ hòa vào gió, say sưa mỹ tửu cũng chỉ là nhất thời. Chỉ có những câu chuyện và kiến thức là tỏa sáng mãi mãi.
+
+Trên thực tế, thư viện ngày nay chỉ bằng 1/6 quy mô của thời hoàng kim.
+
+Vì trong sự kiện "Hỏa Hoạn Mùa Thu", không may thư viện đã bị đốt cháy.
+
+Trong tầng hầm của thư viện, có đôi cửa bằng gỗ đàn hương rắn chắc.
+
+Người ta nói rằng ngọn lửa lớn cũng không làm nó biến thành màu đen, có từ rất lâu trước khi thư viện được thành lập,
+
+Đôi cửa gỗ có từ rất lâu trước khi đội kỵ sĩ được thành lập.
+
+Đội kỵ sĩ nói rằng đó là khu sách cấm.
+
+Nhưng người ta nói rằng có nhiều bí mật bị giấu kín...
+
+- Cầu nguyện thường Du Hành Thế Gian (Không giới hạn thời gian) - Tất cả các sự kiện Cầu Nguyện Nhân Vật và Cầu Nguyện Vũ Khí

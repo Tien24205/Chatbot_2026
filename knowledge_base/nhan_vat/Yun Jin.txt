@@ -1,0 +1,33 @@
+# Yun Jin
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+quality: 4
+weapon: Vũ Khí Cán Dài
+element: Nham
+name: Yun Jin
+sex: Nữ
+birthday: 21 tháng 05
+constellation: Hồng Chương
+region: Liyue
+affiliation: Vân Hàn Xã
+affiliation3: Nhà Yun
+affiliation2: Hòa Dụ Trà Quán
+dish: Vân Già Ngọc
+namecard: Đối Âm
+obtain: Cầu Nguyện
+releaseDate: 2022-01-05
+ancestry: Nhà Yun
+title: Mỹ Nhân Trên Sân Khấu
+title2: Đương gia hiện tại của Vân Hàn Xã
+voiceEN: Judy Alice Lee Yang Yang (zh|杨扬)
+voiceCN: He Wenxiao (zh|贺文潇) Yang Yang (zh|杨扬)
+voiceJP: w|Kotori Koiwai|Koiwai Kotori (ja|小岩井 ことり) Yang Yang (zh|杨扬)
+voiceKR: w|ko:사문영|Sa Mun-yeong (ko|사문영) Yang Yang (zh|杨扬)
+
+## Tổng Quan
+
+Cô là một nghệ sĩ kịch nổi danh tại Liyue, đồng thời là đương gia hiện tại của Vân Hàn Xã. Ngoài diễn kịch, cô cũng biết viết kịch, những vở kịch mới gần đây của Vân Hàn Xã đều do cô tự mình chấp bút, trong đó có cả kết cục mới cho vở "Thần Nữ Hủy Diệt".
+
+- Sự kiện Muôn Sắc Khắc Niên Hoa (Phiên Bản 2.4)

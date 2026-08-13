@@ -1,0 +1,35 @@
+# Sigewinne
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+weapon: Cung
+quality: 5
+element: Thủy
+arkhe: Ousia
+name: Sigewinne
+pronunciation: w|Help:IPA/English|/ˈsiːʒwiːn/ w|Help:Pronunciation respelling key|SEEZH-ween
+birthday: 30 tháng 03
+constellation: Hải Tinh
+region: Fontaine
+affiliation: Pháo Đài Meropide
+dish: Bữa Ăn Cân Bằng
+namecard: Liệu Trình
+group: Melusine
+obtain: Cầu Nguyện Nhân Vật
+event_name: Romaritime Dịu Dàng
+releaseDate: 2024-06-25
+title: Long Nữ Diệu Biến
+title2: Y Tá Trưởng Melusine
+creator: Relative Type|synthetic|Elynas (NPC)| Giấc Mơ Và Chú Chó Máy Móc
+relatedCreation: Relative Type|synthetic|Melusine| Giấc Mơ Và Chú Chó Máy Móc
+voiceEN: w|Sarah Anne Williams|Sarah Williams
+voiceCN: Zhao Shuang (zh|赵爽)
+voiceJP: w|Hina Kino|Kino Hina (ja|木野日菜)
+voiceKR: Kim Chae-rin (ko|김채린)
+
+## Tổng Quan
+
+Sigewinne là một nhân vật hệ Thủy chơi được, sở hữu Sức Mạnh Nền Tảng trong Genshin Impact.
+
+Sigewinne là y tá trưởng tại phòng y tế của Pháo Đài Meropide. Trong quá khứ, Sigewinne chọn mang hình dáng con người để cứu một đứa trẻ đã kết bạn với cô vì thời điểm ấy Melusine vẫn bị coi thường. Tuy nhiên, sự biến đổi đó đã đi ngược lại với luật lệ của Fontaine, điều đó dẫn đến việc cô bị kết án có tội và đưa đến Pháo Đài Meropide.

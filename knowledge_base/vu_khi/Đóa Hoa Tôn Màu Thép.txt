@@ -1,0 +1,70 @@
+# Đóa Hoa Tôn Màu Thép
+
+## Thông Tin Cơ Bản
+
+type: Trọng Kiếm
+quality: 4
+base_atk: 44
+2nd_stat_type: Tinh Thông Nguyên Tố
+2nd_stat: 24
+releaseDate: 01-03-2023
+obtain: Sự Kiện
+event_name: Hơi Thở Hoa Gió
+passive: Lời Thì Thầm Hoa Gió
+effect: Trong 8s sau khi Kỹ Năng Nguyên Tố đánh trúng kẻ địch hoặc kích hoạt phản ứng nguyên tố, tấn công tăng (var1)%, Tinh Thông Nguyên Tố tăng (var2) điểm.
+eff_rank1_var1: 12
+eff_rank2_var1: 15
+eff_rank3_var1: 18
+eff_rank4_var1: 21
+eff_rank5_var1: 24
+eff_rank1_var2: 48
+eff_rank2_var2: 60
+eff_rank3_var2: 72
+eff_rank4_var2: 84
+eff_rank5_var2: 96
+
+- Tinh Luyện: Để tinh luyện Đóa Hoa Tôn Màu Thép, cần vật phẩm đặc biệt Hoa Nở Không Tàn thay cho bản sao của món vũ khí này. Người chơi có thể nhận được 4 Hoa Nở Không Tàn từ sự kiện Hơi Thở Hoa Gió.
+
+## Câu Chuyện
+
+Hình tượng của "Hoa Gió" qua bao năm đã dần mai một trong gió,
+
+Trong những năm tháng hòa bình của hiện nay, đã mang hàm ý yêu thương và vui vẻ.
+
+Có lúc dù là trên binh khí sắt thép được dùng cho mục đích chinh phục và chiến thắng,
+
+Cũng vẫn dựa theo tâm ý của người ủy thác hoặc người chế tạo mà trang trí thêm đóa hoa.
+
+Thanh kiếm này hình như là vũ khí mà người nào đó đã đặt làm cho người trong lòng mình.
+
+"Sắt thép không thể làm gãy nó; tường đá kiên cố cũng không thể giam cầm nó."
+
+"Gió không sợ hãi tương lai sẽ đến, không ngừng trôi đi về phía ngày mai."
+
+Người chăn cừu vô danh không thuộc về giáo đường đã lặng lẽ kể về câu chuyện của gió,
+
+Đem "đóa hoa" tặng cho người lắng nghe mà trong đôi mắt còn một chút ánh sáng.
+
+Nếu hậu duệ cao quý đã quên mất lời thề xưa, nếu sự trầm lặng của hư danh trở nên thịnh hành,
+
+Nếu như nguyên tắc của huyết mạch và hướng đi của gió trái ngược nhau, truyền thuyết của cỏ cây hoa lá chính là điều cấm kỵ.
+
+Vào thời đại đó, từng có rất nhiều đóa hoa nở rộ rực rỡ tại nơi nào đó mà con người không thích nhìn đến.
+
+Dù cuối cùng cũng bị gió cuốn đi, nhưng lại để lại khoảnh khắc rực rỡ trong thế gian xám xịt này.
+
+"Dưới chiếc bóng của tòa tháp cao ngày xưa, trong phố phường ngày nay,"
+
+"Tại một góc nhỏ, đóa hoa đang tỏa ra ánh hào quang le lói."
+
+Người chăn cừu vô danh không ra vào cung điện đã lặng lẽ kể về câu chuyện của hoa.
+
+Nói rằng: Giờ đây, "Lễ Đánh Cầu" đã bị quý tộc cướp đi.
+
+Nhưng mọi người có biết, tại cố đô xa xưa bị cuốn trong gió nóng, hoa dại đã từng nở rộ khắp nơi.
+
+Loài hoa đó khác với hoa tầm thường. Gió càng mạnh, thì thân rễ càng mạnh, sinh trưởng cũng càng nhiều.
+
+Khi hoa nở khắp vương thành, thời khắc tòa tháp cao sụp đổ sẽ đến.
+
+- Hoàn thành trò chơi Muôn Gió Nghênh Hoa: Ngọn Gió Tuần Tự thuộc sự kiện Hơi Thở Hoa Gió.

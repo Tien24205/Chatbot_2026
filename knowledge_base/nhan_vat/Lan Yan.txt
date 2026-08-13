@@ -1,0 +1,37 @@
+# Lan Yan
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+quality: 4
+weapon: Pháp Khí
+element: Phong
+name: Lan Yan
+birthday: 06 tháng 01
+constellation: Huyền Yến
+region: Liyue
+affiliation: Trầm Ngọc Cốc
+affiliation2: Hiệp Hội Đồ Thủ Công Trầm Ngọc Cốc
+dish: Hoa Như Cắt Ngọc
+namecard: Én Bạc
+obtain: Cầu Nguyện
+releaseDate: 2025-01-21
+title: Cắt Ngọc Đan Xuân
+title2: Bậc Thầy Đan Mây Của Hội Thủ Công Trầm Ngọc Cốc
+voiceEN: [[imdb:nm1683988
+Anna Devlin]]<ref>YouTube: [https://www.youtube.com/watch?v: 8XuME9bKqBs&t=1885s Chương Trình Đặc Biệt Genshin Impact Phiên Bản 5.3] (Mốc thời gian: 31m 25s)
+voiceCN: Liu Shisi (zh|刘十四)
+voiceJP: w|Shion Wakayama|Wakayama Shion (ja|若山詩音)
+voiceKR: Kim Soon-mi (ko|김순미)
+
+## Tổng Quan
+
+ là một nhân vật chơi được hệ Phong trong Genshin Impact.
+
+Lan Yan là một thợ đan mây khiêm nhường nhưng tài hoa, thông thạo Kỳ Môn Thuật và là một thành viên của Hiệp Hội Đồ Thủ Công Trầm Ngọc Cốc. Góc nhìn sâu sắc của cô tỏa sáng rực rỡ như ánh bạc đến mọi người mà cô gặp gỡ.
+
+## Có Mặt Trong
+
+- Cầu nguyện thường Du Hành Thế Gian (Vĩnh Viễn) từ Phiên Bản 5.4
+- Tất cả sự kiện Cầu Nguyện Nhân Vật và Cầu Nguyện Vũ Khí từ Phiên Bản 5.4
+- Sự Kiện Xuân Hi Họa Đào Phù (24 tháng 01, 2025 – 09 tháng 02, 2025)

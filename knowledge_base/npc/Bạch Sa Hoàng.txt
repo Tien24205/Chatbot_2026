@@ -1,0 +1,16 @@
+# Bạch Sa Hoàng
+
+## Thông Tin Cơ Bản
+
+type: Đề Cập
+deceased: Quá khứ
+element: Băng
+region: Snezhnaya
+affiliation: Bảy Vị Thần
+title: Băng Thần
+title2: Đông Sa Hoàng
+title3: Sa Hoàng của các fae
+
+- Tổng Quan: hay Bạch Sa Hoàng là Băng Thần đầu tiên của Snezhnaya. Những tín đồ còn sót lại được biết đến với tên Fae Xứ Tuyết.
+
+- nghĩa là "trắng" trong tiếng Nga.

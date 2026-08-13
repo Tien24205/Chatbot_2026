@@ -1,0 +1,44 @@
+# Georg
+
+## Lời Thoại Nhàn Rỗi
+
+type: NPC Sự Kiện
+affiliation: Quà Tặng Của Thiên Sứ
+region: Mondstadt
+location: Mondstadt
+title: Nhà Làm Rượu
+
+- Tổng Quan: Georg là NPC bán đồ uống, độc quyền sự kiện Khúc Ca Vang Trong Rượu.
+
+Trước khi bắt đấu Tin Từ Phương Xa Thổi Đến
+Đợi nguyên liệu có đủ...
+: "Khi nguyên liệu đầy đủ thì phải bắt tay vào làm mới được..."
+Trong Lễ Hội Rượu
+Rượu ngon...
+: "Thử rượu ngon nhất trong thị trấn nào!"
+
+## Phiên Bản 1
+
+Trước khi bắt đầu Tin Từ Phương Xa Thổi Đến...
+Georg: Bạn cũng đến để bày cửa hàng sao?
+Georg: Hội Chợ Rượu lần này được chọn bên ngoài Thanh Tuyền Trấn, không chỉ có phong cảnh đẹp, mà vận chuyển hàng qua đây cũng rất thuận tiện.
+Georg: Nhưng vì diện tích của quán Quà Tặng Của Thiên Sứ chúng tôi lớn nên việc chuẩn bị phải mất thời gian khá dài.
+
+## Phiên Bản 2
+
+Khi không gian Lễ Hội Rượu đã trang hoàng xong...
+Georg: Muốn uống gì không? Trong thời gian lễ hội, quán của chúng tôi không chỉ bán rượu ngon, mà còn thu mua nhiều nguyên liệu nấu rượu khác nhau, hoan nghênh đến đây thương lượng.
+Tôi muốn bán nguyên liệu nấu rượu.
+:Georg: Được, tiệm tôi hiện đang mua những nguyên liệu này.
+;(Mở giao diện Bán Nguyên Liệu)
+Tôi muốn mua ít đồ uống.
+Georg: Thực đơn ở đây, xin mời.
+;(Mở giao diện cửa hàng)
+Về gian hàng này...
+:Georg: Hằng năm tại Lễ Hội Rượu, tiệm Quà Tặng Của Thiên Sứ chúng tôi đều sẽ tham gia, rất nhiều người từ phương xa đến đây chỉ để uống một ngụm rượu ngon phiên bản giới hạn của chúng tôi.
+:Georg: Khi lão gia Crepus vẫn còn, mỗi năm đều tự mình đến gian hàng này uống một ly...
+:Georg: Haiz, không biết vì sao, cứ đến ngày này là tôi lại nhớ đến những chuyện lúc trước.
+:Georg: Thiếu gia Diluc... Không, mấy năm nay lão gia Diluc cũng không dễ dàng gì, nhưng năm nay tôi thấy anh ấy có tâm trạng khá tốt đấy chứ.
+:Georg: Chỉ cần lão gia Diluc có thể sống tốt, lão gia Crepus có linh trên trời, nhất định cũng sẽ rất vui.
+Tạm biệt.
+:Georg: Tạm biệt, hoan nghênh bạn đến thăm.

@@ -1,0 +1,57 @@
+# Nhà Hát Giả Tưởng
+
+## Tổng Quan
+
+title: Nhà Hát Giả Tưởng
+displaytitle: no
+type: Đặc Biệt
+region: Mondstadt
+area: Vực Sao Rơi
+subarea: Thành Mondstadt
+poi: Tổng Bộ Đội Kỵ Sĩ
+requiredAR: 35
+
+Nhà Hát Giả Tưởng là cơ chế trò chơi vĩnh viễn, diễn ra trong một bí cảnh đặc biệt ở Phòng Chuẩn Bị (trước đây có tên là Căn Phòng Bí Ẩn) thuộc Thư Viện Mondstadt, Mondstadt. Sói Nhỏ là một lễ tân trong thư viện, cậu được tạo ra bởi một ma nữ.
+
+Để mở khóa Nhà Hát Giả Tưởng, người chơi cần đạt Hạng Mạo Hiểm 35 và hoàn thành.
+
+## Diễn Viên Chính
+
+Diễn Viên Chính là những nhân vật có thể sử dụng để khiêu chiến. Người chơi sẽ bắt đầu biểu diễn với 6 Nhân Vật Mở Màn được định sẵn (có thể dùng nhân vật bản thân có hoặc Nhân Vật Dùng Thử). Mỗi Diễn Viên Chính sở hữu 2 điểm Sức Bền, sau khi hoàn thành Sự Kiện Chiến Đấu sẽ tiêu hao 1 điểm Sức Bền. Sau khi dùng hết Sức Bền, nhân vật sẽ không thể tham gia chiến đấu nữa.
+
+## Diễn Viên Thay Thế
+
+Diễn Viên Thay Thế là những nhân vật có thể được bổ sung vào hàng ngũ Diễn Viên Chính. Khách Mời Đặc Biệt là nhân vật có thể chọn mà không bị giới hạn bởi nguyên tố yêu cầu. Người chơi có thể mời một Diễn Viên Thay Thế lên làm Diễn Viên Chính sau khi hoàn thành Sự Kiện Chiến Đấu hoặc kích hoạt Sự Kiện Đồng Đội tương ứng.
+
+## Diễn Viên Hỗ Trợ
+
+Diễn Viên Hỗ Trợ là nhân vật dùng để trợ giúp bạn bè khi họ biểu diễn. Người chơi có thể chọn tối đa 7 nhân vật để gửi hỗ trợ cho bạn bè. Một người chơi có thể hỗ trợ tối đa 15 người bạn. Nhà Lữ Hành phải cộng hưởng với nguyên tố cho phép thì mới có thể gửi hỗ trợ. Aloy không thể được chọn làm nhân vật hỗ trợ.
+
+- Hoa Ảo Kịch: Hoa Ảo Kịch có thể được sử dụng để kích hoạt sự kiện, nhận được sau khi hoàn thành Sự Kiện Chiến Đấu.
+
+## Sự Kiện
+
+- Sự Kiện Chiến Đấu cho phép người chơi thu thập Hoa Ảo Kịch.
+- Sự Kiện Đồng Đội cho phép người chơi mời nhân vật vào đội hình Diễn Viên Chính bằng cách sử dụng Hoa Ảo Kịch.
+- Trợ Giúp Kỳ Diệu
+- Quà Thần Bí
+
+- Chúc Phúc Ảo Cảnh: Sáu Nhân Vật Mở Màn sẽ nhận được hiệu quả Chúc Phúc Ảo Cảnh trong Nhà Hát Giả Tưởng và cả trên đại thế giới.
+
+- Huy Chương Đồ Chơi: Huy Chương Đồ Chơi có thể được sử dụng tại chỗ của Sói Nhỏ để đổi lấy động tác chụp ảnh đặc biệt, gọi là "Bí Quyết Biểu Diễn", nhận thông qua Thưởng Lưu Diễn.
+
+## Thưởng Lưu Diễn
+
+Vượt qua số màn tương ứng và tổng kết lưu diễn để nhận. Làm mới vào ngày đầu tiên của mỗi tháng.
+
+Hoàn thành Khiêu Chiến Minh Tinh của các màn để nhận Huy Hiệu Minh Tinh. Bắt đầu từ kỳ 06/2025 của Nhà Hát Giả Tưởng, sau khi tổng kết có thể nhận thưởng thêm tùy vào số Huy Hiệu đạt được.
+Thưởng Khiêu Chiến
+Thưởng Huy Hiệu
+
+- Quà Tặng Ra Mắt: Nhận được sau khi tổng kết lưu diễn có màn lần đầu tiên vượt qua, chỉ được nhận một lần duy nhất.
+
+- Tổng Phần Thưởng: Quà Tặng Ra Mắt Thưởng Lưu Diễn
+
+- Rút Quẻ: Mỗi kỳ người chơi có thể thực hiện rút một quẻ.
+
+- "Thiết Bị Thần Kỳ Có Thể Phát Nhạc": Người chơi có thể sử dụng cơ quan này để thay đổi nhạc nền được phát trong Phòng Chuẩn Bị.

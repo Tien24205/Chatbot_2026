@@ -1,0 +1,67 @@
+# Trượng Hộ Ma
+
+## Thông Tin Cơ Bản
+
+id: 13501
+type: Vũ Khí Cán Dài
+releaseDate: 2021-02-23
+quality: 5
+base_atk: 46
+2nd_stat_type: ST Bạo Kích
+2nd_stat: 14,4%
+obtain: Sự Kiện Cầu Nguyện Vũ Khí
+passive: Bướm Đỏ Tự Do
+effect: HP tăng (var1)%. Ngoài ra, nhận được buff tấn công bằng (var2)% giới hạn HP của nhân vật trang bị vũ khí này. Khi HP của nhân vật trang bị vũ khí này dưới 50%, sẽ nhận thêm buff tấn công bằng (var3)% giới hạn HP.
+eff_rank1_var1: 20
+eff_rank2_var1: 25
+eff_rank3_var1: 30
+eff_rank4_var1: 35
+eff_rank5_var1: 40
+eff_rank1_var2: 0,8
+eff_rank2_var2: 1
+eff_rank3_var2: 1,2
+eff_rank4_var2: 1,4
+eff_rank5_var2: 1,6
+eff_rank1_var3: 1
+eff_rank2_var3: 1,2
+eff_rank3_var3: 1,4
+eff_rank4_var3: 1,6
+eff_rank5_var3: 1,8
+eff_att1: HP
+eff_att2: Tấn Công
+
+- Tổng Quan: là Vũ Khí Cán Dài 5 sao nhận được từ Sự Kiện Cầu Nguyện Vũ Khí.
+
+## Câu Chuyện
+
+Hãy rửa sạch mọi thứ ô uế bằng ngọn lửa rực cháy, để cho những thứ dơ bẩn và ánh lửa cùng bay lên bầu trời cao:
+
+Nghi lễ này đã từng thắp sáng nhiều nơi trên đất liền vào mùa nước đổ, bốc lên làn khói của hy vọng và diệt trừ cái ác.
+
+Nghi lễ rực lửa này từng phổ biến trong thời đại tranh chấp cổ xưa.
+
+Bởi vì những ảo tưởng và giấc mơ thầm lặng sẽ biến thành chướng khí ma quỷ đeo bám,
+
+Lấy đi những con dân không còn thuộc về họ và những người con chưa từng thuộc về họ.
+
+Lúc đó, thầy thuốc nghe thấy tiếng lửa dữ dội lúc chạng vạng,
+
+Tiếng rên rỉ trầm thấp trong âm thanh của đám cỏ khô héo đang cháy như tiếng dầu mỡ đang sôi.
+
+"Chỉ có ngọn lửa tự do mới có thể tẩy sạch bụi bẩn của trời đất"
+
+"Giương cao bó củi đỏ rực, đẩy lùi mọi yêu tà"
+
+Thầy thuốc cầm gậy đỏ, đốt cháy những thứ bị ô nhiễm bởi cái ác.
+
+Những người đã vướng vào ác nghiệp và tai họa, những người không thể chịu đựng nỗi buồn sâu thẳm,
+
+Sẽ biến thành tro trong lửa, thoát khỏi mọi bất hạnh và tổn thương trong thế giới bùn lầy.
+
+Còn thầy thuốc đã đốt cháy vô số đống củi kia, truyền thuyết kể rằng cuối cùng cũng tan thành mây khói.
+
+Ngay cả khi nghi lễ này bị lãng quên với hòa bình và thời gian,
+
+Bất cứ ai có ngọn lửa trong tim, khi đối mặt với uy nghiêm của thần bóng tối, chắc chắn sẽ nghe thấy.
+
+Vũ điệu rực rỡ của ngọn lửa thì thầm, chỉ có ngọn lửa không bị dập tắt mới có thể thanh tẩy thế giới..."

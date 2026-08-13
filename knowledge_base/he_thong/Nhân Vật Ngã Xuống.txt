@@ -1,0 +1,86 @@
+# Nhân Vật Ngã Xuống
+
+## Tổng Quan
+
+type: Chiến Đấu
+type2: Hệ Thống Trò Chơi
+
+Nhân Vật Ngã Xuống là những nhân vật có HP giảm về còn 0 (ngã xuống) hoặc do đuối nước, rơi từ độ cao ngoài giới hạn.
+
+Nhân vật đã ngã xuống sẽ có thể được hồi sinh thông qua các món ăn, các Cung Mệnh nhất định hoặc thông qua Thất Thiên Thần Tượng. Các nhân vật đã ngã xuống sẽ không thể thực hiện Phái Đi Thám Hiểm hoặc được thêm vào đội mới chưa có họ. Sau khi ngã xuống, họ mất toàn bộ Năng Lượng Nguyên Tố.
+
+## Ngã Xuống
+
+Ngã Xuống là cơ chế chiến đấu liên quan đến HP.
+
+Nhân vật ngã xuống khi lượng Sát Thương hoặc lượng Giảm HP vượt quá lượng HP hiện tại của nhân vật hoặc kẻ địch mà không có bất kỳ Trạng Thái, Thiên Phú, Cung Mệnh hay các điều kiện đặc biệt nào có thể ngăn nhân vật hoặc kẻ địch ngã xuống.
+
+## Khi Nhân Vật Ngã Xuống
+
+Kẻ địch có thể khiến nhân vật ngã xuống bằng cách gây ra Sát Thương lớn hơn HP hiện có của nhân vật, hoặc Giảm HP hơn so với lượng HP mà nhân vật đang có. Tuy nhiên một vài Thiên Phú và Cung Mệnh của nhân vật có thể ngăn chặn nhân vật ngã xuống.
+
+Nhân vật cũng có thể ngã xuống thông qua một vài cách khác bao gồm:
+- Sát Thương Rơi
+- Hiệu ứng từ Khí Hậu
+- Sát thương từ các mối nguy ngoài môi trường như Chướng Ngại Vật
+
+## Hiệu Ứng Khi Nhân Vật Ngã Xuống
+
+Khi nhân vật ngã xuống, các phần lồng tiếng nhân vật ngã xuống và hoạt ảnh sẽ được kết xuất. Năng Lượng Nguyên Tố của nhân vật sẽ được tái thiết lập về 0, nhân vật sẽ không thể di chuyển, người chơi sẽ không thể đổi sang nhân vật khác. Tuỳ thuộc vào nhân vật ngã xuống là nhân vật nào, các hiệu ứng từ Thiên Phú Chiến Đấu và Thiên Phú Nội Tại của họ sẽ kết thúc.
+
+Nhân vật đã ngã xuống sẽ không thể ra trận trong đội mới, không thể tiến hành Phái Đi Thám Hiểm và không thể đổi qua được trong lúc chiến đấu và thám hiểm cho đến khi được hồi sinh.
+
+Nhân vật đã ngã xuống có thể hoặc không thể tiếp tục các Thiên Phú Chiến Đấu hoặc Nội Tại cho đến khi được hồi sinh. Một số Thiên Phú và Cung Mệnh sẽ kết thúc khi nhân vật sở hữu ngã xuống, một số khác thì không.
+
+Khi nhân vật đã ngã xuống nhưng client chưa phát hiện mà đã đổi nhân vật, hoạt ảnh ngã xuống sẽ bị bỏ qua, tuy nhiên vẫn không thể đổi qua nhân vật đã ngã xuống cho đến khi họ được hồi sinh.
+
+## Hiệu Quả Kích Hoạt Khi Nhân Vật Ngã Xuống
+
+Một số nội tại như thiên phú hay cung mệnh sẽ được kích hoạt khi nhân vật ngã xuống (hoặc xem như ngã xuống). Một số sẽ áp dụng lên nhân vật mang nội tại, một số khác sẽ áp dụng lên các nhân vật khác trong đội trừ nhân vật mang nội tại. Các hiệu ứng này không thể kích hoạt khi nhân vật ngã xuống do đuối nước hoặc ngã từ độ cao ngoài giới hạn.
+
+## Màn Hình Thua Trận
+
+Màn Hình Thua Trận sẽ xuất hiện khi toàn bộ nhân vật trong đội ngã xuống. Nhấn Hồi Sinh sẽ đưa toàn đội về Điểm Dịch Chuyển gần nhất và hồi sinh 35% HP.
+
+Khi toàn bộ nhân vật trong đội của người chơi ngã xuống sẽ có các hiệu ứng âm thanh sau:
+- Trong đại thế giới: Toàn Bộ Nhân Vật Ngã Xuống
+- Trong bí cảnh: Khiêu Chiến Thất Bại
+
+## Khi Kẻ Địch Bị Tiêu Diệt
+
+Thông thường, kẻ địch sẽ bị tiêu diệt sẽ được kích hoạt khi HP của chúng còn 0. Tuy nhiên, vẫn có một vài điều kiện đi kèm tuỳ thuộc vào kẻ địch.
+- Azhdaha khi đang ở dưới lòng đất sẽ không thể bị tiêu diệt và cần thêm một đòn đánh nữa khi nó trồi lại lên mặt đất.
+- Sứ Đồ Vực Sâu và Học Sĩ Vực Sâu bị tiêu diệt sau khi khiên bị phá huỷ hoàn toàn.
+- Rồng Biển Sâu - Nanh Băng và Rồng Biển Sâu - Thôn Lôi trong khiêu chiến Đàn Rồng Biển Sâu sẽ không bị tiêu diệt cả hai đều có HP bằng 0.
+- Các kẻ địch Nguyên Bản (trừ Hoả Nguyên Bản) khi đạt ngưỡng HP sẽ tạo ra một vài tạo vật, người chơi cần phá hủy những tạo vật này để tiêu diệt hoàn toàn kẻ địch. Kể cả khi HP của chúng giảm về còn 0 bởi lượng sát thương nhận vào vượt quá ngưỡng HP, chúng vẫn sẽ không bị tiêu diệt hoàn toàn mà sẽ tạo ra tạo vật.
+
+## Hiệu Ứng Kích Hoạt Khi Kẻ Địch Bị Tiêu Diệt
+
+Một vài kẻ địch có phần lồng tiếng và hoạt ảnh riêng được kích hoạt khi chết. Tuy hành vi chết của kẻ địch luôn giống nhau nhưng cách kích hoạt có thể khác nhau:
+- Hitbox của kẻ địch biến mất, Thiên Phú sẽ không thể áp dụng lên chúng.
+- Các hiệu ứng sau khi kẻ địch chết (như Slime Hoả hoặc Bóng Ma phát nổ) sẽ được kích hoạt.
+- Kẻ địch sẽ biến mất khỏi tầm nhìn.
+- Nếu chưa đạt đến giới hạn rơi nguyên liệu của kẻ địch đó, chúng sẽ cung cấp nhiều loại nguyên liệu hơn.
+- Kẻ địch khi chiến đấu có thể chú ý đến khả năng sẽ chết của đồng đội chúng. Ví dụ, khi một Kairagi hoặc Ochimusha bị tiêu diệt, tên còn lại sẽ hồi phục và tiến vào trạng thái mạnh hơn.
+
+Một vài đòn tấn công và tạo vật của kẻ địch vẫn sẽ tồn tại kể cả khi kẻ địch gây ra đã chết, trong đó bao gồm lốc xoáy của Phù Thủy Hilichurl Phong và sương mù của Slime Băng Lớn. Số khác sẽ bị loại bỏ, bao gồm cả slime do Hilichurl Đạn Nổ đạn nổ đào lên hoặc tạo vật Nham của Phù Thủy Hilichurl Nham.
+
+## Ngoài Giới Hạn Và Đuối Nước
+
+Đi ra Ngoài Giới Hạn và Đuối Nước khiến tất cả nhân vật trong đội ngã xuống. Tuy nhiên điều này sẽ không khiến nhân vật bị ngã xuống như khi bị kẻ địch tiêu diệt hay bị mất HP bởi môi trường, thay vào đó năng lượng nguyên tố của toàn bộ nhân vật sẽ được tái thiết lập về 0, nhân vật sẽ được hồi sinh về vị trí khi thể lực còn tối đa, toàn bộ nhân vật mất 10% HP. The team will be sent back to the last known location; in a general Domain such as a Character Ascension Material domain, the team will be sent back to the entrance, while Story Quest-unique domains will have the team spawn at the nearest Door of Resurrection.
+
+Sau khi hồi sinh từ việc bị đuối nước, nếu HP của một nhân vật còn 0, nhân vật đó sẽ ngã xuống.
+
+Khi đuối nước đã được kích hoạt nhưng client chưa phát hiện, hoạt ảnh ngã xuống và lồng tiếng ngã xuống sẽ có thể được kích hoạt khi nhân vật đã vào đất liền.
+
+Chỉ khi bơi đến khi hết thể lực ở các vùng nước ngoài Fontaine mới có thể đuối nước. Ở Fontaine, khi tương tác với một Thất Thiên Thần Tượng, người chơi sẽ ngay lập tức nhận được chúc phúc giúp người chơi có thể lặn dưới nước với Thể Lực Dưới Nước. Điều này chỉ áp dụng trong khu vực Hồ Lục Địa trải dài khắp quốc gia Fontaine. Tuy vậy, một trường hợp ngoại lệ là Khu Nostoi: dù khu vực này thuộc Fontaine, khu vực này không nằm trong Hồ Lục Địa, cho nên người chơi không thể lặn dưới nước hay bơi với Thể Lực Dưới Nước, mà chỉ có thể bơi với thể lực thường.
+
+Ở Natlan, Tepetlisaurus và Yumkasaurus không thể bơi trong nước. Chúng sẽ bị đuối nước, nhân vật sẽ thoát nhập thể khỏi Saurian. Nếu nhân vật ngã xuống trong Phlogiston Thể Lỏng, tất cả các thành viên khác trong đội sẽ được coi là đuối nước.
+
+Phần lớn kẻ địch sẽ bị tiêu diệt ngay lập tức khi rơi vào vùng nước sâu, vật phẩm rơi ra từ chúng sẽ hiện lên trên mặt nước hoặc dưới đáy vùng nước nơi chúng bị tiêu diệt. Một vài loài nhất định như Bóng Ma và Slime Thủy sẽ miễn dịch với hiệu quả đuối nước.
+
+- Hiệu Quả Duy Trì: Một số hiệu ứng sẽ duy trì đến hết thời gian kéo dài khi nhân vật ngã xuống.
+
+- Hiệu Quả Kết Thúc: Một số hiệu ứng sẽ kết thúc khi nhân vật ngã xuống.
+
+- Lồng Tiếng: Các nhân vật sẽ có lồng tiếng khi ngã xuống.

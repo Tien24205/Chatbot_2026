@@ -1,0 +1,30 @@
+# Hồ Sơ
+
+## Tổng Quan
+
+type: Hệ Thống Trò Chơi
+group: Giao Diện
+
+Hồ Sơ là phần hiển thị mà người chơi có thể tùy chỉnh theo ý muốn.
+
+Nhà Lữ Hành có thể truy cập vào hồ sơ cá nhân thông qua Menu Paimon > Chỉnh Sửa Hồ Sơ.
+
+Để xem hồ sơ của bạn bè hoặc người chơi trong Chế Độ Nhiều Người Chơi, có thể truy cập từ Menu Bạn Bè hoặc Chế Độ Nhiều Người Chơi, sau đó chọn biểu tượng Ảnh Đại Diện của người chơi ở bên trái danh sách và nhấn "Xem Tư Liệu".
+
+## Tính Năng
+
+- UID: Số định danh duy nhất của người chơi.
+- Biệt Danh: Tên người chơi có thể tùy chỉnh.
+- Danh Thiếp: Danh thiếp đặc biệt xuất hiện trong Menu Paimon và Danh Sách Bạn Bè.
+- Hình Đại Diện: Sau khi mở khóa Nhân Vật, Trang Phục hoặc hoàn thành một số Nhiệm Vụ nhất định, có thể dùng hình ảnh tương ứng làm hình đại diện.
+- Khung Đại Diện: Hoàn thành Hành Trình Hào Đấu để nhận.
+- Hạng Mạo Hiểm
+- Cấp Thế Giới
+- Chữ Ký: Đoạn giới thiệu ngắn hiển thị trên Menu Paimon.
+- Tổng các Thành Tựu.
+- Số nhân vật đạt Cấp Đồng Hành tối đa.
+- Tiến trình hoàn thành La Hoàn Thâm Cảnh gồm Tầng, Phòng và số lượng Uyên Tinh.
+- Nhà Hát Giả Tưởng Tiến trình hoàn thành gồm số màn và Sao.
+- Ảo Cảnh Hiểm Ác Gồm Độ Khó cao nhất đã vượt qua và Thời Gian Khiêu Chiến.
+- Trưng bày tối đa 12 nhân vật đã sở hữu. Nếu hiển thị chi tiết nhân vật, hệ thống sẽ tính cả buff Cộng Hưởng Nguyên Tố. Bao gồm tùy chọn "Hiển Thị Chi Tiết Nhân Vật" và "Hiển Thị Cấp Cung Mệnh".
+- Danh Thiếp: Trưng bày tối đa 16 danh thiếp đã mở.

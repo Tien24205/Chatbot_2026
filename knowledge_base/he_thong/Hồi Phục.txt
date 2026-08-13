@@ -1,0 +1,13 @@
+# Hồi Phục
+
+## Tổng Quan
+
+type: Chiến Đấu
+type2: Hệ Thống Trò Chơi
+
+Hồi Phục là khả năng hồi HP, có thể từ Thực Phẩm, Thiên Phú Nhân Vật, hoặc hiệu ứng đặc biệt trong Bí Cảnh. Phạm vi hồi phục có thể cho tất cả Toàn Bộ Đồng Đội hoặc chỉ cho bản thân.
+
+Hai chỉ số Tăng Hồi Phục và Tăng Nhận Hồi Phục sẽ tác động tới lượng HP hồi phục theo công thức:
+\begin{align} \text{Lượng HP Hồi Phục} = {} & \text{Lượng HP Hồi Phục Cơ Bản} \\ & \times (1 + \text{Phần Trăm Tăng Hồi Phục}_\text{Chủ Thể Hồi Phục} \\ & + \text{Phần Trăm Tăng Nhận Hồi Phục}_\text{Đối Tượng Nhận Hồi Phục}) \end{align}
+
+- Kẻ Địch: Những Kẻ Địch sau có thể tự hồi HP cho chính mình hoặc cho Toàn Bộ Đồng Đội của chúng:

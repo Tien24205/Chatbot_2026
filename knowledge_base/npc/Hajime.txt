@@ -1,0 +1,16 @@
+# Hajime
+
+## Tổng Quan
+
+type: NPC
+region: Inazuma
+affiliation: Xưởng Rèn Amenoma
+title: Đệ Tử "Xưởng Rèn Amenoma"
+voiceEN: Brian Olvera
+dialoguereward: card|Mảnh Pha Lê|4
+
+Hajime là một NPC ở Thành Inazuma, Inazuma. Anh ta có thể được tìm thấy tại Xưởng Rèn Amenoma, được hiển thị bằng biểu tượng trên bản đồ. Anh ta là một thợ rèn, người có thể rèn một số Vũ khí 4 Sao và nguyên liệu cường hóa vũ khí hoặc bán Vũ khí 2 Sao
+
+Lần đầu tiên nói chuyện với anh ta qua một nhánh đối thoại nhất định sẽ mang lại cho người chơi 4 Mảnh Pha Lê.
+
+- Cửa Hàng: Anh ta có lượng hàng giống hệt như Wagner và Lão Zhang.

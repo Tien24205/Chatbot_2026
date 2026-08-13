@@ -1,0 +1,56 @@
+# Kiếm Sắt Đen
+
+## Thông Tin Cơ Bản
+
+id: 11304
+type: Kiếm Đơn
+releaseDate: 2020-09-28
+quality: 3
+base_atk: 39
+2nd_stat_type: Tinh Thông Nguyên Tố
+2nd_stat: 31
+passive: Quá Tải
+effect: Trong 12s sau khi kích hoạt hiệu ứng Quá Tải, Siêu Dẫn, Điện Cảm, Sinh Trưởng, Tăng Cường, Nở Rộ, Nguyệt-Điện Cảm hoặc Khuếch Tán nguyên tố Lôi, Tấn Công tăng (var1)%.
+eff_rank1_var1: 20
+eff_rank2_var1: 25
+eff_rank3_var1: 30
+eff_rank4_var1: 35
+eff_rank5_var1: 40
+eff_att1: Tấn Công
+eff_att2: Phụ Thuộc Phản Ứng Nguyên Tố
+obtain: Hội Thoại
+npc: Trần Khoái Đao
+
+- Tổng Quan: Kiếm Sắt Đen là một Kiếm Đơn 3 Sao.
+
+## Câu Chuyện
+
+"Vì sao chú lại đặt kiếm trên mặt đất vậy?"
+
+"Để thanh kiếm được tắm nắng."
+
+"Vì sao phải tắm nắng cho thanh kiếm?"
+
+"Câu hỏi rất hay người bạn nhỏ à, vậy cái gì là màu đen?"
+
+"Loài quạ đen?"
+
+"Không sai! Còn gì không?"
+
+"Uhm...nồi thép?"
+
+"Rất tốt! phía dưới nồi thép là gì?"
+
+"Lửa!"
+
+"Lửa từ đâu mà ra?"
+
+Cô bé nghĩ một lúc rồi đột nhiên nhận ra.
+
+"Chính là than củi! Là than củi! Than củi có màu đen!"
+
+"Đúng vậy, chính nhờ than mà gang thép trở nên cứng và mạnh nhất. Đó cũng chính là lý do vì sao chú lại tắm nắng cho thanh kiếm này."
+
+Nói xong, ông lật mặt còn lại của thanh kiếm lên.
+
+- Trần Khoái Đao - Lời thoại có thưởng - Trong rương tại Sảnh Vương Sơn - Trầm Ngọc Cốc - Thượng Cốc.

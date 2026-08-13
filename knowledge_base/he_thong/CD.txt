@@ -1,0 +1,66 @@
+# CD
+
+## Tổng Quan
+
+type: Thuộc Tính
+type2: Chiến Đấu
+type3: Hệ Thống Trò Chơi
+
+CD dùng để chỉ khoảng thời gian chờ để có thể sử dụng lại Kỹ Năng Nguyên Tố, Kỹ Năng Nộ hay các khả năng khác (ví dụ như Đại Bác của Thuyền Gió).
+
+Có thể giảm CD thông qua cộng hưởng nguyên tố Phong Phong Nhạy Bén hoặc thông qua một số khả năng nhất định của các nhân vật. Một số kẻ địch nhất định như Sứ Đồ Vực Sâu - Kích Lưu cũng có khả năng thao túng CD của người chơi. Địa Mạch Bất Thường Nước Lững Lờ cũng có thể kéo dài CD kỹ năng của nhân vật.
+
+Hầu hết CD kỹ năng của nhân vật đều là cố định, tuy nhiên cũng có một số trường hợp đặc biệt CD sẽ phụ thuộc vào thời gian sử dụng kỹ năng, ví dụ như Trang Phục Ma Vương - Thủy Triều của Tartaglia và Trường Phái Yoohoo - Fuuin Lăn Tròn của Sayu.
+
+## Giảm CD
+
+Giảm CD là lượng giảm phần trăm CD cần chờ cho đến khi có thể dùng lại Kỹ Năng Nguyên Tố hoặc Kỹ Năng Nộ của nhân vật. Ví dụ, bình thường Kỹ Năng Nguyên Tố có CD 10s, khi có thêm CD giảm 10%, người chơi có thể sử dụng kỹ năng đó mỗi 9s một lần.
+
+Thuộc tính Giảm CD sẽ cộng dồn và bị ảnh hưởng bởi bất cứ hiệu quả giảm toàn bộ CD nào, tuy nhiên bất cứ hiệu quả giảm CD của các thiên phú cụ thể nào cũng sẽ được cộng dồn theo cấp số nhân.
+
+Ví dụ, nếu Bennett
+- ở trong đội hình có Cộng Hưởng Nguyên Tố Phong Phong Nhạy Bén (CD giảm 5%)
+- và đứng trong khu vực Sương Bạc Trung Điệp từ Kỹ Năng Nguyên Tố với hiệu quả Cung Mệnh tầng 2 của Chongyun (CD giảm 15%)
+
+thì sẽ nhận hiệu quả CD giảm 20%. Ngoài ra, nếu Bennett đã đột phá bậc 4 hoặc cao hơn (tức đã mở khóa toàn bộ Thiên Phú Cố Định), Kỹ Năng Nộ của cậu sẽ...
+- nhận hiệu quả CD giảm 20%
+- nhận thêm hiệu quả CD giảm 50% khi đứng trong khu phạm vi hiệu quả của Kỹ Năng Nộ.
+
+Khi đó, nếu Bennett sử dụng Kỹ Năng Nguyên Tố khi đứng trong khu vực của cả Kỹ Năng Nộ của cậu và Kỹ Năng Nguyên Tố của Chongyun, CD ban đầu 5s của nó sẽ giảm xuống còn 5 × (1 - 0,2) × (1 - 0,2) × (1 - 0,5) = 1,6 (s). (Chỉ số Giảm CD của Bennett vẫn là 20% vì Thiên Phú Cố Định của cậu chỉ áp dụng lên Kỹ Năng Nguyên Tố chứ không phải tất cả CD.)
+
+## CD Đổi Người
+
+CD đổi người sẽ giới hạn tần suất đổi nhân vật của người chơi. CD đổi người mặc định là 1s. CD đổi người cũng có thể sẽ bị điều chỉnh thông qua một số hiệu quả trạng thái trong sự kiện, ví dụ như sự kiện Lộ Trình Nguy Hiểm.
+
+- Cung Mệnh Bỏ Qua CD: Những cung mệnh này cho phép nhân vật bỏ qua CD.
+
+- Thánh Di Vật: Một số thánh di vật có hiệu quả giảm hoặc làm mới CD.
+
+- Bí Cảnh Và Sự Kiện: Một số bí cảnh và sự kiện cũng có thể điều chỉnh CD: - Truyền Thuyết Thanh Kiếm Lãng Du - Vườn Hoa Cecilia
+
+## Kỹ Năng Nguyên Tố
+
+Dưới đây là bảng so sánh CD của các Kỹ Năng Nguyên Tố. Nếu kỹ năng có thể nhấn và nhấn giữ, CD nhấn giữ cũng sẽ được hiển thị. Các trường hợp khác có CD đa dạng như phụ thuộc vào số lần tụ lực của Bennett hay thời gian sử dụng của Tartaglia cũng sẽ được thể hiện ở các cột tương ứng.
+
+## CD Kẻ Địch
+
+Kẻ Địch cũng sẽ có CD kỹ năng.
+
+Kẻ Địch sẽ có 5 bộ đếm CD riêng biệt cho các kỹ năng của chúng. Chúng có thể sử dụng một kỹ năng khi cả 5 bộ đếm CD đều trả về 0. 5 CD lần lượt là CD Thường, CD Ban Đầu, CD Cục Bộ, CD Toàn Thể và CD Hành Động.
+- CD Thường sẽ bắt đầu sau khi kỹ năng của kẻ địch kết thúc. CD này thường được xác định ngẫu nhiên trong Phạm vi CD nhưng một số kỹ năng cũng sẽ có CD cố định.
+- Ví dụ, đòn tấn công Quỷ Thiểm Diện Cụ của Maguu Kenki có CD nằm trong khoảng 10-15s.
+- CD Ban Đầu sẽ bắt đầu sau khi kẻ địch vào trạng thái chiến đấu hoặc vào trạng thái yêu cầu của khả năng đó. CD này sẽ xác định khoảng thời gian cần chờ để có thể thi triển kỹ năng này lần đầu tiên. Không phải kỹ năng nào cũng có CD Ban Đầu.
+- Ví dụ, đòn tấn công Xoay của Thủ Vệ Di Tích có CD Ban Đầu nằm trong khoảng 30-60s.
+- CD Cục Bộ là CD dùng chung cho một số kỹ năng của cùng một kẻ địch, thường là để ngăn chặn việc kẻ địch thi triển liên tiếp nhiều đòn tấn công tương tự.
+- Ví dụ với Tên Lửa Bạo Phát của Mô Hình Động Cơ Vĩnh Cửu, Combo 1 (Trảm Đao + Tên Lửa Bạo Phát) và Combo 2 (Đao Xoay + Trảm Đao + Tên Lửa Bạo Phát) có cùng CD Cục Bộ là 10s.
+- CD Toàn Thể được áp dụng cho một số kỹ năng nhất định khi nhiều kẻ địch cùng loại cùng có mặt. CD Toàn Thể là bộ đếm CD duy nhất bắt đầu ngay sau khi kỹ năng được thi triển thay vì chờ đến khi kỹ năng kết thúc.
+- Ví dụ, khi Mô Hình Động Cơ Vĩnh Cửu tiến vào trạng thái Phòng Ngự, có thể quan sát được những điều sau đây:
+- Nếu Tuần Tra Di Tích thi triển Thể Cầu, Hộ Vệ Di Tích sẽ không ngay lập tức Nhảy.
+- Nếu Tuần Tra Di Tích không thi triển Thể Cầu, Hộ Vệ Di Tích hẳn sẽ Nhảy.
+- Điều này là do kỹ năng của hai kẻ địch nói trên dùng chung CD Toàn Thể.
+- Lưu ý rằng CD Toàn Thể sẽ bị bỏ qua nếu hai kẻ địch cùng lúc tấn công.
+- CD Hành Động là CD dùng chung cho tất cả các kỹ năng của một kẻ địch để ngăn chặn việc kẻ địch thực hiện tấn công trong chuỗi quá nhanh. Thời Gian Hành Động thường kéo dài 1-3s tùy vào kẻ địch.
+- Một số kỹ năng không kích hoạt CD Hành Động như combo Nhát Chém Thủy Triều của Sứ Đồ Vực Sâu - Kích Lưu. Kẻ địch có thể thi triển kỹ năng khác ngay sau khi những kỹ năng như vậy kết thúc.
+- Một số kỹ năng có thể bỏ qua CD Hành Động như bước lùi của Sứ Đồ Vực Sâu - Kích Lưu. Những kỹ năng như vậy có thể được thi triển ngay sau khi một kỹ năng khác kết thúc kể cả khi CD Hành Động của kỹ năng trước đó chưa trả về 0.
+
+- Giảm CD Kẻ Địch: Hiệu quả này được gây ra bởi Máy Thử Thách Nguyên Tố Lôi giúp giảm CD thường, CD ban đầu và CD cục bộ cho các kỹ năng của kẻ địch. CD toàn thể và Thời gian hành động không bị ảnh hưởng.

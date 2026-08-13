@@ -45,6 +45,7 @@ class ChatResponse(BaseModel):
     answer: str
     citations: list[Citation]
     refused: bool
+    refused_by: str  # "threshold" (lớp 2 chặn) | "model" (LLM nói không có) | ""
     top_similarity: float
     search_query: str
     rewrote_query: bool
@@ -148,6 +149,7 @@ def chat(req: ChatRequest) -> ChatResponse:
             if f"{h.source_name} · {h.section}" in cited
         ],
         refused=ans.refused,
+        refused_by=ans.refused_by,
         top_similarity=round(ans.top_similarity, 4),
         search_query=ans.search_query,
         rewrote_query=bool(ans.search_query and ans.search_query != req.message),

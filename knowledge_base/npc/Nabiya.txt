@@ -1,0 +1,33 @@
+# Nabiya
+
+## Thông Tin Cơ Bản
+
+type: NPC Đại Thế Giới
+region: Sumeru
+location: Sumeru
+title: Thầy Bói
+voiceEN: w|Marissa Lenti
+
+- Tổng Quan: Nabiya là NPC đại thế giới ở Thành Sumeru, Sumeru. Cô là chủ nhân của hai chú mèo Harut và Marut.
+
+- Tiểu Sử: (Đang cập nhật)
+
+- Ngoại Hình: (Đang cập nhật)
+
+- Lời Thoại Nhàn Rỗi: Harut... Marut... : "Harut, Marut, hãy chống lại cám dỗ nhé."
+
+- Suy Nghĩ: Nabiya: (Meo meo... Meo meo... Hihi.)
+
+## Hội Thoại
+
+Nabiya: Cám dỗ sẽ dẫn đến tình yêu, mà yêu quá thì sẽ gây ra thảm họa...
+Nabiya: Nhưng cũng may, chúng cũng không thích lắm.
+"Chúng nó" là...
+:Nabiya: Harut và Marut, chúng nó là những bóng hình linh hoạt quỷ mị, là những sinh linh tự do không bị trói buộc...
+:Nabiya:...Cũng là mèo của em.
+Vậy cám dỗ và tình yêu là...
+:Nabiya: Mèo rất tò mò. Tuy mèo có rất nhiều ưu điểm, nhưng tò mò lại là điểm yếu của chúng.
+:Nabiya: Vì sự tò mò và sở thích của chúng, mà cá bị bắt lên bờ, chim trên trời bị giữ dưới đất...
+:Nabiya: Đối với cá và chim mà nói, đây chẳng phải là thảm họa sao.
+Tiếc quá.
+:Nabiya: Có lẽ vậy, nhưng có lẽ không phải vậy.

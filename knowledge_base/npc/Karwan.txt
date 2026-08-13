@@ -1,0 +1,12 @@
+# Karwan
+
+## Thông Tin Cơ Bản
+
+type: NPC Nhiệm Vụ
+region: Sumeru
+location: Sumeru
+affiliation: Amurta
+voiceEN: [[imdb:nm8755384
+Luis Alfonso]]<ref name: "Luis Alfonso">Twitter: Diễn Viên Lồng Tiếng Tiếng Anh Tự Thông Báo
+
+- Tổng Quan: Karwan là một NPC độc quyền nhiệm vụ xuất hiện trong.

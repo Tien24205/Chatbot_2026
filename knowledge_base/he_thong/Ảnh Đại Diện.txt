@@ -1,0 +1,10 @@
+# Ảnh Đại Diện
+
+## Tổng Quan
+
+type: Danh Thiếp
+type2: Hệ Thống Trò Chơi
+
+Ảnh Đại Diện là biểu tượng xuất hiện ở Hồ Sơ & Giao Diện Paimon của người chơi, danh sách Bạn Bè và giao diện Chế Độ Nhiều Nguời Chơi. Có thể thay đổi ảnh đại diện ở Giao Diện Paimon > Chỉnh Sửa > Đổi Ảnh Đại Diện.
+
+Người chơi có thể mở khóa Ảnh Đại Diện bằng cách mở khóa Nhân Vật, mở khóa Trang Phục Nhân Vật và hoàn thành Nhiệm Vụ.

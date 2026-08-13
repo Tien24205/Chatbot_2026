@@ -1,0 +1,32 @@
+# Klee
+
+## Thông Tin Cơ Bản
+
+name: Klee
+type: Chơi Được
+quality: 5
+weapon: Pháp Khí
+element: Hỏa
+sex: Nữ
+birthday: 27 tháng 07
+constellation: Tứ Diệp Thảo
+region: Mondstadt
+affiliation: Đội Kỵ Sĩ Tây Phong
+dish: Bánh Cá Thơm Ngon
+releaseDate: 2020-10-20
+obtain: Sự Kiện Cầu Nguyện Nhân Vật
+event_name: Dấu Chân Của Lửa
+title: Mặt Trời Chạy Trốn
+title2: Kỵ Sĩ Tia Lửa
+voiceEN: [[imdb:nm4810398
+Poonam Basu]]<ref name: "Klee EN/JP">Thông Báo Lồng Tiếng Klee - Facebook Chính thức
+voiceCN: [[wikipedia:zh:花玲
+voiceJP: [[wikipedia:Misaki Kuno
+Misaki Kuno (久野美咲)]]<ref name: "Klee EN/JP"/>
+voiceKR: [[wikipedia:ko:방연지
+
+## Tổng Quan
+
+Klee là một nhân vật hệ Hỏa chơi được trong Genshin Impact.
+
+Con gái của nhà thám hiểm gan dạ và hay phá hoại Alice, Klee giống mẹ nhất ở nhiều điểm, nhất là về việc "phá hoại" Đội Kỵ Sĩ Tây Phong, nơi được giao phó chăm sóc trong khi Alice đang trên cuộc phiêu lưu của mình.

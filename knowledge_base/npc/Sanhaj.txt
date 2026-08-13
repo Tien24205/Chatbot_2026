@@ -1,0 +1,38 @@
+# Sanhaj
+
+## Thông Tin Cơ Bản
+
+type: NPC Nhiệm Vụ
+deceased: Quá Khứ
+region: Natlan
+affiliation: Chủ Nhân Gió Đêm
+title: Bậc Thầy Biên Giới
+titleRef: Vật Có Thể Tương Tác, Tháp Vucub Caquix: [[Tháp Vucub Caquix#Ghi Chép Của Hoán Linh Sư I
+relative: Conulaf
+relativeNote: hậu duệ
+
+## Tổng Quan
+
+Sanhaj Kompore là nhân vật lịch sử thuộc Chủ Nhân Gió Đêm tại Natlan. Ông từng nắm giữ Tên Cổ, sau này Ororon kế thừa tên cổ này.
+
+Ông là đại tư tế, một nhà thần bí được kính trọng và là người kể chuyện về rồng và các chiến binh cùng tộc. Ông cùng với bạn đồng hành Iktomisaurus của ông là Mahamba thuộc đoàn quân của Tenoch chống lại Vực Sâu. Ông lần đầu xuất hiện trong dưới dạng thể chiếu tinh thần.
+
+## Tiểu Sử
+
+Sanhaj thuộc thế hệ đầu tiên của Anh Hùng Natlan, được coi là "Bậc Thầy Biên Giới" huyền thoại của Chủ Nhân Gió Đêm. Bằng cách sử dụng phép thuật biên giới kích nổ một không gian Dạ Thần thu nhỏ, ông đã đẩy lùi được "thảm họa đen" ở Vùng Biển Lặng 500 năm trước. Tuy vậy, vì phép thuật ấy mà ông và Tenoch đã hi sinh.
+
+Sanhaj có hậu duệ hiện tại là Conulaf.
+
+- Ngoại Hình: (sẽ thêm sau)
+
+## 500 Năm Trước
+
+Sanhaj được sinh ra mà không cất tiếng khóc. Trưởng lão trông coi ngọn lửa nghi lễ của tộc cho rằng đó là do một nửa linh hồn của Sanhaj bị mất trong lửa đêm, vậy nên vào ngày sinh nhật, ông cùng bạn đồng hành Mahamba, Iktomisaurs bí ẩn nhất, dấn thân vào một hành trình nguy hiểm tới Vương Quốc Dạ Thần để tìm lại một nửa linh hồn bị đánh mất. Ở đó, ông tận mắt chứng kiến quá khứ, từ lúc Xbalanque chiến đấu với dung nham tới khi Thiếu Niên Mắt Đỏ đánh bại Och-Kan. Ông cũng nhìn thấy tương lai, rằng tất cả mọi chuyện đều được sắp xếp bởi Yohualtecuhtin, Dạ Thần. Ông thấy được thảm họa, cất tiếng khóc đầu tiên khi màn sương đen bao phủ Natlan, nhưng rồi lại thấy mình tỉnh dậy trong ngọn lửa xanh và bên cạnh là Mahamba. Ánh sáng mờ mờ trong đôi mắt nhấp nháy của Iktomisaurs, và trưởng lão trao cho ông một cây trượng nghi lễ. Từ ngày đó, ông dùng những câu chuyện từ quá khứ để cảnh báo mọi người về thảm họa tương lai, dệt nên những lời nói dối về tương lai để che đậy quá khứ không bao giờ có thể chạm vào một lần nữa.
+
+Ông là người rèn nên thanh kiếm Tai Họa Eshu dùng trong nghi lễ, xóa nhòa ranh giới giữa Dạ Thần và thế giới thực.
+
+Sanhaj và Tenoch hi sinh trong cuộc chiến tại Vùng Biển Lặng, ngay trước các sự kiện diễn ra trong Hoàng Hôn. Một anh hùng khác là Burkina cũng đã hi sinh, còn lại Menilek, Sundjatta, Tupac và Wanjiru. Bốn vị anh hùng uống rượu tưởng nhớ Sanhaj và Burkina, Wanjiru nhận xét Sanhaj là người kiệm lời, nhưng "tin tức về cái chết của anh ấy vẫn vang vọng". Menilek say mèm đã tung hô Sanhaj và Burkina là anh hùng.
+
+- Hiện Tại: Sanhaj xuất hiện đằng sau Ororon khi Ororon có được Tên Cổ "Bidii". Sau đó, khi Mavuika và sáu vị anh hùng triệu hồi sức mạnh của ngai thần, Sanhaj xuất hiện bên cạnh Ororon.
+
+- Sanhaja là tên tiếng Ả Rập của Aẓnag, từng là một trong Amazigh lớn nhất trong liên minh bộ lạc.

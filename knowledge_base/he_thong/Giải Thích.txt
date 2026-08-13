@@ -1,0 +1,9 @@
+# Giải Thích
+
+## Tổng Quan
+
+type: Bản Thiết Kế Chế Tạo
+description: Bản vẽ mô tả chi tiết các bước làm Đạo Cụ Nhỏ.
+
+Giải Thích là một trong những loại bản thiết kế chế tạo và tương tự như Công Thức, nhưng được sử dụng cho Giả Kim. Sau khi sử dụng, người chơi sẽ học được cách chế tạo đạo cụ nhỏ liên quan.
+Giải Thích kiếm được thông qua hệ thống Danh Vọng và được giới thiệu cùng với hệ thống này. Chất lượng của bản giải thích bằng với chất lượng của vật phẩm có thể chế tạo.

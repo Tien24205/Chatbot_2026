@@ -1,0 +1,32 @@
+# Motolinia
+
+## Thông Tin Cơ Bản
+
+type: NPC Đại Thế Giới
+region: Natlan
+location: Natlan
+title: Chủ Tiệm "Muôn Hoa Thầm Thì"
+
+- Tổng Quan: Motolinia là một NPC Đại Thế Giới tại. Cô là chủ sở hữu của cửa tiệm "Muôn Hoa Thầm Thì". Cô bán Đặc Sản Khu Vực Natlan và gian hàng của cô được làm mới sau mỗi 3 ngày.
+
+- Nhiệm Vụ Và Sự Kiện: -->
+
+- Lời Thoại Nhàn Rỗi: Ngôn ngữ của hoa......
+
+## Lời Thoại
+
+Motolinia: Ngôn ngữ hoa của Hoa Rượu là một kiểu vận mệnh khó đoán. Theo kết quả bói, chắc hẳn đến để tìm chỉ dẫn từ "hoa" nhỉ...
+Cho tôi xem "hoa" nhé.
+:Motolinia: Hy vọng sẽ tìm thấy vận mệnh của mình tại đây.
+;(Mở Cửa Hàng)
+Khiêu Chiến Khám Phá
+;(Mở giao diện khiêu chiến Thất Thánh Triệu Hồi)
+Cô là...?
+:Motolinia: Tôi sao? Tôi là Motolinia, người diễn giải ngôn ngữ "hoa". Nói theo cách thông thường thì tôi là chủ tiệm hoa này.
+: "Hoa" cũng biết nói chuyện sao?
+::Motolinia: Phải, nhưng cũng không phải. "Hoa" không biết nói, nhưng mọi thứ của nó đều là lời nói. Hình dáng sẽ giải thích vận mệnh, phấn hoa sẽ tiết lộ cảm xúc, và nụ hoa sẽ phán đoán kết cục.
+::Motolinia: Việc cần làm, chính là đồng hành cùng nó và lắng nghe...
+: Có loài hoa nào muốn giới thiệu không?
+::Motolinia: Linh hồn rực cháy sẽ thu hút những đóa hoa kiên cường. Cúc Rực Rỡ kiêu ngạo trước gió có lẽ sẽ thích hợp để đồng hành bên cạnh hơn.
+Thật ngại quá, để lần sau nhé.
+:Motolinia: Đi thong thả. Tất cả đều là chỉ dẫn của "hoa", chúng ta rồi sẽ gặp lại nhau...

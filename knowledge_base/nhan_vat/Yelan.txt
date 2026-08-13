@@ -1,0 +1,31 @@
+# Yelan
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+quality: 5
+weapon: Cung
+element: Thủy
+name: Yelan
+birthday: 20 tháng 04
+constellation: U Khách
+region: Liyue
+affiliation: Tiệm Trà Trên Đá
+affiliation2: Tổng Vụ
+dish: Tôm Nhuốm Sương
+obtain: Sự Kiện Cầu Nguyện
+event_name: Tố Nghê Hiện Thiên
+releaseDate: 2022-05-31
+ancestry: Boyang
+title: Lan Sinh U Cốc
+title2: Nhân sĩ thần bí tự xưng làm việc cho Tổng Vụ
+voiceEN: w|Laura Post
+voiceCN: Xu Hui (zh|徐慧)
+voiceJP: w|Aya Endō|Endou Aya (ja|遠藤 綾)
+voiceKR: w|ko:민아 (성우)|Min-a (ko|민아)
+
+## Tổng Quan
+
+ là nhân vật hệ Thủy chơi được trong Genshin Impact.
+
+Cô là nhân sĩ thần bí tự xưng làm việc cho Tổng Vụ. Dưới thân phận bà chủ của Tiệm Trà Trên Đá, cô hoạt động bí mật dưới trướng Thiên Quyền Ningguang.

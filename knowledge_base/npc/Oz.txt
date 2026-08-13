@@ -1,0 +1,34 @@
+# Oz
+
+## Thông Tin Cơ Bản
+
+realname: Ozvaldo von Hrafnavins
+type: NPC Nhiệm Vụ
+region: Mondstadt
+location: Mondstadt
+element: Lôi
+title: Quạ Đen Oz Chém Đứt Ngày Và Đêm
+voiceEN: w|Ben Pronsky
+voiceCN: Zhao Yuecheng (zh|赵悦程)
+voiceJP: w|Yasunori Masutani|Masutani Yasunori (ja|増谷 康紀)
+voiceKR: w|ko:이현 (성우)|Lee Hyun (ko|이현)
+
+## Tổng Quan
+
+Ozvaldo von Hrafnavins, thường gọi tắt là Oz, là quạ bóng đêm thân thuộc và là bạn đồng hành của Fischl. Hiện tại, tính đến phiên bản 4.7, Oz, Changsheng và Paimon là những người bạn đồng hành không phải là con người có thể nói chuyện.
+
+Trong cơ chế trò chơi, có thể triệu hồi Oz bằng Kỹ Năng Nguyên Tố Cánh Chim Đêm và Kỹ Năng Nộ Ảo Ảnh Bóng Đêm của Fischl.
+
+## Tiểu Sử
+
+Vào năm Fischl mười bốn tuổi, bạn đồng trang lứa không tham gia chơi nhập vai với cô và còn cười nhạo cô. Cô tìm về với gia đình mong nhận được sự an ủi, nhưng cuối cùng chỉ nhận lại sự khước từ mong muốn, như cách mà "công chúa Fischl" trong tiểu thuyết yêu thích của cô bị khước từ những mơ ước. Những lời nói của gia đình khiến lòng cô tan nát, cô trốn trong thư viện mà khóc nức nở. Chính trong lúc đó, Fischl có cảm giác bị ai đó nhìn, và khi cô quay lại, cô nhìn thấy một con quạ bóng đêm cùng một chiếc Vision — như thể những sự kiện trong cuốn tiểu thuyết trở thành sự thật.
+
+Theo như Oz, Fischl tạo ra nó và trao cho nó sức mạnh, cho nên theo lý thuyết, nó phản ánh khao khát từ sâu trong tiềm thức và mang sức mạnh của Vision. Oz và Fischl đều chung một linh hồn.
+
+- Ngoại Hình: Oz có dáng vẻ của một con quạ màu tím, với đôi mắt trắng xám và con ngươi sắc.
+
+## Năng Lực
+
+Khi triệu hồi Oz, Oz bắn những quả cầu mang năng lượng nguyên tố Lôi vào đối thủ của Fischl. Fischl cũng có thể tạm thời hóa thân thành hình dạng của Oz, lúc này cô có thể nhìn mọi thứ thông qua Oz. Fischl cũng có thể dùng năng lực này để xem xét địa hình xung quanh, cũng như có thể nhanh chóng di chuyển trong chiến đấu.
+
+Thường thì Oz có thể đi một quãng đường rất dài mà không cần tới Fischl; theo Fischl, Oz có thể vượt biển và mang Tú Cầu Anh Đào từ Inazuma về cho cô ấy.

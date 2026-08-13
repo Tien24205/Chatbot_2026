@@ -1,0 +1,28 @@
+# Nguyên Tố
+
+## Nguyên Tố và Ma Thần
+
+type: Chiến Đấu
+type2: Hệ Thống Trò Chơi
+
+- Tổng Quan: Bảy Nguyên Tố của Teyvat là yếu tố cốt lõi ảnh hưởng đến lối chơi và cốt truyện của Genshin Impact.
+
+Ma Thần ban cho một số sức mạnh nguyên tố của họ cho những người phàm dưới dạng Vision. Vision thường là các tinh thể dạng hình cầu được gắn biểu tượng của nguyên tố và phát sáng với màu đặc trưng của nguyên tố đó. Chúng xuất hiện một cách bí ẩn và được ban cho một số người được chọn trong lúc họ gặp nguy hiểm, hoặc người có khát vọng to lớn.
+
+Vision cho phép người sử dụng tập trung năng lượng tinh thần để có thể sử dụng sức mạnh nguyên tố của các Ma Thần đã ban phước cho họ. Sau khi được ban cho sức mạnh này, những người sử dụng được gọi là "Nguyên Thần"
+
+Khi một Nguyên Thần chết, Vision của họ sẽ mất sức mạnh, ánh sáng của nó biến mất và chỉ còn là một viên ngọc thủy tinh. Đôi khi, Vision đã được sử dụng này sẽ cộng hưởng với một người mới và hoạt động trở lại. Vì lý do này, những Mắt Thần đã qua sử dụng là một món hàng được những người giàu có tìm kiếm.
+
+Có bảy nguyên tố ở Teyvat, mỗi thế lực có một Ma Thần và quốc gia tương ứng.
+
+Ghi chú: Các nguyên tố thường không có tác dụng hiệu ứng khi bị trúng bởi nguyên tố mà không thể làm chất xúc tác cho Phản ứng Nguyên tố (ví dụ như Nguyên tố Phong), do đó cần phải sử dụng sau cùng.
+
+- Địa Mạch Bất Thường: Trong La Hoàn Thâm Cảnh và Bí Cảnh nhất định, quái hoặc vật thể có thể tạo ra hiệu ứng có hại cho các nhân vật trong tầm ảnh hưởng của nó.
+
+- Aura: Một số kẻ thù nhất định như kẻ thù trên Tầng 9-12 của La Hoàn Thâm Cảnh có thể có Aura làm tăng sức mạnh nhất định trong trận chiến.
+
+## Thông Tin Bên Lề
+
+- Một Tinh Linh Suối Trong trong Trái Tim Thanh Tuyền(II) kể những câu chuyện về một cõi nước xa xôi,nghĩa là mỗi nguyên tố có một cõi riêng.
+- Phá Băng, không giống như bất kỳ Phản Ứng Nguyên Tố nào khác, duy nhất ảnh hưởng đến kháng vật lý hơn là kháng nguyên tố kẻ thù..
+- Nhà Lữ Hành là nhân vật duy nhất trong game có thể thay đổi nguyên tố bằng cách cộng hưởng tại một trong các Thất Thiên Thần Tượng và các nguyên tố có thể là Phong,Nham,Hỏa,Băng,Thủy, Lôi hoặc Thảo.

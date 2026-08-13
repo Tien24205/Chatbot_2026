@@ -1,0 +1,39 @@
+# Harris
+
+## Tổng Quan
+
+region: Mondstadt
+location: Mondstadt
+title: Đầu Bếp
+type: NPC Đại Thế Giới
+
+Harris là một NPC thương nhân tại Doanh Trại Nhà Mạo Hiểm Long Tích Tuyết Sơn ở Mondstadt. Ông ấy mở bán Canh Rau Củ, Sườn Nướng, và Canh Trân Châu Phỉ Thúy Bạch Ngọc cả ngày và nguyên liệu được làm mới mỗi ngày.
+
+## Tiểu Sử
+
+Harris xây dựng Doanh Trại Nhà Mạo Hiểm Long Tích Tuyết Sơn để cung cấp thức ăn cho những nhà mạo hiểm. Ông ấy thích nấu ăn và tin rằng thông qua thức ăn của mình, ông ấy có thể mang lại niềm vui và sự hài lòng cho mọi người. Ông ấy có được suy nghĩ này từ Xiangling.
+
+- Ngoại Hình: (Sẽ được bổ sung.)
+
+- Lời Thoại Nhàn Rỗi: : "Lại đây làm chút súp nóng trước khi bị lạnh cóng nào."
+
+## Hội Thoại
+
+Harris: Hì, lạnh cóng rồi đúng không? Mau mua chút gì đó ăn để làm ấm cơ thể đi!
+Tôi muốn mua chút thức ăn...
+:Harris: Muốn ăn gì cứ nói với tôi, đừng khách sáo! Thời tiết này thì nên ăn đồ nóng một chút!
+;(Mở giao diện cửa hàng)
+Quyết Đấu
+;(Mở giao diện khiêu chiến Thất Thánh Triệu Hồi)
+;(Nếu người chơi thua)
+::Harris: Tuy thua nhưng cũng đừng nhụt chí nhé! Uống hớp canh nóng nào!
+;(Nếu người chơi thắng)
+::Harris: Chúc mừng nhé! Để ăn mừng cho chiến thắng này, chúng ta cùng ăn một bữa linh đình nào!
+Bạn là?
+:Harris: Tôi là Harris, là một đầu bếp, cũng là người xây dựng doanh trại này.
+:Harris: Ý định ban đầu của tôi là giúp những nhà mạo hiểm hoạt động quanh đây để họ có thể uống một bát canh nóng khi họ trở về từ chuyến đi.
+:Harris:... Dù sao thì không có gì hạnh phúc hơn khi được uống một bát canh nóng khi trời đông lạnh.
+:Harris: Bản chất của nấu ăn là mang lại sự hài lòng và hạnh phúc cho con người, không phải sao?
+:Harris: Thật tiếc khi nhiều đầu bếp đã quên điều này... Điều đơn giản này đã được một đầu bếp nói với tôi khi tôi đi du lịch ở Liyue.
+Tạm biệt.
+:Harris: Ừm! Nếu mệt thì nhớ ghé đây mua đồ ăn và nghỉ ngơi nhé!

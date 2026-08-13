@@ -1,0 +1,47 @@
+# Pulcinella
+
+## Thông Tin Cơ Bản
+
+type: Mentioned
+name: Pulcinella
+region: Snezhnaya
+affiliation: Fatui
+affiliation2: 11 Quan Chấp Hành Của Fatui
+voiceEN: w|Dave B. Mitchell
+voiceCN: Wang Xiaobing (zh|王肖兵)
+voiceJP: w|Chō|Cho (ja|チョー)
+voiceKR: w|ko:강구한|Kang Koo-han (ko|강구한)
+title: The Rooster
+title2: Đứng thứ 5 trong 11 Quan Chấp Hành Fatui
+
+## Tổng Quan
+
+Pulcinella, mật danh "The Rooster", đứng thứ 5 trong 11 Quan Chấp Hành Fatui và là thị trưởng của một thành phố ở Snezhnaya.
+
+Ông xuất hiện lần đầu trong [Genshin Impact – Chương Teyvat] - Vở Kịch Đêm Đông cùng các thành viên Quan Chấp Hành khác.
+
+Ông cũng xuất hiện trong [Genshin Impact· Chương Teyvat Trailer chương chính [Dấu Chân]] cùng thân cận của mình họ được biết đến là “Pulcinella và thân cận” và là tuyến nhân vật lớn trong Màn 4, Snezhnaya.
+
+## Tiểu Sử
+
+Chưa có nhiều thông tin về Pulcinella ngoài thứ hạng Fatui và danh hiệu của ông. Sau khi Tartaglia phấn đấu để được thành Quan Chấp Hành và được Pulcinella chiêu mộ, không như những Quan Chấp Hành khác được chính tay Pierro tuyển chọn. Theo lời Arlecchino, ông là một thị trưởng “xuất chúng” với khả năng thu được những kết quả lớn lao mà không phải trả cái giá quá đắt.
+
+## Ngoại Hình
+
+Pulcinella là một ông lão có tóc và ria mép trắng, ông đeo 1 cặp kính tròn, có mũi và tai nhọn. Ông mặc một chiếc áo choàng dài màu xanh đậm với tay áo xoè và có lông, bộ áo phủ lên ít nhất 1 lớp quần ống rộng và giày lớn. Áo choàng có cổ áo rộng phủ lông, trên đầu đội nón có gắn 1 cặp lông. Quanh người ông có 1 lớp băng, không rõ là do ông có Vision hoặc Delusion hay chỉ là cách thể hiện môi trường Snezhnaya.
+
+## Cốt Truyện
+
+Khi Tartaglia (khi đó tên là Ajax) mới 14 tuổi, cậu bị dẫn dụ đến Vực Sâu và xuất hiện trở lại với nhiều thay đổi, trong đó là khả năng chiến đấu mạnh mẽ và xu hướng kéo theo hỗn loạn ở bất cứ đâu anh đến. Sau những sự kiện xảy ra ở quê nhà mình tại Morepesok, cha của Tartaglia vì lo lắng mà đã đưa anh đến Fatui để giúp rèn giũa tính khí của mình, nhưng lại chứng kiến cảnh anh đánh bại những binh lính được huấn luyện kĩ càng. Những khả năng đặc biệt của Tartagia đã thu hút sự chú ý của Pulcinella, và ông đã đề cử anh vào Fatui phục vụ Tsaritsa như “một hình phạt’.”
+
+## Hiện Tại
+
+Trước đây, Signora đã lập giao kèo với Thất Tinh Liyue và đã cử một đoàn gồm vài người của Pulcinella tên là Đại Đội Chín đi chinh phạt Vực Sâu. Do khoảng cách địa lí giữa Vực Sâu và mặt đất, tuyến tiếp tế của Fatui tại Cảng Liyue của Đại Đội Chín là cách duy nhất để thu thập thông tin và nhận tiếp tế từ mặt đất.
+
+Tuy nhiên, sau hành động của Tartaglia tại Liyue và sự hồi sinh của Osial, mối quan hệ giữa Thất Tinh Liyue và Fatui dần rạn nứt. Thất Tinh đã ngừng hỗ trợ cho đoàn chinh phạt và cấm Thiên Nham Quân giao thiệp với Fatui. Vì tuyến tiếp tế bị ngắt nên Đại Đội Chín bị mắc kẹt lại Vực Sâu mà không biết chuyện gì đã xảy ra. Khi Nhà Lữ Hành tìm ra họ, Đại Đội Chín chỉ còn lại một nửa số thành viên và chia tách thành nhiều nhóm nhỏ. Anton, thuộc hạ của Pulcinella than rằng “sử dụng ít tài sản giá trị” để đạt được những thành quả to lớn chính là cách thức hoạt động của Quan Chấp Hành.
+
+Trong Vở Kịch Đêm Đông, Pulcinella tham dự tang lễ của Signora và ra lệnh hoãn mọi công vụ trong vòng nửa ngày để thương tiếc cho sự ra đi của cô. Quãng thời gian ít ỏi mà ông dành cho việc thương tiếc Signora đã nhận phải sự móc mỉa của Pantalone và Arlecchino.
+
+Sau cái chết của Signora, Viktor thành quân dưới trướng Pulcinella. Pulcinella ngay lập tức điều anh về Thành Sumeru để hỗ trợ Vsevolod điều phối công tác hậu cận của chi nhánh Ngân Hàng Bắc Quốc mới.
+
+Sau khi Arlecchino mang Gnosis Thuỷ quay về, Pulcinella cùng Pantalone thực hiện “Kế Hoạch Stuzha” và sử dụng Căn Nhà Hơi Ấm làm “thành viên chủ chốt”. Cả Arlecchino và Lyney đều nghi ngờ rằng việc căn nhà bỗng dưng được chú ý đến có thể là do Pulcinella dang cố tác động đến căn nhà.

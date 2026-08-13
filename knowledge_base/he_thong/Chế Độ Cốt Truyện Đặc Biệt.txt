@@ -1,0 +1,14 @@
+# Chế Độ Cốt Truyện Đặc Biệt
+
+## Tổng Quan
+
+type: Hệ Thống Trò Chơi
+group: Thuật Ngữ Nhiệm Vụ
+
+Chế Độ Cốt Truyện Đặc Biệt là trạng thái trong quá trình thực hiện Nhiệm Vụ, chế độ này sẽ hạn chế một số hành động của người chơi hoặc thay đổi cơ chế vận hành của một vài tính năng nhất định. Khi ở trạng thái này sẽ không thể mở Giao Diện Paimon.
+
+Trong một số trường hợp, có thể rời khỏi Chế Độ Cốt Truyện Đặc Biệt ở góc trên bên trái màn hình (giống cách rời khỏi Bí Cảnh), tuy nhiên hành động này có thể đặt lại tiến độ nhiệm vụ hiện tại.
+
+Khi quay lại nhiệm vụ sau khi đã rời khỏi Chế Độ Cốt Truyện Đặc Biệt, hệ thống có thể hiển thị Tóm Tắt Cốt Truyện để nhắc lại các tình tiết quan trọng.
+
+- Danh Sách Nhiệm Vụ: Dưới đây là danh sách các Nhiệm Vụ có xuất hiện Chế Độ Cốt Truyện Đặc Biệt. Để biết thêm chi tiết, vui lòng xem tại phần Ghi Chú Cách Chơi của từng nhiệm vụ cụ thể.

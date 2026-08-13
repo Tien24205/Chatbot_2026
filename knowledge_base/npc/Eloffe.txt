@@ -1,0 +1,12 @@
+# Eloffe
+
+## Thông Tin Cơ Bản
+
+type: NPC Nhiệm Vụ
+region: Fontaine
+location: Fontaine
+affiliation: Tiệm Thời Trang Chioriya
+title: Nhân Viên Tiệm Thời Trang Chioriya
+voiceEN: [[imdb:nm11533466
+
+- Tổng Quan: Eloffe là một NPC đại thế giới tại Khu Đại Sảnh Fontaine, Fontaine.

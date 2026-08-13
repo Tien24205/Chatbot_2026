@@ -1,0 +1,38 @@
+# Aino
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+quality: 4
+element: Thủy
+weapon: Trọng Kiếm
+teamBonus: Nguyệt Triệu
+name: Aino
+constellation: Phanh Phanh Hạp
+birthday: 21 tháng 09
+region: Nod-Krai
+affiliation: Xưởng Krumkake Clink-Clank
+affiliation2: Bang Ốc Biển
+affiliationNote2: trước đây
+dish: Ly Ngọt Clink-Clank
+namecard: Ai Da
+obtain: - Cầu Nguyện - Thiên Tài Cơ Khí Clink-Clank!
+releaseDate: 2025-09-10 11:00:00 GMT+8
+creation: Relative Type|synthetic|Ineffa| CũRelative Type|synthetic|Birgitta|
+title: Clinky-Clank Diệu Kỳ
+title2: Phụ Huynh Của Xưởng Krumkake Clink-Clank
+voiceEN: [[imdb:nm9971173
+Annabel Brook]]<ref name: "Aino EN Voice Actress">YouTube: Video Giới Thiệu Phiên Bản 5․8 (Mô tả video)
+voiceCN: Ge Zirui (zh|葛子瑞)
+voiceJP: w|Natsumi Takamori|Takamori Natsumi (ja|高森奈津美)
+voiceKR: Jo Kyoung-i (ko|조경이)YouTube: 원신
+
+## Tổng Quan
+
+Aino là một nhân vật hệ Thủy chơi được trong Genshin Impact.
+
+Aino là một thần đồng và là người sáng lập Xưởng Krumkake Clink-Clank, cô là người đã tạo ra Ineffa và nhiều cỗ máy tinh xảo khác. Aino là một đứa trẻ mồ côi, vì thế cô luôn xem các tạo vật và những con ốc vít như "gia đình" của mình.
+
+Sau khi Độ Yêu Thích của Aino đạt cấp 6, có thể nhận một Ốc Vít Krumkake thông qua giao diện nhân vật.
+
+- Hoàn thành bước 16 trong.

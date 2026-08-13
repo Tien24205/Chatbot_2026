@@ -1,0 +1,11 @@
+# Cổng Vực Sâu
+
+## Tổng Quan
+
+type: Chiến Đấu
+type2: Hệ Thống Trò Chơi
+region: Natlan
+
+Cổng Vực Sâu là tạo vật Vực Sâu sinh ra ở Natlan đóng vai trò là cổng vào. Vực Sâu sử dụng chúng để đưa đội quân của chúng lên mặt đất. Cho tới khi chiếc Cổng bị phá hủy, kẻ địch loại Vực Sâu sẽ liên tục được tạo ra, thường bao gồm cả Lá Mô Phỏng U Ám.
+
+Cổng đôi khi được tạo ra bởi một Khối U Vực Sâu, thường miễn nhiễm sát thương. Tuy nhiên, phá hủy tất cả Cổng khối u sinh ra sẽ cho phép phá hủy khối u khi người chơi được Hỏa Thần hỗ trợ.

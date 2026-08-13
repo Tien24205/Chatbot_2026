@@ -1,0 +1,12 @@
+# Janaki
+
+## Thông Tin Cơ Bản
+
+type: NPC Nhiệm Vụ
+region: Sumeru
+location: Sumeru
+affiliation: Vahumana
+voiceEN: w|Lani Minella
+voiceJP: Watanabe Chihiro (ja|渡辺 千絢)
+
+- Tổng Quan: Janaki là một NPC độc quyền nhiệm vụ xuất hiện trong.

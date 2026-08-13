@@ -1,0 +1,29 @@
+# Lynette
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+quality: 4
+weapon: Kiếm Đơn
+element: Phong
+arkhe: Ousia
+name: Lynette
+birthday: 02 tháng 02
+constellation: Bạch Vỹ Miêu
+region: Fontaine
+affiliation: Khách Sạn Bouffes d'ete
+affiliation2: Căn Nhà Hơi Ấm
+dish: Trà Chiều
+namecard: Thành Thật
+obtain: - Cầu Nguyện - Ảo Thuật Bất Tận
+releaseDate: 16-08-2023
+sibling: Lyney
+siblingNote: anh trai
+sibling2: Freminet
+siblingNote2: em trai nuôi
+title: Bóng Hình Trang Nhã
+title2: Phụ Tá Ảo Thuật Đa Năng
+voiceEN: w|Anairis Quiñones
+voiceCN: Kekewei (zh|可可味)
+voiceJP: w|Yū Sasahara|Sasahara Yuu (ja|篠原侑)
+voiceKR: Lee Myung-hwa (ko|이명화)

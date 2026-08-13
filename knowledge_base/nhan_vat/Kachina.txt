@@ -1,0 +1,33 @@
+# Kachina
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+quality: 4
+weapon: Vũ Khí Cán Dài
+element: Nham
+name: Kachina
+birthday: 22 tháng 04
+constellation: Thử Thố
+region: Natlan
+affiliation: Con Của Tiếng Vang
+affiliationLabel: Nanatzcayan
+dish: Ngay Ngay Ngắn Ngắn
+namecard: Quay Tròn
+obtain: - Cầu Nguyện - Mũi Khoan Quay Tròn!
+releaseDate: 2024-08-28
+title: Khoáng Thạch Ánh Vàng
+title2: Dũng Sĩ Trẻ Tuổi Của Nanatzcayan
+voiceEN: [[imdb:nm7118506
+Kristen McGuire]]<ref name: "A Name Forged in Flames desc">YouTube: Video Giới Thiệu Dẫn Lửa - Danh Tiếng Rèn Từ Lửa (Mô Tả Video)
+voiceCN: Jing Chen (zh|静宸)
+voiceJP: w|Yurika Kubo|Kubo Yurika (ja|久保ユリカ)
+voiceKR: Son Seon-young (ko|손선영)
+
+## Tổng Quan
+
+Kachina là một nhân vật hệ Nham chơi được trong Genshin Impact.
+
+Sở hữu Tên Cổ "Uthabiti" và là một chiến binh trẻ tuổi đến từ bộ tộc Con Của Tiếng Vang, Kachina là một cô bé kiên trì và không ngừng trưởng thành từ những lần thất bại.
+
+- Nhận trong.

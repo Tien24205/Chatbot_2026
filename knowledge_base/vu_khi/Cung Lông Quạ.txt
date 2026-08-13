@@ -1,0 +1,36 @@
+# Cung Lông Quạ
+
+## Thông Tin Cơ Bản
+
+id: 15301
+type: Cung
+series: Tai Ương 3 Sao
+releaseDate: 2020-09-28
+quality: 3
+base_atk: 40
+2nd_stat_type: Tinh Thông Nguyên Tố
+2nd_stat: 20
+passive: Diệt Hỏa Ngưng Thủy
+effect: Sát thương tạo ra cho kẻ địch bị ảnh hưởng bởi nguyên tố Thủy hoặc Hỏa tăng (var1)%
+eff_rank1_var1: 12
+eff_rank2_var1: 15
+eff_rank3_var1: 18
+eff_rank4_var1: 21
+eff_rank5_var1: 24
+obtain: Cầu Nguyện
+eff_att1: Tăng Sát Thương
+
+- Tổng Quan: Cung Lông Quạ là cung 3 sao.
+
+## Câu Chuyện
+
+Tương truyền, quạ đen là sứ giả báo tử.
+Nếu đính lông quạ lên trên cánh cung,
+Thì mỗi lần dây cung vang lên sẽ là lời tuyên cáo cuối cùng cho con mồi.
+Hay chí ít, đó là lời nói của thương nhân khi nhắc về vũ khí này.
+
+## Có Mặt Trong
+
+- Cầu nguyện thường Du Hành Thế Gian (Không giới hạn thời gian)
+- Cầu Nguyện Cho Nhà Lữ Hành Mới (Không giới hạn thời gian cho đến khi đủ 20 lần cầu nguyện)
+- Tất cả Cầu Nguyện Nhân Vật Đại Diện và Cầu Nguyện Vũ Khí

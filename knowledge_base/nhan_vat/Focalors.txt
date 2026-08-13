@@ -1,0 +1,39 @@
+# Focalors
+
+## Thông Tin Cơ Bản
+
+type: Nhắc Đến
+element: Thủy
+title: Thần Chính Nghĩa
+title2: Nữ Hoàng Của Muôn Nước, Muôn Nơi, Muôn Dân Và Muôn Luật Lệ
+region: Fontaine
+affiliation: Bảy Vị Thần
+affiliation2: Tinh Linh Nước Trong
+group: Thần
+voiceEN: Amber Lee Connors
+voiceCN: Qian Chen (zh|钱琛)
+voiceJP: w|Inori Minase|Minase Inori (ja|水瀬いのり)
+voiceKR: Kim Ha-yeong (ko|김하영)
+deceased: Tự hành quyết bản thân thông qua Cỗ Máy Chỉ Thị Phán Quyết trong Vở Kịch Của Sóng Đen Và Sương Trắng
+
+## Tổng Quan
+
+Focalors là Thần Công lý và cựu Thuỷ Thần trong Thất Thần, vị thần trị vì quốc gia Fontaine. Cô ấy là người kế vị của Egeria và ban đầu là một trong những Tinh Linh Nước Trong thân cận của Egeria.
+
+Kể từ, cô bị kết án tử hình bởi Cỗ Máy Chỉ Thị Phán Quyết và tự nguyện trao toàn bộ quyền năng nguyên tố của mình cho Neuvillette. Điều này cũng phá hủy ngai của Thủy Thần, đồng nghĩa với Focalors sẽ là Thủy Thần cuối cùng. Sau khi cô chết, Furina hiện tiếp tục sống với tư cách là một con người bình thường.
+
+## Ngoại Hình
+
+Focalors mang hình dáng một người phụ nữ với đôi mắt hai màu: xanh lam nhạt cho bên phải và xanh lam đậm cho bên trái. Giống với Furina, tóc của cô có màu trắng xanh với một vài dải màu xanh đậm hơn và được chia thành hai phần: phần tóc bob dài tới cổ ở phía trước và hai dải tóc dài tới eo ở phía sau. Cô cũng có mi mắt giọt nước giống Furina.
+
+- Tính Cách: (Đang cập nhật).
+
+## Lịch Sử
+
+Trong Tai ương thời cổ đại, Chủ Nhân Amrita bị giết chết, và sau đó một thời gian Focalors lên chiếc ghế Thủy Thần. Tinh Linh Nước Trong, tính cả Tinh Linh mạnh nhất là Tinh Linh Nước Trong - Rhodeia, không công nhận Focalors là Thủy Thần; hơn nữa Idyia nói rằng Thủy Thần đời sau đã khiến nước nhuốm đầy đau đớn và thù hận. Mọi chuyện lên tới đỉnh điểm khi Tinh Linh Nước Trong tìm thấy di thể Chủ Nhân Amrita ở Harvisptokhm, chúng cắt đứt với Fontaine và Thủy Thần Focalors, di tản khắp Teyvat.
+
+## Nhiệm Vụ Ma Thần
+
+Cả bảy vị thần đều được nhắc đến trong, Zhongli đã chỉ ra các mỗi cánh diều giấy đại diện cho mỗi vị thần. Ở cánh diều của Thủy Thần, Zhongli nhận xét "Chính nghĩa" phẳng lặng như mặt nước".
+
+Trong, Nahida có nhắc đến việc Focalors không chủ trì buổi xét xử nhưng vẫn có mặt và có thể ảnh hưởng tới phán quyết cuối cùng.

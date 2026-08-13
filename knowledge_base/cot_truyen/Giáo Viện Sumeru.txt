@@ -1,0 +1,164 @@
+# Giáo Viện Sumeru
+
+## Tổng Quan
+
+leader: Tiểu Vương Kusanali Lục Hiền Giả
+subfaction: Matra
+base: Giáo Viện
+region: Sumeru
+
+Giáo Viện Sumeru là cơ quản chủ quản chính của Sumeru, cũng là học viện danh giá nhất trên toàn Teyvat, nằm ở phần thân cây của Thành Sumeru. Học viện này đặc biệt nổi tiếng với hệ thống bí thuật và ghi chép lịch sử.
+
+## Tổng Quan
+
+Giáo Viện tiếp nhận sinh viên từ khắp Teyvat và thường xuyên phái học giả thực địa - còn gọi là Driyosh - đến quốc gia khác để thu thập tài liệu nghiên cứu. Không rõ Giáo Viện đã tồn tại bao lâu, nhưng từ thảm họa 500 năm trước nó đã là một học viện danh tiếng. Theo Dainsleif, là một học viện đã tồn tại hàng ngàn năm, nghĩa là nó được thành lập cách đây hơn 1000 năm. Giáo Viện cũng đóng vai trò là cơ quản chủ quản của Sumeru, xử lý phần lớn các công việc hàng ngày của Sumeru.
+
+## Điều Thiện Và Tội Lỗi
+
+Giáo Viện có ba điều thiện và sáu tội lỗi. Điều thiện được mô tả trong Sách Nâng Thiên Phú của Sumeru, trong khi tội lỗi được các hiền giả coi là căn nguyên của mọi loại tội lỗi và bị cấm để bảo vệ học giả khỏi việc theo đuổi tri thức một cách bất cẩn. Đây là cơ sở cho giáo lệnh của Giáo Viện, và các hiền giả đã thêm giáo lệnh mới và điều chỉnh kể từ đó. Nghiên cứu chủ đề liên quan đến những tội lỗi này sẽ khiến bản thân phải chịu hình phạt, chẳng hạn như bị trục xuất khỏi Giáo Viện hoặc bị bắt giữ.
+
+Bao gồm điều thiện sau:
+- Khuyên Nhủ: "Khuyên Nhủ" là cành nhánh của vương quốc trí tuệ. Khuyên nhủ xuất phát từ tâm trí thuần khiết đi đôi với tư duy khéo léo sẽ có thể nói ra những lời rành mạch và hành động chí thiện để lời nói được rõ ràng rành mạch.
+- Tinh Tế: "Tinh Tế" là gân lá của vương quốc trí tuệ. Tinh tế bắt nguồn từ ý chỉ của lương thiện, dẫn dắt lời nói chính trực và được hình thành từ phẩm hạnh hài hòa.
+- Thực Hành: "Thực Hành" là gốc rễ của vương quốc trí tuệ. Thực hành bắt nguồn từ tính chân thật rõ ràng, minh chứng cho lời nói thẳng thắn và thúc đẩy trí tuệ kết thành quả.
+
+Bao gồm tội lỗi sau:
+- Can thiệp sự tiến hóa của con người,
+- Nói năng ngông cuồng về sự sống và cái chết,
+- Khám phá những thứ bên ngoài vũ trụ,
+- Nghiên cứu toàn diện về nguồn gốc của từ ngữ,
+- Kính sợ các vị thần mà không sùng kính,
+- Tùy tiện nói về các điều huyền bí mà không chút sợ hãi.
+
+## Học Thuật
+
+Dù viện có bối cảnh giống như một trường đại học, Giáo Viện tuyển sinh ở mọi lứa tuổi và trẻ em có thể ghi danh vào Giáo Viện khi đến tuổi đi học và thi đậu. Arina và Armin là hai đứa trẻ đã biết hiện là học sinh, trước đây có cả Alhaitham, người đã nhập học khi mới bảy tuổi và sau đó tự học ở nhà một thời gian. Sachin, người đã nhập học năm chín tuổi và Kaveh cũng nhập học khi đến tuổi đi học, dù số tuổi của anh không được nêu rõ ngoài việc nói rằng anh "vẫn còn nhỏ". Uzayr, Shurayh và Tanisha cũng là những đứa trẻ có kế hoạch tham gia kỳ thi tuyển sinh của Giáo Viện sau khi học về bản chất của kiến trúc. Collei dự kiến sẽ đăng ký vào Giáo Viện khi cô ấy đã hoàn thành việc học của mình
+
+Mặc dù nó ngụ ý rằng có một độ tuổi nhất định mà những học sinh có tiềm năng nên tham gia kỳ thi tuyển sinh và đăng ký vào Giáo Viện, nhưng nó không bắt buộc vì chỉ những người vượt qua kỳ thi tuyển sinh đầy thử thách mới được nhận, khiến nhiều học sinh không thể học ở đó. Những người không thể đến trường tại Giáo Viện phải dựa vào "Akasha", các nghiên cứu độc lập hoặc các cơ sở giáo dục để tiếp thu kiến ​​thức.
+
+Sinh viên Giáo Viện thường gọi nhau là tiền bối và hậu bối; tuy nhiên, việc đạt được danh hiệu hậu bối được xác định bởi sự tiến bộ trong học tập chứ không phải tuổi tác. Ví dụ, Tighnari trẻ hơn Abattouy nhưng được gọi là tiền bối vì Tighnari đã hoàn thành việc học và tốt nghiệp Giáo Viện trước Abattouy.
+
+Ngày nay, việc nhận bằng từ Giáo Viện là một quá trình rất dài và căng thẳng; Gregor, một sinh viên đến từ Mondstadt, lo sợ rằng cha mẹ anh sẽ già đi khi anh tốt nghiệp nên đã trở về Mondstadt. Hosseini tuyên bố rằng không có gì lạ khi mọi người tốt nghiệp trên 30 tuổi, và bản thân ông, khi chưa đến tuổi đó, tóc đã gần như bạc vì quá trình nghiên cứu.
+
+Bảo vệ luận văn là phần khó khăn nhất của quá trình tốt nghiệp; một số Driyosh đã gặp ở quốc gia khác bày tỏ sự lo lắng của họ về việc tìm tài liệu cho luận văn của họ và đã thay đổi chủ đề do những tình tiết bất khả kháng hoặc bị tổ đánh giá từ chối. Alrani thực sự sợ Giáo Viện và đề cập rằng Soraya - người dường như nằm trong số những người đứng đầu lớp - có "hàng đống luận văn bị từ chối". Nó ngụ ý rằng có giới hạn về thời gian một sinh viên có thể ở lại Giáo Viện mà không được tốt nghiệp. Hosseini đề cập rằng nếu anh trở thành Dastur, anh có thể ở lại Giáo Viện lâu hơn thay vì phải đi vòng quanh Teyvat để nghiên cứu.
+
+Lisa, người đã theo học tại Giáo Viện khi còn trẻ, đã tốt nghiệp trong hai năm "học tập" và được coi là thiên tài của trường trong 200 năm qua. Tuy nhiên, cô chán ghét trường của mình sau khi nhận ra cái giá phải trả cho "học thức", sau khi chứng kiến ​​những học giả thì thầm những lời nói vô nghĩa trong khu rừng mưa Sumeru và vị trí giả đầy trí tuệ trong hội nghị. Cuối cùng, cô đã trở về Mondstadt và trở thành một người quản lý thư viện, một quyết định khiến những người biết cô tài năng đến mức nào phải bối rối.
+
+## Nghiên Cứu
+
+Ngoài các hoạt động học thuật, Giáo Viện Sumeru còn tiến hành nghiên cứu nhiều chủ đề khác nhau. Các học giả thực địa thường thu thập tài liệu và tiến hành điều tra sơ bộ cho các dự án và lĩnh vực quan tâm của người hướng dẫn, trong khi các học giả được phép ở lại Giáo Viện để tiến hành nghiên cứu.
+
+Sau khi xác định rằng không có Vision Lôi nào được đưa ra trong năm qua, các học giả tại Giáo Viện đã đưa ra giả thuyết rằng hiện tượng này có liên quan đến ý chí của Lôi Thần và đặc biệt là lời tuyên bố về Lệnh Truy Lùng Vision. Giả thuyết này hóa ra là không đúng khi Raiden Ei tiết lộ với Nhà Lữ hành rằng cô không biết hiện tượng này đang xảy ra, và Thần không trực tiếp tham gia vào việc trao hoặc lấy lại Vision. Do "một chút quy định", cô không thể nói lí do thực sự khiến Vision Lôi không được gửi đi.
+
+Trong khi nghiên cứu tại Giáo Viện có xu hướng thiên về nghiên cứu lịch sử cổ đại, bí thuật, sức mạnh nguyên tố và bản chất của thế giới, nó cũng mang tính nghiên cứu khoa học và thực tế hơn. Ví dụ, giáo dục của Tsuyuko tại Giáo Viện Sumeru khiến cô tin rằng hiện tượng Đất Thánh của Đảo Watatsumi không phải là do Enkanomiya cố gắng hấp thụ linh hồn của hòn đảo - lời giải thích huyền thoại - mà là do nước biển xâm nhập vào đất sẽ làm mất chất dinh dưỡng ban đầu và làm trơ các nguyên tố trong đất; thay vì kìm hãm Enkanomiya, Tế Lễ Linh Hồn Watatsumi bổ sung chất dinh dưỡng cho đất. Sau đó, cô tiết lộ rằng Đất Thánh là kết quả của sự mở rộng của Lãnh Địa Ánh Sáng, nơi có nguyên tố mạnh mẽ ở Enkanomiya, trong khi Tế Lễ Linh Hồn Watatsumi đảo ngược hiện tượng này bằng cách đánh thức quần thể san hô, những sinh vật có thể phá vỡ sức mạnh nguyên tố mạnh mẽ của Lãnh Địa Ánh Sáng thành thứ gì đó dễ sử dụng hơn đối với Lãnh Địa Loài Người mà Teyvat là một phần của chúng.
+
+Hàng năm, Giáo Viện sẽ chọn ra người nhận Giải Thưởng Kavikavus, một giải thưởng được trao cho một học giả trẻ dưới 40 tuổi, có đề tài nghiên cứu được coi là "có tính đột phá" và "khả năng đổi mới mạnh mẽ" và người nộp bài có "tiềm năng phát triển cá nhân lớn". Những người từng nhận giải thưởng này đều đã trở nên nổi tiếng trong Giáo Viện.
+
+Nghiên cứu về sinh vật máy móc bị cấm ở Giáo Viện, với những sinh viên bị phát hiện có nguy cơ bị đuổi học. Ban đầu, nó được tạm chấp nhận và phổ biến trong số những người thuộc Spantamad, nhưng khi các học giả cực đoan đã tiến hành giải phẫu và thí nghiệm vô cùng tàn khốc trên vô số động vật, nó đã bị cấm ngay lập tức.
+
+## Học Vị
+
+Một số kính ngữ và danh hiệu khác nhau đã được đề cập liên quan đến sự tiến bộ của một người trong quá trình nghiên cứu và học tập tại Giáo Viện Sumeru.
+- Driyosh, thường được gọi là học giả thực địa, là những sinh viên được Giáo Viện Sumeru cho phép nghỉ ngơi để đi lang thang và học tập như một phần trong quá trình nghiên cứu của họ. Chỉ cần vượt qua quy trình xét duyệt luận văn là đủ để tốt nghiệp Giáo Viện, sau đó họ có thể được coi là học giả chính thức.
+- Có một nhóm học sinh khác bị giam giữ trong Giáo Viện và không rời đi cho đến khi tốt nghiệp hoặc rút ngắn quá trình học. Cho đến nay, chưa có danh hiệu nào được trao cho những sinh viên như thế này.
+- Dastur là những học giả chính thức đã vượt qua hai bài luận thông qua quy trình xét duyệt.
+- Herbad là những học giả thông thái, hiểu biết rộng và giữ các vị trí lãnh đạo.
+- Lục Hiền Giả, cũng thường chỉ được gọi là hiền giả là những học giả có vị trí quyền lực cao nhất trong Giáo Viện. Họ được lựa chọn dựa trên một loạt các tiêu chí để trở thành những người lãnh đạo của sáu học viện lớn, mỗi hiền giả của mỗi học phái. Họ được trao quyền quản lý các công việc hành chính của Giáo Viện và cũng có vị trí trong hội nghị. Một số nhiệm vụ của họ bao gồm phân công công việc và nhiệm vụ cho các học giả; ví dụ như vai trò của Thủ Thư nhiệm kỳ.
+- Đại Hiền Giả là người phụ trách có quyền lực tuyệt đối của Giáo Viện. Vai trò và danh hiệu này được tích lũy với danh hiệu Đại Hiền Giả, nhưng hiện tại người ta biết rất ít về những chức năng và quyền hạn bổ sung cụ thể mà danh hiệu này ngụ ý. Văn phòng của Đại Hiền Giả nằm ở phía trên của Cung Điện Daena.
+
+## Quản Lý
+
+Giáo Viện Sumeru quản lý phần lớn các công việc hàng ngày của Sumeru và chịu trách nhiệm quản lý Akasha, một hệ thống quản lý kiến ​​thức như một nguồn tài nguyên mà bất kỳ ai đeo Trạm Cuối Akasha đều có thể truy cập. Kiến thức trong Akasha được biên soạn từ tri thức của người dân, và thông tin mà một người nhận được được Akasha quản lý chặt chẽ. Yae Miko suy nghĩ hệ thống này có phải do Tiểu Vương Kusanali hay các hiền giả nghĩ ra không; tuy nhiên, nó đã được tiết lộ rằng Akasha là di sản của Đại Vương Rukkhadevata.
+
+Akasha là hiện thân của sức mạnh của Thần Trí Tuệ, nhưng Tiểu Vương Kusanali hầu như không có vai trò gì trong việc quản lý nó. Nhưng với tư cách là Trạm Cuối Akasha Đầu Tiên, cô ấy luôn có ý thức được kết nối với Akasha, mang lại cho cô ấy khả năng chiếm giữ ý thức của bất kỳ ai đeo Trạm Cuối Akasha. Tuy nhiên, cô ấy chỉ chiếm giữ ý thức của con rối sinh học Katheryne, vì tôn trọng ý chí tự do của người dân cô ấy.
+
+Cốt truyện tiết lộ rằng các hiền giả Giáo Viện có mưu đồ bất chính; sau cái chết của Đại Vương Rukkhadevata, các hiền giả đã thất vọng với trí tuệ của Tiểu Vương Kusanali mới sinh và do đó tìm cách thay thế vị thần của họ trong nỗ lực kiểm soát kiến ​​thức và khôi phục Irminsul. Sau khi Il Dottore trở về Sumeru để đề nghị hỗ trợ tạo ra một vị thần mới, bốn trong số Lục Hiền Giả bắt đầu thu thập Hũ Tri Thức Thần từ các học giả điên tại một cơ sở bí mật, sử dụng Akasha để tạo ra một luân hồi trong mơ để thu thập năng lượng và lan truyền thông tin sai lệch về sự hồi sinh của Vua Deshret. Hiền giả Amurta Naphis và hiền giả Vahumana phản đối kế hoạch và đã bị các hiền giả khác nhốt lại. Các hiền giả đã sửa đổi Scaramouche để tạo ra vị thần mới của họ.
+
+Giáo Viện nằm dưới sự cai trị độc đoán của họ, cấm truyền tải thông tin từ các nguồn không phải của Giáo Viện và yêu cầu các buổi biểu diễn phải được Giáo Viện chấp thuận và tập trung vào các chủ đề được Giáo Viện chấp thuận, trước khi chính thức cấm hoàn toàn các buổi biểu diễn nghệ thuật công cộng.
+
+Giáo Viện cũng có ảnh hưởng đáng kể đến cách suy nghĩ của phần còn lại của Sumeru, vì quan điểm cực đoan của họ cho rằng biểu hiện nghệ thuật không mang lại lợi ích nhanh chóng khiến phần còn lại của Sumeru chấp nhận đồng quan điểm, dẫn đến việc người dân coi trọng các thành tựu học thuật và tính thực tế hơn tất cả mọi thứ khác, và dẫn đến sự thiệt thòi của những người tham gia vào nghệ thuật. Việc hạ thấp nghệ thuật của Giáo Viện lan sang mọi hình thức biểu hiện nghệ thuật, cho dù là trong hội họa, biểu diễn của người bán hàng rong tại Cảng Ormos, khiêu vũ hay thậm chí là kiến ​​trúc, do giá trị đặt vào tính thực tế hơn tính thẩm mỹ. Ngay cả sau Chương 3 và khi các hiền giả đã bị lưu đày, ảnh hưởng của Giáo Viện vẫn còn tồn tại dưới hình thức nào đó ở Sumeru, vì thảo luận về nghệ thuật vẫn được coi là cách nhanh nhất để giết chết một cuộc trò chuyện.
+
+Sau khi Scaramouche bị đánh bại bởi Nhà Lữ Hành và Kusanali, Azar và ba hiền giả khác hợp tác với ông ta đã bị cách chức, với Naphis và hiền giả Vahumana được thả khỏi nhà tù. Bốn hiền giả mới sẽ được lựa chọn trong một quá trình do Tiểu Vương Kusanali giám sát trực tiếp. Alhaitham được đề nghị ngồi ở vị trí Đại Hiền Giả, nhưng anh đã từ chối. Tuy nhiên, Alhaitham đã trở thành Đại Hiền Giả để quản lý các công việc quan trọng của Giáo Viện trước khi các hiền giả mới nhậm chức. Cuối cùng anh từ chức và trở lại làm Quan Thư Ký, khiến Giáo Viện tạm thời không có người lãnh đạo rõ ràng.
+
+Nó được tiết lộ trong Sự Kiện Đồng Hành Màn 1 của Kaveh - Dao Động Giữa Đau Khổ Và Hạnh Phúc rằng các cơ sở giáo dục đã mở ra trên khắp Sumeru để chuẩn bị cho những người dân không thể đăng ký vào Giáo Viện cho một số con đường sự nghiệp nhất định, chẳng hạn như kiến ​​trúc. Tuy nhiên, một số cơ sở giáo dục này, chẳng hạn như Alkami, là những trò lừa đảo lợi dụng sự tuyệt vọng của người dân. Giáo Viện được tiết lộ là không biết về các cơ sở giáo dục gian lận này và Kaveh suy đoán rằng họ khó có thể hành động chống lại chúng ngay cả khi họ phát hiện ra vì họ có tất cả các giấy phép và chứng chỉ cần thiết để tiếp tục kinh doanh.
+
+## Sáu Học Phái Lớn
+
+Giáo Viện Sumeru hiện được chia thành sáu học phái, mỗi học phái có một chuyên ngành riêng và một màu sắc riêng cho đồng phục của họ. Các học phái đầu tiên được thành lập cùng thời điểm với Giáo Viện bởi Đại Vương Rukkhadevata dưới tên gọi sáu học phái lớn, mỗi học phái đại diện cho một loại trí tuệ. Mỗi học phái được lãnh đạo bởi một Hiền Giả, và người lãnh đạo chính trong số họ giữ chức Đại Hiền Giả. Mặc dù các học phái bổ sung tách biệt khỏi các học phái này đã được tạo ra trong suốt lịch sử, nhưng chỉ có sáu học phái lớn mới vượt qua được thử thách của thời gian. Ngày nay, Sáu Học Phái và sáu học phái lớn gần như đồng nghĩa với nhau.
+
+## Mahamata
+
+Mahamata là các cán bộ hành chính công vụ của Giáo Viện Sumeru. Họ là cựu sinh viên của Giáo Viện được cử đi khắp Sumeru để giám sát việc truyền tải và tính toàn vẹn của thông tin trong công chúng, chuyển tiếp và đảm bảo tuân thủ các sắc lệnh do Giáo Viện đưa ra, và điều chỉnh nhiều dịch vụ công do Giáo Viện điều hành, chẳng hạn như thương mại và cung cấp y tế. Họ cũng được cử đi để điều tra những sự cố có thể đe dọa đến trị an.
+
+Ý kiến ​​của công chúng về Mahamata khá trái chiều; một số người cho rằng Mahamata mới hoạt động không hiệu quả và tin rằng họ có thể bị thay thế bằng Akasha, mặc dù điều này khó có thể thay đổi sau khi hệ thống này ngừng hoạt động. Người ta cũng cho rằng Giáo Viện có thể ép buộc sinh viên trở thành Mahamata bất kể ý định của chính sinh viên đó. Điều này đã bị chỉ trích là làm suy yếu mục tiêu giáo dục của Giáo Viện, mặc dù những người khác cho rằng Mahamata quan trọng vì họ phân phát kiến ​​thức của Giáo Viện cho người dân.
+
+Quan Thư Ký, một vị trí hiện đang được nắm giữ bởi Alhaitham, thuộc về Mahamata. Chức danh Quan Giám Sát, hiện đang thuộc về một người phụ nữ không rõ danh tính, cũng có thể là một phần của Mahamata.
+- Alhaitham (Quan Thư Ký)
+- Adel (Mahamata của Cảng Bayda)
+- Barmak (Mahamata của Sở Giao Dịch Kalimi)
+- Mahshid (Mahamata của Cảng Ormos)
+- Nevida (Mahamata của Bimarstan)
+- Panah
+- Afratu
+
+## Matra
+
+Matra là những cán bộ hành chính tại Giáo Viện có trách nhiệm đưa ra các biện pháp kỷ luật đối với các học giả đã phạm phải những hành vi vi phạm học thuật nghiêm trọng. Họ cũng kiểm tra các nguồn thông tin bất hợp pháp, chẳng hạn như Hũ Tri Thức và các cuốn sách bị bán lậu ra ngoài
+
+## Quan Cảng Vụ
+
+Quan Cảng Vụ là một tổ chức hành chính quản lý các hoạt động thương mại và thuế của Sumeru.
+- Shahbandar — Quan Cảng Vụ (Thành Sumeru)
+- Halva — Nhân Viên Thuế Vụ Tập Sự (Thành Sumeru)
+- Reza — Quản Lý Cảng Vụ (Cảng Ormos)
+- Masrur — Thư Ký Cảng Vụ (Cảng Ormos)
+- Dilawar — Giám Sát Giao Dịch, Nhà Trọ Wikala (Cảng Ormos)
+- Gauhar — Giám Sát Giao Dịch, Nhà Trọ Wikala (Cảng Ormos)
+- Shajar — Quản Lý Cảng Vụ (Cảng Bayda)
+- Rena — Quan Cảng Vụ (Cảng Romaritime)
+
+- Vizier: Vizier là viên chức giám sát các vấn đề hành chính tại Đại Khu Bazaar và Con Đường Châu Báu thay mặt cho Giáo Viện, đồng thời giải quyết các thắc mắc của cư dân. - Nizam — Vizier - Fariha — Thư Ký
+
+## Ngôi Đền Im Lặng
+
+Biết rất ít về tổ chức này, nhưng họ được biết là nắm giữ một số quyền hạn nhất định trong Giáo Viện, có thể bao gồm quyền giam giữ các học giả. Tuy nhiên, trong, người ta tiết lộ rằng Ngôi Đền Im Lặng của Giáo Viện thực chất chỉ là một vỏ bọc, vì Ngôi Đền Im Lặng thực sự đã rời khỏi rừng mưa trở lại sa mạc 400 năm trước các sự kiện trong trò chơi bắt đầu do sự tha hóa của các hiền giả, thiết lập một khu vực lớn ở Ốc Đảo Thamud.
+- Cyno (lãnh đạo chính thức)
+- Sethos (lãnh đạo được bổ nhiệm)
+
+## Hiền Giả Khác
+
+Những nhân vật này được cho là đã giữ danh hiệu hiền giả, nhưng học phái và khoảng thời gian của họ không được biết rõ trừ khi có ghi chú khác.
+- Sharnama, cùng thời với thời kỳ Tập sự Dastur của Zandik
+- Biruni, người sáng lập của Purbiruni, năm thế kỷ trước
+- Siman Farrokhzad, Hiền Giả Amurta, cùng thời với quyết định nghỉ hưu của Khayyam
+- Zolfikar
+
+- Học Giả Và Nhân Viên Khác: Các học phái của những thành viên sau đây không được biết đến; những người đã biết học phái sẽ được liệt kê trong phần học phái tương ứng của họ.
+
+- Sinh Viên Khác: Các học phái của những thành viên sau đây không được biết đến; những người đã biết học phái sẽ được liệt kê trong phần học phái tương ứng của họ.
+
+- Thành Viên Đã Tốt Nghiệp Khác Và Thành Viên Cũ: Các học phái của những thành viên sau đây không được biết đến; những người đã biết học phái sẽ được liệt kê trong phần học phái tương ứng của họ.
+
+- Bimarstan: Bimarstan là một bệnh viện công cung cấp dịch vụ chăm sóc y tế miễn phí từ Giáo Viện cho cư dân Sumeru. Các bác sĩ ở đây là các học giả và sinh viên đến từ Amurta.
+
+## Cung Điện Daena
+
+Cung Điện Daena là thư viện của Giáo Viện, mặc dù hiện nay nó ít được sử dụng hơn nhiều do Giáo Viện gần đây dựa vào Akasha nhiều hơn. Các học giả và sinh viên có thể mượn sách về kiến ​​thức chung ở đây. Một số sách chỉ dành cho các học giả cấp cao dùng làm chứng từ văn hiến của họ. Cung Điện Daena được điều hành bởi một Thủ Thư, người quản lý các loại sách.
+
+Giáo Viện đang tìm kiếm một thủ thư mới sau khi thủ thư trước đó tuyên bố nghỉ hưu; hai ứng cử viên hàng đầu hiện nay là Rifaet và Vikram.
+
+## Pardis Dhyai
+
+Pardis Dhyai là một trung tâm nghiên cứu thực vật học do Amurta điều hành. Tighnari duy trì mối quan hệ chặt chẽ với các học giả tại Pardis Dhyai, ​​mặc dù anh tránh xa Thành Sumeru và chính Giáo Viện.
+
+## Lữ Đoàn 30
+
+Lữ Đoàn 30 là một đội lính đánh thuê Eremite có hợp đồng lâu dài với các hiền giả của Giáo Viện Sumeru để giữ gìn hòa bình của Thành Sumeru. Effendi là nhân viên liên lạc của Giáo Viện với Lữ Đoàn 30.
+
+## Fatui
+
+Theo lời kẻ nói dối lão luyện Kasim, một số hiền giả của Giáo Viện "có hợp tác" với Fatui. Mặc dù hiện nay có rất ít bằng chứng về tuyên bố này, nhưng hiền giả Siman Farrokhzad có liên quan đến một bộ tộc Eremite được gọi là Farrokhzadan, những người trước đây đã làm việc cho Fatui; ​​cô ấy đã ra lệnh cho bộ tộc tìm kiếm Aranara,, là một dự án được cho là Il Dottore đang theo đuổi hiện nay.
+
+## Hội Nghi Hoặc
+
+Hội Nghi Hoặc, được Giáo Viện gọi là "Nagarjunites", từng là một trong những học phái. Từ lâu, nó đã tách ra và cắt đứt quan hệ với Giáo Viện, và mặc dù nó vẫn còn một số tín đồ ở khu vực Ốc Đảo Hoang Mạc, nhiều người ở khu vực rừng mưa đã xếp họ vào huyền thoại. Tư tưởng của họ bao gồm "hy sinh để bảo vệ sự kế thừa của tri thức" và "chiến tranh mới là trật tự của Teyvat", những điều mà các học giả Giáo Viện cho là kỳ lạ. Cuốn sách Bài Ca Ánh Sáng đề cập đến một nhân vật tên là Nagarjuna, người được cho là người sáng lập ra học phái này.

@@ -1,0 +1,31 @@
+# Iansan
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+quality: 4
+weapon: Vũ Khí Cán Dài
+element: Lôi
+name: Iansan
+birthday: 08 tháng 08
+constellation: Cương Long
+region: Natlan
+affiliation: Cộng Đồng Trù Phú
+affiliationLabel: Teteocan
+dish: Bữa Ăn Dinh Dưỡng Vàng
+namecard: Không Ngừng Nghỉ
+obtain: Cầu Nguyện
+releaseDate: 2025-03-26
+title: Phôi Đá Bách Luyện
+title2: Huấn Luyện Viên Hàng Đầu Của Teteocan
+voiceEN: [[imdb:nm8632962
+Katrina Salisbury]]<ref name: "A Name Forged in Flames desc">YouTube: Video Giới Thiệu Dẫn Lửa - Danh Tiếng Rèn Từ Lửa (Mô tả video)
+voiceCN: Zhen Li (zh|真理)
+voiceJP: w|Ayaka Ohashi|Ohashi Ayaka (ja|大橋彩香)
+voiceKR: Lee Jae-hyun (ko|이재현)
+
+## Tổng Quan
+
+Iansan là một nhân vật hệ Lôi chơi được trong Genshin Impact.
+
+Iansan là một huấn luyện viên thể hình xuất sắc nhất ở Natlan và là người sáng lập Khóa Huấn Luyện Người Chiến Thắng Nghi Lễ Hành Hương. Hiện tại cô đang là người sở hữu Tên Cổ.

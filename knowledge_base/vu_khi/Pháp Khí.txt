@@ -1,0 +1,16 @@
+# Pháp Khí
+
+## Tổng Quan
+
+type: Loại Vũ Khí
+type2: Hệ Thống Trò Chơi
+
+Pháp Khí là một trong 5 loại Vũ Khí mà Nhân Vật có thể sử dụng trong Genshin Impact.
+
+Do bản chất nguyên tố của chúng, tất cả đòn Tấn Công Thường và đòn Tấn Công Trọng Kích bằng Pháp Khí đều được coi là sát thương nguyên tố. Sát thương Nguyên Tố sẽ phụ thuộc vào Vision của Nhân Vật.
+
+- Tấn Công Thường: Có thể là đòn tấn công một mục tiêu hoặc đòn tấn công diện rộng, tùy thuộc vào Nhân Vật.Mọi đòn tấn công đều áp dụng Nguyên Tố vào mục tiêu.
+
+- Tấn Công Trọng Kích: Thường tiêu tốn một lượng thể lực nhất định, trước khi tung ra một đòn tấn công diện rộng tập trung xung quanh mục tiêu.
+
+- Thánh Di Vật: Các Bộ Thánh Di Vật sau có liên quan đến Pháp Khí.

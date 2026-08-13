@@ -1,0 +1,99 @@
+# Tiếng Thở Dài Vô Tận
+
+## Thông Tin Cơ Bản
+
+id: 15503
+type: Cung
+releaseDate: 2021-03-17
+quality: 5
+base_atk: 46
+2nd_stat_type: Hiệu Quả Nạp Nguyên Tố
+2nd_stat: 12%
+series: Ca Khúc Thời Đại Nghìn Năm
+obtain: Sự Kiện Cầu Nguyện Vũ Khí
+passive: Bài Ca Nỗi Nhớ Ly Biệt
+eff_rank1_var1: 60
+eff_rank2_var1: 75
+eff_rank3_var1: 90
+eff_rank4_var1: 105
+eff_rank5_var1: 120
+eff_rank1_var2: 100
+eff_rank2_var2: 125
+eff_rank3_var2: 150
+eff_rank4_var2: 175
+eff_rank5_var2: 200
+eff_rank1_var3: 20
+eff_rank2_var3: 25
+eff_rank3_var3: 30
+eff_rank4_var3: 35
+eff_rank5_var3: 40
+eff_att1: Tinh Thông Nguyên Tố
+eff_att2: Tấn Công
+eff_att3: Tăng Tấn Công Đội
+eff_att4: Tinh Thông Nguyên Tố Đội
+eff_att5: Cung Cấp Hiệu Quả Cho Đồng Đội
+
+## Effect
+
+Một phần của "Ca Khúc Thời Đại Nghìn Năm" lãng du trong gió. Tinh Thông Nguyên Tố tăng (var1) điểm. Khi Kỹ Năng Nguyên Tố hoặc Kỹ Năng Nộ của nhân vật dùng vũ khí này đánh trúng địch, nhân vật sẽ nhận 1 Lá Bùa Tưởng Nhớ,mỗi 0,2 giây kích hoạt nhiều nhất 1 lần, khi nhân vật ở trong đội phía sau cũng có thể kích hoạt. Khi có 4 Lá Bùa Tưởng Nhớ sẽ tiêu hao tất cả bùa, khiến tất cả nhân vật trong đội đang ở gần nhận hiệu quả "Ca Khúc Thời Đại Nghìn Năm - Bài Ca Ly Biệt": Tinh Thông Nguyên Tố tăng (var2) điểm, tấn công tăng (var3)% trong 12 giây. Trong vòng 20 giây sau khi kích hoạt sẽ không thể nhận Lá Bùa Tưởng Nhớ nữa. Khi các hiệu quả của "Ca Khúc Thời Đại Nghìn Năm" đang kích hoạt,những hiệu quả cùng loại khác sẽ không được cộng dồn.
+
+- Tổng Quan: Tiếng Thở Dài Vô Tận là cung 5 sao nhận được từ Sự Kiện Cầu Nguyện Vũ Khí.
+
+## Ghi Chú Lối Chơi
+
+- Mỗi vũ khí riêng biệt trong chuỗi vũ khí này đều có thể cộng dồn. Việc có nhiều nhân vật cùng trang bị vũ khí này trong đội sẽ không cộng dồn, nhưng Lời Thề Tự Do Cổ Xưa và Tiếng Thở Dài Vô Tận thì có.
+- Tuy nhiên, hiệu quả buff thêm 20% Tấn Công trên tất cả vũ khí Ca Khúc Thời Đại Nghìn Năm sẽ không cộng dồn.
+
+## Câu Chuyện
+
+“Ngọn gió phương Tây sẽ mang theo mùi hương của rượu”
+
+“Ngọn gió giữa núi rừng mang đến tin tức khải hoàn”
+
+“Ngọn gió phương xa lay động trái tim tôi”
+
+“Xào xạc hát lên nỗi nhớ nhung của tôi dành cho bạn”
+
+Xưa kia, có một người kỵ sĩ gương mặt lúc nào cũng cáu kỉnh.
+
+Chỉ có bài ca này mới có thể khiến đôi mày của anh giãn ra đôi chút,
+
+Chỉ có người thiếu nữ nơi quảng trường hát lên bài ca này,
+
+mới có thể giúp anh tạm quên đi trọng trách nặng nề.
+
+Nhưng mùi tanh hôi của thảm hoạ giáng xuống cổ quốc cuối cùng đã lan đến vùng đất này,
+
+Và bài hát phiêu dạt trong niềm hân hoan của gió cũng bị Độc Long nuốt chửng,
+
+Bước chân của con quái vật làm rung chuyển mặt đất, tiếng thở dài và ngọn lửa hừng hực.
+
+Phong Thần không muốn trở thành vua nghe thấy tiếng khóc thảm thiết,
+
+Để bảo vệ cánh đồng xanh gió mát trong giấc mơ của người bạn cũ,
+
+Thức dậy sau một giấc ngủ dài, cùng rồng xanh của bầu trời đấu tranh…
+
+Còn có các Kỵ Sĩ và Đội Kỵ Sĩ cũng chiến đấu vì tổ quốc và quê hương.
+
+Khi con rồng độc ác bị giết ở ngọn núi đóng băng, và khi Thanh Long ngủ vùi trên ngọn tháp của thành cổ,
+
+Người kỵ sĩ đổ máu trong thung lũng. Khi ngã xuống, tất cả những gì anh nhớ chỉ là…
+
+“Hiện tại cô ấy đang đi học nơi xa, chắc chắn sẽ bình an vô sự. Thực là muốn nghe lại tiếng hát của cô ấy”
+
+“Ít nhất Arundolyn và Roland đều khoẻ mạnh. Khi cô trở về nhà, thảm hoạ chắc đã lắng xuống rồi”
+
+Có rất nhiều bài thơ ca tụng Thần và ghi lại những trận chiến của rồng, sau cùng cũng dần bị mai một,
+
+Ca khúc mà thiếu nữ từng rất yêu thích, cũng đã thay đổi sau khi cô trở về nhà.
+
+“Bồ công anh theo gió buổi sáng sớm đi thật xa”
+
+“Gió mùa thu đem về hương thơm của mùa gặt”
+
+“Nhưng cho dù là loại gió gì chăng nữa”
+
+“Cũng không thể mang lại cho tôi sự chú ý của bạn nữa”
+
+Sau khi tiếng hát và nước mắt đã cạn khô, thiếu nữ quyết định hy sinh ngọn lửa sinh mạng để xoá sạch sự biến dạng của thế giới…

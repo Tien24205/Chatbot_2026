@@ -1,0 +1,29 @@
+# Faruzan
+
+## Thông Tin Cơ Bản
+
+type: Chơi Được
+quality: 4
+weapon: Cung
+element: Phong
+name: Faruzan
+birthday: 20 tháng 08
+constellation: Man Đằng Hoa Sức
+region: Sumeru
+affiliation: Học viện Haravatat
+dish: Bánh Ajilenakh Nướng Cổ Điển
+obtain: Cầu Nguyện
+releaseDate: 2022-12-07
+title: Người Giải Bí Ẩn
+title2: "Tiền Bối Haravatat"
+voiceEN: [[imdb:nm9548844
+Chandni Parekh]]<ref name: "character EN/JP">Twitter: Thông báo lồng tiếng Anh và Nhật
+voiceCN: Yan Mengmeng (zh|阎萌萌)
+voiceJP: w|Yui Horie|Horie Yui (ja|堀江 由衣)
+voiceKR: w|ko:김유림_(성우)|Kim You-rim (ko|김유림)
+
+## Tổng Quan
+
+Faruzan là nhân vật hệ Phong chơi được trong Genshin Impact.
+
+Cô là học giả kiệt xuất của Giáo Viện Sumeru, thuộc học viện Haravatat. Trăm năm trước, cô tiếp xúc phải sức mạnh từ Xích Vương, khiến cô có thể sống được tới hiện tại.

@@ -1,0 +1,20 @@
+# Sumire
+
+## Hành Trình Tuyết Của Đấu Sĩ Lửa
+
+type: NPC Sự Kiện
+region: Inazuma
+location: Mondstadt
+affiliation: Shuumatsuban
+
+- Tổng Quan: Sumire là NPC độc quyền sự kiện xuất hiện trong Hành Trình Tuyết Của Đấu Sĩ Lửa.
+
+Có sẵn trong sự kiện Hành Trình Tuyết Của Đấu Sĩ Lửa
+Sumire: Thế nào, muốn khiêu chiến Vua Giáp Băng không?
+Gaumaru: Grr... woof!
+Sumire: Hãy bình tĩnh tập luyện, chắc chắn một ngày nào đó sẽ làm được!
+Sumire: Tại giải đấu võ thuật sắp tới, ngươi sẽ có cơ hội đầu tiên để thể hiện bản thân...
+Sumire: Là thế hệ Ninken mới nhất của Shuumatsuban, ta tin ngươi sẽ đi xa hơn bất kỳ tiền bối nào...
+Sumire: Tất nhiên, ngoài chiến đấu trực tiếp, kỹ năng tìm kiếm cũng phải được tăng cường.
+Sumire: Mục tiêu của giai đoạn tiếp theo, là tìm ra chỗ trốn ngủ của đại sư Sayu trong vòng không quá năm lần thời gian mà tiểu thư Kano Nana đã dùng... Ngươi có tự tin không?
+Gaumaru: Aooouuhhh!

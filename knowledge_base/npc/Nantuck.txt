@@ -1,0 +1,17 @@
+# Nantuck
+
+## Thông Tin Cơ Bản
+
+type: NPC Đại Thế Giới
+type2: NPC
+region: Mondstadt
+affiliation: Hội Câu Cá
+title: Thợ Câu Mondstadt
+voiceEN: [[imdb:nm8538323
+voiceKR: Hong Seung Hyo (홍승효)
+
+- Tổng Quan: Nantuck là một NPC xuất hiện tại Thành Mondstadt, Mondstadt.
+
+- Đàn Cá Ồ Ạt
+
+- Vương Quốc Ánh Trăng - Trao Trọn Tấm Lòng

@@ -1,0 +1,12 @@
+# Shogun
+
+## Thông Tin Cơ Bản
+
+type: NPC
+region: Inazuma
+element: Lôi
+title: Thủ Vệ Vĩnh Hằng
+affiliation: Ei
+affiliation2: Inazuma Shogunate
+
+- Tổng Quan: Shogun là con rối do Ei tạo ra để thay cô trị vì Inazuma, cũng như cơ thể vật lý hiện tại của cô.

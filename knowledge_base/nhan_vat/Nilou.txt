@@ -1,0 +1,25 @@
+# Nilou
+
+## Thông Tin Cơ Bản
+
+title: Vũ Điệu Ánh Sen
+title2: Ngôi Sao Nhà Hát Zubayr
+type: Chơi Được
+quality: 5
+weapon: Kiếm Đơn
+element: Thủy
+name: Nilou
+birthday: 03 tháng 12
+constellation: Thụy Liên
+region: Sumeru
+affiliation: Nhà Hát Zubayr
+dish: Vũ Điệu Quay Cuồng
+obtain: Cầu Nguyện Nhân Vật
+event_name: Cánh Sen Đung Đưa
+releaseDate: 2022-10-14 18:00:00 GMT+8
+voiceEN: Dani Chambers
+voiceCN: Zisu Jiuyue (Lang|zh=紫苏九月|mini=1)
+voiceJP: W|Hisako Kanemoto|Kanemoto Hisako (Lang|ja=金元寿子|mini=1)
+voiceKR: Chae Rim (ko|채림)
+
+- Tổng Quan: Nilou là nhân vật hệ Thủy chơi được trong Genshin Impact.

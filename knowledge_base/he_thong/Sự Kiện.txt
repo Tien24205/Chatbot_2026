@@ -1,0 +1,14 @@
+# Sự Kiện
+
+## Tổng Quan
+
+type: Hệ Thống Trò Chơi
+group: Giao Diện
+
+Sự Kiện là những hoạt động hạn giờ trong Genshin Impact cho phép người chơi nhận thưởng. Người chơi cần phải đạt Hạng Mạo Hiểm Cấp 2 để tham gia sự kiện, hầu hết sự kiện cần có các yêu cầu bổ sung. Một số sự kiện sẽ xuất hiện Nhiệm Vụ, những nhiệm vụ này sẽ biến mất sau khi sự kiện kết thúc.
+
+Có thể truy cập giao diện Tổng Quan Sự Kiện từ Giao Diện Paimon, Bảng Điều Khiển Nhanh, biểu tượng phía trên góc phải màn hình, hoặc phím trên PC.
+
+Một số sự kiện cho phép người chơi bỏ qua các yêu cầu của nhiệm vụ bằng cách sử dụng tính năng Khởi Động Nhanh.
+
+- Danh Sách Sự Kiện: Để xem tất cả các sự kiện từng diễn ra, xem Sự Kiện/Lịch Sử.

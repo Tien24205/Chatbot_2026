@@ -22,7 +22,7 @@ def main() -> None:
         print("CHATBOT TRA CỨU KIẾN THỨC GAME")
         print("=" * 70)
         print(f"\n  {n} chunk · model {config.CHAT_MODEL} · ngưỡng {config.SIMILARITY_THRESHOLD}")
-        print("  Chủ đề: Liên Minh Huyền Thoại, Genshin Impact, Liên Quân Mobile, thuật ngữ game")
+        print("  Chủ đề: wiki Genshin Impact — nhân vật, vũ khí, thánh di vật, khu vực, thuật ngữ")
         print("\n  Lệnh: /nguon  /moi  /thoat\n")
 
         history: list[dict] = []
@@ -74,7 +74,10 @@ def main() -> None:
 
             print(f"\nBot: {ans.text}\n")
 
-            if ans.refused:
+            if ans.refused and ans.refused_by == "model":
+                print(f"  (có tài liệu liên quan {ans.top_similarity:.3f} nhưng không "
+                      f"đoạn nào chứa câu trả lời — model tự nói, không phải ngưỡng)")
+            elif ans.refused:
                 print(f"  (từ chối — độ liên quan cao nhất {ans.top_similarity:.3f} "
                       f"< ngưỡng {config.SIMILARITY_THRESHOLD})")
             else:
