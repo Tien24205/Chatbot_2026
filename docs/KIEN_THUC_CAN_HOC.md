@@ -290,6 +290,99 @@ lý do), `requirements-dev.txt` (ghi nguyên đường vượt Cloudflare).
 
 ---
 
+## 14. Kỹ thuật lập trình cụ thể rút từ chính code
+
+Phần trên là kiến thức NỀN; phần này là các **mẫu kỹ thuật (pattern) đang sống
+trong từng file** — đọc để nhận ra và tái sử dụng ở dự án khác. Mỗi mẫu ghi rõ
+chỗ nó nằm và vì sao nó tồn tại.
+
+**Singleton khởi tạo lười** — `rag/gemini.py::client()`,
+`rag/pipeline.py::lexicon()`. Tài nguyên đắt (HTTP pool, bộ dò thực thể) tạo
+đúng một lần vào lần dùng đầu, các nơi khác gọi hàm thay vì tự tạo. Trước khi
+gom về một chỗ, embedder và pipeline mỗi bên giữ một client riêng — hai pool
+cho cùng một API key.
+
+**Exception có kiểu để phân loại lỗi** — `rag/retry.py::RateLimited`.
+Hết-hạn-mức khác hẳn lỗi-mạng-thoáng-qua, nên nó là một class riêng để bắt
+riêng. Thứ tự `except RateLimited: raise` ĐỨNG TRƯỚC `except Exception` trong
+`embedder.py` từng là ranh giới giữa "dừng đúng lúc" và "đốt 20 lần hạn mức
+bằng chính nhánh xử lý lỗi".
+
+**Retry với backoff lũy tiến** — `rag/retry.py::with_retry()`. Gặp 429 thì chờ
+rồi thử lại với thời gian chờ tăng dần, có trần số lần. Đi kèm model dự phòng
+ở `pipeline.ask`: hạn mức tính riêng từng model nên model phụ thường vẫn còn
+lượt khi model chính cạn.
+
+**Parser đếm độ sâu thay cho regex** — `09_fetch_fandom.py::_strip_templates`,
+`_split_args`; `rag/graph.py` cũng có bản tương tự cho infobox. Template
+`{{A|{{B}}}}` lồng nhau — regex không đếm được ngoặc, vòng lặp đếm `depth` thì
+được. Biết khi nào regex HẾT khả năng là một kỹ năng riêng.
+
+**Khoá tự nhiên + UPSERT = nạp lại được, nạp chọn lọc được** —
+`rag/store.py::upsert_chunks` với khoá `(source_name, chunk_index)` và
+`ON CONFLICT DO UPDATE`. Nhờ nó: `02_ingest.py` resume sau khi đứt giữa chừng,
+và refetch chỉ phải embed lại 248 file đổi thay vì cả kho (so byte từng file
+trước, DELETE đúng phần đổi).
+
+**Dict-view tách giao diện khỏi ruột** — `streamlit_app.py::to_view()`. UI vẽ
+từ một dict phẳng thay vì object `Answer` — đổi ruột pipeline không vỡ UI, và
+dict đó lưu thẳng JSONB làm lịch sử. Đi kèm quy ước tiến hoá schema: đọc khoá
+mới bằng `view.get(...)` vì bản ghi cũ trong database không có khoá đó.
+
+**Hỏng nhanh và hỏng rõ (fail fast)** — `rag/store.py`:
+`CONNECT_TIMEOUT_SECONDS = 5` (psycopg có thể TREO im lặng khi Docker chưa
+chạy — đo được đứng im 2 phút), `assert_schema_matches` (số chiều .env lệch
+với database thì chết ngay kèm hướng dẫn, không âm thầm trả kết quả rác),
+`zip(..., strict=True)` (nạp thiếu vector thì nổ tại chỗ). Lỗi càng gần gốc
+càng rẻ.
+
+**Whitelist thay vì khớp mở** — `rag/counting.py::_COUNTABLE`,
+`09_fetch_fandom.py::INLINE_TEMPLATES`, `pipeline.py::_SLANG`. Ba danh sách,
+một triết lý: chỉ những mục ĐÃ ĐỐI CHIẾU với dữ liệu thật mới được vào; khớp
+lỏng cho kết quả "sai một cách tự tin" (kind Phản Ứng Nguyên Tố đếm ra 2,
+{{stub}} thành chữ trần). Mở rộng whitelist là hành động có ý thức, có comment.
+
+**Chấm điểm lại ứng viên (re-rank)** — `pipeline.py::expand_with_entities` +
+`store.py::hits_for_ids`. Ứng viên đến từ đồ thị (thứ tự tuỳ ý) được đo lại
+similarity THẬT với câu hỏi rồi mới lấy top — không bao giờ nhét chunk vào ngữ
+cảnh theo thứ tự id. Kèm nguyên tắc "đủ mặt": thực thể nào người dùng nhắc mà
+trang của nó vắng mặt thì được một suất bảo đảm.
+
+**Đồng hồ tách tầng** — `Answer.rewrite_ms / retrieval_ms / llm_ms / verify_ms`
+đo bằng `time.perf_counter()` quanh từng khối. Nhờ tách mới chẩn đoán được
+"18 giây là retry 429 của tầng chat, không phải embedding" hay "24 giây đầu là
+nạp model e5, các câu sau 90ms".
+
+**Bậc thang chi phí kiểm thử** — `00` (chỉ tốn vài request để dò model sống),
+`01`/`07` (offline, 0 đồng, chạy thoải mái), `03` (embedding local, 0 đồng),
+`08` (tốn API — chạy có chủ đích). Việc rẻ chạy trước chặn việc đắt: `01` bắt
+10 lỗi định dạng TRƯỚC khi `02` tiêu tiền embed. `rag/checks.py` là harness
+`check()/report()` tự viết thay pytest — để giữ quy ước file đánh số.
+
+**Kiểm thử giao diện headless** — `streamlit.testing.v1.AppTest`: mô phỏng gõ
+câu hỏi, bấm nút sidebar, đọc caption — mọi tính năng UI (lưu hội thoại, mở
+lại, xoá) đều được kiểm bằng hai "trình duyệt" giả lập tách biệt trước khi
+người dùng chạm vào.
+
+**Monkeypatch để thay tầng vận chuyển** — script refetch nạp `09_fetch_fandom`
+bằng `importlib`, kế thừa `Wiki` và thay mỗi hàm `api()` bằng bản chạy
+`fetch()` trong Chrome qua CDP — script gốc không đổi một dòng nào mà chạy
+được trên đường mạng hoàn toàn khác. Đây là lý do tách `Wiki.api()` thành một
+điểm hẹp ngay từ đầu.
+
+**Config từ .env với mặc định ĐÃ ĐO** — `rag/config.py` + `.env.example`. Mọi
+hằng số có giá trị mặc định đúng trong code, file example chỉ ghi LÝ DO (hạn
+mức đo được của từng model, vì sao 768 chiều, vì sao cổng 5433). Comment là
+tài liệu — người sau đọc example là hiểu cả lịch sử quyết định.
+
+**Connection theo lượt, không cache** — `streamlit_app.py` mở
+`store.connect()` mỗi câu hỏi thay vì giữ một connection bằng
+`st.cache_resource`: Streamlit chạy mỗi phiên trên luồng riêng mà connection
+psycopg không dùng chung giữa các luồng được. Biết KHÔNG cache gì cũng quan
+trọng như biết cache gì.
+
+---
+
 ## Lộ trình học đề xuất
 
 | Giai đoạn | Học gì | Làm gì trong repo |
